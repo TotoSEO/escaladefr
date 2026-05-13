@@ -111,6 +111,11 @@ export default async function SitesPage() {
         section="§ Pilier 01 / Outdoor"
         status="live"
         surface="cool"
+        image={{
+          src: "/hero/falaise.jpg",
+          alt: "Falaise calcaire surplombante face à la mer, grimpeur sur une voie dévers",
+          position: "center 35%",
+        }}
         title={
           <>
             {totalLabel} sites

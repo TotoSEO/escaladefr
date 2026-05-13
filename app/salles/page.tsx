@@ -88,6 +88,11 @@ export default async function SallesPage() {
         section="§ Pilier 02 / Indoor"
         status="live"
         surface="warm"
+        image={{
+          src: "/hero/bloc.jpg",
+          alt: "Grimpeuse en salle de bloc traversant une dalle colorée garnie de prises résines",
+          position: "center 40%",
+        }}
         title={
           <>
             {total.toLocaleString("fr-FR")} salles
