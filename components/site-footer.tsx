@@ -30,7 +30,7 @@ const COLUMNS: { title: string; links: { label: string; href: string }[] }[] = [
 
 export function SiteFooter() {
   return (
-    <footer className="relative overflow-hidden bg-coal-900 text-foreground">
+    <footer className="relative overflow-hidden surface-0 text-foreground">
       <div
         aria-hidden
         className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-primary/30 to-transparent"
@@ -40,10 +40,10 @@ export function SiteFooter() {
         {/* Mega signature */}
         <div className="grid grid-cols-12 items-end gap-8">
           <div className="col-span-12 lg:col-span-8">
-            <p className="font-mono text-[11px] uppercase tracking-[0.28em] text-muted-foreground">
-              § Fin du fichier · Ligne 4 sur 4
-            </p>
-            <h2 className="mt-6 font-display text-[14vw] font-medium leading-[0.88] tracking-[-0.03em] sm:text-[10vw] lg:text-[8vw]">
+            <h2
+              className="font-display font-medium leading-[0.92] tracking-[-0.03em] text-balance"
+              style={{ fontSize: "clamp(2.5rem, 9vw, 7rem)" }}
+            >
               On grimpe{" "}
               <span className="italic text-primary glow-ice-text">tous</span>{" "}
               ici.
