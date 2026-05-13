@@ -30,3 +30,5 @@ venv/
 *.log
 ffme_sne.json
 ffme_sne.csv
+salles_osm.json
+salles_osm.csv
