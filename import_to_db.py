@@ -32,13 +32,16 @@ from dotenv import load_dotenv
 # ─────────────────────────────────────────
 load_dotenv()
 
-DB_CONFIG = {
-    "host":     os.getenv("DB_HOST", "localhost"),
-    "port":     os.getenv("DB_PORT", "5432"),
-    "dbname":   os.getenv("DB_NAME", "escalade"),
-    "user":     os.getenv("DB_USER", "escalade"),
-    "password": os.getenv("DB_PASSWORD", ""),
-}
+# Une URL de connexion suffit. Priorité :
+#   1. DATABASE_URL (cas standard)
+#   2. POSTGRES_URL_NON_POOLING (injecté par l'intégration Vercel × Supabase ;
+#      on préfère la connexion directe au pooler pour un import bulk)
+#   3. POSTGRES_URL
+DATABASE_URL = (
+    os.getenv("DATABASE_URL")
+    or os.getenv("POSTGRES_URL_NON_POOLING")
+    or os.getenv("POSTGRES_URL")
+)
 
 DEFAULT_JSON = Path("ffme_sne.json")
 
@@ -256,7 +259,14 @@ def main():
 
     print(f"Lecture de {src} : {len(data)} entrées")
 
-    conn = psycopg2.connect(**DB_CONFIG)
+    if not DATABASE_URL:
+        sys.exit(
+            "DATABASE_URL non défini. Copie .env.example -> .env et renseigne "
+            "la connection string Supabase (Project Settings > Database > "
+            "Connection string > URI)."
+        )
+
+    conn = psycopg2.connect(DATABASE_URL)
     conn.autocommit = True
 
     try:

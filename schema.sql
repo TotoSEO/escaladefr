@@ -1,18 +1,16 @@
 -- ──────────────────────────────────────────────────────────────
--- escalade-france.fr — Schéma PostgreSQL
+-- escalade-france.fr — Schéma Supabase / PostgreSQL
 -- Table : sites_naturels (SNE — Sites Naturels d'Escalade FFME)
 -- ──────────────────────────────────────────────────────────────
 --
--- Pré-requis :
---   CREATE DATABASE escalade;
---   \c escalade
---   CREATE EXTENSION IF NOT EXISTS postgis;   -- optionnel mais recommandé
+-- Mode d'emploi Supabase :
+--   1. Dashboard > SQL Editor > New query
+--   2. Coller ce fichier en entier > Run
 --
--- Puis lancer ce fichier :
---   psql -d escalade -f schema.sql
+-- PostGIS (optionnel mais recommandé pour les recherches géo) :
+--   Dashboard > Database > Extensions > activer "postgis"
+--   PUIS décommenter le bloc "PostGIS" plus bas et relancer le script.
 -- ──────────────────────────────────────────────────────────────
-
-CREATE EXTENSION IF NOT EXISTS postgis;
 
 CREATE TABLE IF NOT EXISTS sites_naturels (
     id                          INTEGER PRIMARY KEY,
@@ -53,7 +51,6 @@ CREATE TABLE IF NOT EXISTS sites_naturels (
     parking1_lon                DOUBLE PRECISION,
     parking2_lat                DOUBLE PRECISION,
     parking2_lon                DOUBLE PRECISION,
-    geom                        GEOMETRY(Point, 4326),
 
     -- Liens
     suricate_url                TEXT,
@@ -64,7 +61,7 @@ CREATE TABLE IF NOT EXISTS sites_naturels (
     champs_extras               JSONB,
 
     -- Métadonnées
-    scraped_at                  TIMESTAMP DEFAULT NOW()
+    scraped_at                  TIMESTAMPTZ DEFAULT NOW()
 );
 
 -- Index utiles pour le site
@@ -74,4 +71,30 @@ CREATE INDEX IF NOT EXISTS idx_sites_departement ON sites_naturels (departement)
 CREATE INDEX IF NOT EXISTS idx_sites_massif      ON sites_naturels (massif);
 CREATE INDEX IF NOT EXISTS idx_sites_cotation    ON sites_naturels (cotation_min, cotation_max);
 CREATE INDEX IF NOT EXISTS idx_sites_coords      ON sites_naturels (latitude, longitude);
-CREATE INDEX IF NOT EXISTS idx_sites_geom        ON sites_naturels USING GIST (geom);
+
+-- ──────────────────────────────────────────────────────────────
+-- Row Level Security
+-- Supabase active RLS par défaut. Sans policy explicite, la clé anon
+-- ne peut RIEN lire. Le site étant public, on autorise la lecture
+-- anonyme — les écritures restent réservées au service_role.
+-- ──────────────────────────────────────────────────────────────
+ALTER TABLE sites_naturels ENABLE ROW LEVEL SECURITY;
+
+DROP POLICY IF EXISTS "Lecture publique des sites naturels" ON sites_naturels;
+CREATE POLICY "Lecture publique des sites naturels"
+    ON sites_naturels
+    FOR SELECT
+    TO anon, authenticated
+    USING (true);
+
+-- ──────────────────────────────────────────────────────────────
+-- PostGIS (optionnel) — à exécuter APRÈS avoir activé l'extension
+-- dans Dashboard > Database > Extensions > postgis
+-- ──────────────────────────────────────────────────────────────
+-- ALTER TABLE sites_naturels
+--     ADD COLUMN IF NOT EXISTS geom GEOMETRY(Point, 4326);
+-- CREATE INDEX IF NOT EXISTS idx_sites_geom
+--     ON sites_naturels USING GIST (geom);
+-- UPDATE sites_naturels
+--     SET geom = ST_SetSRID(ST_MakePoint(longitude, latitude), 4326)
+--     WHERE latitude IS NOT NULL AND longitude IS NOT NULL AND geom IS NULL;
