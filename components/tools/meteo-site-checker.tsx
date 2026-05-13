@@ -216,14 +216,29 @@ export function MeteoSiteChecker({ sites }: Props) {
 
       {/* Légende */}
       {selected && days.length > 0 && (
-        <div className="flex flex-wrap items-center gap-3 text-xs text-muted-foreground sm:text-sm">
-          <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
-            Légende
-          </span>
-          <LegendChip verdict="good" />
-          <LegendChip verdict="ok" />
-          <LegendChip verdict="bad" />
-          <LegendChip verdict="night" />
+        <div className="space-y-4 rounded-2xl border border-white/10 bg-coal-900/60 p-5 sm:p-6">
+          <div>
+            <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
+              Comment lire chaque case
+            </span>
+            <div className="mt-3 grid gap-3 sm:grid-cols-2">
+              <p className="text-xs leading-relaxed text-muted-foreground sm:text-sm">
+                <span className="text-foreground">Couleur de la case</span> = verdict grimpabilité. <span className="text-primary">Bleu</span> = idéal, <span className="text-accent">orange</span> = correct, <span className="text-red-400">rouge</span> = à éviter, gris = nuit.
+              </p>
+              <p className="text-xs leading-relaxed text-muted-foreground sm:text-sm">
+                <span className="text-foreground">Chiffre central</span> = température en °C. <span className="text-foreground">☁ %</span> = couverture nuageuse. <span className="text-foreground">💧 mm</span> = pluie attendue cette heure-là (absent si zéro).
+              </p>
+            </div>
+          </div>
+          <div className="flex flex-wrap items-center gap-2 border-t border-white/10 pt-4">
+            <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
+              Verdicts
+            </span>
+            <LegendChip verdict="good" />
+            <LegendChip verdict="ok" />
+            <LegendChip verdict="bad" />
+            <LegendChip verdict="night" />
+          </div>
         </div>
       )}
     </div>
@@ -243,6 +258,7 @@ function LegendChip({ verdict }: { verdict: Verdict }) {
 function DayRow({ day }: { day: DayBucket }) {
   const dayHours = day.hours.filter((h) => h.verdict !== "night");
   const visibleHours = dayHours.length > 0 ? dayHours : day.hours;
+  const goodInWindow = day.bestWindow?.verdict === "good";
 
   return (
     <article className="rounded-2xl border border-white/10 bg-coal-900 p-5 sm:p-6">
@@ -254,20 +270,25 @@ function DayRow({ day }: { day: DayBucket }) {
           <p className="mt-1 font-mono text-[11px] uppercase tracking-[0.22em] text-muted-foreground">
             {day.tempMin.toFixed(0)}° → {day.tempMax.toFixed(0)}°
             <span className="mx-2 text-white/15">·</span>
-            {day.precipSum.toFixed(1)} mm
+            <span>💧 {day.precipSum.toFixed(1)} mm</span>
             <span className="mx-2 text-white/15">·</span>
-            ☀ {frTime(day.sunrise)} – {frTime(day.sunset)}
+            <span>☀ {frTime(day.sunrise)} – {frTime(day.sunset)}</span>
           </p>
         </div>
         {day.bestWindow && (
-          <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-primary">
-            Meilleur créneau · {frHour(day.bestWindow.start)} – {frHour(new Date(day.bestWindow.end.getTime() + 3600 * 1000))}
+          <p
+            className={`font-mono text-[11px] uppercase tracking-[0.22em] ${
+              goodInWindow ? "text-primary" : "text-accent"
+            }`}
+          >
+            {goodInWindow ? "Meilleur créneau · " : "Créneau correct · "}
+            {frHour(day.bestWindow.start)} – {frHour(new Date(day.bestWindow.end.getTime() + 3600 * 1000))}
           </p>
         )}
       </header>
 
       <div className="mt-5 overflow-x-auto">
-        <div className="flex min-w-[640px] gap-1">
+        <div className="flex min-w-[680px] gap-1">
           {visibleHours.map((h) => (
             <HourCell key={h.iso} h={h} />
           ))}
@@ -277,22 +298,36 @@ function DayRow({ day }: { day: DayBucket }) {
   );
 }
 
+const VERDICT_DOT: Record<Verdict, string> = {
+  good: "✓",
+  ok: "~",
+  bad: "✕",
+  night: "·",
+};
+
 function HourCell({ h }: { h: HourEvaluation }) {
   const colorClass = VERDICT_COLOR[h.verdict];
   return (
     <div
-      className={`group relative flex w-14 shrink-0 flex-col items-center gap-1 rounded-lg px-1 py-2 transition-transform hover:-translate-y-0.5 sm:w-16 ${colorClass}`}
+      className={`group relative flex w-[68px] shrink-0 flex-col gap-0.5 rounded-lg px-2 py-2 transition-transform hover:-translate-y-0.5 sm:w-[78px]`}
       title={`${frHour(h.date)} · ${h.temp.toFixed(0)}°C · ${h.reason}`}
     >
-      <span className="font-mono text-[10px] uppercase tracking-[0.22em]">
-        {frHour(h.date)}
-      </span>
-      <span className="font-display text-base font-medium tabular-nums sm:text-lg">
+      <div className={`absolute inset-0 rounded-lg ${colorClass}`} aria-hidden />
+      <div className="relative flex w-full items-center justify-between font-mono text-[9px] uppercase tracking-[0.18em]">
+        <span>{frHour(h.date)}</span>
+        <span className="opacity-80">{VERDICT_DOT[h.verdict]}</span>
+      </div>
+      <span className="relative text-center font-display text-xl font-medium tabular-nums leading-none sm:text-2xl">
         {h.temp.toFixed(0)}°
       </span>
-      <span className="font-mono text-[9px] uppercase opacity-80">
-        {h.precip > 0 ? `${h.precip.toFixed(1)}mm` : `${h.cloud.toFixed(0)}%`}
-      </span>
+      <div className="relative flex w-full items-center justify-between font-mono text-[9px] tabular-nums">
+        <span className="opacity-90">☁{h.cloud.toFixed(0)}</span>
+        {h.precip > 0 ? (
+          <span className="font-semibold">💧{h.precip.toFixed(1)}</span>
+        ) : (
+          <span className="opacity-40">—</span>
+        )}
+      </div>
     </div>
   );
 }

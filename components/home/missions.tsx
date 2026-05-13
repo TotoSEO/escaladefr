@@ -37,8 +37,8 @@ const MISSIONS: Mission[] = [
   {
     step: "III",
     title: "Outils",
-    tagline: "Convertisseur, météo, calculateurs.",
-    body: "Tout ce qui aide à planifier ou à apprendre. Le convertisseur de cotations est déjà disponible.",
+    tagline: "Convertisseur, météo, jonctions.",
+    body: "Trois outils déjà en ligne : conversion de cotations entre tous les systèmes, bulletin météo Open-Meteo par site avec verdict horaire, et calculateur de jonctions pour grandes voies.",
     href: "/outils",
     status: "live",
     icon: Wrench,
@@ -110,9 +110,8 @@ export function Missions() {
                 <button
                   type="button"
                   key={m.step}
-                  onMouseEnter={() => setActive(i)}
-                  onFocus={() => setActive(i)}
                   onClick={() => setActive(i)}
+                  aria-pressed={isActive}
                   className={`group flex w-full items-center gap-4 rounded-xl px-4 py-5 text-left transition-colors sm:px-5 ${
                     isActive
                       ? "bg-white/[0.06] text-foreground"

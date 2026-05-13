@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { ArrowUpRight } from "lucide-react";
+import { ArrowUpRight, CloudSun, Ruler, Scale } from "lucide-react";
 
 import { PageShell, PageHeader } from "@/components/page-shell";
 
@@ -14,40 +14,38 @@ export const metadata: Metadata = {
 type Tool = {
   num: string;
   title: string;
+  tagline: string;
   desc: string;
   href: string;
-  status: "live" | "soon" | "later";
+  icon: React.ComponentType<{ className?: string }>;
 };
 
 const TOOLS: Tool[] = [
   {
     num: "I",
     title: "Convertisseur de cotations",
-    desc: "Français, UIAA, YDS américain, britannique. Pour la voie et pour le bloc (Font et V-scale). Tableau de référence complet inclus.",
+    tagline: "Français · UIAA · YDS · GB",
+    desc: "Quatre systèmes côte à côte, pour la voie et pour le bloc (Font et V-scale). Tableau de référence complet inclus.",
     href: "/outils/cotations",
-    status: "live",
+    icon: Scale,
   },
   {
     num: "II",
     title: "Météo escalade par site",
-    desc: "Bulletin Open-Meteo heure par heure sur cinq jours, croisé avec l'orientation de la falaise. Pour savoir si Buoux est faisable cet aprem.",
+    tagline: "Cinq jours, heure par heure",
+    desc: "Bulletin Open-Meteo croisé avec l'orientation de la falaise. Verdict idéal / correct / à éviter par créneau, meilleure fenêtre du jour identifiée.",
     href: "/outils/meteo",
-    status: "live",
+    icon: CloudSun,
   },
   {
     num: "III",
     title: "Calculateur de jonctions",
-    desc: "Pour les grandes voies. Hauteur totale, nombre de relais, corde dispo. On valide que ça passe et on compte les rappels pour la descente.",
+    tagline: "Grande voie · cordes · rappels",
+    desc: "Hauteur, nombre de relais, corde dispo. On valide que ça passe et on compte les rappels descente avec alertes contextuelles.",
     href: "/outils/jonctions",
-    status: "live",
+    icon: Ruler,
   },
 ];
-
-const STATUS_LABEL: Record<Tool["status"], string> = {
-  live: "En ligne",
-  soon: "En cours",
-  later: "À venir",
-};
 
 export default function OutilsPage() {
   const jsonLd = {
@@ -75,7 +73,7 @@ export default function OutilsPage() {
           position: i + 1,
           name: t.title,
           description: t.desc,
-          url: t.status === "live" ? `https://escalade-france.fr${t.href}` : undefined,
+          url: `https://escalade-france.fr${t.href}`,
         })),
       },
     ],
@@ -93,157 +91,137 @@ export default function OutilsPage() {
         surface="warm"
         title={
           <>
-            Quatre outils
+            Trois outils
             <br />
             qui{" "}
             <span className="italic text-primary glow-ice-text">vont servir</span>.
           </>
         }
-        subtitle="Une suite d'outils interactifs gratuits, pensés pour les questions qu'on se pose vraiment au moment de planifier une session, comparer deux sites, ou comprendre une cotation."
+        subtitle="Une suite d'outils interactifs gratuits, pensés pour les questions qu'on se pose vraiment au moment de planifier une session, comparer deux sites ou comprendre une cotation."
       />
 
-      {/* Outil vedette */}
+      {/* 3 outils en colonnes */}
       <section className="relative surface-1 text-foreground">
-        <div className="mx-auto max-w-7xl px-5 py-14 sm:px-8 sm:py-20 lg:px-12">
-          <Link
-            href="/outils/cotations"
-            className="group relative block overflow-hidden rounded-3xl border border-primary/40 bg-coal-900 p-7 transition-all hover:border-primary sm:p-10 lg:p-14"
-          >
-            <div
-              aria-hidden
-              className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_85%_15%,rgba(125,222,255,0.18),transparent_55%)]"
-            />
-            <div className="relative grid grid-cols-12 items-center gap-8">
-              <div className="col-span-12 lg:col-span-8">
-                <div className="flex items-center gap-3">
-                  <span className="inline-flex items-center gap-2 rounded-full border border-primary/40 bg-primary/10 px-2.5 py-1 font-mono text-[9px] uppercase tracking-[0.22em] text-primary">
-                    <span className="relative flex h-1.5 w-1.5">
-                      <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-primary opacity-75" />
-                      <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-primary" />
-                    </span>
-                    En ligne
-                  </span>
-                  <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
-                    Outil vedette
-                  </span>
-                </div>
-                <h2
-                  className="mt-6 font-display font-medium leading-[0.96] tracking-[-0.025em] text-balance"
-                  style={{ fontSize: "clamp(2rem, 5.4vw, 4.5rem)" }}
-                >
-                  Convertisseur de cotations
-                  <span className="block italic text-primary glow-ice-text">
-                    français · UIAA · YDS · GB
-                  </span>
-                </h2>
-                <p className="mt-5 max-w-2xl text-base leading-relaxed text-muted-foreground sm:text-lg">
-                  Choisis une cotation, on te donne ses équivalences dans tous
-                  les systèmes. Pour la voie comme pour le bloc.
-                </p>
-              </div>
-              <div className="col-span-12 flex items-center gap-3 lg:col-span-4 lg:justify-end">
-                <span className="inline-flex h-14 items-center gap-3 rounded-full bg-primary px-6 font-mono text-xs font-semibold uppercase tracking-[0.18em] text-primary-foreground transition-transform group-hover:scale-[1.02] sm:h-16 sm:px-8">
-                  Ouvrir l&apos;outil
-                  <span className="flex h-8 w-8 items-center justify-center rounded-full bg-coal-900 text-primary transition-transform group-hover:rotate-45">
-                    <ArrowUpRight className="h-4 w-4" />
-                  </span>
-                </span>
-              </div>
-            </div>
-          </Link>
+        <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 sm:py-24 lg:px-12 lg:py-28">
+          <div className="grid grid-cols-1 gap-5 sm:gap-6 lg:grid-cols-3">
+            {TOOLS.map((t) => (
+              <ToolCard key={t.num} tool={t} />
+            ))}
+          </div>
         </div>
       </section>
 
-      {/* Liste des outils */}
+      {/* Garanties */}
       <section className="relative surface-2 text-foreground">
         <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
-        <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 sm:py-24 lg:px-12">
-          <div className="mb-8 flex items-center gap-3 sm:mb-12">
-            <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
-              § Toute la suite
-            </span>
-          </div>
-
-          <div className="space-y-px overflow-hidden rounded-2xl border border-white/10">
-            {TOOLS.map((t, i) => {
-              const isLive = t.status === "live";
-              const inner = (
-                <div className="grid grid-cols-12 items-baseline gap-x-4 sm:gap-x-8">
-                  <span
-                    className={`col-span-3 font-display font-medium italic leading-none tracking-[-0.04em] transition-colors sm:col-span-2 ${
-                      isLive ? "text-primary" : "text-foreground/15"
-                    }`}
-                    style={{ fontSize: "clamp(3rem, 7vw, 6rem)" }}
-                  >
-                    {t.num}
-                  </span>
-                  <div className="col-span-9 flex flex-col gap-3 sm:col-span-7">
-                    <div className="flex flex-wrap items-center gap-2">
-                      <h3
-                        className="font-display font-medium tracking-[-0.02em]"
-                        style={{ fontSize: "clamp(1.4rem, 2.8vw, 2.25rem)" }}
-                      >
-                        {t.title}
-                      </h3>
-                      <span
-                        className={`inline-flex items-center gap-2 rounded-full border px-2.5 py-1 font-mono text-[9px] uppercase tracking-[0.22em] ${
-                          isLive
-                            ? "border-primary/40 bg-primary/10 text-primary"
-                            : "border-white/15 bg-white/5 text-muted-foreground"
-                        }`}
-                      >
-                        {isLive && (
-                          <span className="relative flex h-1.5 w-1.5">
-                            <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-primary opacity-75" />
-                            <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-primary" />
-                          </span>
-                        )}
-                        {STATUS_LABEL[t.status]}
-                      </span>
-                    </div>
-                    <p className="max-w-3xl text-base text-muted-foreground sm:text-lg">
-                      {t.desc}
-                    </p>
-                  </div>
-                  <span
-                    className={`col-span-12 mt-3 inline-flex items-center justify-end gap-2 font-mono text-[10px] uppercase tracking-[0.22em] transition-colors sm:col-span-3 sm:mt-0 sm:text-xs ${
-                      isLive
-                        ? "text-foreground/70 group-hover:text-primary"
-                        : "text-muted-foreground"
-                    }`}
-                  >
-                    {isLive ? (
-                      <>
-                        Ouvrir
-                        <ArrowUpRight className="h-4 w-4 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
-                      </>
-                    ) : (
-                      "Bientôt"
-                    )}
-                  </span>
-                </div>
-              );
-
-              return (
-                <article key={i}>
-                  {isLive ? (
-                    <Link
-                      href={t.href}
-                      className="group block bg-coal-900 p-6 transition-colors hover:bg-coal-800 sm:p-10"
-                    >
-                      {inner}
-                    </Link>
-                  ) : (
-                    <div className="group bg-coal-900 p-6 sm:p-10">
-                      {inner}
-                    </div>
-                  )}
-                </article>
-              );
-            })}
+        <div className="mx-auto max-w-7xl px-5 py-20 sm:px-8 sm:py-28 lg:px-12">
+          <div className="grid grid-cols-12 gap-y-10 sm:gap-x-12">
+            <div className="col-span-12 sm:col-span-4 lg:col-span-3">
+              <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+                § Le contrat
+              </span>
+            </div>
+            <div className="col-span-12 sm:col-span-8 lg:col-span-9">
+              <h2
+                className="font-display font-medium leading-[0.96] tracking-[-0.02em] text-balance"
+                style={{ fontSize: "clamp(1.85rem, 5vw, 4.4rem)" }}
+              >
+                Gratuits,{" "}
+                <span className="italic text-primary glow-ice-text">
+                  sans inscription, sans tracker
+                </span>
+                .
+              </h2>
+              <div className="mt-12 grid gap-8 sm:grid-cols-2 sm:gap-10">
+                <Guarantee
+                  title="Aucune donnée perso collectée"
+                  body="Les calculs sont faits côté navigateur. Aucun envoi, aucun enregistrement de tes recherches, pas de cookie tiers, pas d'analytics intrusif. Tu peux désactiver JavaScript pour le convertisseur, il reste partiellement utilisable."
+                />
+                <Guarantee
+                  title="Données ouvertes et citées"
+                  body="La météo vient d'Open-Meteo (licence CC-BY 4.0). Les coordonnées des sites viennent du recensement officiel français. Chaque source est citée sur la page concernée, sans paywall ni dépendance commerciale."
+                />
+                <Guarantee
+                  title="Pas d'API à acheter, pas de quota"
+                  body="On n'utilise que des APIs gratuites et stables. Le convertisseur tourne offline. La météo a un quota généreux Open-Meteo non payant. Le calculateur de jonctions n'utilise rien d'externe."
+                />
+                <Guarantee
+                  title="Mis à jour quand ça change"
+                  body="Si une cotation évolue, si Open-Meteo change son API, si une formule de calcul mérite révision, on met à jour et on l'écrit dans le changelog. Le code est en clair, vérifiable, et améliorable."
+                />
+              </div>
+            </div>
           </div>
         </div>
       </section>
     </PageShell>
+  );
+}
+
+function ToolCard({ tool }: { tool: Tool }) {
+  const Icon = tool.icon;
+  return (
+    <Link
+      href={tool.href}
+      className="group relative flex h-full flex-col overflow-hidden rounded-3xl border border-white/10 bg-coal-900 p-7 transition-all hover:border-primary/50 hover:bg-coal-800 sm:p-9"
+    >
+      <div
+        aria-hidden
+        className="pointer-events-none absolute -right-10 -top-10 font-display text-[11rem] font-medium italic leading-none tracking-[-0.04em] text-foreground/[0.04] sm:text-[14rem]"
+      >
+        {tool.num}
+      </div>
+
+      <div className="relative flex items-center justify-between">
+        <div className="flex h-12 w-12 items-center justify-center rounded-full border border-primary/30 bg-primary/10 text-primary">
+          <Icon className="h-5 w-5" />
+        </div>
+        <span className="inline-flex items-center gap-2 rounded-full border border-primary/40 bg-primary/10 px-2.5 py-1 font-mono text-[9px] uppercase tracking-[0.22em] text-primary">
+          <span className="relative flex h-1.5 w-1.5">
+            <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-primary opacity-75" />
+            <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-primary" />
+          </span>
+          En ligne
+        </span>
+      </div>
+
+      <div className="relative mt-10 flex flex-1 flex-col">
+        <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
+          {tool.tagline}
+        </span>
+        <h2
+          className="mt-3 font-display font-medium leading-[0.96] tracking-[-0.025em]"
+          style={{ fontSize: "clamp(1.5rem, 3vw, 2.1rem)" }}
+        >
+          {tool.title}
+        </h2>
+        <p className="mt-4 text-sm leading-relaxed text-muted-foreground sm:text-base">
+          {tool.desc}
+        </p>
+      </div>
+
+      <div className="relative mt-8 flex items-center justify-between border-t border-white/10 pt-5 font-mono text-[10px] uppercase tracking-[0.22em] text-foreground/70 transition-colors group-hover:text-primary">
+        Ouvrir l&apos;outil
+        <span className="flex h-9 w-9 items-center justify-center rounded-full border border-white/15 transition-all group-hover:-rotate-12 group-hover:border-primary group-hover:bg-primary group-hover:text-primary-foreground">
+          <ArrowUpRight className="h-4 w-4" />
+        </span>
+      </div>
+    </Link>
+  );
+}
+
+function Guarantee({ title, body }: { title: string; body: string }) {
+  return (
+    <div>
+      <h3
+        className="font-display font-medium tracking-[-0.01em]"
+        style={{ fontSize: "clamp(1.3rem, 2.4vw, 1.875rem)" }}
+      >
+        {title}
+      </h3>
+      <p className="mt-3 max-w-prose text-sm leading-relaxed text-muted-foreground sm:text-base">
+        {body}
+      </p>
+    </div>
   );
 }
