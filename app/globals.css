@@ -1,20 +1,189 @@
 @import "tailwindcss";
+@import "tw-animate-css";
 
+@custom-variant dark (&:is(.dark *));
+
+/* ────────────────────────────────────────────────────────────
+   Design tokens — escalade-france.fr
+   Palette "outdoor / aventure" : pierre, roc, ocre, ardoise, mousse.
+   Mappée sur les tokens sémantiques shadcn pour que tous les
+   composants (Button, Card, Sheet, …) héritent automatiquement.
+   ──────────────────────────────────────────────────────────── */
+
+@theme inline {
+  /* Fonts (injectées par next/font dans layout.tsx) */
+  --font-sans: var(--font-inter), system-ui, -apple-system, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-display: var(--font-fraunces), Georgia, "Times New Roman", serif;
+  --font-heading: var(--font-display);
+
+  /* Bridge shadcn → Tailwind */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+
+  /* Palette de marque directement exposée (utilisable en bg-ember-500 etc.) */
+  --color-stone-bg-50:  #faf7f2;
+  --color-stone-bg-100: #f1ece2;
+  --color-stone-bg-200: #e3dccc;
+  --color-stone-bg-300: #ccc2ad;
+  --color-stone-bg-400: #a99c80;
+  --color-stone-bg-500: #7e735b;
+  --color-stone-bg-600: #5a5141;
+  --color-stone-bg-700: #3d3729;
+  --color-stone-bg-800: #25211a;
+  --color-stone-bg-900: #1b1916;
+
+  --color-ember-50:  #fdf3ec;
+  --color-ember-100: #f9e0cf;
+  --color-ember-200: #f1b893;
+  --color-ember-300: #e58e58;
+  --color-ember-400: #d56e35;
+  --color-ember-500: #b5532a;
+  --color-ember-600: #964120;
+  --color-ember-700: #75321a;
+  --color-ember-800: #532411;
+
+  --color-slate-deep-300: #8093a5;
+  --color-slate-deep-400: #5b7188;
+  --color-slate-deep-500: #3a4a5c;
+  --color-slate-deep-600: #2b3744;
+  --color-slate-deep-700: #1d2530;
+
+  --color-moss-300: #a3ad81;
+  --color-moss-400: #7a8a59;
+  --color-moss-500: #5a6b3f;
+  --color-moss-600: #44522f;
+  --color-moss-700: #303a22;
+
+  /* Radius (shadcn) */
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+}
+
+/* ────────────────────────────────────────────────────────────
+   LIGHT — Jour clair en falaise
+   ──────────────────────────────────────────────────────────── */
 :root {
-  --background: #ffffff;
-  --foreground: #0a0a0a;
+  --background: #faf7f2;       /* pierre claire */
+  --foreground: #1b1916;       /* charbon */
+
+  --card: #ffffff;
+  --card-foreground: #1b1916;
+
+  --popover: #ffffff;
+  --popover-foreground: #1b1916;
+
+  --primary: #b5532a;          /* ocre brûlée (CTA) */
+  --primary-foreground: #faf7f2;
+
+  --secondary: #f1ece2;        /* pierre pâle */
+  --secondary-foreground: #25211a;
+
+  --muted: #f1ece2;
+  --muted-foreground: #5a5141; /* pierre foncée */
+
+  --accent: #e3dccc;
+  --accent-foreground: #25211a;
+
+  --destructive: #b91c1c;
+  --destructive-foreground: #faf7f2;
+
+  --border: #e3dccc;
+  --input: #e3dccc;
+  --ring: #b5532a;
+
+  --chart-1: #b5532a;          /* ember */
+  --chart-2: #3a4a5c;          /* slate-deep */
+  --chart-3: #5a6b3f;          /* moss */
+  --chart-4: #d56e35;
+  --chart-5: #7e735b;
+
+  --radius: 0.625rem;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+/* ────────────────────────────────────────────────────────────
+   DARK — Nuit en bivouac
+   ──────────────────────────────────────────────────────────── */
+.dark {
+  --background: #14110d;
+  --foreground: #efeae0;
+
+  --card: #1d1a14;
+  --card-foreground: #efeae0;
+
+  --popover: #1d1a14;
+  --popover-foreground: #efeae0;
+
+  --primary: #d56e35;          /* ember plus clair, lisible en sombre */
+  --primary-foreground: #1b1916;
+
+  --secondary: #25211a;
+  --secondary-foreground: #efeae0;
+
+  --muted: #25211a;
+  --muted-foreground: #a99c80;
+
+  --accent: #3d3729;
+  --accent-foreground: #efeae0;
+
+  --destructive: #ef4444;
+  --destructive-foreground: #1b1916;
+
+  --border: #2f2a20;
+  --input: #2f2a20;
+  --ring: #d56e35;
+
+  --chart-1: #e58e58;
+  --chart-2: #8093a5;
+  --chart-3: #a3ad81;
+  --chart-4: #f1b893;
+  --chart-5: #ccc2ad;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
   }
-}
-
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
-    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  html {
+    font-family: var(--font-sans);
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+  h1, h2, h3 {
+    font-family: var(--font-display);
+    letter-spacing: -0.015em;
+  }
+  ::selection {
+    background: var(--color-ember-200);
+    color: var(--color-stone-bg-900);
+  }
 }
