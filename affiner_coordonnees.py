@@ -61,9 +61,24 @@ NM_HEADERS = {
 }
 DELAY = 1.1  # >= 1s exigé par les CGU Nominatim
 
-# Tags OSM considérés comme bons matchs pour un site d'escalade
-GOOD_CLASSES = {"natural", "leisure", "sport", "waterway", "tourism"}
-GOOD_TYPES = {"cliff", "rock", "peak", "ridge", "climbing", "sports_centre"}
+# Tags OSM considérés comme bons matchs pour un site d'escalade.
+# Liste blanche stricte (class, type) : on n'accepte que ce qui est
+# géologiquement compatible avec une falaise / un bloc / un site sportif
+# d'escalade. Tout le reste (tree, valley, stream, pitch de foot, etc.)
+# est rejeté pour éviter les faux affinements.
+GOOD_PAIRS = {
+    ("natural", "cliff"),
+    ("natural", "rock"),
+    ("natural", "peak"),
+    ("natural", "ridge"),
+    ("natural", "bare_rock"),
+    ("natural", "stone"),
+    ("natural", "arete"),
+    ("natural", "saddle"),
+    ("sport", "climbing"),
+    ("leisure", "sports_centre"),
+    ("tourism", "viewpoint"),
+}
 
 MIN_DISTANCE_M = 200      # en dessous, on considère que l'original était déjà bon
 MAX_DISTANCE_M = 30000    # au-delà, c'est probablement un mauvais match
@@ -136,24 +151,25 @@ def nominatim_search(query: str, near: tuple[float, float]) -> list[dict]:
 def is_good_match(item: dict) -> bool:
     cls = (item.get("class") or "").lower()
     typ = (item.get("type") or "").lower()
-    return cls in GOOD_CLASSES or typ in GOOD_TYPES
+    return (cls, typ) in GOOD_PAIRS
 
 
 def best_match(items: list[dict], origin: tuple[float, float]) -> Optional[dict]:
     if not items:
         return None
-    # On préfère les matchs "bons" (cliff, climbing, etc.).
+    # Filtre STRICT : on n'accepte que les matchs avec class/type compatibles
+    # escalade (cliff, climbing, rock, sports_centre). Mieux vaut zéro
+    # affinage qu'un mauvais match (poste, mairie, école, etc.).
     good = [i for i in items if is_good_match(i)]
-    pool = good or items
-    if not pool:
+    if not good:
         return None
-    # Parmi le pool, on prend le plus proche en termes de distance Haversine.
+    # Parmi les bons, on prend le plus proche en termes de distance Haversine.
     lat0, lon0 = origin
-    pool_sorted = sorted(
-        pool,
+    good_sorted = sorted(
+        good,
         key=lambda i: haversine_m(lat0, lon0, float(i["lat"]), float(i["lon"])),
     )
-    return pool_sorted[0]
+    return good_sorted[0]
 
 
 def update_site(site_id: int, payload: dict) -> bool:
