@@ -1,4 +1,5 @@
 import { getSupabase } from "@/lib/supabase";
+import { fetchDepartements, departementHref } from "@/lib/sites";
 import { Hero } from "@/components/home/hero";
 import { Manifesto } from "@/components/home/manifesto";
 import { TopDepartements } from "@/components/home/top-departements";
@@ -6,12 +7,14 @@ import { Missions } from "@/components/home/missions";
 
 export const revalidate = 3600;
 
-type DepartementRow = { departement: string | null };
-
 type Stats = {
   total: number | null;
   avecGps: number | null;
-  topDepartements: { departement: string; count: number }[];
+  topDepartements: {
+    departement: string;
+    code_departement: string | null;
+    count: number;
+  }[];
 };
 
 async function getStats(): Promise<Stats> {
@@ -19,36 +22,19 @@ async function getStats(): Promise<Stats> {
   if (!supabase) {
     return { total: null, avecGps: null, topDepartements: [] };
   }
-
   try {
-    const [totalRes, gpsRes, depRes] = await Promise.all([
+    const [totalRes, gpsRes, deps] = await Promise.all([
       supabase.from("sites_naturels").select("*", { count: "exact", head: true }),
       supabase
         .from("sites_naturels")
         .select("*", { count: "exact", head: true })
         .not("latitude", "is", null),
-      supabase
-        .from("sites_naturels")
-        .select("departement")
-        .not("departement", "is", null)
-        .limit(5000),
+      fetchDepartements(),
     ]);
-
-    const rows = (depRes.data as DepartementRow[] | null) ?? [];
-    const counts = new Map<string, number>();
-    for (const row of rows) {
-      if (!row.departement) continue;
-      counts.set(row.departement, (counts.get(row.departement) ?? 0) + 1);
-    }
-    const topDepartements = [...counts.entries()]
-      .map(([departement, count]) => ({ departement, count }))
-      .sort((a, b) => b.count - a.count)
-      .slice(0, 8);
-
     return {
       total: totalRes.count,
       avecGps: gpsRes.count,
-      topDepartements,
+      topDepartements: deps.slice(0, 8),
     };
   } catch {
     return { total: null, avecGps: null, topDepartements: [] };
@@ -112,7 +98,7 @@ export default async function Home() {
                 "@type": "ListItem",
                 position: i + 1,
                 name: d.departement,
-                url: `https://escalade-france.fr/sites?departement=${encodeURIComponent(d.departement)}`,
+                url: `https://escalade-france.fr${departementHref(d.code_departement, d.departement)}`,
               })),
             },
           ]
