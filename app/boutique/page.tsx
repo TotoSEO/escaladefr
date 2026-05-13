@@ -42,6 +42,7 @@ export default function BoutiquePage() {
       <PageHeader
         section="§ Boutique"
         status="later"
+        surface="warm"
         title={
           <>
             Du matos{" "}
@@ -53,19 +54,23 @@ export default function BoutiquePage() {
         subtitle="Bientôt : des sélections de matériel testé sur des sessions réelles. Liens d'affiliation transparents pour soutenir le projet, sans transformer le site en supermarché."
       />
 
-      <section className="relative bg-background">
+      <section className="relative surface-1 text-foreground">
+        <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
         <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 sm:py-24 lg:px-12">
-          <div className="grid grid-cols-1 gap-px overflow-hidden rounded-2xl border border-border bg-border sm:grid-cols-2 lg:grid-cols-3">
+          <div className="grid grid-cols-1 gap-px overflow-hidden rounded-2xl border border-white/10 bg-white/10 sm:grid-cols-2 lg:grid-cols-3">
             {CATEGORIES.map((c, i) => (
               <article
                 key={i}
-                className="group flex items-start gap-4 bg-background p-6 transition-colors hover:bg-secondary sm:p-8"
+                className="group flex items-start gap-4 bg-coal-900 p-6 transition-colors hover:bg-coal-800 sm:p-8"
               >
-                <span className="mt-1 flex h-9 w-9 items-center justify-center rounded-full border border-border text-foreground/80 transition-colors group-hover:border-accent group-hover:text-accent">
+                <span className="mt-1 flex h-9 w-9 items-center justify-center rounded-full border border-white/15 text-foreground/80 transition-colors group-hover:border-accent group-hover:text-accent">
                   <ShoppingBag className="h-4 w-4" />
                 </span>
                 <div>
-                  <h3 className="font-display text-2xl font-medium tracking-[-0.02em] sm:text-3xl">
+                  <h3
+                    className="font-display font-medium tracking-[-0.02em]"
+                    style={{ fontSize: "clamp(1.4rem, 2.6vw, 1.875rem)" }}
+                  >
                     {c.cat}
                   </h3>
                   <p className="mt-2 text-sm text-muted-foreground sm:text-base">
@@ -76,12 +81,15 @@ export default function BoutiquePage() {
             ))}
           </div>
 
-          <div className="mt-16 grid grid-cols-12 gap-y-6 border-t border-border pt-12">
+          <div className="mt-16 grid grid-cols-12 gap-y-6 border-t border-white/10 pt-12">
             <span className="col-span-12 font-mono text-[11px] uppercase tracking-[0.28em] text-primary sm:col-span-4">
               § Notre règle
             </span>
             <div className="col-span-12 sm:col-span-8">
-              <p className="font-display text-3xl font-medium leading-tight tracking-[-0.02em] sm:text-4xl lg:text-5xl">
+              <p
+                className="font-display font-medium leading-[0.96] tracking-[-0.02em] text-balance"
+                style={{ fontSize: "clamp(1.7rem, 4vw, 3.5rem)" }}
+              >
                 Si on ne grimperait pas avec,
                 <br />
                 <span className="italic text-accent">on ne le vend pas</span>.

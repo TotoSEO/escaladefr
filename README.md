@@ -16,7 +16,7 @@ escaladefr/
 │   └── globals.css         Tailwind v4
 ├── lib/
 │   └── supabase.ts         Client @supabase/supabase-js
-├── ffme_sne_scraper.py     Scraper FFME → ffme_sne.json
+├── ffme_sne_scraper.py     Scraper sites naturels → ffme_sne.json
 ├── import_to_db.py         Import JSON → Supabase
 ├── schema.sql              Schéma de la table sites_naturels
 ├── .env.example            Modèle de configuration locale
@@ -61,7 +61,7 @@ Le déploiement sur Vercel est automatique à chaque push sur la branche princip
 
 ---
 
-## Mission 1 — Scraper FFME et peupler la base
+## Mission 1 — Scraper sites naturels et peupler la base
 
 ### 3.1 Scraping
 
@@ -71,7 +71,7 @@ pip install -r requirements.txt
 python ffme_sne_scraper.py
 ```
 
-- Parcourt les IDs FFME `1 → 4000`, s'arrête après 80 vides consécutifs.
+- Parcourt les IDs source `1 → 4000`, s'arrête après 80 vides consécutifs.
 - Délais aléatoires 1.2–2.8 s entre requêtes (ne pas réduire).
 - Durée : ~2 h pour ~3500 fiches.
 - Sortie : `ffme_sne.json` + `ffme_sne.csv` + `ffme_sne.log`.
@@ -103,7 +103,7 @@ SELECT departement, COUNT(*) AS nb
 
 ## Roadmap
 
-- **Mission 1** — Scraping FFME → base SNE *(en cours)*
+- **Mission 1** — Scraping outdoor → base SNE *(en cours)*
 - **Mission 2** — Pages détail des sites + carte interactive (Leaflet/Mapbox)
 - **Mission 3** — Annuaire des salles d'escalade (indoor)
 - **Mission 4** — Comparatif d'équipements (affiliation)

@@ -216,7 +216,7 @@ export function SiteHeader() {
                     />
                   </Link>
                   <p className="mt-4 font-mono text-[10px] uppercase leading-relaxed tracking-[0.18em] text-muted-foreground">
-                    Annuaire indépendant · données FFME · 2026
+                    Annuaire indépendant · 2026
                   </p>
                 </div>
               </div>

@@ -21,7 +21,7 @@ const FAQ = [
   },
   {
     q: "Comment vous récupérez les informations ?",
-    a: "Pour l'instant, à la main. On part de la liste FFME des clubs affiliés, on croise avec les ouvertures récentes (qui ne sont pas toutes affiliées), et on vérifie chaque fiche sur le site officiel de la salle. C'est long, mais c'est le seul moyen d'avoir des infos justes. À terme on ouvrira un formulaire pour que les salles puissent corriger directement leur fiche.",
+    a: "Pour l'instant, à la main. On part des listes publiques de clubs et de salles, on croise avec les ouvertures récentes qui ne sont pas toujours référencées, et on vérifie chaque fiche sur le site officiel de la salle. C'est long, mais c'est le seul moyen d'avoir des infos justes. À terme on ouvrira un formulaire pour que les salles puissent corriger directement leur fiche.",
   },
   {
     q: "Est-ce qu'on peut comparer plusieurs salles ?",
@@ -35,6 +35,7 @@ export default function SallesPage() {
       <PageHeader
         section="§ Pilier 02 / Indoor"
         status="soon"
+        surface="warm"
         title={
           <>
             L&apos;annuaire des{" "}
@@ -46,8 +47,8 @@ export default function SallesPage() {
         subtitle="Bloc, voie, bigwall. Filtre par ville, par discipline, par horaires. La liste complète arrive en juin 2026 avec une carte interactive."
       />
 
-      {/* Aperçu split layout (placeholder) */}
-      <section className="relative overflow-hidden bg-coal-900 text-foreground">
+      {/* Aperçu split layout — surface 1 */}
+      <section className="relative overflow-hidden surface-1 text-foreground">
         <div className="mx-auto max-w-7xl px-5 py-12 sm:px-8 sm:py-20 lg:px-12">
           <div className="grid grid-cols-1 gap-px overflow-hidden rounded-2xl border border-white/10 bg-white/10 lg:grid-cols-[420px_1fr]">
             {/* Colonne gauche : liste filtrable placeholder */}
@@ -113,7 +114,10 @@ export default function SallesPage() {
                 <p className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
                   Carte de France
                 </p>
-                <p className="max-w-sm font-display text-2xl font-medium leading-tight tracking-[-0.01em] sm:text-3xl">
+                <p
+                  className="max-w-sm font-display font-medium leading-tight tracking-[-0.01em]"
+                  style={{ fontSize: "clamp(1.3rem, 3vw, 2rem)" }}
+                >
                   Toutes les salles, visibles d&apos;un coup d&apos;œil.
                 </p>
               </div>
@@ -136,8 +140,9 @@ export default function SallesPage() {
         </div>
       </section>
 
-      {/* SEO content */}
-      <section className="relative bg-background">
+      {/* SEO content — surface 0 noir pur */}
+      <section className="relative surface-0 text-foreground">
+        <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
         <div className="mx-auto max-w-7xl px-5 py-20 sm:px-8 sm:py-28 lg:px-12">
           <div className="grid grid-cols-12 gap-y-10 sm:gap-x-12">
             <div className="col-span-12 sm:col-span-4 lg:col-span-3">
@@ -146,9 +151,15 @@ export default function SallesPage() {
               </span>
             </div>
             <div className="col-span-12 sm:col-span-8 lg:col-span-9">
-              <h2 className="font-display text-[9vw] font-medium leading-[0.95] tracking-[-0.02em] sm:text-[5.2vw] lg:text-[4vw]">
+              <h2
+                className="font-display font-medium leading-[0.96] tracking-[-0.02em] text-balance"
+                style={{ fontSize: "clamp(1.85rem, 4.6vw, 4rem)" }}
+              >
                 Trouver une salle ne devrait pas{" "}
-                <span className="italic text-primary glow-ice-text">prendre 20 minutes</span>.
+                <span className="italic text-primary glow-ice-text">
+                  prendre 20 minutes
+                </span>
+                .
               </h2>
               <div className="mt-10 grid gap-8 text-base leading-relaxed text-muted-foreground sm:grid-cols-2 sm:gap-12 sm:text-lg">
                 <p>
@@ -161,11 +172,10 @@ export default function SallesPage() {
                 <p>
                   L&apos;idée ici, c&apos;est de tout ramener à un endroit
                   unique. La liste complète des salles, classées par ville et
-                  par discipline. Une carte interactive qui te montre ce
-                  qu&apos;il y a autour de toi. Des fiches qui répondent aux
-                  questions concrètes : ça ouvre à quelle heure, c&apos;est
-                  combien le pass séance, est-ce qu&apos;il y a du bloc et de
-                  la voie.
+                  par discipline. Une carte qui te montre ce qu&apos;il y a
+                  autour de toi. Des fiches qui répondent aux questions
+                  concrètes : ça ouvre à quelle heure, c&apos;est combien le
+                  pass séance, est-ce qu&apos;il y a du bloc et de la voie.
                 </p>
               </div>
             </div>
@@ -173,45 +183,54 @@ export default function SallesPage() {
         </div>
       </section>
 
-      {/* FAQ */}
-      <section className="relative bg-coal-800 text-foreground">
+      {/* FAQ — surface chaude */}
+      <section className="relative surface-mesh-warm text-foreground">
+        <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
         <div className="mx-auto max-w-5xl px-5 py-20 sm:px-8 sm:py-28 lg:px-12">
-          <div className="mb-12 sm:mb-16">
+          <div className="mb-10 sm:mb-14">
             <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
               § FAQ
             </span>
-            <h2 className="mt-4 font-display text-[10vw] font-medium leading-[0.95] tracking-[-0.02em] sm:text-[5.5vw] lg:text-[4.4vw]">
+            <h2
+              className="mt-4 font-display font-medium leading-[0.96] tracking-[-0.02em] text-balance"
+              style={{ fontSize: "clamp(1.85rem, 5vw, 4.4rem)" }}
+            >
               Avant qu&apos;on{" "}
-              <span className="italic text-primary glow-ice-text">vous le demande</span>.
+              <span className="italic text-primary glow-ice-text">
+                vous le demande
+              </span>
+              .
             </h2>
           </div>
 
-          <div className="space-y-2">
+          <div className="rounded-2xl border border-white/10 bg-coal-900/60">
             {FAQ.map((item, i) => (
               <details
                 key={i}
-                className="group border-t border-white/10 py-5 transition-colors last:border-b open:bg-white/[0.03] sm:py-7"
+                className="group border-b border-white/10 px-5 py-5 transition-colors last:border-b-0 open:bg-white/[0.03] sm:px-7 sm:py-7"
               >
                 <summary className="flex cursor-pointer list-none items-start justify-between gap-4">
-                  <span className="flex flex-1 items-baseline gap-3 font-display text-xl font-medium tracking-[-0.01em] sm:text-2xl lg:text-3xl">
+                  <span className="flex flex-1 items-baseline gap-3 font-display font-medium tracking-[-0.01em] sm:gap-4">
                     <span className="font-mono text-xs text-muted-foreground tabular-nums">
                       {String(i + 1).padStart(2, "0")}
                     </span>
-                    {item.q}
+                    <span style={{ fontSize: "clamp(1.1rem, 2.2vw, 1.6rem)" }}>
+                      {item.q}
+                    </span>
                   </span>
                   <span className="mt-1 flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-white/15 transition-transform group-open:rotate-45">
                     <span className="block h-3 w-px bg-foreground" />
                     <span className="block h-px w-3 -translate-x-3 bg-foreground" />
                   </span>
                 </summary>
-                <p className="mt-4 max-w-3xl pl-8 pr-8 text-base leading-relaxed text-muted-foreground sm:pl-12 sm:text-lg">
+                <p className="mt-4 max-w-3xl pl-8 pr-1 text-sm leading-relaxed text-muted-foreground sm:pl-12 sm:text-base">
                   {item.a}
                 </p>
               </details>
             ))}
           </div>
 
-          <div className="mt-16 flex flex-col items-start justify-between gap-4 border-t border-white/10 pt-8 sm:flex-row sm:items-center">
+          <div className="mt-12 flex flex-col items-start justify-between gap-4 border-t border-white/10 pt-8 sm:flex-row sm:items-center">
             <p className="max-w-xl text-sm text-muted-foreground">
               Tu gères une salle et tu veux vérifier ses infos avant la mise en
               ligne ? Écris-nous, on prépare un accès dédié pour ça.

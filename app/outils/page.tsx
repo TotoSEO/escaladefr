@@ -37,6 +37,7 @@ export default function OutilsPage() {
       <PageHeader
         section="§ Outils"
         status="soon"
+        surface="warm"
         title={
           <>
             Quatre outils
@@ -48,19 +49,26 @@ export default function OutilsPage() {
         subtitle="On développe une suite d'outils interactifs gratuits, pensés pour les questions qu'on se pose vraiment au moment de planifier une session ou de comparer deux sites."
       />
 
-      <section className="relative bg-background">
+      <section className="relative surface-1 text-foreground">
+        <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
         <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 sm:py-24 lg:px-12">
-          <div className="space-y-px overflow-hidden rounded-2xl border border-border">
+          <div className="space-y-px overflow-hidden rounded-2xl border border-white/10">
             {TOOLS.map((t, i) => (
               <article
                 key={i}
-                className="group grid grid-cols-12 gap-x-4 bg-background p-6 transition-colors hover:bg-secondary sm:gap-x-8 sm:p-10"
+                className="group grid grid-cols-12 gap-x-4 bg-coal-900 p-6 transition-colors hover:bg-coal-800 sm:gap-x-8 sm:p-10"
               >
-                <span className="col-span-3 font-display text-6xl font-medium italic leading-none tracking-[-0.04em] text-foreground/15 transition-colors group-hover:text-primary sm:col-span-2 sm:text-7xl lg:text-8xl">
+                <span
+                  className="col-span-3 font-display font-medium italic leading-none tracking-[-0.04em] text-foreground/15 transition-colors group-hover:text-primary sm:col-span-2"
+                  style={{ fontSize: "clamp(3rem, 7vw, 6rem)" }}
+                >
                   {t.num}
                 </span>
                 <div className="col-span-9 flex flex-col gap-3 sm:col-span-10">
-                  <h3 className="font-display text-2xl font-medium tracking-[-0.02em] sm:text-3xl lg:text-4xl">
+                  <h3
+                    className="font-display font-medium tracking-[-0.02em]"
+                    style={{ fontSize: "clamp(1.4rem, 2.8vw, 2.25rem)" }}
+                  >
                     {t.title}
                   </h3>
                   <p className="max-w-3xl text-base text-muted-foreground sm:text-lg">
