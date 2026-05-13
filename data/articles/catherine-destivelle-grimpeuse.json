@@ -1,0 +1,66 @@
+{
+  "slug": "catherine-destivelle-grimpeuse",
+  "cocon": "personnalites",
+  "type_article": "profil",
+  "numero": 105,
+  "title": "Catherine Destivelle : l'icone francaise des annees 80-90",
+  "h1": "Catherine Destivelle, l'icone francaise de l'escalade des annees 80 et 90",
+  "description": "Portrait de Catherine Destivelle, grimpeuse francaise marquante des annees 80 et 90, du Verdon aux Drus, de la falaise a l'alpinisme en solo.",
+  "chapo": "Catherine Destivelle a fait basculer l'image de la grimpeuse dans le grand public francais. Compétitions au sommet, films culte au Verdon, premieres en alpinisme solitaire dans les Alpes et au Pakistan, journalisme, edition. Son parcours croise toutes les facettes de l'escalade de son epoque et continue d'inspirer celles et ceux qui passent un baudrier pour la premiere fois.",
+  "takeaways": [
+    "Née en 1960, elle commence l'escalade enfant a Fontainebleau et perce a l'adolescence.",
+    "Vainqueur de la compétition de Bardonecchia en 1985 puis dominante du circuit feminin de la fin des annees 80.",
+    "Solo de la face ouest des Drus en 1991 dans le massif du Mont-Blanc.",
+    "Ouverture de la voie Destivelle au pilier ouest du Petit Dru en 1991, repetée par quelques cordées seulement.",
+    "Fondatrice de la maison d'édition Les Editions du Mont-Blanc en 2009.",
+    "Première femme distinguée par le Piolet d'Or Carrière en 2020."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Les débuts a Fontainebleau"},
+    {"type": "p", "html": "Catherine Destivelle naît en 1960 a Oran, en Algerie, et grandit dans la region parisienne. Comme beaucoup d'enfants franciliens des annees 60 et 70, elle decouvre le rocher dans les blocs de Fontainebleau, accompagnée par ses parents amateurs de plein air. Le grès bleausard sert d'ecole. Elle y apprend la lecture des mouvements, la patience devant un bloc qui resiste, le gout de l'effort repete. Plusieurs biographies publiees rapportent qu'elle aurait grimpe pour la premiere fois vers six ans, accrochée a un baudrier improvise."},
+    {"type": "p", "html": "L'adolescence la voit se tourner vers le Club Alpin Francais. Elle enchaîne les courses dans les Alpes, decouvre la falaise dans le sud de la France, frequente les sites embryonnaires de la grimpe sportive francaise. A 15 ans, elle reussit deja la voie de l'<strong>American Direct aux Drus</strong>, un itineraire d'alpinisme reputé pour les jeunes grimpeurs de l'epoque. Cette precocité technique et mentale annonce une carriere qui va se construire sur deux terrains paralleles, la falaise sportive et l'alpinisme engage."},
+    {"type": "p", "html": "Au debut des annees 80, elle s'oriente vers les voies dures du sud. Le <strong>Verdon</strong> devient son terrain de jeu favori, comme pour Patrick Edlinger et la generation qui transforme l'escalade francaise. Tu peux relire le profil de <a href=\"/blog/patrick-edlinger-vie-falaise\">Patrick Edlinger</a> pour saisir l'atmosphere de ces annees verdonnaises ou tout se reinventait, entre falaises calcaires et premieres voies d'envergure."},
+    {"type": "h2", "text": "Les compétitions et la presence mediatique"},
+    {"type": "p", "html": "1985 marque un tournant. La compétition internationale de <strong>Bardonecchia</strong>, en Italie, est l'une des premieres rencontres officielles de grimpe sportive en falaise. Catherine Destivelle s'y impose et devient une figure mediatique. La presse generaliste la suit, les magazines de montagne lui consacrent des couvertures, la television francaise commence a diffuser ses ascensions. Elle remporte ensuite plusieurs compétitions sur le circuit feminin emergent, dans une periode ou la grimpe est en train d'inventer ses regles."},
+    {"type": "p", "html": "L'attention mediatique change l'echelle. Catherine Destivelle franchit la frontiere entre niche sportive et public elargi. Les films la mettent en scene au Verdon, sur les Calanques, dans les Alpes. Le grand public la voit grimper en short, cheveux libres, sourire concentre. C'est une image forte qui contribue a feminiser une discipline jusque-la dominee par les hommes en termes de visibilité, alors que des grimpeuses comme <a href=\"/blog/lynn-hill-nose-yosemite\">Lynn Hill</a> font de leur cote le meme travail aux Etats-Unis."},
+    {"type": "quote", "text": "J'ai toujours grimpé pour le plaisir, pas pour la performance.", "author": "Catherine Destivelle", "role": "propos rapportes dans plusieurs interviews francaises"},
+    {"type": "h2", "text": "Le tournant alpinisme et les solos historiques"},
+    {"type": "p", "html": "A la fin des annees 80, Catherine Destivelle prend ses distances avec la competition. La grimpe sportive lui plait moins, l'engagement et la grandeur des courses alpines la rappellent. Elle bascule vers l'alpinisme. Cette mue est documentee dans plusieurs ouvrages, dont son autobiographie publiee plus tard. Elle s'attaque a des voies engagees dans les Alpes, et surtout au format solo, ou la grimpeuse decide seule, sans cordee, avec un materiel reduit."},
+    {"type": "p", "html": "<strong>1990</strong> et <strong>1991</strong> concentrent ses exploits les plus connus. Elle reussit en solo le pilier Bonatti au Petit Dru en 1990. L'annee suivante, elle ouvre seule une voie a la face ouest du <strong>Petit Dru</strong> sur onze jours d'effort, dans le massif du Mont-Blanc. Cette ligne, depuis nommee voie Destivelle, est repetee par quelques cordees seulement et reste un temoignage de son niveau et de son engagement. Les sources publiques s'accordent sur l'ampleur de l'ascension, meme si les recits varient sur certains details techniques."},
+    {"type": "p", "html": "Au-dela des Alpes, elle s'aventure en haute altitude. Plusieurs sources rapportent une ascension en solo de la face nord de l'<strong>Eiger</strong> en hiver 1992, dans des conditions reputees severes. Elle realise aussi des ascensions au Karakoram, au Tadjikistan, en Antarctique. Cette diversite la place dans la lignee des alpinistes complets, capables de passer de la falaise sportive a la grande montagne. Une trajectoire qu'on retrouve chez d'autres, comme <a href=\"/blog/reinhold-messner-himalaya\">Reinhold Messner</a> qui a lui aussi explore la haute altitude au plus haut niveau."},
+    {"type": "h2", "text": "Les voies emblematiques"},
+    {"type": "list", "variant": "cards", "title": "Quelques itineraires signes ou repetes par Catherine Destivelle", "items": [
+      {"title": "Pichenibule, Verdon", "body": "Une des voies dures du Verdon des annees 80, repetee tres jeune. Calcaire raide, longueurs techniques."},
+      {"title": "American Direct, Petit Dru", "body": "Voie classique reussie a 15 ans, premiere demonstration de niveau en alpinisme rocheux."},
+      {"title": "Pilier Bonatti, Petit Dru", "body": "Solo en 1990 d'une ligne historique du massif du Mont-Blanc."},
+      {"title": "Voie Destivelle, Petit Dru", "body": "Ouverture en solo sur onze jours en 1991, face ouest du Petit Dru."},
+      {"title": "Diren'Ier, Pakistan", "body": "Ascension dans le Karakoram, expedition documentee dans plusieurs articles francais."},
+      {"title": "Face nord de l'Eiger", "body": "Solo hivernal rapporté en 1992, contexte alpin severe."}
+    ]},
+    {"type": "h2", "text": "Ce qu'elle a apporte a l'escalade"},
+    {"type": "p", "html": "Catherine Destivelle a fait plusieurs choses en meme temps. Elle a rendu visible une grimpeuse au plus haut niveau dans une discipline encore tres masculine en termes mediatiques. Elle a montre qu'on pouvait passer de la falaise sportive a l'alpinisme dur sans rupture, dans une continuite logique. Et elle a installe une image francaise de l'escalade qui a influence durablement les magazines, les editeurs et les films de la fin du XXe siecle. Son apport depasse les seuls chiffres de cotation."},
+    {"type": "p", "html": "Elle a aussi contribue a structurer une industrie autour de la grimpe, par le sponsoring de marques specialisees, la diffusion de films de montagne, la participation a des emissions grand public. Pour beaucoup de jeunes filles qui ont commence a grimper dans les annees 90 et 2000, son nom a fait office de boussole. C'est l'un de ces phenomenes ou une figure devient une porte d'entree, comme <a href=\"/blog/grimpeurs-grimpeuses-histoire-france\">le pilier du cocon personnalites</a> tente de le retracer."},
+    {"type": "h2", "text": "Edition, journalisme et second souffle"},
+    {"type": "p", "html": "En 2009, Catherine Destivelle fonde les <strong>Editions du Mont-Blanc</strong>, une maison d'edition specialisee dans le livre de montagne et l'alpinisme. Cette structure publie des biographies, des recits, des beaux livres consacres aux grandes figures historiques. Cette deuxieme vie editoriale lui permet de rester active dans le milieu sans dependre uniquement de la performance sportive. Elle participe aussi a des conferences, des projections, des emissions de radio et de television sur la montagne."},
+    {"type": "p", "html": "Elle a publie plusieurs ouvrages personnels, dont son autobiographie qui detaille son parcours depuis Bleau jusqu'a ses solos alpins. Ces textes ont une valeur de premiere main pour comprendre comment se construisait une carriere de grimpeuse dans les annees 80 et 90. Les lectures publiques en disent long sur la rigueur, la solitude et la passion que demandait ce parcours, dans un contexte ou les femmes en montagne devaient souvent batailler pour faire reconnaitre leur place."},
+    {"type": "h2", "text": "Postérité et distinctions"},
+    {"type": "p", "html": "En 2020, le <strong>Piolet d'Or Carriere</strong> lui a ete decerne. C'est la premiere fois qu'une femme recevait cette distinction, qui recompense l'ensemble d'une vie en montagne. Le jury reunit des alpinistes de premier plan et la decision a ete saluee par la communauté internationale. Cette reconnaissance a ouvert la voie a d'autres distinctions du meme type pour des grimpeuses europeennes et nord-americaines."},
+    {"type": "p", "html": "Aujourd'hui, son nom continue d'apparaitre dans les references francaises, qu'il s'agisse de films, d'articles de presse, de podcasts ou de bibliographies de jeunes grimpeuses. La voie Destivelle aux Drus reste un objectif rarement realise, plus pour la difficulte d'organisation et l'engagement que pour la pure technique. Cette permanence dans la memoire collective montre qu'au-dela des records, c'est un style et une approche qui ont marque. Pour les profils contemporains, regarde <a href=\"/blog/charlotte-durif-multiple-disciplines\">Charlotte Durif</a> qui represente la generation suivante de grimpeuses francaises polyvalentes."}
+  ],
+  "faq": [
+    {"q": "Quel etait le niveau de Catherine Destivelle en falaise ?", "a": "Sources publiques l'indiquent dans le 8a et 8a+ a son meilleur niveau dans les annees 80, ce qui la placait parmi les meilleures grimpeuses mondiales de l'epoque. Les cotations etaient alors plus rares dans le haut du spectre, et les references variaient selon les pays."},
+    {"q": "Pourquoi a-t-elle arrete la competition ?", "a": "Plusieurs interviews francaises rapportent qu'elle preferait l'engagement et la dimension exploratoire de l'alpinisme. Le format compétitif lui semblait restrictif, et elle a choisi de basculer vers les courses solitaires en montagne a partir de la fin des annees 80."},
+    {"q": "Est-elle toujours active dans le milieu ?", "a": "Oui, principalement par les Editions du Mont-Blanc qu'elle a fondees en 2009, ainsi que par des conferences, des films et des participations a des evenements de montagne. Elle reste une voix influente dans le paysage francais."},
+    {"q": "Quelle voie Destivelle peut-on essayer de repeter ?", "a": "La voie Destivelle aux Drus est tres exigeante, peu repetee. Pour s'inspirer plus accessiblement, on peut grimper certaines de ses lignes plus courtes au Verdon ou dans les Calanques, qui restent dans le niveau 6c a 7c selon les sources de topo."},
+    {"q": "Quels sont les films ou livres incontournables sur elle ?", "a": "Son autobiographie publiee chez Arthaud puis reeditee, plusieurs films de montagne diffuses dans les annees 90, et de nombreuses interviews dans la presse francaise comme Vertical ou Grimper. Les Editions du Mont-Blanc qu'elle a creees publient aussi des textes relatifs a son parcours."}
+  ],
+  "cover_alt": "Une grimpeuse en tenue d'alpinisme legere se hisse sur une dalle de granite ensoleillee, corde au baudrier, face a un paysage de massif alpin a l'arriere-plan",
+  "internal_links": [
+    {"slug": "grimpeurs-grimpeuses-histoire-france", "anchor": "le pilier du cocon personnalites", "context": "Pilier general du cocon"},
+    {"slug": "patrick-edlinger-vie-falaise", "anchor": "Patrick Edlinger", "context": "Figure contemporaine du Verdon"},
+    {"slug": "lynn-hill-nose-yosemite", "anchor": "Lynn Hill", "context": "Equivalent feminin nord-americain"},
+    {"slug": "reinhold-messner-himalaya", "anchor": "Reinhold Messner", "context": "Reference alpinisme haute altitude"},
+    {"slug": "charlotte-durif-multiple-disciplines", "anchor": "Charlotte Durif", "context": "Generation francaise suivante"}
+  ],
+  "scheduled_at": "2027-01-02T09:00:00+01:00"
+}

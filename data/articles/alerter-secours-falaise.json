@@ -1,0 +1,79 @@
+{
+  "slug": "alerter-secours-falaise",
+  "cocon": "securite",
+  "type_article": "guide",
+  "numero": 139,
+  "title": "Alerter les secours en falaise : procédure 112 et bilan",
+  "h1": "Alerter les secours en falaise, la procédure qui sauve du temps",
+  "description": "Comment alerter efficacement les secours en falaise, qui appeler du 112 au PGHM, quelles informations transmettre et comment guider l'arrivée des sauveteurs.",
+  "chapo": "Quand l'accident arrive en falaise, l'efficacité de ton appel détermine le temps d'intervention des secours. Cet article t'explique qui appeler selon ton lieu, quelles informations transmettre dans l'ordre, comment partager tes coordonnées GPS et comment guider l'arrivée du PGHM, des CRS Montagne ou du SAMU. Trois minutes bien structurées valent mieux qu'un quart d'heure de panique.",
+  "takeaways": [
+    "Le 112 est le numéro universel d'urgence européen, disponible même sans réseau opérateur.",
+    "En montagne, le PGHM et les CRS Montagne sont les unités spécialisées du secours.",
+    "Donne toujours coordonnées GPS, état du blessé, nombre de personnes, accessibilité.",
+    "Reste en ligne avec le régulateur jusqu'à ce qu'il te dise de raccrocher.",
+    "Place quelqu'un en bord de sentier pour guider les sauveteurs à pied."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Qui appeler selon ton lieu de pratique"},
+    {"type": "p", "html": "Le **112** est le numéro universel d'urgence en Europe. Tu peux l'appeler depuis n'importe quel téléphone, même sans abonnement, même sans réseau de ton opérateur tant qu'un autre opérateur est capté. C'est le réflexe par défaut en falaise. Le régulateur du 112 te bascule vers le service compétent, généralement le SAMU pour le médical ou la gendarmerie pour la coordination."},
+    {"type": "p", "html": "En **montagne et en falaise**, les unités spécialisées sont le **PGHM** (Peloton de Gendarmerie de Haute Montagne) et les **CRS Montagne**. Selon le département, l'un ou l'autre couvre la zone. Tu n'as pas besoin de savoir qui appeler exactement, le 112 fait l'aiguillage. Dans certaines régions, un numéro local secours montagne existe (Chamonix par exemple), mais le 112 fonctionne partout."},
+    {"type": "list", "variant": "cards", "title": "Les numéros à connaître en France", "items": [
+      {"title": "112", "body": "Numéro européen universel, disponible depuis tout téléphone même sans abonnement, recommandé en falaise et zone naturelle."},
+      {"title": "15", "body": "SAMU, urgence médicale en zone urbaine et péri urbaine, opérationnel partout en France métropolitaine."},
+      {"title": "18", "body": "Sapeurs pompiers, intervention sur sinistres et secours à personne en milieu accessible."},
+      {"title": "114", "body": "Numéro d'urgence par SMS pour personnes sourdes, malentendantes ou en zone sans réseau voix."}
+    ]},
+    {"type": "h2", "text": "Le bilan structuré à transmettre"},
+    {"type": "p", "html": "Quand tu appelles, le régulateur attend des informations précises dans un ordre logique. Tu commences par te présenter, puis tu donnes la **localisation précise** (commune, lieu dit, secteur de la falaise, coordonnées GPS si possible). Ensuite, tu décris le **nombre de victimes** et leur état (consciente, respire, saigne). Tu termines par les **circonstances** rapides de l'accident."},
+    {"type": "p", "html": "Le régulateur te posera ensuite des questions ciblées. Tu réponds calmement, tu ne raccroches surtout pas. C'est lui qui décide de la fin de l'appel quand il a toutes les informations. Pendant ce temps, l'alerte est déjà déclenchée dans son système, les équipes peuvent partir en parallèle. Tu peux relire <a href=\"/blog/premiers-secours-escalade\">notre guide des premiers secours en escalade</a> pour gérer la victime en attendant les secours."},
+    {"type": "h2", "text": "Donner ses coordonnées GPS avec précision"},
+    {"type": "p", "html": "Les **coordonnées GPS** sont l'information la plus précieuse en falaise. Ton smartphone t'affiche les coordonnées via plusieurs applications : **Géoportail IGN** (référence en France), Maps me, Google Maps, ou simplement l'application Boussole d'iPhone. Tu lis les coordonnées au régulateur dans le format de l'application. Sur iPhone, les coordonnées s'affichent en degrés décimaux (par exemple 45.1234 N, 5.6789 E)."},
+    {"type": "p", "html": "Si tu connais le nom du **secteur d'escalade** (par exemple Buoux secteur Bistrot, Céüse secteur Les Sangliers), tu le précises. Les unités de secours connaissent les sites majeurs et peuvent géolocaliser sans coordonnées. Sur les sites confidentiels ou peu fréquentés, les coordonnées GPS deviennent indispensables. Tu peux toujours envoyer ta position par SMS si le régulateur te le demande, c'est plus précis qu'une transmission orale."},
+    {"type": "tip", "title": "Activer le GPS avant de grimper", "body": "Active le GPS de ton téléphone dès l'arrivée au parking, même si tu ne l'utilises pas. En cas d'accident, tu auras un point précis immédiat. Beaucoup de smartphones partagent automatiquement la position aux services d'urgence quand on appelle le 112 (fonction AML), mais l'activation manuelle reste la plus fiable.", "tone": "astuce"},
+    {"type": "h2", "text": "Évaluer l'accessibilité du site pour les secours"},
+    {"type": "p", "html": "Les secours veulent savoir comment arriver à toi. Tu précises l'**accessibilité du site** : distance depuis la route, dénivelé, type de sentier (large, escarpé, technique), présence d'un parking, possibilité de poser un hélicoptère, conditions météo locales. Cette information détermine si l'intervention se fait en hélicoptère, en véhicule terrestre ou en équipe pédestre."},
+    {"type": "p", "html": "Si tu es au pied d'une grande falaise isolée comme **Céüse, Verdon, Annot**, l'hélicoptère est la solution standard. Si tu es sur une falaise école accessible en cinq minutes depuis le parking, une équipe terrestre suffit. Tu transmets aussi la **météo locale** (vent, pluie, brouillard) qui peut empêcher un treuillage. Tu peux consulter <a href=\"/blog/helitreuillage-evacuation\">notre fiche sur l'hélitreuillage et l'évacuation</a> pour comprendre la suite."},
+    {"type": "h2", "text": "Rester en ligne et guider les secours"},
+    {"type": "p", "html": "Une fois l'alerte transmise, tu **ne raccroches pas**. Le régulateur peut te rappeler pour préciser des points, ajuster l'intervention, demander une évolution de l'état du blessé. Tu maintiens un contact actif tant qu'il ne te libère pas. Si la batterie de ton téléphone est faible, tu le précises immédiatement et tu désactives tout ce qui consomme (notifications, applications en arrière plan)."},
+    {"type": "p", "html": "Tu prépares ensuite l'arrivée des secours. Tu envoies un membre de la cordée sur le sentier d'accès avec une frontale (la nuit) ou un vêtement coloré visible (le jour) pour les guider. Tu agites les bras en V à l'approche de l'hélicoptère pour signaler oui besoin d'aide. Tu ne fais jamais de croix avec les bras, ce signe signifie au contraire pas besoin d'aide en code international."},
+    {"type": "table", "caption": "Signes internationaux à connaître", "headers": ["Signe", "Signification"], "rows": [
+      ["Bras en V au dessus de la tête", "OUI, besoin d'aide, secours nécessaires"],
+      ["Un bras en haut, un bras en bas", "NON, pas besoin d'aide ou situation maîtrisée"],
+      ["Trois sifflets longs répétés", "Signal de détresse audible, internationalement reconnu"],
+      ["Trois flashs lumineux répétés", "Signal de détresse visible la nuit ou par mauvais temps"],
+      ["Drap rouge ou vêtement coloré", "Marqueur de position au sol pour repérage aérien"]
+    ]},
+    {"type": "h2", "text": "Cas particulier : pas de réseau téléphonique"},
+    {"type": "p", "html": "Certains sites de falaise ne captent aucun réseau. Avant d'aller grimper en zone reculée, repère sur ta sortie le point le plus proche où tu retrouves du signal (parfois une crête à dix minutes de marche). En cas d'accident, **un grimpeur reste avec la victime**, un autre court vers le point de réseau pour appeler. Ne laisse jamais un blessé inconscient seul, sauf urgence absolue."},
+    {"type": "p", "html": "Le **SMS au 114** fonctionne parfois là où la voix ne passe pas, parce qu'il demande moins de bande passante. Tu peux aussi envoyer un message via une balise satellite type Garmin inReach, devenu de plus en plus accessible. Pour la falaise française métropolitaine, c'est rarement nécessaire, mais en haute montagne ou en grande voie isolée, ça change la donne."},
+    {"type": "tip", "title": "Le réflexe message pré rédigé", "body": "Avant de partir en zone reculée, prépare un message d'alerte type sur ton téléphone avec les coordonnées GPS du site, le numéro du 112 et un texte court décrivant un blessé. En situation de stress, tu copies colles, tu envoies, tu gagnes du temps précieux.", "tone": "astuce"},
+    {"type": "h2", "text": "Coordination en cordée : qui fait quoi"},
+    {"type": "p", "html": "Quand l'accident arrive à plusieurs grimpeurs, la coordination compte autant que les gestes. Le **grimpeur expérimenté** s'occupe du bilan victime. Un autre appelle le 112 et reste en ligne. Un troisième prépare l'arrivée des secours (guidage sur sentier, sécurisation de la zone d'atterrissage). Chacun sait ce qu'il a à faire, on évite la dispersion et la perte de temps."},
+    {"type": "p", "html": "Si tu es seul avec le blessé, tu fais tout dans l'ordre PAS : protéger, alerter, secourir. Tu adaptes en fonction de l'état de la victime. Tu peux compléter avec <a href=\"/blog/partenaire-grimpe-confiance\">notre article sur le choix d'un partenaire de grimpe</a>, parce qu'un bon partenaire saura agir correctement en situation d'urgence."},
+    {"type": "h2", "text": "Mon expérience d'alerte au PGHM"},
+    {"type": "p", "html": "Un dimanche matin à Annot, j'ai assisté à une chute en tête sur la voie voisine. Le grimpeur s'était cogné contre un édredon, choc visible à l'épaule, conscient mais douloureux. J'ai appelé le 112 pendant que ma cordée descendait pour aider. Trois minutes d'échange avec le régulateur, transmission des coordonnées via Géoportail, bilan rapide. Vingt minutes plus tard, l'hélicoptère du PGHM survolait le site. Le blessé est reparti à Marseille en moins d'une heure depuis l'accident."},
+    {"type": "p", "html": "Ce que j'ai retenu : le régulateur reste calme et professionnel, il te guide. Tu n'as pas à improviser, tu réponds simplement à ses questions. Ta préparation préalable, c'est connaître les coordonnées de ton site, avoir le téléphone chargé, et savoir que **l'hélitreuillage** est la procédure habituelle en falaise. Le reste vient naturellement."},
+    {"type": "quote", "text": "Le bon appel d'urgence ne sauve pas, il économise les minutes qui sauvent. Tout le système attend que tu sois clair, calme et précis.", "author": "Antoine", "role": "rédacteur escalade-france.fr"},
+    {"type": "h2", "text": "Après l'intervention, le suivi administratif"},
+    {"type": "p", "html": "Une fois la victime prise en charge, ton rôle ne s'arrête pas tout à fait. Si tu es témoin de l'accident, on peut te demander un témoignage pour le dossier de la gendarmerie. Tu notes ce que tu as vu, l'heure, les circonstances, sans interprétation. Tu informes éventuellement la **FFME** si le grimpeur était licencié, pour la déclaration de sinistre."},
+    {"type": "p", "html": "Côté assurance, le blessé devra déclarer l'accident à son assurance personnelle et éventuellement à la FFME. Les frais de secours en montagne sont gratuits en France métropolitaine pour les interventions du PGHM et des CRS Montagne. Les frais médicaux et de transport sanitaire restent à la charge du blessé ou de son assurance. Pour l'étranger, c'est une autre histoire, l'assurance rapatriement devient indispensable."}
+  ],
+  "faq": [
+    {"q": "Quel numéro composer en falaise, 112 ou 15 ?", "a": "Le 112 est le plus fiable en milieu naturel car il fonctionne même sans abonnement et sans réseau de ton opérateur principal. Le régulateur du 112 transfère ensuite vers le SAMU, le PGHM ou les CRS Montagne selon la situation. Tu n'as pas à choisir le bon service, le 112 le fait pour toi."},
+    {"q": "Le secours en montagne est il payant en France ?", "a": "Non, les interventions du PGHM et des CRS Montagne sont gratuites en France métropolitaine, financées par l'État. Seuls les frais médicaux (hôpital, transport sanitaire) restent à la charge du blessé ou de son assurance. Dans certains pays voisins comme la Suisse ou l'Italie, l'intervention héliportée peut être facturée plusieurs milliers d'euros."},
+    {"q": "Comment obtenir ses coordonnées GPS sans application ?", "a": "Sur iPhone, l'application Boussole affiche les coordonnées automatiquement quand le GPS est activé. Sur Android, l'application Google Maps les affiche en appuyant longuement sur ta position. L'application Géoportail IGN reste la référence en France métropolitaine, elle fonctionne aussi hors ligne si tu as téléchargé la zone."},
+    {"q": "Faut il alerter les secours pour un blessé conscient ?", "a": "Oui, dès que la blessure dépasse la simple égratignure ou qu'un doute existe sur sa gravité. Mieux vaut un appel pour rien qu'un blessé qui s'aggrave faute de prise en charge. Les régulateurs du 112 sont formés à évaluer la situation et peuvent te conseiller, voire annuler l'intervention si l'état est rassurant après bilan complet."},
+    {"q": "Que faire si la batterie du téléphone tombe en panne ?", "a": "Demande à un grimpeur voisin de te prêter son téléphone, ou utilise le sien pour rappeler le 112. Préviens immédiatement le régulateur du changement de numéro pour qu'il sache te recontacter. Pense à toujours partir avec un téléphone chargé à 100% et éventuellement une batterie de secours pour les sorties longues."},
+    {"q": "L'assurance FFME couvre t elle les frais de secours ?", "a": "La licence FFME inclut une responsabilité civile et une garantie corporelle qui peut couvrir certains frais selon les options choisies. Les frais de secours en montagne français étant gratuits, la question concerne surtout les frais médicaux post intervention. Vérifie les plafonds de ta licence et ajoute une assurance complémentaire si tu pratiques régulièrement en falaise engagée."}
+  ],
+  "cover_alt": "Grimpeur au pied d'une falaise calcaire téléphonant au 112, téléphone à la main, partenaire au sol assurant les premiers secours d'un blessé conscient",
+  "internal_links": [
+    {"slug": "securite-escalade-regles-essentielles", "anchor": "les règles essentielles de la sécurité en escalade", "context": "Pilier du cocon"},
+    {"slug": "premiers-secours-escalade", "anchor": "notre guide des premiers secours en escalade", "context": "Article frère du cocon"},
+    {"slug": "helitreuillage-evacuation", "anchor": "notre fiche sur l'hélitreuillage et l'évacuation", "context": "Article frère du cocon"},
+    {"slug": "partenaire-grimpe-confiance", "anchor": "notre article sur le choix d'un partenaire de grimpe", "context": "Article frère du cocon"},
+    {"slug": "accidents-escalade-statistiques", "anchor": "les statistiques d'accidents en escalade", "context": "Article frère du cocon"}
+  ],
+  "scheduled_at": "2026-03-23T09:00:00+01:00"
+}

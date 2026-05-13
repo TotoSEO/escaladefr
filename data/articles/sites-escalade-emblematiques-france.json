@@ -1,0 +1,263 @@
+{
+  "slug": "sites-escalade-emblematiques-france",
+  "cocon": "sites",
+  "type_article": "hub",
+  "numero": 4,
+  "title": "Sites d'escalade : les lieux emblématiques en France",
+  "h1": "Sites d'escalade : le panorama français.",
+  "description": "Les sites d'escalade emblématiques en France : Fontainebleau, Verdon, Céüse, Buoux, Calanques. Bloc, sport, grande voie, trad et particularités locales.",
+  "chapo": "Quels sont les sites d'escalade incontournables en France ? Le territoire offre une diversité unique en Europe : le bloc mythique de Fontainebleau, les grandes voies du Verdon, le calcaire bleu de Céüse, les Calanques marseillaises, l'historique Buoux. Je t'emmène à travers les régions, des classiques aux pépites confidentielles.",
+  "takeaways": [
+    "Fontainebleau reste le plus grand site de bloc au monde avec 30 000 problèmes.",
+    "Le Verdon offre les grandes voies les plus aériennes d'Europe en calcaire.",
+    "Céüse propose un calcaire bleu unique avec des voies du 7a au 9b+.",
+    "Les Calanques mélangent grimpe maritime et accès parfois en mer.",
+    "Chaque région française a ses spots adaptés au niveau et à la pratique."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Fontainebleau : la Mecque mondiale du bloc"
+    },
+    {
+      "type": "p",
+      "html": "À une heure au sud de Paris, la forêt de <strong>Fontainebleau</strong> rassemble plus de 30 000 problèmes de bloc répartis sur 300 secteurs. C'est le plus grand site de bloc au monde. Les grimpeurs venus du Japon, des États-Unis ou d'Australie pèlerinent à Bleau pour toucher le grès historique. Bas Cuvier, Cul de Chien, Rocher Canon, Apremont, Franchard, ces noms résonnent dans la mémoire collective de la communauté."
+    },
+    {
+      "type": "p",
+      "html": "Le grès bellifontain a une signature unique : une adhérence exceptionnelle quand il fait sec et frais, et un répertoire de prises qui ne ressemble à rien d'autre. Les fameuses dalles, les arquées, les bombes, les fissures... chaque secteur a sa logique. Découvre <a href=\"/blog/fontainebleau-bloc-foret\">notre dossier complet sur Bleau</a> et <a href=\"/blog/bleau-circuits-debutant\">les circuits débutants accessibles</a> dès la première sortie. Le 7a Bleausard d'Antoine, c'est une autre histoire."
+    },
+    {
+      "type": "h2",
+      "text": "Le Verdon : grande voie reine du Sud-Est"
+    },
+    {
+      "type": "p",
+      "html": "Falaises blanches qui plongent à 300 mètres de profondeur sur la rivière émeraude, le Verdon offre les grandes voies les plus aériennes d'Europe. La paroi du Duc, la Demande, l'Escalès, la Mangoustine... chaque secteur a son histoire écrite par les pionniers des années 70 et 80. Patrick Berhault, François Guillot, ou les frères Rémy ont gravé leur nom dans le calcaire des gorges. Le rocher demande de la lecture, du sens du gaz, et un solide bagage en trad léger."
+    },
+    {
+      "type": "p",
+      "html": "La logistique verdonnesque pèse : on descend en rappel pour atteindre la base de certaines voies, on remonte en grimpant. Pas d'erreur permise. Lis <a href=\"/blog/verdon-grandes-voies\">notre guide des grandes voies du Verdon</a> et <a href=\"/blog/verdon-secteurs-rappel-acces\">les particularités d'accès par rappel</a> avant de t'y aventurer. La saison s'étend d'avril à juin et de septembre à novembre, l'été reste trop chaud."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Les 6 sites incontournables par type de grimpe",
+      "items": [
+        {
+          "title": "Bloc",
+          "body": "Fontainebleau, Annot dans les Alpes-Maritimes, Targassonne dans les Pyrénées-Orientales, le Sidobre tarnais."
+        },
+        {
+          "title": "Sport falaise",
+          "body": "Céüse, Buoux, Saint-Léger-du-Ventoux, Saffres en Bourgogne, les Gorges du Loup."
+        },
+        {
+          "title": "Grande voie calcaire",
+          "body": "Verdon, Calanques, Presles, Mont Aiguille, Aiguilles de Bavella en Corse."
+        },
+        {
+          "title": "Granite haute altitude",
+          "body": "Aiguille du Midi, massif du Mont Blanc, Aiguilles d'Ailefroide, Restonica en Corse."
+        },
+        {
+          "title": "Sites d'initiation",
+          "body": "Saffres (Côte d'Or), Saussois (Yonne), Claudes près de Romans, Aiglun dans les Préalpes."
+        },
+        {
+          "title": "Trad",
+          "body": "Annot, Saussois, certaines parties du Verdon, fissures pyrénéennes. Marché de niche en France."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Céüse : la cathédrale du calcaire bleu"
+    },
+    {
+      "type": "p",
+      "html": "À 2 000 mètres d'altitude au-dessus de Gap dans les Hautes-Alpes, <strong>la falaise de Céüse</strong> jouit d'un statut quasi mystique. Le calcaire bleu compact, les colos millimétrées, les voies de 30 à 40 mètres parfaitement équipées en font le terrain de jeu favori de l'élite mondiale. Biographie 9a+, Realization 9a+, et plus récemment Bibliographie 9b+ ouvert par Alex Megos en 2020 ont marqué l'histoire."
+    },
+    {
+      "type": "p",
+      "html": "La marche d'approche d'une heure trente refroidit les ardeurs des touristes, mais le site mérite l'effort. Une fois là haut, tu trouves de la voie du 6c jusqu'au 9b+, dans un cadre alpin grandiose. Tu peux lire <a href=\"/blog/ceuse-cathedrale-calcaire\">notre dossier dédié à Céüse</a> qui détaille les secteurs, la saison et l'organisation pratique."
+    },
+    {
+      "type": "h2",
+      "text": "Buoux et le Luberon : l'écrin historique"
+    },
+    {
+      "type": "p",
+      "html": "Dans les années 80, Buoux a été le centre du monde. Patrick Edlinger y a ouvert la Rose et le Vampire (7c+), Jibé Tribout y a fait des essais désormais légendaires. Le calcaire kastique sculpté par l'érosion offre des préhension uniques, des arquées et des bombes qui forment le vocabulaire technique du grimpeur français moderne. Le site connaît aujourd'hui une fréquentation moindre mais le rocher reste exceptionnel."
+    },
+    {
+      "type": "p",
+      "html": "Le Luberon entier vaut une visite : Volx, Saint-Christophe, Cleyrousse. Notre <a href=\"/blog/buoux-luberon-historique\">guide Buoux</a> détaille l'historique et les secteurs encore actifs. La période idéale tourne d'octobre à avril, l'été reste invivable sous le soleil provençal direct."
+    },
+    {
+      "type": "h2",
+      "text": "Les Calanques : grimper la Méditerranée"
+    },
+    {
+      "type": "p",
+      "html": "Entre Marseille et Cassis, les Calanques offrent une expérience unique : grimper en surplombant l'eau turquoise. En Vau, Sormiou, Morgiou, chaque calanque a ses voies, son ambiance, et son accès parfois acrobatique. Certaines voies historiques se finissent par un plongeon dans la mer, en accord avec les coutumes locales. Le rocher calcaire varie du compact au plaqueté délicat."
+    },
+    {
+      "type": "p",
+      "html": "L'accès au parc national impose des règles strictes : pas de feu, sentiers balisés, déchets retour, et fermetures estivales liées au risque incendie. Consulte notre <a href=\"/blog/calanques-escalade-marseille\">guide Calanques</a> et la <a href=\"/blog/parc-national-escalade-regles\">réglementation parc national</a> avant chaque sortie. La période idéale tourne d'octobre à avril."
+    },
+    {
+      "type": "table",
+      "caption": "Saison idéale par site",
+      "headers": ["Site", "Pleine saison", "À éviter"],
+      "rows": [
+        ["Fontainebleau", "Octobre à mars", "Été humide"],
+        ["Verdon", "Avril-juin, sept-nov", "Juillet, août"],
+        ["Céüse", "Mai à octobre", "Hiver enneigé"],
+        ["Buoux", "Octobre à avril", "Été chaud"],
+        ["Calanques", "Octobre à avril", "Été (fermetures)"],
+        ["Aiguille du Midi", "Juin à septembre", "Hiver (alpinisme)"]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Le Massif Central, l'Ouest et le Nord : la France moins connue"
+    },
+    {
+      "type": "p",
+      "html": "Hors des classiques du Sud-Est, la France regorge de spots méconnus. Le Saussois dans l'Yonne propose un calcaire technique idéal entre l'Île-de-France et Bourgogne. Les Gorges du Tarn déroulent des grandes voies de plusieurs longueurs sur calcaire compact. La Loire et le Pilat offrent du gneiss et du granite peu fréquentés. La Bretagne et la Normandie ont leurs falaises maritimes confidentielles. Les Pyrénées concentrent un patrimoine immense, de la Sierra de Guara catalane à l'Ariège, en passant par les sites du Pic du Midi et les calcaires d'Andorre frontalière."
+    },
+    {
+      "type": "p",
+      "html": "Saffres en Côte d'Or reste l'un des plus beaux sites d'initiation de France, avec son calcaire compact et ses voies bien équipées. Consulte <a href=\"/blog/saffres-cote-or-region-est\">notre fiche Saffres</a>. La Belgique frontalière propose aussi Freyr, un haut lieu historique facilement accessible depuis le Nord de la France."
+    },
+    {
+      "type": "image_text",
+      "image": "/blog/sites-escalade-emblematiques-france.webp",
+      "alt": "Vue panoramique sur les gorges du Verdon avec falaises calcaires plongeant dans l'eau émeraude",
+      "text": "Le Verdon, c'est avant tout une atmosphère. La voie engage souvent au-dessus de 200 mètres de gaz, le vent siffle dans les gorges, le silence pèse entre les longueurs. Aucun autre site français ne réunit autant ces ingrédients du grand engagement sportif accessible.",
+      "position": "right",
+      "caption": "L'ambiance verdonnesque, irremplaçable"
+    },
+    {
+      "type": "h2",
+      "text": "L'altitude et les Alpes : terrain de jeu vertical"
+    },
+    {
+      "type": "p",
+      "html": "Le massif alpin offre une autre dimension. <strong>L'Aiguille du Midi</strong>, accessible par le téléphérique de Chamonix, donne accès à des voies de granite à 3 800 mètres en quelques minutes. Le Vercors avec le Mont Aiguille, première ascension à but sportif documentée de l'histoire (1492), reste un terrain mythique. Le massif des Écrins déroule des courses mixtes et de la grande voie d'altitude."
+    },
+    {
+      "type": "p",
+      "html": "Les Préalpes du sud (Buis-les-Baronnies, Saint-Léger, Aiglun) prolongent la saison sportive avec un calcaire chauffé par le soleil méditerranéen. Notre <a href=\"/blog/saint-leger-du-ventoux-escalade\">dossier Saint-Léger</a> et <a href=\"/blog/aiglun-prealpes-azur\">le guide Aiglun</a> détaillent ces secteurs prisés des locaux niçois et provençaux."
+    },
+    {
+      "type": "h2",
+      "text": "La Corse : une île, deux mondes verticaux"
+    },
+    {
+      "type": "p",
+      "html": "Le caillou corse offre deux univers complémentaires. Les <strong>aiguilles de Bavella</strong>, au sud, déroulent des grandes voies de granite chaud dans un décor maritime. La vallée de la Restonica, à l'intérieur, propose un granite plus austère, plus alpin, à mi-chemin entre Chamonix et la Provence. Les ouvertures restent souvent l'œuvre de grimpeurs locaux passionnés et discrets."
+    },
+    {
+      "type": "p",
+      "html": "L'accès à la Corse coûte cher (bateau ou avion) mais la qualité du rocher justifie le voyage. Lis <a href=\"/blog/corse-bavella-aiguilles\">le guide Bavella</a> pour planifier une semaine de grande voie au soleil. La Restonica, plus proche d'un ambiance haute montagne, demande une approche de plusieurs heures et un sens de l'engagement éprouvé. C'est un terrain pour grimpeur autonome qui maîtrise l'évolution sur dalle de granite et la lecture de l'itinéraire sans balisage trop apparent."
+    },
+    {
+      "type": "quote",
+      "text": "Chaque site français raconte une histoire, des pionniers aux ouvreurs modernes. Grimper en France, c'est marcher sur les pas de Berhault, Edlinger, Destivelle.",
+      "author": "Antoine",
+      "role": "Rédacteur escalade-france.fr"
+    },
+    {
+      "type": "h2",
+      "text": "Préparer sa sortie : topo, météo et accès"
+    },
+    {
+      "type": "p",
+      "html": "Avant chaque sortie sur un nouveau site, trois vérifications s'imposent. Le topo papier reste la référence, complète le par les ressources en ligne (camptocamp, FFME, comités départementaux). La météo conditionne tout : pluie la veille, vent fort, chaleur, autant de paramètres qui ferment ou ouvrent l'accès. Enfin, l'accès au site peut être restreint (sentier en travaux, espèce protégée en nidification, conflit foncier)."
+    },
+    {
+      "type": "tip",
+      "title": "Le bon réflexe",
+      "body": "Consulte le site fédéral FFME ou la page Facebook du club local 48 h avant ta sortie. Les fermetures temporaires liées à la nidification du faucon pèlerin ou aux travaux d'équipement y sont annoncées en priorité.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Les sites confidentiels qui valent le détour"
+    },
+    {
+      "type": "p",
+      "html": "Au-delà des stars, la France possède des dizaines de sites confidentiels qui méritent le déplacement. Les Dentelles de Montmirail dans le Vaucluse, le rocher de Sébertot près de Besançon, les falaises de Russan dans le Gard, le Saut du Loup en Ardèche. Chaque région possède son spot local entretenu par une poignée de bénévoles passionnés. La Bourgogne, la Lorraine, le Massif Armoricain comptent leurs falaises où on grimpe rarement à plus de cinq personnes en simultané."
+    },
+    {
+      "type": "p",
+      "html": "Ces sites partagent souvent des qualités précieuses : peu fréquentés, équipement récent, ambiance familiale et entretien sérieux par les comités locaux. Notre <a href=\"/blog/sites-confidentiels-france\">dossier des sites confidentiels</a> recense les pépites par région. Avant de t'y rendre, vérifie l'état d'équipement auprès du comité départemental, certaines voies équipées dans les années 80-90 attendent encore leur rééquipement."
+    },
+    {
+      "type": "p",
+      "html": "L'engouement actuel pour les nouvelles ouvertures fait émerger régulièrement des sites neufs. La Drôme, le Diois, les contreforts du Vercors voient apparaître de nouveaux secteurs équipés selon les standards modernes : goujons inox 10 mm, relais chaîné, repères de progression. Tu peux suivre ces ouvertures sur les pages des comités régionaux FFME et sur camptocamp."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quel est le meilleur site d'escalade en France pour débuter ?",
+      "a": "Saffres en Côte d'Or, le Saussois dans l'Yonne et les circuits jaunes ou bleus de Fontainebleau conviennent parfaitement aux débutants. En grande voie, les Dentelles de Montmirail offrent des voies courtes et bien équipées idéales pour une première sortie."
+    },
+    {
+      "q": "Combien y a-t-il de sites d'escalade en France ?",
+      "a": "La FFME recense environ 1 700 sites d'escalade naturels équipés en France métropolitaine. À cela s'ajoutent les sites de bloc, les terrains d'aventure non équipés et les massifs alpins, ce qui porte le total réel à plus de 3 000 lieux différents pour grimper."
+    },
+    {
+      "q": "Quel est le site d'escalade le plus difficile de France ?",
+      "a": "Céüse abrite Bibliographie, voie cotée 9b+ ouverte par Alex Megos en 2020, l'une des plus difficiles d'Europe. Le Verdon, Saint Léger ou la Galère à Aravis comptent aussi des voies au-delà du 9a fréquentées par l'élite mondiale."
+    },
+    {
+      "q": "Peut-on grimper toute l'année en France ?",
+      "a": "Oui, en choisissant son secteur selon la saison. L'hiver, les sites du sud (Calanques, Buoux, Volx) profitent du soleil. L'été, les sites en altitude (Céüse, Ailefroide, Aiguille du Midi) restent praticables. Bleau préfère l'automne et le printemps."
+    },
+    {
+      "q": "Faut-il payer pour grimper sur les sites français ?",
+      "a": "La plupart des sites sont en accès libre et gratuit. Quelques sites privés demandent une cotisation ou un badge fédéral (Saint Léger, Volx). Les parcs nationaux peuvent imposer des règles d'accès strictes mais sans tarif d'entrée pour grimper."
+    },
+    {
+      "q": "Quel topo acheter pour grimper en France ?",
+      "a": "Le choix dépend de la région. Pour Bleau, les topos Cosiroc font référence. Pour le Verdon, l'ouvrage de Boillon. Pour les Calanques, le topo Yves Dumail. Camptocamp.org reste la base de données collaborative la plus complète et gratuite, en complément du papier."
+    }
+  ],
+  "cover_alt": "Vue aérienne d'une falaise calcaire avec grimpeurs sur grande voie au-dessus d'une vallée",
+  "internal_links": [
+    {
+      "slug": "fontainebleau-bloc-foret",
+      "anchor": "notre dossier complet sur Bleau",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "verdon-grandes-voies",
+      "anchor": "notre guide des grandes voies du Verdon",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "ceuse-cathedrale-calcaire",
+      "anchor": "notre dossier dédié à Céüse",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "buoux-luberon-historique",
+      "anchor": "guide Buoux",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "calanques-escalade-marseille",
+      "anchor": "guide Calanques",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "saffres-cote-or-region-est",
+      "anchor": "fiche Saffres",
+      "context": "Article enfant cocon sites"
+    }
+  ],
+  "scheduled_at": "2026-05-21T09:00:00+02:00"
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "etirements-grimpeur-souplesse",
+  "cocon": "preparation",
+  "type_article": "astuce",
+  "numero": 125,
+  "title": "Étirements et souplesse du grimpeur : ce qui sert vraiment",
+  "h1": "Étirements et souplesse : ce qui paie chez le grimpeur",
+  "description": "Étirements du grimpeur : ce qui marche, ce qui ne sert à rien. Souplesse de hanche, ouverture des épaules, étirement des avant-bras et routines courtes utiles.",
+  "chapo": "La souplesse paie en grimpe, mais pas n'importe laquelle. Une bonne ouverture de hanche te débloque des pieds hauts impossibles, des épaules mobiles te permettent les talonnages et les jetés. À l'inverse, étirer le biceps avant une voie te coûte 20 pour cent de force explosive. Voici ce qui sert vraiment et ce qui ne sert à rien dans les étirements du grimpeur.",
+  "takeaways": [
+    "Priorise l'ouverture de hanche et la mobilité des épaules, ce sont les deux clés.",
+    "Évite le stretching statique long avant la grimpe, il diminue la force explosive.",
+    "Garde les étirements profonds pour la fin de séance ou les jours off.",
+    "10 minutes par jour de mobilité ciblée valent mieux qu'une heure par semaine.",
+    "La souplesse ne remplace pas la technique, elle l'autorise."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Souplesse du grimpeur : où ça compte vraiment"},
+    {"type": "p", "html": "Trois zones comptent pour la grimpe : <strong>hanches</strong>, <strong>épaules</strong> et <strong>cheville-pied</strong>. Les hanches débloquent les pieds hauts, les lolottes et les fentes. Les épaules permettent les talonnages, les jetés et les positions cross. Les chevilles facilitent l'adhérence en pointe et la précision sur petits pieds. Le reste de la souplesse, dos, ischio, paroi abdominale, compte moins que ce que beaucoup imaginent."},
+    {"type": "p", "html": "Adam Ondra a déclaré dans plusieurs entretiens que la souplesse de hanche est devenue son obsession après 25 ans. Avant, il pensait que la force suffisait. Maintenant, il consacre 30 minutes par jour à la mobilité de bassin. Le résultat est visible : il pose des pieds à hauteur de tête sur certaines voies impossibles à d'autres."},
+    {"type": "h2", "text": "Étirements avant grimpe : ce qui marche, ce qui plombe"},
+    {"type": "p", "html": "Le <strong>stretching statique long</strong>, étirements maintenus 30 secondes ou plus, diminue la force explosive pendant 30 minutes environ. C'est documenté par plusieurs études en physiologie du sport. Si tu fais 15 minutes de stretching profond avant une voie projet, tu pars avec un handicap mesurable. Garde le stretching profond pour la fin de séance."},
+    {"type": "p", "html": "À la place, fais du <strong>stretching dynamique</strong>. Balancés de jambes, cercles de bras amples, rotations de bassin actives, fentes dynamiques avec rotation. Tu mobilises sans relâcher le tonus musculaire. Ce type d'étirement augmente même légèrement la performance, contrairement au statique long."},
+    {"type": "list", "variant": "numbered", "title": "Routine mobilité dynamique avant grimpe", "items": [
+      {"title": "Balancés de jambes 10 répétitions", "body": "Avant-arrière, latéral, par jambe, en te tenant au mur."},
+      {"title": "Fentes dynamiques avec rotation 8 répétitions", "body": "Fente avant, rotation du tronc vers la jambe avant, puis retour."},
+      {"title": "Cercles de bras grands 15 répétitions", "body": "Avant puis arrière, amplitude maximale, sans forcer."},
+      {"title": "Inclinaisons latérales 8 par côté", "body": "Bras tendu au-dessus, tu te penches latéralement pour ouvrir la cage thoracique."},
+      {"title": "Squats profonds 10 répétitions", "body": "Descente lente, coudes contre les genoux en bas, pour ouvrir les hanches."}
+    ]},
+    {"type": "h2", "text": "Étirements de fin de séance"},
+    {"type": "p", "html": "Après la grimpe, c'est le moment du stretching statique profond. Tes muscles sont chauds, tu peux maintenir 30 à 60 secondes sans risque. Trois priorités : avant-bras, épaules, hanches. Pour les avant-bras, étire les <strong>fléchisseurs</strong> et les <strong>extenseurs</strong> alternativement, 30 secondes chacun. Ça réduit la pompe résiduelle et accélère la récupération."},
+    {"type": "p", "html": "Pour les hanches, utilise des postures inspirées du yoga : pigeon, papillon, half split. Chaque posture tenue 60 à 90 secondes. Pour les épaules, le passage du bâton derrière le dos et l'étirement à la porte fonctionnent bien. Comme toujours, écoute ton corps. La douleur vive n'est jamais l'objectif, c'est l'étirement profond mais supportable."},
+    {"type": "tip", "title": "Erreur classique", "body": "Étirer le biceps brachial en force juste avant une voie dure. Tu perds 15 à 20 pour cent de ta force explosive sur les premiers mouvements. Cet effet dure environ 30 minutes. Si tu veux étirer le biceps, fais-le en fin de séance, jamais avant un essai max ou un projet.", "tone": "erreur"},
+    {"type": "h2", "text": "L'ouverture de hanche : le gain visible"},
+    {"type": "p", "html": "Travailler la hanche est ce qui m'a le plus apporté en falaise. À 17 ans, je n'arrivais pas à poser le pied à la hauteur de la main sur certains mouvements. Six mois de mobilité quotidienne plus tard, je passais des pieds-mains impossibles avant. Sur un dévers de Stetten, ça change tout."},
+    {"type": "table", "caption": "Postures d'ouverture de hanche", "headers": ["Posture", "Durée", "Fréquence", "Zone ciblée"],
+    "rows": [
+      ["Pigeon", "60 à 90 secondes", "Tous les jours", "Rotateurs externes"],
+      ["Papillon", "60 secondes", "Tous les jours", "Adducteurs"],
+      ["Squat profond passif", "2 minutes", "3 fois par semaine", "Mobilité globale"],
+      ["Half split", "45 secondes par jambe", "Tous les jours", "Ischio et hanche"]
+    ]},
+    {"type": "h2", "text": "Mobilité d'épaule pour la grimpe"},
+    {"type": "p", "html": "L'<strong>articulation gléno-humérale</strong> demande à la fois de la mobilité et de la stabilité. Trop mobile sans stabilité, tu déclenches des subluxations. Trop stable sans mobilité, tu te limites en talonnage et cross. L'équilibre se travaille avec des exercices spécifiques : dislocates au bâton, rotations à l'élastique, passage d'épaule en suspension."},
+    {"type": "p", "html": "Cinq minutes par jour suffisent pour maintenir une bonne mobilité d'épaule. Si tu pars de très loin, compte trois mois pour des gains nets. La grimpe seule rigidifie souvent l'épaule en flexion, il faut compenser activement. Mes coudes ne me font plus jamais mal depuis que je tiens cette routine quotidienne."},
+    {"type": "h2", "text": "Le yoga pour grimpeur, utile ou pas"},
+    {"type": "p", "html": "Le yoga apporte mobilité, conscience corporelle et respiration. Pour la grimpe, c'est un bon complément, pas un substitut. Deux séances par semaine de 45 minutes suffisent pour le bénéfice. Au-delà, tu empiètes sur le temps de grimpe et de muscu sans gain supplémentaire."},
+    {"type": "p", "html": "Privilégie les styles dynamiques type vinyasa ou ashtanga, qui combinent mobilité et tonus. Évite les styles passifs type yin yoga juste avant une séance de grimpe, ils déclencheraient le même effet négatif que le stretching statique long. Pour la récupération en jour off, le yin yoga marche très bien."},
+    {"type": "h2", "text": "Souplesse innée, souplesse acquise"},
+    {"type": "p", "html": "Tu naîtras avec une certaine mobilité de base. Mais 80 pour cent de ta souplesse de grimpeur est acquise par le travail. Janja Garnbret n'est pas particulièrement souple naturellement, elle a travaillé sa mobilité plus de 1000 heures sur dix ans. Le talent ne suffit jamais, le travail régulier paye toujours."},
+    {"type": "quote", "text": "La souplesse n'est pas un don, c'est une habitude quotidienne. Dix minutes par jour pendant un an valent une heure par semaine pendant cinq ans.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
+    {"type": "p", "html": "Pour compléter, lis <a href=\"/blog/echauffement-grimpe-routine\">la routine d'échauffement avant la grimpe</a> et <a href=\"/blog/recuperation-active-jours-off\">récupération active et jours off</a>. La <a href=\"/blog/preparer-corps-tete-grimpe\">préparation physique et mentale du grimpeur</a> détaille l'intégration de la mobilité dans le planning hebdomadaire."}
+  ],
+  "faq": [
+    {"q": "Faut-il s'étirer avant de grimper ?", "a": "Oui, mais en dynamique uniquement. Évite le stretching statique long avant la grimpe, il diminue la force explosive pendant 30 minutes. Privilégie les mouvements actifs : balancés de jambes, cercles de bras, fentes dynamiques. Le stretching profond se garde pour la fin de séance ou les jours off."},
+    {"q": "Combien de temps pour gagner en souplesse de hanche ?", "a": "Compte trois à six mois de mobilité quotidienne pour des gains nets et visibles. Tu sentiras les premières améliorations en deux à trois semaines. La progression dépend de ton point de départ : très raide demande 12 mois, modérément souple 3 mois pour passer un cap."},
+    {"q": "Le yoga remplace-t-il les étirements ?", "a": "Pas complètement. Le yoga apporte mobilité globale et conscience corporelle, mais peu de stretching ciblé pour le grimpeur. Combine yoga deux fois par semaine et étirements ciblés cinq minutes par jour. C'est le combo le plus efficace pour la souplesse spécifique grimpe."},
+    {"q": "Pourquoi mes ischios se contractent en grimpe ?", "a": "Souvent par manque de mobilité de hanche et de chaîne postérieure. Travaille les half splits et les flexions avant pendant six semaines, à raison de 10 minutes par jour. Tu sentiras un net relâchement. Si la douleur persiste, consulte un kiné pour vérifier qu'il n'y a pas un autre problème."},
+    {"q": "Le grand écart est-il utile pour la grimpe ?", "a": "Il aide sur certaines positions extrêmes mais n'est pas obligatoire. Beaucoup de grimpeurs 8a en falaise n'ont pas le grand écart parfait. Vise plutôt l'ouverture fonctionnelle de hanche : capacité à poser un pied à hauteur de tête, à faire une fente profonde, à tourner le bassin en lolotte serrée."}
+  ],
+  "cover_alt": "Grimpeur en posture pigeon yoga sur tapis, étirement profond de la hanche externe",
+  "internal_links": [
+    {"slug": "preparer-corps-tete-grimpe", "anchor": "la préparation physique et mentale du grimpeur", "context": "Pilier préparation"},
+    {"slug": "echauffement-grimpe-routine", "anchor": "la routine d'échauffement avant la grimpe", "context": "Échauffement"},
+    {"slug": "recuperation-active-jours-off", "anchor": "récupération active et jours off", "context": "Récupération"},
+    {"slug": "core-gainage-grimpe", "anchor": "gainage et core pour la grimpe en dévers", "context": "Mobilité fonctionnelle"}
+  ],
+  "scheduled_at": "2027-02-18T09:00:00+01:00"
+}

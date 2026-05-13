@@ -1,0 +1,265 @@
+{
+  "slug": "noeud-cabestan-relais",
+  "cocon": "noeuds",
+  "type_article": "guide",
+  "numero": 66,
+  "title": "Cabestan : le nœud indispensable au relais de grande voie",
+  "h1": "Le cabestan, le nœud indispensable au relais de grande voie",
+  "description": "Le cabestan sur mousqueton à vis HMS, l'auto-réglable du relais. Tracé, réglage en tension, vérification, glissement et limites du nœud.",
+  "chapo": "Au relais de grande voie, le cabestan permet à chaque équipier de s'auto-vacher en quelques secondes sur la corde, à la longueur exacte voulue. Son tracé géométrique simple, son réglage instantané sous tension et sa capacité à se défaire sans peine après chargement en font le nœud de jonction le plus utilisé en grande voie. Tracé, vérification, limites et alternatives possibles.",
+  "takeaways": [
+    "Le cabestan se trace en deux gansettes superposées sur un mousqueton à vis HMS, format poire, pour permettre la rotation libre du nœud sous tension.",
+    "Réglage instantané de la longueur d'auto-vache : il suffit de tirer ou de relâcher le brin de tension sans défaire le nœud, ce qui en fait l'outil parfait au relais.",
+    "Sous charge dynamique élevée (chute facteur 1 ou supérieur), le cabestan peut glisser sur quelques centimètres avant de bloquer, comportement utile pour absorber le choc.",
+    "Il ne convient pas comme nœud d'encordement permanent, sa résistance étant inférieure au huit en double et sa géométrie moins stable sous chocs répétés.",
+    "Le brin libre après cabestan doit mesurer au moins 20 cm, suffisamment pour absorber le serrage initial sans risque de défaut sous tension."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Pourquoi le cabestan est devenu le nœud de relais standard"
+    },
+    {
+      "type": "p",
+      "html": "Le <strong>cabestan</strong>, parfois appelé nœud de batelier ou clove hitch en anglais, domine l'auto-vachage au relais depuis trois décennies. Sa principale qualité tient au réglage en longueur : une fois passé sur le mousqueton, tu peux ajuster la distance qui te sépare du point d'ancrage en tirant simplement sur le brin de tension, sans défaire ni retracer quoi que ce soit. Cette propriété change la manière de gérer un relais en grande voie."
+    },
+    {
+      "type": "p",
+      "html": "Avant l'adoption généralisée du cabestan dans les années 1990, l'auto-vachage se faisait avec une longe en sangle et un mousqueton à vis indépendant. Cette méthode obligeait à porter en permanence une longe dédiée, à régler sa longueur par des nœuds intermédiaires, et à dupliquer le matériel. Le cabestan sur la corde elle-même résout ces trois inconvénients d'un coup : pas de longe supplémentaire, longueur ajustable au centimètre, matériel minimal. Sur le <a href=\"/blog/noeuds-escalade-utiles-guide\">panorama des nœuds utiles</a>, il occupe la position centrale dans la famille des nœuds de jonction."
+    },
+    {
+      "type": "p",
+      "html": "Comparé au <a href=\"/blog/noeud-huit-encordement\">huit en double utilisé pour l'encordement</a>, le cabestan a une vocation entièrement différente. Le huit reste permanent sur toute la course, le cabestan se met et se défait à chaque relais. Les deux nœuds coexistent sur la même corde sans interférence : huit au pontet pour relier le grimpeur à sa corde, cabestan sur mousqueton à vis pour relier la corde à l'ancrage."
+    },
+    {
+      "type": "h2",
+      "text": "Le tracé du cabestan, étape par étape"
+    },
+    {
+      "type": "p",
+      "html": "Le cabestan se trace de deux manières principales : à plat sur la main, puis transféré sur le mousqueton, ou directement sur le mousqueton déjà clippé à l'ancrage. La seconde méthode prend davantage de place mais reste plus rapide en pratique et permet de régler la longueur immédiatement après serrage."
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Les quatre temps du tracé direct sur mousqueton",
+      "items": [
+        {
+          "title": "Préparer la position de départ",
+          "body": "Le mousqueton à vis HMS est déjà clippé sur le maillon ou la chaîne du relais, son doigt orienté vers l'extérieur. Tu tiens le brin de tension venant du point d'ancrage dans une main, le brin libre dans l'autre."
+        },
+        {
+          "title": "Former la première gansette",
+          "body": "Avec le brin libre, fais une boucle autour du mousqueton en passant par-dessus puis par-dessous. Le brin libre ressort vers toi, le brin de tension reste à l'opposé. Tu obtiens un tour mort sur le mousqueton."
+        },
+        {
+          "title": "Former la seconde gansette superposée",
+          "body": "Avec le brin libre, fais une seconde boucle juste à côté de la première, en passant cette fois par-dessous puis par-dessus le mousqueton. Les deux boucles sont parallèles, le brin libre passe sous la première boucle dans le mousqueton."
+        },
+        {
+          "title": "Serrer et fermer la vis",
+          "body": "Tire alternativement sur les deux brins pour serrer le nœud. Les deux boucles doivent rester côte à côte sans se croiser. Ferme la vis du mousqueton et vérifie qu'elle tourne librement sans s'accrocher dans la corde."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "html": "Le tracé devient un réflexe après quelques dizaines de répétitions. La plupart des grimpeurs le maîtrisent en moins d'une heure d'apprentissage. Une variante consiste à former le nœud en tournant deux fois la corde autour du mousqueton, puis à passer le brin de tension dans les deux boucles d'un coup. Le résultat géométrique est identique, seule la séquence de gestes change."
+    },
+    {
+      "type": "h2",
+      "text": "Le choix du mousqueton, élément clé de la fiabilité"
+    },
+    {
+      "type": "p",
+      "html": "Le cabestan exige un <strong>mousqueton à vis HMS</strong>, c'est-à-dire en forme de poire asymétrique. Cette forme particulière permet au nœud de tourner librement à l'intérieur du mousqueton sous l'effet des changements de direction de la tension. Un mousqueton symétrique de type ovale ou D bloquerait la rotation et créerait des chargements latéraux indésirables."
+    },
+    {
+      "type": "p",
+      "html": "La fermeture à vis est obligatoire pour empêcher l'ouverture accidentelle du doigt sous l'effet d'une vibration ou d'un contact contre le rocher. Les mousquetons à doigt simple, même renforcés, sont à éviter pour cet usage. Les modèles à fermeture automatique de type ball-lock ou twist-lock fonctionnent aussi, mais la vis manuelle reste le standard pour son contrôle visuel immédiat. La <a href=\"/blog/verifier-noeud-partenaire\">vérification croisée du relais</a> inclut systématiquement la fermeture de la vis."
+    },
+    {
+      "type": "p",
+      "html": "Le diamètre de la corde compte également. Une corde de 8,5 à 10 mm conforme à la norme EN 892 fonctionne parfaitement avec un cabestan classique. Les cordes plus fines, type rappel double 7,5 mm, nécessitent un cabestan plus serré pour éviter le glissement. Les cordes statiques de plus de 11 mm peuvent ne pas tourner correctement dans le mousqueton et créer un coincement."
+    },
+    {
+      "type": "table",
+      "caption": "Compatibilité corde et mousqueton pour cabestan fiable",
+      "headers": [
+        "Type de corde",
+        "Diamètre",
+        "Mousqueton recommandé",
+        "Glissement attendu"
+      ],
+      "rows": [
+        [
+          "Corde simple dynamique",
+          "9,5-10,2 mm",
+          "HMS poire à vis",
+          "Aucun sous 6 kN"
+        ],
+        [
+          "Corde simple légère",
+          "8,5-9,4 mm",
+          "HMS poire à vis",
+          "Quelques cm sous 8 kN"
+        ],
+        [
+          "Demi-corde",
+          "7,5-8,5 mm",
+          "HMS poire compact",
+          "Glissement possible sous choc"
+        ],
+        [
+          "Corde statique",
+          "10,5-11 mm",
+          "HMS poire grande capacité",
+          "Aucun, mais coincement possible"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Régler sa longueur d'auto-vache en pratique"
+    },
+    {
+      "type": "p",
+      "html": "Le <strong>réglage en longueur</strong> est la fonction qui distingue le cabestan de tous les autres nœuds de jonction. Une fois ton cabestan en place, tu peux raccourcir la distance jusqu'à l'ancrage en tirant simplement sur le brin de tension. Le cabestan glisse alors le long de la corde et se reforme à la nouvelle position quand tu relâches la tension. Pour rallonger, tu tires sur le brin opposé."
+    },
+    {
+      "type": "p",
+      "html": "Cette manipulation se fait sans défaire le nœud, sans dévisser le mousqueton, en quelques secondes. C'est ce qui rend le cabestan irremplaçable au relais : tu arrives sous l'ancrage, tu poses ton cabestan à une longueur approximative, puis tu ajustes finement pour te positionner exactement à la place que tu veux occuper. La même opération avec un nœud de chaise ou un huit demanderait de défaire et de retracer."
+    },
+    {
+      "type": "tip",
+      "title": "Le bon réglage de l'auto-vache au relais",
+      "body": "Règle ton cabestan pour rester tendu sur l'ancrage en position stable, sans pour autant être collé à la paroi. Une longueur typique est de 40 à 60 cm entre ton pontet et le maillon du relais, ce qui te permet de respirer, de manipuler la corde et d'assurer ton second sans gêne. Trop court, tu es écrasé contre la paroi. Trop long, tu pendules en cas de relâchement.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "La vérification visuelle du cabestan"
+    },
+    {
+      "type": "p",
+      "html": "La vérification d'un cabestan tient en trois points. Premier point, les deux boucles superposées passent bien autour du mousqueton sans croisement parasite. Deuxième point, le brin de tension venant de l'ancrage et le brin libre sortent à l'opposé l'un de l'autre, jamais du même côté. Troisième point, la vis du mousqueton est complètement fermée, sans jeu visible."
+    },
+    {
+      "type": "p",
+      "html": "Une erreur classique consiste à former une seule boucle plutôt que deux. Le nœud résultant n'est plus un cabestan mais un simple tour mort qui glisse sous la moindre tension. Sa géométrie est différente, on identifie immédiatement le problème en regardant le mousqueton : une seule boucle visible au lieu de deux superposées. La vérification rapide avant chaque mise en tension élimine ce type d'erreur."
+    },
+    {
+      "type": "p",
+      "html": "Autre erreur fréquente, le cabestan tracé à l'envers. Les deux boucles existent bien mais leur sens d'enroulement est inversé, ce qui crée un nœud miroir qui peut se défaire sous tension forte. Le diagnostic visuel se fait en tirant légèrement sur les deux brins : si le nœud se déforme et que les boucles glissent l'une sur l'autre, c'est qu'il est mal tracé. À retracer immédiatement."
+    },
+    {
+      "type": "h2",
+      "text": "Comportement du cabestan sous chute dynamique"
+    },
+    {
+      "type": "p",
+      "html": "Sous chargement dynamique, le cabestan présente un comportement particulier qui le distingue des nœuds figés comme le huit. À partir d'environ 6 à 8 kN, le nœud commence à glisser le long de la corde sur quelques centimètres, avant de bloquer définitivement. Ce <strong>glissement contrôlé</strong> absorbe une partie de l'énergie de la chute et abaisse la force transmise au point d'ancrage."
+    },
+    {
+      "type": "p",
+      "html": "Cette propriété est doublement utile au relais. D'abord, elle protège les points d'ancrage en lissant le pic de force. Ensuite, elle permet au cabestan de se défaire facilement après chargement, contrairement à un huit qui devient quasi indéfaisable. Le glissement reste limité à quelques centimètres dans des conditions normales, donc l'auto-vache ne se libère pas inopinément. Le nœud reste fonctionnel après l'absorption."
+    },
+    {
+      "type": "p",
+      "html": "Cette tolérance au glissement explique aussi pourquoi le cabestan n'est pas adapté à l'encordement permanent. Sur un huit, on veut un nœud qui reste exactement à sa position d'origine sans bouger. Sur un cabestan au relais, on tolère et on apprécie même un léger déplacement sous choc, qui agit comme un amortisseur passif."
+    },
+    {
+      "type": "h2",
+      "text": "Le cabestan pour les manœuvres au relais"
+    },
+    {
+      "type": "p",
+      "html": "Au-delà de l'auto-vachage, le cabestan sert dans plusieurs autres manœuvres du relais. Pour passer un nœud sur l'assureur, tu peux te vacher sur l'ancrage en cabestan, libérer ton système d'assurage, manipuler la corde puis te reconnecter. Pour faire descendre un second en cas de problème, le cabestan permet de bloquer rapidement la corde à l'ancrage le temps de basculer en mode descente."
+    },
+    {
+      "type": "p",
+      "html": "En cas de mouflage improvisé, le cabestan tient le brin chargé pendant que tu mets en place le système de démultiplication. Cette polyvalence en fait le nœud de manipulation le plus utilisé au relais après l'auto-vachage initial. Combiné avec un <a href=\"/blog/noeud-mule-bloquant-corde\">nœud de mule pour bloquer la corde</a>, il permet la plupart des manœuvres de secours improvisé avec un minimum de matériel."
+    },
+    {
+      "type": "h2",
+      "text": "Quand préférer un autre nœud de jonction"
+    },
+    {
+      "type": "p",
+      "html": "Le cabestan n'est pas universel. Trois situations justifient un autre choix. Première situation, l'encordement permanent : pour relier le grimpeur à sa corde, le huit en double reste largement supérieur en termes de résistance et de stabilité. Deuxième situation, le rappel double brin où tu joins deux cordes : on utilise alors un <a href=\"/blog/noeud-pecheur-double-rappel\">double-pêcheur ou un nœud en huit jonction</a>, le cabestan n'étant pas conçu pour relier deux cordes."
+    },
+    {
+      "type": "p",
+      "html": "Troisième situation, le secours sur corde fixe où la charge reste élevée et constante. Dans ce cas, on préfère un nœud bloquant figé type chaise double ou huit en boucle, parce que la tolérance au glissement du cabestan devient un défaut quand on veut une position stable sur de longues durées. Pour les relais d'escalade sportive standards, le cabestan reste cependant l'option dominante et la plus polyvalente."
+    },
+    {
+      "type": "quote",
+      "text": "Un cabestan, ça se règle au centimètre sans réfléchir. C'est ce qui fait la différence entre un relais propre et un relais bordélique.",
+      "author": "Adage de grande voie",
+      "role": "transmis par les guides de haute montagne"
+    },
+    {
+      "type": "h2",
+      "text": "Apprendre le cabestan à sec avant le terrain"
+    },
+    {
+      "type": "p",
+      "html": "Avant la première mise en pratique en grande voie, entraîne-toi à sec sur un bout de corde et un mousqueton. Vingt à trente répétitions suffisent à automatiser le geste. L'idéal est de pratiquer dans des conditions variées : à deux mains, à une main, avec la corde tendue ou détendue, debout ou assis."
+    },
+    {
+      "type": "p",
+      "html": "L'objectif est de tracer un cabestan sans regarder la corde, parce qu'en grande voie tu garderas un œil sur ton second ou sur la suite de la voie. Cette automatisation prend deux à trois sorties pour se stabiliser. La technique se retient ensuite indéfiniment, c'est l'un des nœuds qui se garde le mieux en mémoire musculaire."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Est-ce qu'on peut utiliser le cabestan comme nœud d'encordement principal ?",
+      "a": "Non, le cabestan n'est pas adapté à l'encordement permanent. Sa résistance reste inférieure au huit en double, sa géométrie peut se déformer sous chocs répétés, et il glisse sous charge dynamique au-delà de 6 à 8 kN. Le huit en double dans le pontet reste le standard d'encordement, le cabestan se réserve aux jonctions sur mousqueton à vis au relais."
+    },
+    {
+      "q": "Combien de temps tient un cabestan avant glissement ?",
+      "a": "En charge statique normale au relais, c'est-à-dire le poids d'un grimpeur tendu sur son auto-vache, le cabestan ne glisse pas. Sous chute dynamique, il commence à glisser à partir de 6-8 kN sur quelques centimètres, puis bloque. Cette propriété est volontaire et utile pour absorber le choc, elle ne signifie pas une défaillance du nœud."
+    },
+    {
+      "q": "Quelle différence avec le nœud de demi-cabestan ?",
+      "a": "Le cabestan a deux boucles superposées sur le mousqueton, il sert au blocage et à l'auto-vachage. Le demi-cabestan a une seule boucle dynamique qui peut glisser dans les deux sens, il sert à l'assurage du second au relais sans système. Les deux nœuds se ressemblent visuellement mais ont des usages opposés : le cabestan bloque, le demi-cabestan freine en laissant filer la corde."
+    },
+    {
+      "q": "Faut-il fermer la vis du mousqueton après avoir tracé le cabestan ?",
+      "a": "Oui, systématiquement. La vis empêche l'ouverture accidentelle du doigt sous vibration ou contact avec le rocher. Un cabestan sur mousqueton à vis non fermée reste fonctionnel statiquement, mais une ouverture accidentelle libérerait la corde du mousqueton. La vérification de la fermeture fait partie du contrôle visuel avant la mise en tension."
+    },
+    {
+      "q": "Peut-on tracer un cabestan avec une corde mouillée ou gelée ?",
+      "a": "Oui, la procédure ne change pas. Une corde mouillée se trace un peu plus difficilement à cause de la rigidité accrue, mais le cabestan tient parfaitement. Sur corde gelée, le serrage demande davantage de force, et le nœud devient difficile à défaire après chargement. Dans ces conditions, prévois un peu plus de marge sur le brin libre pour faciliter la manipulation."
+    }
+  ],
+  "cover_alt": "Cabestan tracé sur un mousqueton à vis HMS poire fermé sur un maillon de relais de grande voie, deux boucles superposées visibles, corde simple bleue en tension, paroi calcaire grise en fond",
+  "internal_links": [
+    {
+      "slug": "noeuds-escalade-utiles-guide",
+      "anchor": "panorama des nœuds utiles",
+      "context": "pilier cocon"
+    },
+    {
+      "slug": "noeud-huit-encordement",
+      "anchor": "huit en double utilisé pour l'encordement",
+      "context": "comparaison nœud principal"
+    },
+    {
+      "slug": "verifier-noeud-partenaire",
+      "anchor": "vérification croisée du relais",
+      "context": "sécurité relais"
+    },
+    {
+      "slug": "noeud-mule-bloquant-corde",
+      "anchor": "nœud de mule pour bloquer la corde",
+      "context": "manœuvre secours"
+    },
+    {
+      "slug": "noeud-pecheur-double-rappel",
+      "anchor": "double-pêcheur ou un nœud en huit jonction",
+      "context": "alternative jonction cordes"
+    }
+  ],
+  "scheduled_at": "2026-10-03T09:00:00+02:00"
+}

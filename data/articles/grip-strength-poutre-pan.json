@@ -1,0 +1,74 @@
+{
+  "slug": "grip-strength-poutre-pan",
+  "cocon": "preparation",
+  "type_article": "guide",
+  "numero": 122,
+  "title": "Doigts en escalade : travailler à la poutre et au pan",
+  "h1": "Travailler les doigts : poutre, pan et protocoles utiles",
+  "description": "Comment travailler la force des doigts à la poutre Beastmaker ou au pan : protocoles de suspension, fréquence, intensité et précautions pour éviter la rupture de poulie A2.",
+  "chapo": "La poutre, ou hangboard, est l'outil de force des doigts le plus efficace du grimpeur. Mais c'est aussi celui qui blesse le plus quand on s'y met trop tôt ou trop fort. Voici les protocoles que j'utilise depuis trois ans, dont celui d'Eva Lopez, et ce qu'il faut savoir avant d'accrocher tes premières arquées sur 10 millimètres.",
+  "takeaways": [
+    "Attends d'avoir 18 mois de grimpe régulière et un niveau 6c minimum avant la poutre.",
+    "Échauffe-toi 20 minutes minimum avant toute suspension chargée.",
+    "Privilégie l'arquée semi-fermée à la pleine arquée, plus respectueuse des poulies.",
+    "Deux séances de poutre par semaine maximum, jamais consécutives.",
+    "Le campus board attend le 7c, pas avant, sous peine de rupture de poulie A2."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Poutre, hangboard, pan : qui fait quoi"},
+    {"type": "p", "html": "La poutre ou <strong>hangboard</strong> est une planche en bois ou résine avec des réglettes de différentes profondeurs. Tu t'y suspends en variant l'arquée et la durée. Les marques de référence sont <strong>Beastmaker</strong>, Tension et Lattice. Mon Beastmaker 1000 trône dans ma chambre depuis quatre ans. Compte 70 à 120 euros pour une bonne poutre."},
+    {"type": "p", "html": "Le pan est un mur incliné couvert de prises avec des mouvements à enchaîner. Le <strong>MoonBoard</strong>, le <strong>Tension Board</strong> et le <strong>Kilter Board</strong> en sont les versions standardisées et connectées. Tu y travailles la force-contact, la puissance et le système nerveux. Le <strong>campus board</strong>, lui, est dédié au travail explosif sans pieds, exigence avancée."},
+    {"type": "h2", "text": "Avant de commencer : les conditions à respecter"},
+    {"type": "p", "html": "La règle d'or, énoncée par Lattice Training : ne touche pas la poutre avant 18 mois de grimpe régulière. Les <strong>poulies A2 et A4</strong> demandent ce temps pour s'adapter aux contraintes spécifiques de l'arquée. Démarrer plus tôt fait gagner trois mois maximum et coûte souvent six mois d'arrêt blessure. Le ratio est mauvais."},
+    {"type": "p", "html": "Sois capable de grimper 6c en falaise ou 6b en salle avant de commencer. Ce niveau prouve que ton corps a déjà absorbé une charge cumulée suffisante. Sans ça, tu construis la maison par le toit. Avant 18 ans, certains kinés conseillent d'éviter complètement la poutre, parce que les <strong>plaques de croissance</strong> sont sensibles aux microtraumatismes répétés des doigts."},
+    {"type": "h2", "text": "Le protocole Eva Lopez en pratique"},
+    {"type": "p", "html": "Eva Lopez, kiné et chercheuse espagnole, a popularisé un protocole de répétitions maximales sur réglettes profondes. Tu choisis une réglette qui te permet de tenir 10 secondes maximum à pleine charge. Tu fais 5 séries de 10 secondes avec 3 minutes de repos. Tu progresses en réduisant la profondeur de la réglette quand tu tiens facilement 10 secondes."},
+    {"type": "list", "variant": "numbered", "title": "Séance type poutre protocole Eva Lopez", "items": [
+      {"title": "Échauffement complet 25 minutes", "body": "Cardio, mobilité, suspensions passives, puis activation des doigts en progression."},
+      {"title": "Suspension 1 : 10 secondes pleine intensité", "body": "Réglette 20 mm en arquée semi-fermée, lest ajusté si besoin."},
+      {"title": "Repos 3 minutes complet", "body": "Tu marches, tu bois, tu ne touches plus la poutre."},
+      {"title": "Suspensions 2 à 5 : même schéma", "body": "Cinq répétitions en tout, jamais six. La qualité prime sur la quantité."},
+      {"title": "Décrasse final", "body": "Cinq minutes de suspensions passives à vide pour relâcher les tendons."}
+    ]},
+    {"type": "h2", "text": "Arquée semi-fermée versus pleine arquée"},
+    {"type": "p", "html": "La <strong>pleine arquée</strong>, doigts fermés et pouce par-dessus, sollicite directement les poulies A2 et A4. Elle développe la force maximale mais traumatise les structures fines. La <strong>semi-arquée</strong>, doigts repliés sans pouce verrouillé, sollicite davantage le fléchisseur profond et moins les poulies. Privilégie-la à 80 pour cent du temps."},
+    {"type": "p", "html": "Sur ma poutre Beastmaker, je travaille 70 pour cent en semi-arquée, 20 pour cent en tendue, 10 pour cent en arquée pleine. Cette répartition vient des recommandations de Lattice. Les grimpeurs qui font tout en arquée fermée finissent presque tous avec un historique de poulies. Mon ami Théo a fait six ruptures de poulie en huit ans en travaillant uniquement en pleine arquée."},
+    {"type": "tip", "title": "Erreur classique", "body": "Ajouter du lest trop vite sur la poutre. Tu tiens 15 secondes sans lest sur une 18 mm, tu ajoutes 10 kilos d'un coup pensant accélérer. Tu déclenches une lésion de poulie en deux séances. La progression de lest doit se faire par paliers de 2 à 5 pour cent du poids du corps, jamais plus.", "tone": "erreur"},
+    {"type": "h2", "text": "Le pan et les boards connectés"},
+    {"type": "p", "html": "Le MoonBoard, le Tension Board et le Kilter Board sont des panneaux inclinables couverts de prises standardisées. Tu y enchaînes des problèmes notés par une communauté mondiale. Le MoonBoard à 40 degrés est devenu un classique du travail bloc dur. Le Tension Board, plus récent, propose des prises en bois et un panneau réglable de 0 à 50 degrés."},
+    {"type": "p", "html": "Une séance de board type : échauffement 25 minutes, quatre essais sur deux ou trois blocs autour de ton niveau projet, six à huit blocs de récupération entre. Compte 90 minutes en tout. Le board ne remplace pas la falaise, mais c'est le meilleur outil pour la force-contact et la <strong>force-vitesse</strong> en intersaison."},
+    {"type": "h2", "text": "Fréquence et organisation hebdomadaire"},
+    {"type": "table", "caption": "Fréquence d'entraînement doigts par niveau", "headers": ["Niveau falaise", "Poutre par semaine", "Pan ou board par semaine", "Campus board"],
+    "rows": [
+      ["6a-6c", "0 à 1 séance", "0 séance", "Aucun"],
+      ["7a-7b", "1 à 2 séances", "0 à 1 séance", "Aucun"],
+      ["7c-8a", "2 séances", "1 à 2 séances", "1 séance occasionnelle"],
+      ["8b et plus", "2 à 3 séances", "2 séances", "1 séance régulière"]
+    ]},
+    {"type": "p", "html": "Espace toujours les séances poutre de 48 heures. La récupération tendineuse demande plus de temps que la récupération musculaire. Sur trois ans de pratique régulière, j'ai noté que mes meilleures progressions sont venues de blocs de six semaines à deux séances poutre, suivies d'une semaine de décharge totale."},
+    {"type": "h2", "text": "Campus board, à manier après le 7c"},
+    {"type": "p", "html": "Le campus board est ce mur incliné avec des lattes horizontales sur lesquelles tu te déplaces sans pieds, à la dyno. Wolfgang Güllich l'a popularisé en travaillant son Action Directe en 1991. C'est un outil de puissance maximale qui ne se touche pas avant le 7c falaise solide. Avant, le rapport risque-bénéfice est trop défavorable."},
+    {"type": "p", "html": "Sur campus, les protocoles classiques sont les 1-4-7 et 1-3-5-7. Tu accroches une latte avec une main, tu lances l'autre main sur une latte plus haute, tu reviens. Trois à quatre essais par séance, jamais plus. Une séance de campus mal gérée détruit une saison."},
+    {"type": "h2", "text": "Mon expérience avec la poutre"},
+    {"type": "p", "html": "J'ai démarré la poutre à 16 ans, après deux ans de grimpe. Trop tôt clairement. Je faisais des sessions de 45 minutes deux fois par semaine sans plan. À 17 ans, rupture partielle de la poulie A2 majeur droit, trois mois sans grimper. Depuis, je suis le protocole Eva Lopez deux fois par semaine, et je n'ai plus eu de pépin de doigt sérieux."},
+    {"type": "quote", "text": "La poutre fait progresser deux types de grimpeurs : ceux qui respectent la progression, et ceux qui sortent de blessure. Choisis ton camp.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
+    {"type": "p", "html": "Pour aller plus loin sur la prévention, va voir <a href=\"/blog/blessures-doigts-grimpeur\">prévenir et traiter les blessures de doigts</a>. La routine d'<a href=\"/blog/echauffement-grimpe-routine\">échauffement avant la grimpe</a> est non négociable avant toute séance poutre. Pour l'organisation globale, lis <a href=\"/blog/preparer-corps-tete-grimpe\">la préparation physique et mentale du grimpeur</a>."}
+  ],
+  "faq": [
+    {"q": "À partir de quel niveau commencer la poutre ?", "a": "Vise 18 mois de grimpe régulière minimum et un niveau 6c falaise ou 6b salle. Avant, la poutre apporte peu et risque beaucoup. Les jeunes de moins de 16 ans devraient éviter complètement la poutre, leurs plaques de croissance ne sont pas adaptées aux charges des suspensions."},
+    {"q": "Combien de temps tenir sur une réglette en poutre ?", "a": "Pour le protocole de force max, vise 7 à 10 secondes à pleine intensité, ajusté par du lest. Au-dessus de 12 secondes, tu travailles plutôt l'endurance de force. La règle simple : si tu tiens facilement 15 secondes sur une réglette, passe à plus petit ou ajoute du lest."},
+    {"q": "Quelle poutre choisir pour débuter ?", "a": "La Beastmaker 1000 reste la référence pour débuter, avec des prises variées de 10 à 35 mm. Compte 90 euros. La Tension Grindstone offre une finition bois plus douce sur la peau, autour de 120 euros. Évite les premières gammes plastique à 30 euros, les prises sont trop agressives."},
+    {"q": "Peut-on faire de la poutre tous les jours ?", "a": "Non. Les tendons et poulies demandent 48 heures minimum entre deux séances. Faire poutre quotidienne déclenche une blessure en deux à trois semaines. Maximum deux séances de poutre lourdes par semaine, plus éventuellement de la suspension légère d'échauffement les autres jours."},
+    {"q": "Quelle différence entre semi-arquée et pleine arquée ?", "a": "En pleine arquée, le pouce verrouille les doigts repliés et tu actives au maximum les poulies A2 et A4. En semi-arquée, le pouce reste libre et les doigts sont moins crispés. La pleine arquée développe plus de force mais blesse plus, à utiliser 20 pour cent du temps au plus."},
+    {"q": "Le campus board accélère-t-il vraiment la progression ?", "a": "Oui à très haut niveau, à partir du 7c-8a confirmé. Avant, l'outil ne sert à rien et casse souvent. Le campus travaille la puissance explosive et la force-contact, deux qualités utiles uniquement quand tu as déjà la base de force et de technique. Trop tôt, c'est contre-productif."}
+  ],
+  "cover_alt": "Grimpeur en suspension semi-arquée sur poutre Beastmaker 1000 fixée à une porte",
+  "internal_links": [
+    {"slug": "preparer-corps-tete-grimpe", "anchor": "la préparation physique et mentale du grimpeur", "context": "Pilier préparation"},
+    {"slug": "echauffement-grimpe-routine", "anchor": "échauffement avant la grimpe", "context": "Échauffement obligatoire"},
+    {"slug": "musculation-grimpeur-base", "anchor": "musculation de base du grimpeur", "context": "Force complémentaire"},
+    {"slug": "blessures-doigts-grimpeur", "anchor": "prévenir et traiter les blessures de doigts", "context": "Prévention poulies"},
+    {"slug": "recuperation-active-jours-off", "anchor": "récupération active et jours off", "context": "Récupération tendineuse"}
+  ],
+  "scheduled_at": "2027-02-11T09:00:00+01:00"
+}

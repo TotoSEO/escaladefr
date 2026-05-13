@@ -1,0 +1,264 @@
+{
+  "slug": "preparer-corps-tete-grimpe",
+  "cocon": "preparation",
+  "type_article": "hub",
+  "numero": 6,
+  "title": "Préparation escalade : corps et tête pour la grimpe",
+  "h1": "Préparer son corps et sa tête pour grimper.",
+  "description": "Préparation physique et mentale en escalade : échauffement, musculation, endurance, étirements, alimentation, récupération et gestion du stress.",
+  "chapo": "Comment progresser durablement en escalade ? L'erreur classique consiste à passer dix heures sur le mur sans préparer ni récupérer. Le grimpeur performant articule plutôt entraînement physique, gestion du stress, alimentation et sommeil. Je détaille ici les piliers de la préparation, basés sur la science du sport et l'expérience de terrain.",
+  "takeaways": [
+    "L'échauffement réduit jusqu'à 70% le risque de tendinite chez le grimpeur.",
+    "La force maximale aux doigts se développe sur poutre, jamais avant 6 mois de pratique.",
+    "L'endurance s'entraîne en continuité jusqu'à pomper sans tomber, 30 min minimum.",
+    "Le sommeil et l'alimentation pèsent autant que les séances d'entraînement.",
+    "La préparation mentale par visualisation améliore la performance de 15 à 20%."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "L'échauffement : la séance qui sauve les tendons"
+    },
+    {
+      "type": "p",
+      "html": "Le grimpeur prudent commence toujours par <strong>15 à 20 minutes d'échauffement progressif</strong>. Quatre minutes de cardio léger (vélo, course sur place), cinq minutes de mobilité articulaire (épaules, poignets, chevilles), puis cinq voies faciles en montant graduellement la difficulté. L'enchaînement libère les liquides articulaires, élève la température musculaire et active le système nerveux."
+    },
+    {
+      "type": "p",
+      "html": "L'absence d'échauffement reste la première cause de tendinite des doigts chez le grimpeur amateur. Les fibres tendineuses ne supportent pas la mise en charge brutale à froid, surtout au-delà de 25 ans. Notre <a href=\"/blog/echauffement-grimpe-routine\">routine d'échauffement détaillée</a> propose un protocole en 15 minutes adapté à la salle comme à la falaise."
+    },
+    {
+      "type": "h2",
+      "text": "Force maximale : poutre, pan et patience"
+    },
+    {
+      "type": "p",
+      "html": "La force aux doigts conditionne la progression au-delà du 6c. Le travail spécifique passe par la <strong>poutre d'escalade</strong> (hangboard) : suspensions sur réglettes, demi-arquées, demi-tendues. La règle d'or : <strong>jamais avant 6 mois de pratique régulière</strong>, le temps que les fibres tendineuses se renforcent naturellement. Le respect de cette règle évite 80% des blessures de poulie."
+    },
+    {
+      "type": "p",
+      "html": "Le pan moon, mur incliné équipé de prises, sollicite force et coordination simultanément. Compte 2 séances par semaine maximum, jamais deux jours d'affilée. Mes séances tournent autour de 6 à 8 suspensions de 7 secondes avec 2 minutes de récupération entre, plus 4 montées de pan en bloc dur. Consulte notre <a href=\"/blog/grip-strength-poutre-pan\">guide poutre et pan</a> pour le détail des protocoles."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Les 6 piliers de la préparation",
+      "items": [
+        {
+          "title": "Échauffement",
+          "body": "15 à 20 min de cardio léger, mobilité articulaire et voies progressives. Indispensable, jamais à sauter."
+        },
+        {
+          "title": "Force maximale",
+          "body": "Poutre et pan moon, 2 séances par semaine maxi. Démarre après 6 mois minimum d'escalade."
+        },
+        {
+          "title": "Endurance",
+          "body": "Continuité, 4x4, séances longues à 60-70% du max. Pour tenir le pompage sur les longues voies."
+        },
+        {
+          "title": "Gainage",
+          "body": "Abdos, lombaires, transverse, dorsaux. Le core sépare le grimpeur intermédiaire du confirmé."
+        },
+        {
+          "title": "Souplesse",
+          "body": "Hanches, ischio-jambiers, épaules. Permet les écarts, les drapeaux et les jetés bas."
+        },
+        {
+          "title": "Mental",
+          "body": "Visualisation, gestion du stress, journal d'entraînement. Pèse 30% du résultat final."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Endurance et continuité : tenir le pompage"
+    },
+    {
+      "type": "p",
+      "html": "L'endurance de force désigne la capacité à enchaîner des mouvements difficiles sans tomber pomper. Elle se développe par la continuité : grimper 30 à 60 minutes sans pause, à 60-70% de ton niveau max. Le 4x4 (4 voies enchaînées, 4 fois, 4 minutes de récup) reste un grand classique pour préparer une falaise estivale. Le pompage est mental autant que physique, l'endurance entraîne aussi la tolérance à l'acide lactique."
+    },
+    {
+      "type": "p",
+      "html": "Pour les voies longues type grande voie ou les sites comme Céüse où les voies tournent autour de 30 mètres, l'endurance fait la différence. Notre <a href=\"/blog/endurance-continuite-grimpe\">guide endurance et continuité</a> détaille les séances types selon ton niveau actuel."
+    },
+    {
+      "type": "h2",
+      "text": "Gainage et musculation complémentaire"
+    },
+    {
+      "type": "p",
+      "html": "Le gainage soutient la position en surplomb et en toit. Travaille les transverses (planche, planche latérale), les obliques (rotations légères), les dorsaux (tractions), et les épaules (élévations latérales légères). Évite la musculation lourde déconnectée du geste de grimpe, elle alourdit sans bénéfice. Trois à quatre séances de 20 minutes par semaine suffisent à transformer ta tenue de bassin."
+    },
+    {
+      "type": "p",
+      "html": "Notre <a href=\"/blog/core-gainage-grimpe\">protocole de gainage pour grimpeur</a> propose un circuit en 15 minutes à faire chez soi. Les tractions classiques (10 à 20 répétitions) et les pompes (15 à 30) restent les pierres angulaires d'un physique de grimpeur équilibré."
+    },
+    {
+      "type": "table",
+      "caption": "Répartition hebdomadaire type pour intermédiaire (8 à 10 h)",
+      "headers": ["Jour", "Séance", "Durée"],
+      "rows": [
+        ["Lundi", "Repos ou étirements doux", "30 min"],
+        ["Mardi", "Voies (technique, endurance)", "2 h"],
+        ["Mercredi", "Force poutre + gainage", "1 h"],
+        ["Jeudi", "Repos", "0"],
+        ["Vendredi", "Bloc (force, lecture)", "1 h 30"],
+        ["Samedi", "Falaise ou voies longues", "3 h"],
+        ["Dimanche", "Mobilité, récupération active", "45 min"]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Souplesse et mobilité : l'écart fait la voie"
+    },
+    {
+      "type": "p",
+      "html": "Une bonne souplesse aux hanches débloque des mouvements impossibles à un grimpeur raide. L'écart frontal et latéral, les rotations de hanche, l'ouverture des épaules conditionnent ton vocabulaire technique. Travaille la souplesse à froid 5 minutes après chaque séance, et 20 minutes une à deux fois par semaine en séance dédiée."
+    },
+    {
+      "type": "p",
+      "html": "Le yoga reste l'un des meilleurs compléments à l'escalade. Une séance hebdomadaire de Yin Yoga ou de Vinyasa apporte mobilité, conscience corporelle et récupération mentale. Notre <a href=\"/blog/etirements-grimpeur-souplesse\">guide des étirements pour grimpeur</a> propose des routines courtes et efficaces."
+    },
+    {
+      "type": "h2",
+      "text": "Alimentation et hydratation : carburant et récup"
+    },
+    {
+      "type": "p",
+      "html": "L'escalade demande un ratio puissance/poids favorable. Mais attention à la dérive : <strong>l'amaigrissement excessif</strong> reste la première cause de blessures de poulie et de troubles du comportement alimentaire chez les jeunes grimpeurs. Vise une alimentation équilibrée, riche en protéines (1.5-2 g/kg de poids), avec des glucides complexes le matin et autour des séances. Hydratation : 30 à 40 ml/kg/jour minimum."
+    },
+    {
+      "type": "p",
+      "html": "Trois heures avant la séance : repas digeste à dominante glucidique. Pendant : eau plus barre ou banane si la séance dépasse 90 minutes. Après : recharge protéique dans les 30 minutes (yaourt, fromage blanc, smoothie). Tu trouveras les détails dans notre <a href=\"/blog/alimentation-grimpeur-essentiel\">guide alimentation grimpeur</a>."
+    },
+    {
+      "type": "h2",
+      "text": "Sommeil et récupération : 50% du gain"
+    },
+    {
+      "type": "p",
+      "html": "L'effet d'un entraînement se construit pendant le repos, pas pendant la séance. <strong>Sept à neuf heures de sommeil de qualité</strong> conditionnent la régénération musculaire, la consolidation des apprentissages moteurs et la santé tendineuse. Une nuit à six heures suivie d'une grosse séance multiplie par trois le risque de blessure les jours suivants."
+    },
+    {
+      "type": "p",
+      "html": "Les jours off comptent autant que les jours d'entraînement. Active ta récupération avec une marche douce, du vélo léger, un peu de mobilité. Évite l'inactivité totale qui ralentit les flux circulatoires. Consulte <a href=\"/blog/recuperation-active-jours-off\">notre dossier récupération active</a>."
+    },
+    {
+      "type": "image_text",
+      "image": "/blog/preparer-corps-tete-grimpe.webp",
+      "alt": "Grimpeur réalisant un étirement de hanche après séance sur tapis dans une salle d'escalade",
+      "text": "La récupération active prolonge la séance. Cinq minutes d'étirements doux après chaque sortie réduisent la sensation de raideur du lendemain et préparent le corps à la prochaine séance. C'est l'un des gestes les plus rentables du grimpeur sérieux.",
+      "position": "right",
+      "caption": "L'après-séance compte autant que la séance"
+    },
+    {
+      "type": "h2",
+      "text": "La tête : visualisation et gestion du stress"
+    },
+    {
+      "type": "p",
+      "html": "Le mental compte pour 30 à 50% de la performance en escalade. La visualisation, technique utilisée par tous les athlètes de haut niveau, consiste à se représenter l'enchaînement de la voie mentalement avant de grimper. Cette pratique active les mêmes circuits cérébraux que l'exécution réelle. Cinq à dix minutes de visualisation avant un essai max produisent un effet mesurable."
+    },
+    {
+      "type": "p",
+      "html": "La gestion du stress en tête, du clipping difficile, de la prochaine prise floue, passe par la respiration. Inspire profondément par le nez en 4 temps, retiens 2 temps, expire par la bouche en 6 temps. Cette respiration cohérence cardiaque réduit le rythme cardiaque et le stress en moins de 90 secondes. Lis notre <a href=\"/blog/visualisation-mental-escalade\">guide visualisation et mental</a>."
+    },
+    {
+      "type": "quote",
+      "text": "Le corps fait ce que la tête lui demande. Si tu n'as pas confiance dans la prochaine prise, tes doigts ne s'y poseront jamais correctement.",
+      "author": "Antoine",
+      "role": "Rédacteur escalade-france.fr"
+    },
+    {
+      "type": "h2",
+      "text": "Le journal d'entraînement : ce qui se mesure progresse"
+    },
+    {
+      "type": "p",
+      "html": "Notez vos séances reste l'outil le plus sous-utilisé en escalade amateur. Un simple cahier avec date, type de séance, voies réussies, sensations, fatigue ressentie, permet de repérer les patterns. Tu remarqueras par exemple que tes meilleures séances suivent toujours deux jours de repos. Ou que la chaleur t'empêche de performer au-delà de 25°C."
+    },
+    {
+      "type": "p",
+      "html": "Cette mémoire écrite vaut tous les conseils du coach absent. Notre <a href=\"/blog/journal-entrainement-progression\">méthode du journal d'entraînement</a> propose une trame simple à remplir en cinq minutes par séance."
+    },
+    {
+      "type": "tip",
+      "title": "Mesurer pour progresser",
+      "body": "Note ton ressenti après chaque séance sur 10 : énergie, motivation, qualité gestuelle. Si tu plafonnes sous 6/10 trois séances d'affilée, il est temps de prendre une semaine de décharge. C'est de la prévention de surentraînement.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Les blessures évitables : doigts, coudes, épaules"
+    },
+    {
+      "type": "p",
+      "html": "Les blessures du grimpeur ne tombent pas du ciel. Elles signalent presque toujours une faute de préparation : échauffement bâclé, montée en charge trop rapide, repos insuffisants, technique tordue. Les poulies digitales, l'épitrochléite (coude du grimpeur), la coiffe des rotateurs représentent 80% des consultations spé. Lis nos guides sur <a href=\"/blog/blessures-doigts-grimpeur\">les blessures de doigts</a> et <a href=\"/blog/tendinite-epaule-coude-grimpe\">les tendinites épaule coude</a>."
+    },
+    {
+      "type": "p",
+      "html": "La règle simple : ne grimpe jamais à 100% deux jours d'affilée. Alterne intensité et volume. Si tu sens une gêne articulaire, arrête la séance. Le repos forcé d'une semaine vaut mieux que trois mois d'arrêt complet pour rupture de poulie."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Faut-il faire de la musculation en plus de l'escalade ?",
+      "a": "Au-delà du 7a, oui. Un travail complémentaire de musculation ciblée (tractions, gainage, antagonistes) prévient les déséquilibres et accélère la progression. Évite la musculation lourde des jambes ou des pectoraux qui n'apporte rien à la grimpe."
+    },
+    {
+      "q": "Quand peut-on commencer la poutre d'escalade ?",
+      "a": "Pas avant 6 mois de pratique régulière minimum, idéalement 12 mois. Les tendons des doigts mettent du temps à se renforcer. Commencer trop tôt expose à des ruptures de poulie quasi-systématiques. Privilégie d'abord la grimpe sur prises variées."
+    },
+    {
+      "q": "Combien de séances d'escalade par semaine ?",
+      "a": "Pour progresser, deux à trois séances par semaine constituent la base. Plus de quatre demande une vraie programmation et des compétences anti-blessures. Moins de deux ne permet pas de réelle progression au-delà du palier 6a."
+    },
+    {
+      "q": "Faut-il maigrir pour mieux grimper ?",
+      "a": "Pas nécessairement. Le ratio puissance/poids compte, mais la perte excessive de poids fragilise les tendons, perturbe l'équilibre hormonal et augmente le risque de blessure. Vise plutôt à gagner en force et en technique avant de retoucher au poids."
+    },
+    {
+      "q": "Combien d'heures dormir pour bien grimper ?",
+      "a": "Sept à neuf heures par nuit pour un adulte. Le sommeil profond reconstruit les fibres musculaires et consolide les apprentissages moteurs. Une nuit à 5-6 heures réduit la performance de 15 à 20% le lendemain et augmente le risque de blessure."
+    },
+    {
+      "q": "La visualisation aide-t-elle vraiment à grimper ?",
+      "a": "Oui, plusieurs études confirment un gain de performance de 10 à 20% chez les grimpeurs qui pratiquent la visualisation régulière. Représente mentalement chaque mouvement, les sensations, les prises, le rythme. Cinq minutes avant un essai max suffisent."
+    }
+  ],
+  "cover_alt": "Grimpeur s'étirant sur tapis avant séance, focus sur épaule et avant-bras",
+  "internal_links": [
+    {
+      "slug": "echauffement-grimpe-routine",
+      "anchor": "routine d'échauffement détaillée",
+      "context": "Article enfant cocon preparation"
+    },
+    {
+      "slug": "grip-strength-poutre-pan",
+      "anchor": "guide poutre et pan",
+      "context": "Article enfant cocon preparation"
+    },
+    {
+      "slug": "endurance-continuite-grimpe",
+      "anchor": "guide endurance et continuité",
+      "context": "Article enfant cocon preparation"
+    },
+    {
+      "slug": "core-gainage-grimpe",
+      "anchor": "protocole de gainage pour grimpeur",
+      "context": "Article enfant cocon preparation"
+    },
+    {
+      "slug": "alimentation-grimpeur-essentiel",
+      "anchor": "guide alimentation grimpeur",
+      "context": "Article enfant cocon preparation"
+    },
+    {
+      "slug": "visualisation-mental-escalade",
+      "anchor": "guide visualisation et mental",
+      "context": "Article enfant cocon preparation"
+    }
+  ],
+  "scheduled_at": "2026-05-23T09:00:00+02:00"
+}

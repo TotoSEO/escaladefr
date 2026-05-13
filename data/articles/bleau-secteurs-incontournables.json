@@ -1,0 +1,204 @@
+{
+  "slug": "bleau-secteurs-incontournables",
+  "cocon": "sites",
+  "type_article": "liste",
+  "numero": 82,
+  "title": "Bleau : Bas Cuvier, Apremont, Cul du Chien et autres",
+  "h1": "Les secteurs incontournables de Fontainebleau",
+  "description": "Tour des secteurs majeurs de Bleau : Bas Cuvier, Apremont, Cul du Chien. Accès, ambiance, circuits classiques et conseils par un grimpeur du site.",
+  "chapo": "Bleau ne se visite pas en un week-end. Plus de cinquante secteurs se partagent la forêt, chacun avec son ambiance, son histoire et ses circuits emblématiques. Si tu débarques avec peu de temps, mieux vaut viser les classiques. Voici les six secteurs incontournables, ceux où tout grimpeur passe au moins une fois, racontés par quelqu'un qui les a tous arpentés.",
+  "takeaways": [
+    "Bas Cuvier reste le secteur historique avec ses circuits du jaune au blanc en accès immédiat.",
+    "Apremont offre un volume gigantesque et la plus grande variété de niveaux.",
+    "Le Cul du Chien dans les Trois Pignons est mythique pour ses blocs photogéniques.",
+    "Franchard et Roche aux Sabots complètent les classiques avec leurs ambiances forestières.",
+    "Larchant ferme partiellement en été et reste un secteur engagé à connaître."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Pourquoi choisir un secteur plutôt qu'un autre"
+    },
+    {
+      "type": "p",
+      "html": "Avec plus de 30 000 blocs répartis sur des dizaines de massifs, Bleau peut sembler intimidant au premier abord. Chaque secteur a sa personnalité, son grès, son éclairage et sa fréquentation. Le choix dépend de plusieurs facteurs, ton niveau, la durée de l'approche acceptable, l'orientation du jour et la météo prévue. Un secteur ombragé conviendra mal en hiver mais sauvera ta journée en mai. À l'inverse, une zone exposée plein sud te chauffera dès neuf heures."
+    },
+    {
+      "type": "p",
+      "html": "Mon premier conseil reste simple. Commence par les secteurs accessibles, situés à moins de quinze minutes du parking. Tu réserveras les approches longues quand tu connaîtras mieux la forêt. Voici les six incontournables, classés par ordre de proximité avec les parkings et par ambiance."
+    },
+    {
+      "type": "table",
+      "caption": "Vue d'ensemble des six secteurs",
+      "headers": ["Secteur", "Massif", "Accès", "Niveau", "Ambiance"],
+      "rows": [
+        ["Bas Cuvier", "Forêt domaniale centrale", "5 min", "3 à 8A+", "Historique, fréquenté, varié"],
+        ["Apremont", "Forêt domaniale centrale", "10 min", "3 à 8B", "Volume immense, plateau découvert"],
+        ["Cul du Chien", "Trois Pignons", "20 min", "3 à 8A", "Boules sur sable, photogénique"],
+        ["Franchard", "Forêt domaniale centrale", "10 min", "3 à 7C", "Forêt dense, peu de soleil"],
+        ["Roche aux Sabots", "Trois Pignons", "15 min", "3 à 7C", "Ambiance familiale, longs circuits"],
+        ["Larchant", "Plaine de Larchant", "5 à 25 min", "3 à 8B+", "Hauts blocs, sortie engagée"]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bas Cuvier, le berceau de la grimpe à Bleau"
+    },
+    {
+      "type": "p",
+      "html": "<strong>Bas Cuvier</strong>, c'est le secteur où tout a commencé. Pierre Allain et la bande des années 1930 ont taillé leurs premières classiques ici. Le parking se trouve à cinq minutes des premiers blocs, ce qui en fait l'entrée idéale pour les visiteurs pressés ou les sorties d'après-midi. Le secteur s'étend sur environ un kilomètre, structuré par des sentes claires et des panneaux d'information installés par l'ONF."
+    },
+    {
+      "type": "p",
+      "html": "Le circuit bleu de Bas Cuvier reste l'un des plus pédagogiques de la forêt. Il fait découvrir toutes les caractéristiques du grès en quarante blocs. Le rouge propose des passages tendus mais accessibles. Pour les fortes, le noir et le blanc renferment des classiques comme la Marie-Rose, premier 6A historique de France ouvert en 1946 par Pierre Allain. Tu te bats sur ce bloc en pensant que tu marches sur les traces de l'histoire, c'est une émotion particulière."
+    },
+    {
+      "type": "p",
+      "html": "Côté ambiance, Bas Cuvier reste fréquenté toute l'année, surtout les week-ends. Tu croises des Bleausards de toutes générations, des écoles d'escalade, des touristes étrangers. La cohabitation se passe globalement bien mais demande un peu de patience aux heures de pointe. Pour grimper tranquille, vise le mardi ou le mercredi en début d'après-midi, le secteur retrouve alors une atmosphère plus contemplative."
+    },
+    {
+      "type": "p",
+      "html": "Le secteur se divise en plusieurs zones, Cuvier Rempart au nord, Cuvier Merveille au sud, le Cuvier classique au centre. Chaque sous-zone offre une ambiance différente. Rempart est plus aérien, Merveille plus technique, le centre regroupe les blocs historiques. Cette structure te permet de tourner sur la journée sans jamais revenir sur les mêmes blocs, idéal pour qui aime varier les saveurs en restant dans un périmètre restreint."
+    },
+    {
+      "type": "h2",
+      "text": "Apremont, le plateau aux mille blocs"
+    },
+    {
+      "type": "p",
+      "html": "<strong>Apremont</strong> est le secteur de tous les superlatifs. Le plateau s'étend sur plusieurs hectares, parsemé de boules de grès dans tous les sens. Tu peux passer une semaine complète sans tourner deux fois autour du même bloc. Le parking principal du Belvédère donne accès au cœur du secteur en dix minutes. Plusieurs parkings annexes desservent les différents sous-secteurs comme Apremont Bizons, Apremont Envers ou Apremont Désert."
+    },
+    {
+      "type": "p",
+      "html": "Le <strong>Bleau N°1</strong>, premier circuit jamais ouvert en 1947, traverse Apremont. Quarante-deux blocs du 4 au 5+, c'est le pèlerinage obligé pour qui veut s'inscrire dans l'histoire du site. Les passionnés racontent avoir mis dix ans à le boucler complètement. À côté, le rouge d'Apremont propose un parcours plus moderne du 5 au 6A, varié et bien équilibré. Pour les plus forts, le blanc de la Dame Jouanne reste un objectif de toute une vie."
+    },
+    {
+      "type": "p",
+      "html": "L'ambiance d'Apremont diffère radicalement de Cuvier. Le plateau est dégagé, on voit le ciel, la lumière baigne les blocs en fin d'après-midi. C'est aussi un secteur qui chauffe vite en milieu de journée, à éviter en plein été. La fréquentation se dilue dans le volume, tu trouves toujours un coin tranquille même un samedi de novembre. C'est ce qui fait son charme inépuisable."
+    },
+    {
+      "type": "h2",
+      "text": "Cul du Chien, le photo spot des Trois Pignons"
+    },
+    {
+      "type": "p",
+      "html": "Le <strong>Cul du Chien</strong> est probablement le secteur le plus photographié de Bleau. Ses boules de grès reposent sur du sable blanc, créant une ambiance désertique unique en forêt. L'approche depuis le parking de la Croix Saint-Jérôme prend vingt minutes par un beau sentier sablonneux. Tu débouches sur une clairière qui ressemble à un décor de cinéma. La première fois que j'y suis allé, j'ai compris pourquoi les magazines en font la couverture."
+    },
+    {
+      "type": "p",
+      "html": "Le secteur convient particulièrement aux familles et aux débutants. Le sable amortit les chutes, les blocs ne dépassent pas trois mètres pour la plupart, et les circuits jaune et orange sont parfaits pour une initiation. Les blocs phares comme l'Éléphant ou la Bilboquet attirent les fortes pour leurs passages techniques. La cotation maximale du secteur grimpe jusqu'au 8A+ sur des projets très spécifiques."
+    },
+    {
+      "type": "p",
+      "html": "Attention en revanche à la fréquentation les week-ends. Le Cul du Chien est devenu un spot très couru depuis qu'il apparaît sur Instagram et les reels. Pour grimper tranquille, viens en semaine. L'érosion des sentiers est aussi un sujet, respecte les passages balisés pour ne pas aggraver les dégradations sur les pieds des blocs et les racines exposées."
+    },
+    {
+      "type": "h2",
+      "text": "Franchard, l'ambiance sous-bois"
+    },
+    {
+      "type": "p",
+      "html": "Franchard se distingue par son ambiance forestière dense. Les blocs émergent au milieu des pins sylvestres, parfois mousseux, avec une lumière tamisée même en plein midi. Le secteur conserve plus longtemps son humidité que les zones dégagées, ce qui peut poser problème en automne pluvieux mais sauve l'été. Les circuits orange et bleu de Franchard Cuisinière sont des classiques accessibles depuis le parking de l'ancien ermitage."
+    },
+    {
+      "type": "p",
+      "html": "Le secteur regroupe plusieurs sous-zones comme Franchard Isatis, Franchard Hautes Plaines ou Franchard Bizons. Chacune a son caractère. Isatis offre des dévers compacts pour grimpeurs aguerris, Hautes Plaines propose des dalles techniques, Bizons combine les deux. Plusieurs des ouvertures historiques du 7 sont nées ici dans les années 1970 et 1980, signées par des grimpeurs comme Jean-Pierre Bouvier ou Jacky Godoffe."
+    },
+    {
+      "type": "p",
+      "html": "L'orientation principalement nord et la canopée font de Franchard un refuge parfait quand les autres secteurs deviennent trop chauds. Inversement, en hiver, les blocs peuvent rester humides pendant des jours après une pluie. Vérifie la météo des trois jours précédents avant de partir, sous peine de te retrouver devant des blocs gras impossibles à grimper."
+    },
+    {
+      "type": "h2",
+      "text": "Roche aux Sabots, le secteur famille des Trois Pignons"
+    },
+    {
+      "type": "p",
+      "html": "Roche aux Sabots, dans les Trois Pignons, séduit par son ambiance plus douce que les classiques de la forêt centrale. Le parking de la Roche aux Sabots dessert plusieurs zones accessibles aux familles en quinze minutes. Le circuit orange et le bleu enchaînent des blocs de hauteur modeste sur sable, parfaits pour une journée avec des enfants ou pour un débutant."
+    },
+    {
+      "type": "p",
+      "html": "Le secteur compte aussi quelques classiques durs, comme la Cigare ou le toit du Christo. Ces blocs émergent au milieu d'un volume plus accessible et offrent des projets pour qui veut pousser après l'échauffement. La luminosité y est belle en fin de journée, le soleil rasant joue avec les arêtes du grès et fait apparaître des reliefs invisibles à midi."
+    },
+    {
+      "type": "p",
+      "html": "Le revers de la médaille, c'est l'érosion. Le secteur a beaucoup souffert ces dernières années sous la pression touristique. Les bénévoles de l'<strong>ASOMIF</strong> ont posé des marches en bois et des plaques pour canaliser les flux. Respecte ces aménagements et ne grimpe pas sur les blocs marqués comme protégés. La survie du secteur en dépend."
+    },
+    {
+      "type": "h2",
+      "text": "Larchant, l'engagement et les hauts blocs"
+    },
+    {
+      "type": "p",
+      "html": "Larchant, au sud-ouest, change complètement de registre. Les blocs y sont plus hauts, parfois six à huit mètres, avec des sorties engagées sur dalle. C'est le secteur des sensations fortes, à réserver aux grimpeurs expérimentés ou bien encadrés. Le Toit du Cul de Chien et l'Éléphant de Larchant sont devenus des références mondiales de la grimpe en hauteur sur grès."
+    },
+    {
+      "type": "p",
+      "html": "Le secteur ferme partiellement pendant la nidification du <strong>faucon pèlerin</strong>, généralement du <strong>15 février au 15 juin</strong>. Renseigne-toi sur le site du <strong>COSIROC</strong> avant de planifier ta sortie. Le respect de ces fermetures conditionne l'avenir de la pratique sur Larchant. Plusieurs grimpeurs ont menacé l'équilibre négocié avec les autorités en passant outre, c'est exactement ce qu'il ne faut pas faire."
+    },
+    {
+      "type": "tip",
+      "title": "Trois pads minimum à Larchant",
+      "body": "Sur les hauts blocs de Larchant, un seul crashpad ne suffit pas. Prévois minimum trois pads et un ou deux pareurs attentifs. Les chutes de cinq mètres se gèrent mal sans préparation. Plusieurs accidents graves se sont produits ici par négligence, ne fais pas l'impasse sur ce point de sécurité.",
+      "tone": "attention"
+    },
+    {
+      "type": "h2",
+      "text": "Comment organiser une semaine pour visiter ces secteurs"
+    },
+    {
+      "type": "p",
+      "html": "Si tu disposes d'une semaine pour découvrir Bleau, voici une rotation qui fonctionne bien. Le lundi, attaque par Bas Cuvier pour t'habituer au grès en douceur. Le mardi, enchaîne sur Apremont pour goûter au volume. Le mercredi, change d'ambiance avec le Cul du Chien dans les Trois Pignons. Le jeudi, repos actif ou découverte d'un secteur secondaire. Le vendredi, reviens sur Franchard. Le samedi, finis sur Roche aux Sabots ou Larchant selon ton niveau."
+    },
+    {
+      "type": "p",
+      "html": "Cette rotation respecte les fibres et te fait découvrir des ambiances variées. Évite de doubler les journées sur le même secteur, tu finiras lassé et tes mains crieront grâce. Garde toujours une demi-journée de récupération pour profiter de la forêt sans grimper, c'est aussi ça l'expérience Bleau, marcher entre les massifs en regardant le rocher."
+    },
+    {
+      "type": "h2",
+      "text": "Pour aller plus loin dans la découverte"
+    },
+    {
+      "type": "p",
+      "html": "Ces six secteurs ne sont qu'une porte d'entrée. Une fois rodé, explore Buthiers, le 91.1, le Rocher des Souris ou les blocs confidentiels au nord de la forêt. Pour comprendre comment fonctionnent les circuits, lis notre guide sur les <a href=\"/blog/bleau-circuits-debutant\">circuits de Bleau pour débuter</a>. Pour l'histoire et la géologie, plonge dans <a href=\"/blog/fontainebleau-bloc-foret\">Fontainebleau, capitale mondiale du bloc</a>."
+    },
+    {
+      "type": "p",
+      "html": "Si tu veux varier les terrains, jette un œil aux <a href=\"/blog/verdon-grandes-voies\">grandes voies du Verdon</a> ou à notre <a href=\"/blog/sites-escalade-emblematiques-france\">tour des sites emblématiques de France</a>. Chaque site mérite sa découverte, mais Bleau garde une place unique dans le cœur de tous les grimpeurs qui y ont posé les pieds."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quel secteur choisir pour une première fois à Bleau ?",
+      "a": "Bas Cuvier reste l'idéal. Accès immédiat, circuits du jaune au blanc, ambiance historique. Tu y verras toutes les facettes du grès en une journée."
+    },
+    {
+      "q": "Où dormir près des sites pour visiter plusieurs secteurs ?",
+      "a": "Le camping La Musardière à Milly-la-Forêt place au cœur des Trois Pignons. Pour Cuvier, Apremont ou Franchard, choisis un gîte à Barbizon ou Achères-la-Forêt. Fontainebleau ville convient pour le confort hôtelier."
+    },
+    {
+      "q": "Quels secteurs éviter en été ?",
+      "a": "Apremont et le Cul du Chien chauffent très vite en plein soleil. Réserve-les pour l'automne ou l'hiver. En été, vise Franchard ou les sous-bois denses, ou grimpe avant huit heures du matin."
+    },
+    {
+      "q": "Est-ce que tous les secteurs sont ouverts toute l'année ?",
+      "a": "Non. Larchant ferme partiellement entre février et juin pour la nidification du faucon pèlerin. Certains blocs isolés ferment ponctuellement après des éboulements ou pour entretien. Vérifie sur le site du COSIROC."
+    },
+    {
+      "q": "Combien de crashpads pour visiter Bleau ?",
+      "a": "Un suffit pour les jaunes et oranges sur la plupart des secteurs. Pour Bas Cuvier et Apremont en rouge ou noir, deux pads aident. Pour Larchant et les hauts blocs, prévois trois pads minimum."
+    },
+    {
+      "q": "Y a-t-il des secteurs accessibles avec enfants en bas âge ?",
+      "a": "Roche aux Sabots et le Cul du Chien conviennent parfaitement. Sable, blocs bas, ambiance ludique. Le Bois Rond et le Rocher de Bouligny dans les Trois Pignons sont aussi très adaptés aux familles."
+    }
+  ],
+  "cover_alt": "Grimpeur sur les boules de grès du Cul du Chien dans les Trois Pignons à Fontainebleau",
+  "internal_links": [
+    {"slug": "fontainebleau-bloc-foret", "anchor": "Fontainebleau, capitale mondiale du bloc", "context": "Article parent sur le site"},
+    {"slug": "bleau-circuits-debutant", "anchor": "circuits de Bleau pour débuter", "context": "Approche pédagogique des circuits"},
+    {"slug": "sites-escalade-emblematiques-france", "anchor": "tour des sites emblématiques de France", "context": "Pilier du cocon"},
+    {"slug": "verdon-grandes-voies", "anchor": "grandes voies du Verdon", "context": "Lien vers l'autre site mythique"}
+  ],
+  "scheduled_at": "2026-11-10T09:00:00+01:00"
+}

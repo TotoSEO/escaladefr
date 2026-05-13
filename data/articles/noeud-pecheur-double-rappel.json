@@ -1,0 +1,257 @@
+{
+  "slug": "noeud-pecheur-double-rappel",
+  "cocon": "noeuds",
+  "type_article": "astuce",
+  "numero": 71,
+  "title": "Nœud de pêcheur double : jonction solide pour rappel",
+  "h1": "Le pêcheur double, jonction de cordes solide pour rappel",
+  "description": "Le pêcheur double pour relier deux cordes de rappel. Tracé pas à pas, charge de rupture, comparaison avec le Mickey et limites d'usage.",
+  "chapo": "Le pêcheur double, ou double fisherman's knot en anglais, joint deux cordes de rappel par deux nœuds symétriques qui se serrent l'un contre l'autre sous tension. Réputé pour sa fiabilité absolue, il est aussi connu pour son volume qui peut accrocher dans le rocher quand tu rappelles. Tracé, dimensionnement et usage raisonné pour profiter de sa solidité sans subir ses inconvénients.",
+  "takeaways": [
+    "Le pêcheur double est constitué de deux nœuds simples doubles tracés symétriquement sur chaque corde, qui glissent l'un vers l'autre sous charge.",
+    "Sa résistance reste la plus élevée des jonctions courantes, sans aucun cas documenté de glissement ou de retournement sous charge réaliste.",
+    "Son volume sphérique facilite les coincements quand tu rappelles la corde, principal inconvénient face au Mickey ou flat overhand.",
+    "Réservé aux situations où la fiabilité prime sur la facilité de récupération : alpinisme engagé, rappels en grande voie, cordes de diamètres différents.",
+    "La FFME et l'UIAA le retiennent comme jonction de référence pédagogique, et comme solution recommandée pour les apprentis en formation rappel."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Le pêcheur double dans la famille des nœuds de jonction"
+    },
+    {
+      "type": "p",
+      "html": "Le <strong>nœud de pêcheur double</strong> appartient à la famille des nœuds de jonction de cordes, aux côtés du Mickey, du nœud de huit jonction et du pêcheur simple. Sa particularité tient à sa géométrie symétrique : chaque corde porte un nœud simple double qui enserre la corde voisine, et les deux nœuds glissent l'un vers l'autre sous tension jusqu'à se bloquer mutuellement. Le résultat est un assemblage compact, sphérique, dont la résistance approche celle de la corde seule. Pour situer ce nœud parmi les autres, consulte le <a href=\"/blog/noeuds-escalade-utiles-guide\">panorama des nœuds utiles en escalade</a>."
+    },
+    {
+      "type": "p",
+      "html": "L'origine du nœud remonte à la pêche maritime, où on l'utilisait pour relier deux fils de canne. Adopté en alpinisme dès le début du 20ᵉ siècle pour la confection des anneaux de cordelette servant aux nœuds auto-bloquants, il s'est imposé ensuite comme jonction de rappel par défaut dans les années 1960 et 1970. Sa fiabilité jamais démentie en fait le standard pédagogique des écoles d'alpinisme et des formations FFME."
+    },
+    {
+      "type": "p",
+      "html": "J'ai appris le pêcheur double en mars 2024 au club d'escalade de Colmar, lors du module de formation rappel. Le moniteur l'a présenté comme la jonction de rappel à apprendre en premier, avant le <a href=\"/blog/noeud-mickey-rappel\">Mickey</a>, parce qu'il pardonne davantage les erreurs de dimensionnement et qu'il convient à toutes les situations sans exception. C'est aussi le nœud que je continue de tracer pour confectionner les anneaux de cordelette des prussiks."
+    },
+    {
+      "type": "h2",
+      "text": "Le tracé du pêcheur double, étape par étape"
+    },
+    {
+      "type": "p",
+      "html": "Le tracé du pêcheur double demande de tracer deux fois la même séquence, une fois par corde. Chaque corde porte un nœud simple double sur la corde voisine, dans la même configuration. Sous tension, les deux nœuds glissent l'un vers l'autre jusqu'au contact, et se bloquent mutuellement. Le geste est plus long que pour un Mickey, environ trente secondes, mais reste accessible après quelques séances de pratique."
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Les six gestes du pêcheur double",
+      "items": [
+        {
+          "title": "Aligner les deux cordes en sens opposés",
+          "body": "Pose les deux extrémités de corde côte à côte, brins parallèles mais orientés en sens inverse. Laisse 50 à 60 cm de marge sur chaque corde pour avoir de quoi tracer les nœuds confortablement."
+        },
+        {
+          "title": "Tracer le premier nœud simple",
+          "body": "Avec la première corde, fais deux tours autour de la corde voisine en remontant vers le brin de tension. Tu obtiens deux spires parallèles, comme deux anneaux serrés autour de la corde voisine."
+        },
+        {
+          "title": "Passer le brin libre dans les deux spires",
+          "body": "Passe le bout de la première corde dans les deux spires que tu viens de tracer, en remontant à contre-sens. Serre progressivement pour obtenir un nœud simple double compact, sans croisement parasite."
+        },
+        {
+          "title": "Tracer le second nœud symétrique",
+          "body": "Sur la seconde corde, répète exactement la même opération en orientant le nœud vers le premier. Les deux nœuds doivent se faire face, prêts à venir au contact sous tension."
+        },
+        {
+          "title": "Mettre les deux nœuds au contact",
+          "body": "Tire sur les brins de tension des deux cordes pour faire glisser les nœuds l'un vers l'autre. Ils doivent venir s'enclencher au contact, formant un assemblage compact symétrique."
+        },
+        {
+          "title": "Vérifier la longueur des brins libres",
+          "body": "Les deux brins libres après les nœuds doivent dépasser de 10 à 15 cm minimum, contre 30 cm pour un Mickey. Le pêcheur double serre les nœuds par friction interne, et n'a pas besoin d'une marge aussi grande."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "html": "L'exécution prend une trentaine de secondes après quelques séances d'entraînement. La principale difficulté tient à orienter correctement les deux nœuds pour qu'ils viennent se faire face, sans inverser le sens de l'un d'eux. Un nœud inversé reste fonctionnel mais perd en symétrie, ce qui peut compliquer le passage dans le maillon de rappel et augmenter le risque de coincement."
+    },
+    {
+      "type": "h2",
+      "text": "La résistance et la fiabilité du pêcheur double"
+    },
+    {
+      "type": "p",
+      "html": "Le pêcheur double conserve <strong>75 à 80 %</strong> de la charge de rupture de la corde, soit une résistance résiduelle de 16 à 22 kN sur une corde dynamique conforme à la norme EN 892. Aucun cas de glissement ou de retournement sous charge n'a été documenté à ce jour dans les conditions réalistes d'usage en rappel. Les essais en laboratoire sur cordes neuves rompent la corde elle-même bien avant que le nœud ne montre des signes de défaillance."
+    },
+    {
+      "type": "p",
+      "html": "Cette fiabilité absolue explique son adoption comme jonction pédagogique de référence. La FFME l'enseigne en formation initiation rappel parce qu'il pardonne les erreurs de dimensionnement : même avec un brin libre court ou des cordes de diamètres légèrement différents, il reste fonctionnel. À l'inverse, le Mickey peut se retourner si le brin libre est insuffisant, ce qui en fait un nœud plus exigeant."
+    },
+    {
+      "type": "p",
+      "html": "Sous charge dynamique élevée, le pêcheur double a tendance à se serrer fortement, parfois jusqu'à devenir difficile à défaire. C'est le seul inconvénient mécanique notable du nœud, qui se manifeste après une chute de plusieurs mètres en autosauvetage. En rappel statique normal, le serrage reste modéré et le nœud se défait à la main après dénouage méthodique."
+    },
+    {
+      "type": "h2",
+      "text": "Le volume du nœud et la question du coincement au rappel"
+    },
+    {
+      "type": "p",
+      "html": "Le principal défaut du pêcheur double tient à son <strong>volume sphérique</strong>. Quand tu rappelles la corde après la descente, le nœud s'accroche facilement dans les anfractuosités du rocher, sur les vires herbeuses ou dans les surplombs. Sur un terrain accidenté, ce coincement peut obliger à remonter pour libérer la corde, manœuvre potentiellement engagée selon le terrain."
+    },
+    {
+      "type": "p",
+      "html": "Pour minimiser le coincement, plusieurs précautions concrètes. Première précaution, orienter le nœud vers l'extérieur de la paroi au moment de descendre, pour qu'il roule contre l'air libre plutôt que contre le rocher. Deuxième précaution, tester un tirage avant de quitter le relais, sur un mètre ou deux, pour vérifier que la corde coulisse. Troisième précaution, en cas de doute, opter pour un Mickey à la place ou rappeler une cordelette de récupération en arrière-plan."
+    },
+    {
+      "type": "tip",
+      "title": "Le test de fluidité avant de partir en rappel",
+      "body": "Avant de descendre sur un rappel engagé, tire un mètre de corde côté nœud à travers le maillon, puis relâche. Si la corde glisse fluidement, le rappel se rappellera sans problème. Si elle accroche dès le premier passage, repositionne le nœud, change d'orientation ou bascule sur un Mickey. Trente secondes de test te font économiser potentiellement une demi-heure de manœuvre de récupération.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Quand préférer le pêcheur double au Mickey"
+    },
+    {
+      "type": "p",
+      "html": "Le pêcheur double s'impose dans cinq situations concrètes. Première situation, l'alpinisme engagé sur rappel multi-longueurs où la fiabilité doit primer absolument sur la facilité. Deuxième situation, la jonction de deux cordes de diamètres très différents, par exemple une corde simple de 9,8 mm et une cordelette de 7 mm. Troisième situation, l'apprentissage du rappel chez le débutant, où le nœud doit pardonner les erreurs. Quatrième situation, la confection d'un anneau de cordelette, où le pêcheur double reste l'unique option validée. Cinquième situation, la grande voie où on enchaîne plusieurs rappels en cherchant une sécurité maximale."
+    },
+    {
+      "type": "p",
+      "html": "À l'inverse, le pêcheur double cède la place au Mickey dans tous les cas où la facilité de récupération de la corde devient critique. En falaise sportive courante avec rappels en plein vide ou sur terrain peu accidenté, le Mickey s'impose pour sa forme plate. Le choix entre les deux nœuds dépend donc autant du terrain que du niveau de pratique."
+    },
+    {
+      "type": "table",
+      "caption": "Pêcheur double et alternatives selon le contexte",
+      "headers": [
+        "Situation",
+        "Recommandation",
+        "Justification"
+      ],
+      "rows": [
+        [
+          "Rappel sportif terrain plat",
+          "Mickey préféré",
+          "Récupération facile"
+        ],
+        [
+          "Rappel alpinisme engagé",
+          "Pêcheur double",
+          "Fiabilité absolue"
+        ],
+        [
+          "Cordes diamètres différents",
+          "Pêcheur double obligatoire",
+          "Mickey non fiable"
+        ],
+        [
+          "Apprentissage débutant",
+          "Pêcheur double pédagogique",
+          "Pardonne les erreurs"
+        ],
+        [
+          "Confection anneau cordelette",
+          "Pêcheur double unique option",
+          "Validé normes"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Le pêcheur double pour les anneaux de cordelette"
+    },
+    {
+      "type": "p",
+      "html": "Au-delà de la jonction de rappel, le pêcheur double sert principalement à confectionner les <strong>anneaux fermés de cordelette</strong> utilisés pour les nœuds auto-bloquants comme le <a href=\"/blog/noeud-prussik-auto-bloquant\">prussik</a> ou le machard. Tu prends une longueur d'un mètre vingt à un mètre cinquante de cordelette de 6 ou 7 mm, tu joins les deux bouts par un pêcheur double bien serré, et tu obtiens un anneau fermé prêt à servir."
+    },
+    {
+      "type": "p",
+      "html": "Pour cet usage, le pêcheur double offre la résistance maximale sur un anneau de petit diamètre, sans alternative crédible. Le brin libre après le nœud doit dépasser de 5 à 10 cm minimum sur chaque côté. Un anneau de prussik bien confectionné dure plusieurs centaines d'utilisations avant d'être remplacé pour usure de la gaine ou raidissement excessif."
+    },
+    {
+      "type": "h2",
+      "text": "Défaire un pêcheur double serré"
+    },
+    {
+      "type": "p",
+      "html": "Le serrage du pêcheur double sous charge dynamique élevée peut le rendre difficile à défaire. Le geste correct consiste à <strong>rouler les deux nœuds entre les paumes</strong> pour casser les frottements internes, puis à les séparer en glissant l'un par rapport à l'autre. Une fois séparés, chaque nœud simple double se défait facilement en dégageant les spires une par une."
+    },
+    {
+      "type": "p",
+      "html": "Évite l'outil métallique pointu pour ouvrir les spires, qui risque d'endommager la gaine. Si le nœud résiste obstinément, accepte de le sacrifier en coupant la corde quelques centimètres au-dessus, opération préférable à une corde abîmée. Sur cordelette de 6 mm, le serrage extrême peut rendre l'anneau définitivement indéfaisable, ce qui ne pose pas de problème puisque l'anneau est destiné à rester fermé."
+    },
+    {
+      "type": "quote",
+      "text": "Le pêcheur double, c'est le nœud qui ne te trahira jamais. En contrepartie tu acceptes qu'il accroche un peu plus dans le rocher.",
+      "author": "Adage d'alpiniste",
+      "role": "transmis en formation FFME"
+    },
+    {
+      "type": "h2",
+      "text": "L'apprentissage du nœud en salle"
+    },
+    {
+      "type": "p",
+      "html": "Le pêcheur double s'apprend en quinze minutes à sec sur deux bouts de cordelette de 6 mm, plus pédagogique que sur corde de 9 mm parce qu'on voit mieux le tracé. Pratique-le une vingtaine de fois en alternant les positions pour automatiser le geste. La symétrie des deux nœuds reste la principale source d'erreur, à corriger en s'entraînant face à un miroir ou avec un partenaire qui contrôle."
+    },
+    {
+      "type": "p",
+      "html": "Pour la première utilisation en falaise, demande la validation d'un grimpeur expérimenté avant chaque rappel. Cette double vérification prend dix secondes et élimine les erreurs résiduelles. Au bout de cinq sorties, le geste devient fiable et la vérification autonome suffit. La <a href=\"/blog/verifier-noeud-partenaire\">vérification croisée systématique</a> reste cependant une bonne pratique permanente sur tous les nœuds critiques."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Est-ce qu'on peut faire le pêcheur double en grande voie ?",
+      "a": "Oui, c'est même la jonction de référence pour les rappels en grande voie engagée. Sa fiabilité absolue et sa tolérance aux écarts de diamètre en font le choix par défaut quand la sécurité prime sur la facilité de récupération. Sur des rappels classiques en plein vide ou sur terrain régulier, le Mickey reste compétitif pour sa forme plate. Le choix se fait au cas par cas selon le terrain rencontré."
+    },
+    {
+      "q": "Combien de temps tient un pêcheur double sous charge ?",
+      "a": "Indéfiniment. Aucun cas de glissement ou de défaillance n'a été documenté en conditions réalistes d'usage en rappel ou en auto-assurage. Le nœud se serre progressivement au fil des chargements mais reste fonctionnel sans limite de durée. Sur anneau fermé de cordelette, il peut rester serré plusieurs années sans intervention."
+    },
+    {
+      "q": "Quelle différence avec le Mickey ?",
+      "a": "Le pêcheur double est plus volumineux et plus fiable, le Mickey est plat et plus pratique au rappel. Le pêcheur double pardonne les erreurs de dimensionnement, le Mickey demande un brin libre précis de 30 cm. Le pêcheur double se défait plus difficilement après charge, le Mickey reste souple à dénouer. Choix d'usage : pêcheur double pour fiabilité maximale et apprentissage, Mickey pour falaise sportive courante."
+    },
+    {
+      "q": "Le pêcheur double peut-il glisser ?",
+      "a": "Non, dans les conditions normales d'usage en rappel ou en autosauvetage. Le mécanisme de serrage mutuel des deux nœuds bloque le glissement dès que la tension s'applique. Les essais en laboratoire rompent la corde elle-même bien avant que le nœud ne montre des signes de défaillance. Aucun accident documenté en France ou à l'étranger n'est imputable à un glissement du pêcheur double correctement tracé."
+    },
+    {
+      "q": "Quelle longueur de brin libre minimum ?",
+      "a": "10 à 15 cm minimum sur chaque côté, soit la moitié de ce qu'on demande pour un Mickey. Le pêcheur double serre les nœuds par friction interne, ce qui le rend moins sensible à la longueur du brin libre. La marge de 10 à 15 cm absorbe le serrage à la première charge et garantit la stabilité du nœud. Pour confectionner un anneau de cordelette, 5 à 10 cm peuvent suffire."
+    },
+    {
+      "q": "Faut-il un pêcheur simple en arrêt sur les brins libres ?",
+      "a": "Non, jamais nécessaire sur un pêcheur double correctement tracé. Le mécanisme de blocage mutuel rend tout nœud d'arrêt redondant. L'ajout d'un nœud supplémentaire encombre visuellement le tracé sans apporter de sécurité supplémentaire, ce qui complique la vérification visuelle finale. La règle pratique consiste à laisser les brins libres simples sortir du nœud sans les nouer."
+    }
+  ],
+  "cover_alt": "Gros plan sur un nœud de pêcheur double tracé sur deux cordes parallèles bleue et rouge, deux nœuds simples doubles symétriques au contact, brins libres de 10 à 15 cm visibles, paroi calcaire en arrière-plan",
+  "internal_links": [
+    {
+      "slug": "noeuds-escalade-utiles-guide",
+      "anchor": "panorama des nœuds utiles en escalade",
+      "context": "pilier cocon"
+    },
+    {
+      "slug": "noeud-mickey-rappel",
+      "anchor": "Mickey",
+      "context": "alternative jonction plate"
+    },
+    {
+      "slug": "noeud-prussik-auto-bloquant",
+      "anchor": "prussik",
+      "context": "usage cordelette fermée"
+    },
+    {
+      "slug": "verifier-noeud-partenaire",
+      "anchor": "vérification croisée systématique",
+      "context": "rituel sécurité"
+    },
+    {
+      "slug": "nettoyer-relais-rappel-securite",
+      "anchor": "nettoyer un relais en rappel",
+      "context": "contexte rappel falaise"
+    }
+  ],
+  "scheduled_at": "2026-10-15T09:00:00+02:00"
+}

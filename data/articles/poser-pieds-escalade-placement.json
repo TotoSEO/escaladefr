@@ -1,0 +1,63 @@
+{
+  "slug": "poser-pieds-escalade-placement",
+  "cocon": "techniques",
+  "type_article": "astuce",
+  "numero": 14,
+  "title": "Poser ses pieds en escalade, fondement de l'efficacité",
+  "h1": "Bien poser ses pieds en escalade, le fondement de la grimpe efficace",
+  "description": "Poser ses pieds en escalade : zones du chausson, précision, silence, transfert de poids. Les bases pour passer du débutant au grimpeur efficace.",
+  "chapo": "Le débutant tire aux bras, l'expérimenté pousse aux jambes. Cette différence se joue à 80 % sur la qualité du placement des pieds. Cette astuce passe en revue les zones utiles du chausson, la précision, la pose silencieuse et le transfert de poids. À la fin, tu sais pourquoi tu rates des mouvements et comment corriger en deux séances.",
+  "takeaways": [
+    "Le chausson a quatre zones utiles : pointe, intérieur, extérieur, talon.",
+    "Poser un pied prend une seconde, ajuster un mauvais pied coûte cinq secondes.",
+    "Le pied silencieux est le marqueur le plus fiable d'une bonne progression.",
+    "Le regard suit toujours le pied jusqu'à ce qu'il soit posé, pas avant.",
+    "Pousser sur la jambe vaut tirer aux bras avec quatre fois moins de fatigue."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Le chausson, quatre zones, quatre usages"},
+    {"type": "p", "html": "Avant de poser un pied, il faut savoir où on le pose. Le chausson d'escalade a quatre zones utiles, et chacune sert pour un mouvement spécifique. La <strong>pointe</strong> sert sur les petites prises de pied verticales. L'intérieur de la chaussure, au niveau du gros orteil, sert sur les bacs de pied et les prises latérales. L'extérieur du pied sert pour les mouvements en torsion et les drapeaux. Le talon sert pour les crochets et certaines positions de repos."},
+    {"type": "p", "html": "Le grimpeur débutant utilise quasi exclusivement la pointe et le centre du chausson. C'est ce qui limite son champ tactique. Apprendre à utiliser les quatre zones double ton vocabulaire de pieds et te rend capable de mouvements qui te paraissaient impossibles. Ce travail commence par la conscience de la chaussure, et finit par une utilisation instinctive en milieu de séance."},
+    {"type": "h2", "text": "La précision avant la force"},
+    {"type": "p", "html": "Pose ton pied exactement là où tu le voulais, pas à 5 centimètres. La marge d'erreur acceptable décroît avec le niveau : sur 4-5a, tu peux te tromper de 3 cm, ça pardonne. Sur 6a-6b, plus de 1 cm. Sur 7a, c'est zéro. Cette précision se travaille au sol avec un exercice simple : tu poses ton pied sur une marque (croix au sol, prise sur traverse), tu regardes, tu corriges, tu mémorises. Cinq minutes par séance, le geste devient automatique en six séances."},
+    {"type": "tip", "title": "L'astuce du regard fixe", "body": "Ton œil quitte la prise de pied trop tôt. Pour corriger, fixe la prise jusqu'à ce que ton pied y soit posé et stabilisé. Tu peux compter à voix basse 'un, deux, trois' avant de regarder ailleurs. Ça paraît bête, ça change tout en deux séances.", "tone": "astuce"},
+    {"type": "h2", "text": "Le pied silencieux, marqueur d'élégance"},
+    {"type": "p", "html": "Un pied posé en faisant 'tac' contre la prise est un pied raté. Tu as utilisé ta force pour amortir, et tu as déplacé le pied de quelques millimètres au moment du choc. Un pied silencieux signe une pose contrôlée, où la vitesse de descente est nulle au moment du contact. C'est le marqueur le plus fiable d'une bonne technique de pieds, et c'est ce que regardent les grimpeurs expérimentés quand ils observent un débutant."},
+    {"type": "p", "html": "Pour t'entraîner, choisis un bloc facile et fais-le en mode silencieux. Tu n'as pas le droit d'entendre un seul claquement de pied. Tu vas grimper plus lentement, c'est volontaire. La lenteur volontaire ancre la précision. Après vingt blocs en mode silencieux, tu retrouves ta vitesse normale, mais avec une qualité de pose multipliée. Ce travail complète bien <a href=\"/blog/adherence-pieds-grimpe\">le travail sur l'adhérence</a>, indispensable en dalle."},
+    {"type": "h2", "text": "Le transfert de poids, ce qui fait économiser les bras"},
+    {"type": "list", "variant": "cards", "title": "Les trois moments du transfert de poids", "items": [
+      {"title": "Avant la pose du pied", "body": "Tu identifies la prochaine prise de pied et tu décales déjà ton bassin du côté où le poids va aller. Ton centre de gravité bouge avant ton pied."},
+      {"title": "Pendant la pose", "body": "Le pied touche la prise sans pression, puis tu charges progressivement. Pas de brutalité, pas de mouvement vertical brusque."},
+      {"title": "Après le verrouillage", "body": "Tu pousses sur la jambe pour monter, en gardant les bras tendus ou semi-tendus. La force de la jambe vaut quatre fois celle du bras à effort égal."}
+    ]},
+    {"type": "p", "html": "Le débutant fait l'inverse : il monte le pied, il tire aux bras pour se hisser, et il finit par utiliser la jambe seulement en fin de mouvement. Résultat, les avant-bras saturent en cinq minutes. Le grimpeur efficace pose le pied, pousse, et laisse le bras suivre. Cet ordre des opérations économise <strong>jusqu'à 60 % d'énergie musculaire</strong> sur une voie complète. C'est pour ça qu'un grimpeur de 6a peut faire 10 voies dans la séance, et un grimpeur de 4-5a en faire 4 seulement. Pour creuser ce sujet, vois <a href=\"/blog/tirer-bras-jambes-grimpe\">tirer aux bras, pousser aux jambes</a>."},
+    {"type": "h2", "text": "Cas particuliers : dalle, dévers, toit"},
+    {"type": "table", "caption": "Adaptation du pied selon le profil de la paroi", "headers": ["Profil", "Zone du chausson", "Astuce"], "rows": [
+      ["Dalle (paroi inclinée à 80°)", "Pointe verticale, gros orteil", "Confiance dans l'adhérence, pas de torsion"],
+      ["Vertical (paroi à 90°)", "Pointe et intérieur", "Précision maximale, équilibre du bassin"],
+      ["Dévers (paroi entre 95° et 130°)", "Pointe et extérieur en torsion", "Drapeau et lolotte pour rester proche du mur"],
+      ["Toit (paroi à plus de 130°)", "Crochet de pied et talon", "Engager les jambes comme une troisième main"]
+    ]},
+    {"type": "p", "html": "En dalle, le pied joue à 100 % sur l'adhérence et la précision. Pas de relief sous le chausson, juste le gomme contre le caillou. En vertical, équilibre de force entre pieds et mains. En dévers, le pied devient l'ancre qui empêche de basculer vers l'arrière, d'où l'importance des <a href=\"/blog/devers-techniques-puissance\">techniques dévers</a>. En toit, le pied est ce qui te maintient à l'envers, sans pied bien crocheté, tu lâches en trois secondes."},
+    {"type": "quote", "text": "Les pieds, c'est 80 % du travail. Le jour où tu acceptes ça, tu progresses de deux grades en six mois.", "author": "Antoine", "role": "auteur, ancien top 200 jeunes FFME"},
+    {"type": "h2", "text": "Cinq exercices pour la maison ou la salle"},
+    {"type": "p", "html": "Tu peux progresser sur les pieds en dehors de tes voies habituelles. Premier exercice : grimpe une voie facile <strong>sans utiliser les mains</strong>, juste appui sur les pieds et équilibre du bassin. Tu apprends à exploiter chaque prise de pied au maximum. Deuxième : grimpe pieds nus en chaussettes une voie 4, tu sens chaque appui et tu places mieux. Troisième : ne regarde plus tes mains pendant cinq voies, seulement tes pieds. Tu vas comprendre combien tu négligeais le bas du corps."},
+    {"type": "p", "html": "Quatrième exercice : refais une voie en doublant chaque pied (tu poses deux fois le pied droit sur la même prise avant de bouger le gauche). Tu travailles la stabilité. Cinquième : sur un bloc facile, change exprès l'ordre des pieds par rapport à ta lecture initiale. Tu force le cerveau à varier les schémas. Ces cinq exercices font le tour des bases. Combinés avec un <a href=\"/blog/placement-corps-equilibre\">travail de placement du corps</a>, ils te font passer de débutant à autonome en trois mois de pratique régulière."}
+  ],
+  "faq": [
+    {"q": "Combien de temps pour vraiment maîtriser le placement des pieds ?", "a": "Six mois de pratique régulière à raison de deux séances par semaine, avec dix minutes par séance dédiées au travail des pieds. Au-delà, le placement devient instinctif et tu peux passer à des techniques plus avancées comme le crochet talon ou la lolotte."},
+    {"q": "Mes chaussons trop grands gênent-ils le placement ?", "a": "Oui, énormément. Un chausson qui flotte de plus de 5 mm sur l'avant te fait riper et fausse la sensation. Pour bien travailler les pieds, prends une demi-pointure en dessous de ton chausson de ville, pas en dessus. Le confort vient ensuite."},
+    {"q": "Faut-il regarder tous ses pieds avant de poser ?", "a": "Au début oui, systématiquement. Après six mois, tu commences à poser certains pieds en regardant la prise du coin de l'œil. Sur les voies dures, on revient toujours au regard fixe. Le pied posé sans regard est l'apanage des grimpeurs très expérimentés sur leurs voies habituelles."},
+    {"q": "Comment savoir si je tire trop aux bras ?", "a": "Test simple : à la fin d'une voie de 5a, regarde tes avant-bras. Si tu as la pompe, tu tires trop. Sur ton niveau, la pompe ne doit apparaître que sur les passages réellement durs, pas sur tout le tracé. Les jambes doivent fatiguer avant les bras."},
+    {"q": "Les pieds, ça compte aussi en bloc ?", "a": "Encore plus qu'en voie. En bloc, les mouvements sont courts et explosifs, un pied mal placé coûte tout l'enchaînement. Les boulders de Fontainebleau sont réputés pour leur exigence sur les pieds, c'est une école excellente pour qui veut progresser."}
+  ],
+  "cover_alt": "Plan rapproché sur un chausson d'escalade rouge posé en précision sur une petite prise grise en granite, jambe tendue, bassin orienté vers le mur",
+  "internal_links": [
+    {"slug": "apprendre-escalade-debutant-2026", "anchor": "apprendre l'escalade", "context": "Pilier du cocon"},
+    {"slug": "placement-corps-equilibre", "anchor": "travail de placement du corps", "context": "Suite logique"},
+    {"slug": "adherence-pieds-grimpe", "anchor": "le travail sur l'adhérence", "context": "Approfondissement"},
+    {"slug": "devers-techniques-puissance", "anchor": "techniques dévers", "context": "Cas particulier"},
+    {"slug": "tirer-bras-jambes-grimpe", "anchor": "tirer aux bras, pousser aux jambes", "context": "Sujet complémentaire"}
+  ],
+  "scheduled_at": "2026-06-04T09:00:00+02:00"
+}

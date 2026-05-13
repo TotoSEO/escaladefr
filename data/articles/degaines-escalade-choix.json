@@ -1,0 +1,75 @@
+{
+  "slug": "degaines-escalade-choix",
+  "cocon": "materiel",
+  "type_article": "guide",
+  "numero": 51,
+  "title": "Dégaines d'escalade : bien choisir ce qui fait la différence",
+  "h1": "Choisir ses dégaines d'escalade en 2026",
+  "description": "Longueur, sangle, mousquetons : tous les critères pour choisir des dégaines fiables et adaptées à ta pratique sport, grande voie ou expé.",
+  "chapo": "La dégaine, c'est l'interface entre la corde et le point. Mauvais choix de dégaine et tu manges du tirage, tu ouvres le doigt en chute ou tu casses ton geste de clipping. Je détaille ici ce qui fait une dégaine fiable, les longueurs adaptées et les modèles que j'ai testés sur terrain.",
+  "takeaways": [
+    "La dégaine sport classique fait 12 cm avec doigt droit côté goujon et courbe côté corde.",
+    "Les dégaines longues 18 à 25 cm limitent le tirage sur les voies sinueuses.",
+    "Le Dyneema offre légèreté et résistance, le Polyester durabilité et budget maîtrisé.",
+    "Vise 12 dégaines pour démarrer le sport, mix court long pour la polyvalence.",
+    "Compte 18 à 30 euros la dégaine selon la marque et la technologie."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Ce qui compose une dégaine"},
+    {"type": "p", "html": "Une dégaine, c'est trois éléments. Le mousqueton supérieur côté goujon, généralement à doigt droit pour la résistance aux chutes répétées. La sangle textile cousue dyneema ou polyester, de longueur variable. Le mousqueton inférieur côté corde, à doigt courbe pour faciliter le clippage. La sangle inférieure est souvent maintenue par un caoutchouc qui empêche le mousqueton de pivoter."},
+    {"type": "p", "html": "Toute dégaine vendue en Europe respecte deux normes. La norme <strong>EN 12275</strong> pour les mousquetons et la norme <strong>EN 566</strong> pour la sangle. Vérifie systématiquement le marquage CE et les charges de rupture indiquées sur la sangle. Une dégaine sport tient 22 à 27 kN sur sa partie la plus faible. Pour comprendre les mousquetons, lis <a href=\"/blog/mousquetons-escalade-types\">les types de mousquetons d'escalade</a>."},
+    {"type": "h2", "text": "Longueur de sangle : 11, 17 ou 25 cm"},
+    {"type": "p", "html": "La longueur de la sangle dicte l'usage. La sangle courte 11 à 12 cm reste la référence sport sur les voies relativement droites. La sangle moyenne 17 à 18 cm offre plus de souplesse en grande voie modérément sinueuse. La sangle longue 22 à 25 cm devient indispensable sur les voies en zigzag et en grande voie alpine, où le tirage menace de bloquer la corde."},
+    {"type": "p", "html": "Mon set personnel de 14 dégaines mélange 10 courtes 12 cm pour le sport classique et 4 longues 18 cm pour les voies sinueuses ou les passages où la corde doit éviter une arête. Avec ce mix, je couvre 99 % des situations en falaise française sans ajout. En grande voie, j'ajoute des sangles 60 cm avec deux mousquetons libres pour les rallonges de circonstance."},
+    {"type": "h2", "text": "Matière de sangle : Dyneema ou Polyester"},
+    {"type": "p", "html": "Deux matières dominent les sangles. Le <strong>Polyester</strong>, classique, robuste, abordable, légèrement plus lourd. Le <strong>Dyneema</strong>, fibre haute performance, légère, fine, plus chère. Pour le sport régulier, le polyester suffit largement et coûte 30 % moins cher. Pour les longues marches d'approche, l'alpinisme et la grande voie, le dyneema gagne en poids économisé sur 12 dégaines."},
+    {"type": "p", "html": "Petite subtilité, le dyneema résiste moins bien aux chocs et à l'abrasion répétée que le polyester. Une sangle dyneema qui frotte beaucoup contre un rocher rugueux s'use plus vite qu'une polyester. Pour les voies à friction comme celles de Saussois ou des Calanques, je reste sur le polyester. Pour les longues approches d'altitude, je passe au dyneema."},
+    {"type": "h2", "text": "Mousquetons : type, poids, ergonomie"},
+    {"type": "p", "html": "Les deux mousquetons d'une dégaine ne sont pas identiques. Côté goujon, on met un doigt droit en alu massif, robuste et bien ouvert pour clipper le point rapidement. Côté corde, on place un doigt courbe ou doigt fil qui facilite le clippage à une main. Cette convention universelle vient de 30 ans de pratique sportive. Le respecter t'évite de mauvaises surprises."},
+    {"type": "p", "html": "Pour la sécurité absolue contre l'ouverture accidentelle du doigt côté corde, certains modèles haut de gamme intègrent un système de keylock spécial. Les <strong>Petzl Ange S, DMM Alpha Sport, Black Diamond Hotwire</strong> représentent cette catégorie. Le keylock empêche l'accroche de la sangle d'un autre matériel sur le bec du doigt, ce qui peut causer un déclippage non désiré en grande voie."},
+    {"type": "list", "variant": "cards", "title": "Trois packs de dégaines selon ta pratique", "items": [
+      {"title": "Pack sport débutant", "body": "12 dégaines courtes identiques 12 cm polyester. Petzl Djinn Axess ou Black Diamond Posiwire. Compte 200 à 280 euros pour le set complet."},
+      {"title": "Pack sport polyvalent", "body": "10 courtes 12 cm plus 4 longues 18 cm dyneema. Petzl Spirit Express ou Mammut Crag Indicator. Compte 350 à 450 euros."},
+      {"title": "Pack grande voie alpine", "body": "8 dégaines mixtes plus 6 sangles 60 cm cousues avec mousquetons libres. Camp Photon ou DMM Alpha Light. Compte 400 à 550 euros."}
+    ]},
+    {"type": "h2", "text": "Côté goujon, côté corde : ne mélange jamais"},
+    {"type": "p", "html": "Sur une dégaine, le mousqueton côté goujon prend les frottements répétés contre le métal du point en cas de chute. Sa gorge se creuse progressivement, parfois jusqu'à 1 mm en plusieurs centaines de chutes. Si tu inverses son usage et qu'il passe côté corde, la gorge usée peut couper le gainage de la corde. C'est l'accident classique qu'on lit dans les rapports."},
+    {"type": "p", "html": "Marque tes mousquetons côté goujon avec un bout de scotch coloré ou un trait de peinture. Sur certaines dégaines comme <strong>Mammut Crag Indicator</strong>, le mousqueton côté goujon a une couleur différente d'usine. Ne change jamais l'orientation, même quand tu remplaces un mousqueton après chute. La discipline absolue sur ce point sauve des vies."},
+    {"type": "h2", "text": "Tirage et orientation : optimiser le passage de corde"},
+    {"type": "p", "html": "Le tirage, c'est la friction de la corde sur les dégaines qui freine ta progression. Plus la voie zigzague, plus le tirage augmente exponentiellement. Une dégaine courte sur un point décalé crée un angle prononcé qui mange ton énergie au mètre. La solution, c'est rallonger avec une dégaine longue ou une sangle de 60 cm pliée."},
+    {"type": "p", "html": "En clippant, oriente toujours le doigt du mousqueton côté corde vers l'extérieur de la voie. Cela évite le déclippage accidentel quand la corde se déplace après un dévers. Cette règle élémentaire est rappelée dans tous les rapports d'accident. Un mauvais sens de clipping a déjà tué des grimpeurs expérimentés en France. Tu trouveras plus de détails dans <a href=\"/blog/grimper-en-moulinette\">l'apprentissage de la grimpe en moulinette</a>."},
+    {"type": "h2", "text": "Acheter à l'unité ou en set ?"},
+    {"type": "p", "html": "Les sets de 6 à 12 dégaines sont moins chers à l'unité que l'achat individuel. Compte 18 euros la dégaine en set, contre 25 euros à l'unité. Les marques proposent toutes leurs sets <strong>Petzl Djinn Axess Pack, Black Diamond Posiwire Pack, Edelrid Pure Set</strong>. Pour démarrer le sport, le set complet identique facilite la prise en main du clipping."},
+    {"type": "p", "html": "L'achat à l'unité devient pertinent quand tu remplaces une dégaine endommagée ou que tu personnalises ton set avec des longueurs variées. Garde toujours le ticket de caisse, certaines marques garantissent leurs dégaines 5 ans contre les défauts de fabrication. La traçabilité est précieuse en cas de rappel constructeur, ça arrive plus souvent qu'on ne pense."},
+    {"type": "table", "caption": "Comparatif dégaines sport 12 cm 2026", "headers": ["Modèle", "Mousquetons", "Sangle", "Poids", "Prix unitaire"], "rows": [
+      ["Petzl Djinn Axess", "Droit + courbe", "12 cm polyester", "97 g", "20 €"],
+      ["Petzl Spirit Express", "Droit + courbe keylock", "11 cm polyester", "99 g", "26 €"],
+      ["Black Diamond Posiwire", "Doigt fil + courbe", "12 cm polyester", "84 g", "18 €"],
+      ["Mammut Crag Indicator", "Droit + courbe coloré", "10 cm polyester", "93 g", "22 €"],
+      ["DMM Alpha Sport", "Doigt droit + Snapgate", "12 cm dyneema", "87 g", "28 €"]
+    ]},
+    {"type": "h2", "text": "Mes dégaines actuelles et pourquoi"},
+    {"type": "p", "html": "Mon set actuel comprend 10 <strong>Petzl Djinn Axess 12 cm</strong> pour le sport classique, achetées en pack à 200 euros. Et 4 Petzl Spirit Express 17 cm pour les voies sinueuses ou les passages techniques. Les Djinn sont robustes, le doigt fil reste ergonomique sur les clippings rapides. Les Spirit Express offrent un keylock haut de gamme et une longueur idéale pour la grande voie courte."},
+    {"type": "p", "html": "Je déconseille les dégaines premier prix vendues en grande surface sport. Le prix attractif cache souvent un keylock manquant, une sangle bas de gamme et des charges minimales. Pour 5 euros d'économie par dégaine, tu perds en sécurité et en durabilité. Investis une fois bien, tu utiliseras tes dégaines 8 à 10 ans sans souci. Pour compléter, regarde <a href=\"/blog/mousquetons-escalade-types\">les types de mousquetons</a>."},
+    {"type": "quote", "text": "Une dégaine, c'est un compromis entre poids, longueur et ergonomie. Le bon set, c'est celui qui te fait oublier le matos dans la grimpe.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
+    {"type": "h2", "text": "Inspection et durée de vie"},
+    {"type": "p", "html": "Une dégaine s'inspecte avant chaque sortie. Tu cherches l'usure de la gorge des mousquetons, les défauts du ressort de fermeture du doigt, l'effilochage de la sangle, les décolorations qui peuvent signaler un contact avec un solvant. La sangle se réforme après 10 ans à partir de la date de fabrication, ou plus tôt en cas de doute. Les mousquetons durent plus longtemps mais peuvent nécessiter un remplacement après usure de gorge."},
+    {"type": "p", "html": "Tout matériel ayant subi une chute violente proche des limites de rupture doit être inspecté par un professionnel ou réformé. Tu trouveras plus de détails sur la durée de vie dans <a href=\"/blog/materiel-escalade-essentiel\">le matériel d'escalade essentiel</a>. Garde un œil sur les rappels constructeurs publiés par Petzl, Black Diamond ou Mammut, ils sortent parfois sur des lots spécifiques."}
+  ],
+  "faq": [
+    {"q": "Combien de dégaines acheter pour démarrer ?", "a": "12 dégaines courtes 12 cm couvrent 90 % des voies sport françaises. Ajoute 2 à 4 dégaines longues 17 à 25 cm si tu pratiques la grande voie ou les voies en zigzag. 14 dégaines au total constituent un set polyvalent pour la majorité des situations falaise."},
+    {"q": "Quelle différence entre dégaine sport et dégaine grande voie ?", "a": "La dégaine sport mesure 11 à 12 cm, optimisée pour les voies relativement droites. La dégaine grande voie fait 17 à 25 cm pour limiter le tirage sur les itinéraires sinueux. Elle utilise souvent une sangle dyneema fine pour réduire le poids sur les longues approches."},
+    {"q": "Polyester ou dyneema pour la sangle ?", "a": "Le polyester pour le sport régulier, robuste et abordable. Le dyneema pour la grande voie alpine et les longues marches où le poids compte. Le dyneema résiste moins bien à l'abrasion répétée sur les rochers rugueux, à prendre en compte sur certains sites comme Saussois."},
+    {"q": "Pourquoi un mousqueton droit et un courbe sur la même dégaine ?", "a": "Le droit côté goujon résiste mieux aux chutes répétées sur le métal du point. Le courbe côté corde facilite le clippage à une main grâce à son arc rentrant qui guide la corde. Ne jamais inverser, l'usure de gorge du mousqueton côté goujon peut couper la corde si mal placé."},
+    {"q": "Combien dépenser pour un set de dégaines ?", "a": "Compte 200 à 280 euros pour un set de 12 dégaines courtes de marque fiable Petzl, Black Diamond ou Mammut. 350 à 450 euros pour un set mixte court long de 14 unités. Évite les premier prix sous 15 euros la dégaine, souvent sans keylock et avec sangles bas de gamme."},
+    {"q": "Quand changer ses dégaines ?", "a": "Inspecte la gorge des mousquetons côté goujon, si elle est creusée à 1 mm il faut remplacer. La sangle se réforme après 10 ans à partir de la date de fabrication, ou en cas d'effilochage, de coupure ou de contact avec un solvant. Les mousquetons peuvent être remplacés à l'unité sur certaines marques."}
+  ],
+  "cover_alt": "Set de dégaines d'escalade Petzl Djinn Axess organisé sur un baudrier en falaise calcaire",
+  "internal_links": [
+    {"slug": "mousquetons-escalade-types", "anchor": "les types de mousquetons d'escalade", "context": "Anatomie de la dégaine"},
+    {"slug": "materiel-escalade-essentiel", "anchor": "le matériel d'escalade essentiel", "context": "Pilier matériel"},
+    {"slug": "grimper-en-moulinette", "anchor": "l'apprentissage de la grimpe en moulinette", "context": "Geste de clipping"},
+    {"slug": "matos-grande-voie-checklist", "anchor": "la checklist matériel grande voie", "context": "Liste complète"}
+  ],
+  "scheduled_at": "2026-08-29T09:00:00+02:00"
+}

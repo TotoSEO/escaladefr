@@ -1,0 +1,70 @@
+{
+  "slug": "rythme-respiration-grimpe",
+  "cocon": "techniques",
+  "type_article": "astuce",
+  "numero": 19,
+  "title": "Rythme et respiration en escalade : tenir une voie longue",
+  "h1": "Rythme et respiration sur une voie longue, le secret pour ne plus exploser au crux",
+  "description": "Rythme et respiration en escalade : alterner vitesse et repos, controler le souffle au crux et eviter la pompe d'avant-bras grace a un tempo regulier.",
+  "chapo": "Tu connais ce moment ou ton bras gauche commence a brule a 8 metres du sol et tu sens que ton avant-bras durcit. Ce n'est pas un manque de force, c'est un mauvais rythme et une respiration coupee. Cette astuce te montre comment doser ta vitesse, respirer aux bons moments et tenir une voie de 25 metres sans exploser. Une technique simple qui te fait gagner deux cotations en six semaines.",
+  "takeaways": [
+    "Inspire avant le mouvement, expire pendant le mouvement, jamais l'inverse.",
+    "Alterne sections rapides (5 secondes) et arrets de 10 secondes en position stable.",
+    "La pompe arrive quand l'avant-bras travaille en apnee, pas quand il travaille fort.",
+    "Respire en quatre temps sur les sections engagees pour calmer le rythme cardiaque.",
+    "Compte mentalement ta respiration en chiffres pour eviter de te perdre."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "La pompe, c'est pas de la force qui manque"},
+    {"type": "p", "html": "La pompe est un mythe mal compris. Tu crois que tes bras sont faibles, alors qu'en realite ils sont en <strong>apnee musculaire</strong>. Le sang n'arrive plus dans l'avant-bras parce que tu serres tout le temps, sans phase de relachement. Quand un muscle reste contracte plus de huit secondes, il bascule en metabolisme anaerobique et produit de l'acide lactique. C'est cette accumulation qui te fait lacher, pas un manque de muscle."},
+    {"type": "p", "html": "Resoudre la pompe, c'est donc traiter le souffle et le rythme, pas la force. J'ai mis quatre ans avant de comprendre. En 2017, je grimpais des 7a en bourrinant chaque mouvement, en serrant a fond du depart au sommet. Aujourd'hui je grimpe du 8a en restant souple, en alternant trois mouvements rapides et un mouvement lent, et en relachant chaque main des qu'une bonne prise apparait."},
+    {"type": "h2", "text": "Le tempo de l'escalade fluide"},
+    {"type": "p", "html": "Une voie de 6b se grimpe en moyenne en 3 a 5 minutes. Si tu y mets 8 minutes en moulinant chaque prise, tu vas exploser. Si tu fonces en 2 minutes, tu rates ton timing et tu chutes au crux. Le bon tempo, c'est <strong>50 % d'action, 50 % de pause</strong>. Tu enchaines trois ou quatre mouvements en fluidite, puis tu trouves une position stable et tu souffles 8 a 15 secondes. Cette alternance recharge l'avant-bras sans que tu descendes du mur."},
+    {"type": "list", "variant": "checks", "title": "Les trois rythmes types selon la voie", "items": [
+      {"title": "Rythme dalle", "body": "Lent et continu. Tu poses, tu charges, tu te redresse. Compte 5 a 7 secondes par mouvement. La fatigue vient des jambes et des mollets."},
+      {"title": "Rythme vertical", "body": "Alterne. Deux ou trois mouvements en fluide, puis arret de 10 secondes sur un bac. Tu replanifies, tu souffles, tu repars."},
+      {"title": "Rythme devers", "body": "Rapide et efficace. Cinq a six mouvements en 20 secondes, puis stop sur un kneebar ou un crochet. Plus tu hesites en devers, plus tu pompes."}
+    ]},
+    {"type": "h2", "text": "Coordonner souffle et mouvement"},
+    {"type": "p", "html": "La regle de base : <strong>inspire avant l'effort, expire pendant l'effort</strong>. Quand tu vas tirer une main, inspire en quete de la prise, puis expire en tirant et en transferant le poids. Cette synchronisation augmente la force disponible de 10 a 15 %, c'est mesure en physiologie sportive. Aucun athlete d'endurance ne respire au hasard. Pourquoi le grimpeur le ferait-il ?"},
+    {"type": "p", "html": "Le piege le plus frequent, c'est de bloquer la respiration au crux. Tu serres les dents, tu retiens ton souffle pour mieux tirer. Resultat : tu rentres en apnee, tes muscles passent en mode anaerobique, et tu lache deux mouvements plus loin. C'est exactement l'inverse de ce qu'il faut faire. Plus le crux est dur, plus tu dois respirer fort et clairement. Le bruit du souffle est meme un repere : si ton assureur ne t'entend pas respirer, tu bloque ton souffle."},
+    {"type": "h2", "text": "La respiration carree pour les moments engages"},
+    {"type": "p", "html": "Pour les sections vraiment engagees, j'utilise la respiration carree : <strong>inspire 4 secondes, bloque 2 secondes, expire 4 secondes, pause 2 secondes</strong>. Tu fais ca quatre cycles d'affilee sur une bonne position. Le cerveau bascule en mode parasympathique, le rythme cardiaque ralentit, et la peur recule. C'est la meme technique que les militaires en formation au tir."},
+    {"type": "tip", "title": "Le truc des chiffres a voix basse", "body": "Compte ta respiration a voix basse, suffisamment fort pour entendre tes chiffres. Tu te concentres sur le compte et plus sur le vide en dessous. Cette astuce m'a sauve la mise sur la voie engagee Boomerang au Verdon en 2022. Ca a l'air ridicule, ca marche.", "tone": "astuce"},
+    {"type": "p", "html": "La respiration carree a aussi un usage entre les voies. Au repos entre deux essais, fais 10 cycles. Tu redescends ton coeur sous 80 battements par minute, tu reactives la recuperation, et ton prochain essai partira sur un corps frais. Pour les grimpeurs en stress comp ou en falaise engagee, c'est l'outil mental numero un."},
+    {"type": "h2", "text": "Detecter le rythme dans la voie"},
+    {"type": "p", "html": "Une voie a un rythme cache dans son trace. La <a href=\"/blog/lecture-voie-strategie\">lecture de voie</a> doit inclure une analyse du tempo : ou est-ce que je peux ralentir, ou est-ce que je dois acceler. Sur une voie de 25 metres en falaise, tu identifies trois zones rapides (sequences de petites prises) et trois zones lentes (bacs et pieds porteurs). Tu adaptes ton souffle a chaque zone."},
+    {"type": "table", "caption": "Identifier le rythme d'une voie au sol", "headers": ["Indice visuel", "Rythme a adopter", "Strategie de souffle"], "rows": [
+      ["Suite de petites prises rapprochees", "Rapide, 4 a 5 secondes par mouvement", "Expirations courtes et frequentes"],
+      ["Section de bacs avec pieds larges", "Lent, 10 a 15 secondes par mouvement", "Respiration carree de recup"],
+      ["Devers avec inversees", "Tres rapide, 3 secondes par mouvement", "Une expiration par mouvement"],
+      ["Crux identifie au visuel", "Tres lent en preparation, rapide a l'execution", "Trois respirations profondes avant"]
+    ]},
+    {"type": "h2", "text": "Le piege du grimpeur qui ralentit"},
+    {"type": "p", "html": "Beaucoup de grimpeurs lisent un conseil sur le rythme et ralentissent partout. Erreur. Sur une section de devers a 130 degres, ralentir te coute plus d'energie que d'enchainer. Le poids du corps te tire vers le bas en permanence, chaque seconde au mur coute en avant-bras. Sur ces sections, la vitesse est ta meilleure alliee. <strong>Vitesse en devers, lenteur en dalle</strong>, c'est l'inverse de l'intuition."},
+    {"type": "p", "html": "C'est pour ca que le rythme se travaille sur des voies que tu connais. Tu choisis une voie a deux cotations sous ton niveau. Tu la fais une premiere fois en notant les sections rapides et lentes. La seconde fois, tu essaies de respecter ces tempos. Repete sur cinq voies par seance, deux fois par semaine. En quatre semaines, tu auras un sens du tempo qui se transferera automatiquement sur des projets plus durs. La progression est plus rapide que tout exercice de force."},
+    {"type": "h2", "text": "Cas particulier de la grande voie"},
+    {"type": "p", "html": "Sur une <a href=\"/blog/grandes-voies-tactique\">grande voie de 200 metres</a>, la gestion du souffle s'etend sur plusieurs heures. Tu ne grimpes plus en effort court, mais en endurance moyenne, comme un marathonien. Tu respires de facon plus profonde, plus regulier, sans variation soudaine. Tu economises chaque souffle parce que tu vas en avoir besoin pour 6 a 8 longueurs."},
+    {"type": "p", "html": "Aux relais, tu peux faire 10 cycles de respiration carree pour vraiment recuperer avant la longueur suivante. C'est meme la base du <a href=\"/blog/recuperer-relais-grande-voie\">recuperer aux relais</a> efficacement. Sans ce travail conscient, le souffle se court et tu finis sur les rotules a la quatrieme longueur. Avec, tu enchaines 10 longueurs sans probleme. C'est de la cardiophysiologie pure, applicable a tout grimpeur."},
+    {"type": "quote", "text": "On ne grimpe pas avec ses bras, on grimpe avec ses poumons et ses jambes. Les bras suivent.", "author": "Antoine", "role": "ancien top 200 jeunes FFME, 8a falaise"},
+    {"type": "h2", "text": "Un exercice radical pour tester le tempo"},
+    {"type": "p", "html": "Voici l'exercice qui m'a fait basculer en 2018 : choisis une voie a une cotation sous ton niveau, et impose-toi de soufler audiblement a chaque mouvement de main. Tu vas paraitre ridicule, ton assureur va rire, peu importe. Au bout de trois voies comme ca dans la seance, tu auras integre la coordination souffle-mouvement comme nulle part ailleurs. Beaucoup de coachs FFME utilisent ce drill avec leurs grimpeurs en stage."}
+  ],
+  "faq": [
+    {"q": "Comment savoir si je respire mal en grimpant ?", "a": "Si ton assureur ne t'entend pas respirer, tu respires probablement mal. Le souffle doit etre audible a 2 metres. Si tu sens tes machoires se serrer, tu retiens ton souffle. Si tu finis une voie de 5c en hyperventilant, ton rythme etait trop saccade. Filme-toi pour analyser ces moments en post-seance."},
+    {"q": "Faut-il forcer la respiration ou laisser venir naturellement ?", "a": "Forcer au debut pour creer la coordination, puis laisser venir naturellement. Les 4 a 6 premieres seances de travail, tu te concentres consciemment sur l'inspire-expire. Apres, le reflexe devient automatique. Tu n'auras plus a y penser sauf au crux ou aux passages engages."},
+    {"q": "La respiration en escalade est-elle differente de la course a pied ?", "a": "Differente dans le timing, similaire dans le principe. En course, tu cales le souffle sur les foulees (2 inspirs, 2 expirs en moyenne). En escalade, tu cales sur les mouvements de main, et tu ajoutes des cycles complets en position de repos. C'est plus complexe car les mouvements sont moins reguliers."},
+    {"q": "Que faire si je suis essouffle des le pied de la voie ?", "a": "Tu pars trop tendu ou trop stresse. Pose-toi 30 secondes avant de t'encorder, fais 5 cycles de respiration carree. Tu redescends ton rythme cardiaque sous 90 battements par minute. Tu pars avec une reserve de souffle, pas en dette des le depart."},
+    {"q": "Le rythme s'apprend-il vraiment en six semaines ?", "a": "Le rythme de base oui. La maitrise fine prend des annees, comme un musicien qui apprend le tempo. Mais en six semaines a raison de trois seances par semaine, tu sentiras une vraie difference sur tes voies habituelles. Tu gagneras une demi-cotation a une cotation sans changer ton physique."},
+    {"q": "Comment respirer sur un dyno ou un mouvement explosif ?", "a": "Tu expires fort au moment de l'extension, comme un lanceur de javelot. L'expiration violente synchronise la decharge musculaire. Pour les details, va voir notre page sur <a href=\"/blog/dyno-mouvement-explosif\">le dyno explosif</a>, ou la respiration explosive est detaillee."}
+  ],
+  "cover_alt": "Un grimpeur en suspension sur une voie de devers prend une respiration profonde les yeux fermes sur un bac jaune, baudrier rouge et magnesie blanche aux mains",
+  "internal_links": [
+    {"slug": "apprendre-escalade-debutant-2026", "anchor": "apprendre l'escalade en 2026", "context": "Pilier general"},
+    {"slug": "lecture-voie-strategie", "anchor": "lecture de voie", "context": "Detection du rythme au sol"},
+    {"slug": "grandes-voies-tactique", "anchor": "grande voie de 200 metres", "context": "Application en endurance longue"},
+    {"slug": "recuperer-relais-grande-voie", "anchor": "recuperer aux relais", "context": "Respiration aux relais"},
+    {"slug": "dyno-mouvement-explosif", "anchor": "le dyno explosif", "context": "Respiration explosive"}
+  ],
+  "scheduled_at": "2026-06-16T09:00:00+02:00"
+}

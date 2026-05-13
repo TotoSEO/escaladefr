@@ -1,0 +1,78 @@
+{
+  "slug": "premiers-secours-escalade",
+  "cocon": "securite",
+  "type_article": "guide",
+  "numero": 138,
+  "title": "Premiers secours en escalade : les gestes essentiels à connaître",
+  "h1": "Premiers secours en escalade, les gestes essentiels au pied de la falaise",
+  "description": "Premiers secours en escalade, les gestes essentiels en falaise : bilan victime, position d'attente, contrôle saignement et préparation à l'arrivée des secours.",
+  "chapo": "Au pied d'une falaise, à dix minutes de marche du parking, tu n'as pas un kiné et un médecin sous la main. Tu as toi, ton partenaire, ta trousse, ton téléphone. Cet article récapitule les gestes essentiels : bilan rapide du blessé, position d'attente, contrôle des saignements et préparation à l'arrivée des secours. Le but n'est pas de te transformer en médecin urgentiste, mais de gagner les minutes qui comptent.",
+  "takeaways": [
+    "Sécurise toujours la zone avant de toucher la victime, sinon tu deviens la deuxième victime.",
+    "Le bilan PAS suit l'ordre : protéger, alerter, secourir.",
+    "Une victime consciente reste là où elle est, ne jamais déplacer sans nécessité.",
+    "Le saignement se contrôle par compression directe avec un linge propre.",
+    "Note l'heure de l'accident et les paramètres dès le bilan initial."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Avant tout, sécuriser la zone et protéger la victime"},
+    {"type": "p", "html": "Le premier geste, c'est de **sécuriser la scène**. Si le blessé est suspendu sur une voie après une chute, il faut d'abord stabiliser sa position. S'il est tombé en bloc avec un crashpad mal placé, on vérifie d'abord qu'aucun autre crashpad ne va lui tomber dessus. Si tu te précipites sans regarder, tu deviens la deuxième victime et tu compliques le travail des secours. Le PGHM le répète à chaque stage : sécurité du sauveteur d'abord."},
+    {"type": "p", "html": "En falaise sportive, ça signifie sortir la victime de la zone de chute potentielle de pierres ou de matériel. En bloc extérieur, ça veut dire éviter qu'un autre grimpeur passe au dessus. En salle, c'est demander aux autres grimpeurs de libérer la zone le temps de l'intervention. Une fois la zone sûre, tu peux t'occuper du blessé."},
+    {"type": "h2", "text": "Le bilan rapide : conscience, respiration, saignement"},
+    {"type": "p", "html": "Tu démarres par trois questions de base. **Conscience** : tu parles à la victime, tu la touches doucement à l'épaule, tu vois si elle répond. **Respiration** : tu observes le thorax qui se soulève, tu colles l'oreille près de la bouche pour entendre. **Saignement** : tu inspectes visuellement les vêtements pour repérer une tâche de sang, tu regardes la tête, les bras et les jambes."},
+    {"type": "p", "html": "Si la victime est consciente et respire normalement, tu lui parles, tu la rassures, tu lui demandes où elle a mal et ce qui s'est passé. Ces réponses te permettront de transmettre un **bilan précis aux secours**. Si elle est inconsciente mais respire, tu la positionnes en position latérale de sécurité. Si elle ne respire pas, tu démarres immédiatement la réanimation cardiopulmonaire et tu envoies quelqu'un appeler le 112."},
+    {"type": "list", "variant": "numbered", "title": "Le protocole PAS dans l'ordre", "items": [
+      {"title": "Protéger", "body": "Sécuriser la zone, écarter les sources de danger, se protéger soi même avant tout."},
+      {"title": "Alerter", "body": "Appeler le 112 en milieu naturel ou le 15 en zone urbaine, donner coordonnées GPS et bilan."},
+      {"title": "Secourir", "body": "Appliquer les gestes adaptés à l'état de la victime, en attendant l'arrivée des professionnels."}
+    ]},
+    {"type": "h2", "text": "Position d'attente : ne pas bouger une victime suspectée traumatisée"},
+    {"type": "p", "html": "La règle d'or après une chute d'escalade : **ne pas déplacer la victime** si tu suspectes une lésion vertébrale, sauf danger immédiat. Tu la laisses dans la position trouvée, tu la couvres avec une couverture de survie pour éviter l'hypothermie, et tu attends les secours. Si tu dois absolument la déplacer (risque de chute de pierres, montée des eaux), tu maintiens l'axe tête cou tronc autant que possible, à plusieurs personnes."},
+    {"type": "p", "html": "Une victime consciente qui se plaint de la nuque, du dos ou qui ne sent plus une partie de son corps reste **strictement immobile**. Tu la rassures, tu lui parles, tu maintiens sa tête entre tes mains pour limiter les mouvements. Tu peux relire <a href=\"/blog/alerter-secours-falaise\">notre procédure d'alerte aux secours en falaise</a> pour préparer l'arrivée de l'équipe médicale."},
+    {"type": "tip", "title": "Le piège du blessé qui veut se lever", "body": "Après un choc, beaucoup de grimpeurs disent ça va et tentent de se relever. L'adrénaline masque la douleur pendant trente à soixante secondes. Insiste pour qu'il reste allongé jusqu'à un bilan complet, surtout si la chute a été importante.", "tone": "attention"},
+    {"type": "h2", "text": "Contrôler un saignement : compression directe"},
+    {"type": "p", "html": "Le saignement se gère par **compression directe**. Tu prends un linge propre, un t-shirt, une compresse stérile si tu as une trousse, et tu appuies fort sur la plaie pendant au moins cinq minutes sans relâcher. Tu n'enlèves jamais le linge même s'il s'imbibe, tu en ajoutes un par dessus. Tu surélèves le membre blessé si possible."},
+    {"type": "p", "html": "Le **garrot** reste un geste de dernier recours, réservé aux saignements artériels massifs qui ne cèdent pas à la compression. Il s'applique en amont de la plaie, sur un membre, avec un bandage large, et on note l'heure de pose sur le bras de la victime. Mal posé, un garrot peut faire plus de dégâts que de bien. Si tu n'es pas formé, la compression directe couvre 95% des cas."},
+    {"type": "h2", "text": "Suspicion de fracture : immobilisation simple"},
+    {"type": "p", "html": "Si tu suspectes une fracture (déformation visible, douleur intense, perte de mobilité), tu immobilises la zone en position d'inconfort minimal pour la victime. Un foulard, une dégaine longue, un bout de corde peuvent servir à attacher un membre supérieur contre le tronc. Pour un membre inférieur, tu cales avec un sac, un crashpad, un vêtement roulé. Tu n'essaies jamais de remettre un os en place."},
+    {"type": "p", "html": "Tu surveilles la **coloration et la sensibilité** de l'extrémité du membre. Si les orteils ou les doigts deviennent bleus, c'est que la circulation est compromise, tu desserres légèrement le bandage. Tu rassures la victime et tu transmets ces informations aux secours quand ils arrivent."},
+    {"type": "table", "caption": "Conduite à tenir selon les signes observés", "headers": ["Symptôme", "Geste immédiat", "À éviter"], "rows": [
+      ["Inconscience qui respire", "Position latérale de sécurité", "Forcer à boire ou à manger"],
+      ["Arrêt respiratoire", "Réanimation cardiopulmonaire", "Tarder à appeler le 112"],
+      ["Saignement abondant", "Compression directe prolongée", "Retirer le linge imbibé"],
+      ["Douleur dorsale", "Immobilité totale stricte", "Tenter de redresser la victime"],
+      ["Fracture suspectée", "Immobilisation avec moyens du bord", "Remettre l'os en place"]
+    ]},
+    {"type": "h2", "text": "Trousse de premiers secours pour la falaise"},
+    {"type": "p", "html": "Une **trousse de premiers secours d'escalade** tient dans une poche de sac. Compresses stériles, pansements, bandes de gaze, sparadrap, ciseaux, désinfectant, couverture de survie, antalgiques, paracétamol, et de quoi noter (papier crayon ou téléphone). Tu peux ajouter une attelle gonflable type Sam Splint, un sifflet, et une frontale pour les retours tardifs."},
+    {"type": "p", "html": "La trousse reste dans le sac de cordée à proximité du pied de voie. Vérifie régulièrement les dates de péremption des antalgiques et l'état des compresses. Compte cinquante à quatre vingt euros pour une trousse complète prête à l'emploi vendue chez **Petzl ou décathlon**. Tu peux aussi consulter <a href=\"/blog/check-list-avant-grimper\">notre check list pour préparer une sortie</a> qui rappelle l'importance de la trousse."},
+    {"type": "h2", "text": "Préparer l'arrivée des secours"},
+    {"type": "p", "html": "Dès que tu as appelé le 112, tu te prépares à recevoir les sauveteurs. Tu notes l'**heure de l'accident**, l'évolution des paramètres (conscience, respiration, douleur), tu prépares la carte d'identité et la licence FFME du blessé, tu prépares son téléphone pour pouvoir contacter ses proches. Tu envoies un membre de la cordée à la rencontre des secours sur le sentier d'accès, sifflet et frontale en main si la nuit tombe."},
+    {"type": "p", "html": "Si l'**hélitreuillage** est nécessaire, tu repères une zone dégagée d'au moins quinze mètres de diamètre, à l'écart de la falaise, pour permettre le posé ou le treuillage. Tu peux consulter <a href=\"/blog/helitreuillage-evacuation\">notre fiche sur l'hélitreuillage et l'évacuation</a> qui détaille la procédure côté grimpeur. Tu fais signe à l'hélico les bras en V, jamais les bras croisés qui signifient au contraire pas besoin d'aide."},
+    {"type": "tip", "title": "Le geste qui m'a sauvé d'une bêtise", "body": "À quinze ans, dans une falaise des Vosges, mon père s'est ouvert le front sur une chute de pierre. J'ai paniqué pendant dix secondes avant de me souvenir des gestes appris au collège : compresses, pression directe, position assise, appel des secours. Trente minutes plus tard, le SAMU était là. Sans cette formation de base, j'aurais perdu un temps précieux.", "tone": "astuce"},
+    {"type": "h2", "text": "Se former concrètement aux premiers secours"},
+    {"type": "p", "html": "Le diplôme **PSC1** (Prévention et Secours Civiques niveau 1) dure une journée, coûte autour de soixante euros, et te donne les bases solides : protection, alerte, position latérale de sécurité, RCP, défibrillation, saignement. Tous les centres de Croix Rouge française et de protection civile le proposent. Pour aller plus loin, le **PSC2** ou le brevet de secouriste en milieu montagne couvre les spécificités de l'extérieur."},
+    {"type": "p", "html": "La FFME propose aussi des stages premiers secours spécifiques aux grimpeurs, intégrant l'hélitreuillage, le balisage en pleine paroi et les gestes à pratiquer à plusieurs en cordée. Compte une journée et environ quatre vingt euros. C'est un investissement extrêmement rentable si tu grimpes régulièrement en falaise."},
+    {"type": "quote", "text": "Le grimpeur formé aux premiers secours ne sauve pas tout le monde. Il gagne juste les minutes décisives avant l'arrivée des professionnels.", "author": "Antoine", "role": "rédacteur escalade-france.fr"},
+    {"type": "h2", "text": "Récapitulatif des erreurs à ne jamais faire"},
+    {"type": "p", "html": "Ne pas déplacer une victime avec suspicion de lésion vertébrale, ne pas la faire boire ou manger, ne pas retirer un objet planté (couteau, broche), ne pas essayer de remettre un membre fracturé en place, ne pas oublier de noter l'heure et les paramètres, ne pas couper la communication avec le 112 tant que l'opérateur ne te dit pas de le faire. Ces six règles couvrent l'essentiel des erreurs qu'on voit en pratique."},
+    {"type": "p", "html": "L'objectif des premiers secours n'est pas de soigner, c'est de **stabiliser** en attendant les professionnels. Avec un protocole simple bien appliqué, tu donnes à la victime ses meilleures chances. C'est ce que m'a appris ma première formation PSC1, et c'est ce qui reste vrai sur le terrain. Tu peux compléter ta lecture avec <a href=\"/blog/accidents-escalade-statistiques\">notre analyse des statistiques d'accidents en escalade</a> pour mieux comprendre ce que tu peux rencontrer."}
+  ],
+  "faq": [
+    {"q": "Comment apprendre les premiers secours en escalade ?", "a": "Le diplôme PSC1, accessible en une journée pour environ soixante euros, couvre les gestes de base universels. Pour les spécificités de la falaise, la FFME et certains comités départementaux proposent des stages d'une journée. Le PGHM organise parfois des sessions ouvertes au public dans certaines régions de montagne."},
+    {"q": "Faut il une trousse de premiers secours en salle d'escalade ?", "a": "La salle dispose obligatoirement d'une trousse de premiers secours accessible et d'un défibrillateur dans la majorité des structures professionnelles. Tu n'as pas besoin d'apporter la tienne, mais connaître l'emplacement de la trousse de la salle et savoir contacter rapidement un membre du personnel reste indispensable."},
+    {"q": "Que faire si je suis seul avec un blessé en falaise ?", "a": "Tu appelles le 112 en premier, sans bouger la victime, en restant près d'elle. Tu donnes les coordonnées GPS, le bilan rapide, et tu suis les instructions du régulateur. Tu ne pars jamais chercher de l'aide en laissant un blessé inconscient seul, sauf si aucune connexion téléphonique n'est possible sur place."},
+    {"q": "Combien de temps mettent les secours pour arriver en falaise ?", "a": "En France métropolitaine, le délai d'intervention d'un hélicoptère du PGHM ou des CRS Montagne est généralement compris entre quinze minutes et une heure, selon la météo et la distance. En zone reculée ou en mauvais temps, l'intervention peut être retardée et les secours arrivent par voie terrestre, ce qui rallonge sensiblement le délai."},
+    {"q": "La couverture de survie est elle vraiment utile ?", "a": "Oui, absolument. Une victime allongée au sol perd sa chaleur corporelle très rapidement, même par 20 degrés ambiants. La couverture de survie limite cette déperdition et prévient l'hypothermie qui aggrave systématiquement un état de choc. Elle pèse trente grammes et coûte deux euros, aucune raison de ne pas l'avoir."},
+    {"q": "Faut il prévenir les proches d'un blessé soi même ?", "a": "Pas immédiatement, sauf si le blessé est conscient et te demande explicitement de le faire. Les secours médicalisés préfèrent souvent annoncer eux mêmes la situation aux proches, avec un cadre médical adapté. Ton rôle est de leur transmettre les coordonnées, pas d'inquiéter une famille avec un bilan incomplet."}
+  ],
+  "cover_alt": "Grimpeur appliquant les premiers secours à un partenaire au pied d'une voie d'escalade, trousse ouverte au sol, couverture de survie en place",
+  "internal_links": [
+    {"slug": "securite-escalade-regles-essentielles", "anchor": "les règles essentielles de la sécurité en escalade", "context": "Pilier du cocon"},
+    {"slug": "alerter-secours-falaise", "anchor": "notre procédure d'alerte aux secours en falaise", "context": "Article frère du cocon"},
+    {"slug": "helitreuillage-evacuation", "anchor": "notre fiche sur l'hélitreuillage et l'évacuation", "context": "Article frère du cocon"},
+    {"slug": "check-list-avant-grimper", "anchor": "notre check list pour préparer une sortie", "context": "Article frère du cocon"},
+    {"slug": "accidents-escalade-statistiques", "anchor": "notre analyse des statistiques d'accidents en escalade", "context": "Article frère du cocon"}
+  ],
+  "scheduled_at": "2026-03-20T09:00:00+01:00"
+}

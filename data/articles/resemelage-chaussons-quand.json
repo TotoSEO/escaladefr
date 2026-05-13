@@ -1,0 +1,78 @@
+{
+  "slug": "resemelage-chaussons-quand",
+  "cocon": "materiel",
+  "type_article": "astuce",
+  "numero": 42,
+  "title": "Resemelage chaussons d'escalade : quand et chez qui",
+  "h1": "Resemeler ses chaussons d'escalade, quand et chez qui",
+  "description": "Resemelage de chaussons d'escalade : signes d'usure, délais, tarifs, ateliers fiables en France et alternatives quand le resemelage ne vaut plus le coup.",
+  "chapo": "À partir de quand un chausson mérite un passage chez le cordonnier spécialisé ? Si tu attends que la pointe perce, tu paies un rand neuf au lieu d'une simple semelle. Cette astuce te donne les bons réflexes : signes d'usure, ateliers de référence en France, tarifs 2026 et cas où mieux vaut racheter neuf.",
+  "takeaways": [
+    "Envoie tes chaussons au resemelage dès que la gomme atteint la trame de la pointe.",
+    "Compte 35 à 55 euros pour une semelle seule, 60 à 90 euros avec rand neuf.",
+    "Les ateliers de référence en France : RésSole à Marseille, Verticool à Lyon, Crampons & Co à Annecy.",
+    "Un chausson peut être resemelé deux à trois fois avant que la coupe ne tienne plus.",
+    "Ne resemellage pas un chausson dont la tige est décollée ou trouée sur les côtés."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Pourquoi le resemelage change l'équation économique"},
+    {"type": "p", "html": "Un chausson neuf coûte entre 80 et 200 euros. Un resemelage coûte entre 35 et 90 euros. La logique financière est imparable, à condition que la coupe et la tige du chausson tiennent encore. La <strong>gomme s'use</strong> bien plus vite que le reste, surtout sur la pointe et la zone du gros orteil. Resemeler revient à remettre du neuf sur la partie consommable, en gardant le confort acquis par les heures de grimpe."},
+    {"type": "p", "html": "Quand j'ai commencé à grimper sérieusement vers quinze ans, je rachetais une paire de chaussons tous les six mois. Aujourd'hui, je fais resemeler mes <strong>Solution</strong> deux fois avant de les remplacer. Économie sur trois ans : environ 250 euros par paire. Pour le reste du matos qui dure mieux, regarde <a href=\"/blog/materiel-escalade-essentiel\">le matériel d'escalade essentiel</a>."},
+    {"type": "h2", "text": "Les trois signes qui imposent un resemelage"},
+    {"type": "list", "variant": "numbered", "title": "Quand envoyer tes chaussons", "items": [
+      {"title": "La trame apparaît sous la gomme de pointe", "body": "Si tu vois les fils tisser à travers la semelle, tu es à la limite. Au-delà, c'est le rand qu'il faut refaire, et la facture double."},
+      {"title": "La pointe est complètement plate", "body": "Le chausson neuf présente un léger relief sur la pointe. Quand cette zone devient plate et lisse, l'adhérence chute drastiquement sur les petites prises."},
+      {"title": "Tu glisses sur des prises que tu tenais avant", "body": "Le test le plus simple. Si tes pieds dérapent sur des prises que tu tenais sans souci il y a trois mois, la gomme est cuite."}
+    ]},
+    {"type": "p", "html": "Attention au signe inverse : si tu vois déjà la <strong>peau du rand</strong>, cette bande caoutchoutée qui ceinture le chausson au-dessus de la semelle, tu as trop attendu. Le cordonnier devra remplacer rand et semelle ensemble, et le tarif grimpe à 80-90 euros au lieu de 35-55."},
+    {"type": "tip", "title": "Le test du doigt", "body": "Passe ton doigt sur la pointe du chausson. Si tu sens un creux marqué ou que le caoutchouc s'effrite sous l'ongle, envoie-le sans attendre. Une journée de grimpe supplémentaire peut percer le rand.", "tone": "astuce"},
+    {"type": "h2", "text": "Les ateliers fiables en France"},
+    {"type": "p", "html": "Le resemelage demande un savoir-faire spécifique. Toutes les cordonneries ne s'y mettent pas, parce que la gomme d'escalade et la colle utilisée ne sont pas standards. Voici les ateliers qui ont fait leur réputation auprès des grimpeurs français, par envoi postal pour la plupart."},
+    {"type": "table", "caption": "Ateliers de resemelage 2026", "headers": ["Atelier", "Ville", "Délai", "Tarif moyen"], "rows": [
+      ["RésSole", "Marseille", "10 à 15 jours", "40 à 75 €"],
+      ["Verticool", "Lyon", "2 à 3 semaines", "45 à 80 €"],
+      ["Crampons & Co", "Annecy", "15 jours", "40 à 70 €"],
+      ["L'Atelier du Grimpeur", "Toulouse", "3 semaines", "35 à 65 €"],
+      ["Resemelage 7c", "Grenoble", "2 semaines", "45 à 85 €"]
+    ]},
+    {"type": "p", "html": "Tous proposent un service par envoi postal. Tu emballes tes chaussons dans un carton, tu joins un bon de commande téléchargé sur leur site, tu paies au retour. Compte 8 à 12 euros de port aller. Le retour est souvent inclus, ou facturé en option."},
+    {"type": "h2", "text": "Choisir la gomme de remplacement"},
+    {"type": "p", "html": "La plupart des ateliers travaillent avec deux ou trois gommes au choix. La <strong>Vibram XS Grip 2</strong> couvre 90% des cas, c'est la référence universelle. La Vibram XS Edge, plus rigide, convient à la dalle granitique et aux chaussons à profil neutre. La Stealth C4 reste possible chez certains ateliers, surtout pour les Five Ten d'origine."},
+    {"type": "p", "html": "Le choix de l'épaisseur compte aussi. Pour un chausson de longueur, prends 4,5 mm. Pour un polyvalent salle, 3,5 mm suffisent. Pour un cambré de performance, certains réduisent à 3 mm pour préserver la sensibilité. L'atelier te conseille selon le modèle d'origine."},
+    {"type": "quote", "text": "Une bonne resemelle redonne 80 à 90 pour cent de l'adhérence d'origine. Le reste vient du rand, c'est pour ça qu'il ne faut pas trop attendre.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
+    {"type": "h2", "text": "Resemelage avec ou sans rand neuf"},
+    {"type": "p", "html": "Deux options chez tous les ateliers. La <strong>semelle simple</strong> remplace uniquement la gomme du dessous, sans toucher au rand. C'est le cas classique, à 35-55 euros. Si la pointe a percé, l'atelier doit aussi remplacer le rand sur 3 à 5 centimètres. Compte 60 à 90 euros pour ce travail combiné."},
+    {"type": "p", "html": "Pour mes Drago, j'ai fait deux semelles simples successives, puis une rand-resemelage la troisième fois. Au-delà, la coupe se déforme trop et la tige montre des signes de fatigue. Trois resemelages, c'est mon plafond perso."},
+    {"type": "h2", "text": "Quand racheter neuf plutôt que resemeler"},
+    {"type": "p", "html": "Le resemelage ne sauve pas tout. Si la <strong>tige est trouée</strong> sur les côtés, si la coupe ne tient plus le pied, si les coutures lâchent, l'atelier te le dira mais le chausson est cuit. Le test simple : enfile-le et tire fort sur le talon. S'il se déboite ou plisse de manière anormale, n'envoie pas. Tu paierais 70 euros pour un résultat médiocre."},
+    {"type": "list", "variant": "bullets", "title": "Cas où le resemelage ne vaut plus le coup", "items": [
+      {"title": "Tige trouée", "body": "Trou visible sur les côtés ou sur le dessus du chausson, hors zone de pointe."},
+      {"title": "Coutures lâchées", "body": "La couture du talon ou de la cheville se découd, le chausson bâille."},
+      {"title": "Mousse intérieure tassée", "body": "Le chausson flotte autour du pied, plus aucun maintien dynamique."},
+      {"title": "Modèle hors d'âge", "body": "Trois resemelages déjà effectués, ou plus de cinq ans d'usage intensif."}
+    ]},
+    {"type": "h2", "text": "Prolonger la durée de vie entre deux resemelages"},
+    {"type": "p", "html": "Quelques habitudes simples allongent la vie de tes chaussons. Sors-les du sac à la fin de la séance pour qu'ils sèchent. Évite de les laisser dans le coffre de la voiture en plein soleil, la chaleur ramollit la colle. Ne les utilise jamais pour marcher dans les éboulis, la gomme s'use sur la roche horizontale beaucoup plus vite qu'à la verticale."},
+    {"type": "p", "html": "Brosse l'extérieur après chaque sortie en falaise pour retirer la poussière. Si la gomme glisse en salle, frotte-la sur un tapis sec ou un linge en coton avant de partir, ça réveille l'adhérence. Pour le détail sur les brosses, regarde <a href=\"/blog/brosse-grimpe-entretien-prises\">l'entretien des prises avec la brosse</a>."},
+    {"type": "tip", "title": "L'erreur à éviter absolument", "body": "Ne lave jamais tes chaussons en machine, même à basse température. La colle se ramollit, la gomme se déforme, le rand peut se décoller. Un coup d'éponge humide avec un peu de savon de Marseille suffit largement.", "tone": "erreur"},
+    {"type": "h2", "text": "Combien de fois resemeler avant de jeter"},
+    {"type": "p", "html": "Mon expérience : deux à trois resemelages maximum sur un chausson cambré, trois à quatre sur un modèle neutre. Au-delà, la tige fatigue et le talon perd sa rigueur. Tu peux toujours faire un dernier passage, mais le chausson devient un modèle d'entraînement, plus de performance."},
+    {"type": "p", "html": "Pour le choix d'une paire neuve quand le moment arrive, retourne sur <a href=\"/blog/choisir-chaussons-escalade\">choisir ses chaussons d'escalade</a> et <a href=\"/blog/types-chaussons-escalade\">les types de chaussons et leur usage</a>. Tu pourras affiner ton choix avec l'expérience acquise sur la paire précédente."}
+  ],
+  "faq": [
+    {"q": "Combien coûte un resemelage de chaussons d'escalade en 2026 ?", "a": "Entre 35 et 55 euros pour une semelle simple, sans toucher au rand. Si l'atelier doit aussi remplacer le rand sur la pointe, compte 60 à 90 euros. Ajoute 8 à 12 euros de port aller, le retour étant souvent inclus dans le tarif."},
+    {"q": "Combien de temps prend un resemelage de chaussons ?", "a": "Compte deux à trois semaines en moyenne entre l'envoi et le retour. Certains ateliers comme RésSole annoncent 10 à 15 jours en basse saison. En septembre et juin, les délais s'allongent souvent à un mois."},
+    {"q": "Combien de fois peut-on resemeler une paire de chaussons ?", "a": "Deux à trois resemelages sur un chausson cambré de performance, trois à quatre sur un modèle neutre plus rustique. Au-delà, la tige et le talon ne tiennent plus correctement, le chausson devient un modèle d'entraînement de salle."},
+    {"q": "Quels sont les ateliers de resemelage fiables en France ?", "a": "RésSole à Marseille, Verticool à Lyon, Crampons & Co à Annecy, L'Atelier du Grimpeur à Toulouse, et Resemelage 7c à Grenoble. Tous travaillent par envoi postal et utilisent les gommes Vibram XS Grip 2 ou XS Edge selon le modèle."},
+    {"q": "Peut-on resemeler soi-même des chaussons d'escalade ?", "a": "Techniquement oui, des kits existent avec gomme et colle néoprène. Pratiquement non, sauf si tu acceptes un résultat médiocre. La colle utilisée par les pros est spécifique, et le ponçage demande du matériel adapté. Pour 50 euros chez un atelier, le résultat est sans comparaison."},
+    {"q": "Faut-il assurer le colis lors de l'envoi pour resemelage ?", "a": "Pour des chaussons à 150 euros, oui, prends un suivi avec valeur déclarée. Compte 3 à 5 euros de plus chez La Poste. Si tes chaussons ont moins de 80 euros de valeur résiduelle, un envoi en lettre suivie suffit largement."}
+  ],
+  "cover_alt": "Atelier de resemelage de chaussons d'escalade : paire en cours de ponçage sur un établi",
+  "internal_links": [
+    {"slug": "choisir-chaussons-escalade", "anchor": "choisir ses chaussons d'escalade", "context": "Guide d'achat parent"},
+    {"slug": "types-chaussons-escalade", "anchor": "les types de chaussons et leur usage", "context": "Panorama familles"},
+    {"slug": "materiel-escalade-essentiel", "anchor": "le matériel d'escalade essentiel", "context": "Pilier matériel"},
+    {"slug": "brosse-grimpe-entretien-prises", "anchor": "l'entretien des prises avec la brosse", "context": "Entretien matos"}
+  ],
+  "scheduled_at": "2026-08-08T09:00:00+02:00"
+}

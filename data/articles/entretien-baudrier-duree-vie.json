@@ -1,0 +1,87 @@
+{
+  "slug": "entretien-baudrier-duree-vie",
+  "cocon": "materiel",
+  "type_article": "astuce",
+  "numero": 45,
+  "title": "Baudrier d'escalade : entretien et durée de vie réelle",
+  "h1": "Entretien et durée de vie d'un baudrier d'escalade",
+  "description": "Comment laver, ranger et inspecter ton baudrier d'escalade. Signes d'usure, durée de vie réelle, cas de remplacement immédiat, conseils 2026.",
+  "chapo": "Quand ton baudrier doit-il partir à la poubelle, et que peux-tu faire pour repousser cette échéance ? Un baudrier bien entretenu tient 8 à 10 ans, un baudrier négligé peut être à remplacer en deux ans. Cette astuce te donne les gestes simples qui prolongent sa vie, et les signes qui imposent un remplacement immédiat, sans débat.",
+  "takeaways": [
+    "Durée de vie moyenne d'un baudrier d'escalade : 7 à 10 ans en usage loisir régulier.",
+    "Lave-le à la main, eau tiède et savon doux, séchage à l'ombre, jamais en machine.",
+    "Inspecte le pontet, l'anneau de service et les coutures à chaque sortie.",
+    "Tout signe de brûlure, coupure ou décoloration anormale impose le remplacement.",
+    "Une chute de plus de 5 mètres avec choc dur peut imposer la mise au rebut."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Pourquoi entretenir un baudrier change tout"},
+    {"type": "p", "html": "Un baudrier coûte 60 à 150 euros. Sa durée de vie théorique est annoncée à 10 ans par les fabricants comme <strong>Petzl, Black Diamond ou Edelrid</strong>. La réalité dépend entièrement de ton entretien. J'ai vu des baudriers de cinq ans propres comme neufs, et des modèles de deux ans à remplacer parce que stockés au fond d'un coffre humide pendant une saison."},
+    {"type": "p", "html": "Le baudrier n'est pas un équipement passif. Il vit dans ton sac, dort dans le coffre de ta voiture, prend la pluie en falaise, se charge de poussière calcaire. Tous ces facteurs raccourcissent sa vie. Pour le choix d'un modèle qui dure, va voir <a href=\"/blog/choisir-baudrier-escalade\">choisir son baudrier d'escalade</a>. Pour les familles existantes, jette un œil à <a href=\"/blog/types-baudriers-usage\">les types de baudriers selon l'usage</a>."},
+    {"type": "h2", "text": "Le lavage : comment et à quelle fréquence"},
+    {"type": "p", "html": "Lave ton baudrier <strong>deux fois par an</strong> en moyenne. Plus souvent si tu grimpes en falaise calcaire poussiéreuse, moins souvent si tu fais essentiellement du gymnase. La poussière s'incruste dans les fibres et abrase les sangles de l'intérieur, ce qui n'est pas visible mais accélère le vieillissement."},
+    {"type": "list", "variant": "numbered", "title": "Comment laver un baudrier", "items": [
+      {"title": "Bassine d'eau tiède", "body": "Maximum 30 degrés. Pas d'eau chaude qui ramollit les colles et déforme les boucles."},
+      {"title": "Savon de Marseille ou savon doux", "body": "Pas de produit chloré, pas de javel, pas de solvant. Une noix de savon dilué dans l'eau suffit."},
+      {"title": "Brosse souple sur les zones sales", "body": "Brosse à dents usagée sur le pontet, l'anneau de service, les zones de transpiration."},
+      {"title": "Rinçage abondant à l'eau claire", "body": "Pas de résidu de savon dans les fibres, qui retiendrait l'humidité."},
+      {"title": "Séchage à l'ombre à l'air libre", "body": "Pas de soleil direct (UV), pas de radiateur, pas de sèche-linge. Compte 24 à 48 heures."}
+    ]},
+    {"type": "p", "html": "N'utilise <strong>jamais la machine à laver</strong>, même en programme délicat. L'agitation use prématurément les coutures et les sangles ventrales rembourrées. Le tambour peut aussi écraser les boucles auto-bloquantes."},
+    {"type": "tip", "title": "Astuce séchage", "body": "Pour accélérer le séchage en hiver, suspends le baudrier en intérieur près d'un courant d'air, jamais collé à un radiateur. Tu peux aussi le placer dans une pièce sèche avec un déshumidificateur si tu en as un.", "tone": "astuce"},
+    {"type": "h2", "text": "Le rangement entre les sorties"},
+    {"type": "p", "html": "Le rangement compte plus que beaucoup ne pensent. Trois ennemis principaux : l'humidité, les UV, la proximité avec des produits chimiques. Range ton baudrier dans un sac respirant, type sac tissu coton ou sac dédié. Évite les sacs plastiques fermés, qui condensent l'humidité résiduelle."},
+    {"type": "p", "html": "Ne laisse jamais ton baudrier dans le coffre d'une voiture exposée au soleil. La température peut grimper à 70 degrés en été, ce qui dégrade la <strong>structure des sangles</strong>. De même, évite la cave humide ou le garage non chauffé. Stocke-le à l'intérieur, dans une pièce sèche, à l'abri de la lumière directe."},
+    {"type": "h2", "text": "Inspection avant chaque sortie"},
+    {"type": "p", "html": "Avant chaque session, vérifie quatre zones : le pontet d'encordement, l'anneau de service, les coutures de la sangle ventrale, les boucles auto-bloquantes. L'inspection prend 30 secondes et peut t'éviter une grosse frayeur. Le pontet est la pièce qui s'use le plus, suivi des coutures et des points de friction sur les cuissardes."},
+    {"type": "list", "variant": "bullets", "title": "Points à inspecter", "items": [
+      {"title": "Pontet d'encordement", "body": "Pas de trame apparente, pas de zone décolorée ou aplatie. Vérifie le témoin d'usure si présent."},
+      {"title": "Anneau de service", "body": "Anneau plat à l'arrière pour la longe : intact, sans fil qui dépasse, sans usure marquée."},
+      {"title": "Coutures sangle ventrale", "body": "Aucun fil détaché, aucune couture qui s'effiloche, particulièrement aux points d'ancrage du pontet."},
+      {"title": "Boucles auto-bloquantes", "body": "Mécanisme qui fonctionne sans forcer, pas de jeu, pas d'oxydation visible."}
+    ]},
+    {"type": "h2", "text": "Les signes qui imposent un remplacement immédiat"},
+    {"type": "p", "html": "Certains signes ne tolèrent aucune négociation. Si tu vois l'un de ces critères, change ton baudrier sans attendre la prochaine sortie."},
+    {"type": "table", "caption": "Signes critiques de mise au rebut", "headers": ["Signe", "Localisation", "Gravité"], "rows": [
+      ["Trame visible sous la gaine", "Pontet, anneau de service", "Remplacement immédiat"],
+      ["Coupure dans la sangle", "Sangle ventrale ou cuissardes", "Remplacement immédiat"],
+      ["Brûlure ou trace de fusion", "N'importe où sur le textile", "Remplacement immédiat"],
+      ["Décoloration anormale", "Sangle assombrie, blanchie", "Inspection détaillée puis décision"],
+      ["Couture qui se découd", "Pontet, coutures de jonction", "Remplacement immédiat"],
+      ["Boucle auto-bloquante grippée", "Ventrale ou cuissardes", "Atelier ou remplacement"]
+    ]},
+    {"type": "p", "html": "Une <strong>brûlure</strong> sur la sangle peut survenir si la corde a chauffé en cas de chute violente, ou si tu as posé ton baudrier près d'une plaque de cuisson ou d'un poêle. Même invisible à l'œil nu, une zone fondue peut casser sous charge. Dans le doute, change."},
+    {"type": "h2", "text": "Cas particulier : chute violente"},
+    {"type": "p", "html": "Une chute de plus de 5 mètres avec choc dur sur le baudrier peut le rendre suspect. Les fibres internes peuvent avoir cédé sans signe extérieur. Les fabricants comme <strong>Petzl ou Black Diamond</strong> recommandent une inspection visuelle approfondie, voire une mise au rebut si la chute a été particulièrement violente avec corde tendue."},
+    {"type": "p", "html": "Le critère pratique : si tu as eu mal au dos ou aux cuisses pendant 10 minutes après la chute, c'est que les forces étaient importantes. Inspecte alors millimètre par millimètre, et au moindre doute, remplace. Pour comprendre les forces de chute, regarde aussi <a href=\"/blog/systeme-assurage-comparatif\">le comparatif des systèmes d'assurage</a>."},
+    {"type": "quote", "text": "Le baudrier n'a qu'un seul boulot, te retenir. Aucun matériel ne coûte moins cher que la vie qui en dépend.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
+    {"type": "h2", "text": "Durée de vie selon le type d'usage"},
+    {"type": "p", "html": "Les fabricants annoncent 10 ans depuis la date de fabrication, et 5 ans depuis la première utilisation. Dans les faits, la durée dépend du volume d'usage et des conditions de stockage. Un baudrier de salle utilisé deux fois par mois peut tenir 10 ans sans broncher. Un baudrier d'extérieur intensif vieillit en 5 à 6 ans."},
+    {"type": "table", "caption": "Durée de vie indicative", "headers": ["Usage", "Volume", "Durée de vie estimée"], "rows": [
+      ["Loisir occasionnel", "1-2 sorties/mois", "8 à 10 ans"],
+      ["Loisir régulier", "1 sortie/semaine", "6 à 8 ans"],
+      ["Pratique intensive", "2-3 sorties/semaine", "4 à 6 ans"],
+      ["Compétition, encadrement", "Quasi quotidien", "2 à 4 ans"]
+    ]},
+    {"type": "p", "html": "Pour un grimpeur loisir typique, compte sur <strong>7 à 8 ans</strong> de tranquillité, à condition d'inspecter régulièrement. Au-delà, même sans signe d'usure visible, le vieillissement chimique des fibres a démarré. Les sangles en polyamide perdent leur résistance progressivement, même non utilisées, surtout sous l'effet des UV."},
+    {"type": "h2", "text": "Faut-il garder l'étiquette d'origine"},
+    {"type": "p", "html": "Oui, l'étiquette d'origine cousue sur le baudrier porte la date de fabrication, le numéro de série et les normes respectées. Si elle s'arrache ou devient illisible, tu perds la traçabilité. Mieux vaut alors mettre au rebut, parce qu'en cas de défaut, le fabricant ne pourra pas t'aider. Pour le reste du matos qui suit la même logique, regarde <a href=\"/blog/materiel-escalade-essentiel\">le matériel d'escalade essentiel</a>."},
+    {"type": "tip", "title": "Le bon réflexe", "body": "Note quelque part la date de ton premier usage du baudrier. Étiquette intérieure, application, carnet : peu importe, mais ne te fie pas à ta mémoire. Cinq ans passent vite, surtout sur du matériel.", "tone": "astuce"}
+  ],
+  "faq": [
+    {"q": "Quelle est la durée de vie réelle d'un baudrier d'escalade ?", "a": "Entre 5 et 10 ans selon ton volume d'usage. Compte 8 ans pour un grimpeur loisir régulier (une sortie par semaine), 5 à 6 ans pour un usage intensif (3 sorties hebdomadaires). Les fabricants comme Petzl annoncent 10 ans max depuis la fabrication."},
+    {"q": "Comment laver un baudrier d'escalade ?", "a": "À la main, dans une bassine d'eau tiède (max 30 degrés) avec du savon de Marseille ou un savon doux. Brosse souple sur les zones sales, rinçage abondant à l'eau claire, séchage à l'ombre à l'air libre. Jamais en machine, jamais avec de la javel ou un solvant."},
+    {"q": "Quand faut-il remplacer un baudrier immédiatement ?", "a": "Dès qu'on voit la trame du pontet à travers la gaine, ou en cas de coupure dans une sangle, brûlure visible, couture qui se découd. Aussi après une chute violente avec choc dur, par mesure de précaution. Le doute impose le remplacement, jamais l'inverse."},
+    {"q": "Peut-on stocker un baudrier dans le coffre d'une voiture ?", "a": "Non, mauvaise idée. Les UV traversent les vitres et dégradent les sangles, la chaleur peut atteindre 70 degrés en été et ramollir les colles. Range ton baudrier dans un sac tissu, dans une pièce sèche à l'intérieur, à l'abri de la lumière directe."},
+    {"q": "Combien coûte le remplacement d'un baudrier ?", "a": "Entre 60 et 130 euros selon la famille. Pour un usage loisir, un Petzl Corax ou un Mammut Ophir à 70 euros fait l'affaire. Pour de la grande voie, vise le segment 90-110 euros type Petzl Adjama ou Edelrid Orion. Le baudrier ne se répare pas."},
+    {"q": "Un baudrier neuf qui n'a jamais servi vieillit-il ?", "a": "Oui, lentement mais sûrement. Les sangles en polyamide perdent leur résistance avec le temps, même non utilisées, sous l'effet de l'humidité ambiante et des UV même indirects. La date de fabrication compte, pas seulement la date de première utilisation. 10 ans max depuis la production."}
+  ],
+  "cover_alt": "Inspection visuelle d'un baudrier d'escalade : grimpeur examinant le pontet et les coutures",
+  "internal_links": [
+    {"slug": "choisir-baudrier-escalade", "anchor": "choisir son baudrier d'escalade", "context": "Guide d'achat"},
+    {"slug": "types-baudriers-usage", "anchor": "les types de baudriers selon l'usage", "context": "Familles de baudriers"},
+    {"slug": "systeme-assurage-comparatif", "anchor": "le comparatif des systèmes d'assurage", "context": "Forces de chute"},
+    {"slug": "materiel-escalade-essentiel", "anchor": "le matériel d'escalade essentiel", "context": "Pilier matériel"}
+  ],
+  "scheduled_at": "2026-08-15T09:00:00+02:00"
+}

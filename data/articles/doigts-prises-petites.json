@@ -1,0 +1,67 @@
+{
+  "slug": "doigts-prises-petites",
+  "cocon": "techniques",
+  "type_article": "astuce",
+  "numero": 32,
+  "title": "Petites prises en escalade : technique des doigts d'Antoine",
+  "h1": "Grimper sur petites prises, la technique des doigts vue par Antoine",
+  "description": "Doigts sur petites prises : arquee ferme, demi arquee, tendu, force pulpe et progression sans blesser les poulies pour grimper la reglette et la micro prise en securite.",
+  "chapo": "Les petites prises, c'est l'examen de passage du 6c vers le 7a. Tu sens que la prise t'echappe, tu serres trop, tu te bles. Treize ans plus tard, je tiens des reglettes de 8 millimetres sans douleur grace a une progression patiente. Voici la grammaire de la prehension fine, les arquees, les poulies, et les exercices qui m'ont fait passer le cap.",
+  "takeaways": [
+    "L'arquee ferme tient le plus mais blesse les poulies si tu forces trop vite.",
+    "La demi arquee est le meilleur compromis sur reglette de 1 a 2 cm.",
+    "Le tendu allonge les doigts et preserve les poulies, mais demande plus de force pulpe.",
+    "Le poids charge depuis les jambes diminue le stress sur les doigts de 60 pour cent.",
+    "Progression sur petites prises : 6 mois minimum pour eviter les blessures."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Les trois prehensions de doigts"},
+    {"type": "p", "html": "En grimpe, tu disposes de trois prehensions principales sur les petites prises. L'<strong>arquee ferme</strong>, ou tu plies les doigts a 90 degres et tu rabats le pouce sur l'index. C'est la prise la plus puissante, mais la plus risquee pour les poulies des doigts. La <strong>demi arquee</strong>, ou tu plies les doigts a 60 degres sans pouce. Compromis force/securite. Le <strong>tendu</strong>, ou tu laisses les doigts pendre sans plier. Force pulpe maximum, securite maximum."},
+    {"type": "p", "html": "Sur une reglette de 1 cm, l'arquee ferme te donne 100 unites de force, la demi arquee 80, le tendu 50. Mais l'arquee ferme expose la poulie A2 a un risque de rupture si tu forces sec apres une chute brutale. C'est la blessure la plus commune chez les grimpeurs entre 7a et 7c, qui veulent passer la barre des doigts."},
+    {"type": "h2", "text": "Quand utiliser quelle prehension"},
+    {"type": "p", "html": "Sur les <strong>reglettes inferieures a 1 cm</strong>, tu n'as souvent pas le choix : c'est l'arquee ferme ou tu laches. Sur les <strong>reglettes entre 1 et 2 cm</strong>, la demi arquee fait le travail tout en preservant les poulies. Sur les <strong>bossages et slopers</strong>, le tendu maximise la surface de contact pulpe-prise."},
+    {"type": "p", "html": "J'ai longtemps tout fait en arquee ferme, par reflexe debutant. Resultat : poulie A2 main droite dechiree en 2019 sur un 7b devers a Buoux. Six mois d'arret, reeducation, puis bascule vers la demi arquee par defaut. Aujourd'hui, je n'utilise l'arquee ferme que sur les prises sous 8 mm, jamais en routine."},
+    {"type": "tip", "title": "Le test du clip au mur", "body": "Pour savoir si tu fermes trop l'arquee par reflexe, fais 5 tractions sur reglette de 2 cm en t'imposant la demi arquee. Si ton pouce remonte tout seul vers l'index, ton reflexe est trop ferme. Tu auras a corriger consciemment pendant deux mois pour stabiliser la demi arquee comme prise de base.", "tone": "astuce"},
+    {"type": "h2", "text": "Les poulies, ennemi numero un"},
+    {"type": "p", "html": "Les poulies des doigts sont des structures fibreuses qui maintiennent les tendons flechisseurs contre l'os. Quand tu serres trop fort en arquee, la pression depasse 80 kilos par cm carre sur la poulie A2 de l'annulaire. Au-dela de 100 kilos, la poulie rompt, et tu entends le claquement caracteristique sur la chute."},
+    {"type": "p", "html": "Pour proteger les poulies, deux regles. Premierement, montee progressive : ne saute pas du 6c arquee au 7b arquee. Trois saisons de marge. Deuxiemement, taping preventif quand tu sens une douleur fixe : un strip de 1 cm sous la base du doigt aide a stabiliser la poulie pendant la guerison."},
+    {"type": "h2", "text": "Charger depuis les jambes"},
+    {"type": "p", "html": "Le secret des doigts qui tiennent, c'est de ne pas tirer dessus. La <a href=\"/blog/tirer-bras-jambes-grimpe\">poussee des jambes</a> reduit le stress sur les doigts de 60 pour cent. Quand tu pousses correctement sur les pieds, tes doigts servent a stabiliser, pas a soulever ton poids. La prehension fine devient une simple suspension legere, pas un effort maximum."},
+    {"type": "p", "html": "Sur un 7a a Saffres avec des reglettes de 1.5 cm, je tiens chaque prise 3 a 5 secondes. Sans poussee des jambes, je serais sur les bras seulement 15 secondes. Avec poussee, je peux tenir 60 secondes au total sur la voie. C'est la difference entre une voie passable et une voie inaccessible."},
+    {"type": "h2", "text": "Progresser sans se blesser"},
+    {"type": "list", "variant": "checks", "title": "Quatre regles d'or pour progresser doigts", "items": [
+      {"title": "Echauffe 30 minutes avant micro prises", "body": "Demarre sur 5a-5c en bac, puis monte en cotation. Les poulies froides cassent en charge brutale."},
+      {"title": "Hangboard apres 3 ans de pratique", "body": "Avant 3 ans, fais des voies en force-resistance pour developper les structures. Le hangboard avant 3 ans casse plus qu'il ne renforce."},
+      {"title": "Repos 48 heures apres seance doigts", "body": "Les poulies recuperent 48 a 72 heures. Deux seances doigts par semaine maximum, pas plus."},
+      {"title": "Stop immediat sur douleur fixe", "body": "Une douleur qui persiste apres 5 minutes de pause est un signal. Arrete la seance, glace 15 minutes, repos 5 a 7 jours."}
+    ]},
+    {"type": "h2", "text": "Quel chausson pour les petites prises"},
+    {"type": "p", "html": "Le chausson influe peu sur la prehension des doigts mais beaucoup sur la stabilite generale. Sur reglettes de pied, tu auras besoin d'un chausson a pointe precise comme La Sportiva Solution ou Scarpa Drago. La precision du pied te permet de garder la <a href=\"/blog/adherence-pieds-grimpe\">stabilite de l'adherence</a> pendant que les doigts tiennent."},
+    {"type": "p", "html": "Si tes pieds glissent sur les reglettes pied, toute la charge bascule sur les doigts, qui craquent vite. C'est la combo qui blesse les grimpeurs intermediaires : doigts forts mais pieds approximatifs."},
+    {"type": "h2", "text": "Exercices d'isolation des doigts"},
+    {"type": "table", "caption": "Quatre exercices doigts en progression", "headers": ["Exercice", "Frequence", "Niveau requis"], "rows": [
+      ["Voies en force-resistance 6a-6c", "2x semaine", "1 an de pratique"],
+      ["Suspensions reglettes 20 mm 7 secondes", "1x semaine", "2 ans de pratique"],
+      ["Hangboard reglettes 12 mm", "1x semaine", "3 ans de pratique"],
+      ["Hangboard reglettes 8 mm lestees", "1x semaine", "4 ans + 7a falaise"]
+    ]},
+    {"type": "p", "html": "Cette progression sur 4 ans respecte le temps que les poulies prennent pour se renforcer. Saute pas d'etape, meme si tu te sens fort. Les blessures de doigts coutent en moyenne 4 a 6 mois d'arret, c'est plus que les annees de retard pris en progression conservatrice."},
+    {"type": "quote", "text": "Tes doigts ne sont pas musclables comme tes biceps. Ils sont fibreux. Tu ne les fais pas grossir, tu les renforces par cycles longs.", "author": "Antoine", "role": "grimpeur en 8a falaise, 7b bloc"}
+  ],
+  "faq": [
+    {"q": "Comment savoir si ma poulie est touchee ?", "a": "Douleur fixe a la base du doigt, parfois claquement entendu pendant l'effort, gonflement leger ou tendinite chronique. Consulte un kine du sport. Une poulie A2 partiellement dechiree se soigne en 6 a 8 semaines, une rupture complete en 4 a 6 mois."},
+    {"q": "Faut-il taper systematiquement les doigts ?", "a": "Non, le taping preventif ne sert qu'en cas de douleur naissante ou apres guerison de poulie. En usage permanent, il affaiblit les structures actives. Vise le taping ponctuel sur projet engage, pas en routine."},
+    {"q": "Mes doigts gonflent apres chaque seance, c'est normal ?", "a": "Un gonflement transitoire 24 heures est normal, c'est l'inflammation post-effort. Au-dela de 48 heures, ou si une articulation reste raide, consulte. Beaucoup de grimpeurs developpent des nodules sur les articulations IPD avec l'arquee chronique."},
+    {"q": "Quel age maximum pour commencer le hangboard ?", "a": "Avant 15 ans, evite le hangboard. Les plaques de croissance ne sont pas fermees. Apres 50 ans, prudence sur l'arquee ferme : les tendons sont moins elastiques. Commence en tendu et demi arquee, charge maximum 50 pour cent du poids."},
+    {"q": "Faut-il muscler les avant-bras pour les doigts ?", "a": "Le travail des avant-bras flechisseurs aide a la prehension generale, mais c'est secondaire. Le facteur cle reste la mecanique du doigt, les poulies et la pulpe. Bosse d'abord la technique, ensuite la force specifique en hangboard cycle."}
+  ],
+  "cover_alt": "Plan rapproche de quatre doigts en demi arquee sur une reglette calcaire grise de 1 cm, magnesie blanche aux doigts, tendons saillants sur le dos de la main",
+  "internal_links": [
+    {"slug": "apprendre-escalade-debutant-2026", "anchor": "apprendre l'escalade en 2026", "context": "Pilier general"},
+    {"slug": "tirer-bras-jambes-grimpe", "anchor": "poussee des jambes", "context": "Bascule technique cle"},
+    {"slug": "adherence-pieds-grimpe", "anchor": "stabilite de l'adherence", "context": "Couplage technique"},
+    {"slug": "mains-prises-bac-reglette", "anchor": "types de prises de main", "context": "Vocabulaire des prises"},
+    {"slug": "progresser-niveau-escalade", "anchor": "progresser de niveau", "context": "Strategie generale"}
+  ],
+  "scheduled_at": "2026-07-16T09:00:00+02:00"
+}
