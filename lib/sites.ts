@@ -121,14 +121,9 @@ const DETAIL_COLUMNS_BASE = `${LIST_COLUMNS},url,acces_routier,approche,orientat
 
 const DETAIL_COLUMNS_FULL = `${DETAIL_COLUMNS_BASE},acces_statut,acces_notes,acces_source_url,acces_verified_at,latitude_affine,longitude_affine,geocodage_source,geocodage_distance_m,c2c_document_id,c2c_match_score,c2c_routes_qty,c2c_summary,c2c_access_period,c2c_url`;
 
-/** URL CDN d'une image Camptocamp à une taille donnée (BI = big, MI = medium, SI = small). */
-export function camptocampImageUrl(filename: string, size: "BI" | "MI" | "SI" = "MI"): string {
-  // Le CDN actif sert directement le fichier ; la taille est obtenue via un
-  // prefix dans certains schémas. Pour rester simple et stable, on utilise
-  // le proxy officiel qui sait gérer plusieurs tailles via le query param.
-  if (size === "BI") return `https://www.camptocamp.org/api/v1/images/proxy/${filename}?size=BI`;
-  if (size === "SI") return `https://www.camptocamp.org/api/v1/images/proxy/${filename}?size=SI`;
-  return `https://www.camptocamp.org/api/v1/images/proxy/${filename}?size=MI`;
+/** URL CDN d'une image Camptocamp. Le CDN sert l'original via media.camptocamp.org/c2corg-active/<filename>. */
+export function camptocampImageUrl(filename: string): string {
+  return `https://media.camptocamp.org/c2corg-active/${filename}`;
 }
 
 export async function fetchCamptocampImagesForWaypoint(

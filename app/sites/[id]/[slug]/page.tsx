@@ -8,6 +8,7 @@ import { SiteMiniMap } from "@/components/sites/site-mini-map";
 import { SiteGallery } from "@/components/sites/site-gallery";
 import { AccessBanner } from "@/components/sites/access-banner";
 import { CamptocampGallery } from "@/components/sites/camptocamp-gallery";
+import { OpenInMaps } from "@/components/sites/open-in-maps";
 import {
   fetchSiteById,
   fetchSiteImages,
@@ -340,16 +341,23 @@ export default async function SiteDetailPage(
           <section className="relative surface-2 text-foreground">
             <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
             <div className="mx-auto max-w-7xl px-5 py-14 sm:px-8 sm:py-20 lg:px-12">
-              <div className="mb-6 flex flex-wrap items-center gap-3 sm:mb-8">
-                <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
-                  § Localisation
-                </span>
-                {coords.affine && (
-                  <span className="inline-flex items-center gap-1.5 rounded-full border border-primary/30 bg-primary/10 px-2.5 py-0.5 font-mono text-[9px] uppercase tracking-[0.22em] text-primary">
-                    <span className="inline-block h-1.5 w-1.5 rounded-full bg-primary" />
-                    Position affinée
+              <div className="mb-6 flex flex-wrap items-center justify-between gap-4 sm:mb-8">
+                <div className="flex flex-wrap items-center gap-3">
+                  <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+                    § Localisation
                   </span>
-                )}
+                  {coords.affine && (
+                    <span className="inline-flex items-center gap-1.5 rounded-full border border-primary/30 bg-primary/10 px-2.5 py-0.5 font-mono text-[9px] uppercase tracking-[0.22em] text-primary">
+                      <span className="inline-block h-1.5 w-1.5 rounded-full bg-primary" />
+                      Position affinée
+                    </span>
+                  )}
+                </div>
+                <OpenInMaps
+                  latitude={coords.lat}
+                  longitude={coords.lon}
+                  label={site.nom}
+                />
               </div>
               <SiteMiniMap
                 latitude={coords.lat}
@@ -376,8 +384,8 @@ export default async function SiteDetailPage(
       })()}
 
       {/* Galerie photos Camptocamp (CC-BY-SA 4.0) */}
-      {c2cImages.length > 0 && site.c2c_url && (
-        <CamptocampGallery images={c2cImages} waypointUrl={site.c2c_url} />
+      {c2cImages.length > 0 && (
+        <CamptocampGallery images={c2cImages} siteNom={site.nom} />
       )}
 
       {/* Section Camptocamp : summary + access_period si dispo */}
