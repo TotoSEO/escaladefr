@@ -7,7 +7,7 @@ import { PageShell, PageHeader } from "@/components/page-shell";
 export const metadata: Metadata = {
   title: "Outils interactifs gratuits pour grimpeurs et escalade",
   description:
-    "Convertisseur de cotations, calculateur de jonctions, suivi de progression, météo par site. Outils gratuits pour la planification.",
+    "Convertisseur de cotations, météo escalade par site, calculateur de jonctions et rappels grande voie. Outils gratuits, sans inscription.",
   alternates: { canonical: "/outils" },
 };
 
@@ -30,23 +30,16 @@ const TOOLS: Tool[] = [
   {
     num: "II",
     title: "Météo escalade par site",
-    desc: "Croisement météo, orientation des voies et heures d'ensoleillement pour chaque site. Pour savoir si Buoux est faisable cet aprem.",
-    href: "/outils",
-    status: "soon",
+    desc: "Bulletin Open-Meteo heure par heure sur cinq jours, croisé avec l'orientation de la falaise. Pour savoir si Buoux est faisable cet aprem.",
+    href: "/outils/meteo",
+    status: "live",
   },
   {
     num: "III",
     title: "Calculateur de jonctions",
-    desc: "Pour les grandes voies. Tu donnes la longueur de la voie et le nombre de relais, on te dit combien de cordes prévoir et où placer les rappels.",
-    href: "/outils",
-    status: "soon",
-  },
-  {
-    num: "IV",
-    title: "Suivi de progression",
-    desc: "Carnet de voies simple : ce que tu as enchaîné, à quel niveau, quand. Avec une courbe de progression sur 12 mois.",
-    href: "/outils",
-    status: "later",
+    desc: "Pour les grandes voies. Hauteur totale, nombre de relais, corde dispo. On valide que ça passe et on compte les rappels pour la descente.",
+    href: "/outils/jonctions",
+    status: "live",
   },
 ];
 
