@@ -4,17 +4,16 @@
 @custom-variant dark (&:is(.dark *));
 
 /* ────────────────────────────────────────────────────────────
-   Design tokens — escalade-france.fr
-   Palette "outdoor / aventure" : pierre, roc, ocre, ardoise, mousse.
-   Mappée sur les tokens sémantiques shadcn pour que tous les
-   composants (Button, Card, Sheet, …) héritent automatiquement.
+   escalade-france.fr — Design system
+   Palette : noir profond / blanc / bleu glacier fluo / orange feu.
+   Cible : look éditorial outdoor, fort contraste, mobile-first.
    ──────────────────────────────────────────────────────────── */
 
 @theme inline {
-  /* Fonts (injectées par next/font dans layout.tsx) */
-  --font-sans: var(--font-inter), system-ui, -apple-system, "Segoe UI",
-    Roboto, "Helvetica Neue", Arial, sans-serif;
+  /* Fonts (next/font dans layout.tsx) */
+  --font-sans: var(--font-manrope), ui-sans-serif, "Helvetica Neue", sans-serif;
   --font-display: var(--font-fraunces), Georgia, "Times New Roman", serif;
+  --font-mono: var(--font-jetbrains), ui-monospace, "SF Mono", Menlo, monospace;
   --font-heading: var(--font-display);
 
   /* Bridge shadcn → Tailwind */
@@ -43,41 +42,35 @@
   --color-chart-4: var(--chart-4);
   --color-chart-5: var(--chart-5);
 
-  /* Palette de marque directement exposée (utilisable en bg-ember-500 etc.) */
-  --color-stone-bg-50:  #faf7f2;
-  --color-stone-bg-100: #f1ece2;
-  --color-stone-bg-200: #e3dccc;
-  --color-stone-bg-300: #ccc2ad;
-  --color-stone-bg-400: #a99c80;
-  --color-stone-bg-500: #7e735b;
-  --color-stone-bg-600: #5a5141;
-  --color-stone-bg-700: #3d3729;
-  --color-stone-bg-800: #25211a;
-  --color-stone-bg-900: #1b1916;
+  /* Palette de marque */
+  --color-ice-50:  #f0fbff;
+  --color-ice-100: #dcf6ff;
+  --color-ice-200: #b8ecff;
+  --color-ice-300: #7ddeff;
+  --color-ice-400: #38ccff;
+  --color-ice-500: #06b0e8;
+  --color-ice-600: #0089bc;
+  --color-ice-700: #036c95;
 
-  --color-ember-50:  #fdf3ec;
-  --color-ember-100: #f9e0cf;
-  --color-ember-200: #f1b893;
-  --color-ember-300: #e58e58;
-  --color-ember-400: #d56e35;
-  --color-ember-500: #b5532a;
-  --color-ember-600: #964120;
-  --color-ember-700: #75321a;
-  --color-ember-800: #532411;
+  --color-ember-50:  #fff5ee;
+  --color-ember-100: #ffe1cc;
+  --color-ember-200: #ffbe8f;
+  --color-ember-300: #ff9c54;
+  --color-ember-400: #ff7a26;
+  --color-ember-500: #ed5a0a;
+  --color-ember-600: #c04408;
 
-  --color-slate-deep-300: #8093a5;
-  --color-slate-deep-400: #5b7188;
-  --color-slate-deep-500: #3a4a5c;
-  --color-slate-deep-600: #2b3744;
-  --color-slate-deep-700: #1d2530;
+  --color-coal-50:  #f6f6f6;
+  --color-coal-100: #e7e7e7;
+  --color-coal-200: #c4c4c4;
+  --color-coal-300: #969696;
+  --color-coal-400: #5e5e5e;
+  --color-coal-500: #2e2e2e;
+  --color-coal-600: #1a1a1a;
+  --color-coal-700: #0f0f0f;
+  --color-coal-800: #0a0a0a;
+  --color-coal-900: #050505;
 
-  --color-moss-300: #a3ad81;
-  --color-moss-400: #7a8a59;
-  --color-moss-500: #5a6b3f;
-  --color-moss-600: #44522f;
-  --color-moss-700: #303a22;
-
-  /* Radius (shadcn) */
   --radius-sm: calc(var(--radius) * 0.6);
   --radius-md: calc(var(--radius) * 0.8);
   --radius-lg: var(--radius);
@@ -86,84 +79,84 @@
   --radius-3xl: calc(var(--radius) * 2.2);
 }
 
-/* ────────────────────────────────────────────────────────────
-   LIGHT — Jour clair en falaise
-   ──────────────────────────────────────────────────────────── */
+/* ──────────────────────────
+   LIGHT — Jour blanc, ciel franc
+   ────────────────────────── */
 :root {
-  --background: #faf7f2;       /* pierre claire */
-  --foreground: #1b1916;       /* charbon */
+  --background: #fafafa;
+  --foreground: #0a0a0a;
 
   --card: #ffffff;
-  --card-foreground: #1b1916;
+  --card-foreground: #0a0a0a;
 
   --popover: #ffffff;
-  --popover-foreground: #1b1916;
+  --popover-foreground: #0a0a0a;
 
-  --primary: #b5532a;          /* ocre brûlée (CTA) */
-  --primary-foreground: #faf7f2;
+  --primary: #06b0e8;
+  --primary-foreground: #ffffff;
 
-  --secondary: #f1ece2;        /* pierre pâle */
-  --secondary-foreground: #25211a;
+  --secondary: #f0fbff;
+  --secondary-foreground: #036c95;
 
-  --muted: #f1ece2;
-  --muted-foreground: #5a5141; /* pierre foncée */
+  --muted: #f1f1f1;
+  --muted-foreground: #5e5e5e;
 
-  --accent: #e3dccc;
-  --accent-foreground: #25211a;
+  --accent: #ff7a26;
+  --accent-foreground: #ffffff;
 
-  --destructive: #b91c1c;
-  --destructive-foreground: #faf7f2;
+  --destructive: #dc2626;
+  --destructive-foreground: #ffffff;
 
-  --border: #e3dccc;
-  --input: #e3dccc;
-  --ring: #b5532a;
+  --border: #e7e7e7;
+  --input: #e7e7e7;
+  --ring: #7ddeff;
 
-  --chart-1: #b5532a;          /* ember */
-  --chart-2: #3a4a5c;          /* slate-deep */
-  --chart-3: #5a6b3f;          /* moss */
-  --chart-4: #d56e35;
-  --chart-5: #7e735b;
+  --chart-1: #7ddeff;
+  --chart-2: #ff7a26;
+  --chart-3: #0a0a0a;
+  --chart-4: #38ccff;
+  --chart-5: #ff9c54;
 
-  --radius: 0.625rem;
+  --radius: 0.5rem;
 }
 
-/* ────────────────────────────────────────────────────────────
-   DARK — Nuit en bivouac
-   ──────────────────────────────────────────────────────────── */
+/* ──────────────────────────
+   DARK — Nuit en falaise (défaut)
+   ────────────────────────── */
 .dark {
-  --background: #14110d;
-  --foreground: #efeae0;
+  --background: #050505;
+  --foreground: #fafafa;
 
-  --card: #1d1a14;
-  --card-foreground: #efeae0;
+  --card: #0f0f0f;
+  --card-foreground: #fafafa;
 
-  --popover: #1d1a14;
-  --popover-foreground: #efeae0;
+  --popover: #0f0f0f;
+  --popover-foreground: #fafafa;
 
-  --primary: #d56e35;          /* ember plus clair, lisible en sombre */
-  --primary-foreground: #1b1916;
+  --primary: #7ddeff;
+  --primary-foreground: #050505;
 
-  --secondary: #25211a;
-  --secondary-foreground: #efeae0;
+  --secondary: #1a1a1a;
+  --secondary-foreground: #fafafa;
 
-  --muted: #25211a;
-  --muted-foreground: #a99c80;
+  --muted: #1a1a1a;
+  --muted-foreground: #969696;
 
-  --accent: #3d3729;
-  --accent-foreground: #efeae0;
+  --accent: #ff7a26;
+  --accent-foreground: #050505;
 
   --destructive: #ef4444;
-  --destructive-foreground: #1b1916;
+  --destructive-foreground: #050505;
 
-  --border: #2f2a20;
-  --input: #2f2a20;
-  --ring: #d56e35;
+  --border: rgba(255, 255, 255, 0.08);
+  --input: rgba(255, 255, 255, 0.08);
+  --ring: #7ddeff;
 
-  --chart-1: #e58e58;
-  --chart-2: #8093a5;
-  --chart-3: #a3ad81;
-  --chart-4: #f1b893;
-  --chart-5: #ccc2ad;
+  --chart-1: #7ddeff;
+  --chart-2: #ff7a26;
+  --chart-3: #fafafa;
+  --chart-4: #38ccff;
+  --chart-5: #ffbe8f;
 }
 
 @layer base {
@@ -176,14 +169,72 @@
   }
   body {
     @apply bg-background text-foreground antialiased;
-    font-feature-settings: "rlig" 1, "calt" 1;
-  }
-  h1, h2, h3 {
-    font-family: var(--font-display);
-    letter-spacing: -0.015em;
+    font-feature-settings: "rlig" 1, "calt" 1, "ss01" 1;
   }
   ::selection {
-    background: var(--color-ember-200);
-    color: var(--color-stone-bg-900);
+    background: var(--color-ice-300);
+    color: var(--color-coal-900);
+  }
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: var(--muted);
+    border-radius: 999px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--color-coal-400);
+  }
+}
+
+@layer utilities {
+  .glow-ice {
+    box-shadow: 0 0 0 1px rgba(125, 222, 255, 0.4),
+                0 0 24px -4px rgba(125, 222, 255, 0.6),
+                0 0 60px -10px rgba(125, 222, 255, 0.5);
+  }
+  .glow-ice-text {
+    text-shadow: 0 0 24px rgba(125, 222, 255, 0.55);
+  }
+  .glow-ember {
+    box-shadow: 0 0 0 1px rgba(255, 122, 38, 0.4),
+                0 0 24px -4px rgba(255, 122, 38, 0.5),
+                0 0 60px -10px rgba(255, 122, 38, 0.4);
+  }
+
+  .noise {
+    position: relative;
+  }
+  .noise::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    opacity: 0.06;
+    mix-blend-mode: overlay;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+
+  @keyframes marquee {
+    from { transform: translateX(0); }
+    to   { transform: translateX(-50%); }
+  }
+  .animate-marquee {
+    animation: marquee 40s linear infinite;
+  }
+  .animate-marquee-slow {
+    animation: marquee 80s linear infinite;
+  }
+
+  @keyframes pulse-ice {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(125, 222, 255, 0.6); }
+    50%      { box-shadow: 0 0 0 14px rgba(125, 222, 255, 0); }
+  }
+  .pulse-ice {
+    animation: pulse-ice 2.2s ease-out infinite;
   }
 }

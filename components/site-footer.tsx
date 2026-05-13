@@ -1,63 +1,84 @@
 import Link from "next/link";
-import { Mountain } from "lucide-react";
 
-const SECTIONS: { title: string; links: { label: string; href: string }[] }[] = [
+const COLUMNS: { title: string; links: { label: string; href: string }[] }[] = [
   {
     title: "Explorer",
     links: [
       { label: "Sites naturels", href: "/sites" },
-      { label: "Carte interactive", href: "/carte" },
-      { label: "Par département", href: "/sites" },
-    ],
-  },
-  {
-    title: "Bientôt",
-    links: [
+      { label: "Carte interactive", href: "/sites" },
       { label: "Annuaire des salles", href: "/salles" },
-      { label: "Guides & topos", href: "/guides" },
-      { label: "Boutique équipement", href: "/boutique" },
+      { label: "Outils", href: "/outils" },
     ],
   },
   {
-    title: "À propos",
+    title: "Ressources",
     links: [
-      { label: "Le projet", href: "/a-propos" },
+      { label: "Blog", href: "/blog" },
+      { label: "Boutique", href: "/boutique" },
       { label: "Sources & données", href: "/sources" },
+    ],
+  },
+  {
+    title: "Le projet",
+    links: [
+      { label: "À propos", href: "/a-propos" },
       { label: "Contact", href: "/contact" },
+      { label: "Mentions légales", href: "/legal" },
     ],
   },
 ];
 
 export function SiteFooter() {
   return (
-    <footer className="mt-24 border-t border-border/60 bg-stone-bg-50/40 dark:bg-stone-bg-900/30">
-      <div className="mx-auto max-w-6xl px-4 py-12 sm:px-6 sm:py-16 lg:px-8">
-        <div className="grid gap-12 sm:grid-cols-2 lg:grid-cols-4">
-          <div>
-            <Link href="/" className="flex items-center gap-2 font-display text-lg font-semibold">
-              <span className="flex h-8 w-8 items-center justify-center rounded-md bg-primary text-primary-foreground">
-                <Mountain className="h-4 w-4" strokeWidth={2.5} />
-              </span>
-              escalade<span className="text-primary">-france</span>
-            </Link>
-            <p className="mt-4 max-w-xs text-sm text-muted-foreground">
-              L&apos;annuaire indépendant des sites naturels et des salles
-              d&apos;escalade en France.
+    <footer className="relative overflow-hidden bg-coal-900 text-foreground">
+      <div
+        aria-hidden
+        className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-primary/30 to-transparent"
+      />
+
+      <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 sm:py-24 lg:px-12">
+        {/* Mega signature */}
+        <div className="grid grid-cols-12 items-end gap-8">
+          <div className="col-span-12 lg:col-span-8">
+            <p className="font-mono text-[11px] uppercase tracking-[0.28em] text-muted-foreground">
+              § Fin du fichier · Ligne 4 sur 4
             </p>
+            <h2 className="mt-6 font-display text-[14vw] font-medium leading-[0.88] tracking-[-0.03em] sm:text-[10vw] lg:text-[8vw]">
+              On grimpe{" "}
+              <span className="italic text-primary glow-ice-text">tous</span>{" "}
+              ici.
+            </h2>
           </div>
 
-          {SECTIONS.map((section) => (
-            <div key={section.title}>
-              <h3 className="font-display text-sm font-semibold uppercase tracking-wider text-muted-foreground">
-                {section.title}
+          <div className="col-span-12 flex flex-col gap-3 lg:col-span-4 lg:items-end lg:text-right">
+            <p className="max-w-[32ch] text-sm leading-relaxed text-muted-foreground lg:max-w-[24ch]">
+              Une plateforme indépendante. Pas de pub agressive, pas de tracker
+              qui suit. Juste l&apos;information qu&apos;on cherche.
+            </p>
+            <Link
+              href="/contact"
+              className="mt-2 inline-flex h-12 items-center gap-2 rounded-full border border-white/15 px-5 text-xs font-semibold uppercase tracking-[0.2em] text-foreground transition-all hover:border-primary hover:bg-primary/5 hover:text-primary lg:self-end"
+            >
+              Nous écrire
+            </Link>
+          </div>
+        </div>
+
+        {/* Colonnes nav */}
+        <div className="mt-20 grid grid-cols-12 gap-x-4 gap-y-12 border-t border-white/10 pt-12 sm:gap-x-8 sm:pt-16">
+          {COLUMNS.map((col) => (
+            <div key={col.title} className="col-span-6 sm:col-span-4 lg:col-span-3">
+              <h3 className="font-mono text-[10px] uppercase tracking-[0.28em] text-primary">
+                {col.title}
               </h3>
-              <ul className="mt-4 space-y-3">
-                {section.links.map((link) => (
+              <ul className="mt-5 space-y-3">
+                {col.links.map((link) => (
                   <li key={link.href}>
                     <Link
                       href={link.href}
-                      className="text-sm text-foreground/80 transition-colors hover:text-primary"
+                      className="group inline-flex items-center gap-2 text-sm text-foreground/80 transition-colors hover:text-foreground"
                     >
+                      <span className="h-px w-3 bg-foreground/30 transition-all group-hover:w-5 group-hover:bg-primary" />
                       {link.label}
                     </Link>
                   </li>
@@ -65,17 +86,33 @@ export function SiteFooter() {
               </ul>
             </div>
           ))}
+
+          <div className="col-span-12 lg:col-span-3">
+            <h3 className="font-mono text-[10px] uppercase tracking-[0.28em] text-primary">
+              Données
+            </h3>
+            <p className="mt-5 text-sm leading-relaxed text-muted-foreground">
+              Sites naturels issus du recensement{" "}
+              <a
+                href="https://www.ffme.fr/"
+                target="_blank"
+                rel="noreferrer"
+                className="text-foreground underline decoration-primary underline-offset-4 hover:text-primary"
+              >
+                FFME
+              </a>
+              . Salles indoor en cours de collecte. Mises à jour mensuelles.
+            </p>
+          </div>
         </div>
 
-        <div className="mt-12 flex flex-col gap-3 border-t border-border/60 pt-6 text-xs text-muted-foreground sm:flex-row sm:items-center sm:justify-between">
-          <p>
-            © {new Date().getFullYear()} escalade-france.fr — Données issues
-            de la FFME.
-          </p>
-          <p className="flex items-center gap-2">
+        {/* Baseline */}
+        <div className="mt-16 flex flex-col items-start justify-between gap-3 border-t border-white/10 pt-6 font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground sm:flex-row sm:items-center">
+          <span>© {new Date().getFullYear()} escalade-france.fr</span>
+          <span className="flex items-center gap-2">
             <span className="inline-block h-1.5 w-1.5 animate-pulse rounded-full bg-primary" />
-            En altitude depuis 2026
-          </p>
+            Mis à jour · {new Date().toLocaleDateString("fr-FR", { month: "long", year: "numeric" })}
+          </span>
         </div>
       </div>
     </footer>
