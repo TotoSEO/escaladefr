@@ -91,6 +91,34 @@ export async function fetchSiteById(id: number): Promise<SiteDetail | null> {
   return data as SiteDetail;
 }
 
+export type SiteImage = {
+  id: number;
+  site_id: number;
+  url: string;
+  thumbnail_url: string | null;
+  auteur: string | null;
+  licence: string | null;
+  licence_url: string | null;
+  source_url: string | null;
+  titre: string | null;
+  source: string | null;
+  position: number;
+  width: number | null;
+  height: number | null;
+};
+
+export async function fetchSiteImages(siteId: number): Promise<SiteImage[]> {
+  const supabase = getSupabase();
+  if (!supabase) return [];
+  const { data, error } = await supabase
+    .from("site_images")
+    .select("id,site_id,url,thumbnail_url,auteur,licence,licence_url,source_url,titre,source,position,width,height")
+    .eq("site_id", siteId)
+    .order("position", { ascending: true });
+  if (error || !data) return [];
+  return data as SiteImage[];
+}
+
 export async function fetchSitesByDepartement(
   departement: string,
 ): Promise<SiteListItem[]> {

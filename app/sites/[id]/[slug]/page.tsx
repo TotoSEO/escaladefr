@@ -5,8 +5,10 @@ import { ArrowUpRight, MapPin, Mountain, Calendar, Compass } from "lucide-react"
 
 import { PageShell } from "@/components/page-shell";
 import { SiteMiniMap } from "@/components/sites/site-mini-map";
+import { SiteGallery } from "@/components/sites/site-gallery";
 import {
   fetchSiteById,
+  fetchSiteImages,
   communeName,
   siteSlug,
   formatCotationRange,
@@ -68,6 +70,8 @@ export default async function SiteDetailPage(
   if (slug !== canonical) {
     redirect(`/sites/${site.id}/${canonical}`);
   }
+
+  const images = await fetchSiteImages(site.id);
 
   const months = orderedMonths(site.periodes_favorables);
 
@@ -209,6 +213,11 @@ export default async function SiteDetailPage(
           </dl>
         </div>
       </section>
+
+      {/* Galerie d'images (Wikimedia Commons sous licence libre) */}
+      {images.length > 0 && (
+        <SiteGallery images={images} siteNom={site.nom} />
+      )}
 
       {/* Données factuelles structurées */}
       <section className="relative surface-1 text-foreground">
