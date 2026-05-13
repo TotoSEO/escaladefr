@@ -173,6 +173,25 @@ export function buildDays(data: OpenMeteoResponse): DayBucket[] {
     const hours = byDay.get(dayIso) ?? [];
     const dateLabel = frDate(new Date(`${dayIso}T12:00:00`));
 
+    // Atténuation crépuscule : Open-Meteo passe is_day=1 dès que le soleil
+    // est techniquement au-dessus de l'horizon, même si la lumière est
+    // faible et la falaise pas encore éclairée. On dégrade les verdicts
+    // "good" qui tombent dans la fenêtre ±60 min autour du lever/coucher.
+    const sunrise = new Date(data.daily.sunrise[d]).getTime();
+    const sunset = new Date(data.daily.sunset[d]).getTime();
+    const TWILIGHT_MS = 60 * 60 * 1000;
+    for (const h of hours) {
+      const t = h.date.getTime();
+      if (h.verdict !== "good") continue;
+      if (Math.abs(t - sunrise) < TWILIGHT_MS) {
+        h.verdict = "ok";
+        h.reason = "Lumière faible (proche du lever de soleil). Falaise encore peu éclairée.";
+      } else if (Math.abs(t - sunset) < TWILIGHT_MS) {
+        h.verdict = "ok";
+        h.reason = "Lumière faible (proche du coucher). Reste peu de temps grimpable.";
+      }
+    }
+
     // Best window : la plus longue plage continue "good" en journée.
     let best: DayBucket["bestWindow"] = null;
     let runStart = -1;
