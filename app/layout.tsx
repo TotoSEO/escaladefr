@@ -1,14 +1,14 @@
 import type { Metadata, Viewport } from "next";
-import { Inter, Fraunces } from "next/font/google";
+import { Manrope, Fraunces, JetBrains_Mono } from "next/font/google";
 import { ThemeProvider } from "next-themes";
 
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 import "./globals.css";
 
-const inter = Inter({
+const manrope = Manrope({
   subsets: ["latin"],
-  variable: "--font-inter",
+  variable: "--font-manrope",
   display: "swap",
 });
 
@@ -19,17 +19,25 @@ const fraunces = Fraunces({
   axes: ["opsz", "SOFT"],
 });
 
+const jetbrains = JetBrains_Mono({
+  subsets: ["latin"],
+  variable: "--font-jetbrains",
+  display: "swap",
+});
+
 export const metadata: Metadata = {
   metadataBase: new URL("https://escalade-france.fr"),
   title: {
-    default: "escalade-france.fr — Sites naturels et salles d'escalade",
+    default: "escalade-france.fr · sites naturels et salles d'escalade",
     template: "%s · escalade-france.fr",
   },
   description:
-    "Annuaire indépendant des sites naturels d'escalade et des salles d'escalade en France. Cotations, accès, périodes favorables, cartographie.",
+    "L'annuaire indépendant de l'escalade en France. Plus de 3 500 sites naturels recensés, salles indoor, cartographie, cotations.",
   applicationName: "escalade-france.fr",
   keywords: [
     "escalade",
+    "site d'escalade",
+    "spot escalade",
     "falaise",
     "site naturel d'escalade",
     "SNE",
@@ -43,9 +51,8 @@ export const metadata: Metadata = {
     type: "website",
     locale: "fr_FR",
     siteName: "escalade-france.fr",
-    title: "escalade-france.fr — Sites naturels et salles d'escalade",
-    description:
-      "L'annuaire indépendant de l'escalade en France : outdoor, indoor, équipement.",
+    title: "escalade-france.fr · sites naturels et salles d'escalade",
+    description: "L'annuaire indépendant de l'escalade en France.",
   },
   twitter: {
     card: "summary_large_image",
@@ -58,10 +65,7 @@ export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
   maximumScale: 5,
-  themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#faf7f2" },
-    { media: "(prefers-color-scheme: dark)", color: "#14110d" },
-  ],
+  themeColor: "#050505",
 };
 
 export default function RootLayout({
@@ -72,14 +76,14 @@ export default function RootLayout({
   return (
     <html
       lang="fr"
-      className={`${inter.variable} ${fraunces.variable}`}
+      className={`${manrope.variable} ${fraunces.variable} ${jetbrains.variable}`}
       suppressHydrationWarning
     >
       <body className="min-h-dvh bg-background font-sans text-foreground antialiased">
         <ThemeProvider
           attribute="class"
-          defaultTheme="light"
-          enableSystem
+          defaultTheme="dark"
+          enableSystem={false}
           disableTransitionOnChange
         >
           <div className="flex min-h-dvh flex-col">

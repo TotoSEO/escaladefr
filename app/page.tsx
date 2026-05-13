@@ -1,6 +1,6 @@
 import { getSupabase } from "@/lib/supabase";
 import { Hero } from "@/components/home/hero";
-import { StatsStrip } from "@/components/home/stats-strip";
+import { Manifesto } from "@/components/home/manifesto";
 import { TopDepartements } from "@/components/home/top-departements";
 import { Missions } from "@/components/home/missions";
 
@@ -61,7 +61,7 @@ export default async function Home() {
   return (
     <>
       <Hero totalSites={stats.total} />
-      <StatsStrip
+      <Manifesto
         total={stats.total}
         avecGps={stats.avecGps}
         departements={stats.topDepartements.length || null}

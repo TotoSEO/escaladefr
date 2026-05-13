@@ -2,94 +2,145 @@
 
 import Link from "next/link";
 import { motion, useInView } from "motion/react";
-import { useRef } from "react";
+import { useRef, useState } from "react";
 import { ArrowUpRight } from "lucide-react";
 
 type Dep = { departement: string; count: number };
 
 export function TopDepartements({ items }: { items: Dep[] }) {
-  const ref = useRef<HTMLDivElement>(null);
-  const inView = useInView(ref, { once: true, margin: "-15%" });
+  const ref = useRef<HTMLElement>(null);
+  const inView = useInView(ref, { once: true, margin: "-12%" });
+  const [hovered, setHovered] = useState<number | null>(null);
 
   if (items.length === 0) return null;
 
   const maxCount = Math.max(...items.map((d) => d.count));
 
   return (
-    <section ref={ref} className="relative mx-auto max-w-6xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
-      <div className="mb-10 flex flex-col gap-3 sm:mb-14 sm:flex-row sm:items-end sm:justify-between">
-        <div>
-          <div className="text-xs font-medium uppercase tracking-[0.2em] text-primary">
-            Top destinations
-          </div>
-          <h2 className="mt-2 max-w-2xl font-display text-3xl font-medium leading-tight tracking-tight sm:text-5xl">
-            Les départements
-            <br className="hidden sm:block" />
-            <span className="italic text-muted-foreground"> les plus équipés</span>
-          </h2>
+    <section
+      ref={ref}
+      className="relative overflow-hidden bg-coal-800 text-foreground"
+    >
+      <div
+        aria-hidden
+        className="absolute -left-32 top-1/2 h-[500px] w-[500px] -translate-y-1/2 rounded-full bg-primary/[0.08] blur-[140px]"
+      />
+
+      <div className="mx-auto max-w-7xl px-5 py-20 sm:px-8 sm:py-28 lg:px-12 lg:py-36">
+        <div className="grid grid-cols-12 gap-y-6">
+          <motion.div
+            initial={{ opacity: 0, y: 16 }}
+            animate={inView ? { opacity: 1, y: 0 } : undefined}
+            transition={{ duration: 0.6 }}
+            className="col-span-12 flex items-center gap-3 sm:col-span-4 lg:col-span-3"
+          >
+            <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+              § 02 / Hotspots
+            </span>
+          </motion.div>
+
+          <motion.h2
+            initial={{ opacity: 0, y: 24 }}
+            animate={inView ? { opacity: 1, y: 0 } : undefined}
+            transition={{ duration: 0.8, delay: 0.05, ease: [0.22, 1, 0.36, 1] }}
+            className="col-span-12 font-display text-[10vw] font-medium leading-[0.95] tracking-[-0.02em] sm:col-span-8 sm:text-[5.5vw] lg:col-span-9 lg:text-[4.4vw]"
+          >
+            Là où{" "}
+            <span className="italic text-primary glow-ice-text">ça grimpe</span>{" "}
+            le plus.
+          </motion.h2>
         </div>
-        <Link
-          href="/sites"
-          className="inline-flex w-fit items-center gap-1.5 text-sm font-medium text-primary transition-colors hover:gap-2.5"
-        >
-          Voir tous les départements
-          <ArrowUpRight className="h-4 w-4 transition-transform" />
-        </Link>
-      </div>
 
-      <ol className="space-y-3 sm:space-y-1">
-        {items.map((d, i) => {
-          const ratio = d.count / maxCount;
-          return (
-            <motion.li
-              key={d.departement}
-              initial={{ opacity: 0, x: -20 }}
-              animate={inView ? { opacity: 1, x: 0 } : undefined}
-              transition={{
-                delay: i * 0.05,
-                duration: 0.5,
-                ease: [0.22, 1, 0.36, 1],
-              }}
-            >
-              <Link
-                href={`/sites?departement=${encodeURIComponent(d.departement)}`}
-                className="group relative block overflow-hidden rounded-lg border border-transparent px-4 py-4 transition-colors hover:border-border hover:bg-card sm:rounded-xl sm:px-6 sm:py-5"
+        <ol className="mt-14 sm:mt-20" onMouseLeave={() => setHovered(null)}>
+          {items.map((d, i) => {
+            const ratio = d.count / maxCount;
+            const isHovered = hovered === i;
+            return (
+              <motion.li
+                key={d.departement}
+                initial={{ opacity: 0, y: 20 }}
+                animate={inView ? { opacity: 1, y: 0 } : undefined}
+                transition={{
+                  delay: 0.15 + i * 0.05,
+                  duration: 0.7,
+                  ease: [0.22, 1, 0.36, 1],
+                }}
+                onMouseEnter={() => setHovered(i)}
+                className="group relative border-t border-white/10 last:border-b"
               >
-                {/* Barre de progression en fond */}
-                <motion.div
-                  aria-hidden
-                  initial={{ scaleX: 0 }}
-                  animate={inView ? { scaleX: ratio } : undefined}
-                  transition={{
-                    delay: 0.15 + i * 0.05,
-                    duration: 0.9,
-                    ease: [0.22, 1, 0.36, 1],
-                  }}
-                  className="absolute inset-y-0 left-0 origin-left bg-primary/[0.08]"
-                  style={{ width: "100%" }}
-                />
+                <Link
+                  href={`/sites?departement=${encodeURIComponent(d.departement)}`}
+                  className="relative grid grid-cols-12 items-baseline gap-3 py-6 sm:gap-6 sm:py-8 lg:py-10"
+                >
+                  <motion.span
+                    aria-hidden
+                    initial={{ scaleX: 0 }}
+                    animate={
+                      inView
+                        ? { scaleX: ratio * (isHovered ? 1.05 : 1) }
+                        : undefined
+                    }
+                    transition={{
+                      delay: 0.25 + i * 0.05,
+                      duration: 1,
+                      ease: [0.22, 1, 0.36, 1],
+                    }}
+                    style={{ transformOrigin: "left" }}
+                    className={`absolute inset-y-0 left-0 -z-0 ${
+                      isHovered ? "bg-primary/15" : "bg-white/[0.04]"
+                    } transition-colors duration-300`}
+                  />
 
-                <div className="relative flex items-center justify-between gap-4">
-                  <div className="flex items-baseline gap-3 sm:gap-5">
-                    <span className="font-display text-2xl font-medium text-muted-foreground/60 tabular-nums sm:text-3xl">
-                      {String(i + 1).padStart(2, "0")}
-                    </span>
-                    <span className="font-display text-xl font-medium sm:text-2xl">
-                      {d.departement}
-                    </span>
-                  </div>
-                  <div className="flex items-center gap-3 sm:gap-5">
-                    <span className="font-display text-base text-muted-foreground tabular-nums sm:text-lg">
+                  <span className="col-span-2 font-mono text-xs tabular-nums text-muted-foreground sm:text-sm">
+                    {String(i + 1).padStart(2, "0")}
+                  </span>
+
+                  <span
+                    className={`col-span-8 font-display font-medium leading-none tracking-[-0.02em] transition-transform duration-500 sm:col-span-7 ${
+                      isHovered ? "translate-x-2 sm:translate-x-4" : ""
+                    } text-[6vw] sm:text-[3.6vw] lg:text-[2.6vw]`}
+                  >
+                    {d.departement}
+                  </span>
+
+                  <span className="col-span-2 flex items-center justify-end gap-3 sm:col-span-3">
+                    <span className="hidden font-mono text-xs uppercase tabular-nums tracking-[0.2em] text-muted-foreground sm:inline">
                       {d.count.toLocaleString("fr-FR")} sites
                     </span>
-                    <ArrowUpRight className="h-4 w-4 shrink-0 text-muted-foreground transition-all duration-300 group-hover:-translate-y-0.5 group-hover:translate-x-0.5 group-hover:text-primary" />
-                  </div>
-                </div>
-              </Link>
-            </motion.li>
-          );
-        })}
-      </ol>
+                    <span
+                      className={`relative flex h-9 w-9 items-center justify-center rounded-full transition-all duration-300 sm:h-11 sm:w-11 ${
+                        isHovered
+                          ? "bg-primary text-primary-foreground"
+                          : "bg-white/5 text-foreground/70"
+                      }`}
+                    >
+                      <ArrowUpRight
+                        className={`h-4 w-4 transition-transform duration-300 ${
+                          isHovered ? "rotate-12" : ""
+                        }`}
+                      />
+                    </span>
+                  </span>
+
+                  <span className="col-span-12 -mt-2 pl-[16%] font-mono text-[10px] uppercase tracking-[0.2em] text-muted-foreground sm:hidden">
+                    {d.count.toLocaleString("fr-FR")} sites
+                  </span>
+                </Link>
+              </motion.li>
+            );
+          })}
+        </ol>
+
+        <div className="mt-12 flex items-center justify-end sm:mt-16">
+          <Link
+            href="/sites"
+            className="group inline-flex items-center gap-2 font-mono text-xs uppercase tracking-[0.22em] text-primary transition-colors hover:text-foreground sm:text-sm"
+          >
+            Voir toute la carte
+            <ArrowUpRight className="h-4 w-4 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
+          </Link>
+        </div>
+      </div>
     </section>
   );
 }
