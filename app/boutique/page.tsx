@@ -4,9 +4,10 @@ import { ShoppingBag } from "lucide-react";
 import { PageShell, PageHeader } from "@/components/page-shell";
 
 export const metadata: Metadata = {
-  title: "Boutique · sélections matériel escalade",
+  title: "Boutique escalade · chaussons, baudriers, cordes et plus",
   description:
-    "Sélections de matériel d'escalade testé. Chaussons, baudriers, cordes, casques. Comparatifs honnêtes, liens d'affiliation transparents. Bientôt en ligne.",
+    "Sélections de matériel d'escalade testé : chaussons, baudriers, cordes, casques. Comparatifs honnêtes et liens d'affiliation transparents.",
+  alternates: { canonical: "/boutique" },
 };
 
 const CATEGORIES = [
@@ -37,8 +38,42 @@ const CATEGORIES = [
 ];
 
 export default function BoutiquePage() {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "CollectionPage",
+        "@id": "https://escalade-france.fr/boutique",
+        url: "https://escalade-france.fr/boutique",
+        name: "Boutique d'équipement d'escalade",
+        isPartOf: { "@id": "https://escalade-france.fr/#website" },
+      },
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://escalade-france.fr" },
+          { "@type": "ListItem", position: 2, name: "Boutique", item: "https://escalade-france.fr/boutique" },
+        ],
+      },
+      {
+        "@type": "ItemList",
+        name: "Catégories de matériel d'escalade",
+        itemListElement: CATEGORIES.map((c, i) => ({
+          "@type": "ListItem",
+          position: i + 1,
+          name: c.cat,
+          description: c.desc,
+        })),
+      },
+    ],
+  };
+
   return (
     <PageShell>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <PageHeader
         section="§ Boutique"
         status="later"

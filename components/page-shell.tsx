@@ -21,10 +21,10 @@ export function PageHeader({
 }: PageHeaderProps) {
   const surfaceClass =
     surface === "warm"
-      ? "surface-mesh-warm"
+      ? "surface-warm"
       : surface === "cool"
-      ? "surface-mesh-cool"
-      : "surface-mesh";
+      ? "surface-cool"
+      : "surface-1";
 
   return (
     <header

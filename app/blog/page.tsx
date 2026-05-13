@@ -4,9 +4,10 @@ import Link from "next/link";
 import { PageShell, PageHeader } from "@/components/page-shell";
 
 export const metadata: Metadata = {
-  title: "Blog · récits, guides et tests d'escalade",
+  title: "Blog escalade · récits de sortie, guides et tests honnêtes",
   description:
-    "Articles de fond sur l'escalade en France : tests de matériel, récits de sorties, guides pratiques, actualité du milieu. Bientôt en ligne.",
+    "Articles de fond sur l'escalade en France : tests matériel, récits de sortie, guides pratiques, analyse du milieu. Un article par semaine.",
+  alternates: { canonical: "/blog" },
 };
 
 const TEASERS = [
@@ -33,8 +34,44 @@ const TEASERS = [
 ];
 
 export default function BlogPage() {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Blog",
+        "@id": "https://escalade-france.fr/blog",
+        url: "https://escalade-france.fr/blog",
+        name: "Blog escalade-france.fr",
+        description:
+          "Récits, guides et tests d'escalade publiés chaque semaine.",
+        isPartOf: { "@id": "https://escalade-france.fr/#website" },
+      },
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://escalade-france.fr" },
+          { "@type": "ListItem", position: 2, name: "Blog", item: "https://escalade-france.fr/blog" },
+        ],
+      },
+      {
+        "@type": "ItemList",
+        name: "Prochains articles du blog escalade",
+        itemListElement: TEASERS.map((t, i) => ({
+          "@type": "ListItem",
+          position: i + 1,
+          name: t.title,
+          description: t.desc,
+        })),
+      },
+    ],
+  };
+
   return (
     <PageShell>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <PageHeader
         section="§ Blog"
         status="soon"

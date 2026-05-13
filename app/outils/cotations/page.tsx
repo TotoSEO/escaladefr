@@ -6,16 +6,14 @@ import { GradeConverter } from "@/components/tools/grade-converter";
 import { ROUTE_GRADES, BOULDER_GRADES } from "@/lib/grades";
 
 export const metadata: Metadata = {
-  title: "Convertisseur de cotations d'escalade · Français, UIAA, YDS, Britannique",
+  title: "Convertisseur de cotations d'escalade · français, UIAA, YDS",
   description:
-    "Convertis en un clic les cotations d'escalade entre le système français, UIAA, YDS américain et britannique. Tableau d'équivalences complet pour la voie et le bloc (Font et V-scale). Outil gratuit.",
-  alternates: {
-    canonical: "/outils/cotations",
-  },
+    "Convertis les cotations d'escalade entre français, UIAA, YDS américain et britannique. Pour la voie et le bloc. Outil gratuit en ligne.",
+  alternates: { canonical: "/outils/cotations" },
   openGraph: {
     title: "Convertisseur de cotations d'escalade",
     description:
-      "Conversions entre cotation française, UIAA, YDS et britannique. Pour la voie comme pour le bloc.",
+      "Conversions entre cotation française, UIAA, YDS et britannique. Voie et bloc.",
     type: "website",
   },
 };
@@ -107,7 +105,7 @@ export default function CotationsPage() {
       />
 
       {/* Convertisseur */}
-      <section className="relative surface-1 text-foreground">
+      <section className="relative surface-2 text-foreground">
         <div className="mx-auto max-w-5xl px-5 py-12 sm:px-8 sm:py-16 lg:px-12 lg:py-20">
           <GradeConverter />
           <p className="mt-6 text-center text-xs leading-relaxed text-muted-foreground sm:text-sm">
@@ -120,7 +118,7 @@ export default function CotationsPage() {
       </section>
 
       {/* Comprendre les systèmes — surface 2 */}
-      <section className="relative surface-2 text-foreground">
+      <section className="relative surface-3 text-foreground">
         <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
         <div className="mx-auto max-w-7xl px-5 py-20 sm:px-8 sm:py-28 lg:px-12">
           <div className="grid grid-cols-12 gap-y-10 sm:gap-x-12">
@@ -168,7 +166,7 @@ export default function CotationsPage() {
       </section>
 
       {/* Tableau complet — surface mesh-warm */}
-      <section className="relative surface-mesh-warm text-foreground">
+      <section className="relative surface-2 text-foreground">
         <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
         <div className="mx-auto max-w-7xl px-5 py-20 sm:px-8 sm:py-28 lg:px-12">
           <div className="mb-10 sm:mb-14">
@@ -193,7 +191,7 @@ export default function CotationsPage() {
             <h3 className="mb-4 font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
               Voie
             </h3>
-            <div className="overflow-x-auto rounded-2xl border border-white/10 bg-coal-900/70">
+            <div className="overflow-x-auto rounded-2xl border border-white/10 bg-coal-700/60">
               <table className="w-full min-w-[640px] text-left">
                 <thead>
                   <tr className="border-b border-white/10 font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
@@ -229,7 +227,7 @@ export default function CotationsPage() {
             <h3 className="mb-4 font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
               Bloc
             </h3>
-            <div className="overflow-x-auto rounded-2xl border border-white/10 bg-coal-900/70">
+            <div className="overflow-x-auto rounded-2xl border border-white/10 bg-coal-700/60">
               <table className="w-full min-w-[360px] text-left">
                 <thead>
                   <tr className="border-b border-white/10 font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
@@ -256,8 +254,205 @@ export default function CotationsPage() {
         </div>
       </section>
 
-      {/* FAQ */}
+      {/* Niveau par niveau */}
       <section className="relative surface-1 text-foreground">
+        <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
+        <div className="mx-auto max-w-7xl px-5 py-20 sm:px-8 sm:py-28 lg:px-12">
+          <div className="grid grid-cols-12 gap-y-10 sm:gap-x-12">
+            <div className="col-span-12 sm:col-span-4 lg:col-span-3">
+              <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+                § Niveau par niveau
+              </span>
+            </div>
+            <div className="col-span-12 sm:col-span-8 lg:col-span-9">
+              <h2
+                className="font-display font-medium leading-[0.96] tracking-[-0.02em] text-balance"
+                style={{ fontSize: "clamp(1.85rem, 5vw, 4.4rem)" }}
+              >
+                Ce que veut dire{" "}
+                <span className="italic text-primary glow-ice-text">
+                  une cotation française
+                </span>
+                , concrètement.
+              </h2>
+              <div className="mt-12 grid gap-3 sm:mt-16">
+                <LevelRow
+                  range="3 à 4"
+                  yds="5.4 à 5.6"
+                  title="Initiation"
+                  body="Vraies prises bien marquées, voies très peu déversantes, équipement rapproché. C'est le niveau où on apprend à se déplacer en grimpe, à clipper la corde, à grimper en tête sereinement. Adapté aux enfants et à toute première sortie."
+                />
+                <LevelRow
+                  range="5a à 5c"
+                  yds="5.7 à 5.10a"
+                  title="Sortir de l'apprentissage"
+                  body="Les prises se font plus petites, on commence à devoir réfléchir au placement de pied. Une voie en 5c demande de l'endurance, un peu de lecture, et marque l'entrée dans l'escalade autonome. C'est un palier psychologique important pour beaucoup."
+                />
+                <LevelRow
+                  range="6a à 6c+"
+                  yds="5.10b à 5.11c"
+                  title="Niveau intermédiaire"
+                  body="La gamme la plus fréquente en falaise française. À ce niveau on grimpe régulièrement, on a un peu d'expérience du dévers, on commence à savoir poser des dégaines en hauteur sans paniquer. Un grimpeur qui sort 6c en falaise toutes les sessions est déjà solide."
+                />
+                <LevelRow
+                  range="7a à 7c+"
+                  yds="5.11d à 5.13a"
+                  title="Confirmé à haut niveau"
+                  body="On parle ici de grimpeurs réguliers qui s'entraînent. Une voie en 7a fait basculer dans une grimpe plus exigeante : continuité, dévers prononcé, prises fines. Le 7c+ est déjà du haut niveau amateur."
+                />
+                <LevelRow
+                  range="8a à 8c+"
+                  yds="5.13b à 5.14c"
+                  title="Élite"
+                  body="On entre dans le domaine de la compétition et des grimpeurs qui s'entraînent à temps plein ou presque. À ce niveau, on lit chaque méthode, on s'investit sur un projet pendant des semaines, parfois des mois."
+                />
+                <LevelRow
+                  range="9a à 9c"
+                  yds="5.14d à 5.15d"
+                  title="Niveau mondial"
+                  body="Le sommet absolu. Le 9c, plus haute cotation jamais validée, n'a été ouvert qu'une fois : Silence, à Flatanger en Norvège, par Adam Ondra en 2017. Une poignée de grimpeurs au monde grimpent dans le 9b et plus."
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Records mondiaux */}
+      <section className="relative surface-2 text-foreground">
+        <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
+        <div className="mx-auto max-w-7xl px-5 py-20 sm:px-8 sm:py-28 lg:px-12">
+          <div className="grid grid-cols-12 gap-y-10 sm:gap-x-12">
+            <div className="col-span-12 sm:col-span-4 lg:col-span-3">
+              <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+                § Records actuels
+              </span>
+            </div>
+            <div className="col-span-12 sm:col-span-8 lg:col-span-9">
+              <h2
+                className="font-display font-medium leading-[0.96] tracking-[-0.02em] text-balance"
+                style={{ fontSize: "clamp(1.85rem, 5vw, 4.4rem)" }}
+              >
+                Les{" "}
+                <span className="italic text-primary glow-ice-text">
+                  plus hautes cotations
+                </span>{" "}
+                jamais ouvertes.
+              </h2>
+
+              <div className="mt-12 grid gap-px overflow-hidden rounded-2xl border border-white/10 bg-white/10 sm:grid-cols-2 sm:mt-16">
+                <RecordCard
+                  category="Voie · sport"
+                  grade="9c"
+                  name="Silence"
+                  by="Adam Ondra"
+                  year="2017"
+                  spot="Flatanger, Norvège"
+                  body="Première et unique voie cotée 9c au monde. Une voie de 45 mètres, trois sections de bloc enchaînées dans un dévers vertigineux. Adam Ondra y a travaillé plus de 4 ans avant la première ascension."
+                />
+                <RecordCard
+                  category="Bloc"
+                  grade="9A · V17"
+                  name="Burden of Dreams"
+                  by="Nalle Hukkataival"
+                  year="2016"
+                  spot="Lappnor, Finlande"
+                  body="Premier bloc coté 9A de l'histoire, resté longtemps non répété. Confirmé à V17 lors des répétitions ultérieures par d'autres grimpeurs de top niveau. La référence mondiale du bloc extrême."
+                />
+                <RecordCard
+                  category="Voie · trad"
+                  grade="E11 7a"
+                  name="Rhapsody"
+                  by="Dave MacLeod"
+                  year="2006"
+                  spot="Dumbarton Rock, Écosse"
+                  body="Une des voies trad les plus engagées au monde. Cotation britannique d'engagement E11 : difficulté technique soutenue et protection minimaliste, conséquences sévères en cas de chute."
+                />
+                <RecordCard
+                  category="Femme · sport"
+                  grade="9b/9b+"
+                  name="DNA"
+                  by="Janja Garnbret"
+                  year="2024"
+                  spot="Verdon, France"
+                  body="Une des cotations les plus dures jamais réalisées par une grimpeuse en falaise. Janja Garnbret, double championne olympique, repousse régulièrement les limites du haut niveau féminin."
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Voie vs bloc */}
+      <section className="relative surface-1 text-foreground">
+        <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
+        <div className="mx-auto max-w-7xl px-5 py-20 sm:px-8 sm:py-28 lg:px-12">
+          <div className="grid grid-cols-12 gap-y-10 sm:gap-x-12">
+            <div className="col-span-12 sm:col-span-4 lg:col-span-3">
+              <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+                § Comparaison
+              </span>
+            </div>
+            <div className="col-span-12 sm:col-span-8 lg:col-span-9">
+              <h2
+                className="font-display font-medium leading-[0.96] tracking-[-0.02em] text-balance"
+                style={{ fontSize: "clamp(1.85rem, 5vw, 4.4rem)" }}
+              >
+                Voie ou bloc :{" "}
+                <span className="italic text-primary glow-ice-text">
+                  pas la même logique
+                </span>
+                .
+              </h2>
+
+              <div className="mt-12 grid gap-8 text-base leading-relaxed text-muted-foreground sm:mt-16 sm:grid-cols-2 sm:gap-10 sm:text-lg">
+                <div>
+                  <h3 className="mb-3 font-display text-2xl font-medium tracking-[-0.02em] text-foreground sm:text-3xl">
+                    La voie
+                  </h3>
+                  <p>
+                    Elle se grimpe avec une corde, en longueur. Une voie peut
+                    faire 8 mètres ou 45. La cotation tient compte de la
+                    difficulté technique du passage le plus dur, mais aussi de
+                    la continuité globale. Une voie homogène en 7a est souvent
+                    plus dure à réussir qu&apos;une voie de même cotation avec
+                    un seul pas en 7c et le reste plus facile.
+                  </p>
+                  <p className="mt-4">
+                    Le sport, le trad et la grande voie partagent l&apos;échelle
+                    de cotation française mais l&apos;engagement n&apos;est pas
+                    le même : en sport on tombe sur des points, en trad on
+                    pose ses propres protections, en grande voie on enchaîne
+                    plusieurs longueurs avec relais.
+                  </p>
+                </div>
+                <div>
+                  <h3 className="mb-3 font-display text-2xl font-medium tracking-[-0.02em] text-foreground sm:text-3xl">
+                    Le bloc
+                  </h3>
+                  <p>
+                    Pas de corde. La hauteur reste limitée (deux à six mètres
+                    en général), on chute sur un crashpad ou plusieurs. La
+                    cotation porte sur un mouvement ou une courte séquence,
+                    pas sur l&apos;endurance. Un bloc en 7B peut se résumer à
+                    deux mouvements ultra-puissants.
+                  </p>
+                  <p className="mt-4">
+                    L&apos;échelle Font (Fontainebleau) va de 3 à 9A en majuscules
+                    pour distinguer du système des voies. À niveau perçu
+                    équivalent, une cotation de bloc est généralement plus
+                    élevée en chiffres : un grimpeur qui sort le 7b en voie
+                    enchaînera plus souvent du 6C+ ou du 7A en bloc.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* FAQ */}
+      <section className="relative surface-3 text-foreground">
         <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
         <div className="mx-auto max-w-5xl px-5 py-20 sm:px-8 sm:py-28 lg:px-12">
           <div className="mb-10 sm:mb-14">
@@ -273,7 +468,7 @@ export default function CotationsPage() {
             </h2>
           </div>
 
-          <div className="rounded-2xl border border-white/10 bg-coal-900/60">
+          <div className="rounded-2xl border border-white/10 bg-coal-700/60">
             {FAQ.map((item, i) => (
               <details
                 key={i}
@@ -338,6 +533,90 @@ function SystemCard({
         {title}
       </h3>
       <p className="mt-3 max-w-prose text-sm leading-relaxed text-muted-foreground sm:text-base">
+        {body}
+      </p>
+    </div>
+  );
+}
+
+function LevelRow({
+  range,
+  yds,
+  title,
+  body,
+}: {
+  range: string;
+  yds: string;
+  title: string;
+  body: string;
+}) {
+  return (
+    <div className="grid grid-cols-12 gap-x-4 rounded-2xl border border-white/10 bg-[#1e1e1e] p-5 sm:gap-x-8 sm:p-7">
+      <div className="col-span-12 flex flex-col gap-1 sm:col-span-3 lg:col-span-2">
+        <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-primary">
+          Français
+        </span>
+        <span
+          className="font-display font-medium leading-none tracking-[-0.03em] text-foreground"
+          style={{ fontSize: "clamp(1.8rem, 3.4vw, 2.6rem)" }}
+        >
+          {range}
+        </span>
+        <span className="font-mono text-[10px] uppercase tracking-[0.18em] text-muted-foreground">
+          YDS · {yds}
+        </span>
+      </div>
+      <div className="col-span-12 mt-4 sm:col-span-9 sm:mt-0 lg:col-span-10">
+        <h3 className="font-display text-xl font-medium tracking-[-0.02em] sm:text-2xl">
+          {title}
+        </h3>
+        <p className="mt-2 max-w-3xl text-sm leading-relaxed text-muted-foreground sm:text-base">
+          {body}
+        </p>
+      </div>
+    </div>
+  );
+}
+
+function RecordCard({
+  category,
+  grade,
+  name,
+  by,
+  year,
+  spot,
+  body,
+}: {
+  category: string;
+  grade: string;
+  name: string;
+  by: string;
+  year: string;
+  spot: string;
+  body: string;
+}) {
+  return (
+    <div className="flex flex-col gap-4 bg-[#1e1e1e] p-6 sm:p-8">
+      <div className="flex items-center justify-between">
+        <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-primary">
+          {category}
+        </span>
+        <span className="rounded-full border border-primary/30 bg-primary/10 px-3 py-1 font-mono text-xs font-semibold tabular-nums text-primary">
+          {grade}
+        </span>
+      </div>
+      <div>
+        <h3
+          className="font-display font-medium leading-none tracking-[-0.025em]"
+          style={{ fontSize: "clamp(1.7rem, 3.4vw, 2.5rem)" }}
+        >
+          {name}
+        </h3>
+        <p className="mt-2 font-mono text-[11px] uppercase tracking-[0.18em] text-muted-foreground">
+          {by} · {year} · {spot}
+        </p>
+      </div>
+      <p className="text-sm leading-relaxed text-muted-foreground sm:text-base">
         {body}
       </p>
     </div>

@@ -195,30 +195,17 @@
   /* ──────────────────────────
      Surfaces — différences franches entre niveaux pour la lisibilité.
      ────────────────────────── */
-  .surface-0 { background: #050505; }
-  .surface-1 { background: #131313; }
-  .surface-2 { background: #1c1c1c; }
-  .surface-3 { background: #242424; }
-  .surface-mesh {
-    background:
-      radial-gradient(ellipse at 15% 0%, rgba(125,222,255,0.20), transparent 55%),
-      radial-gradient(ellipse at 85% 100%, rgba(255,122,38,0.12), transparent 55%),
-      #0a0a0a;
-  }
-  .surface-mesh-cool {
-    background:
-      radial-gradient(ellipse at 80% 10%, rgba(56,204,255,0.20), transparent 60%),
-      radial-gradient(ellipse at 10% 90%, rgba(125,222,255,0.12), transparent 60%),
-      #0c1218;
-  }
-  .surface-mesh-warm {
-    background:
-      radial-gradient(ellipse at 20% 30%, rgba(255,122,38,0.18), transparent 55%),
-      radial-gradient(ellipse at 80% 70%, rgba(255,158,84,0.10), transparent 55%),
-      #16100b;
-  }
+  /* Surfaces unies — chaque palier a une teinte légèrement différente
+     (neutre / froide / chaude) pour identifier les sections sans gradient. */
+  .surface-0 { background: #050505; }              /* noir profond */
+  .surface-1 { background: #141414; }              /* gris foncé neutre */
+  .surface-2 { background: #1c1c1c; }              /* gris moyen-foncé */
+  .surface-3 { background: #262626; }              /* gris moyen */
+  .surface-cool { background: #101822; }           /* gris bleuté */
+  .surface-warm { background: #1c1612; }           /* gris brunâtre */
+  .surface-paper { background: #f5f3ee; color: #0a0a0a; } /* clair, pour contraste fort */
   .surface-card {
-    background: #1a1a1a;
+    background: #1c1c1c;
     border: 1px solid rgba(255,255,255,0.08);
   }
   .divider-glow {

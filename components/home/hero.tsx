@@ -56,12 +56,12 @@ export function Hero({ totalSites }: { totalSites: number | null }) {
       >
         <Image
           src="/hero/falaise.jpg"
-          alt="Falaise calcaire au lever du jour"
+          alt="Grimpeur en dévers sur une falaise calcaire"
           fill
           priority
           sizes="100vw"
           quality={85}
-          className="object-cover object-[60%_30%]"
+          className="object-cover object-[30%_30%] sm:object-[40%_28%]"
         />
       </motion.div>
 
