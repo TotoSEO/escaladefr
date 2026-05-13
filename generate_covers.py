@@ -32,6 +32,7 @@ import time
 from pathlib import Path
 from typing import Optional
 
+import piexif
 import requests
 from dotenv import load_dotenv
 from PIL import Image
@@ -59,6 +60,282 @@ PROMPT_PREFIX = (
 
 OUT_DIR = Path(__file__).parent / "public" / "blog"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
+
+# ───── Métadonnées par slug pour SEO image ─────
+# title    : titre court de l'image (ImageDescription EXIF + XMP dc:title)
+# subject  : description longue (XMP dc:description)
+# keywords : mots-clés SEO (XMP dc:subject, séparés par virgule)
+# gps      : (lat, lon) si l'article concerne un lieu précis
+# location : "Nom du lieu, Pays"
+
+ARTICLE_META: dict[str, dict] = {
+    "fontainebleau-bloc-foret": {
+        "title": "Bloc d'escalade à Fontainebleau, forêt de grès",
+        "keywords": "escalade,bloc,Fontainebleau,Bleau,grès,France",
+        "gps": (48.4022, 2.6889),
+        "location": "Fontainebleau, France",
+    },
+    "verdon-grandes-voies": {
+        "title": "Grandes voies des Gorges du Verdon",
+        "keywords": "escalade,grande voie,Verdon,calcaire,Provence,France",
+        "gps": (43.7494, 6.4180),
+        "location": "Gorges du Verdon, France",
+    },
+    "verdon-secteurs-rappel-acces": {
+        "title": "Accès en rappel au Verdon",
+        "keywords": "escalade,rappel,Verdon,grande voie,France",
+        "gps": (43.7494, 6.4180),
+        "location": "Gorges du Verdon, France",
+    },
+    "ceuse-cathedrale-calcaire": {
+        "title": "Falaise de Céüse, Hautes-Alpes",
+        "keywords": "escalade,Céüse,calcaire,Hautes-Alpes,France",
+        "gps": (44.5167, 5.9333),
+        "location": "Céüse, Hautes-Alpes, France",
+    },
+    "buoux-luberon-historique": {
+        "title": "Falaise de Buoux, Luberon",
+        "keywords": "escalade,Buoux,Luberon,Vaucluse,France",
+        "gps": (43.8268, 5.3777),
+        "location": "Buoux, Vaucluse, France",
+    },
+    "saussois-yonne-bourgogne": {
+        "title": "Le Saussois en Bourgogne",
+        "keywords": "escalade,Saussois,Yonne,Bourgogne,France",
+        "gps": (47.6310, 3.6580),
+        "location": "Le Saussois, Yonne, France",
+    },
+    "gorges-tarn-massif-central": {
+        "title": "Gorges du Tarn, Massif Central",
+        "keywords": "escalade,Gorges du Tarn,Lozère,France",
+        "gps": (44.2900, 3.4500),
+        "location": "Gorges du Tarn, France",
+    },
+    "saint-leger-du-ventoux-escalade": {
+        "title": "Saint-Léger-du-Ventoux",
+        "keywords": "escalade,Mont Ventoux,Vaucluse,France",
+        "gps": (44.1700, 5.2900),
+        "location": "Saint-Léger-du-Ventoux, France",
+    },
+    "calanques-escalade-marseille": {
+        "title": "Calanques de Marseille",
+        "keywords": "escalade,Calanques,Marseille,Méditerranée,France",
+        "gps": (43.2118, 5.4474),
+        "location": "Calanques, Bouches-du-Rhône, France",
+    },
+    "sainte-victoire-paul-cezanne": {
+        "title": "Montagne Sainte-Victoire",
+        "keywords": "escalade,Sainte-Victoire,Cézanne,Aix-en-Provence,France",
+        "gps": (43.5306, 5.5783),
+        "location": "Sainte-Victoire, France",
+    },
+    "saffres-cote-or-region-est": {
+        "title": "Saffres en Côte-d'Or",
+        "keywords": "escalade,Saffres,Côte-d'Or,Bourgogne,France",
+        "gps": (47.3720, 4.5790),
+        "location": "Saffres, Côte-d'Or, France",
+    },
+    "claudes-romans-isere-classique": {
+        "title": "Presles, grandes voies de l'Isère",
+        "keywords": "escalade,Presles,Vercors,Isère,France",
+        "gps": (45.0833, 5.4500),
+        "location": "Presles, Isère, France",
+    },
+    "dent-crolles-chartreuse": {
+        "title": "Dent de Crolles, Chartreuse",
+        "keywords": "escalade,Dent de Crolles,Chartreuse,Isère,France",
+        "gps": (45.3019, 5.8597),
+        "location": "Dent de Crolles, France",
+    },
+    "annot-grès-roses-alpes": {
+        "title": "Grès d'Annot, Alpes-de-Haute-Provence",
+        "keywords": "escalade,Annot,grès,Alpes,France",
+        "gps": (43.9656, 6.6717),
+        "location": "Annot, France",
+    },
+    "corse-bavella-aiguilles": {
+        "title": "Aiguilles de Bavella, Corse",
+        "keywords": "escalade,Bavella,Corse,granite,France",
+        "gps": (41.7811, 9.2228),
+        "location": "Bavella, Corse, France",
+    },
+    "corse-restonica-canyon": {
+        "title": "Restonica, Corse",
+        "keywords": "escalade,Restonica,Corse,granite,France",
+        "gps": (42.2750, 9.1100),
+        "location": "Restonica, Corse, France",
+    },
+    "gorges-loire-massif-central": {
+        "title": "Gorges de la Loire",
+        "keywords": "escalade,Loire,Massif Central,France",
+        "gps": (45.3500, 4.3500),
+        "location": "Gorges de la Loire, France",
+    },
+    "mont-aiguille-vercors-pionnier": {
+        "title": "Mont Aiguille, Vercors",
+        "keywords": "escalade,Mont Aiguille,Vercors,Isère,France",
+        "gps": (44.8431, 5.5547),
+        "location": "Mont Aiguille, France",
+    },
+    "aiguille-midi-chamonix-haute": {
+        "title": "Aiguille du Midi, Chamonix",
+        "keywords": "escalade,Aiguille du Midi,Chamonix,Mont-Blanc,France",
+        "gps": (45.8786, 6.8872),
+        "location": "Aiguille du Midi, France",
+    },
+    "freyr-belgique-frontaliere": {
+        "title": "Rochers de Freyr, Belgique",
+        "keywords": "escalade,Freyr,Belgique,Meuse",
+        "gps": (50.2469, 4.8889),
+        "location": "Freyr, Belgique",
+    },
+    "siurana-margalef-catalogne": {
+        "title": "Siurana et Margalef, Catalogne",
+        "keywords": "escalade,Siurana,Margalef,Catalogne,Espagne",
+        "gps": (41.2569, 0.9381),
+        "location": "Siurana, Catalogne, Espagne",
+    },
+}
+
+AUTHOR_FULL = "Antoine - escalade-france.fr"
+COPYRIGHT_NOTICE = "© 2026 escalade-france.fr - Tous droits réservés"
+
+# Mapping cocon -> mots-clés de fond. Utilisé en fallback si un article
+# n'a pas d'entrée custom dans ARTICLE_META.
+COCON_KEYWORDS: dict[str, str] = {
+    "techniques": "escalade,technique,grimpe,France",
+    "materiel": "escalade,matériel,équipement,grimpe",
+    "noeuds": "escalade,nœud,encordement,corde,grimpe",
+    "sites": "escalade,site,falaise,France",
+    "personnalites": "escalade,grimpeur,grimpeuse,profil",
+    "preparation": "escalade,préparation,entraînement,grimpe",
+    "securite": "escalade,sécurité,prévention,grimpe",
+    "environnement": "escalade,environnement,faune,protection",
+    "culture": "escalade,histoire,culture,France",
+}
+
+
+def infer_cocon(slug: str) -> str:
+    """Devine le cocon d'un slug à partir de mots-clés présents.
+    Heuristique simple, suffisante pour les métadonnées de fallback."""
+    s = slug.lower()
+    if any(k in s for k in ["noeud", "encordement", "rappel", "prussik", "machard", "huit"]):
+        return "noeuds"
+    if any(k in s for k in ["chausson", "baudrier", "corde", "casque", "mousqueton", "degaine", "grigri", "crashpad", "magnesie", "sac", "matos"]):
+        return "materiel"
+    if any(k in s for k in ["bleau", "fontainebleau", "verdon", "ceuse", "buoux", "saussois", "tarn", "ventoux", "calanque", "sainte-victoire", "saffres", "presles", "crolles", "annot", "bavella", "restonica", "siurana", "freyr", "aiguille", "loire", "confidentiel", "secteurs", "mont-aiguille"]):
+        return "sites"
+    if any(k in s for k in ["destivelle", "edlinger", "legrand", "garnbret", "ondra", "megos", "sharma", "hill", "honnold", "messner", "gullich", "douady", "durif", "olympiques-2024", "ouvreurs"]):
+        return "personnalites"
+    if any(k in s for k in ["echauffement", "musculation", "grip", "core", "endurance", "etirement", "recuperation", "alimentation", "hydratation", "sommeil", "stress", "visualisation", "journal", "blessure", "tendinite"]):
+        return "preparation"
+    if any(k in s for k in ["verification", "accident", "chute-en-tete", "premiers-secours", "alerter", "helitreuillage", "check-list", "meteo-falaise", "partenaire"]):
+        return "securite"
+    if any(k in s for k in ["nidification", "faucon", "sentier", "dechets", "conflits-foncier", "convention", "reglementation", "parking", "rocher-fragile", "parc-national"]):
+        return "environnement"
+    if any(k in s for k in ["histoire", "olympiques-paris", "vivent-cailloux", "films", "livres"]):
+        return "culture"
+    return "techniques"
+
+
+def default_meta(slug: str) -> dict:
+    """Renvoie un title + keywords de fallback basés sur le slug."""
+    title = slug.replace("-", " ").capitalize()
+    cocon = infer_cocon(slug)
+    keywords = COCON_KEYWORDS.get(cocon, "escalade,France")
+    return {"title": title, "keywords": keywords}
+
+
+def deg_to_dms_rational(deg: float):
+    """Convertit un degré décimal en (deg, min, sec) au format rational EXIF."""
+    abs_deg = abs(deg)
+    d = int(abs_deg)
+    m_full = (abs_deg - d) * 60
+    m = int(m_full)
+    s_full = (m_full - m) * 60
+    # arrondir la seconde au 1/1000
+    s_num = int(round(s_full * 1000))
+    return ((d, 1), (m, 1), (s_num, 1000))
+
+
+def build_exif(slug: str, title_full: str, description: str) -> bytes:
+    """Construit un bloc EXIF avec auteur, droits, titre, description et GPS si dispo."""
+    meta = {**default_meta(slug), **ARTICLE_META.get(slug, {})}
+    zeroth = {
+        piexif.ImageIFD.ImageDescription: description.encode("utf-8"),
+        piexif.ImageIFD.Artist: AUTHOR_FULL.encode("utf-8"),
+        piexif.ImageIFD.Copyright: COPYRIGHT_NOTICE.encode("utf-8"),
+        piexif.ImageIFD.Software: "escalade-france.fr".encode("utf-8"),
+        piexif.ImageIFD.XPTitle: title_full.encode("utf-16le"),
+        piexif.ImageIFD.XPAuthor: AUTHOR_FULL.encode("utf-16le"),
+        piexif.ImageIFD.XPSubject: title_full.encode("utf-16le"),
+    }
+    if "keywords" in meta:
+        zeroth[piexif.ImageIFD.XPKeywords] = meta["keywords"].encode("utf-16le")
+
+    gps_ifd: dict = {}
+    if "gps" in meta:
+        lat, lon = meta["gps"]
+        gps_ifd[piexif.GPSIFD.GPSLatitudeRef] = b"N" if lat >= 0 else b"S"
+        gps_ifd[piexif.GPSIFD.GPSLatitude] = deg_to_dms_rational(lat)
+        gps_ifd[piexif.GPSIFD.GPSLongitudeRef] = b"E" if lon >= 0 else b"W"
+        gps_ifd[piexif.GPSIFD.GPSLongitude] = deg_to_dms_rational(lon)
+        gps_ifd[piexif.GPSIFD.GPSMapDatum] = b"WGS-84"
+
+    exif_dict: dict = {"0th": zeroth, "Exif": {}, "GPS": gps_ifd, "Interop": {}, "1st": {}, "thumbnail": None}
+    return piexif.dump(exif_dict)
+
+
+def build_xmp(slug: str, title_full: str, description: str) -> bytes:
+    """Construit un packet XMP (XML) avec dc:title, dc:description, dc:creator,
+    dc:rights, dc:subject (keywords) et exif:GPSLatitude/GPSLongitude si dispo."""
+    meta = {**default_meta(slug), **ARTICLE_META.get(slug, {})}
+    keywords = meta.get("keywords", "escalade,France")
+    keyword_bag = "\n".join(
+        f'      <rdf:li>{k.strip()}</rdf:li>' for k in keywords.split(",")
+    )
+    gps_block = ""
+    location_block = ""
+    if "gps" in meta:
+        lat, lon = meta["gps"]
+        gps_block = (
+            f'    <exif:GPSLatitude>{abs(lat):.6f},{"N" if lat >= 0 else "S"}</exif:GPSLatitude>\n'
+            f'    <exif:GPSLongitude>{abs(lon):.6f},{"E" if lon >= 0 else "W"}</exif:GPSLongitude>\n'
+        )
+    if "location" in meta:
+        location_block = (
+            f'    <Iptc4xmpCore:Location>{meta["location"]}</Iptc4xmpCore:Location>\n'
+        )
+
+    xmp = f'''<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="escalade-france.fr">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/">
+    <dc:title>
+     <rdf:Alt><rdf:li xml:lang="fr">{title_full}</rdf:li></rdf:Alt>
+    </dc:title>
+    <dc:description>
+     <rdf:Alt><rdf:li xml:lang="fr">{description}</rdf:li></rdf:Alt>
+    </dc:description>
+    <dc:creator>
+     <rdf:Seq><rdf:li>{AUTHOR_FULL}</rdf:li></rdf:Seq>
+    </dc:creator>
+    <dc:rights>
+     <rdf:Alt><rdf:li xml:lang="fr">{COPYRIGHT_NOTICE}</rdf:li></rdf:Alt>
+    </dc:rights>
+    <dc:subject>
+     <rdf:Bag>
+{keyword_bag}
+     </rdf:Bag>
+    </dc:subject>
+{gps_block}{location_block}  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="w"?>'''
+    return xmp.encode("utf-8")
 
 
 # ───── Prompts uniques par slug ─────
@@ -267,33 +544,43 @@ def generate_image(prompt: str) -> Optional[bytes]:
         return None
 
 
-def to_webp(png_bytes: bytes, output: Path) -> bool:
-    """Convertit PNG 1536x1024 → WebP 1600x900 qualité 82 via Pillow.
-
-    On recadre le PNG sur les 1024 px du milieu vertical (centre), on
-    redimensionne à 1600×900 puis on encode en WebP qualité 82.
+def to_webp(png_bytes: bytes, output: Path, slug: str) -> bool:
+    """Convertit PNG 1536x1024 → WebP 1600x900 qualité 82 + métadonnées
+    EXIF (auteur, droits, GPS) et XMP (dc:title, description, creator,
+    rights, keywords) que Google lit pour l'image SEO.
     """
     try:
         img = Image.open(io.BytesIO(png_bytes)).convert("RGB")
-        # 1) recadrage 16:9 sur le centre. 1536x1024 a un ratio 3:2,
-        #    on coupe en haut/bas pour obtenir 1536x864 (16:9).
         target_ratio = 16 / 9
         w, h = img.size
         cur_ratio = w / h
         if cur_ratio > target_ratio:
-            # trop large : on coupe sur la largeur
             new_w = int(h * target_ratio)
             left = (w - new_w) // 2
             img = img.crop((left, 0, left + new_w, h))
         else:
-            # trop haut : on coupe sur la hauteur
             new_h = int(w / target_ratio)
             top = (h - new_h) // 2
             img = img.crop((0, top, w, top + new_h))
-        # 2) redimensionne à 1600x900
         img = img.resize((1600, 900), Image.Resampling.LANCZOS)
-        # 3) encode WebP
-        img.save(output, format="WEBP", quality=82, method=6)
+
+        meta = {**default_meta(slug), **ARTICLE_META.get(slug, {})}
+        title_full = meta.get("title") or slug.replace("-", " ").capitalize()
+        description = (
+            f"Image illustrative pour l'article '{title_full}' publié sur "
+            f"escalade-france.fr. Auteur : {AUTHOR_FULL}."
+        )
+        exif_bytes = build_exif(slug, title_full, description)
+        xmp_bytes = build_xmp(slug, title_full, description)
+
+        img.save(
+            output,
+            format="WEBP",
+            quality=82,
+            method=6,
+            exif=exif_bytes,
+            xmp=xmp_bytes,
+        )
         return True
     except Exception as e:  # noqa: BLE001
         print(f"    ! Pillow: {type(e).__name__}: {e}")
@@ -330,7 +617,7 @@ def main() -> None:
         if png is None:
             errors += 1
             continue
-        ok = to_webp(png, out)
+        ok = to_webp(png, out, slug)
         if ok:
             saved += 1
             size_kb = out.stat().st_size // 1024

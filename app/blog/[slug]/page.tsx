@@ -250,21 +250,29 @@ export default async function BlogArticlePage(
             )}
 
             {/* Auteur / signature */}
-            <div className="mt-16 flex flex-col gap-4 rounded-3xl border border-white/10 bg-coal-900/60 px-6 py-7 sm:flex-row sm:items-center sm:gap-6 sm:px-8 sm:py-8">
-              <div className="flex h-14 w-14 shrink-0 items-center justify-center rounded-full bg-primary/15 font-display text-xl font-medium italic text-primary sm:h-16 sm:w-16">
-                eF
+            <div className="mt-16 flex flex-col gap-5 rounded-3xl border border-white/10 bg-coal-900/60 px-6 py-7 sm:flex-row sm:gap-7 sm:px-8 sm:py-9">
+              <div className="flex h-16 w-16 shrink-0 items-center justify-center rounded-full bg-primary/15 font-display text-2xl font-medium italic text-primary sm:h-20 sm:w-20">
+                A
               </div>
               <div>
                 <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-primary">
-                  Signé
+                  Écrit par
                 </p>
-                <p className="mt-1 font-display text-lg font-medium tracking-[-0.01em] sm:text-xl">
-                  {article.author_name}
+                <p className="mt-1 font-display text-xl font-medium tracking-[-0.01em] sm:text-2xl">
+                  Antoine
                 </p>
-                <p className="mt-1 text-sm leading-relaxed text-muted-foreground sm:text-base">
-                  L&apos;équipe rédactionnelle qui pratique l&apos;escalade
-                  régulièrement et écrit sans intermédiaire. Aucun contenu
-                  généré, aucune affiliation cachée.
+                <p className="mt-2 text-sm leading-relaxed text-muted-foreground sm:text-base">
+                  Grimpeur depuis 13 ans. Premiers blocs au lycée Camille Sée
+                  de Colmar, premières voies en falaise sur les contreforts
+                  vosgiens, et désormais des semaines à sillonner la France
+                  pour identifier et tester les meilleurs spots. Niveau actuel
+                  8a en falaise sport, 7b en bloc, classé top 200 jeunes au
+                  ranking FFME en 2012-2014. Quelques voies ouvertes dans le
+                  Jura et les Vosges depuis 2018.
+                </p>
+                <p className="mt-3 font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
+                  Aucun contenu généré · Aucune affiliation cachée · Tous les
+                  articles relus avant publication
                 </p>
               </div>
             </div>
