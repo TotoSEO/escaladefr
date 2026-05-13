@@ -38,7 +38,7 @@ export function RenderBlock({ block }: { block: BlogBlock }) {
 
 /* ───────────────── Titres ───────────────── */
 
-function slugify(s: string): string {
+export function slugify(s: string): string {
   return s
     .toLowerCase()
     .normalize("NFD")

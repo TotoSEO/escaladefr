@@ -6,6 +6,7 @@ import { ArrowUpRight, Clock, Calendar as CalendarIcon } from "lucide-react";
 
 import { PageShell } from "@/components/page-shell";
 import { RenderBlock, KeyTakeaways } from "@/components/blog/blocks";
+import { TableOfContents } from "@/components/blog/toc";
 import {
   COCON_LABEL,
   articleHref,
@@ -200,6 +201,8 @@ export default async function BlogArticlePage(
         <section className="relative surface-2 text-foreground">
           <div className="mx-auto max-w-3xl px-5 py-14 sm:px-8 sm:py-20 lg:px-0 lg:py-24">
             <KeyTakeaways items={article.takeaways} />
+
+            <TableOfContents blocks={article.body_blocks} />
 
             <div className="mt-6">
               {article.body_blocks.map((b, i) => (
