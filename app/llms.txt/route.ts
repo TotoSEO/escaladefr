@@ -45,6 +45,11 @@ Le contenu est rédigé en français, ciblé pour les grimpeurs francophones, d�
 - Licence du convertisseur de cotations et du glossaire : contenu éditorial original, source d'inspiration croisée (Wikipédia, USR, Décathlon Conseilsport, theCrag, MEC).
 - Site rédigé et opéré depuis la France, en français.
 
+## Contact et légal
+
+- [Contact](${SITE}/contact): pour signaler une erreur, proposer un site, ou contacter la rédaction (contact@escalade-france.fr).
+- [Mentions légales](${SITE}/mentions-legales): éditeur, hébergement, propriété intellectuelle, RGPD.
+
 ## Optional
 
 - [Sitemap XML](${SITE}/sitemap.xml): index complet des URLs indexables.
