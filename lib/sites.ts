@@ -96,13 +96,22 @@ export async function fetchSitesByDepartement(
 ): Promise<SiteListItem[]> {
   const supabase = getSupabase();
   if (!supabase) return [];
-  const { data, error } = await supabase
-    .from("sites_naturels")
-    .select(LIST_COLUMNS)
-    .eq("departement", departement)
-    .order("nom");
-  if (error) return [];
-  return (data as SiteListItem[]) ?? [];
+  const PAGE = 1000;
+  const all: SiteListItem[] = [];
+  let from = 0;
+  while (true) {
+    const { data, error } = await supabase
+      .from("sites_naturels")
+      .select(LIST_COLUMNS)
+      .eq("departement", departement)
+      .order("nom")
+      .range(from, from + PAGE - 1);
+    if (error || !data || data.length === 0) break;
+    all.push(...(data as SiteListItem[]));
+    if (data.length < PAGE) break;
+    from += PAGE;
+  }
+  return all;
 }
 
 export async function fetchDepartements(): Promise<
@@ -110,20 +119,27 @@ export async function fetchDepartements(): Promise<
 > {
   const supabase = getSupabase();
   if (!supabase) return [];
-  const { data, error } = await supabase
-    .from("sites_naturels")
-    .select("departement,code_departement")
-    .not("departement", "is", null);
-  if (error) return [];
-
+  const PAGE = 1000;
+  const rows: { departement: string | null; code_departement: string | null }[] = [];
+  let from = 0;
+  while (true) {
+    const { data, error } = await supabase
+      .from("sites_naturels")
+      .select("departement,code_departement")
+      .not("departement", "is", null)
+      .range(from, from + PAGE - 1);
+    if (error || !data || data.length === 0) break;
+    rows.push(
+      ...(data as { departement: string | null; code_departement: string | null }[]),
+    );
+    if (data.length < PAGE) break;
+    from += PAGE;
+  }
   const map = new Map<
     string,
     { departement: string; code_departement: string | null; count: number }
   >();
-  for (const row of (data ?? []) as {
-    departement: string | null;
-    code_departement: string | null;
-  }[]) {
+  for (const row of rows) {
     if (!row.departement) continue;
     const key = row.departement;
     const existing = map.get(key);

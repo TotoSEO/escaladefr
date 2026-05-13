@@ -5,7 +5,13 @@ import { motion, useInView } from "motion/react";
 import { useRef, useState } from "react";
 import { ArrowUpRight } from "lucide-react";
 
-type Dep = { departement: string; count: number };
+import { departementHref } from "@/lib/sites";
+
+type Dep = {
+  departement: string;
+  code_departement: string | null;
+  count: number;
+};
 
 export function TopDepartements({ items }: { items: Dep[] }) {
   const ref = useRef<HTMLElement>(null);
@@ -70,7 +76,7 @@ export function TopDepartements({ items }: { items: Dep[] }) {
                 className="group relative border-t border-white/10 last:border-b"
               >
                 <Link
-                  href={`/sites?departement=${encodeURIComponent(d.departement)}`}
+                  href={departementHref(d.code_departement, d.departement)}
                   className="relative grid grid-cols-12 items-baseline gap-3 py-6 sm:gap-6 sm:py-8 lg:py-10"
                 >
                   <motion.span
