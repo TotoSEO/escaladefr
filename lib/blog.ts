@@ -145,7 +145,44 @@ export async function fetchArticleBySlug(
     .lte("published_at", new Date().toISOString())
     .maybeSingle();
   if (error || !data) return null;
-  return data as BlogArticle;
+  // Désactive les liens internes dont la cible n'est pas encore publiée :
+  // l'ancre est conservée en texte simple, sans <a href>. Évite les 404
+  // quand un article référence des articles à venir dans le calendrier.
+  const article = data as BlogArticle;
+  const publishedSet = await fetchPublishedSlugsSet();
+  return {
+    ...article,
+    body_blocks: resolveInternalLinks(article.body_blocks, publishedSet),
+  };
+}
+
+async function fetchPublishedSlugsSet(): Promise<Set<string>> {
+  const slugs = await fetchArticleSlugs();
+  return new Set(slugs.map((s) => s.slug));
+}
+
+/**
+ * Pour chaque <a href="/blog/<slug>">anchor</a> dans les paragraphes,
+ * conserve le lien si la cible est publiée, sinon le réduit à son texte
+ * d'ancre. Idem pour href="/sites/...", "/salles", etc. dont l'existence
+ * en base n'est pas vérifiable ici : ces liens hors-blog restent intacts.
+ */
+function resolveInternalLinks(
+  blocks: BlogBlock[],
+  publishedSlugs: Set<string>,
+): BlogBlock[] {
+  return blocks.map((b) => {
+    if (b.type !== "p" || !b.html) return b;
+    const fixed = b.html.replace(
+      /<a\s+href="\/blog\/([^"]+)"[^>]*>([^<]+)<\/a>/g,
+      (_match, targetSlug, anchor) => {
+        return publishedSlugs.has(targetSlug)
+          ? `<a href="/blog/${targetSlug}">${anchor}</a>`
+          : anchor;
+      },
+    );
+    return { ...b, html: fixed };
+  });
 }
 
 export async function fetchArticleSlugs(): Promise<{ slug: string; updated_at: string }[]> {
