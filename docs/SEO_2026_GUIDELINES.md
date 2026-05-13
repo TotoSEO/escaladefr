@@ -38,15 +38,65 @@ niche sport-outdoor sont :
 
 ### 2.1 Métadonnées
 
-- **Title** : entre **52 et 62 caractères** (caractères, pas mots). Inclure
-  le mot-clé principal en début de titre quand c'est naturel.
+- **Title** : entre **50 et 65 caractères**. Trois formules acceptées :
+
+  1. **Avec barre verticale** : `Escalade | Les 6 nœuds principaux à connaître`
+  2. **Avec deux-points** : `L'équipement d'escalade : matériel et outils à avoir`
+  3. **Phrase naturelle** : `Les meilleurs sites d'escalade de France`
+
+  Le mot-clé principal apparaît dans le premier tiers du title. Le titre
+  doit être **un titre qu'on cliquerait dans une SERP** : précis, sans
+  promesse vide, sans « le guide ultime », sans « top 10 ». Il peut
+  comporter un chiffre concret si le contenu est numéroté, mais sans
+  forcer.
+
 - **Meta description** : entre **120 et 155 caractères**. Doit donner envie
   de cliquer sans être racoleur. Pas de « découvrez », « plongez dans »,
-  « le guide ultime ».
+  « le guide ultime », « tout savoir sur ».
 - **Slug** : court (< 60 caractères), mots-clés essentiels, sans articles
   vides (le, la, les, un, des).
 - **Canonical** : toujours défini sur la version `/blog/<slug>`.
 - **Open Graph** : title, description, image (cover de l'article, 1200×630).
+
+### 2.1bis Optimisation sémantique (facteur de ranking n°1)
+
+Google 2026 récompense **la couverture exhaustive d'un champ lexical**,
+pas la répétition du mot-clé principal. Pour chaque article :
+
+- Lister mentalement (ou via un outil) les **15-25 termes adjacents** du
+  sujet : synonymes, hyperonymes, hyponymes, méronymes, expressions
+  associées. Exemple pour « nœud de huit » : encordement, double huit,
+  reprise, double pêcheur, huit sur lui-même, brin libre, longueur de
+  vie de la corde, vérification croisée, point d'encordement, baudrier,
+  pontet, etc.
+- Couvrir naturellement ces termes dans le corps. Pas tous, mais une
+  bonne partie (60-70 %) sans forcer.
+- **Nommer les entités** : marques, modèles, sites, départements,
+  cotations, niveaux FFME, fédérations. Google identifie ces entités
+  et les utilise pour confirmer la pertinence du contenu.
+- **Répondre aux questions adjacentes** que se pose le lecteur : si
+  l'article traite du nœud de huit, il doit aussi répondre à « comment
+  vérifier qu'il est bien fait », « combien de fois on le refait par
+  session », « est-ce que je peux utiliser un nœud d'arrêt en plus ».
+- **Inclure une FAQ structurée** quand des questions reviennent
+  systématiquement dans les SERP « People also ask ».
+
+### 2.1ter Mise en gras stratégique
+
+Le `<strong>` n'est pas du gras esthétique, c'est un **signal sémantique
+de poids**. Règles :
+
+- **3 à 8 occurrences de `<strong>`** par article, jamais plus.
+- Cibler des **groupes nominaux porteurs d'information**, pas des
+  adverbes ou verbes seuls. Bons exemples : « **double pêcheur** »,
+  « **15 mai au 31 août** », « **arrêté préfectoral** », « **cotation
+  française** ». Mauvais exemples : « **important** », « **toujours** »,
+  « **attention** ».
+- Le `<strong>` se met **uniquement dans les paragraphes `p`**, pas
+  dans les titres (déjà mis en valeur par le H2/H3) ni dans les blocs
+  illustratifs (table, list, quote).
+- Éviter de mettre en gras le même groupe nominal deux fois — la
+  première occurrence suffit.
 
 ### 2.2 Structure recommandée d'un article
 
