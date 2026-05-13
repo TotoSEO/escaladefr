@@ -7,9 +7,11 @@ import { PageShell } from "@/components/page-shell";
 import { SiteMiniMap } from "@/components/sites/site-mini-map";
 import { SiteGallery } from "@/components/sites/site-gallery";
 import { AccessBanner } from "@/components/sites/access-banner";
+import { CamptocampGallery } from "@/components/sites/camptocamp-gallery";
 import {
   fetchSiteById,
   fetchSiteImages,
+  fetchCamptocampImagesForWaypoint,
   bestCoords,
   communeName,
   siteSlug,
@@ -73,9 +75,26 @@ export default async function SiteDetailPage(
     redirect(`/sites/${site.id}/${canonical}`);
   }
 
-  const images = await fetchSiteImages(site.id);
+  const [images, c2cImages] = await Promise.all([
+    fetchSiteImages(site.id),
+    site.c2c_document_id
+      ? fetchCamptocampImagesForWaypoint(site.c2c_document_id, 6)
+      : Promise.resolve([]),
+  ]);
 
   const months = orderedMonths(site.periodes_favorables);
+  // Nombre de voies effectif : on privilégie le recensement officiel,
+  // fallback sur Camptocamp si la fiche officielle ne le précise pas.
+  const effectiveRoutes =
+    site.nombre_voies && site.nombre_voies > 0
+      ? site.nombre_voies
+      : site.c2c_routes_qty && site.c2c_routes_qty > 0
+      ? site.c2c_routes_qty
+      : null;
+  const routesFromC2C =
+    site.c2c_routes_qty &&
+    site.c2c_routes_qty > 0 &&
+    (!site.nombre_voies || site.nombre_voies <= 0);
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -199,10 +218,9 @@ export default async function SiteDetailPage(
               icon={Compass}
               label="Voies"
               value={
-                site.nombre_voies && site.nombre_voies > 0
-                  ? site.nombre_voies.toLocaleString("fr-FR")
-                  : "—"
+                effectiveRoutes ? effectiveRoutes.toLocaleString("fr-FR") : "—"
               }
+              sub={routesFromC2C ? "Source Camptocamp" : undefined}
             />
             <FactCard
               icon={MapPin}
@@ -357,6 +375,79 @@ export default async function SiteDetailPage(
         );
       })()}
 
+      {/* Galerie photos Camptocamp (CC-BY-SA 4.0) */}
+      {c2cImages.length > 0 && site.c2c_url && (
+        <CamptocampGallery images={c2cImages} waypointUrl={site.c2c_url} />
+      )}
+
+      {/* Section Camptocamp : summary + access_period si dispo */}
+      {(site.c2c_summary || site.c2c_access_period) && site.c2c_url && (
+        <section className="relative surface-2 text-foreground">
+          <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
+          <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 sm:py-20 lg:px-12">
+            <div className="grid grid-cols-12 gap-x-4 gap-y-10 sm:gap-x-12">
+              <div className="col-span-12 sm:col-span-4 lg:col-span-3">
+                <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+                  § Vu par Camptocamp
+                </span>
+                <p className="mt-3 max-w-[24ch] font-mono text-[11px] uppercase leading-relaxed tracking-[0.18em] text-muted-foreground">
+                  Données publiées par la communauté Camptocamp.org sous
+                  licence CC-BY-SA 4.0.
+                </p>
+              </div>
+              <div className="col-span-12 sm:col-span-8 lg:col-span-9 space-y-6">
+                {site.c2c_summary && (
+                  <article className="rounded-2xl border border-white/10 bg-coal-900 p-6 sm:p-8">
+                    <h2 className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+                      Description
+                    </h2>
+                    <div className="mt-5 space-y-4 text-base leading-relaxed text-foreground/90 sm:text-lg">
+                      {site.c2c_summary
+                        .split(/\n\s*\n/)
+                        .filter((p) => p.trim().length > 0)
+                        .map((p, i) => (
+                          <p key={i}>{p.trim()}</p>
+                        ))}
+                    </div>
+                  </article>
+                )}
+                {site.c2c_access_period && (
+                  <article className="rounded-2xl border border-accent/30 bg-accent/[0.05] p-6 sm:p-8">
+                    <h2 className="font-mono text-[11px] uppercase tracking-[0.28em] text-accent">
+                      Période d&apos;accès renseignée
+                    </h2>
+                    <p className="mt-4 text-base leading-relaxed text-foreground/90 sm:text-lg">
+                      {site.c2c_access_period}
+                    </p>
+                  </article>
+                )}
+                <p className="text-xs leading-relaxed text-muted-foreground sm:text-sm">
+                  Source originale :{" "}
+                  <a
+                    href={site.c2c_url}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="underline decoration-primary/40 underline-offset-2 hover:decoration-primary"
+                  >
+                    {site.c2c_url.replace(/^https?:\/\//, "")}
+                  </a>{" "}
+                  · réutilisation autorisée par la licence{" "}
+                  <a
+                    href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="underline decoration-primary/40 underline-offset-2 hover:decoration-primary"
+                  >
+                    CC-BY-SA 4.0
+                  </a>
+                  .
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+      )}
+
       {/* Contenus rédigés par notre rédaction (si reformulés) */}
       {(site.presentation_reformule ||
         site.acces_routier_reformule ||
@@ -451,10 +542,12 @@ function FactCard({
   icon: Icon,
   label,
   value,
+  sub,
 }: {
   icon: React.ComponentType<{ className?: string }>;
   label: string;
   value: string;
+  sub?: string;
 }) {
   return (
     <div className="bg-coal-900 p-5 sm:p-6">
@@ -467,6 +560,11 @@ function FactCard({
       <p className="mt-3 font-display text-xl font-medium tracking-[-0.01em] tabular-nums sm:text-2xl">
         {value}
       </p>
+      {sub && (
+        <p className="mt-1 font-mono text-[9px] uppercase tracking-[0.22em] text-muted-foreground">
+          {sub}
+        </p>
+      )}
     </div>
   );
 }
