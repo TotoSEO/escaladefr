@@ -1,112 +1,55 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { ArrowUpRight, Mountain, MapPin, Sparkles } from "lucide-react";
+import { ArrowUpRight, MapPin, Mountain, Sparkles } from "lucide-react";
 
 import { PageShell, PageHeader } from "@/components/page-shell";
-import { getSupabase } from "@/lib/supabase";
+import { SitesMap } from "@/components/sites/sites-map";
+import {
+  fetchAllSitesForMap,
+  fetchDepartements,
+  departementHref,
+  type SiteListItem,
+} from "@/lib/sites";
 
 export const revalidate = 3600;
 
-async function getCount(): Promise<number | null> {
-  const supabase = getSupabase();
-  if (!supabase) return null;
-  const { count } = await supabase
-    .from("sites_naturels")
-    .select("*", { count: "exact", head: true });
-  return count ?? null;
-}
-
 export async function generateMetadata(): Promise<Metadata> {
-  const count = await getCount();
-  const c = count?.toLocaleString("fr-FR") ?? "3 500";
+  const sites = await fetchAllSitesForMap();
+  const total = sites.length || 3000;
   return {
-    title: `${c} sites d'escalade naturels en France · Carte`,
-    description: `Carte interactive des ${c} sites d'escalade naturels en France. Cotations, accès, périodes favorables, coordonnées GPS par site.`,
+    title: `${total.toLocaleString("fr-FR")} sites d'escalade naturels en France · Carte`,
+    description: `Carte interactive de ${total.toLocaleString("fr-FR")} sites d'escalade naturels en France. Filtrable par département et massif, avec cotations et accès.`,
     alternates: { canonical: "/sites" },
   };
 }
 
-const MASSIFS = [
-  {
-    nom: "Verdon",
-    region: "Provence",
-    type: "Calcaire vertical",
-    voies: "1 500 voies",
-  },
-  {
-    nom: "Fontainebleau",
-    region: "Île-de-France",
-    type: "Grès, bloc",
-    voies: "Mythe mondial",
-  },
-  {
-    nom: "Céüse",
-    region: "Hautes-Alpes",
-    type: "Calcaire technique",
-    voies: "Référence sport",
-  },
-  {
-    nom: "Buoux",
-    region: "Vaucluse",
-    type: "Calcaire dévers",
-    voies: "Berceau du sport",
-  },
-  {
-    nom: "Calanques",
-    region: "Bouches-du-Rhône",
-    type: "Calcaire maritime",
-    voies: "Grandes voies",
-  },
-  {
-    nom: "Annot",
-    region: "Alpes-de-Haute-Provence",
-    type: "Grès original",
-    voies: "Bloc à ciel ouvert",
-  },
-  {
-    nom: "Présles",
-    region: "Vercors",
-    type: "Calcaire de paroi",
-    voies: "Grandes voies",
-  },
-  {
-    nom: "Pays Basque",
-    region: "Pyrénées-Atlantiques",
-    type: "Calcaire et conglomérat",
-    voies: "Spots variés",
-  },
-];
-
 const FAQ = [
   {
-    q: "Comment cette carte a-t-elle été constituée ?",
-    a: "On part des fiches publiques officielles qui recensent les sites naturels d'escalade en France. Ce travail couvre les sites identifiés par les comités départementaux et nationaux. On les a tous rapatriés dans une seule base, qu'on enrichit ensuite à la main avec les informations utiles pour planifier une sortie. C'est mis à jour mensuellement.",
+    q: "Comment cette base est-elle constituée ?",
+    a: "On agrège les sites naturels d'escalade répertoriés dans le recensement public officiel français, sans en altérer les données factuelles (coordonnées, cotations, nombre de voies). On enrichit ensuite chaque fiche avec nos propres analyses, des liens vers le département et le massif, et bientôt les salles indoor les plus proches.",
   },
   {
-    q: "Est-ce que tous les spots d'escalade y sont ?",
-    a: "Non, et c'est important de le dire. La carte recense les sites officiellement répertoriés. Les spots confidentiels, les ouvertures récentes non encore documentées, ou ceux qui relèvent d'accords privés entre clubs n'y figurent pas forcément. Pour les pratiques en terrain d'aventure ou les voies de grande course alpines, complète toujours avec les topos locaux.",
+    q: "Est-ce que tous les spots y sont ?",
+    a: "Non. La base recense uniquement les sites officiellement répertoriés. Les ouvertures récentes non encore documentées, les terrains d'aventure peu documentés et les accords privés entre clubs locaux n'y figurent pas systématiquement. Croise toujours avec un topo papier récent ou des grimpeurs locaux quand tu te lances sur un site engagé.",
   },
   {
-    q: "Pourquoi certains sites n'ont pas de coordonnées GPS ?",
-    a: "Plusieurs raisons. Soit la fiche officielle ne les indique pas, soit l'accès est volontairement gardé discret pour préserver le rocher ou éviter les conflits avec les propriétaires fonciers. Quand on a la position, on l'affiche. Quand on ne l'a pas, le site reste listé mais sans point précis sur la carte.",
+    q: "Pourquoi certains sites n'apparaissent pas sur la carte ?",
+    a: "Soit la fiche source n'indique pas de coordonnées, soit l'accès est volontairement discret pour préserver le rocher ou éviter les conflits fonciers. On les liste quand même dans le répertoire de leur département, sans point sur la carte.",
   },
   {
     q: "Les cotations sont-elles fiables ?",
-    a: "Elles sont issues des fiches officielles publiques. La cotation reste subjective par nature, et elle évolue avec les rééquipements ou les usures de prises. Vois-les comme un repère, pas une vérité absolue. Pour les voies engageantes, croise toujours avec un topo papier récent ou un retour de grimpeur local.",
-  },
-  {
-    q: "Comment trouver un site adapté à mon niveau ?",
-    a: "Sur chaque fiche, on affiche la cotation minimum et maximum du site. Tu peux filtrer la carte par fourchette de niveau pour ne voir que les spots qui correspondent à ce que tu cherches. Pour débuter, regarde plutôt les sites avec une cotation min en 4 ou 5, et un nombre de voies suffisant pour avoir le choix sur place.",
-  },
-  {
-    q: "Vous indiquez les périodes favorables, comment c'est calculé ?",
-    a: "Ce n'est pas un calcul automatique. C'est l'info donnée dans le recensement officiel, basée sur l'expérience des équipeurs et des grimpeurs réguliers du site. Ça prend en compte l'orientation des voies, l'altitude, l'ombre, et les contraintes locales comme les nidifications de rapaces qui ferment certains secteurs au printemps.",
+    a: "Elles viennent du recensement officiel. La cotation reste subjective par nature et évolue avec les rééquipements et les usures de prises. Sers-toi en comme repère, pas comme vérité absolue. Pour les voies engageantes, croise avec un topo récent.",
   },
 ];
 
 export default async function SitesPage() {
-  const count = await getCount();
-  const totalLabel = count?.toLocaleString("fr-FR") ?? "3 500";
+  const [sites, departements] = await Promise.all([
+    fetchAllSitesForMap(),
+    fetchDepartements(),
+  ]);
+
+  const total = sites.length;
+  const totalLabel = total.toLocaleString("fr-FR");
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -128,13 +71,22 @@ export default async function SitesPage() {
         ],
       },
       {
+        "@type": "Dataset",
+        name: "Sites naturels d'escalade en France",
+        description: `${totalLabel} sites naturels d'escalade recensés en France avec coordonnées GPS, cotations et accès.`,
+        keywords: ["escalade", "falaise", "France", "outdoor"],
+        isAccessibleForFree: true,
+        spatialCoverage: { "@type": "Country", name: "France" },
+        creator: { "@id": "https://escalade-france.fr/#organization" },
+      },
+      {
         "@type": "ItemList",
-        name: "Massifs d'escalade recommandés en France",
-        itemListElement: MASSIFS.map((m, i) => ({
+        name: "Départements d'escalade en France",
+        itemListElement: departements.slice(0, 20).map((d, i) => ({
           "@type": "ListItem",
           position: i + 1,
-          name: m.nom,
-          description: `${m.type} · ${m.region}`,
+          name: d.departement,
+          url: `https://escalade-france.fr${departementHref(d.code_departement, d.departement)}`,
         })),
       },
       {
@@ -154,6 +106,7 @@ export default async function SitesPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
+
       <PageHeader
         section="§ Pilier 01 / Outdoor"
         status="live"
@@ -168,60 +121,76 @@ export default async function SitesPage() {
             tous sur une carte.
           </>
         }
-        subtitle="Le recensement officiel reconstruit en base navigable. Filtre par département, par cotation, par massif. Coordonnées GPS, accès routier, approche, période favorable : tout est là."
+        subtitle="Recensement officiel reconstruit en base navigable. Coordonnées GPS, cotations min et max, périodes favorables, accès routier et approche, pour chaque site."
       />
 
-      {/* Placeholder de carte sur surface 1 */}
-      <section className="relative overflow-hidden surface-1 text-foreground">
-        <div className="mx-auto max-w-7xl px-5 py-14 sm:px-8 sm:py-20 lg:px-12">
-          <div className="relative aspect-[4/3] w-full overflow-hidden rounded-2xl border border-white/10 sm:aspect-[16/10] noise">
-            <div
-              aria-hidden
-              className="absolute inset-0 bg-[radial-gradient(circle_at_30%_30%,rgba(125,222,255,0.18),transparent_55%),radial-gradient(circle_at_70%_70%,rgba(255,122,38,0.10),transparent_55%),#0a0d11]"
-            />
-            <div className="absolute inset-0 flex flex-col items-center justify-center gap-4 px-5 text-center sm:gap-5">
-              <span className="font-mono text-[10px] uppercase tracking-[0.28em] text-primary sm:text-[11px]">
-                Carte interactive
-              </span>
-              <p
-                className="max-w-md font-display font-medium leading-tight tracking-[-0.02em]"
-                style={{ fontSize: "clamp(1.6rem, 4vw, 3rem)" }}
-              >
-                On finalise l&apos;import des données.
-              </p>
-              <p className="max-w-md text-sm text-muted-foreground">
-                La carte sera en ligne dès que tous les sites sont importés.
-                En attendant, tu peux déjà parcourir la liste par département
-                depuis la page d&apos;accueil.
-              </p>
-              <Link
-                href="/"
-                className="mt-2 inline-flex h-11 items-center gap-2 rounded-full border border-white/15 px-5 text-xs font-semibold uppercase tracking-[0.18em] transition-colors hover:border-primary hover:text-primary"
-              >
-                Voir le top des départements
-                <ArrowUpRight className="h-4 w-4" />
-              </Link>
-            </div>
+      {/* CARTE */}
+      <section className="relative surface-1 text-foreground">
+        <div className="mx-auto max-w-7xl px-5 py-12 sm:px-8 sm:py-16 lg:px-12 lg:py-20">
+          <SitesMap sites={sites} />
+          <p className="mt-4 text-center font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground sm:text-xs">
+            Fond de carte © OpenStreetMap contributors, © CARTO
+          </p>
+        </div>
+      </section>
 
-            {[
-              { top: "20%", left: "30%" },
-              { top: "55%", left: "65%" },
-              { top: "70%", left: "25%" },
-              { top: "30%", left: "75%" },
-              { top: "45%", left: "45%" },
-            ].map((p, i) => (
-              <span
-                key={i}
-                className="pointer-events-none absolute h-2 w-2 rounded-full bg-primary pulse-ice"
-                style={{ top: p.top, left: p.left }}
-              />
+      {/* DÉPARTEMENTS — listing complet */}
+      <section className="relative surface-2 text-foreground">
+        <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
+        <div className="mx-auto max-w-7xl px-5 py-20 sm:px-8 sm:py-28 lg:px-12">
+          <div className="mb-10 grid grid-cols-12 gap-y-6 sm:mb-14">
+            <div className="col-span-12 sm:col-span-4 lg:col-span-3">
+              <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+                § Tous les départements
+              </span>
+            </div>
+            <div className="col-span-12 sm:col-span-8 lg:col-span-9">
+              <h2
+                className="font-display font-medium leading-[0.96] tracking-[-0.02em] text-balance"
+                style={{ fontSize: "clamp(1.85rem, 5vw, 4rem)" }}
+              >
+                {departements.length} départements,{" "}
+                <span className="italic text-primary glow-ice-text">
+                  un seul annuaire
+                </span>
+                .
+              </h2>
+              <p className="mt-5 max-w-2xl text-base leading-relaxed text-muted-foreground sm:text-lg">
+                Cliquez sur un département pour voir tous ses sites, du plus
+                renommé au plus confidentiel.
+              </p>
+            </div>
+          </div>
+
+          <div className="grid grid-cols-1 gap-px overflow-hidden rounded-2xl border border-white/10 bg-white/10 sm:grid-cols-2 lg:grid-cols-3">
+            {departements.map((d) => (
+              <Link
+                key={`${d.code_departement}-${d.departement}`}
+                href={departementHref(d.code_departement, d.departement)}
+                className="group flex items-baseline justify-between gap-3 bg-coal-900 px-5 py-5 transition-colors hover:bg-[#1a1a1a] sm:px-7 sm:py-6"
+              >
+                <span className="flex items-baseline gap-3">
+                  {d.code_departement && (
+                    <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
+                      {d.code_departement}
+                    </span>
+                  )}
+                  <span className="font-display text-lg font-medium tracking-[-0.01em] sm:text-xl">
+                    {d.departement}
+                  </span>
+                </span>
+                <span className="flex items-baseline gap-3 font-mono text-xs tabular-nums text-muted-foreground">
+                  {d.count}
+                  <ArrowUpRight className="h-3.5 w-3.5 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5 group-hover:text-primary" />
+                </span>
+              </Link>
             ))}
           </div>
         </div>
       </section>
 
-      {/* Pourquoi cette carte — surface chaude */}
-      <section className="relative surface-warm text-foreground">
+      {/* POURQUOI ce projet — contenu original (pas du contenu scrapé) */}
+      <section className="relative surface-1 text-foreground">
         <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
         <div className="mx-auto max-w-7xl px-5 py-20 sm:px-8 sm:py-28 lg:px-12">
           <div className="grid grid-cols-12 gap-y-10 sm:gap-x-12">
@@ -229,7 +198,6 @@ export default async function SitesPage() {
               <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
                 § Pourquoi
               </span>
-              <span className="mt-3 block h-px w-12 bg-foreground/40" />
             </div>
             <div className="col-span-12 sm:col-span-8 lg:col-span-9">
               <h2
@@ -242,7 +210,7 @@ export default async function SitesPage() {
                 </span>
                 .
               </h2>
-              <div className="mt-10 grid gap-8 sm:grid-cols-2 sm:gap-10">
+              <div className="mt-12 grid gap-8 sm:grid-cols-2 sm:gap-10">
                 <Bullet
                   icon={Mountain}
                   title="Tout le territoire"
@@ -251,17 +219,17 @@ export default async function SitesPage() {
                 <Bullet
                   icon={MapPin}
                   title="Les vraies infos pratiques"
-                  body="Pas seulement des points sur une carte. Pour chaque site : où se gare-t-on, combien de temps d'approche, quelle exposition, quel niveau, quelle période. Ce qu'il faut pour décider si on y va."
+                  body="Coordonnées GPS, type de roche, exposition, cotation, période favorable. Toutes les données factuelles dont tu as besoin pour décider si tu y vas, présentées de manière claire."
                 />
                 <Bullet
                   icon={Sparkles}
-                  title="Mis à jour, pas figé"
-                  body="On synchronise tous les mois avec les sources officielles pour intégrer les nouveaux sites, les rééquipements, les fermetures temporaires. Si une info bouge, elle bouge ici."
+                  title="Une lecture vraiment utile"
+                  body="On ne se contente pas d'agréger : on enrichit chaque fiche avec son contexte, les sites voisins, le massif auquel elle appartient et bientôt les salles indoor les plus proches."
                 />
                 <Bullet
                   icon={ArrowUpRight}
-                  title="Lié à toute la plateforme"
-                  body="Chaque fiche te mène vers la carte, la liste du département, et bientôt les salles du coin pour s'entraîner avant la sortie. Tout est connecté."
+                  title="Une plateforme indépendante"
+                  body="Aucune affiliation commerciale n'influence le contenu. Pas de tracker tiers qui te suit, pas de pub agressive, pas de compte obligatoire pour consulter."
                 />
               </div>
             </div>
@@ -269,54 +237,8 @@ export default async function SitesPage() {
         </div>
       </section>
 
-      {/* Massifs — surface noire dense */}
-      <section className="relative overflow-hidden surface-0 text-foreground">
-        <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
-        <div className="mx-auto max-w-7xl px-5 py-20 sm:px-8 sm:py-28 lg:px-12">
-          <div className="grid grid-cols-12 gap-y-8 sm:gap-x-12">
-            <div className="col-span-12 sm:col-span-4 lg:col-span-3">
-              <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
-                § Incontournables
-              </span>
-            </div>
-            <h2
-              className="col-span-12 font-display font-medium leading-[0.96] tracking-[-0.02em] text-balance sm:col-span-8 lg:col-span-9"
-              style={{ fontSize: "clamp(1.85rem, 4.6vw, 4rem)" }}
-            >
-              Les massifs qu&apos;on{" "}
-              <span className="italic text-primary glow-ice-text">conseille</span>{" "}
-              à tout le monde.
-            </h2>
-          </div>
-
-          <div className="mt-12 grid grid-cols-1 gap-px overflow-hidden rounded-2xl bg-white/10 sm:mt-16 sm:grid-cols-2 lg:grid-cols-4">
-            {MASSIFS.map((m) => (
-              <article
-                key={m.nom}
-                className="group relative flex flex-col gap-2 bg-coal-800 p-6 transition-colors hover:bg-coal-700"
-              >
-                <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-primary">
-                  {m.region}
-                </span>
-                <h3
-                  className="font-display font-medium tracking-[-0.02em]"
-                  style={{ fontSize: "clamp(1.4rem, 2.5vw, 1.875rem)" }}
-                >
-                  {m.nom}
-                </h3>
-                <p className="text-sm text-muted-foreground">{m.type}</p>
-                <p className="mt-auto pt-4 font-mono text-[11px] uppercase tracking-[0.18em] text-foreground/70">
-                  {m.voies}
-                </p>
-                <ArrowUpRight className="absolute right-4 top-4 h-4 w-4 text-foreground/40 transition-colors group-hover:text-primary" />
-              </article>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* FAQ — surface 1 pour respirer */}
-      <section className="relative surface-1 text-foreground">
+      {/* FAQ */}
+      <section className="relative surface-warm text-foreground">
         <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
         <div className="mx-auto max-w-5xl px-5 py-20 sm:px-8 sm:py-28 lg:px-12">
           <div className="mb-10 sm:mb-14">
@@ -328,14 +250,11 @@ export default async function SitesPage() {
               style={{ fontSize: "clamp(1.85rem, 5vw, 4.4rem)" }}
             >
               Les questions{" "}
-              <span className="italic text-primary glow-ice-text">
-                qu&apos;on nous pose
-              </span>
-              .
+              <span className="italic text-primary glow-ice-text">utiles</span>.
             </h2>
           </div>
 
-          <div className="rounded-2xl border border-white/10 bg-coal-800/40">
+          <div className="rounded-2xl border border-white/10 bg-coal-900/60">
             {FAQ.map((item, i) => (
               <details
                 key={i}

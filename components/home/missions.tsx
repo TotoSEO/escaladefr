@@ -163,13 +163,7 @@ export function Missions() {
               {MISSIONS[active].step}
             </div>
 
-            <motion.div
-              key={MISSIONS[active].step}
-              initial={{ opacity: 0, y: 12 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.45, ease: [0.22, 1, 0.36, 1] }}
-              className="relative flex h-full flex-col gap-6 sm:gap-8"
-            >
+            <div className="relative flex h-full flex-col gap-6 sm:gap-8">
               <div className="flex items-center gap-3">
                 <Status status={MISSIONS[active].status} />
                 <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
@@ -200,7 +194,7 @@ export function Missions() {
                   <ArrowUpRight className="h-3.5 w-3.5" />
                 </span>
               </Link>
-            </motion.div>
+            </div>
           </div>
         </div>
       </div>
