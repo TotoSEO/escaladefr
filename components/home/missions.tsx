@@ -16,7 +16,7 @@ const MISSIONS: Mission[] = [
   {
     step: "I",
     title: "Sites naturels",
-    body: "Tous les SNE de la FFME, dans une base que tu peux fouiller par département, par cotation, par massif. C'est en place aujourd'hui.",
+    body: "Tous les sites naturels d'escalade recensés en France, dans une base fouillable par département, par cotation, par massif. C'est en place aujourd'hui.",
     href: "/sites",
     status: "live",
   },
@@ -54,10 +54,10 @@ export function Missions() {
   const inView = useInView(ref, { once: true, margin: "-15%" });
 
   return (
-    <section ref={ref} className="relative overflow-hidden bg-background">
+    <section ref={ref} className="relative overflow-hidden surface-1 text-foreground">
       <div
         aria-hidden
-        className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-border to-transparent"
+        className="absolute inset-x-0 top-0 h-px divider-glow"
       />
       <div
         aria-hidden

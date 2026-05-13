@@ -4,31 +4,48 @@ export function PageShell({ children }: { children: ReactNode }) {
   return <div className="pt-16 sm:pt-20">{children}</div>;
 }
 
+type PageHeaderProps = {
+  section: string;
+  title: ReactNode;
+  subtitle?: string;
+  status?: "live" | "soon" | "later";
+  surface?: "default" | "warm" | "cool";
+};
+
 export function PageHeader({
   section,
   title,
   subtitle,
   status,
-}: {
-  section: string;
-  title: ReactNode;
-  subtitle?: string;
-  status?: "live" | "soon" | "later";
-}) {
+  surface = "default",
+}: PageHeaderProps) {
+  const surfaceClass =
+    surface === "warm"
+      ? "surface-mesh-warm"
+      : surface === "cool"
+      ? "surface-mesh-cool"
+      : "surface-mesh";
+
   return (
-    <header className="relative overflow-hidden border-b border-border bg-coal-900 text-foreground">
+    <header
+      className={`relative overflow-hidden border-b border-white/10 text-foreground ${surfaceClass}`}
+    >
       <div
         aria-hidden
-        className="absolute -right-32 -top-32 h-[420px] w-[420px] rounded-full bg-primary/[0.10] blur-[140px]"
+        className="absolute inset-x-0 bottom-0 h-px divider-glow"
       />
-      <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 sm:py-24 lg:px-12 lg:py-32">
-        <div className="flex items-center gap-3">
+
+      <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 sm:py-24 lg:px-12 lg:py-28">
+        <div className="flex flex-wrap items-center gap-3">
           <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
             {section}
           </span>
           {status && <StatusPill status={status} />}
         </div>
-        <h1 className="mt-6 max-w-5xl font-display text-[12vw] font-medium leading-[0.9] tracking-[-0.025em] sm:mt-10 sm:text-[7vw] lg:text-[5.4vw]">
+        <h1
+          className="mt-6 max-w-5xl font-display font-medium leading-[0.92] tracking-[-0.025em] text-balance sm:mt-10"
+          style={{ fontSize: "clamp(2.3rem, 8vw, 6.5rem)" }}
+        >
           {title}
         </h1>
         {subtitle && (
@@ -42,7 +59,8 @@ export function PageHeader({
 }
 
 function StatusPill({ status }: { status: "live" | "soon" | "later" }) {
-  const label = status === "live" ? "En ligne" : status === "soon" ? "En cours" : "À venir";
+  const label =
+    status === "live" ? "En ligne" : status === "soon" ? "En cours" : "À venir";
   const live = status === "live";
   return (
     <span

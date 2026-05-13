@@ -92,16 +92,9 @@ export function SiteFooter() {
               Données
             </h3>
             <p className="mt-5 text-sm leading-relaxed text-muted-foreground">
-              Sites naturels issus du recensement{" "}
-              <a
-                href="https://www.ffme.fr/"
-                target="_blank"
-                rel="noreferrer"
-                className="text-foreground underline decoration-primary underline-offset-4 hover:text-primary"
-              >
-                FFME
-              </a>
-              . Salles indoor en cours de collecte. Mises à jour mensuelles.
+              Sites naturels issus du recensement public officiel. Salles
+              indoor en cours de collecte. Mises à jour mensuelles, base de
+              données privée et indépendante.
             </p>
           </div>
         </div>

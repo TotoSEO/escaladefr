@@ -38,6 +38,7 @@ export default function BlogPage() {
       <PageHeader
         section="§ Blog"
         status="soon"
+        surface="cool"
         title={
           <>
             Récits, guides
@@ -49,18 +50,22 @@ export default function BlogPage() {
         subtitle="On démarre le blog dans quelques semaines. L'idée : un article par semaine, écrit par des gens qui grimpent vraiment. Voici un aperçu de ce qu'on prépare."
       />
 
-      <section className="relative bg-background">
+      <section className="relative surface-1 text-foreground">
+        <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
         <div className="mx-auto max-w-7xl px-5 py-20 sm:px-8 sm:py-28 lg:px-12">
-          <div className="grid grid-cols-1 gap-px overflow-hidden rounded-2xl border border-border bg-border sm:grid-cols-2">
+          <div className="grid grid-cols-1 gap-px overflow-hidden rounded-2xl border border-white/10 bg-white/10 sm:grid-cols-2">
             {TEASERS.map((t, i) => (
               <article
                 key={i}
-                className="group flex flex-col gap-4 bg-background p-7 transition-colors hover:bg-secondary sm:p-10"
+                className="group flex flex-col gap-4 bg-coal-900 p-7 transition-colors hover:bg-coal-800 sm:p-10"
               >
                 <span className="font-mono text-[10px] uppercase tracking-[0.28em] text-primary">
                   § {t.cat}
                 </span>
-                <h3 className="font-display text-2xl font-medium leading-tight tracking-[-0.02em] sm:text-3xl lg:text-4xl">
+                <h3
+                  className="font-display font-medium leading-tight tracking-[-0.02em]"
+                  style={{ fontSize: "clamp(1.4rem, 2.8vw, 2.25rem)" }}
+                >
                   {t.title}
                 </h3>
                 <p className="text-base text-muted-foreground sm:text-lg">
