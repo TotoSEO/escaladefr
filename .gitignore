@@ -1,0 +1,14 @@
+.env
+*.log
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Données scrapées (volumineuses, à régénérer)
+ffme_sne.json
+ffme_sne.csv
+ffme_sne.log
