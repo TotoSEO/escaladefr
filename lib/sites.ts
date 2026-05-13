@@ -94,6 +94,22 @@ export type SiteDetail = SiteListItem & {
   longitude_affine: number | null;
   geocodage_source: string | null;
   geocodage_distance_m: number | null;
+  // Enrichissement Camptocamp (CC-BY-SA 4.0)
+  c2c_document_id: number | null;
+  c2c_match_score: number | null;
+  c2c_routes_qty: number | null;
+  c2c_summary: string | null;
+  c2c_access_period: string | null;
+  c2c_url: string | null;
+};
+
+export type CamptocampImage = {
+  document_id: number;
+  filename: string;
+  title: string | null;
+  author: string | null;
+  width: number | null;
+  height: number | null;
 };
 
 const LIST_COLUMNS =
@@ -103,7 +119,35 @@ const LIST_COLUMNS_WITH_ACCESS = `${LIST_COLUMNS},acces_statut`;
 
 const DETAIL_COLUMNS_BASE = `${LIST_COLUMNS},url,acces_routier,approche,orientation,cartographie,interet,presentation,rocher,hauteur_min_m,hauteur_max_m,informations_falaise,periodes_favorables,reglementation_particuliere,parking1_lat,parking1_lon,parking2_lat,parking2_lon,bibliographie,derniere_mise_a_jour,presentation_reformule,acces_routier_reformule,approche_reformule,interet_reformule,informations_falaise_reformule,reglementation_reformule,reformule_at`;
 
-const DETAIL_COLUMNS_FULL = `${DETAIL_COLUMNS_BASE},acces_statut,acces_notes,acces_source_url,acces_verified_at,latitude_affine,longitude_affine,geocodage_source,geocodage_distance_m`;
+const DETAIL_COLUMNS_FULL = `${DETAIL_COLUMNS_BASE},acces_statut,acces_notes,acces_source_url,acces_verified_at,latitude_affine,longitude_affine,geocodage_source,geocodage_distance_m,c2c_document_id,c2c_match_score,c2c_routes_qty,c2c_summary,c2c_access_period,c2c_url`;
+
+/** URL CDN d'une image Camptocamp à une taille donnée (BI = big, MI = medium, SI = small). */
+export function camptocampImageUrl(filename: string, size: "BI" | "MI" | "SI" = "MI"): string {
+  // Le CDN actif sert directement le fichier ; la taille est obtenue via un
+  // prefix dans certains schémas. Pour rester simple et stable, on utilise
+  // le proxy officiel qui sait gérer plusieurs tailles via le query param.
+  if (size === "BI") return `https://www.camptocamp.org/api/v1/images/proxy/${filename}?size=BI`;
+  if (size === "SI") return `https://www.camptocamp.org/api/v1/images/proxy/${filename}?size=SI`;
+  return `https://www.camptocamp.org/api/v1/images/proxy/${filename}?size=MI`;
+}
+
+export async function fetchCamptocampImagesForWaypoint(
+  waypointId: number,
+  limit = 6,
+): Promise<CamptocampImage[]> {
+  const supabase = getSupabase();
+  if (!supabase) return [];
+  const { data, error } = await supabase
+    .from("camptocamp_images")
+    .select("document_id,filename,title,author,width,height")
+    .eq("waypoint_id", waypointId)
+    .eq("image_type", "collaborative")
+    .not("filename", "is", null)
+    .order("document_id", { ascending: false })
+    .limit(limit);
+  if (error || !data) return [];
+  return data as CamptocampImage[];
+}
 
 /* ───────────────── Fetch helpers ───────────────── */
 
