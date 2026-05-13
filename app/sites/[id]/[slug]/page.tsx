@@ -4,6 +4,7 @@ import { notFound, redirect } from "next/navigation";
 import { ArrowUpRight, MapPin, Mountain, Calendar, Compass } from "lucide-react";
 
 import { PageShell } from "@/components/page-shell";
+import { SiteMiniMap } from "@/components/sites/site-mini-map";
 import {
   fetchSiteById,
   communeName,
@@ -294,6 +295,83 @@ export default async function SiteDetailPage(
         </div>
       </section>
 
+      {/* Mini-carte si coordonnées disponibles */}
+      {site.latitude && site.longitude && (
+        <section className="relative surface-2 text-foreground">
+          <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
+          <div className="mx-auto max-w-7xl px-5 py-14 sm:px-8 sm:py-20 lg:px-12">
+            <div className="mb-6 flex items-center gap-3 sm:mb-8">
+              <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+                § Localisation
+              </span>
+            </div>
+            <SiteMiniMap
+              latitude={site.latitude}
+              longitude={site.longitude}
+              nom={site.nom}
+              parking1={
+                site.parking1_lat != null && site.parking1_lon != null
+                  ? { lat: site.parking1_lat, lon: site.parking1_lon }
+                  : undefined
+              }
+              parking2={
+                site.parking2_lat != null && site.parking2_lon != null
+                  ? { lat: site.parking2_lat, lon: site.parking2_lon }
+                  : undefined
+              }
+            />
+            <p className="mt-3 text-center font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground sm:text-xs">
+              Fond de carte © OpenStreetMap contributors, © CARTO
+            </p>
+          </div>
+        </section>
+      )}
+
+      {/* Contenus rédigés par notre rédaction (si reformulés) */}
+      {(site.presentation_reformule ||
+        site.acces_routier_reformule ||
+        site.approche_reformule ||
+        site.informations_falaise_reformule ||
+        site.reglementation_reformule) && (
+        <section className="relative surface-1 text-foreground">
+          <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
+          <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 sm:py-24 lg:px-12">
+            <div className="grid grid-cols-12 gap-x-4 gap-y-12 sm:gap-x-12">
+              <div className="col-span-12 sm:col-span-4 lg:col-span-3">
+                <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+                  § Notre lecture
+                </span>
+                <p className="mt-3 max-w-[24ch] font-mono text-[11px] uppercase leading-relaxed tracking-[0.18em] text-muted-foreground">
+                  Rédigé par notre équipe à partir des données officielles, enrichi
+                  de contexte.
+                </p>
+              </div>
+              <div className="col-span-12 space-y-10 sm:col-span-8 lg:col-span-9">
+                {site.presentation_reformule && (
+                  <TextSection title="Présentation" body={site.presentation_reformule} />
+                )}
+                {site.acces_routier_reformule && (
+                  <TextSection title="Accès en voiture" body={site.acces_routier_reformule} />
+                )}
+                {site.approche_reformule && (
+                  <TextSection title="Approche à pied" body={site.approche_reformule} />
+                )}
+                {site.informations_falaise_reformule && (
+                  <TextSection title="La falaise" body={site.informations_falaise_reformule} />
+                )}
+                {site.reglementation_reformule && (
+                  <TextSection
+                    title="Réglementation particulière"
+                    body={site.reglementation_reformule}
+                    accent
+                  />
+                )}
+              </div>
+            </div>
+          </div>
+        </section>
+      )}
+
       {/* Note source */}
       <section className="relative surface-2 text-foreground">
         <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
@@ -360,6 +438,40 @@ function FactCard({
         {value}
       </p>
     </div>
+  );
+}
+
+function TextSection({
+  title,
+  body,
+  accent = false,
+}: {
+  title: string;
+  body: string;
+  accent?: boolean;
+}) {
+  const paragraphs = body.split(/\n\s*\n/).filter((p) => p.trim().length > 0);
+  return (
+    <article
+      className={`rounded-2xl border p-6 sm:p-8 ${
+        accent
+          ? "border-accent/30 bg-accent/[0.05]"
+          : "border-white/10 bg-coal-900"
+      }`}
+    >
+      <h2
+        className={`font-mono text-[11px] uppercase tracking-[0.28em] ${
+          accent ? "text-accent" : "text-primary"
+        }`}
+      >
+        {title}
+      </h2>
+      <div className="mt-5 space-y-4 text-base leading-relaxed text-foreground/90 sm:text-lg">
+        {paragraphs.map((p, i) => (
+          <p key={i}>{p.trim()}</p>
+        ))}
+      </div>
+    </article>
   );
 }
 

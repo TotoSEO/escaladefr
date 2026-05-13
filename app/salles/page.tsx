@@ -1,15 +1,21 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { Search, Filter, MapPin, Building2 } from "lucide-react";
 
 import { PageShell, PageHeader } from "@/components/page-shell";
+import { SallesMap } from "@/components/salles/salles-map";
+import { fetchAllSallesForMap } from "@/lib/salles";
 
-export const metadata: Metadata = {
-  title: "Annuaire des salles d'escalade en France · Bloc et voie",
-  description:
-    "Annuaire des salles d'escalade en France. Bloc, voie, bigwall. Filtre par ville et par discipline. Carte interactive complète à venir.",
-  alternates: { canonical: "/salles" },
-};
+export const revalidate = 3600;
+
+export async function generateMetadata(): Promise<Metadata> {
+  const salles = await fetchAllSallesForMap();
+  const total = salles.length;
+  return {
+    title: `${total.toLocaleString("fr-FR")} salles d'escalade en France · Carte`,
+    description: `Carte interactive des ${total.toLocaleString("fr-FR")} salles d'escalade indoor en France. Bloc, voie, mixte. Filtre par ville et par discipline.`,
+    alternates: { canonical: "/salles" },
+  };
+}
 
 const FAQ = [
   {
@@ -21,8 +27,8 @@ const FAQ = [
     a: "Oui : les salles de bloc pures, les salles de voie avec moulinette ou tête, les salles mixtes, les bigwall, les structures associatives, les structures privées. Tant que c'est une infrastructure dédiée à l'escalade ouverte au public, on la liste.",
   },
   {
-    q: "Comment vous récupérez les informations ?",
-    a: "Pour l'instant, à la main. On part des listes publiques de clubs et de salles, on croise avec les ouvertures récentes qui ne sont pas toujours référencées, et on vérifie chaque fiche sur le site officiel de la salle. C'est long, mais c'est le seul moyen d'avoir des infos justes. À terme on ouvrira un formulaire pour que les salles puissent corriger directement leur fiche.",
+    q: "D'où viennent les données ?",
+    a: "On part d'une compilation de données publiques (notamment OpenStreetMap), qu'on croise avec les sites officiels des salles et les ouvertures récentes. C'est un travail vivant : si tu vois manquer une salle ou si une fiche contient une erreur, écris-nous.",
   },
   {
     q: "Est-ce qu'on peut comparer plusieurs salles ?",
@@ -30,7 +36,18 @@ const FAQ = [
   },
 ];
 
-export default function SallesPage() {
+export default async function SallesPage() {
+  const salles = await fetchAllSallesForMap();
+  const total = salles.length;
+  const villesMap = new Map<string, number>();
+  const chainesMap = new Map<string, number>();
+  for (const s of salles) {
+    if (s.ville) villesMap.set(s.ville, (villesMap.get(s.ville) ?? 0) + 1);
+    if (s.chaine) chainesMap.set(s.chaine, (chainesMap.get(s.chaine) ?? 0) + 1);
+  }
+  const topVilles = [...villesMap.entries()].sort((a, b) => b[1] - a[1]).slice(0, 12);
+  const topChaines = [...chainesMap.entries()].sort((a, b) => b[1] - a[1]);
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@graph": [
@@ -38,9 +55,9 @@ export default function SallesPage() {
         "@type": "WebPage",
         "@id": "https://escalade-france.fr/salles",
         url: "https://escalade-france.fr/salles",
-        name: "Annuaire des salles d'escalade en France",
+        name: `${total} salles d'escalade en France`,
         description:
-          "Annuaire complet des salles d'escalade indoor en France : bloc, voie, mixte.",
+          "Annuaire et carte interactive des salles d'escalade indoor en France.",
         isPartOf: { "@id": "https://escalade-france.fr/#website" },
       },
       {
@@ -69,156 +86,109 @@ export default function SallesPage() {
       />
       <PageHeader
         section="§ Pilier 02 / Indoor"
-        status="soon"
+        status="live"
         surface="warm"
         title={
           <>
-            L&apos;annuaire des{" "}
-            <span className="italic text-primary glow-ice-text">salles</span>
+            {total.toLocaleString("fr-FR")} salles
             <br />
-            d&apos;escalade de France.
+            d&apos;escalade{" "}
+            <span className="italic text-primary glow-ice-text">indoor</span>,
+            <br />
+            sur une carte.
           </>
         }
-        subtitle="Bloc, voie, bigwall. Filtre par ville, par discipline, par horaires. La liste complète arrive en juin 2026 avec une carte interactive."
+        subtitle="Toutes les salles d'escalade indoor recensées en France. Bloc, voie, mixte, bigwall. Données publiques et collecte vivante."
       />
 
-      {/* Aperçu split layout — surface 1 */}
-      <section className="relative overflow-hidden surface-1 text-foreground">
-        <div className="mx-auto max-w-7xl px-5 py-12 sm:px-8 sm:py-20 lg:px-12">
-          <div className="grid grid-cols-1 gap-px overflow-hidden rounded-2xl border border-white/10 bg-white/10 lg:grid-cols-[420px_1fr]">
-            {/* Colonne gauche : liste filtrable placeholder */}
-            <div className="bg-coal-900 p-5 sm:p-7">
-              <div className="flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-3">
-                <Search className="h-4 w-4 text-muted-foreground" />
-                <span className="font-mono text-xs uppercase tracking-[0.18em] text-muted-foreground">
-                  Rechercher une salle, une ville
-                </span>
-              </div>
-
-              <div className="mt-4 flex flex-wrap gap-2">
-                {["Bloc", "Voie", "Bigwall", "Salle mixte", "< 5 km"].map((f) => (
-                  <span
-                    key={f}
-                    className="inline-flex items-center gap-1.5 rounded-full border border-white/10 bg-white/5 px-3 py-1.5 font-mono text-[10px] uppercase tracking-[0.18em] text-foreground/70"
-                  >
-                    <Filter className="h-3 w-3" />
-                    {f}
-                  </span>
-                ))}
-              </div>
-
-              <div className="mt-6 space-y-3">
-                {[
-                  { nom: "Arkose Nation", ville: "Paris 12", type: "Bloc" },
-                  { nom: "Climb Up Aubervilliers", ville: "Seine-Saint-Denis", type: "Voie + bloc" },
-                  { nom: "Vertical'Art Pigalle", ville: "Paris 9", type: "Voie + bloc" },
-                  { nom: "Hardbloc", ville: "Paris 19", type: "Bloc" },
-                  { nom: "Antrebloc", ville: "Villeurbanne", type: "Bloc" },
-                ].map((salle, i) => (
-                  <article
-                    key={i}
-                    className="group flex items-start gap-3 border-b border-white/5 pb-3 last:border-0"
-                  >
-                    <span className="mt-0.5 flex h-8 w-8 items-center justify-center rounded-full bg-white/5">
-                      <Building2 className="h-3.5 w-3.5 text-primary" />
-                    </span>
-                    <div className="min-w-0 flex-1">
-                      <h3 className="truncate font-display text-lg font-medium tracking-[-0.01em]">
-                        {salle.nom}
-                      </h3>
-                      <p className="font-mono text-[10px] uppercase tracking-[0.18em] text-muted-foreground">
-                        {salle.ville} · {salle.type}
-                      </p>
-                    </div>
-                  </article>
-                ))}
-                <p className="pt-2 text-center font-mono text-[10px] uppercase tracking-[0.18em] text-muted-foreground">
-                  Aperçu · base complète en construction
-                </p>
-              </div>
-            </div>
-
-            {/* Colonne droite : carte placeholder */}
-            <div className="relative aspect-[4/3] bg-gradient-to-br from-coal-800 to-coal-900 lg:aspect-auto noise">
-              <div
-                aria-hidden
-                className="absolute inset-0 bg-[radial-gradient(circle_at_50%_40%,rgba(125,222,255,0.15),transparent_55%)]"
-              />
-              <div className="absolute inset-0 flex flex-col items-center justify-center gap-3 px-6 text-center">
-                <MapPin className="h-6 w-6 text-primary" />
-                <p className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
-                  Carte de France
-                </p>
-                <p
-                  className="max-w-sm font-display font-medium leading-tight tracking-[-0.01em]"
-                  style={{ fontSize: "clamp(1.3rem, 3vw, 2rem)" }}
-                >
-                  Toutes les salles, visibles d&apos;un coup d&apos;œil.
-                </p>
-              </div>
-              {[
-                { top: "25%", left: "30%" },
-                { top: "30%", left: "55%" },
-                { top: "60%", left: "20%" },
-                { top: "55%", left: "70%" },
-                { top: "70%", left: "45%" },
-                { top: "20%", left: "70%" },
-              ].map((p, i) => (
-                <span
-                  key={i}
-                  className="absolute h-1.5 w-1.5 rounded-full bg-primary pulse-ice"
-                  style={{ top: p.top, left: p.left }}
-                />
-              ))}
-            </div>
-          </div>
+      {/* Carte */}
+      <section className="relative surface-1 text-foreground">
+        <div className="mx-auto max-w-7xl px-5 py-12 sm:px-8 sm:py-16 lg:px-12 lg:py-20">
+          <SallesMap salles={salles} />
+          <p className="mt-4 text-center font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground sm:text-xs">
+            Fond de carte © OpenStreetMap contributors, © CARTO · Données salles © OpenStreetMap contributors (ODbL)
+          </p>
         </div>
       </section>
 
-      {/* SEO content — surface 0 noir pur */}
-      <section className="relative surface-0 text-foreground">
+      {/* Top villes + top chaînes */}
+      <section className="relative surface-2 text-foreground">
         <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
         <div className="mx-auto max-w-7xl px-5 py-20 sm:px-8 sm:py-28 lg:px-12">
-          <div className="grid grid-cols-12 gap-y-10 sm:gap-x-12">
-            <div className="col-span-12 sm:col-span-4 lg:col-span-3">
+          <div className="grid grid-cols-12 gap-y-12 sm:gap-x-12">
+            <div className="col-span-12 sm:col-span-6">
               <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
-                § Ce qu&apos;on prépare
+                § Top villes
               </span>
-            </div>
-            <div className="col-span-12 sm:col-span-8 lg:col-span-9">
               <h2
-                className="font-display font-medium leading-[0.96] tracking-[-0.02em] text-balance"
-                style={{ fontSize: "clamp(1.85rem, 4.6vw, 4rem)" }}
+                className="mt-3 font-display font-medium leading-[0.96] tracking-[-0.02em] text-balance"
+                style={{ fontSize: "clamp(1.5rem, 3.5vw, 2.6rem)" }}
               >
-                Trouver une salle ne devrait pas{" "}
-                <span className="italic text-primary glow-ice-text">
-                  prendre 20 minutes
-                </span>
-                .
+                Les villes les plus équipées.
               </h2>
-              <div className="mt-10 grid gap-8 text-base leading-relaxed text-muted-foreground sm:grid-cols-2 sm:gap-12 sm:text-lg">
-                <p>
-                  Quand on déménage, qu&apos;on part en déplacement pro, ou
-                  qu&apos;on cherche juste une salle plus proche que celle
-                  qu&apos;on connaît, on perd un temps fou à comparer cinq
-                  sites différents. Chacun a sa carte, ses horaires planqués
-                  dans le footer, ses tarifs réservés aux abonnés.
+              {topVilles.length > 0 ? (
+                <ul className="mt-6 divide-y divide-white/10 rounded-2xl border border-white/10 bg-coal-900/60">
+                  {topVilles.map(([ville, count], i) => (
+                    <li
+                      key={ville}
+                      className="flex items-baseline justify-between gap-3 px-5 py-3.5"
+                    >
+                      <span className="flex items-baseline gap-3">
+                        <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
+                          {String(i + 1).padStart(2, "0")}
+                        </span>
+                        <span className="font-display text-base sm:text-lg">{ville}</span>
+                      </span>
+                      <span className="font-mono text-xs tabular-nums text-primary">
+                        {count}
+                      </span>
+                    </li>
+                  ))}
+                </ul>
+              ) : (
+                <p className="mt-6 text-muted-foreground">
+                  Aucune ville renseignée pour le moment.
                 </p>
-                <p>
-                  L&apos;idée ici, c&apos;est de tout ramener à un endroit
-                  unique. La liste complète des salles, classées par ville et
-                  par discipline. Une carte qui te montre ce qu&apos;il y a
-                  autour de toi. Des fiches qui répondent aux questions
-                  concrètes : ça ouvre à quelle heure, c&apos;est combien le
-                  pass séance, est-ce qu&apos;il y a du bloc et de la voie.
+              )}
+            </div>
+
+            <div className="col-span-12 sm:col-span-6">
+              <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-accent">
+                § Chaînes détectées
+              </span>
+              <h2
+                className="mt-3 font-display font-medium leading-[0.96] tracking-[-0.02em] text-balance"
+                style={{ fontSize: "clamp(1.5rem, 3.5vw, 2.6rem)" }}
+              >
+                Réseaux et enseignes.
+              </h2>
+              {topChaines.length > 0 ? (
+                <ul className="mt-6 grid grid-cols-1 gap-2">
+                  {topChaines.map(([chaine, count]) => (
+                    <li
+                      key={chaine}
+                      className="flex items-baseline justify-between gap-3 rounded-xl border border-white/10 bg-coal-900/60 px-5 py-3.5"
+                    >
+                      <span className="font-display text-base sm:text-lg">
+                        {chaine}
+                      </span>
+                      <span className="font-mono text-xs tabular-nums text-accent">
+                        {count} salle{count > 1 ? "s" : ""}
+                      </span>
+                    </li>
+                  ))}
+                </ul>
+              ) : (
+                <p className="mt-6 text-muted-foreground">
+                  Aucune chaîne identifiée pour le moment.
                 </p>
-              </div>
+              )}
             </div>
           </div>
         </div>
       </section>
 
-      {/* FAQ — surface chaude */}
+      {/* FAQ */}
       <section className="relative surface-warm text-foreground">
         <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
         <div className="mx-auto max-w-5xl px-5 py-20 sm:px-8 sm:py-28 lg:px-12">
@@ -231,10 +201,7 @@ export default function SallesPage() {
               style={{ fontSize: "clamp(1.85rem, 5vw, 4.4rem)" }}
             >
               Avant qu&apos;on{" "}
-              <span className="italic text-primary glow-ice-text">
-                vous le demande
-              </span>
-              .
+              <span className="italic text-primary glow-ice-text">vous le demande</span>.
             </h2>
           </div>
 
@@ -267,8 +234,8 @@ export default function SallesPage() {
 
           <div className="mt-12 flex flex-col items-start justify-between gap-4 border-t border-white/10 pt-8 sm:flex-row sm:items-center">
             <p className="max-w-xl text-sm text-muted-foreground">
-              Tu gères une salle et tu veux vérifier ses infos avant la mise en
-              ligne ? Écris-nous, on prépare un accès dédié pour ça.
+              Tu gères une salle et tu veux vérifier ses infos ? Écris-nous,
+              on prépare un accès dédié pour ça.
             </p>
             <Link
               href="/contact"
@@ -279,6 +246,7 @@ export default function SallesPage() {
           </div>
         </div>
       </section>
+
     </PageShell>
   );
 }

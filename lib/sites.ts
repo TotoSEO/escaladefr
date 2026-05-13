@@ -40,24 +40,43 @@ export type SiteDetail = SiteListItem & {
   parking2_lon: number | null;
   bibliographie: string[] | null;
   derniere_mise_a_jour: string | null;
+  // Versions reformulées par notre rédaction (anti-duplicate)
+  presentation_reformule: string | null;
+  acces_routier_reformule: string | null;
+  approche_reformule: string | null;
+  interet_reformule: string | null;
+  informations_falaise_reformule: string | null;
+  reglementation_reformule: string | null;
+  reformule_at: string | null;
 };
 
 const LIST_COLUMNS =
   "id,nom,commune,departement,code_departement,massif,type_site,cotation_min,cotation_max,nombre_voies,latitude,longitude";
 
-const DETAIL_COLUMNS = `${LIST_COLUMNS},url,acces_routier,approche,orientation,cartographie,interet,presentation,rocher,hauteur_min_m,hauteur_max_m,informations_falaise,periodes_favorables,reglementation_particuliere,parking1_lat,parking1_lon,parking2_lat,parking2_lon,bibliographie,derniere_mise_a_jour`;
+const DETAIL_COLUMNS = `${LIST_COLUMNS},url,acces_routier,approche,orientation,cartographie,interet,presentation,rocher,hauteur_min_m,hauteur_max_m,informations_falaise,periodes_favorables,reglementation_particuliere,parking1_lat,parking1_lon,parking2_lat,parking2_lon,bibliographie,derniere_mise_a_jour,presentation_reformule,acces_routier_reformule,approche_reformule,interet_reformule,informations_falaise_reformule,reglementation_reformule,reformule_at`;
 
 /* ───────────────── Fetch helpers ───────────────── */
 
 export async function fetchAllSitesForMap(): Promise<SiteListItem[]> {
   const supabase = getSupabase();
   if (!supabase) return [];
-  const { data, error } = await supabase
-    .from("sites_naturels")
-    .select(LIST_COLUMNS)
-    .order("id");
-  if (error) return [];
-  return (data as SiteListItem[]) ?? [];
+  // Supabase REST limite à 1000 lignes par défaut. On pagine par tranches
+  // de 1000 jusqu'à épuisement (~3 requêtes pour ~3000 sites).
+  const PAGE = 1000;
+  const all: SiteListItem[] = [];
+  let from = 0;
+  while (true) {
+    const { data, error } = await supabase
+      .from("sites_naturels")
+      .select(LIST_COLUMNS)
+      .order("id")
+      .range(from, from + PAGE - 1);
+    if (error || !data || data.length === 0) break;
+    all.push(...(data as SiteListItem[]));
+    if (data.length < PAGE) break;
+    from += PAGE;
+  }
+  return all;
 }
 
 export async function fetchSiteById(id: number): Promise<SiteDetail | null> {
