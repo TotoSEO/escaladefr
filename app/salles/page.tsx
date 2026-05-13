@@ -5,9 +5,10 @@ import { Search, Filter, MapPin, Building2 } from "lucide-react";
 import { PageShell, PageHeader } from "@/components/page-shell";
 
 export const metadata: Metadata = {
-  title: "Annuaire des salles d'escalade en France",
+  title: "Annuaire des salles d'escalade en France · Bloc et voie",
   description:
-    "L'annuaire complet des salles d'escalade de France. Bloc, voie, bigwall. Filtre par ville, par discipline, par capacité. La carte interactive et la liste détaillée arrivent en juin 2026.",
+    "Annuaire des salles d'escalade en France. Bloc, voie, bigwall. Filtre par ville et par discipline. Carte interactive complète à venir.",
+  alternates: { canonical: "/salles" },
 };
 
 const FAQ = [
@@ -30,8 +31,42 @@ const FAQ = [
 ];
 
 export default function SallesPage() {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://escalade-france.fr/salles",
+        url: "https://escalade-france.fr/salles",
+        name: "Annuaire des salles d'escalade en France",
+        description:
+          "Annuaire complet des salles d'escalade indoor en France : bloc, voie, mixte.",
+        isPartOf: { "@id": "https://escalade-france.fr/#website" },
+      },
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://escalade-france.fr" },
+          { "@type": "ListItem", position: 2, name: "Salles d'escalade", item: "https://escalade-france.fr/salles" },
+        ],
+      },
+      {
+        "@type": "FAQPage",
+        mainEntity: FAQ.map((item) => ({
+          "@type": "Question",
+          name: item.q,
+          acceptedAnswer: { "@type": "Answer", text: item.a },
+        })),
+      },
+    ],
+  };
+
   return (
     <PageShell>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <PageHeader
         section="§ Pilier 02 / Indoor"
         status="soon"
@@ -184,7 +219,7 @@ export default function SallesPage() {
       </section>
 
       {/* FAQ — surface chaude */}
-      <section className="relative surface-mesh-warm text-foreground">
+      <section className="relative surface-warm text-foreground">
         <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
         <div className="mx-auto max-w-5xl px-5 py-20 sm:px-8 sm:py-28 lg:px-12">
           <div className="mb-10 sm:mb-14">

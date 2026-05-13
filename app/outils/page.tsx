@@ -5,9 +5,10 @@ import { ArrowUpRight } from "lucide-react";
 import { PageShell, PageHeader } from "@/components/page-shell";
 
 export const metadata: Metadata = {
-  title: "Outils interactifs pour grimpeurs",
+  title: "Outils interactifs gratuits pour grimpeurs et escalade",
   description:
-    "Convertisseur de cotations, calculateur de jonctions, suivi de progression, météo escalade. Des outils gratuits pour la planification et l'entraînement.",
+    "Convertisseur de cotations, calculateur de jonctions, suivi de progression, météo par site. Outils gratuits pour la planification.",
+  alternates: { canonical: "/outils" },
 };
 
 type Tool = {
@@ -56,8 +57,43 @@ const STATUS_LABEL: Record<Tool["status"], string> = {
 };
 
 export default function OutilsPage() {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://escalade-france.fr/outils",
+        url: "https://escalade-france.fr/outils",
+        name: "Outils interactifs pour grimpeurs",
+        isPartOf: { "@id": "https://escalade-france.fr/#website" },
+      },
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://escalade-france.fr" },
+          { "@type": "ListItem", position: 2, name: "Outils", item: "https://escalade-france.fr/outils" },
+        ],
+      },
+      {
+        "@type": "ItemList",
+        name: "Outils interactifs pour l'escalade",
+        itemListElement: TOOLS.map((t, i) => ({
+          "@type": "ListItem",
+          position: i + 1,
+          name: t.title,
+          description: t.desc,
+          url: t.status === "live" ? `https://escalade-france.fr${t.href}` : undefined,
+        })),
+      },
+    ],
+  };
+
   return (
     <PageShell>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <PageHeader
         section="§ Outils"
         status="live"

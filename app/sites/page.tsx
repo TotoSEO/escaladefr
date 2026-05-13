@@ -20,8 +20,9 @@ export async function generateMetadata(): Promise<Metadata> {
   const count = await getCount();
   const c = count?.toLocaleString("fr-FR") ?? "3 500";
   return {
-    title: `${c} sites d'escalade naturels en France · Carte interactive`,
-    description: `La carte interactive des ${c} sites d'escalade naturels recensés en France. Cotations, accès, périodes favorables, coordonnées GPS. Filtrable par département, massif, niveau.`,
+    title: `${c} sites d'escalade naturels en France · Carte`,
+    description: `Carte interactive des ${c} sites d'escalade naturels en France. Cotations, accès, périodes favorables, coordonnées GPS par site.`,
+    alternates: { canonical: "/sites" },
   };
 }
 
@@ -107,8 +108,52 @@ export default async function SitesPage() {
   const count = await getCount();
   const totalLabel = count?.toLocaleString("fr-FR") ?? "3 500";
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://escalade-france.fr/sites",
+        url: "https://escalade-france.fr/sites",
+        name: `${totalLabel} sites d'escalade naturels en France`,
+        description:
+          "Carte interactive et annuaire des sites naturels d'escalade en France.",
+        isPartOf: { "@id": "https://escalade-france.fr/#website" },
+      },
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://escalade-france.fr" },
+          { "@type": "ListItem", position: 2, name: "Sites naturels", item: "https://escalade-france.fr/sites" },
+        ],
+      },
+      {
+        "@type": "ItemList",
+        name: "Massifs d'escalade recommandés en France",
+        itemListElement: MASSIFS.map((m, i) => ({
+          "@type": "ListItem",
+          position: i + 1,
+          name: m.nom,
+          description: `${m.type} · ${m.region}`,
+        })),
+      },
+      {
+        "@type": "FAQPage",
+        mainEntity: FAQ.map((item) => ({
+          "@type": "Question",
+          name: item.q,
+          acceptedAnswer: { "@type": "Answer", text: item.a },
+        })),
+      },
+    ],
+  };
+
   return (
     <PageShell>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <PageHeader
         section="§ Pilier 01 / Outdoor"
         status="live"
@@ -176,7 +221,7 @@ export default async function SitesPage() {
       </section>
 
       {/* Pourquoi cette carte — surface chaude */}
-      <section className="relative surface-mesh-warm text-foreground">
+      <section className="relative surface-warm text-foreground">
         <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
         <div className="mx-auto max-w-7xl px-5 py-20 sm:px-8 sm:py-28 lg:px-12">
           <div className="grid grid-cols-12 gap-y-10 sm:gap-x-12">

@@ -19,7 +19,7 @@ export function TopDepartements({ items }: { items: Dep[] }) {
   return (
     <section
       ref={ref}
-      className="relative overflow-hidden surface-mesh-cool text-foreground"
+      className="relative overflow-hidden surface-cool text-foreground"
     >
       <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
       <div

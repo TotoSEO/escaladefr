@@ -25,7 +25,7 @@ export function GradeConverter() {
   const [boulderIndex, setBoulderIndex] = useState(BOULDER_DEFAULT);
 
   return (
-    <div className="relative overflow-hidden rounded-3xl border border-white/10 bg-coal-900/95 noise">
+    <div className="relative overflow-hidden rounded-3xl border border-white/15 bg-[#1a1a1a]">
       {/* Toggle Voie / Bloc */}
       <div className="flex items-center justify-between gap-4 border-b border-white/10 px-5 py-4 sm:px-7 sm:py-5">
         <div className="flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.04] p-1">
@@ -299,7 +299,7 @@ function ResultCard({
   accent?: boolean;
 }) {
   return (
-    <div className="relative flex flex-col gap-3 bg-coal-900 p-5 transition-colors sm:p-7">
+    <div className="relative flex flex-col gap-3 bg-[#262626] p-5 transition-colors sm:p-7">
       <div className="flex items-baseline justify-between gap-3">
         <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-primary">
           {label}

@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     template: "%s · escalade-france.fr",
   },
   description:
-    "L'annuaire indépendant de l'escalade en France. Plus de 3 500 sites naturels recensés, salles indoor, cartographie, cotations.",
+    "Annuaire indépendant de l'escalade en France. 3 500 sites naturels, salles indoor, cartographie, cotations, équipement testé.",
   applicationName: "escalade-france.fr",
   keywords: [
     "escalade",

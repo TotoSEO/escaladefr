@@ -45,7 +45,7 @@ export function Manifesto({
   return (
     <section
       ref={ref}
-      className="relative overflow-hidden surface-mesh-warm text-foreground"
+      className="relative overflow-hidden surface-warm text-foreground"
     >
       <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
 
