@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 
+import { fetchArticleSlugs } from "@/lib/blog";
 import {
   fetchAllSitesForMap,
   fetchDepartements,
@@ -29,12 +30,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${SITE}/mentions-legales`, lastModified: now, changeFrequency: "yearly", priority: 0.3 },
   ];
 
-  // Routes dynamiques : départements + sites individuels.
-  // Si Supabase n'est pas configuré, on retombe sur les statics seules.
+  // Routes dynamiques : départements + sites individuels + articles blog.
   try {
-    const [sites, departements] = await Promise.all([
+    const [sites, departements, articles] = await Promise.all([
       fetchAllSitesForMap(),
       fetchDepartements(),
+      fetchArticleSlugs(),
     ]);
 
     const departementEntries: MetadataRoute.Sitemap = departements
@@ -53,7 +54,14 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.6,
     }));
 
-    return [...staticEntries, ...departementEntries, ...siteEntries];
+    const articleEntries: MetadataRoute.Sitemap = articles.map((a) => ({
+      url: `${SITE}/blog/${a.slug}`,
+      lastModified: new Date(a.updated_at),
+      changeFrequency: "monthly" as const,
+      priority: 0.75,
+    }));
+
+    return [...staticEntries, ...departementEntries, ...siteEntries, ...articleEntries];
   } catch {
     return staticEntries;
   }

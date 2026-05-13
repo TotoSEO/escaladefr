@@ -1,0 +1,335 @@
+import type { Metadata } from "next";
+import Link from "next/link";
+import Image from "next/image";
+import { notFound } from "next/navigation";
+import { ArrowUpRight, Clock, Calendar as CalendarIcon } from "lucide-react";
+
+import { PageShell } from "@/components/page-shell";
+import { RenderBlock, KeyTakeaways } from "@/components/blog/blocks";
+import {
+  COCON_LABEL,
+  articleHref,
+  fetchArticleBySlug,
+  fetchRelatedArticles,
+  formatPublishedDate,
+  readingTimeMinutes,
+} from "@/lib/blog";
+
+export const revalidate = 3600;
+
+type Params = { slug: string };
+
+export async function generateMetadata(
+  { params }: { params: Promise<Params> },
+): Promise<Metadata> {
+  const { slug } = await params;
+  const article = await fetchArticleBySlug(slug);
+  if (!article) return { title: "Article introuvable" };
+  return {
+    title: article.title,
+    description: article.description,
+    alternates: { canonical: `/blog/${article.slug}` },
+    openGraph: {
+      title: article.title,
+      description: article.description,
+      type: "article",
+      url: `https://escalade-france.fr/blog/${article.slug}`,
+      images: [
+        {
+          url: `https://escalade-france.fr${article.cover_image}`,
+          width: 1600,
+          height: 900,
+          alt: article.cover_alt,
+        },
+      ],
+      publishedTime: article.published_at,
+      authors: [article.author_name],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: article.title,
+      description: article.description,
+      images: [`https://escalade-france.fr${article.cover_image}`],
+    },
+  };
+}
+
+export default async function BlogArticlePage(
+  { params }: { params: Promise<Params> },
+) {
+  const { slug } = await params;
+  const article = await fetchArticleBySlug(slug);
+  if (!article) notFound();
+
+  const related = await fetchRelatedArticles(article.cocon, article.slug, 3);
+
+  const breadcrumb = {
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Accueil", item: "https://escalade-france.fr" },
+      { "@type": "ListItem", position: 2, name: "Blog", item: "https://escalade-france.fr/blog" },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: article.h1,
+        item: `https://escalade-france.fr/blog/${article.slug}`,
+      },
+    ],
+  };
+
+  const jsonLd: Record<string, unknown> = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "@id": `https://escalade-france.fr/blog/${article.slug}#article`,
+        headline: article.h1,
+        description: article.description,
+        image: {
+          "@type": "ImageObject",
+          url: `https://escalade-france.fr${article.cover_image}`,
+          width: 1600,
+          height: 900,
+        },
+        datePublished: article.published_at,
+        dateModified: article.published_at,
+        author: {
+          "@type": "Person",
+          name: article.author_name,
+          url: `https://escalade-france.fr${article.author_url}`,
+        },
+        publisher: {
+          "@type": "Organization",
+          name: "escalade-france.fr",
+          url: "https://escalade-france.fr",
+          logo: {
+            "@type": "ImageObject",
+            url: "https://escalade-france.fr/og/logo.png",
+          },
+        },
+        mainEntityOfPage: {
+          "@type": "WebPage",
+          "@id": `https://escalade-france.fr/blog/${article.slug}`,
+        },
+        articleSection: COCON_LABEL[article.cocon],
+        wordCount: article.word_count ?? undefined,
+        inLanguage: "fr-FR",
+      },
+      breadcrumb,
+      ...(article.faq && article.faq.length > 0
+        ? [
+            {
+              "@type": "FAQPage",
+              mainEntity: article.faq.map((qa) => ({
+                "@type": "Question",
+                name: qa.q,
+                acceptedAnswer: { "@type": "Answer", text: qa.a },
+              })),
+            },
+          ]
+        : []),
+    ],
+  };
+
+  return (
+    <PageShell>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+
+      {/* Hero avec cover */}
+      <article>
+        <header className="relative overflow-hidden border-b border-white/10 surface-1 text-foreground">
+          <div className="relative mx-auto grid max-w-7xl gap-10 px-5 py-14 sm:px-8 sm:py-20 lg:grid-cols-12 lg:gap-12 lg:px-12 lg:py-24">
+            <div className="lg:col-span-6">
+              <nav
+                aria-label="Fil d'Ariane"
+                className="flex flex-wrap items-center gap-2 font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground"
+              >
+                <Link href="/blog" className="hover:text-foreground">
+                  Blog
+                </Link>
+                <span>·</span>
+                <span className="text-primary">{COCON_LABEL[article.cocon]}</span>
+              </nav>
+
+              <h1
+                className="mt-6 font-display font-medium leading-[0.96] tracking-[-0.025em] text-balance sm:mt-8"
+                style={{ fontSize: "clamp(2rem, 5.4vw, 4rem)" }}
+              >
+                {article.h1}
+              </h1>
+
+              <p className="mt-6 max-w-2xl text-lg leading-relaxed text-muted-foreground sm:text-xl">
+                {article.chapo}
+              </p>
+
+              <div className="mt-8 flex flex-wrap items-center gap-4 font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
+                <span className="inline-flex items-center gap-1.5">
+                  <CalendarIcon className="h-3.5 w-3.5 text-primary" />
+                  {formatPublishedDate(article.published_at)}
+                </span>
+                <span className="text-white/15">·</span>
+                <span className="inline-flex items-center gap-1.5">
+                  <Clock className="h-3.5 w-3.5 text-primary" />
+                  {readingTimeMinutes(article.word_count)} min de lecture
+                </span>
+                <span className="text-white/15">·</span>
+                <span className="text-foreground/85">{article.author_name}</span>
+              </div>
+            </div>
+
+            <div className="lg:col-span-6">
+              <div className="relative overflow-hidden rounded-3xl border border-white/10 bg-coal-900 shadow-2xl">
+                <Image
+                  src={article.cover_image}
+                  alt={article.cover_alt}
+                  width={1600}
+                  height={900}
+                  priority
+                  sizes="(min-width: 1024px) 50vw, 100vw"
+                  className="h-auto w-full"
+                />
+              </div>
+            </div>
+          </div>
+        </header>
+
+        {/* Corps de l'article */}
+        <section className="relative surface-2 text-foreground">
+          <div className="mx-auto max-w-3xl px-5 py-14 sm:px-8 sm:py-20 lg:px-0 lg:py-24">
+            <KeyTakeaways items={article.takeaways} />
+
+            <div className="mt-6">
+              {article.body_blocks.map((b, i) => (
+                <RenderBlock key={i} block={b} />
+              ))}
+            </div>
+
+            {article.faq && article.faq.length > 0 && (
+              <section className="mt-16 rounded-3xl border border-white/10 bg-coal-900/60 p-6 sm:p-10">
+                <p className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+                  § Questions fréquentes
+                </p>
+                <h2
+                  className="mt-3 font-display font-medium leading-tight tracking-[-0.02em]"
+                  style={{ fontSize: "clamp(1.5rem, 3vw, 2.2rem)" }}
+                >
+                  Pour aller plus loin sur ce sujet.
+                </h2>
+                <div className="mt-6 divide-y divide-white/10">
+                  {article.faq.map((qa, i) => (
+                    <details
+                      key={i}
+                      className="group py-5 transition-colors open:bg-white/[0.03]"
+                    >
+                      <summary className="flex cursor-pointer list-none items-start justify-between gap-4">
+                        <span className="flex flex-1 items-baseline gap-3 font-display font-medium tracking-[-0.01em] sm:gap-4">
+                          <span className="font-mono text-xs text-muted-foreground tabular-nums">
+                            {String(i + 1).padStart(2, "0")}
+                          </span>
+                          <span
+                            style={{ fontSize: "clamp(1rem, 2vw, 1.3rem)" }}
+                          >
+                            {qa.q}
+                          </span>
+                        </span>
+                        <span className="mt-1 flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-white/15 transition-transform group-open:rotate-45">
+                          <span className="block h-3 w-px bg-foreground" />
+                          <span className="block h-px w-3 -translate-x-3 bg-foreground" />
+                        </span>
+                      </summary>
+                      <p className="mt-4 max-w-3xl pl-8 pr-1 text-sm leading-relaxed text-muted-foreground sm:pl-12 sm:text-base">
+                        {qa.a}
+                      </p>
+                    </details>
+                  ))}
+                </div>
+              </section>
+            )}
+
+            {/* Auteur / signature */}
+            <div className="mt-16 flex flex-col gap-4 rounded-3xl border border-white/10 bg-coal-900/60 px-6 py-7 sm:flex-row sm:items-center sm:gap-6 sm:px-8 sm:py-8">
+              <div className="flex h-14 w-14 shrink-0 items-center justify-center rounded-full bg-primary/15 font-display text-xl font-medium italic text-primary sm:h-16 sm:w-16">
+                eF
+              </div>
+              <div>
+                <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-primary">
+                  Signé
+                </p>
+                <p className="mt-1 font-display text-lg font-medium tracking-[-0.01em] sm:text-xl">
+                  {article.author_name}
+                </p>
+                <p className="mt-1 text-sm leading-relaxed text-muted-foreground sm:text-base">
+                  L&apos;équipe rédactionnelle qui pratique l&apos;escalade
+                  régulièrement et écrit sans intermédiaire. Aucun contenu
+                  généré, aucune affiliation cachée.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Articles liés du même cocon */}
+        {related.length > 0 && (
+          <section className="relative surface-1 text-foreground">
+            <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
+            <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 sm:py-24 lg:px-12">
+              <div className="mb-8 flex items-baseline justify-between gap-4 sm:mb-12">
+                <div>
+                  <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+                    § Dans le même thème
+                  </span>
+                  <h2
+                    className="mt-3 font-display font-medium leading-tight tracking-[-0.02em]"
+                    style={{ fontSize: "clamp(1.4rem, 3vw, 2.2rem)" }}
+                  >
+                    Cocon {COCON_LABEL[article.cocon]}.
+                  </h2>
+                </div>
+                <Link
+                  href="/blog"
+                  className="inline-flex items-center gap-2 font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground transition-colors hover:text-primary"
+                >
+                  Tous les articles
+                  <ArrowUpRight className="h-3.5 w-3.5" />
+                </Link>
+              </div>
+              <div className="grid grid-cols-1 gap-4 sm:gap-6 md:grid-cols-3">
+                {related.map((r) => (
+                  <Link
+                    key={r.id}
+                    href={articleHref(r.slug)}
+                    className="group flex flex-col overflow-hidden rounded-2xl border border-white/10 bg-coal-900 transition-all hover:border-primary/40"
+                  >
+                    <div className="relative aspect-[16/10] overflow-hidden">
+                      <Image
+                        src={r.cover_image}
+                        alt={r.cover_alt}
+                        fill
+                        sizes="(min-width: 768px) 33vw, 100vw"
+                        className="object-cover transition-transform duration-500 group-hover:scale-[1.03]"
+                      />
+                    </div>
+                    <div className="flex flex-col gap-2 p-5 sm:p-6">
+                      <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-primary">
+                        {formatPublishedDate(r.published_at)} · {readingTimeMinutes(r.word_count)} min
+                      </span>
+                      <h3
+                        className="font-display font-medium leading-tight tracking-[-0.01em]"
+                        style={{ fontSize: "clamp(1.1rem, 2vw, 1.4rem)" }}
+                      >
+                        {r.h1}
+                      </h3>
+                    </div>
+                  </Link>
+                ))}
+              </div>
+            </div>
+          </section>
+        )}
+      </article>
+    </PageShell>
+  );
+}
