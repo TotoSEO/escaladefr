@@ -1,0 +1,190 @@
+{
+  "slug": "fontainebleau-bloc-foret",
+  "cocon": "sites",
+  "type_article": "guide",
+  "numero": 80,
+  "title": "Fontainebleau : la capitale mondiale du bloc en forêt",
+  "h1": "Fontainebleau, capitale mondiale du bloc en forêt",
+  "description": "Découvre Fontainebleau, berceau du bloc, ses grès, ses circuits historiques et ses secteurs mythiques. Tout sur la grimpe à Bleau au fil des saisons.",
+  "chapo": "Fontainebleau, c'est plus qu'une forêt avec des cailloux. C'est la mère patrie du bloc moderne, le terrain où Pierre Allain a inventé la grimpe en chaussons collants. On y trouve 30 000 blocs répartis dans des massifs aux noms chantants. Je te raconte ce qui rend cet endroit unique, ses circuits, sa géologie et comment l'aborder sans se perdre.",
+  "takeaways": [
+    "Fontainebleau réunit plus de 30 000 blocs de grès sur 25 000 hectares de forêt domaniale.",
+    "Les circuits balisés par couleur structurent la pratique depuis les années 1940.",
+    "Le grès devient gras dès qu'il fait chaud, l'automne et l'hiver restent les saisons reines.",
+    "L'ASOMIF, le COSIROC et l'ONF entretiennent et préservent les sites.",
+    "La cotation Font sert de référence mondiale, du 3 au 9A."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Pourquoi Bleau est devenu le centre mondial du bloc"
+    },
+    {
+      "type": "p",
+      "html": "La première fois que je suis arrivé à Fontainebleau, j'avais douze ans et je venais du calcaire vosgien. Le grès m'a déstabilisé tout de suite. La texture accroche, mais elle te trahit dès que tu pousses trop fort sur les pieds. Mon père m'a expliqué que c'était là, dans cette forêt domaniale, que tout avait commencé. Pierre Allain a chaussé ses premiers chaussons en caoutchouc dans les années 1930 sur ces rochers, et les générations suivantes ont écrit l'histoire du bloc moderne pas à pas."
+    },
+    {
+      "type": "p",
+      "html": "Aujourd'hui, Bleau attire des grimpeurs du monde entier. Tu croises des Japonais, des Américains, des Allemands sur le même bloc, parfois bredouilles devant un 6A qui en humilie plus d'un. La concentration est unique au monde. Sur 25 000 hectares de forêt, on dénombre plus de 30 000 blocs répertoriés, du pas accessible aux gosses de quatre ans au 9A qui repousse les limites du grimpable. Aucun autre site n'offre une telle densité et une telle diversité de styles."
+    },
+    {
+      "type": "p",
+      "html": "Cette suprématie n'est pas un hasard. La proximité de Paris a fait de Bleau le terrain de jeu des grimpeurs urbains depuis un siècle. Les ateliers du dimanche ont engendré une école technique unique, axée sur le pied précis, le rééquilibrage permanent et la lecture fine. Quand tu vois un Bleausard sur un toit, tu comprends qu'il a passé des milliers d'heures à perfectionner ses mouvements sur des compressions de grès."
+    },
+    {
+      "type": "h2",
+      "text": "Le grès de Bleau, une roche à part"
+    },
+    {
+      "type": "p",
+      "html": "Le grès de Fontainebleau n'a pas grand-chose à voir avec le calcaire qu'on trouve dans le sud. C'est une roche sédimentaire formée par la consolidation de sables stampiens, déposés il y a environ trente millions d'années à l'époque où la région se trouvait sous une mer chaude. Cette origine explique ses formes arrondies, ses dévers en panse, ses arêtes émoussées et ses pieds bombés qui te font glisser au mauvais moment."
+    },
+    {
+      "type": "p",
+      "html": "Le rocher offre une adhérence remarquable quand il fait frais et sec. Dès que l'air se réchauffe ou que l'humidité monte, le grès devient gras. Les locaux parlent de conditions Bleau, ce mélange précis de froid sec et de vent du nord qui transforme une dalle compacte en piste de patinage ou en velcro selon l'heure. On apprend vite à scruter les bulletins météo plusieurs jours avant une sortie. La pluie de la veille suffit à condamner certaines faces nord."
+    },
+    {
+      "type": "p",
+      "html": "La texture varie aussi selon les massifs. Le grès de Cuvier reste plus compact et sculpté de réglettes, celui des Trois Pignons offre davantage de dévers et de patines. À Larchant, les blocs sont plus hauts, plus exposés, parfois avec des sorties engagées. Cette variété fait que tu peux passer une saison entière sans jamais grimper deux fois sur la même texture, c'est ce qui rend la forêt inépuisable."
+    },
+    {
+      "type": "table",
+      "caption": "Fiche d'identité du site",
+      "headers": ["Critère", "Détail"],
+      "rows": [
+        ["Type de rocher", "Grès stampien, blocs et boules de 2 à 15 mètres"],
+        ["Discipline", "Bloc, quelques voies courtes dans certains secteurs"],
+        ["Cotations", "Du 3 au 9A, échelle Font qui sert de référence mondiale"],
+        ["Période idéale", "Octobre à mars, conditions sèches et fraîches"],
+        ["Accès", "Train depuis Paris, gare de Fontainebleau-Avon, puis bus ou vélo"],
+        ["Hébergement", "Camping La Musardière, gîtes d'Arbonne, hôtels à Fontainebleau ville"],
+        ["Topo", "Bleau.info, topos 7+8 et 5+6 de Bart van Raaij, application Boolder"]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Une géographie morcelée en plusieurs massifs"
+    },
+    {
+      "type": "p",
+      "html": "Bleau ne se résume pas à un seul rocher. La forêt couvre un quadrilatère qui s'étend de Bois-le-Roi au nord jusqu'à Larchant au sud-ouest, en passant par Milly-la-Forêt et Nemours. Les secteurs principaux se répartissent dans trois grands ensembles. Le massif des Trois Pignons abrite des sites historiques comme le Cul du Chien, le 95.2 et le Diplodocus. Le massif central de la forêt regroupe <strong>Bas Cuvier</strong>, <strong>Apremont</strong> et Franchard, plus accessibles en train. Au sud-ouest, le secteur de Larchant ajoute encore des dizaines de plateaux moins fréquentés."
+    },
+    {
+      "type": "p",
+      "html": "Cette dispersion rend l'expérience riche mais demande de la préparation. On ne grimpe pas le matin à Cuvier et l'après-midi à Larchant sans perdre une heure en voiture. Les Franciliens connaissent ces trajets par cœur. Pour un séjour de plusieurs jours, mieux vaut camper dans un secteur et explorer en rayonnement, en variant les ambiances selon la météo du jour."
+    },
+    {
+      "type": "h2",
+      "text": "Les circuits, une invention bleausarde"
+    },
+    {
+      "type": "p",
+      "html": "Le concept de circuit, on l'a inventé ici. Dans les années 1940, Fred Bernick a peint à la peinture des flèches reliant des blocs par difficulté homogène. L'idée a fait école et structure toujours la pratique. Tu suis une couleur du début à la fin, tu fais quarante blocs sans réfléchir au topo, tu enchaînes pour bosser le volume. C'est ce qui fait de Bleau un terrain d'entraînement aussi efficace. Aucun autre site mondial n'offre cette logique de parcours."
+    },
+    {
+      "type": "list",
+      "variant": "bullets",
+      "title": "Les principales couleurs et leur niveau",
+      "items": [
+        {"title": "Jaune (PD)", "body": "Pour les premières fois, parfait pour les enfants et les débutants adultes. Cotations 2 et 3."},
+        {"title": "Orange (AD)", "body": "Initiation sérieuse, niveau 3 et 4. Permet de se faire les bras sans se mettre en danger."},
+        {"title": "Bleu (D)", "body": "Le cœur de cible des intermédiaires, niveau 4 à 5 selon les sites."},
+        {"title": "Rouge (TD)", "body": "Niveau 5 à 6A, à partir de là il faut du physique et de la technique."},
+        {"title": "Noir (ED)", "body": "Niveau 6 à 7. Des classiques mythiques comme le noir du Bas Cuvier."},
+        {"title": "Blanc (ED+)", "body": "Réservé aux fortes. Niveau 7 et plus, blocs durs et engagés sur les hauts."}
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bleau N°1, un mythe à portée de mains"
+    },
+    {
+      "type": "p",
+      "html": "Le <strong>Bleau N°1</strong>, c'est le premier circuit bleu jamais tracé, ouvert en 1947 à Apremont. Aujourd'hui encore, faire le N°1 reste un passage obligé pour qui veut s'inscrire dans l'histoire du site. Quarante-deux blocs, trois heures d'effort, du 4 jusqu'au 5+. Quand je l'ai tenté à treize ans, j'ai craqué au numéro 28 sur une dalle en oppositions qui paraissait évidente. Le grès, c'est ça, l'humilité forcée et la révélation des défauts techniques."
+    },
+    {
+      "type": "p",
+      "html": "Beaucoup de circuits historiques sont entretenus par des bénévoles. L'<strong>ASOMIF</strong>, l'association des amis de la forêt, repeint les flèches et nettoie les approches. Le <strong>COSIROC</strong> coordonne avec l'<strong>ONF</strong> pour préserver l'accès et négocier les autorisations. Sans ce travail invisible, Bleau ne serait plus praticable. Pense à respecter les balisages, à ne pas tracer de nouveaux sentiers et à éviter de grimper sur le grès mouillé qui s'effrite et perd ses prises."
+    },
+    {
+      "type": "h2",
+      "text": "Saisonnalité et conditions idéales"
+    },
+    {
+      "type": "p",
+      "html": "On grimpe à Bleau toute l'année, mais pas avec la même efficacité. L'automne et l'hiver restent les saisons reines pour la pratique sérieuse. De novembre à mars, l'air froid et sec offre les meilleures conditions sur le grès, surtout après le passage d'un anticyclone. Le printemps reste correct jusqu'à mi-mai, ensuite la chaleur s'installe. L'été est rude pour grimper. Dès qu'il fait plus de vingt degrés, le rocher sue et la peau dégueule. Si tu viens en juillet, prévois des séances très matinales avant huit heures."
+    },
+    {
+      "type": "p",
+      "html": "Les meilleurs jours combinent une nuit fraîche autour de cinq degrés, un ciel dégagé et un vent du nord soutenu. Tu peux alors enchaîner des blocs que tu n'arrivais pas à tenir trois jours plus tôt. Les locaux planifient parfois des semaines à l'avance pour viser cette fenêtre. Cette obsession des conditions fait partie de la culture du site et explique pourquoi les forums de Bleau.info débordent de discussions météo."
+    },
+    {
+      "type": "tip",
+      "title": "Le piège du grès mouillé",
+      "body": "Ne grimpe jamais sur grès humide. Le rocher gorgé d'eau perd énormément de cohésion, les prises cassent et les pas s'effritent. Attends deux à trois jours après la pluie selon l'exposition et le vent. Les locaux le savent, c'est une règle de respect absolu pour préserver les blocs.",
+      "tone": "attention"
+    },
+    {
+      "type": "h2",
+      "text": "Faune et préservation, des cohabitations à connaître"
+    },
+    {
+      "type": "p",
+      "html": "La forêt de Fontainebleau abrite une biodiversité dense. Le faucon pèlerin niche sur certaines falaises de la zone sud, le hibou grand-duc apprécie les renfoncements rocheux. Des arrêtés de protection biotope ferment temporairement certains secteurs pendant la nidification, du <strong>15 février au 15 juin</strong>. Renseigne-toi avant de partir. Le respect de ces fermetures conditionne l'avenir de la pratique et la bonne entente avec les gestionnaires."
+    },
+    {
+      "type": "p",
+      "html": "Le piétinement aux pieds des blocs use les racines des pins. Pose ton crashpad sur la litière sans creuser. Évite les feux et les bivouacs sauvages. Sors tes déchets, y compris les peaux de banane et les mégots qui mettent des mois à se dégrader. Les Bleausards locaux sont attentifs à ces gestes, et c'est tant mieux. La pression touristique grandit chaque année et le site doit tenir sur la durée."
+    },
+    {
+      "type": "h2",
+      "text": "Pour commencer à grimper à Fontainebleau"
+    },
+    {
+      "type": "p",
+      "html": "Si tu débarques pour la première fois, oriente-toi vers des secteurs balisés et accessibles. Bas Cuvier reste l'entrée idéale, à dix minutes du parking, avec des circuits du jaune au rouge bien entretenus. Apremont propose un volume immense pour explorer plusieurs jours sans tourner en rond. Évite les approches longues le premier jour, tu finiras épuisé avant d'avoir grimpé. Sur les circuits, suis les flèches dans l'ordre, c'est le meilleur moyen d'apprendre le rocher progressivement."
+    },
+    {
+      "type": "p",
+      "html": "Pour la sécurité, un crashpad est indispensable. Deux ou trois, c'est mieux dès qu'on dépasse les blocs de trois mètres. Le pareur change tout. Apprends à parer correctement avant de tenter des sorties hautes. Les fractures de cheville ou de poignet à Bleau ne sont pas rares, et le grès ne pardonne pas les chutes mal contrôlées. Une bonne paire de chaussons un peu cintrés t'aidera sur les arêtes et les pieds précis."
+    },
+    {
+      "type": "p",
+      "html": "Tu peux approfondir avec les guides <a href=\"/blog/bleau-circuits-debutant\">circuits de Bleau pour débuter</a> et <a href=\"/blog/bleau-secteurs-incontournables\">secteurs incontournables de Bleau</a>. Pour comparer avec d'autres sites majeurs, va voir notre <a href=\"/blog/sites-escalade-emblematiques-france\">tour des sites emblématiques de France</a> ou plonge dans les <a href=\"/blog/verdon-grandes-voies\">grandes voies du Verdon</a>."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quel est le meilleur moment pour grimper à Fontainebleau ?",
+      "a": "De novembre à mars, quand l'air est froid et sec. L'automne offre souvent les conditions parfaites avec une lumière agréable. L'été est à éviter, sauf très tôt le matin avant que le rocher ne suinte."
+    },
+    {
+      "q": "Faut-il un topo papier ou une application suffit ?",
+      "a": "Les deux se complètent. L'application Boolder est idéale pour repérer les blocs et chercher par cotation. Le topo papier Bart van Raaij reste la référence pour planifier des circuits complets et garder une vue d'ensemble."
+    },
+    {
+      "q": "Où dormir près des sites d'escalade ?",
+      "a": "Le camping La Musardière à Milly-la-Forêt est central pour les Trois Pignons. Plusieurs gîtes existent à Arbonne et Achères-la-Forêt. Les hôtels à Fontainebleau ville conviennent si tu cherches plus de confort."
+    },
+    {
+      "q": "Comment venir à Bleau sans voiture ?",
+      "a": "Le train depuis Paris Gare de Lyon te dépose à Fontainebleau-Avon en quarante minutes. De là, le bus 1 dessert plusieurs secteurs comme Cuvier. Pour les Trois Pignons, prends le train jusqu'à Buno-Gironville et termine en vélo."
+    },
+    {
+      "q": "Le site est-il ouvert toute l'année ?",
+      "a": "La forêt reste accessible toute l'année. Certains secteurs ferment temporairement pour nidification du faucon pèlerin entre février et juin. Vérifie sur le site du COSIROC ou de l'ONF avant de partir."
+    },
+    {
+      "q": "Quelle cotation choisir pour mon premier circuit ?",
+      "a": "Si tu grimpes du 5 en salle, commence par un orange ou un bleu. Le grès demande de la lecture et de la technique, ne sois pas surpris de buter sur des blocs cotés en dessous de ton niveau habituel."
+    }
+  ],
+  "cover_alt": "Grimpeur sur un bloc de grès dans la forêt de Fontainebleau à l'automne",
+  "internal_links": [
+    {"slug": "bleau-circuits-debutant", "anchor": "circuits de Bleau pour débuter", "context": "Suite logique sur les circuits"},
+    {"slug": "bleau-secteurs-incontournables", "anchor": "secteurs incontournables de Bleau", "context": "Approfondissement par secteur"},
+    {"slug": "sites-escalade-emblematiques-france", "anchor": "tour des sites emblématiques de France", "context": "Pilier du cocon"},
+    {"slug": "verdon-grandes-voies", "anchor": "grandes voies du Verdon", "context": "Lien vers l'autre site mythique"}
+  ],
+  "scheduled_at": "2026-11-05T09:00:00+01:00"
+}

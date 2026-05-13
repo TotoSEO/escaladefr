@@ -1,0 +1,178 @@
+{
+  "slug": "verdon-grandes-voies",
+  "cocon": "sites",
+  "type_article": "guide",
+  "numero": 83,
+  "title": "Verdon : royaume des grandes voies en calcaire de haute Provence",
+  "h1": "Le Verdon, royaume des grandes voies",
+  "description": "Découvre le Verdon, ses gorges, ses grandes voies en calcaire et ses classiques comme Demande ou Pichenibule. Tout sur la grimpe en falaise dans le sud.",
+  "chapo": "Le Verdon, c'est une autre planète. Quatre cents mètres de calcaire vertical au-dessus d'une rivière turquoise, des voies historiques ouvertes dans les années 1970, une ambiance qui marque à vie. C'est là que la grande voie sportive est née en France. Je te raconte ce qu'il faut savoir avant de t'engager sur ces falaises mythiques, des classiques abordables aux monuments d'engagement.",
+  "takeaways": [
+    "Le Verdon abrite plus de 1500 voies réparties sur les rives nord et sud des gorges.",
+    "Les voies font de 50 à 400 mètres, du 5c au 9a, sur calcaire compact à pichoir.",
+    "Les classiques comme Demande, Pichenibule ou Eric et les Verrous restent des pèlerinages obligés.",
+    "L'accès se fait par rappel depuis le plateau ou par sentier pédestre selon les secteurs.",
+    "La période idéale court de mai à octobre, l'été reste éprouvant sur les voies exposées."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Pourquoi le Verdon reste un site unique"
+    },
+    {
+      "type": "p",
+      "html": "Le Verdon, c'est avant tout un lieu. La rivière a creusé des gorges profondes de 700 mètres dans le calcaire de haute Provence, dévoilant des parois compactes que les premiers grimpeurs ont commencé à explorer dans les années 1960. Quand tu arrives au-dessus du belvédère de la Maline pour la première fois, le vertige précède la grimpe. Tu regardes en bas, tu vois la rivière en filaments turquoise, et tu te dis que tu vas descendre là, en rappel, pour remonter par le rocher. Cette inversion est unique en France."
+    },
+    {
+      "type": "p",
+      "html": "Cette inversion logique, descendre pour monter, est la signature du Verdon. Beaucoup de voies ne s'attaquent pas depuis le sol mais depuis un rappel de 50 à 200 mètres qui te dépose à un relais intermédiaire. Tu te retrouves suspendu dans le vide, les pieds dans les chaussons, devant un rocher gris poli par le temps. La concentration que ça demande forge une grimpeur particulier, capable de gérer son engagement mental sur plusieurs heures."
+    },
+    {
+      "type": "h2",
+      "text": "Géologie et caractère du calcaire verdonais"
+    },
+    {
+      "type": "p",
+      "html": "Le calcaire des gorges du Verdon date du Jurassique. Il s'agit de couches sédimentaires déposées en milieu marin il y a environ 150 millions d'années, soulevées et fracturées par la formation des Alpes. La roche est compacte, dense, avec une patine brune en surface qui adhère bien. Les fissures verticales et horizontales créent des cheminements naturels, mais le calcaire reste souvent un rocher de réglettes, de pichoir ou de bacs ronds qu'il faut savoir lire."
+    },
+    {
+      "type": "p",
+      "html": "La particularité du Verdon réside dans ses panneaux compacts traversés par des fissures plates et des trous creusés par l'érosion. La roche peut être franchement lisse sur certaines parties, ce qui demande une grimpe en dalle précise et engagée. Sur d'autres voies, des dévers se présentent comme des cathédrales renversées. Ce mélange offre une variété rare en France, du tout dalle technique au tout déversé physique."
+    },
+    {
+      "type": "table",
+      "caption": "Fiche d'identité du site",
+      "headers": ["Critère", "Détail"],
+      "rows": [
+        ["Type de rocher", "Calcaire jurassique compact, panneaux et dalles"],
+        ["Discipline", "Grandes voies sportives, quelques voies trad"],
+        ["Cotations", "Du 5c au 9a, majorité entre 6b et 7b"],
+        ["Longueur des voies", "De 50 à 400 mètres, jusqu'à 12 longueurs"],
+        ["Période idéale", "Mai à octobre, l'été reste chaud sur certains secteurs"],
+        ["Accès", "La Palud-sur-Verdon, Aiguines, Castellane à proximité"],
+        ["Hébergement", "Gîtes à La Palud, camping municipal, refuges Bauchet et Mayreste"],
+        ["Topo", "Topo Sébastien Bohin, application La Pal grimpe"]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "La rive gauche, les classiques de La Palud"
+    },
+    {
+      "type": "p",
+      "html": "La rive gauche du Verdon, au nord, accueille les secteurs les plus connus. La Palud-sur-Verdon est le village de base, à 920 mètres d'altitude. Tu y trouves les gîtes, les commerces, le bar des grimpeurs où circulent les infos, les conditions et les anecdotes. Le belvédère de l'Escalès, du Duc et de la Demande donnent accès aux secteurs incontournables. La plupart des voies se font par rappel depuis le plateau."
+    },
+    {
+      "type": "p",
+      "html": "<strong>La Demande</strong>, ouverte en 1968 par Joël Coqueugniot et François Guillot, reste la voie symbolique du Verdon. Six longueurs en 6a max, sur un calcaire parfait, dans une ligne pure. Tu descends en rappel jusqu'au relais d'attaque, tu te poses, tu lèves les yeux et tu vois la suite. Six longueurs plus tard, tu retrouves le plateau, épuisé et conquis. C'est la voie d'introduction parfaite au Verdon, accessible aux grimpeurs solides du 6a."
+    },
+    {
+      "type": "p",
+      "html": "<strong>Pichenibule</strong> et ses voisines comme Mistic, ULA et Trans-Verdon, ouvertes par Bernard Gorgeon et Yves Aubailly dans les années 1970, sont les références du 6c et 7a. Pichenibule offre douze longueurs sur 400 mètres, avec des passages de dalle compacte qui obligent à une précision extrême. Beaucoup de Verdonneurs racontent leur première Pichenibule comme un moment fondateur."
+    },
+    {
+      "type": "h2",
+      "text": "La rive droite, l'envers du décor depuis Aiguines"
+    },
+    {
+      "type": "p",
+      "html": "La rive droite, au sud, autour d'Aiguines, offre une ambiance différente. Les falaises sont plus exposées au soleil, plus chaudes, mais aussi plus discrètes côté affluence. Les secteurs du Pas du Galetas, de Mayreste et de la Carelle offrent des voies souvent moins longues mais tout aussi engagées. C'est le terrain de jeu de ceux qui veulent fuir les foules de la rive gauche pendant les ponts de mai."
+    },
+    {
+      "type": "p",
+      "html": "Le village d'Aiguines est plus petit que La Palud mais conserve son authenticité. Tu y trouves un camping, quelques chambres d'hôtes et le café qui sert de point de ralliement le soir. Les voies de la rive droite s'attaquent souvent par le sentier pédestre, ce qui change l'approche psychologique. Tu marches une heure pour atteindre l'attaque, ce qui te laisse le temps d'oublier le quotidien et de te plonger dans la voie."
+    },
+    {
+      "type": "h2",
+      "text": "Eric et les Verrous, le pèlerinage des engagés"
+    },
+    {
+      "type": "p",
+      "html": "<strong>Eric et les Verrous</strong>, ouverte en 1979 par Patrick Berhault et Patrick Edlinger, marque l'arrivée du sport moderne dans le Verdon. Sept longueurs jusqu'au 7b, sur un calcaire parfait, dans la falaise de l'Escalès. La voie a fait basculer l'image du Verdon, de site d'aventure vers terrain de jeu sportif où les voies sont équipées, sécurisées et calculées. Edlinger en a fait le décor de Opéra Vertical en 1983, ce qui a définitivement gravé la voie dans l'histoire."
+    },
+    {
+      "type": "p",
+      "html": "Aujourd'hui, Eric et les Verrous reste un classique, mais l'équipement a vieilli. Vérifie sur les topos récents l'état des plaquettes et plante toi-même quelques nœuds de sécurité si tu doutes. Le matériel d'origine a été partiellement remplacé par l'<strong>Office du Tourisme du Verdon</strong> mais certains relais et points sont d'époque. C'est aussi ça le Verdon, un mélange de modernité et d'archéologie de la grimpe."
+    },
+    {
+      "type": "h2",
+      "text": "Saisonnalité et conditions sur les gorges"
+    },
+    {
+      "type": "p",
+      "html": "Le Verdon se grimpe principalement de mai à octobre. Les mois charnières, mai et juin, offrent les meilleures conditions, avec des températures douces, peu de vent et une luminosité parfaite. Juillet et août restent praticables mais imposent de partir tôt et de cibler les secteurs ombragés. Septembre et octobre redonnent du confort, avec la lumière dorée des fins de saison qui transforme le calcaire en or."
+    },
+    {
+      "type": "p",
+      "html": "L'hiver reste rude sur le plateau, avec des températures négatives et parfois de la neige. Quelques secteurs orientés sud comme la Carelle peuvent se grimper en plein hiver lors de fenêtres anticycloniques, mais c'est l'exception. Le calcaire mouillé devient gras et certaines fissures peuvent verglacer. Mieux vaut réserver le site à la belle saison et profiter de l'ambiance estivale."
+    },
+    {
+      "type": "tip",
+      "title": "Anticiper la chaleur estivale",
+      "body": "En juillet et août, vise les secteurs orientés nord ou abrités. La rive gauche en début de matinée, la rive droite en fin de soirée. Emporte trois litres d'eau minimum par grimpeur sur une grande voie de huit longueurs. Les insolations sont la cause numéro un des évacuations en haute saison.",
+      "tone": "attention"
+    },
+    {
+      "type": "h2",
+      "text": "Faune, environnement et restrictions"
+    },
+    {
+      "type": "p",
+      "html": "Les gorges du Verdon abritent une biodiversité riche, dont plusieurs espèces protégées. Le <strong>vautour fauve</strong>, réintroduit dans les années 1990, niche sur certaines parois. Le <strong>faucon pèlerin</strong> et le hibou grand-duc occupent aussi des cavités rocheuses. Des arrêtés de biotope ferment certains secteurs pendant la nidification, du <strong>1er février au 30 juin</strong> selon les zones. Renseigne-toi auprès du Parc naturel régional du Verdon avant de planifier."
+    },
+    {
+      "type": "p",
+      "html": "Le Verdon est classé Parc naturel régional, ce qui implique des règles strictes sur le bivouac, le ramassage et les feux. Respecte les zones de bivouac autorisées, sors tes déchets, n'allume pas de feu hors emplacements prévus. Le tourisme massif des gorges met une pression énorme sur le milieu, les grimpeurs doivent donner l'exemple par leur comportement exemplaire."
+    },
+    {
+      "type": "h2",
+      "text": "Pour commencer à grimper au Verdon"
+    },
+    {
+      "type": "p",
+      "html": "Si tu débarques pour la première fois, ne vise pas tout de suite Pichenibule ou Eric et les Verrous. Commence par des voies courtes et bien équipées pour t'habituer au calcaire et à l'engagement vertical. La Demande reste l'objectif raisonnable d'une première semaine, à condition que tu grimpes solidement le 6a en falaise. Avant, attaque par les écoles d'<strong>Aiguines</strong> ou les voies courtes du Pas du Galetas."
+    },
+    {
+      "type": "p",
+      "html": "Le matériel demande une attention particulière. Prévois deux brins de 70 mètres minimum pour les rappels d'accès, une dizaine de dégaines, un assortiment de coinceurs et friends pour compléter l'équipement sur certaines voies anciennes. Un descendeur autobloquant simplifie les rappels. La maîtrise des manœuvres en grande voie est non négociable. Si tu n'es pas à l'aise sur des relais multiples, prends un guide pour ta première sortie."
+    },
+    {
+      "type": "p",
+      "html": "Pour aller plus loin, consulte notre guide <a href=\"/blog/verdon-secteurs-rappel-acces\">accéder par rappel ou pédestre au Verdon</a>. Pour découvrir d'autres terrains, regarde notre <a href=\"/blog/sites-escalade-emblematiques-france\">tour des sites emblématiques de France</a> ou plonge dans <a href=\"/blog/fontainebleau-bloc-foret\">Fontainebleau, capitale mondiale du bloc</a> pour changer d'univers."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quel est le meilleur moment pour grimper au Verdon ?",
+      "a": "Mai, juin et septembre offrent les meilleures conditions. Juillet et août restent praticables tôt le matin ou sur les secteurs ombragés. Hors saison, le plateau peut être glacial et certaines voies humides."
+    },
+    {
+      "q": "Où dormir près des falaises ?",
+      "a": "La Palud-sur-Verdon concentre la majorité des gîtes et hôtels. Aiguines offre une ambiance plus calme. Le camping municipal de La Palud est apprécié des grimpeurs, et plusieurs refuges comme Bauchet ou Mayreste complètent les options."
+    },
+    {
+      "q": "Faut-il un guide pour la première sortie au Verdon ?",
+      "a": "Si tu n'as jamais fait de grande voie en falaise, oui. Le Verdon impose des manœuvres en rappel, des relais hauts perchés et un engagement mental fort. Un guide te fait gagner des années d'apprentissage et te sécurise."
+    },
+    {
+      "q": "Faut-il un topo papier ou une application suffit ?",
+      "a": "Les deux se complètent. Le topo Sébastien Bohin reste la référence imprimée. L'application La Pal grimpe te donne les voies en temps réel et les conditions. Sur place, le bar du gîte de La Palud reste la meilleure source d'infos fraîches."
+    },
+    {
+      "q": "Le site est-il ouvert toute l'année ?",
+      "a": "Certains secteurs ferment temporairement pour nidification du vautour fauve et du faucon pèlerin, généralement entre février et juin. La majorité des voies reste accessible le reste de l'année, météo permettante."
+    },
+    {
+      "q": "Quel niveau pour aborder le Verdon ?",
+      "a": "Solidement à l'aise dans le 6a en falaise, capable de gérer plusieurs longueurs et les manœuvres de relais. En dessous, vise les écoles d'Aiguines ou prends un guide pour les premières voies. Le 5c en grande voie reste rare sur les classiques."
+    }
+  ],
+  "cover_alt": "Grimpeur dans une grande voie du Verdon au-dessus des gorges et de la rivière turquoise",
+  "internal_links": [
+    {"slug": "verdon-secteurs-rappel-acces", "anchor": "accéder par rappel ou pédestre au Verdon", "context": "Suite logique sur l'accès"},
+    {"slug": "sites-escalade-emblematiques-france", "anchor": "tour des sites emblématiques de France", "context": "Pilier du cocon"},
+    {"slug": "fontainebleau-bloc-foret", "anchor": "Fontainebleau, capitale mondiale du bloc", "context": "Comparaison avec l'autre site mythique"},
+    {"slug": "ceuse-cathedrale-calcaire", "anchor": "Céüse, cathédrale du calcaire", "context": "Autre site calcaire emblématique"}
+  ],
+  "scheduled_at": "2026-11-12T09:00:00+01:00"
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "tirer-bras-jambes-grimpe",
+  "cocon": "techniques",
+  "type_article": "astuce",
+  "numero": 16,
+  "title": "Tirer avec les jambes, pousser avec les bras en escalade",
+  "h1": "Tirer avec les jambes, pousser avec les bras : la bascule mentale qui change tout",
+  "description": "Tirer avec les jambes et pousser avec les bras change ta grimpe. Voici comment Antoine a inversé sa logique en deux saisons et grimpé 6c puis 7a sans forcer.",
+  "chapo": "Tu te tires sur les bras dès la première prise et tu arrives à mi-voie cuit. Ce réflexe te coûte trois cotations. La bonne logique inverse : tu pousses avec les jambes pour monter, tes bras tiennent l'équilibre et changent de prise. Cette astuce détaille comment retrouver le bon transfert d'efforts, sentir le moment où tu bascules sur la jambe, et arrêter d'épuiser tes avant-bras avant le sommet.",
+  "takeaways": [
+    "Les jambes poussent et portent ton poids, les bras stabilisent et changent de prise.",
+    "Cherche le talon à hauteur de fesse pour engager la chaîne fessier-quadriceps.",
+    "Sur dalle et plaque, le bras gauche ne tire jamais quand la jambe gauche peut pousser.",
+    "Garde les coudes proches du corps pour activer le dos, pas les bras seuls.",
+    "Trois ans de mauvaise habitude se corrigent en huit semaines avec un coach attentif."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Pourquoi tu tires trop avec les bras"},
+    {"type": "p", "html": "Le réflexe vient de loin. Quand tu grimpais à un arbre enfant, tu te tractais sur les bras parce que tes jambes flottaient dans le vide. En salle, sur une voie 5a, tu reproduis ce schéma alors que <strong>les pieds touchent le mur en permanence</strong>. Tu perds 70 % de la puissance disponible. Tes avant-bras gonflent en trois minutes et tu lâches au crux."},
+    {"type": "p", "html": "J'ai mis deux ans à comprendre ça. Mes premiers 6a au gymnase Camille Sée se sont tous joués sur la dernière section, en bloquant un bras à 90 degrés pour cliper. Mon coach Pascal m'a filmé un jour et la vidéo m'a fait mal. Tout le corps en traction, aucune extension de jambe. Aujourd'hui je vois exactement le même schéma chez 80 % des grimpeurs qui plafonnent en 5c."},
+    {"type": "h2", "text": "La logique correcte du transfert d'effort"},
+    {"type": "p", "html": "Pense ton corps comme une grue. Tes jambes sont le mât porteur, tes hanches le pivot, tes bras la flèche qui se déplace. La grue ne lève pas avec sa flèche, elle lève avec son moteur et son mât. En escalade, <strong>la poussée vient des quadriceps et des fessiers</strong>, qui sont vingt fois plus puissants que tes biceps. Tes bras servent à orienter le corps et à passer d'une prise à l'autre, pas à grimper."},
+    {"type": "list", "variant": "checks", "title": "Trois signes que tu tires trop aux bras", "items": [
+      {"title": "Coudes ouverts vers l'extérieur", "body": "Quand tes coudes pointent latéralement, tu actives surtout le biceps et tu épuises l'avant-bras. Ramène-les près du corps, alignés avec les côtes."},
+      {"title": "Pieds qui décollent du mur", "body": "Si tes pieds vibrent ou se décrochent sans raison, c'est que tu ne pousses pas dessus. Tu te suspends à tes bras. Force-toi à appuyer les orteils, même sur des pieds inversés."},
+      {"title": "Avant-bras gonflés avant la moitié", "body": "Sur une voie de 12 mètres, si la pompe arrive avant le 4e mètre, tu grimpes uniquement aux bras. Une voie de 5b devrait passer sans pompe sensible jusqu'au relais."}
+    ]},
+    {"type": "h2", "text": "L'exercice du pied silencieux"},
+    {"type": "p", "html": "Voici l'exercice qui m'a fait basculer en 2015. Tu grimpes une voie de deux cotations sous ton niveau, en imposant que <strong>chaque pied se pose sans bruit</strong>. Pas de tape, pas de glissade. Tu te concentres sur l'orteil qui se positionne, puis tu transfères le poids dessus en cherchant l'extension de la jambe. Tes bras restent souples, presque tendus, juste pour l'équilibre."},
+    {"type": "p", "html": "Fais trois voies comme ça en début de séance, deux fois par semaine pendant un mois. Tu sentiras une différence radicale sur ton niveau habituel. C'est la même logique que <a href=\"/blog/poser-pieds-escalade-placement\">le placement de pieds précis</a>, mais avec un focus poussée verticale plutôt que adhérence."},
+    {"type": "h2", "text": "Pousser sur dalle, pousser en dévers"},
+    {"type": "p", "html": "Sur dalle légèrement positive jusqu'à 80 degrés, la poussée se fait en extension simple. Tu mets le pied sur une prise, tu te redresses comme tu te lèves d'une chaise basse. Tes bras gardent une légère flexion, juste pour ne pas verrouiller les épaules. Le corps reste collé au mur, le bassin proche de la paroi."},
+    {"type": "p", "html": "En dévers à 110-130 degrés, la mécanique change. Tu ne peux plus pousser à la verticale, tu pousses en oblique. La technique signature s'appelle la <strong>lolotte</strong> ou la rotation de hanche, qui te permet de coller le bassin au mur malgré l'inclinaison négative. Tu peux lire la <a href=\"/blog/rotation-pivot-escalade\">grammaire des hanches</a> qui détaille ce mouvement clé."},
+    {"type": "h2", "text": "Le rôle réel des bras"},
+    {"type": "p", "html": "Tes bras ont trois fonctions, pas une. Premièrement, ils tiennent ton centre de gravité contre la paroi. Deuxièmement, ils changent de prise quand le corps a basculé sur le nouveau pied. Troisièmement, ils stabilisent dans les sections où tu lâches une main pour cliper, magnésier, ou repérer. Aucune de ces fonctions n'est une traction de musculation."},
+    {"type": "quote", "text": "Tes bras sont des suspenseurs, pas des moteurs. Le moteur, c'est le bassin et les fessiers.", "author": "Antoine", "role": "rédacteur de cette page, grimpeur depuis 2013"},
+    {"type": "h2", "text": "Quand on tire vraiment avec les bras"},
+    {"type": "p", "html": "Il existe des moments où tu tires vraiment, sans alternative. Sur un toit horizontal, en dévers extrême au-delà de 150 degrés, ou sur certains mouvements de bloc avec deux mains et une seule prise pied basse. Là, tu actives le grand dorsal et tu réalises un mouvement proche de la traction. Mais ces moments représentent moins de 10 % d'une voie de 6b classique. Le reste se grimpe avec les jambes."},
+    {"type": "p", "html": "C'est pour ça qu'un grimpeur 7a moyen n'a pas forcément de gros bras. Va voir Adam Ondra ou Charles Albert : silhouettes filiformes, énormes fessiers cachés sous le short. La force se trouve dans la chaîne postérieure et les hanches, pas dans la masse des biceps."},
+    {"type": "h2", "text": "Corriger une mauvaise habitude installée"},
+    {"type": "p", "html": "Si tu grimpes depuis deux ans en tirant aux bras, le réflexe est ancré dans ton système nerveux. La correction demande huit à douze semaines de travail conscient. Le plus efficace : filme-toi sur deux voies à chaque séance, regarde la vidéo le soir, repère trois moments où tu aurais pu pousser et où tu as tiré. La semaine suivante, tu cibles ces moments précis. C'est plus rapide que mille répétitions aveugles."},
+    {"type": "p", "html": "Pense aussi à ta <a href=\"/blog/lecture-voie-strategie\">lecture de voie</a> avant de partir. Si tu repères les pieds porteurs au sol, tu sais d'avance où tu vas pousser. La bascule se prépare mentalement avant même de toucher la première prise. C'est la différence entre un grimpeur qui réfléchit sur la prise et un grimpeur qui réfléchit avant la prise."}
+  ],
+  "faq": [
+    {"q": "Pourquoi mes avant-bras gonflent même sur des voies faciles ?", "a": "Parce que tu suspends ton poids sur les bras au lieu de le porter sur les jambes. Sur une voie 5a, tes avant-bras ne devraient quasiment pas travailler. Filme-toi : tu verras tes coudes ouverts et tes pieds qui ne poussent pas. Corrige la posture avant de chercher à grimper plus fort."},
+    {"q": "Faut-il vraiment garder les bras tendus tout le temps ?", "a": "Pas tendus complètement, mais relâchés. Un bras tendu verrouille l'épaule et fait reposer le poids sur l'articulation, pas sur le muscle. Garde une légère flexion, environ 20 à 30 degrés, juste pour rester en contrôle sans gaspiller d'énergie."},
+    {"q": "Est-ce que la muscu aide à mieux pousser avec les jambes ?", "a": "Oui, le travail de chaise au mur, les fentes et les squats lestés améliorent la chaîne fessier-quadriceps. Mais avant de muscler, corrige ta technique. Beaucoup de grimpeurs forts mais raides plafonnent en 6c parce qu'ils n'utilisent pas leur force au bon moment."},
+    {"q": "Comment savoir si je pousse correctement sur un talon ?", "a": "Quand le talon est bien posé, tu sens le mollet et l'ischio-jambier qui tirent vers ton fessier. Si tu sens uniquement le quadriceps avant de la cuisse, c'est que ta hanche est trop reculée. Tu peux approfondir avec <a href=\"/blog/crochet-talon-bloc\">la technique du crochet de talon</a>."},
+    {"q": "En dalle, faut-il aussi pousser ou c'est différent ?", "a": "C'est exactement le même principe, encore plus marqué. En dalle, tes bras ne servent quasi à rien, juste à l'équilibre. Toute la grimpe se joue sur la poussée des jambes et le placement précis du pied sur de petits cristaux ou trous. Va voir <a href=\"/blog/dalle-escalade-techniques\">les techniques de dalle</a>."},
+    {"q": "Combien de temps pour changer ce réflexe en profondeur ?", "a": "Compte deux mois de travail conscient à raison de deux séances par semaine, avec auto-vidéo régulière. Le réflexe ancien remontera sous fatigue ou stress, mais tu sauras le détecter. C'est la même logique que corriger une frappe au tennis ou un appui en course à pied."}
+  ],
+  "cover_alt": "Un grimpeur en short noir et chaussons rouges en pleine extension de jambe sur une voie de bloc en salle, bras relâché et corps aligné, prises orange et bleues",
+  "internal_links": [
+    {"slug": "apprendre-escalade-debutant-2026", "anchor": "apprendre l'escalade en 2026", "context": "Pilier général du cocon"},
+    {"slug": "poser-pieds-escalade-placement", "anchor": "le placement de pieds précis", "context": "Technique soeur essentielle"},
+    {"slug": "rotation-pivot-escalade", "anchor": "grammaire des hanches", "context": "Approfondissement du mouvement de bassin"},
+    {"slug": "crochet-talon-bloc", "anchor": "la technique du crochet de talon", "context": "Application avancée de la poussée"},
+    {"slug": "lecture-voie-strategie", "anchor": "lecture de voie", "context": "Préparation mentale avant le grimper"},
+    {"slug": "dalle-escalade-techniques", "anchor": "les techniques de dalle", "context": "Cas particulier sur paroi positive"}
+  ],
+  "scheduled_at": "2026-06-09T09:00:00+02:00"
+}

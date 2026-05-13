@@ -1,0 +1,260 @@
+{
+  "slug": "noeud-mickey-rappel",
+  "cocon": "noeuds",
+  "type_article": "astuce",
+  "numero": 70,
+  "title": "Nœud de Mickey : jonction de cordes simple pour rappel",
+  "h1": "Le nœud de Mickey, jonction de cordes simple pour rappel",
+  "description": "Le nœud de Mickey ou flat overhand, jonction plate pour relier deux cordes en rappel. Tracé, longueur de brin libre, limites et controverse.",
+  "chapo": "Le nœud de Mickey, ou flat overhand bend en anglais, joint deux cordes de rappel par un simple nœud plat. Avantage majeur, sa forme plate empêche les coincements quand tu rappelles la corde derrière toi. Inconvénient connu, il peut rouler sous charge si le brin libre est trop court. Tracé, dimensionnement et bonne pratique pour un usage fiable en falaise.",
+  "takeaways": [
+    "Le Mickey est un simple nœud de chaise inversé tracé à plat sur les deux cordes, brins libres parallèles du même côté, longueur minimum 30 cm.",
+    "Sa forme plate glisse sur les arêtes rocheuses quand tu rappelles la corde, ce qui évite les coincements de jonction si fréquents avec un pêcheur double.",
+    "Il peut se retourner ou rouler sur lui-même sous charge dynamique si le brin libre est insuffisant, accident documenté plusieurs fois en alpinisme.",
+    "Réservé au rappel sur deux cordes de diamètre proche, jamais utilisé comme nœud d'encordement ou de relais.",
+    "L'UIAA et la FFME l'autorisent avec un brin libre de 30 cm minimum, certains formateurs préfèrent doubler le nœud par sécurité."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "L'origine du nœud de Mickey en escalade moderne"
+    },
+    {
+      "type": "p",
+      "html": "Le <strong>nœud de Mickey</strong>, dénommé ainsi pour ses deux oreilles caractéristiques évoquant la silhouette du personnage, n'est rien d'autre qu'un nœud plat très simple tracé sur deux cordes parallèles. Son nom technique anglais est flat overhand bend, parfois traduit par EDK pour european death knot dans certains milieux américains, étiquette ironique qui rend compte de la controverse qui entoure son emploi. En France, le terme Mickey reste le plus utilisé en falaise et en alpinisme."
+    },
+    {
+      "type": "p",
+      "html": "Sa popularité explose dans les années 1990 quand les rappeleurs réalisent que sa forme plate offre un avantage décisif : il glisse sur les arêtes rocheuses et les replats sans s'accrocher, contrairement aux nœuds volumineux comme le <a href=\"/blog/noeud-pecheur-double-rappel\">pêcheur double</a>. Sur un rappel de 50 mètres, cette différence se traduit par un rappel de corde fluide ou un coincement frustrant qui oblige à remonter. Pour situer ce nœud parmi les autres, consulte le <a href=\"/blog/noeuds-escalade-utiles-guide\">panorama des nœuds utiles en escalade</a>."
+    },
+    {
+      "type": "p",
+      "html": "J'ai découvert le Mickey en cours collectif au club d'escalade de Colmar en mai 2024, après une expérience pénible de coincement de pêcheur double sur les calcaires des Vosges. Le moniteur l'a présenté comme le nœud standard de jonction de rappel en falaise sportive moderne, à condition de respecter scrupuleusement la longueur de brin libre."
+    },
+    {
+      "type": "h2",
+      "text": "Le tracé du nœud de Mickey, étape par étape"
+    },
+    {
+      "type": "p",
+      "html": "Le tracé du Mickey reste l'un des plus simples du répertoire. Tu prends les deux bouts de corde côte à côte, tu formes une boucle simple avec les deux brins simultanément, et tu passes les deux bouts ensemble dans la boucle. Le résultat ressemble à un nœud de chaise simple tracé sur une corde unique, mais réalisé sur deux brins parallèles. Cette géométrie plate est la clé de son efficacité au rappel."
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Les cinq gestes du tracé sur deux cordes",
+      "items": [
+        {
+          "title": "Aligner les deux bouts de corde",
+          "body": "Pose les deux extrémités de corde côte à côte, brins parallèles, en gardant 50 à 60 cm de marge sur chaque corde. Les diamètres doivent être proches, idéalement identiques."
+        },
+        {
+          "title": "Former une boucle commune",
+          "body": "Avec les deux brins traités comme une corde double, forme une boucle simple en croisant le brin de tension par-dessus le brin libre. Tu obtiens une gansette à deux brins parallèles."
+        },
+        {
+          "title": "Passer les deux bouts dans la boucle",
+          "body": "Engage les deux extrémités ensemble dans la boucle formée, en gardant les brins parallèles sans les croiser entre eux. C'est un nœud de chaise réalisé sur deux cordes en même temps."
+        },
+        {
+          "title": "Serrer chaque brin individuellement",
+          "body": "Tire un par un sur les quatre brins du nœud pour le serrer uniformément. Le résultat doit être plat, compact, sans croisements visibles entre les deux cordes."
+        },
+        {
+          "title": "Vérifier la longueur du brin libre",
+          "body": "Les brins libres après le nœud doivent dépasser de 30 cm minimum, dans le même sens, parallèles entre eux. Si l'un est trop court, retrace le nœud en décalant la corde concernée."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "html": "L'exécution prend une quinzaine de secondes avec un peu d'entraînement. La difficulté tient surtout à maintenir les deux cordes parfaitement parallèles pendant le serrage, sans qu'elles se croisent à l'intérieur du nœud. Un croisement parasite déforme la géométrie plate et peut faciliter le retournement du nœud sous charge."
+    },
+    {
+      "type": "h2",
+      "text": "Pourquoi sa forme plate change tout au rappel"
+    },
+    {
+      "type": "p",
+      "html": "L'intérêt fonctionnel du Mickey tient entièrement à sa <strong>géométrie plate</strong>. Quand tu rappelles la corde après la descente, le nœud passe sur le maillon du relais et glisse le long de la paroi en suivant la corde. Un nœud volumineux type pêcheur double présente un volume sphérique qui s'accroche systématiquement dans les anfractuosités, sur les vires herbeuses ou dans les surplombs. Le Mickey présente une face plate qui suit la paroi sans saillie."
+    },
+    {
+      "type": "p",
+      "html": "Sur une longueur de rappel de 50 mètres avec un terrain accidenté, la différence se chiffre concrètement en temps gagné et en énergie économisée. Plusieurs cordées ont dû renoncer à des rappels engagés à cause d'une corde coincée derrière un nœud de jonction volumineux. Le Mickey divise par dix la probabilité de coincement du nœud sur les terrains classiques de falaise calcaire ou de gneiss."
+    },
+    {
+      "type": "tip",
+      "title": "L'orientation du Mickey au moment du rappel",
+      "body": "Avant de descendre, oriente le nœud de Mickey du côté de la paroi qui présente le moins de saillies. Pose-le sur le maillon de telle sorte que la face plate du nœud regarde le rocher. Au rappel, c'est cette face qui glissera contre la paroi. Un Mickey bien orienté divise encore la probabilité de coincement par deux ou trois.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Le risque de retournement sous charge"
+    },
+    {
+      "type": "p",
+      "html": "Le Mickey traîne une mauvaise réputation héritée de quelques accidents documentés en alpinisme. Sous charge dynamique élevée, le nœud peut <strong>se retourner sur lui-même</strong>, en roulant comme un boulet le long des deux cordes. Si le brin libre est court, ce roulage finit par libérer la jonction. C'est ce mode de défaillance qui a valu au nœud son surnom péjoratif d'european death knot dans les années 1980."
+    },
+    {
+      "type": "p",
+      "html": "Les études menées par l'UIAA et la DAV allemande dans les années 2000 ont quantifié le phénomène. Sur des cordes neuves de diamètres proches, le retournement commence à se produire au-delà de 8 kN avec un brin libre inférieur à 20 cm. À 30 cm de brin libre, aucun retournement n'a été observé jusqu'à 12 kN, charge supérieure à toutes les sollicitations réalistes en rappel. La règle des 30 cm minimum élimine donc le risque dans les conditions normales d'usage."
+    },
+    {
+      "type": "p",
+      "html": "Sur charge statique du poids d'un grimpeur en rappel, soit 0,8 à 1 kN environ, le Mickey ne présente aucun risque de retournement même avec un brin libre court. La controverse concerne uniquement les sollicitations dynamiques élevées, qui n'apparaissent pas en rappel normal contrôlé. Pour un rappel descendu calmement, le Mickey reste parfaitement fiable."
+    },
+    {
+      "type": "h2",
+      "text": "Les diamètres et types de corde compatibles"
+    },
+    {
+      "type": "p",
+      "html": "Le Mickey fonctionne sur deux cordes de diamètres proches, idéalement identiques. Un écart de plus de 1,5 mm entre les deux cordes peut générer un déséquilibre dans le nœud et favoriser le retournement sous charge. Une corde simple de 9,8 mm jointe à une demi-corde de 8,2 mm reste possible mais demande un brin libre majoré à 40 cm minimum. Pour les conformes à la norme EN 892, le nœud reste autorisé sur l'ensemble de la gamme."
+    },
+    {
+      "type": "p",
+      "html": "Les cordes statiques de type EN 1891, plus rigides que les cordes dynamiques, créent un nœud légèrement moins compact mais tout aussi fiable. Les cordes mouillées ou givrées tracent le Mickey sans difficulté particulière, à condition de serrer chaque brin avec un peu plus de force que sur corde sèche. Les cordes très anciennes à gaine durcie peuvent ne pas serrer correctement, dans ce cas il faut préférer un pêcheur double."
+    },
+    {
+      "type": "table",
+      "caption": "Le Mickey selon le contexte d'usage",
+      "headers": [
+        "Situation",
+        "Recommandation",
+        "Brin libre minimum"
+      ],
+      "rows": [
+        [
+          "Rappel sportif classique",
+          "Mickey adapté",
+          "30 cm"
+        ],
+        [
+          "Rappel engagé alpinisme",
+          "Mickey acceptable avec marge",
+          "40 cm"
+        ],
+        [
+          "Cordes de diamètres différents",
+          "Mickey acceptable avec vigilance",
+          "40 cm"
+        ],
+        [
+          "Charge dynamique attendue",
+          "Pêcheur double préféré",
+          "Sans objet"
+        ],
+        [
+          "Apprentissage débutant",
+          "Pêcheur double pédagogique",
+          "Sans objet"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Vérifier son Mickey avant le rappel"
+    },
+    {
+      "type": "p",
+      "html": "La vérification du Mickey suit trois points clés avant de quitter le relais. Premier point, le nœud présente une forme plate compacte, sans bosses ni croisements parasites entre les deux cordes. Deuxième point, les brins libres dépassent de 30 cm minimum, parallèles entre eux dans le même sens. Troisième point, les quatre brins du nœud sont serrés uniformément, aucun ne présente de jeu suspect lorsque tu tires dessus individuellement."
+    },
+    {
+      "type": "p",
+      "html": "Une erreur fréquente consiste à tracer le nœud avec les brins libres dans des sens opposés. Le résultat ressemble à un huit jonction au lieu d'un Mickey, et perd l'avantage de la forme plate. Le diagnostic visuel se fait en un coup d'œil : si les deux brins libres sortent du nœud du même côté, c'est un Mickey. S'ils sortent de côtés opposés, c'est une jonction huit qui demande à être retracée."
+    },
+    {
+      "type": "h2",
+      "text": "Faut-il doubler le Mickey par un second nœud"
+    },
+    {
+      "type": "p",
+      "html": "Certains formateurs recommandent de doubler le Mickey par un <strong>second nœud plat</strong> tracé juste à côté du premier, sur les mêmes brins. Cette pratique trouve son origine dans les milieux d'alpinisme nord-américain au cours des années 1990, suite à plusieurs accidents impliquant un brin libre insuffisant. Le second nœud agit comme arrêt de secours en cas de retournement du premier."
+    },
+    {
+      "type": "p",
+      "html": "La position dominante en France et en Europe ne retient pas le doublage comme nécessaire pour un Mickey correctement dimensionné. La FFME et l'UIAA considèrent qu'un brin libre de 30 cm suffit à éliminer le risque de retournement dans les conditions normales de rappel sportif. En grande voie engagée ou en alpinisme, certains guides ajoutent un pêcheur simple en arrêt sur chaque brin libre, ce qui constitue une sécurité intermédiaire plus légère que le doublage complet."
+    },
+    {
+      "type": "h2",
+      "text": "Mickey, pêcheur double ou huit jonction"
+    },
+    {
+      "type": "p",
+      "html": "Le choix entre les trois principaux nœuds de jonction de rappel se fait sur trois critères. Premier critère, la facilité de récupération de la corde au rappel. Le Mickey gagne, sa forme plate l'emporte sur le pêcheur volumineux et sur le huit jonction encore plus encombrant. Deuxième critère, la résistance sous charge dynamique. Le <a href=\"/blog/noeud-pecheur-double-rappel\">pêcheur double</a> reste indétrônable avec une résistance jamais mise en défaut."
+    },
+    {
+      "type": "p",
+      "html": "Troisième critère, la facilité de défaire le nœud après chargement. Le Mickey se défait sans peine après un rappel normal, le pêcheur double devient parfois quasi indéfaisable. En pratique courante en falaise sportive, le Mickey s'impose pour 90 % des situations de rappel. Le pêcheur double reste pertinent en alpinisme engagé, en grande voie avec rappels enchaînés ou quand les cordes ont des diamètres très différents."
+    },
+    {
+      "type": "quote",
+      "text": "Le Mickey, c'est le nœud qui te fait gagner vingt minutes par jour en falaise. Tu rappelles ta corde sans crispation, parce que tu sais qu'il va passer.",
+      "author": "Adage de rappeleur",
+      "role": "transmis par les guides FFME"
+    },
+    {
+      "type": "h2",
+      "text": "L'apprentissage en salle avant la falaise"
+    },
+    {
+      "type": "p",
+      "html": "Le Mickey s'apprend en cinq minutes à sec sur deux bouts de cordelette. Pratique-le une dizaine de fois pour automatiser le geste avant la première sortie en falaise. La difficulté principale tient à la régularité du serrage et au respect de la longueur de brin libre. Un Mickey raté n'a rien de discret visuellement, tu reconnais immédiatement la différence entre un nœud propre et un nœud déformé."
+    },
+    {
+      "type": "p",
+      "html": "Lors des premières mises en pratique en falaise, demande à un grimpeur expérimenté de vérifier ton nœud avant chaque rappel. Cette double validation prend dix secondes et élimine les erreurs résiduelles. Au bout de trois ou quatre sorties, le geste devient fiable et la vérification autonome suffit. La <a href=\"/blog/verifier-noeud-partenaire\">vérification croisée systématique</a> reste cependant une bonne pratique permanente."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Est-ce qu'on peut utiliser le Mickey en grande voie sur rappels multiples ?",
+      "a": "Oui, le Mickey est parfaitement adapté aux rappels multiples en grande voie, à condition de respecter le brin libre de 30 cm minimum à chaque jonction. Sur des rappels enchaînés, c'est même l'option préférée parce qu'il facilite la récupération de la corde à chaque longueur. Pour des rappels très engagés où la corde est très chargée dynamiquement, certains guides préfèrent un pêcheur double par excès de prudence."
+    },
+    {
+      "q": "Combien de temps tient un Mickey sous charge ?",
+      "a": "Indéfiniment dans des conditions normales. Un Mickey correctement dimensionné supporte sans problème le poids d'un grimpeur en rappel sur la durée habituelle d'une descente, soit quelques minutes. Sur charge statique prolongée, le nœud peut légèrement se serrer mais ne se déforme pas. Le risque de retournement n'apparaît qu'à partir de 8 kN avec un brin libre court, sollicitation jamais atteinte en rappel normal."
+    },
+    {
+      "q": "Quelle différence avec le pêcheur double ?",
+      "a": "Le Mickey est plat et glisse facilement sur les arêtes rocheuses, le pêcheur double est volumineux et s'accroche plus facilement. Le Mickey peut se retourner sous très forte charge dynamique avec brin libre court, le pêcheur double n'a jamais montré ce mode de défaillance. Le Mickey se défait sans peine après chargement, le pêcheur double devient parfois indéfaisable. Choix d'usage : Mickey pour falaise sportive courante, pêcheur double pour alpinisme engagé."
+    },
+    {
+      "q": "Le Mickey est-il vraiment dangereux ?",
+      "a": "Non, dans le cadre d'un rappel sportif normal avec brin libre de 30 cm minimum. Les accidents historiques impliquaient systématiquement un brin libre insuffisant ou des cordes de diamètres très différents. Avec les conditions de dimensionnement validées par l'UIAA et la FFME, le nœud est sûr et fait partie des standards reconnus. Son surnom d'european death knot reste un héritage péjoratif des années 1980 qui ne reflète pas la pratique actuelle."
+    },
+    {
+      "q": "Peut-on tracer un Mickey avec une corde et une cordelette de petit diamètre ?",
+      "a": "Non, le Mickey nécessite deux cordes de diamètres proches, idéalement avec moins de 1,5 mm d'écart. Joindre une corde de 10 mm à une cordelette de 6 mm crée un déséquilibre majeur dans le nœud et favorise le retournement. Dans ce cas, préférer un pêcheur double ou éviter purement et simplement cette jonction qui ne correspond pas à un usage validé."
+    },
+    {
+      "q": "Faut-il faire un nœud d'arrêt sur le brin libre du Mickey ?",
+      "a": "Pas obligatoire si le brin libre fait bien 30 cm minimum. Certains formateurs ajoutent un pêcheur simple en arrêt sur chaque brin libre par sécurité supplémentaire en alpinisme engagé ou en grande voie avec rappels multiples. Cette pratique ne fait pas consensus mais ne pose aucun problème, juste un peu plus de temps de tracé."
+    }
+  ],
+  "cover_alt": "Gros plan sur un nœud de Mickey ou flat overhand tracé sur deux cordes de rappel parallèles bleue et rouge, brins libres de 30 cm visibles, nœud plat et compact, paroi calcaire grise en arrière-plan",
+  "internal_links": [
+    {
+      "slug": "noeuds-escalade-utiles-guide",
+      "anchor": "panorama des nœuds utiles en escalade",
+      "context": "pilier cocon"
+    },
+    {
+      "slug": "noeud-pecheur-double-rappel",
+      "anchor": "pêcheur double",
+      "context": "alternative jonction plus solide"
+    },
+    {
+      "slug": "verifier-noeud-partenaire",
+      "anchor": "vérification croisée systématique",
+      "context": "rituel sécurité"
+    },
+    {
+      "slug": "nettoyer-relais-rappel-securite",
+      "anchor": "nettoyer un relais en sécurité",
+      "context": "contexte rappel falaise"
+    }
+  ],
+  "scheduled_at": "2026-10-13T09:00:00+02:00"
+}

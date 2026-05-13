@@ -1,0 +1,69 @@
+{
+  "slug": "grimper-en-tete-premiere-fois",
+  "cocon": "techniques",
+  "type_article": "guide",
+  "numero": 12,
+  "title": "Passer en tête en escalade, comment franchir le cap",
+  "h1": "Grimper en tête pour la première fois, comment franchir le cap mental et technique",
+  "description": "Passer en tête en escalade : préparation mentale, clippage, gestion du vol, choix de la voie. La méthode pour franchir le cap sans se mettre en danger.",
+  "chapo": "Grimper en tête, c'est le passage qui sépare le pratiquant occasionnel du grimpeur autonome. Tu passes de la corde déjà installée en haut à une corde que tu portes avec toi et que tu accroches dégaine après dégaine. Ce guide reprend la méthode pour franchir le cap sans risque inutile : la voie idéale, le premier vol, la communication, les pièges classiques.",
+  "takeaways": [
+    "Choisis une voie deux niveaux en dessous de ton max moulinette, pas ton max.",
+    "Le premier vol contrôlé se fait sur la troisième ou quatrième dégaine, jamais en bas.",
+    "Clippe en équilibre, pas en suspension à un bras, et ne tire pas le brin entre les dents.",
+    "L'assureur en tête bouge constamment, donne du mou ou ravale selon le geste.",
+    "Le mental se travaille progressivement, pas en un soir, prévois cinq à dix séances dédiées."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Tête contre moulinette, ce qui change vraiment"},
+    {"type": "p", "html": "En tête, la corde monte avec toi. Tu démarres au sol avec elle attachée à ton baudrier, et tu la passes dans chaque dégaine au fur et à mesure. Avant de clipper la première dégaine, tu n'es pas assuré. Entre deux clippages, tu peux faire un <strong>vol égal à deux fois la hauteur</strong> depuis le dernier point. C'est la différence majeure avec la moulinette, où tu ne fais quasiment pas de vol. Cette mécanique du vol potentiel change tout l'engagement physique et mental de la grimpe."},
+    {"type": "p", "html": "Tu passes aussi de spectateur à acteur de la trajectoire de la corde. Mal clippé, mal placé, tu peux te retrouver dans une situation appelée 'clip dangereux' où ta jambe se trouve derrière la corde. Si tu chutes dans cette configuration, la corde te retourne en arrière, tête en bas. C'est rare mais c'est arrivé à des grimpeurs expérimentés. Pour cette raison, on n'attaque pas le passage en tête sans avoir <a href=\"/blog/grimper-en-moulinette\">consolidé sa moulinette</a> sur des dizaines de voies."},
+    {"type": "h2", "text": "Quand passer en tête, pas avant"},
+    {"type": "p", "html": "Trois conditions doivent être réunies. Tu enchaînes <strong>50 voies de 5c en moulinette</strong> sans tomber et sans fatigue excessive. Tu sais assurer en moulinette de manière fluide. Et tu as testé une ou deux chutes contrôlées en moulinette pour apprivoiser la sensation du vol. Sans ces trois acquis, le passage en tête est prématuré. Beaucoup de débutants veulent franchir le cap après deux mois, le résultat est une voie où ils paniquent au deuxième clip et passent une heure à 4 mètres du sol."},
+    {"type": "p", "html": "Côté assurage, tu as la même exigence. Avant de partir en tête, ton partenaire doit avoir validé son passeport tête en salle (test indépendant du badge moulinette), ou avoir grimpé en tête lui-même 30 à 50 voies. L'assurage en tête réclame plus de mobilité, plus d'anticipation, et un sens du dosage que la moulinette ne demande pas. <a href=\"/blog/clipper-degaine-tete\">Le geste de clippage</a> mérite à lui seul une préparation dédiée."},
+    {"type": "h2", "text": "Choisir la première voie en tête"},
+    {"type": "p", "html": "La règle classique : la première voie en tête se fait <strong>deux niveaux en dessous</strong> de ton max moulinette. Si tu fais du 6a tranquille en moulinette, tu pars en tête en 5a. Si tu fais du 5c, tu pars en 4. Ça paraît facile, c'est volontaire. L'objectif n'est pas de performer, c'est de t'occuper exclusivement du clippage et de la gestion de la corde, pas du mouvement. Une voie trop dure t'oblige à choisir entre la grimpe et le clip, mauvaise équation."},
+    {"type": "tip", "title": "Le piège du 'je sens que je peux'", "body": "Beaucoup veulent partir en tête sur leur niveau habituel parce qu'ils se sentent capables. Erreur. Le cerveau réserve une partie de son attention au vol potentiel, et ça consomme de l'énergie pour rien. Reste sous ton niveau pendant 10 à 15 voies en tête, puis remonte progressivement.", "tone": "erreur"},
+    {"type": "p", "html": "Choisis aussi une voie dont le profil te rassure : plutôt verticale, sans dévers marqué, avec des dégaines pas trop espacées. En salle, les voies dites 'tête débutante' sont parfois signalées par une étiquette dédiée. Sinon, repère une voie où les points sont régulièrement espacés de 1,5 à 2 mètres, avec une dégaine accessible depuis une bonne prise de main. Tu peux <a href=\"/blog/lecture-voie-strategie\">lire la voie avant de grimper</a> pour identifier les zones de repos et les points clés."},
+    {"type": "h2", "text": "Le premier vol contrôlé : étape obligatoire"},
+    {"type": "p", "html": "Une fois ta première voie en tête réussie, tu dois prévoir un exercice spécifique : le vol contrôlé. Sur une voie facile, tu grimpes jusqu'au troisième ou quatrième point, tu clippes, tu remontes 30 cm au-dessus du clip, et tu lâches. Le but n'est pas de te faire mal, c'est d'enregistrer la sensation du vol et de la rattrape. La première fois, ton corps va vouloir te ramener sur la voie. Force-le à lâcher. Cette étape s'appelle <a href=\"/blog/chuter-en-grimpe-apprentissage\">l'apprentissage de la chute</a> et c'est un sujet à part entière."},
+    {"type": "quote", "text": "Le grimpeur qui n'a jamais volé volontairement n'osera jamais vraiment grimper à son niveau en tête. Le vol contrôlé débloque tout.", "author": "Antoine", "role": "auteur de cette page, 8a falaise"},
+    {"type": "h2", "text": "Le geste de clippage : précision avant rapidité"},
+    {"type": "p", "html": "Cliquer une dégaine en tête, c'est attraper la corde sous ton baudrier, la remonter, et la passer dans le mousqueton inférieur de la dégaine. Quatre techniques existent : pince et pouce, doigt-écope, paume tournée, ou avec deux doigts. La plus fiable pour un débutant est la <strong>pince et pouce</strong> avec la main forte. Tu attrapes la corde paume vers le haut, tu tournes le poignet pour glisser la corde dans le mousqueton. Travaille ce geste 50 fois au sol avant de le faire en voie."},
+    {"type": "list", "variant": "numbered", "title": "Les quatre fautes de clippage à éviter", "items": [
+      {"title": "La corde par-dessous le mousqueton", "body": "On dit que le brin remonte du mauvais côté. En cas de chute, la corde peut sortir du mousqueton. À chaque clip, vérifie le sens : le brin libre passe devant le mousqueton, pas derrière."},
+      {"title": "Clipper en suspension", "body": "Si tu te clippes pendu d'un bras, tu fatigues vite et tu rates le geste. Cherche une position d'équilibre, même si tu dois redescendre une prise pour la trouver."},
+      {"title": "Tirer le brin entre les dents", "body": "On voit ça parfois pour ramener du mou. Mauvaise idée, le moindre dérapage te casse une dent. Si tu manques de mou, demande-en à l'assureur."},
+      {"title": "Clipper la jambe derrière la corde", "body": "Repère où passe la corde après le clip. Si tu vois ta cuisse ou ton mollet d'un côté et la corde de l'autre, déplace ta jambe avant de continuer."}
+    ]},
+    {"type": "h2", "text": "Côté assureur, la mobilité prime"},
+    {"type": "p", "html": "Assurer en tête est plus actif qu'en moulinette. Tu donnes du mou quand le grimpeur clippe, tu ravales quand il monte sans clipper. Tu te rapproches du mur quand il chute haut, tu recules quand il chute bas. Le tout sans jamais lâcher la main de freinage. La position de base reste pieds en quinconce, un mètre du mur, mais tu vas bouger constamment."},
+    {"type": "table", "caption": "Les trois moments clés de l'assurage en tête", "headers": ["Moment", "Geste", "Erreur typique"], "rows": [
+      ["Le grimpeur clippe en hauteur", "Donner 1,5 m de mou rapidement", "Mou en avance qui crée un vol énorme"],
+      ["Le grimpeur monte sans clipper", "Ravaler le mou en continu", "Trop tendu, gêne la progression"],
+      ["Le grimpeur chute au-dessus du clip", "Sauter pour amortir le vol", "Rester bloqué au sol, projection violente"]
+    ]},
+    {"type": "p", "html": "Le saut d'amortissement de l'assureur change tout. Si le grimpeur fait un vol de 3 mètres, l'assureur qui saute au moment du choc absorbe une partie de l'énergie. Le grimpeur descend plus loin, mais l'arrêt est doux. Sans saut, le choc est brutal et peut blesser. Le sauter est plus important sur les vols de plus de 2 mètres, et quand le grimpeur est lourd. Compte 30 cm de saut pour un vol moyen, ce n'est pas un acrobate."},
+    {"type": "h2", "text": "Le mental, le vrai obstacle"},
+    {"type": "p", "html": "La technique du clip se maîtrise en cinq séances. Le mental, c'est <strong>cinq à dix séances dédiées</strong> au minimum, parfois plus. Au début, tu vas freiner à chaque clip, surévaluer la difficulté, demander 'sec' alors que tu pourrais continuer. C'est normal. Le seul moyen de progresser est de cumuler les voies, pas de chercher la performance. Tu peux travailler <a href=\"/blog/mental-grimpe-blocage\">le blocage mental</a> en parallèle, c'est un sujet majeur en grimpe."},
+    {"type": "p", "html": "Une astuce d'Antoine, héritée de son passage en compétition jeunes FFME : avant chaque voie en tête, tu visualises la séquence depuis le sol, tu identifies les trois mouvements qui te font peur, et tu décides à voix haute 'celui-là, je le lance'. Ce contrat avec toi-même réduit le doute en pleine action. Ça paraît bête, ça change tout après quinze séances."}
+  ],
+  "faq": [
+    {"q": "Peut-on passer en tête sans avoir validé son passeport ?", "a": "En salle commerciale, non. Climb Up, Vertical'Art et Arkose imposent un test pratique avec un moniteur, payant à part. En FFME ou en club, le test est inclus dans la cotisation. En falaise, personne ne te contrôle, mais ta sécurité dépend de ta compétence réelle."},
+    {"q": "Quel grade pour la première fois en tête ?", "a": "Deux niveaux en dessous de ton max moulinette. Si tu enchaînes du 5c moulinette, attaque en 4 ou 4b en tête. Tu remontes progressivement après 10 à 15 voies réussies sans tension excessive."},
+    {"q": "Combien de dégaines emporter ?", "a": "En salle, les dégaines sont en place sur la voie, tu ne portes que la corde. En falaise, compte le nombre de points de la voie plus deux dégaines pour le relais, soit 8 à 14 selon la longueur. Une douzaine couvre la majorité des voies sportives."},
+    {"q": "Et si je n'arrive pas à clipper en hauteur ?", "a": "Redescends sur une bonne prise pour clipper en équilibre, même si ça veut dire perdre un mètre. Mieux vaut un clip propre à 4 mètres qu'un clip foireux à 6 mètres. La règle d'or est de ne jamais clipper en panique."},
+    {"q": "Le mou que je dois donner change avec la hauteur ?", "a": "Oui. Plus le grimpeur est haut, plus tu donnes de mou rapidement lors du clip, parce que la corde est plus longue et amortit naturellement. Sur les trois premiers points, sois plutôt tendu. Au-dessus de 8 mètres, sois plus généreux."},
+    {"q": "Doit-on toujours clipper la première dégaine en partant du sol ?", "a": "Oui, sans exception. C'est elle qui te sauve d'une chute en bas de voie. En salle, elle est souvent surdimensionnée, voire fixe. En falaise, c'est parfois la plus haute du secteur pour limiter les risques de pendulement contre le rocher."}
+  ],
+  "cover_alt": "Un grimpeur clippe une dégaine bleue sur une voie en dévers en salle d'escalade, corde orange tendue derrière son baudrier, position bras tendu et pied stabilisé",
+  "internal_links": [
+    {"slug": "apprendre-escalade-debutant-2026", "anchor": "apprendre l'escalade", "context": "Pilier du cocon"},
+    {"slug": "grimper-en-moulinette", "anchor": "consolidé sa moulinette", "context": "Étape préalable"},
+    {"slug": "chuter-en-grimpe-apprentissage", "anchor": "l'apprentissage de la chute", "context": "Étape suivante"},
+    {"slug": "clipper-degaine-tete", "anchor": "Le geste de clippage", "context": "Technique précise"},
+    {"slug": "lecture-voie-strategie", "anchor": "lire la voie avant de grimper", "context": "Tactique de voie"},
+    {"slug": "mental-grimpe-blocage", "anchor": "le blocage mental", "context": "Aspect mental"}
+  ],
+  "scheduled_at": "2026-05-30T09:00:00+02:00"
+}

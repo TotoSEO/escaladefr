@@ -1,0 +1,256 @@
+{
+  "slug": "noeuds-escalade-utiles-guide",
+  "cocon": "noeuds",
+  "type_article": "hub",
+  "numero": 3,
+  "title": "Nœuds d'escalade : les 8 nœuds essentiels à connaître",
+  "h1": "Les nœuds d'escalade utiles à connaître.",
+  "description": "Les nœuds essentiels en escalade : huit, cabestan, demi-cabestan, prussik, machard, pêcheur double et mule. Usage, exécution et vérifications.",
+  "chapo": "Combien de nœuds faut-il vraiment connaître pour grimper sereinement ? Huit suffisent à couvrir le bloc, la voie sportive et la grande voie. Je détaille ici chaque nœud essentiel : son usage précis, comment le réaliser, les pièges à éviter et la vérification systématique du nœud du partenaire avant de quitter le sol.",
+  "takeaways": [
+    "Le nœud de huit reste la référence universelle pour s'encorder en France.",
+    "Le cabestan permet de s'auto-assurer au relais sans matériel supplémentaire.",
+    "Le prussik et le machard fonctionnent comme freins auto-bloquants sur la corde.",
+    "Le pêcheur double sécurise les jonctions de corde pour les longs rappels.",
+    "La vérification croisée du nœud du partenaire prend 10 secondes et sauve des vies."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Pourquoi maîtriser ses nœuds avant de grimper"
+    },
+    {
+      "type": "p",
+      "html": "L'escalade repose sur trois liens vitaux : la corde, le baudrier, le nœud qui réunit les deux. Un nœud mal fait reste la première cause d'accident mortel en escalade sportive, devant les fautes d'assurage. Apprendre cinq à huit nœuds bien faits vaut mieux que connaître vingt nœuds approximatifs. Tu vas voir, le répertoire essentiel s'apprend en une après-midi et se révise par la pratique régulière."
+    },
+    {
+      "type": "p",
+      "html": "Chaque nœud répond à un usage précis. <strong>Le nœud de huit</strong> sert à s'encorder. Le cabestan s'installe sur un mousqueton de relais. Le pêcheur double assemble deux brins de corde. Le mickey arrête un rappel. Mélanger les usages génère du danger inutile. Je te propose de les voir un par un, dans l'ordre de la pratique réelle d'un grimpeur sportif débutant à confirmé."
+    },
+    {
+      "type": "h2",
+      "text": "Le nœud de huit : la base de l'encordement"
+    },
+    {
+      "type": "p",
+      "html": "Le huit double passe à travers le pontet du baudrier (les deux boucles ventrale et cuissarde) puis se rebroussé pour épouser parfaitement le premier huit. Il doit être propre, serré, avec une queue de 10 à 15 cm minimum. Le marquage du brin libre derrière le nœud reste la signature visuelle d'un huit bien fait. Lis <a href=\"/blog/noeud-huit-encordement\">le guide détaillé du nœud de huit</a> pour la séquence pas à pas."
+    },
+    {
+      "type": "p",
+      "html": "Le huit présente trois avantages décisifs : il se vérifie en un coup d'œil, il tient sous charge dynamique, et il se défait après une grosse chute sans devenir impossible à dénouer. Il existe une variante avec contre nœud d'arrêt, popularisée en France après les années 1990, qui sécurise visuellement la queue. C'est la norme dans toutes les écoles d'escalade FFME."
+    },
+    {
+      "type": "tip",
+      "title": "Le test du miroir",
+      "body": "Un huit propre forme un parfait miroir entre les deux côtés. Si tu vois un croisement ou un brin qui sort en oblique, refais le nœud. Cette règle visuelle évite 95% des huit ratés.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Le cabestan et le demi-cabestan : maîtres du relais"
+    },
+    {
+      "type": "p",
+      "html": "Le cabestan permet de se vacher directement sur un mousqueton à vis du relais, sans matériel supplémentaire. Il se monte en deux boucles superposées qu'on glisse sur le mousqueton, et il se règle ensuite à la longueur voulue en tirant simplement sur le brin. <strong>Le demi-cabestan</strong> sert d'assurage de secours quand on n'a plus d'appareil d'assurage, ou en grande voie pour assurer le second. Tu trouveras les détails dans <a href=\"/blog/noeud-cabestan-relais\">notre guide cabestan</a>."
+    },
+    {
+      "type": "p",
+      "html": "Ces deux nœuds partagent une caractéristique précieuse : ils se montent d'une seule main, indispensable quand l'autre est occupée à se tenir au rocher. Le demi-cabestan freine la corde par frottement contre le mousqueton, c'est moins fluide qu'un GriGri mais ça sauve une descente quand l'appareil tombe en panne ou se perd. Tout grimpeur en grande voie doit savoir le réaliser sans réfléchir."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Les 8 nœuds essentiels selon l'usage",
+      "items": [
+        {
+          "title": "Huit double",
+          "body": "S'encorder au baudrier. Norme française. Se vérifie facilement, se défait après chute."
+        },
+        {
+          "title": "Cabestan",
+          "body": "Se vacher au relais. Se monte d'une main, longueur réglable instantanément."
+        },
+        {
+          "title": "Demi-cabestan",
+          "body": "Assurage de secours, assurer le second en grande voie. Pas de matos requis."
+        },
+        {
+          "title": "Pêcheur double",
+          "body": "Joindre deux cordes pour un rappel de 50 mètres ou plus. Tient solide."
+        },
+        {
+          "title": "Prussik",
+          "body": "Auto-bloquant sur la corde. Sert au rappel, à l'auto-sauvetage et à la grande voie."
+        },
+        {
+          "title": "Machard",
+          "body": "Variante du prussik, débloque mieux après serrage. Idéal pour le rappel."
+        },
+        {
+          "title": "Mickey (ou en huit)",
+          "body": "Empêche de passer le bout de la corde au rappel. Vie ou mort si trop court."
+        },
+        {
+          "title": "Mule bloquant",
+          "body": "Bloque la corde au demi-cabestan pour partir les mains libres en urgence."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Prussik et machard : les auto-bloquants"
+    },
+    {
+      "type": "p",
+      "html": "Un auto-bloquant glisse sur la corde principale quand tu le pousses, et il bloque dès que tu tires dessus. C'est exactement ce qu'il faut pour descendre en rappel en sécurité, ou pour remonter une corde après une chute. <strong>Le prussik</strong> reste le plus simple, trois tours autour de la corde avec une cordelette de 6 mm. <strong>Le machard</strong>, en revanche, débloque plus facilement après serrage, ce qui en fait le choix privilégié des moniteurs en France."
+    },
+    {
+      "type": "p",
+      "html": "Le diamètre de la cordelette est crucial : un prussik en 7 mm sur une corde 9.5 mm glisse, un prussik en 5 mm sur une corde 11 mm fond sous la friction. La règle empirique reste 6 mm de cordelette pour une corde 9 à 10.5 mm. Compare les deux nœuds en détail dans <a href=\"/blog/noeud-machard-comparatif\">notre comparatif prussik / machard</a>."
+    },
+    {
+      "type": "h2",
+      "text": "Pêcheur double et mickey : le rappel en sécurité"
+    },
+    {
+      "type": "p",
+      "html": "Pour un rappel long, deux cordes de 50 mètres jointes valent mieux qu'une corde de 60 mètres pliée en deux. Le pêcheur double, parfois appelé nœud d'écoute double, joint solidement les deux brins et passe sans accroc dans le maillon du relais. Il faut laisser <strong>30 cm de queue minimum</strong> de chaque côté et serrer fortement chaque demi-nœud avant de descendre. En alpinisme et en grande voie, on lui préfère parfois le nœud plat doublé, qui glisse mieux sur le rocher et limite le risque de coincement au rappel sur des reliefs irréguliers."
+    },
+    {
+      "type": "p",
+      "html": "Le nœud mickey ou nœud d'arrêt s'installe à 1 à 2 mètres du bout de chaque brin. Il empêche le mousqueton de la descente de passer. Une statistique grimaçante : la majorité des accidents en rappel en France sont liés à l'absence de nœud d'arrêt en bout de corde. Un grimpeur déconcentré, une nuit qui tombe, une corde trop courte et c'est l'accident évitable. L'habitude de fermer chaque extrémité avant le premier rappel doit devenir un réflexe systématique, comme attacher sa ceinture."
+    },
+    {
+      "type": "table",
+      "caption": "Récapitulatif des usages des nœuds essentiels",
+      "headers": ["Nœud", "Usage principal", "Discipline"],
+      "rows": [
+        ["Huit double", "Encordement au baudrier", "Toutes"],
+        ["Cabestan", "Vachage au relais", "Voie, grande voie"],
+        ["Demi-cabestan", "Assurage de secours", "Grande voie, alpinisme"],
+        ["Prussik", "Auto-bloquant rappel", "Falaise, grande voie"],
+        ["Machard", "Auto-bloquant débloquable", "Rappel, sauvetage"],
+        ["Pêcheur double", "Jonction de cordes", "Rappel, alpinisme"],
+        ["Mickey", "Arrêt en bout de corde", "Tout rappel"],
+        ["Mule bloquant", "Bloquer la corde mains libres", "Sauvetage, urgence"]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Apprendre et mémoriser : la méthode des trois temps"
+    },
+    {
+      "type": "p",
+      "html": "Un nœud s'apprend en trois temps. Temps 1 : tu regardes un tutoriel ou un grimpeur expérimenté, lentement. Temps 2 : tu le refais 10 fois à la suite sur un bout de cordelette, à plat sur la table. Temps 3 : tu le refais 5 fois encordé à ton baudrier, dans des conditions variées (debout, accroupi, gants aux mains). Au bout de trois sessions espacées sur une semaine, c'est ancré."
+    },
+    {
+      "type": "p",
+      "html": "Notre <a href=\"/blog/retenir-noeuds-escalade-methode\">méthode complète pour mémoriser les nœuds</a> détaille les exercices d'auto-évaluation. Ce qui compte ensuite, c'est la révision régulière. Avant chaque sortie, fait deux ou trois nœuds à blanc dans la voiture ou sur le parking. Ça prend 30 secondes et ça maintient la maîtrise."
+    },
+    {
+      "type": "image_text",
+      "image": "/blog/noeuds-escalade-utiles-guide.webp",
+      "alt": "Main réalisant un nœud de huit double sur un baudrier d'escalade",
+      "text": "L'apprentissage du nœud passe par la main, pas par la théorie. Tu peux regarder dix vidéos, tant que tes doigts n'ont pas répété le geste cent fois, tu ne le maîtrises pas vraiment. Garde toujours un bout de cordelette dans la voiture pour réviser.",
+      "position": "left",
+      "caption": "Le geste devient automatique avec la répétition"
+    },
+    {
+      "type": "h2",
+      "text": "La vérification croisée : le rituel qui sauve"
+    },
+    {
+      "type": "p",
+      "html": "Avant chaque ascension, le grimpeur et l'assureur se vérifient mutuellement. Le grimpeur contrôle son nœud (présence du double, queue suffisante, passage dans le pontet et pas dans une boucle de sangle), son baudrier (boucles doublées) et l'absence de matériel mal fixé. L'assureur vérifie son appareil d'assurage, le sens de passage de la corde et son propre baudrier."
+    },
+    {
+      "type": "quote",
+      "text": "Le check croisé dure dix secondes. Aucun moniteur sérieux ne quitte le sol sans, même après trente ans de pratique.",
+      "author": "Antoine",
+      "role": "Rédacteur escalade-france.fr"
+    },
+    {
+      "type": "p",
+      "html": "Tu peux lire <a href=\"/blog/verifier-noeud-partenaire\">notre protocole de vérification du partenaire</a> qui détaille la checklist visuelle et verbale. Ce moment doit devenir aussi automatique que de mettre sa ceinture en voiture, sans débat ni exception. Même Adam Ondra le fait avant ses tentatives en falaise."
+    },
+    {
+      "type": "h2",
+      "text": "Quand le nœud devient une question de vie"
+    },
+    {
+      "type": "p",
+      "html": "L'histoire récente de l'escalade française compte plusieurs accidents directement liés à un nœud mal fait. Dans la majorité des cas, le grimpeur s'est laissé distraire pendant l'encordement et n'a pas terminé le huit. Le partenaire n'a pas vérifié. Les conséquences vont de la chute de quelques mètres dans le pire des cas en salle, à la mort en falaise."
+    },
+    {
+      "type": "p",
+      "html": "Aucun nœud n'est compliqué techniquement. La difficulté vient de la routine, de la fatigue, de la conversation qui distrait. Apprends à conclure ton nœud avant toute autre action, sans interruption. Si on t'interpelle, finis ton nœud, puis réponds. Cette discipline simple écarte la quasi totalité des accidents par négligence."
+    },
+    {
+      "type": "h2",
+      "text": "Les nœuds complémentaires pour aller plus loin"
+    },
+    {
+      "type": "p",
+      "html": "Au-delà des huit nœuds essentiels, certains profils gagnent à enrichir leur répertoire. Le nœud de chaise (bowline) reste apprécié des alpinistes anglo-saxons pour s'encorder, mais il glisse plus que le huit sans contrenoeud. Le papillon (ou nœud de Lyon) crée une boucle au milieu d'une corde, utile pour isoler une zone endommagée ou pour assurer trois personnes en alpinisme."
+    },
+    {
+      "type": "p",
+      "html": "Le mule bloquant te sauve quand tu dois lâcher la corde en cours d'assurage : il bloque le demi-cabestan et libère les mains. C'est le geste de base pour aller sécuriser un grimpeur en difficulté ou installer un mouflage. Tu peux explorer ces variantes dans <a href=\"/blog/noeud-mule-bloquant-corde\">notre fiche sur le mule bloquant</a>, à connaître avant toute sortie en grande voie engagée. La tête d'alouette, plus simple, sert à passer une sangle sur une lunule ou un becquet."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Combien de nœuds faut-il apprendre pour débuter ?",
+      "a": "Trois suffisent pour démarrer en salle d'escalade : le huit pour s'encorder, le contre-nœud d'arrêt comme sécurité visuelle, et le cabestan pour le relais. Dès que tu sors en falaise, ajoute le prussik, le pêcheur double et le mickey pour le rappel."
+    },
+    {
+      "q": "Faut-il faire un contre-nœud sur le huit d'encordement ?",
+      "a": "C'est la norme française enseignée par la FFME et les diplômes d'État. Un contre-nœud d'arrêt en queue de huit ajoute une sécurité visuelle, même si le huit lui même tient parfaitement sans. Sur le terrain, tu verras les deux pratiques coexister."
+    },
+    {
+      "q": "Quelle cordelette utiliser pour un prussik ?",
+      "a": "Une cordelette en nylon de 6 mm pour une corde principale de 9 à 10.5 mm. Plus fin, ça fond. Plus épais, ça glisse. La longueur idéale tourne autour de 1.20 m fermée par un pêcheur double, ce qui donne une boucle utile de 50 à 60 cm."
+    },
+    {
+      "q": "Pourquoi le cabestan plutôt qu'une dégaine au relais ?",
+      "a": "Le cabestan se règle à la longueur exacte voulue, alors qu'une vache fixe oblige à se positionner précisément. Il s'ajuste en un coup de main, ne demande aucun matériel supplémentaire et libère une dégaine pour la suite de la voie."
+    },
+    {
+      "q": "Peut-on grimper sans savoir faire de nœuds ?",
+      "a": "Non. Même en salle avec un encadrant, tu dois savoir réaliser et vérifier ton propre nœud d'encordement. Le moniteur valide, mais la responsabilité reste partagée. La FFME considère le huit comme la première compétence à acquérir avant toute pratique autonome."
+    },
+    {
+      "q": "Quel nœud pour relier deux cordes en rappel ?",
+      "a": "Le pêcheur double reste la référence en France. Il tient solidement, passe bien dans le maillon et se défait après usage. Le nœud plat en huit existe aussi mais demande une attention particulière au positionnement. Toujours laisser 30 cm de queue minimum."
+    }
+  ],
+  "cover_alt": "Mains réalisant un nœud de huit double sur une corde d'escalade colorée",
+  "internal_links": [
+    {
+      "slug": "noeud-huit-encordement",
+      "anchor": "le guide détaillé du nœud de huit",
+      "context": "Article enfant cocon noeuds"
+    },
+    {
+      "slug": "noeud-cabestan-relais",
+      "anchor": "notre guide cabestan",
+      "context": "Article enfant cocon noeuds"
+    },
+    {
+      "slug": "noeud-machard-comparatif",
+      "anchor": "notre comparatif prussik / machard",
+      "context": "Article enfant cocon noeuds"
+    },
+    {
+      "slug": "retenir-noeuds-escalade-methode",
+      "anchor": "méthode complète pour mémoriser les nœuds",
+      "context": "Article enfant cocon noeuds"
+    },
+    {
+      "slug": "verifier-noeud-partenaire",
+      "anchor": "notre protocole de vérification du partenaire",
+      "context": "Article enfant cocon noeuds"
+    }
+  ],
+  "scheduled_at": "2026-05-21T09:00:00+02:00"
+}

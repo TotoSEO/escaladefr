@@ -1,0 +1,259 @@
+{
+  "slug": "noeud-demi-cabestan-assurance",
+  "cocon": "noeuds",
+  "type_article": "guide",
+  "numero": 67,
+  "title": "Demi-cabestan : assurer sans système, méthode et limites",
+  "h1": "Le demi-cabestan, assurer son partenaire sans système d'assurage",
+  "description": "Le demi-cabestan sur mousqueton HMS pour assurer en cas de système perdu. Tracé, freinage, vrillage de la corde, descente en rappel improvisée.",
+  "chapo": "Le demi-cabestan, parfois appelé nœud italien ou Munter, permet d'assurer un partenaire en moulinette ou en tête sans aucun système d'assurage mécanique. C'est le nœud de secours par excellence pour le grimpeur qui a perdu son Reverso ou son Grigri en falaise. Tracé, geste de freinage, comportement de la corde et limites pratiques de la technique.",
+  "takeaways": [
+    "Le demi-cabestan se trace en une seule boucle dynamique sur mousqueton HMS, capable de filer dans les deux sens pour assurer en montée comme en descente.",
+    "Le freinage s'obtient en ramenant le brin libre vers le bas et parallèlement au brin de tension, jamais à 90 degrés sous peine de glissement.",
+    "La corde vrille systématiquement sous l'effet du demi-cabestan, c'est inévitable et constitue le principal inconvénient pratique de la technique.",
+    "Utilisable en assurage du second au relais, en moulinette, en assurage du leader en grande voie et en descente en rappel improvisée sans descendeur.",
+    "Le mousqueton HMS poire fermé à vis est obligatoire, aucun mousqueton symétrique ne peut accueillir correctement le demi-cabestan dynamique."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Un nœud de secours encore enseigné et pratiqué"
+    },
+    {
+      "type": "p",
+      "html": "Le <strong>demi-cabestan</strong>, ou Munter hitch en anglais, n'est plus le nœud d'assurage standard depuis l'avènement des systèmes mécaniques modernes type Grigri, Reverso, ATC ou Pivot. Mais il reste enseigné dans toutes les formations sérieuses pour une raison simple : c'est le seul système d'assurage qui fonctionne avec un mousqueton et de la corde, sans aucun autre matériel. Quand tu perds ton Reverso au milieu d'une grande voie, le demi-cabestan te sauve la sortie."
+    },
+    {
+      "type": "p",
+      "html": "Cette polyvalence en fait un outil pédagogique aussi. Apprendre à assurer en demi-cabestan oblige à comprendre les forces qui circulent dans la corde, les angles de freinage, le rôle de la main qui tient le brin libre. Beaucoup d'écoles considèrent que la maîtrise du demi-cabestan précède celle du système mécanique. Une fois le geste compris, tous les systèmes d'assurage deviennent intuitifs."
+    },
+    {
+      "type": "p",
+      "html": "Comparé au <a href=\"/blog/noeud-cabestan-relais\">cabestan classique utilisé pour l'auto-vachage</a>, le demi-cabestan présente une géométrie radicalement différente. Le cabestan bloque la corde, le demi-cabestan la laisse filer. Le cabestan a deux boucles superposées figées, le demi-cabestan a une seule boucle qui pivote dynamiquement dans le mousqueton."
+    },
+    {
+      "type": "h2",
+      "text": "Le tracé du demi-cabestan, étape par étape"
+    },
+    {
+      "type": "p",
+      "html": "Le demi-cabestan se trace généralement directement sur le mousqueton déjà clippé à l'ancrage ou au pontet. La séquence des gestes est plus simple que le cabestan complet, parce qu'il n'y a qu'une seule boucle à former."
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Les trois temps du tracé direct",
+      "items": [
+        {
+          "title": "Préparer la corde",
+          "body": "Tu identifies clairement le brin de tension qui va vers le grimpeur ou vers le second, et le brin libre que tu tiens en main pour freiner. Le mousqueton HMS poire est déjà clippé sur le pontet ou sur l'ancrage."
+        },
+        {
+          "title": "Former la boucle",
+          "body": "Avec le brin libre, fais une boucle en passant par-dessus puis par-dessous le brin de tension. Tu obtiens un croisement caractéristique en forme de S inversé entre les deux brins."
+        },
+        {
+          "title": "Engager la boucle dans le mousqueton",
+          "body": "Pousse la boucle formée dans le mousqueton HMS et clippe le doigt sur le brin lui-même, pas autour. Le résultat est une seule boucle qui pivote dans le mousqueton, avec brin de tension et brin libre sortant du même côté."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "html": "Le tracé prend cinq à dix secondes une fois la technique acquise. La difficulté principale au début consiste à reconnaître le sens dans lequel former la boucle pour que le freinage fonctionne dans la bonne direction. Avec la pratique, le geste devient automatique. Une variante consiste à former la boucle à plat sur la main puis à l'engager dans le mousqueton, plus stable au début pour le débutant."
+    },
+    {
+      "type": "h2",
+      "text": "Le geste de freinage, point critique du demi-cabestan"
+    },
+    {
+      "type": "p",
+      "html": "Le <strong>freinage en demi-cabestan</strong> repose sur un principe fondamental qui diffère radicalement des systèmes mécaniques : la force de freinage dépend de l'angle entre le brin libre et le brin de tension. À 180 degrés, c'est-à-dire quand tu ramènes le brin libre exactement parallèle au brin de tension, la corde se bloque sous la friction maximale. À 90 degrés, le freinage est moitié moindre. À 0 degré, soit le brin libre tiré dans la même direction que le brin de tension, la corde file librement."
+    },
+    {
+      "type": "p",
+      "html": "Cette dépendance à l'angle change complètement la gestuelle de l'assurage. Avec un Grigri ou un Reverso, tu maintiens le brin libre tendu, point. Avec un demi-cabestan, tu places activement ta main pour orienter le brin libre dans l'angle de freinage. La main qui tient le brin libre fait le travail, là où le système mécanique ferait le travail à ta place."
+    },
+    {
+      "type": "tip",
+      "title": "Le geste de freinage à mémoriser",
+      "body": "Pour bloquer une chute, tire le brin libre vers le bas et parallèlement au brin de tension. Pour laisser filer (descendre le grimpeur ou assurer en montée), relâche progressivement la tension en éloignant la main du brin de tension. Jamais à 90 degrés : c'est la position où le freinage est insuffisant et où la corde commence à glisser dangereusement.",
+      "tone": "attention"
+    },
+    {
+      "type": "h2",
+      "text": "Le vrillage de la corde, problème inévitable"
+    },
+    {
+      "type": "p",
+      "html": "Le défaut majeur du demi-cabestan est le <strong>vrillage de la corde</strong>. Sous l'effet du pivotement du nœud dans le mousqueton, la corde se tord progressivement sur elle-même. Après quelques mètres d'assurage, le brin libre s'enroule en spirales serrées qui compliquent la manipulation et peuvent finir par coincer le nœud."
+    },
+    {
+      "type": "p",
+      "html": "Aucune technique ne supprime ce vrillage, c'est une conséquence géométrique inhérente au principe du nœud. On peut le minimiser en utilisant un mousqueton HMS bien dimensionné, en gardant la corde tendue de manière régulière sans à-coups, et en laissant la corde se détendre périodiquement entre deux longueurs. Mais à long terme, l'assurage prolongé en demi-cabestan dégrade le drapé de la corde."
+    },
+    {
+      "type": "p",
+      "html": "Cette dégradation est cependant temporaire. Quand tu rentres chez toi, suspends la corde par le milieu pendant quelques heures pour que les vrilles se relâchent par gravité, puis re-loves la corde proprement. La structure de la corde n'est pas endommagée, seul son comportement est temporairement perturbé. Aucune corde n'est mise hors service par le seul vrillage."
+    },
+    {
+      "type": "h2",
+      "text": "Les usages pratiques du demi-cabestan"
+    },
+    {
+      "type": "p",
+      "html": "Quatre situations classiques justifient le recours au demi-cabestan en escalade. Première situation, la perte ou l'oubli du système d'assurage en falaise. Tu n'as plus que la corde et tes mousquetons HMS, tu peux assurer un partenaire en moulinette comme en tête, monter une grande voie complète sans intervenir sur le matériel manquant."
+    },
+    {
+      "type": "p",
+      "html": "Deuxième situation, l'assurage du second au relais en grande voie quand tu utilises un système non auto-bloquant et que tu veux libérer une main. Le demi-cabestan suffit à tenir le second en cas de glissade prolongée, en complément d'un nœud d'arrêt sur le brin libre. Beaucoup d'alpinistes en cordée légère le préfèrent au Reverso classique pour le second, surtout sur des terrains où la corde court à plat sur des dalles peu raides."
+    },
+    {
+      "type": "p",
+      "html": "Troisième situation, la descente en rappel improvisée sans descendeur. Le demi-cabestan permet de descendre une longueur de corde en contrôlant la vitesse par l'angle du brin libre. La technique demande de la maîtrise et fatigue les mains, mais reste opérationnelle pour une descente de secours. Combiné à un <a href=\"/blog/noeud-prussik-auto-bloquant\">prussik d'auto-bloquant en sécurité</a>, le rappel en demi-cabestan devient fiable même pour un grimpeur épuisé."
+    },
+    {
+      "type": "p",
+      "html": "Quatrième situation, la formation pédagogique des débutants au principe physique de l'assurage. Comprendre le freinage par l'angle ouvre l'intelligence du geste, là où le Grigri masque les mécanismes par sa boîte noire mécanique. Beaucoup d'écoles enseignent encore le demi-cabestan en première séance, avant tout système moderne."
+    },
+    {
+      "type": "h2",
+      "text": "Limites pratiques et précautions"
+    },
+    {
+      "type": "p",
+      "html": "Le demi-cabestan a trois limites qu'il faut connaître. Première limite, le freinage demande une attention constante de la main qui tient le brin libre. Aucune position automatique ne bloque la corde, contrairement à un Grigri qui se serre tout seul sous tension. Si tu lâches le brin libre, le grimpeur tombe. Cette vigilance permanente fatigue rapidement sur des longues séances."
+    },
+    {
+      "type": "p",
+      "html": "Deuxième limite, la chaleur générée par le frottement intense peut endommager la gaine de la corde lors de descentes en rappel rapides ou prolongées. À grande vitesse, la corde fond ponctuellement contre le mousqueton métallique. Cette dégradation reste rare en pratique normale d'escalade sportive, mais elle est documentée sur les rappels longs de plus de 30 mètres en descente rapide."
+    },
+    {
+      "type": "p",
+      "html": "Troisième limite, le mousqueton subit lui-même une usure accélérée au point de friction. La courbe de la poire où la corde frotte se polit progressivement, créant une rainure visible après plusieurs centaines d'utilisations intensives. Le mousqueton reste fonctionnel mais sa charge de rupture diminue légèrement. La <a href=\"/blog/verifier-noeud-partenaire\">vérification du matériel</a> doit inclure l'inspection des points d'usure."
+    },
+    {
+      "type": "table",
+      "caption": "Demi-cabestan comparé aux systèmes d'assurage mécaniques",
+      "headers": [
+        "Critère",
+        "Demi-cabestan",
+        "Tube Reverso",
+        "Grigri auto-bloquant"
+      ],
+      "rows": [
+        [
+          "Matériel requis",
+          "Mousqueton HMS seul",
+          "Tube + mousqueton",
+          "Système + mousqueton"
+        ],
+        [
+          "Auto-blocage chute",
+          "Non, main active",
+          "Non, main active",
+          "Oui"
+        ],
+        [
+          "Vrillage de la corde",
+          "Important",
+          "Faible",
+          "Faible"
+        ],
+        [
+          "Compatibilité corde fine",
+          "Bonne",
+          "Variable",
+          "Marginal sous 8,9 mm"
+        ],
+        [
+          "Charge de rupture transmise",
+          "Lisse, glisse possible",
+          "Lisse",
+          "Pic plus marqué"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Apprendre le demi-cabestan en exercice à sec"
+    },
+    {
+      "type": "p",
+      "html": "L'apprentissage du demi-cabestan se fait idéalement en deux étapes. Première étape, le tracé à sec sur un bout de corde et un mousqueton HMS. Vingt à trente répétitions suffisent à automatiser le geste de formation de la boucle et son engagement dans le mousqueton. Pratique dans les deux sens, c'est-à-dire avec brin libre à droite puis à gauche, pour t'habituer aux deux configurations possibles."
+    },
+    {
+      "type": "p",
+      "html": "Seconde étape, le geste de freinage en assurance simulée. Avec un partenaire qui tire sur le brin de tension à des intensités variables, tu apprends à orienter ton brin libre dans l'angle de freinage maximal. L'objectif est de pouvoir bloquer une traction soudaine en moins d'une seconde, geste qui doit devenir un automatisme. Cette phase d'entraînement prend en général une à deux séances avant de pouvoir assurer en confiance sur une vraie chute."
+    },
+    {
+      "type": "quote",
+      "text": "Apprendre le demi-cabestan, c'est comprendre l'escalade. Le jour où tu te retrouves sans système au sommet d'une voie, tu remercieras le moniteur qui t'a forcé à l'apprendre.",
+      "author": "Adage de formation",
+      "role": "transmis par les moniteurs FFME"
+    },
+    {
+      "type": "h2",
+      "text": "Comparaison avec le nœud italien et autres alternatives"
+    },
+    {
+      "type": "p",
+      "html": "Le demi-cabestan est parfois appelé nœud italien dans la littérature francophone, surtout dans les manuels d'alpinisme anciens. La géométrie du <a href=\"/blog/noeud-italien-improvise\">nœud italien strictement parlant</a> peut différer légèrement selon les sources, mais en pratique courante, les deux termes désignent la même technique de freinage par boucle dynamique dans un mousqueton."
+    },
+    {
+      "type": "p",
+      "html": "Les alternatives possibles sans système mécanique se réduisent en réalité à deux options : le demi-cabestan présenté ici, et le nœud Garda pour le blocage non réversible. Le Garda permet de tenir un brin sous tension constante sans qu'il puisse refiler, utile pour le mouflage. Pour l'assurage classique en moulinette ou en tête, le demi-cabestan reste l'option dominante. Le panorama des <a href=\"/blog/noeuds-escalade-utiles-guide\">nœuds utiles en escalade</a> couvre les autres techniques de secours."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Est-ce que le demi-cabestan peut remplacer durablement un Grigri ou un Reverso ?",
+      "a": "Non, pas pour une pratique régulière. Le demi-cabestan demande une attention constante de la main de freinage et vrille la corde rapidement. Il reste une solution de secours pour les rares occasions où on perd son système d'assurage, ou un outil pédagogique en formation. Pour la pratique courante, le système mécanique offre confort et fiabilité supérieurs."
+    },
+    {
+      "q": "Combien de temps tient un demi-cabestan en assurance avant fatigue de la main ?",
+      "a": "Quelques minutes en assurance active de chute. Pour le second au relais ou l'assurage du leader sur une longueur de 25 à 30 mètres, on peut tenir si la corde n'est pas trop sollicitée. Au-delà, la main qui freine s'épuise rapidement et l'attention diminue. C'est l'une des raisons pour lesquelles il reste cantonné à l'usage de secours plutôt qu'à l'usage courant."
+    },
+    {
+      "q": "Quelle différence avec le cabestan classique d'auto-vachage ?",
+      "a": "Géométrie et usage radicalement opposés. Le cabestan classique a deux boucles superposées qui bloquent la corde, il sert à se vacher au relais. Le demi-cabestan a une seule boucle dynamique qui laisse filer la corde, il sert à freiner activement un partenaire. Les deux nœuds partagent leur nom mais n'ont aucune fonction commune."
+    },
+    {
+      "q": "Peut-on assurer en grande voie uniquement avec un demi-cabestan ?",
+      "a": "Oui techniquement, c'est même l'usage historique du nœud avant les systèmes modernes. Mais en 2026, cette pratique est marginale. Le demi-cabestan vrille la corde sur la durée d'une grande voie de plusieurs longueurs, et la fatigue des mains devient un facteur de sécurité. Préfère le système mécanique pour la grande voie habituelle, le demi-cabestan pour les secours uniquement."
+    },
+    {
+      "q": "Faut-il un mousqueton spécifique pour le demi-cabestan ?",
+      "a": "Oui, un mousqueton HMS poire à vis de qualité escalade est obligatoire. La forme poire asymétrique permet à la boucle dynamique de pivoter correctement sous tension. Les mousquetons symétriques de type ovale ou D bloquent la rotation du nœud et créent des chargements latéraux qui peuvent endommager le mousqueton ou compromettre le freinage."
+    }
+  ],
+  "cover_alt": "Demi-cabestan dynamique tracé sur un mousqueton HMS poire à vis fermé, boucle unique visible avec brin de tension et brin libre sortant du même côté, corde simple bleue, baudrier d'escalade en arrière-plan",
+  "internal_links": [
+    {
+      "slug": "noeuds-escalade-utiles-guide",
+      "anchor": "nœuds utiles en escalade",
+      "context": "pilier cocon"
+    },
+    {
+      "slug": "noeud-cabestan-relais",
+      "anchor": "cabestan classique utilisé pour l'auto-vachage",
+      "context": "comparaison nœud parent"
+    },
+    {
+      "slug": "noeud-prussik-auto-bloquant",
+      "anchor": "prussik d'auto-bloquant en sécurité",
+      "context": "rappel improvisé"
+    },
+    {
+      "slug": "verifier-noeud-partenaire",
+      "anchor": "vérification du matériel",
+      "context": "inspection points d'usure"
+    },
+    {
+      "slug": "noeud-italien-improvise",
+      "anchor": "nœud italien strictement parlant",
+      "context": "terminologie alternative"
+    }
+  ],
+  "scheduled_at": "2026-10-06T09:00:00+02:00"
+}

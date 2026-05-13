@@ -1,0 +1,75 @@
+{
+  "slug": "types-cordes-simple-double-jumeleee",
+  "cocon": "materiel",
+  "type_article": "liste",
+  "numero": 47,
+  "title": "Cordes d'escalade : simple, double, jumelée, quel usage",
+  "h1": "Corde simple, double, jumelée : tout comprendre",
+  "description": "Marquages, diamètres, usages : la différence entre corde simple, double et jumelée expliquée pour choisir le bon brin selon ta pratique.",
+  "chapo": "Sur l'étiquette d'extrémité de ta corde figure un petit pictogramme. Un cercle, un demi-cercle, un infini. Trois marquages, trois usages totalement différents. Je détaille ici les corde simple, double et jumelée, leurs diamètres types, leurs avantages réels et les modèles qui marchent en 2026.",
+  "takeaways": [
+    "La corde simple, marquée 1, s'utilise seule en sport et grande voie facile.",
+    "La corde à double, marquée 1/2, se clippe alternativement pour limiter le tirage.",
+    "La corde jumelée, marquée infini, se clippe par paires en cascade et alpinisme.",
+    "Les diamètres vont de 7.3 mm pour la jumelée à 11 mm pour la simple robuste.",
+    "Une corde triple norme cumule les trois usages, pratique mais coûteuse."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Trois marquages sur l'étiquette d'extrémité"},
+    {"type": "p", "html": "Chaque corde dynamique certifiée <strong>EN 892</strong> porte un pictogramme à l'extrémité, dans le manchon thermo. Un cercle marqué 1 indique une corde simple. Un demi-cercle marqué 1/2 indique une corde à double. Un infini indique une corde jumelée. Certaines cordes haut de gamme cumulent les trois marquages, on parle alors de triple norme."},
+    {"type": "p", "html": "Cette information conditionne tout ton usage. Tu ne grimpes pas une voie sport en clippant deux brins à double sur le même mousqueton, et tu ne pars pas en grande voie alpine avec un seul brin jumelé. Vérifie systématiquement ce marquage avant l'achat. Pour les bases, regarde <a href=\"/blog/choisir-corde-escalade\">comment choisir sa corde d'escalade</a>."},
+    {"type": "h2", "text": "La corde simple : la référence sport"},
+    {"type": "p", "html": "C'est celle que tu vois 95 % du temps dans les salles et sur les falaises sport françaises. Diamètre 9 à 11 mm, longueur 60 à 80 mètres, usage seul. Elle encaisse les chutes en tête, supporte les rappels et passe dans tous les systèmes d'assurage classiques. Les <strong>Beal Stinger, Mammut Crag We Care, Petzl Mambo, Edelrid Boa</strong> couvrent ce segment."},
+    {"type": "p", "html": "L'avantage majeur, c'est la simplicité. Un seul brin à gérer, un seul nœud à faire, un seul système d'assurage. L'inconvénient apparaît en grande voie sinueuse où le tirage devient pénible. Pour la majorité des grimpeurs sportifs, la corde simple reste le choix universel jusqu'au niveau expert."},
+    {"type": "h2", "text": "La corde à double : la reine de la grande voie"},
+    {"type": "p", "html": "Marquée 1/2, la corde à double s'utilise par paires de couleurs différentes. Tu clippes alternativement le brin rouge dans la première dégaine, le brin bleu dans la deuxième, et ainsi de suite. Ce système réduit le tirage sur les itinéraires en zigzag et permet un rappel de la longueur totale des deux brins. Diamètres typiques 7.7 à 8.7 mm."},
+    {"type": "p", "html": "Mes deux brins préférés en grande voie sont la <strong>Beal Cobra II 8.6 mm</strong> et la <strong>Edelrid Apus Pro Dry 7.9 mm</strong>. La première encaisse bien les frottements sur calcaire rugueux, la seconde reste légère pour les courses longues. Pour assurer en double, il te faut un Reverso 4 ou un Atc Guide, le Grigri standard ne fonctionne qu'avec un brin."},
+    {"type": "h2", "text": "La corde jumelée : niche alpine et glace"},
+    {"type": "p", "html": "Marquée infini, la jumelée se clippe toujours par paires dans la même dégaine. Diamètre très fin 6.9 à 8 mm, poids réduit, encombrement minimal. Usage principal : cascade de glace, alpinisme rocheux léger, courses mixtes longues. Tu ne la verras quasi jamais en falaise sport française."},
+    {"type": "p", "html": "L'avantage, c'est le poids plume et la possibilité de faire des rappels complets sans porter deux cordes lourdes. L'inconvénient, c'est l'absence de flexibilité, tu dois toujours clipper les deux brins ensemble. Les références sont la <strong>Beal Ice Line 8.1 mm, Mammut Twilight 7.5 mm, Edelrid Flycatcher 6.9 mm</strong>."},
+    {"type": "list", "variant": "cards", "title": "Trois types, trois usages typiques", "items": [
+      {"title": "Corde simple", "body": "Sport, salle, falaise classique. Un brin, un assureur Grigri ou Reverso. 9.4 à 10 mm le plus souvent."},
+      {"title": "Corde à double", "body": "Grande voie sinueuse, alpinisme rocheux, rappels longs. Deux brins de couleurs différentes, 8 à 8.7 mm."},
+      {"title": "Corde jumelée", "body": "Cascade de glace, alpinisme léger, courses techniques. Deux brins clippés ensemble, 7 à 8 mm."}
+    ]},
+    {"type": "h2", "text": "La triple norme : le couteau suisse"},
+    {"type": "p", "html": "Certaines cordes très fines comme la <strong>Beal Joker 9.1 mm</strong> ou la Mammut Serenity 8.7 mm portent les trois marquages. Tu peux les utiliser en simple, en double ou en jumelée selon le contexte. L'astuce est dans la construction du gainage et de l'âme, qui supporte des charges extrêmes malgré le diamètre fin. Compte 260 à 320 euros le brin."},
+    {"type": "p", "html": "L'intérêt principal, c'est de pouvoir grimper avec une seule paire pour le sport en simple et la grande voie en double. Le revers, c'est la durée de vie. Un brin si fin s'use vite sur les frottements répétés. Sur 70 m, deux ans d'usage intensif suffisent à le réformer. Pour un budget intelligent, je préfère une corde simple 9.5 mm classique et une paire de doubles dédiées."},
+    {"type": "h2", "text": "Diamètres et compatibilité avec les freins"},
+    {"type": "p", "html": "Le diamètre conditionne la compatibilité avec ton système d'assurage. Un <strong>Grigri Plus</strong> accepte 8.5 à 11 mm officiellement, optimal sur 9.5 à 11 mm. Un Reverso 4 fonctionne sur 7.3 à 11 mm en mode plaquette. Un Atc-XP gère 7.7 à 11 mm. Pour les diamètres fins, le freinage demande plus de vigilance et une main ferme sous le frein."},
+    {"type": "p", "html": "Je conseille toujours aux débutants de rester sur des cordes simples 9.5 à 9.8 mm. Le freinage pardonne mieux, la durée de vie est bonne, le poids reste raisonnable. Les cordes très fines demandent un assurage parfait, ce n'est pas l'objectif quand tu apprends. Le <a href=\"/blog/systeme-assurage-comparatif\">comparatif des systèmes d'assurage</a> détaille les compatibilités exactes."},
+    {"type": "table", "caption": "Récapitulatif des types de cordes et usages", "headers": ["Type", "Marquage", "Diamètre", "Usage principal"], "rows": [
+      ["Simple", "1 dans cercle", "9 à 11 mm", "Sport, salle, grande voie facile"],
+      ["Double", "1/2 dans demi-cercle", "7.7 à 8.7 mm", "Grande voie alpine sinueuse"],
+      ["Jumelée", "Symbole infini", "6.9 à 8 mm", "Cascade glace, alpinisme léger"],
+      ["Triple norme", "Trois marquages", "8.7 à 9.2 mm", "Polyvalence sport et grande voie"]
+    ]},
+    {"type": "h2", "text": "Marquage du milieu et bicolor"},
+    {"type": "p", "html": "Repérer le milieu de corde devient vital en rappel. Trois solutions existent. Le marquage feutre indélébile spécifique vendu par Beal, légal mais à refaire régulièrement. Le marquage usine au manchon thermique, permanent. Le système Beal Bicolor qui change la couleur du gainage à mi-longueur, le plus pratique. Évite absolument les marqueurs ordinaires qui altèrent le polyamide."},
+    {"type": "p", "html": "En grande voie à deux cordes, les deux brins doivent avoir des couleurs nettement différentes. Une rouge et une bleue, une jaune et une verte. Pas deux brins gris foncé qui se confondent au moment du rappel. Cette précaution évite les erreurs de manipulation au relais quand tu es fatigué."},
+    {"type": "quote", "text": "La corde adaptée, c'est celle qui correspond à ta voie, pas celle qui correspond à ton ego.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
+    {"type": "h2", "text": "Mes choix selon le terrain"},
+    {"type": "p", "html": "Pour le sport sur calcaire français, j'utilise une <strong>Beal Joker 9.1 mm en 70 m triple norme</strong>. Elle me sert seule en sport et je l'associe à un second brin Beal Cobra II 8.6 mm en grande voie. Pour la salle, une corde dédiée 10 mm bon marché évite d'user inutilement ma corde de falaise. Pour les grandes voies du Verdon, deux brins 8.5 mm en 60 m gèrent les rappels."},
+    {"type": "p", "html": "Je déconseille les cordes ultra fines pour les débutants. La <strong>Edelrid Skimmer 7.1 mm</strong> ou la Petzl Salsa 8.2 mm demandent une expertise d'assurage que tu n'as pas avant 200 voies en tête. Le confort de gestion sur 9.5 mm pardonne les petites erreurs, ce que je recommande pour les trois premières années."},
+    {"type": "tip", "title": "Triple norme intelligent", "body": "Si tu hésites entre simple et double, une corde triple norme te donne le maximum de flexibilité. Mais accepte une durée de vie raccourcie en sport à cause du diamètre fin. Compte deux ans d'usage régulier au lieu de quatre.", "tone": "astuce"},
+    {"type": "h2", "text": "Erreurs classiques à éviter"},
+    {"type": "p", "html": "L'erreur la plus fréquente, c'est d'utiliser une corde à double comme une corde simple. Un brin à double seul ne supporte pas une chute en tête en sport, l'allongement est trop important et la force de choc dépasse les limites tolérables. Vérifie systématiquement le marquage avant d'engager la voie. Une corde 8 mm marquée 1/2 seule, c'est l'accident assuré sur grosse chute."},
+    {"type": "p", "html": "Autre piège, mélanger deux cordes à double de diamètres différents. Le brin le plus fin encaisse plus de tirage et s'use vite. Achète toujours deux brins identiques de la même série. Pour aller plus loin sur l'entretien, lis <a href=\"/blog/entretien-corde-lavage-rangement\">notre guide sur l'entretien et le rangement</a>, et complète avec <a href=\"/blog/materiel-escalade-essentiel\">le matériel d'escalade essentiel</a>."}
+  ],
+  "faq": [
+    {"q": "Comment reconnaître une corde simple, double ou jumelée ?", "a": "Regarde le pictogramme sur le manchon thermo à l'extrémité. Un cercle marqué 1 indique une simple, un demi-cercle marqué 1/2 une double, un symbole infini une jumelée. Certaines cordes triple norme portent les trois marquages côte à côte."},
+    {"q": "Peut-on grimper avec une seule corde à double ?", "a": "Non, jamais sur une chute en tête. La corde à double seule supporte mal le facteur de chute classique en sport. Tu dois utiliser les deux brins en grande voie ou prendre une corde à double triple norme certifiée en simple."},
+    {"q": "Une corde jumelée sert-elle en falaise sport ?", "a": "Très rarement. La jumelée vise la cascade de glace et l'alpinisme léger où le poids prime. En sport, son diamètre trop fin et l'obligation de clipper les deux brins ensemble la rendent peu pratique. Préfère une corde simple classique."},
+    {"q": "Quel diamètre pour débuter la falaise ?", "a": "Vise 9.5 à 9.8 mm en corde simple 70 m. Cette gamme reste polyvalente, durable, compatible avec tous les systèmes d'assurage et pardonne les petites erreurs de freinage. Réserve les diamètres fins sous 9 mm aux grimpeurs expérimentés."},
+    {"q": "Une corde triple norme coûte-t-elle plus cher ?", "a": "Oui, environ 30 à 50 euros de plus qu'une simple classique. La construction est plus complexe pour cumuler les trois certifications. Tu gagnes en flexibilité d'usage mais tu perds en durée de vie comparé à une corde simple dédiée 9.5 mm."},
+    {"q": "Comment marquer le milieu de ma corde ?", "a": "Utilise uniquement un feutre indélébile spécial corde vendu par Beal ou Edelrid. Les marqueurs ordinaires contiennent des solvants qui altèrent le polyamide. La solution la plus pratique reste le système Beal Bicolor qui change la couleur du gainage à mi-longueur."}
+  ],
+  "cover_alt": "Trois cordes d'escalade lovées côte à côte montrant les marquages simple, double et jumelée",
+  "internal_links": [
+    {"slug": "choisir-corde-escalade", "anchor": "comment choisir sa corde d'escalade", "context": "Critères d'achat"},
+    {"slug": "systeme-assurage-comparatif", "anchor": "comparatif des systèmes d'assurage", "context": "Compatibilité diamètres"},
+    {"slug": "entretien-corde-lavage-rangement", "anchor": "notre guide sur l'entretien et le rangement", "context": "Durée de vie"},
+    {"slug": "materiel-escalade-essentiel", "anchor": "le matériel d'escalade essentiel", "context": "Pilier matériel"}
+  ],
+  "scheduled_at": "2026-08-20T09:00:00+02:00"
+}

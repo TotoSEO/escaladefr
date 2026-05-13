@@ -1,0 +1,262 @@
+{
+  "slug": "noeud-prussik-auto-bloquant",
+  "cocon": "noeuds",
+  "type_article": "guide",
+  "numero": 68,
+  "title": "Prussik : le nœud auto-bloquant qui sauve en rappel",
+  "h1": "Le prussik, l'auto-bloquant qui sauve en rappel et en mouflage",
+  "description": "Le prussik en cordelette Ø 6 ou 7 mm, son tracé symétrique, son blocage sous tension, ses usages en rappel sécurisé et en mouflage de secours.",
+  "chapo": "Le prussik reste l'auto-bloquant historique de l'alpinisme, repris en escalade pour sécuriser les rappels et improviser les mouflages. Sa cordelette en boucle, montée autour de la corde principale, bloque dès que la charge se rapproche du nœud. Tracé en trois tours symétriques, choix du diamètre, comportement sous tension et limites pratiques de l'auto-blocage.",
+  "takeaways": [
+    "Le prussik se trace avec une cordelette fermée en boucle de Ø 6 ou 7 mm, montée en tours symétriques autour de la corde principale.",
+    "Trois tours suffisent sur corde Ø 9-10 mm, quatre tours nécessaires sur cordelette fine ou corde glissante pour garantir le blocage sous charge.",
+    "Le prussik bloque la corde dans les deux sens, ce qui le rend irremplaçable en mouflage et en remontée sur corde fixe.",
+    "L'inconvénient majeur est sa difficulté à se desserrer après une charge importante : il faut le faire reculer manuellement le long de la corde.",
+    "Toujours doubler le prussik comme sécurité de rappel : si la main lâche le descendeur, le prussik bloque automatiquement la descente."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Pourquoi le prussik reste essentiel en 2026"
+    },
+    {
+      "type": "p",
+      "html": "Le <strong>prussik</strong> est apparu en 1931 sous l'invention du Dr Karl Prusik, alpiniste autrichien, qui cherchait un moyen de remonter une corde fixe sans matériel mécanique. Près d'un siècle plus tard, le nœud reste utilisé tel quel, sans modification majeure de sa géométrie. La raison de cette longévité tient à sa simplicité géométrique et à son efficacité de blocage sous charge."
+    },
+    {
+      "type": "p",
+      "html": "Concrètement, le prussik est une cordelette refermée en boucle par un double-pêcheur, montée autour de la corde principale en plusieurs tours symétriques. Quand on tire sur le bas de la boucle, les tours se resserrent autour de la corde et bloquent le coulissement. Quand on relâche, on peut faire glisser le nœud le long de la corde sans entrave. Cette propriété de blocage différentiel sous tension le rend irremplaçable en rappel sécurisé et en mouflage."
+    },
+    {
+      "type": "p",
+      "html": "Sur le <a href=\"/blog/noeuds-escalade-utiles-guide\">panorama des nœuds utiles en escalade</a>, le prussik occupe une place à part : c'est le seul vrai nœud d'auto-blocage classique, dont dérivent toutes les variantes modernes comme le Machard, le Bachmann ou le Kreuzklemm. Sa famille des auto-bloquants compte aujourd'hui une demi-douzaine de variantes, chacune optimisée pour un usage spécifique. Le prussik reste la référence."
+    },
+    {
+      "type": "h2",
+      "text": "La cordelette à choisir pour son prussik"
+    },
+    {
+      "type": "p",
+      "html": "Le choix du diamètre de cordelette détermine l'efficacité du blocage. Sur une corde simple dynamique de 9 à 10 mm, une <strong>cordelette de Ø 6 ou 7 mm</strong> donne un bon compromis entre serrage suffisant et facilité de glissement à vide. Plus fine, en Ø 5 mm, la cordelette glisse parfois sous charge sur corde sèche neuve. Plus épaisse, en Ø 8 mm, le prussik bloque mais devient difficile à déplacer sur la corde."
+    },
+    {
+      "type": "p",
+      "html": "La cordelette doit être en polyamide tressé conforme à la norme EN 564, dimensionnée pour 7 kN minimum en charge de rupture sur une seule brin. En boucle fermée par double-pêcheur, la charge admissible double virtuellement parce que les deux brins travaillent en parallèle. Cette résistance reste largement suffisante pour toutes les applications d'escalade, où les charges effectives sur l'auto-bloquant dépassent rarement 3 kN."
+    },
+    {
+      "type": "p",
+      "html": "Une <strong>boucle prussik prête à l'emploi</strong> se confectionne avec environ 1,30 à 1,50 mètre de cordelette, refermée par un <a href=\"/blog/noeud-pecheur-double-rappel\">double-pêcheur soigneusement serré</a>. La longueur de boucle finale, après nouage, est de 50 à 60 cm environ, suffisante pour faire trois tours autour d'une corde Ø 10 mm et laisser dépasser une longe utile."
+    },
+    {
+      "type": "h2",
+      "text": "Le tracé du prussik en trois tours symétriques"
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Les quatre temps du tracé en boucle",
+      "items": [
+        {
+          "title": "Positionner la boucle prussik",
+          "body": "Tiens la boucle fermée en main, ton double-pêcheur de fermeture vers toi. Place la boucle perpendiculairement à la corde principale, à l'endroit où tu veux monter le prussik."
+        },
+        {
+          "title": "Premier tour autour de la corde",
+          "body": "Fais passer la boucle autour de la corde principale, en faisant ressortir l'extrémité par-dessus puis par-dessous. Tu obtiens un premier tour avec deux brins parallèles qui sortent du même côté."
+        },
+        {
+          "title": "Deuxième et troisième tours symétriques",
+          "body": "Répète l'opération deux fois pour obtenir trois tours superposés en spirale autour de la corde. Chaque tour passe exactement à côté du précédent, sans croisement parasite. La symétrie est essentielle pour un blocage uniforme."
+        },
+        {
+          "title": "Engager la longe et tirer",
+          "body": "Passe la longe restante de la boucle dans le mousqueton de connexion, puis tire vers le bas pour serrer les trois tours. Le prussik se compacte autour de la corde et devient bloquant."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "html": "Le tracé prend dix à quinze secondes une fois la technique acquise. La principale difficulté pour le débutant consiste à respecter la symétrie des tours : si un tour part dans un sens et le suivant dans l'autre, le prussik ne se serre pas correctement et glisse. Le contrôle visuel des trois tours parallèles côte à côte se fait avant chaque mise en tension."
+    },
+    {
+      "type": "h2",
+      "text": "Le comportement du prussik sous charge"
+    },
+    {
+      "type": "p",
+      "html": "Sous traction sur la longe, le prussik se serre instantanément autour de la corde principale et bloque le coulissement. Le mécanisme repose sur la friction entre les fibres de la cordelette et la gaine de la corde : plus on tire, plus la friction augmente, plus le nœud bloque. C'est un blocage par adhérence progressive, pas par coincement mécanique."
+    },
+    {
+      "type": "p",
+      "html": "Cette physique implique trois propriétés pratiques. Première propriété, le prussik bloque dans les deux sens de la corde, contrairement au demi-cabestan qui ne freine que dans un sens. Tu peux donc monter ou descendre sur la corde en faisant simplement glisser le prussik sans tension, puis en bloquant à volonté. Deuxième propriété, le serrage devient rapidement très ferme : après une charge de 1 ou 2 kN, le prussik demande de l'effort pour se desserrer."
+    },
+    {
+      "type": "p",
+      "html": "Troisième propriété, le prussik fond sous charge dynamique élevée. À partir d'environ 5 à 7 kN, la chaleur générée par le glissement initial peut dégrader la cordelette. C'est pour cette raison qu'on n'utilise jamais le prussik comme assurage principal de chute, mais uniquement comme sécurité passive de rappel ou comme système de mouflage en charge progressive."
+    },
+    {
+      "type": "tip",
+      "title": "Le prussik en rappel sécurisé",
+      "body": "Monte ton prussik en aval du descendeur, c'est-à-dire en dessous, et accroche-le à ta jambe via un mousqueton. En descente, tu fais glisser le prussik avec ta main qui freine. Si tu lâches le descendeur, le prussik se serre instantanément et te bloque. Cette config sauve des accidents de rappel chaque année, surtout en grande voie engagée.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Le prussik en mouflage de secours"
+    },
+    {
+      "type": "p",
+      "html": "Le second grand usage du prussik est le mouflage de secours en grande voie ou en alpinisme. Quand un grimpeur chute et reste suspendu sous le surplomb sans pouvoir remonter, le second au relais doit monter un système de démultiplication pour le hisser. Le prussik intervient à deux endroits clés : pour transférer la charge du système d'assurage initial vers un mouflage actif, et pour fixer le brin actif pendant les phases de relâche du mouflage."
+    },
+    {
+      "type": "p",
+      "html": "Un mouflage classique en escalade utilise deux prussiks : un fixé sur la corde tendue qui fait office de retenue, et un coulissant qui sert à tirer. Le rapport de démultiplication varie de 3:1 pour un système simple à 6:1 ou 9:1 pour des mouflages complexes. La maîtrise de ces manipulations fait partie de la formation autonomie en grande voie, généralement dispensée par les clubs FFME ou les guides indépendants."
+    },
+    {
+      "type": "h2",
+      "text": "Les limites pratiques du prussik"
+    },
+    {
+      "type": "p",
+      "html": "Trois limites importantes encadrent l'usage du prussik. Première limite, le desserrage manuel après chargement. Une fois le prussik fortement serré, par exemple après avoir tenu un grimpeur pesant son poids sur quelques secondes, il faut le faire reculer manuellement le long de la corde en tirant alternativement sur les tours. Cette manipulation prend du temps et peut devenir pénible avec les mains froides ou gantées."
+    },
+    {
+      "type": "p",
+      "html": "Deuxième limite, la sensibilité aux conditions de la corde. Sur corde mouillée, gelée ou couverte de boue, le prussik peut soit glisser sous charge, soit au contraire bloquer définitivement sans pouvoir se desserrer. Les conditions hivernales en alpinisme dégradent significativement la fiabilité du prussik, ce qui motive l'usage de variantes type Machard plus tolérantes aux conditions difficiles."
+    },
+    {
+      "type": "p",
+      "html": "Troisième limite, le prussik ne s'utilise jamais directement sur des câbles métalliques, des sangles cousues ou des cordes statiques très dures. Le coefficient de friction nécessaire au blocage suppose une corde dynamique standard à gaine tressée. Sur autre matériau, le prussik glisse ou ne bloque pas correctement, le risque de défaillance est réel."
+    },
+    {
+      "type": "table",
+      "caption": "Choix du nombre de tours selon la corde et la cordelette",
+      "headers": [
+        "Corde principale",
+        "Cordelette",
+        "Nombre de tours",
+        "Comportement"
+      ],
+      "rows": [
+        [
+          "Ø 9-10 mm dynamique",
+          "Ø 7 mm",
+          "3 tours",
+          "Blocage optimal"
+        ],
+        [
+          "Ø 9-10 mm dynamique",
+          "Ø 6 mm",
+          "3-4 tours",
+          "Blocage bon, glissement à vide facile"
+        ],
+        [
+          "Ø 8 mm rappel double",
+          "Ø 6 mm",
+          "4 tours",
+          "Blocage suffisant, sensible aux conditions"
+        ],
+        [
+          "Ø 10-11 mm statique",
+          "Ø 7-8 mm",
+          "3 tours",
+          "Difficile à déplacer, blocage très ferme"
+        ],
+        [
+          "Ø 9-10 mm gelée",
+          "Ø 7 mm",
+          "4 tours",
+          "Glissement possible, surveiller"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Le prussik comparé aux variantes modernes"
+    },
+    {
+      "type": "p",
+      "html": "Le prussik a donné naissance à plusieurs variantes optimisées pour des usages spécifiques. Le <a href=\"/blog/noeud-machard-comparatif\">Machard tubulaire</a> se desserre plus facilement après charge, ce qui le rend pratique en rappel pour les utilisateurs qui répètent l'opération. Le Bachmann utilise un mousqueton dans la boucle pour faciliter le déblocage, au prix d'une fiabilité légèrement inférieure. Le Kreuzklemm, ou prussik symétrique, optimise le serrage progressif sur corde lisse."
+    },
+    {
+      "type": "p",
+      "html": "Aucune variante ne remplace complètement le prussik historique. Pour le mouflage en grande voie, le prussik classique reste l'option la plus fiable et la plus polyvalente. Pour le rappel sécurisé, le Machard est devenu majoritaire en pratique récente. Pour la remontée sur corde fixe à des fins de spéléologie ou d'élagage, on utilise plutôt des systèmes mécaniques type Croll ou Tibloc."
+    },
+    {
+      "type": "h2",
+      "text": "Apprendre à confectionner et entretenir sa boucle prussik"
+    },
+    {
+      "type": "p",
+      "html": "Une boucle prussik bien faite dure plusieurs années si elle n'est pas chargée brutalement. La cordelette en polyamide ne se détériore pas sous l'effet de l'exposition à la lumière à condition d'éviter le stockage prolongé en plein soleil. Inspecte la boucle avant chaque sortie : le double-pêcheur doit être bien serré, la cordelette ne doit pas présenter d'usure visible sur la gaine, les fibres internes ne doivent pas saillir."
+    },
+    {
+      "type": "p",
+      "html": "Une boucle prussik usée se reconnaît à trois signes : la gaine brille par polissage au point de friction principal, la cordelette devient plus rigide sur sa longueur, ou des fils internes sont visibles à travers la gaine. Dès qu'un de ces signes apparaît, la boucle doit être remplacée. Le coût d'une cordelette neuve étant modeste, environ 10 à 15 € pour 1,5 mètre, on ne lésine pas sur le renouvellement."
+    },
+    {
+      "type": "quote",
+      "text": "Un prussik en sécurité de rappel coûte deux minutes à monter. Une chute libre de cinq mètres parce que tu as lâché ton descendeur coûte beaucoup plus.",
+      "author": "Adage de grande voie",
+      "role": "transmis par les guides UIAGM"
+    },
+    {
+      "type": "h2",
+      "text": "Quand utiliser un prussik et quand préférer une autre solution"
+    },
+    {
+      "type": "p",
+      "html": "Le prussik s'impose dans trois situations principales : rappel sécurisé en grande voie, mouflage de secours, remontée sur corde fixe en cas d'incapacité. Pour ces usages, le rapport simplicité-fiabilité reste imbattable. Dans les autres situations d'assurage en escalade, on préfère un système mécanique type Grigri ou Reverso, plus rapide à mettre en place et moins susceptible aux conditions de la corde."
+    },
+    {
+      "type": "p",
+      "html": "Une exception notable concerne le rappel hivernal en alpinisme, où la corde gelée perturbe le fonctionnement des systèmes mécaniques. Le prussik, monté en variante Machard quatre tours, reste alors une option de sécurité. Cette pratique fait partie du bagage technique transmis dans les formations alpinisme avancées, et n'est pas nécessaire en escalade sportive standard. Combiné à un <a href=\"/blog/nettoyer-relais-rappel-securite\">contrôle systématique du relais avant rappel</a>, le prussik en sécurité passive ferme la chaîne de fiabilité du grimpeur."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle longueur de cordelette acheter pour confectionner une boucle prussik ?",
+      "a": "Compte 1,30 à 1,50 mètre de cordelette en polyamide tressé Ø 6 ou 7 mm. Après fermeture par double-pêcheur, tu obtiens une boucle utile de 50 à 60 cm, suffisante pour trois tours autour d'une corde dynamique et laisser dépasser une longe pratique pour la connexion au mousqueton."
+    },
+    {
+      "q": "Combien de chutes peut tenir un prussik avant qu'il faille le changer ?",
+      "a": "Aucun chiffre normatif n'est fixé. Un prussik tient sans dommage les charges statiques et les blocages doux de la pratique courante. En revanche, après une seule charge dynamique forte au-delà de 4-5 kN, la cordelette peut être thermiquement dégradée. Inspection visuelle après chaque sollicitation forte, remplacement systématique en cas de doute."
+    },
+    {
+      "q": "Quelle différence avec le Machard ou le Bachmann ?",
+      "a": "Le prussik classique se trace en tours symétriques entièrement en cordelette, il bloque dans les deux sens. Le Machard tubulaire a une géométrie tubulaire qui se desserre plus facilement après charge, pratique pour les rappels répétés. Le Bachmann utilise un mousqueton dans la boucle pour faciliter le déblocage manuel. Chacun a ses optimisations selon l'usage."
+    },
+    {
+      "q": "Est-ce qu'on peut utiliser un prussik comme système d'assurage principal ?",
+      "a": "Non, le prussik ne supporte pas les chocs dynamiques d'une chute d'escalade. Sous une chute facteur 1 ou supérieure, la cordelette peut fondre sous la chaleur de friction et glisser ou rompre. Le prussik se limite aux usages passifs : sécurité de rappel, mouflage de secours, remontée sur corde fixe. Pour l'assurage actif, système mécanique obligatoire."
+    },
+    {
+      "q": "Faut-il toujours utiliser un prussik en rappel ou seulement en grande voie ?",
+      "a": "La pratique majoritaire en France recommande le prussik en sécurité passive sur tous les rappels au-delà de la falaise école. En grande voie, en alpinisme ou sur tout rappel engagé, le prussik double le descendeur et bloque automatiquement en cas de perte de contrôle. Sur les rappels courts de falaise école très simples, certains s'en passent, mais la marge de sécurité reste minime pour quelques secondes de mise en place."
+    }
+  ],
+  "cover_alt": "Prussik tracé en trois tours symétriques sur une corde dynamique simple, cordelette orange Ø 7 mm en boucle fermée par double-pêcheur, mousqueton à vis de connexion visible en bas, gros plan sur la géométrie du nœud",
+  "internal_links": [
+    {
+      "slug": "noeuds-escalade-utiles-guide",
+      "anchor": "panorama des nœuds utiles en escalade",
+      "context": "pilier cocon"
+    },
+    {
+      "slug": "noeud-pecheur-double-rappel",
+      "anchor": "double-pêcheur soigneusement serré",
+      "context": "fermeture cordelette"
+    },
+    {
+      "slug": "noeud-machard-comparatif",
+      "anchor": "Machard tubulaire",
+      "context": "variante moderne"
+    },
+    {
+      "slug": "nettoyer-relais-rappel-securite",
+      "anchor": "contrôle systématique du relais avant rappel",
+      "context": "chaîne sécurité"
+    }
+  ],
+  "scheduled_at": "2026-10-08T09:00:00+02:00"
+}

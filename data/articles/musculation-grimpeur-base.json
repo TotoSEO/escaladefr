@@ -1,0 +1,73 @@
+{
+  "slug": "musculation-grimpeur-base",
+  "cocon": "preparation",
+  "type_article": "guide",
+  "numero": 121,
+  "title": "Musculation du grimpeur : les exercices de base utiles",
+  "h1": "Musculation du grimpeur : les exercices de base qui paient",
+  "description": "Programme de musculation pour grimpeur : tractions, dips, gainage, antagonistes. Les exercices de base, séries, fréquence et erreurs à éviter pour progresser sans casser.",
+  "chapo": "La musculation du grimpeur ressemble peu à celle du salle de fitness lambda. Tu cherches du rapport force-poids, pas de l'hypertrophie. Quatre exercices de base couvrent 80 pour cent du gain réel : traction, dip, gainage et travail des antagonistes. Voici la routine que j'ai testée pendant trois saisons pour passer de 7c à 8a en falaise.",
+  "takeaways": [
+    "Privilégie la force relative au volume musculaire pur, la grimpe se joue au rapport force-poids.",
+    "Quatre piliers : tractions, dips, gainage et antagonistes pour équilibrer la chaîne.",
+    "Compte deux séances par semaine de 45 minutes maximum hors séances de grimpe.",
+    "Travaille les antagonistes pour prévenir tendinites du coude et épaule.",
+    "Commence léger six mois, puis ajoute du lest progressivement."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Pourquoi la muscu du grimpeur n'est pas celle du sportif lambda"},
+    {"type": "p", "html": "Quand j'ai démarré au lycée Camille Sée à Colmar, je faisais des séries de curls biceps en pensant que ça m'aiderait à mieux tirer. Erreur classique. La grimpe demande de la <strong>force isométrique</strong> et de la traction verticale, pas du volume au biceps brachial. Trois ans plus tard, j'ai compris : il faut viser le rapport force-poids, le gainage profond, et les antagonistes pour ne pas casser."},
+    {"type": "p", "html": "Un grimpeur de 70 kilos qui fait 15 tractions strictes grimpera mieux qu'un grimpeur de 85 kilos qui en fait 20. Le ratio compte plus que la performance brute. C'est pour ça que les programmes de Lattice Training et Eva Lopez insistent sur la force relative. La <strong>hypertrophie</strong> excessive ajoute du poids mort, sauf si tu pars de très loin en force."},
+    {"type": "h2", "text": "Pilier 1 : les tractions, ton exercice roi"},
+    {"type": "p", "html": "La traction reste l'exercice de base numéro un. Elle reproduit le mouvement de tirer sur une prise. Travaille-la en variant les prises et les amplitudes. Trois variantes essentielles : la traction stricte pronation, la traction supination, et la traction prise neutre. Chaque variante sollicite des angles différents du <strong>biceps brachial</strong> et du dorsal."},
+    {"type": "p", "html": "Pour progresser, applique le principe de surcharge. Si tu fais 10 tractions strictes propres, ajoute 2,5 kilos de lest à la ceinture. Tu retombes à 8, tu remontes à 10 sur quatre semaines, et tu rajoutes. Cette progression linéaire fonctionne pendant 18 mois environ avant de plafonner. Après, tu passes à des protocoles plus avancés type 5 séries de 3 à intensité maximale."},
+    {"type": "list", "variant": "numbered", "title": "Routine tractions deux fois par semaine", "items": [
+      {"title": "Échauffement 3 minutes", "body": "Suspensions passives, activations scapulaires, deux tractions très lentes à vide."},
+      {"title": "Série 1 : 6 tractions strictes lestées", "body": "Charge à 80 pour cent de ton max sur une rep. Repose 3 minutes."},
+      {"title": "Série 2 : 6 tractions strictes lestées", "body": "Même charge, même temps de repos."},
+      {"title": "Série 3 : 6 tractions à vide tempo lent", "body": "Trois secondes pour monter, trois secondes pour descendre."},
+      {"title": "Finition : 2 séries de tractions excentriques", "body": "Tu remontes en sautant, tu descends en 5 secondes contrôlées."}
+    ]},
+    {"type": "h2", "text": "Pilier 2 : les dips et l'antagoniste poussé"},
+    {"type": "p", "html": "Les dips musclent le pectoral, le triceps et le deltoïde antérieur. Ils servent d'<strong>antagoniste</strong> à la traction pour équilibrer ta posture. Sans dips, tu te courbes vers l'avant avec le temps et tu déclenches des tendinites de la coiffe. Compte 3 séries de 8 dips strictes après les tractions, deux fois par semaine. Les anneaux ajoutent une difficulté de stabilisation utile."},
+    {"type": "p", "html": "Si les dips classiques sont trop dures, démarre sur barres parallèles avec assistance élastique, ou utilise des pompes diamant en attendant. Le but est d'égaliser le volume de poussée et de traction sur l'épaule. La règle des préparateurs physiques de Lattice : un dip pour une traction, sur la durée."},
+    {"type": "tip", "title": "Erreur classique", "body": "Faire 50 tractions par séance sans aucun dip ni pompe. Tu déséquilibres ta ceinture scapulaire en quelques semaines. Le résultat tombe vite : épaule qui claque, douleur antérieure, tendinite du sus-épineux. Garde l'équilibre 1 pour 1 entre traction et poussée, sinon tu paies cash trois mois plus tard.", "tone": "erreur"},
+    {"type": "h2", "text": "Pilier 3 : le gainage profond"},
+    {"type": "p", "html": "Le gainage transmet la force des bras vers les pieds. Sans <strong>transverse</strong> activé, tu pompes pour rien. Les exercices clés : planche frontale, planche latérale, hollow body et front lever régressé. Trois minutes de gainage par séance suffisent si tu varies les angles."},
+    {"type": "p", "html": "Le hollow body, hérité de la gymnastique, est devenu le standard chez les grimpeurs de haut niveau. Tu es allongé sur le dos, jambes tendues, bras tendus au-dessus de la tête, et tu maintiens le bas du dos plaqué au sol. Compte 30 secondes par série, trois fois. C'est plus dur que ça en a l'air. Pour l'approfondissement complet, va voir <a href=\"/blog/core-gainage-grimpe\">gainage et core pour la grimpe en dévers</a>."},
+    {"type": "h2", "text": "Pilier 4 : les antagonistes oubliés"},
+    {"type": "p", "html": "Les antagonistes sont les muscles opposés à ceux que tu sollicites en grimpe. Tu tires beaucoup, donc tu dois pousser. Tu fléchis les doigts toute la séance, donc tu dois travailler les extenseurs. Sans ce travail, tu accumules des déséquilibres qui finissent en <strong>épicondylite</strong> ou en syndrome du canal carpien."},
+    {"type": "table", "caption": "Antagonistes à travailler par zone", "headers": ["Zone", "Antagoniste à muscler", "Exercice", "Fréquence"],
+    "rows": [
+      ["Avant-bras", "Extenseurs des doigts", "Élastique en extension", "2 fois par semaine"],
+      ["Coude", "Triceps", "Dips, pompes diamant", "2 fois par semaine"],
+      ["Épaule", "Rotateurs externes", "Rotations élastique", "3 fois par semaine"],
+      ["Dos haut", "Trapèze inférieur", "Y-T-W au sol", "2 fois par semaine"]
+    ]},
+    {"type": "p", "html": "Les rotations externes à l'élastique sont un classique des protocoles de prévention. Coude collé au corps, bras à 90 degrés, tu tournes vers l'extérieur contre la résistance. Trois séries de 15 par bras, deux fois par semaine. Cinq minutes en tout, mais c'est ce qui m'a évité la tendinite récidivante en 2023."},
+    {"type": "h2", "text": "Fréquence et organisation de la semaine"},
+    {"type": "p", "html": "Compte deux séances de muscu par semaine hors grimpe, 45 minutes maximum. Plus, tu accumules de la fatigue qui plombe les séances de grimpe. Moins, tu progresses peu. Espace les séances de muscu de 48 heures minimum pour permettre la récupération. Ne fais jamais muscu lourde la veille d'une séance projet en falaise."},
+    {"type": "p", "html": "Mon planning type sur une semaine : lundi grimpe bloc, mardi muscu 45 min, mercredi repos, jeudi grimpe voie, vendredi muscu 45 min, samedi falaise, dimanche repos. Ce rythme tient sur six à huit semaines avant une semaine de décharge. Sans décharge, tu craques en blessure au bout de trois mois."},
+    {"type": "h2", "text": "Mes erreurs des trois premières années"},
+    {"type": "p", "html": "À 15 ans, je voulais ressembler à Adam Ondra. J'enchaînais 50 tractions par séance, j'oubliais les dips, je ne touchais jamais aux antagonistes. Résultat : épicondylite gauche en 2019, trois mois d'arrêt. Le kiné m'a expliqué que mon dos était trois fois plus fort que mes pectoraux. J'ai tout réorganisé depuis."},
+    {"type": "quote", "text": "Le grimpeur intelligent fait moins de séries mais avec plus de qualité. Cinq tractions strictes lestées valent vingt tractions tirées au menton.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
+    {"type": "p", "html": "Si tu veux aller plus loin, lis <a href=\"/blog/grip-strength-poutre-pan\">travailler les doigts à la poutre</a> et <a href=\"/blog/preparer-corps-tete-grimpe\">la préparation physique et mentale du grimpeur</a>. Pour la nutrition autour de l'entraînement, vois <a href=\"/blog/alimentation-grimpeur-essentiel\">les vrais leviers de l'alimentation du grimpeur</a>."}
+  ],
+  "faq": [
+    {"q": "À partir de quel niveau commencer la musculation pour la grimpe ?", "a": "Démarre la muscu structurée après six mois à un an de grimpe régulière. Avant, ton corps progresse déjà beaucoup par la grimpe seule. Si tu débutes, fais d'abord 3 séances de grimpe par semaine pendant six mois. Ensuite, ajoute deux séances courtes de 30 minutes."},
+    {"q": "Combien de tractions un grimpeur doit-il faire ?", "a": "Un grimpeur 7a en falaise sort 10 à 15 tractions strictes propres. Au-dessus du 7c, on tape souvent 18 à 25. Mais le chiffre brut compte moins que les tractions lestées : viser 50 pour cent de son poids de corps en lest sur une traction est un bon repère pour le 8a."},
+    {"q": "Faut-il faire de la muscu en jour de grimpe ?", "a": "Évite la muscu lourde le même jour qu'une séance projet. Tu peux enchaîner muscu légère après grimpe douce, mais pas l'inverse. La grimpe demande de la fraîcheur neurale, la muscu la consomme. Sépare les deux par au moins six heures si possible."},
+    {"q": "Combien de temps avant de voir les résultats de la muscu pour la grimpe ?", "a": "Six à huit semaines pour les premières adaptations neurales, douze à seize semaines pour des gains structurels. Tu sentiras un gain en force d'avant-bras et en stabilité scapulaire avant un gain de pure traction. La patience paie en muscu, l'impatience casse."},
+    {"q": "Quel matériel minimum pour démarrer ?", "a": "Une barre de traction solide à 80 euros, une ceinture de lest à 30 euros, un élastique de résistance à 15 euros et un peu d'espace au sol. Total moins de 150 euros pour démarrer sérieusement. Pas besoin de salle de muscu pour les six premiers mois."},
+    {"q": "Peut-on faire la muscu à la maison sans équipement lourd ?", "a": "Oui pour le débutant. Une barre fixée à un cadre de porte, un élastique pour les antagonistes, et du gainage au sol couvrent 80 pour cent du programme. Tu ajouteras kettlebell et lest plus tard, vers le 7a-7b. Le pan ou hangboard arrive en complément à partir du 6c."}
+  ],
+  "cover_alt": "Grimpeur lestant une ceinture pour des tractions strictes sur barre, salle d'entraînement",
+  "internal_links": [
+    {"slug": "preparer-corps-tete-grimpe", "anchor": "la préparation physique et mentale du grimpeur", "context": "Pilier préparation"},
+    {"slug": "grip-strength-poutre-pan", "anchor": "travailler les doigts à la poutre", "context": "Force des doigts"},
+    {"slug": "core-gainage-grimpe", "anchor": "gainage et core pour la grimpe en dévers", "context": "Gainage profond"},
+    {"slug": "alimentation-grimpeur-essentiel", "anchor": "les vrais leviers de l'alimentation du grimpeur", "context": "Nutrition entraînement"},
+    {"slug": "tendinite-epaule-coude-grimpe", "anchor": "prévenir les tendinites épaule et coude", "context": "Prévention"}
+  ],
+  "scheduled_at": "2027-02-09T09:00:00+01:00"
+}

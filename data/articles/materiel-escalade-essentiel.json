@@ -1,0 +1,270 @@
+{
+  "slug": "materiel-escalade-essentiel",
+  "cocon": "materiel",
+  "type_article": "hub",
+  "numero": 2,
+  "title": "Matériel d'escalade : l'équipement essentiel à connaître",
+  "h1": "L'équipement d'escalade essentiel.",
+  "description": "Tout le matériel d'escalade utile pour grimper en salle, en falaise et en bloc : chaussons, baudrier, corde, assureur, casque, mousquetons et entretien.",
+  "chapo": "Quel matériel faut-il vraiment pour grimper ? La réponse dépend de la pratique. En salle, trois pièces suffisent. En falaise, la liste s'allonge sérieusement. Je détaille ici l'équipement essentiel, les marques fiables comme Petzl, Black Diamond ou La Sportiva, et l'entretien qui prolonge la durée de vie de chaque pièce.",
+  "takeaways": [
+    "Trois pièces suffisent en salle : chaussons, baudrier, système d'assurage.",
+    "En falaise, ajoute corde dynamique 70 m, casque, dégaines et sac.",
+    "Le baudrier se change après 5 à 7 ans d'usage régulier, parfois moins.",
+    "La corde s'inspecte avant chaque sortie et se lave une à deux fois par an.",
+    "Le marquage CE EN est obligatoire sur tout EPI vendu en Europe."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Le trio de base : chaussons, baudrier, assurage"
+    },
+    {
+      "type": "p",
+      "html": "Avant la corde, avant le casque, avant tout le reste, trois pièces font le grimpeur. Les <strong>chaussons d'escalade</strong> transmettent l'information du pied à la prise, tu sentiras la différence dès le premier pas sur le mur. Le baudrier relie ton corps à la corde via le nœud d'encordement. Et le système d'assurage permet de gérer la corde de ton partenaire en toute sécurité. Sans ces trois là, tu ne grimpes pas."
+    },
+    {
+      "type": "p",
+      "html": "Pour les chaussons, les références <strong>La Sportiva, Scarpa, Tenaya, Five Ten</strong> dominent le marché. En débutant, vise un modèle confortable, plat ou légèrement asymétrique, sans forcer sur la pointure. Le baudrier d'initiation type Petzl Corax, Black Diamond Momentum ou Edelrid Jay fait largement le job pour ses 5 premières années. Côté assurage, le Petzl GriGri reste l'étalon, mais un tube à plaquette type ATC suffit pour démarrer si tu es accompagné."
+    },
+    {
+      "type": "h2",
+      "text": "Pour la falaise : corde, casque, dégaines"
+    },
+    {
+      "type": "p",
+      "html": "Dès que tu sors du mur artificiel, le matériel évolue. La corde dynamique 9.5 à 10 mm en 70 mètres reste le standard pour le sport. Les modèles <strong>Beal Joker, Mammut Infinity, Edelrid Boa</strong> couvrent tous les usages. Le casque devient obligatoire en falaise, n'importe quel grimpeur expérimenté te le dira après avoir vu une chute de caillou de près. Compte une dizaine de dégaines courtes pour la majorité des voies sportives françaises."
+    },
+    {
+      "type": "p",
+      "html": "Tu trouveras un guide détaillé sur <a href=\"/blog/choisir-corde-escalade\">comment choisir sa corde d'escalade</a> et sur <a href=\"/blog/choisir-casque-escalade\">le casque adapté à ta pratique</a>. Pour les sorties en grande voie, il faut ajouter sangles, anneaux cousus, deux assureurs auto-bloquants et un kit de rappel."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Matériel par pratique",
+      "items": [
+        {
+          "title": "Bloc en salle",
+          "body": "Chaussons et magnésie suffisent. Le crashpad existe en salle mais reste rare, les tapis intégrés font le travail."
+        },
+        {
+          "title": "Voie en salle",
+          "body": "Ajoute baudrier, corde semi-statique fournie par la salle, système d'assurage et chaussons. Casque pas obligatoire."
+        },
+        {
+          "title": "Bloc en falaise",
+          "body": "Crashpad de 6 à 10 cm d'épaisseur, brosse, chaussons précis, magnésie. Parfois deux crashpads en parallèle."
+        },
+        {
+          "title": "Voie sportive falaise",
+          "body": "Corde dynamique 70 m, 12 dégaines, baudrier complet, casque, assureur, vache, sac à corde."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Les chaussons : la pièce la plus personnelle"
+    },
+    {
+      "type": "p",
+      "html": "Aucun matériel ne génère autant de débats que les chaussons. Trois familles existent : confort plat pour les longues sessions et la dalle, semi-asymétrique polyvalent pour le sport intermédiaire, et agressif cambré pour le bloc et les voies dures. Chaque marque a sa forme de pied, un Scarpa Drago ne se porte pas comme un La Sportiva Solution. L'essayage en magasin reste irremplaçable."
+    },
+    {
+      "type": "tip",
+      "title": "Première paire",
+      "body": "Ne prends pas un modèle d'expert pour démarrer. Trop douloureux, trop précis, tu n'en exploiteras rien. Une paire confortable comme la Scarpa Origin ou la La Sportiva Tarantulace t'emmène jusqu'au 6c sans souci.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Baudrier et corde : durée de vie et entretien"
+    },
+    {
+      "type": "p",
+      "html": "Le baudrier reste un EPI normé EN 12277. Sa durée de vie maximale tourne autour de <strong>10 ans à partir de la date de fabrication</strong>, et 5 à 7 ans en usage régulier. Inspecte les coutures, les sangles porteuses et l'anneau d'encordement avant chaque sortie. La corde a une espérance de vie similaire mais dépend surtout du nombre de jours d'usage et des chutes prises."
+    },
+    {
+      "type": "p",
+      "html": "Une corde sport bien entretenue tient 3 à 5 ans. Lave la une à deux fois par an dans une baignoire d'eau tiède avec un savon doux, jamais en machine à essorage. Sèche la à plat, à l'ombre, jamais au soleil direct ni près d'un radiateur. Consulte <a href=\"/blog/entretien-corde-lavage-rangement\">notre guide sur l'entretien de la corde</a> pour le détail des bonnes pratiques."
+    },
+    {
+      "type": "table",
+      "caption": "Durée de vie indicative des principaux EPI",
+      "headers": ["Matériel", "Durée maxi", "Inspection"],
+      "rows": [
+        ["Corde dynamique", "10 ans dont 3-5 d'usage", "Avant chaque sortie"],
+        ["Baudrier", "10 ans dont 5-7 d'usage", "Tous les mois"],
+        ["Casque", "10 ans, à changer après choc", "Avant chaque sortie"],
+        ["Mousquetons", "Indéfini sans choc fort", "Annuelle"],
+        ["Sangles", "10 ans, à changer après choc", "Tous les mois"]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Mousquetons et dégaines : décrypter la fiche technique"
+    },
+    {
+      "type": "p",
+      "html": "Un mousqueton, c'est trois chiffres minimum gravés dessus : la résistance axiale grand axe (autour de 22 kN), la résistance petit axe (autour de 8 kN) et la résistance doigt ouvert (autour de 7 kN). Le marquage CE et la norme EN 12275 garantissent un produit conforme. Les marques <strong>Petzl, Black Diamond, Wild Country, DMM</strong> dominent ce segment."
+    },
+    {
+      "type": "p",
+      "html": "Pour les dégaines, deux philosophies existent. Les dégaines courtes (10 à 12 cm) pour les voies sport peu sinueuses et le clipping rapide. Les dégaines longues (16 à 18 cm) pour les voies en grande voie ou les itinéraires zigzagants qui demandent de limiter le tirage. Une dotation de 12 dégaines mixtes couvre 90% des voies françaises. Pour les vrais débutants, je conseille de partir avec 10 dégaines courtes identiques pour s'habituer au geste."
+    },
+    {
+      "type": "h2",
+      "text": "Magnésie, brosse, sac : les petits accessoires qui changent tout"
+    },
+    {
+      "type": "p",
+      "html": "La magnésie absorbe la transpiration et améliore l'accroche sur les prises. Elle existe en poudre, en bloc ou liquide. La liquide tient mieux et fait moins de poussière, idéale en salle. La poudre reste reine en falaise. Une brosse à dents recyclée ou une vraie brosse <strong>Lapis ou Friction Labs</strong> permet de nettoyer les prises encrassées par la magnésie accumulée."
+    },
+    {
+      "type": "p",
+      "html": "Le sac à corde évite que ta corde traîne dans la terre, les épines et les sentiers. Un bon sac type Petzl Kab ou Beal Combi protège vraiment l'âme de la corde. Compte aussi une trousse de premiers secours, un sifflet et une frontale pour les retours tardifs en falaise."
+    },
+    {
+      "type": "h2",
+      "text": "Acheter neuf, d'occasion, ou louer ?"
+    },
+    {
+      "type": "p",
+      "html": "Pour démarrer, la location en salle coûte 5 à 8 euros la séance et permet de tester sans investir. Quand tu passes le cap de 10 sorties par an, l'achat devient rentable. Le neuf garantit la traçabilité, indispensable pour les EPI textiles. L'occasion convient uniquement pour le matériel métallique, jamais pour une corde ou un baudrier inconnu. Tu peux lire <a href=\"/blog/matos-occasion-acheter\">notre dossier sur l'achat de matériel d'occasion</a> pour faire les bons choix."
+    },
+    {
+      "type": "quote",
+      "text": "Le bon matériel n'est pas le plus cher, c'est celui que tu connais, que tu entretiens et qui correspond à ton niveau d'engagement.",
+      "author": "Antoine",
+      "role": "Rédacteur escalade-france.fr"
+    },
+    {
+      "type": "h2",
+      "text": "Vetements et équipement complémentaire"
+    },
+    {
+      "type": "p",
+      "html": "Côté textile, oublie le coton qui retient l'humidité. Un short ou un pantalon souple type <strong>Prana, Black Diamond, Edelrid</strong> facilite les écarts. Un t-shirt synthétique ou en mérinos régule mieux la transpiration. En falaise, prévoie une doudoune compacte pour les pauses au relais et une coupe-vent contre les courants d'air."
+    },
+    {
+      "type": "p",
+      "html": "Pour le bloc en extérieur, le crashpad reste l'élément central. Le Mondrock, le Black Diamond Mondo ou le Petzl Cirro couvrent les besoins du blocage en falaise. Cherche un minimum de 8 cm d'épaisseur et un système de portage confortable, tu vas passer du temps à marcher avec."
+    },
+    {
+      "type": "image_text",
+      "image": "/blog/materiel-escalade-essentiel.webp",
+      "alt": "Étalage de matériel d'escalade sur un tapis : chaussons, baudrier, mousquetons et corde",
+      "text": "L'organisation de ton matériel devient un rituel. Chaque pièce a sa place dans le sac, chaque mousqueton se vérifie au coup d'œil. Cette routine évite les oublis, accélère le départ et garde l'équipement en bon état plus longtemps. Beaucoup de grimpeurs notent la date d'achat de leur corde au feutre indélébile sur l'étiquette d'extrémité.",
+      "position": "right",
+      "caption": "Le check-up matériel avant chaque sortie"
+    },
+    {
+      "type": "h2",
+      "text": "Les checklist par discipline pour ne rien oublier"
+    },
+    {
+      "type": "p",
+      "html": "Avant de partir, une checklist sauve toujours. En grande voie, l'oubli d'un assureur autobloquant peut transformer la journée en cauchemar. En falaise sportive, sans clé Allen pour vérifier les goujons douteux, tu perds en sérénité. Voici les indispensables que je vérifie avant chaque sortie selon la discipline."
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Check matériel avant de quitter la maison",
+      "items": [
+        {
+          "title": "Salle",
+          "body": "Chaussons, baudrier, GriGri ou tube, magnésie, t-shirt de rechange. Cinq minutes top chrono pour le sac."
+        },
+        {
+          "title": "Falaise sport",
+          "body": "Le pack salle plus corde 70 m, 12 dégaines, casque, sac à corde, vache, topo, eau et casse-croûte."
+        },
+        {
+          "title": "Grande voie",
+          "body": "Tout le pack falaise plus assureur autobloquant, kit rappel (cordelette prussik), sangles, frontale et couverture de survie."
+        },
+        {
+          "title": "Bloc extérieur",
+          "body": "Crashpad, chaussons, brosse, magnésie, topo et compagnon de para. Pas de corde, pas de baudrier nécessaires."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Stockage et transport : prolonger la vie du matériel"
+    },
+    {
+      "type": "p",
+      "html": "Le matériel d'escalade craint trois ennemis principaux : les UV, l'humidité prolongée et les solvants. Stocke ton équipement dans un endroit sec, à l'abri de la lumière directe et loin des produits chimiques (essence, huile, white spirit). Une corde qui passe l'hiver dans un garage humide perd 30% de sa durée de vie utile. Une boîte plastique aérée ou un sac à corde dédié font parfaitement l'affaire."
+    },
+    {
+      "type": "p",
+      "html": "Pour le transport en voiture, évite de laisser ton sac dans le coffre en plein été. La température dans un véhicule fermé peut grimper à 70°C, ce qui dégrade les fibres synthétiques du polyamide. En avion, prends ton baudrier, ta corde et tes chaussons en cabine si possible. Les soutes ne sont pas climatisées et les variations de pression peuvent endommager le matériel sensible. Ton équipement coûte parfois plus cher que le billet, autant le bichonner."
+    },
+    {
+      "type": "p",
+      "html": "L'entretien rappelle qu'en escalade, on confie sa vie à des bouts de tissu et de métal. Cette confiance se construit par l'inspection régulière, le respect des durées de vie et la connaissance de chaque pièce. Investis dans du matériel certifié, vérifie le marquage CE et les normes EN, et tiens toi à jour des rappels constructeurs publiés par Petzl, Black Diamond ou Beal. Mieux vaut une corde réformée à temps qu'un drame évitable."
+    },
+    {
+      "type": "tip",
+      "title": "Carnet de suivi",
+      "body": "Tiens un carnet où tu notes la date d'achat de chaque pièce, les chutes prises et les inspections. C'est l'usage standard chez les pros, ça aide à savoir quand réformer un matériel et ça documente l'historique en cas de question.",
+      "tone": "astuce"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quel budget prévoir pour débuter l'escalade ?",
+      "a": "Pour démarrer en salle, compte 200 à 300 euros pour la trilogie chaussons, baudrier et système d'assurage. Pour la falaise sportive, ajoute 400 à 600 euros pour la corde, le casque, les dégaines et le sac. Le bloc extérieur demande un crashpad supplémentaire de 200 à 400 euros."
+    },
+    {
+      "q": "Comment savoir si une corde est encore utilisable ?",
+      "a": "Inspecte la corde sur toute sa longueur en la faisant glisser entre les mains. Tu cherches des zones molles, des bosses dures, des entailles de la gaine ou un effilochage. Toute corde ayant pris une chute violente avec facteur supérieur à 1, ou tombée d'une falaise, doit être réformée immédiatement."
+    },
+    {
+      "q": "Quelle taille de chaussons d'escalade choisir ?",
+      "a": "Démarre avec ta pointure de ville ou une demi pointure en dessous. Le pied doit être plaqué sans douleur. Évite le mythe du chausson trop petit en débutant, tu perdras le plaisir de grimper sans gagner en performance. Quand tu progresses au-delà du 6c, tu pourras serrer davantage."
+    },
+    {
+      "q": "Faut-il un casque en escalade en salle ?",
+      "a": "Non, le casque n'est pas obligatoire en salle d'escalade et la plupart des grimpeurs n'en portent pas. En revanche, dès que tu grimpes en falaise naturelle, le casque devient indispensable pour te protéger des chutes de pierres et des chocs en cas de chute."
+    },
+    {
+      "q": "Quelle est la différence entre une dégaine sport et trad ?",
+      "a": "Une dégaine sport associe deux mousquetons à doigt droit reliés par une sangle courte (10-12 cm). Une dégaine trad utilise souvent des mousquetons plus légers et des sangles plus longues (60 cm pliées) pour réduire le tirage sur les voies tortueuses et limiter l'effet zigzag de la corde."
+    },
+    {
+      "q": "Quand changer son baudrier d'escalade ?",
+      "a": "Change ton baudrier après 5 à 7 ans d'usage régulier, ou plus tôt si tu vois une coutures fragilisée, une sangle abîmée ou un anneau d'encordement effiloché. La date de fabrication figure sur l'étiquette intérieure, ne dépasse jamais 10 ans même sans usage intensif."
+    }
+  ],
+  "cover_alt": "Matériel d'escalade étalé au sol : chaussons, baudrier, corde lovée, casque et dégaines",
+  "internal_links": [
+    {
+      "slug": "choisir-chaussons-escalade",
+      "anchor": "comment choisir ses chaussons",
+      "context": "Article enfant cocon materiel"
+    },
+    {
+      "slug": "choisir-corde-escalade",
+      "anchor": "comment choisir sa corde d'escalade",
+      "context": "Article enfant cocon materiel"
+    },
+    {
+      "slug": "choisir-casque-escalade",
+      "anchor": "le casque adapté à ta pratique",
+      "context": "Article enfant cocon materiel"
+    },
+    {
+      "slug": "entretien-corde-lavage-rangement",
+      "anchor": "notre guide sur l'entretien de la corde",
+      "context": "Article enfant cocon materiel"
+    },
+    {
+      "slug": "matos-occasion-acheter",
+      "anchor": "notre dossier sur l'achat de matériel d'occasion",
+      "context": "Article enfant cocon materiel"
+    }
+  ],
+  "scheduled_at": "2026-05-19T09:00:00+02:00"
+}

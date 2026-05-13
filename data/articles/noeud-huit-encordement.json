@@ -1,0 +1,278 @@
+{
+  "slug": "noeud-huit-encordement",
+  "cocon": "noeuds",
+  "type_article": "guide",
+  "numero": 65,
+  "title": "Nœud de huit : l'encordement de référence en escalade",
+  "h1": "Le nœud de huit, l'encordement de référence en escalade",
+  "description": "Le huit en double, comment le tracer, vérifier la gansette, gérer le brin libre, éviter les erreurs courantes. Le nœud d'encordement universel.",
+  "chapo": "Le nœud de huit reste l'encordement standard en escalade depuis les années 1970. Chaque grimpeur le trace plusieurs fois par séance, parfois sans même le regarder. Pourtant la vérification du tracé reste responsable d'un nombre régulier d'accidents en falaise. Décryptage du tracé, de la vérification, du dimensionnement du brin libre et des variantes courantes.",
+  "takeaways": [
+    "Le nœud de huit en double s'encorde directement dans le pontet du baudrier, jamais sur un mousqueton, et reste le standard mondial depuis cinquante ans.",
+    "Le brin libre après le nœud doit mesurer 25 à 30 cm pour absorber le serrage à la première chute et garantir la stabilité du nœud.",
+    "La vérification croisée avec le partenaire avant chaque départ vérifie la gansette, le brin de tension, la double passe et la longueur du brin libre.",
+    "Le huit perd 20 à 25 % de la résistance nominale de la corde, ce qui reste largement supérieur aux forces générées par une chute en moulinette ou en tête.",
+    "Le pêcheur simple en arrêt sur le brin libre reste une sécurité optionnelle, déconseillée par certains formateurs car elle complique le contrôle visuel du nœud."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Pourquoi le nœud de huit s'est imposé comme standard"
+    },
+    {
+      "type": "p",
+      "html": "Le <strong>nœud de huit en double</strong> domine l'encordement moderne pour trois raisons concrètes. Il se trace en une dizaine de secondes après quelques séances de pratique, il se vérifie visuellement d'un coup d'œil grâce à sa forme géométrique reconnaissable, et il conserve une grande partie de la résistance de la corde après serrage. Les fédérations de montagne du monde entier l'ont retenu comme nœud d'encordement de référence depuis les années 1970, supplantant progressivement le nœud de chaise utilisé en alpinisme classique. Sur le <a href=\"/blog/noeuds-escalade-utiles-guide\">panorama des nœuds utiles en escalade</a>, le huit occupe la position centrale parce qu'il accompagne chaque grimpeur du premier au dernier jour de pratique."
+    },
+    {
+      "type": "p",
+      "html": "Le huit fonctionne en <strong>double passe</strong>, le brin courant suit exactement le trajet du premier huit déjà tracé. Cette géométrie crée des frottements internes qui bloquent le nœud sous tension. Une corde dynamique conforme à la norme EN 892 affiche une charge de rupture de 22 à 30 kN, et le huit conserve 75 à 80 % de cette résistance, largement au-dessus des 6 à 9 kN générés par une chute facteur 1."
+    },
+    {
+      "type": "p",
+      "html": "Comparé au nœud de <a href=\"/blog/noeud-chaise-alpinisme\">chaise utilisé en alpinisme</a>, le huit présente surtout l'avantage de la lisibilité. À un mètre de distance, on identifie immédiatement un huit bien tracé ou un huit raté. Cette propriété explique son adoption universelle, depuis les salles d'initiation jusqu'aux compétitions internationales."
+    },
+    {
+      "type": "h2",
+      "text": "Le tracé du huit en double, étape par étape"
+    },
+    {
+      "type": "p",
+      "html": "Le huit se trace en deux temps. Premier temps, tu formes un huit simple à environ un mètre du bout de la corde, en croisant le brin courant par-dessus puis par-dessous le brin de tension pour dessiner une forme caractéristique en deux boucles. Second temps, tu passes le brin libre dans le pontet du baudrier, c'est-à-dire l'anneau ventral en sangle qui relie les boucles de cuisse à la ceinture, puis tu repasses ce même brin dans toutes les courbes du huit déjà tracé, dans l'ordre inverse, pour doubler chaque passe."
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Les six gestes du tracé en double passe",
+      "items": [
+        {
+          "title": "Mesurer la longueur de corde nécessaire",
+          "body": "Prends environ un mètre depuis le bout de la corde. Trop court et tu manqueras de matière pour finir le nœud. Trop long et tu laisseras pendre un brin libre encombrant qui peut s'accrocher dans les dégaines."
+        },
+        {
+          "title": "Former la première boucle, ou gansette",
+          "body": "Croise le brin courant par-dessus le brin de tension pour former une boucle ouverte. Le brin libre doit ressortir vers le haut. Cette boucle est la gansette qui donne sa forme au huit."
+        },
+        {
+          "title": "Tracer le huit simple",
+          "body": "Repasse le brin libre par-dessous le brin de tension puis dans la gansette, en suivant un trajet qui dessine deux boucles entrelacées. Tu obtiens un huit simple avec deux boucles visibles."
+        },
+        {
+          "title": "Passer le brin libre dans le pontet",
+          "body": "Engage le brin libre dans le pontet du baudrier, en passant par les deux boucles de cuisse et la ceinture, jamais sur un mousqueton ni dans un anneau d'assurage. Le pontet est l'unique point d'encordement validé pour un nœud de huit."
+        },
+        {
+          "title": "Doubler la passe en suivant le tracé",
+          "body": "Reviens dans le huit déjà tracé et fais suivre exactement le même chemin au brin libre, en passant à côté du premier brin sans le croiser. Chaque courbe du huit est désormais constituée de deux brins parallèles."
+        },
+        {
+          "title": "Serrer et ajuster",
+          "body": "Tire les quatre brins du nœud un par un pour le serrer uniformément. Le nœud doit être propre, sans croisement parasite. Le brin libre qui dépasse doit mesurer 25 à 30 cm."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "html": "La pratique répétée du tracé en salle finit par rendre le geste automatique. Beaucoup de grimpeurs confirmés le réalisent en une dizaine de secondes sans regarder la corde, mais cette automatisation ne dispense jamais de la vérification visuelle finale. La <a href=\"/blog/retenir-noeuds-escalade-methode\">mémorisation du tracé</a> passe par la répétition systématique en salle, idéalement les yeux fermés une fois le geste maîtrisé, pour éprouver la fiabilité du réflexe."
+    },
+    {
+      "type": "h2",
+      "text": "Vérifier son huit et celui du partenaire"
+    },
+    {
+      "type": "p",
+      "html": "La vérification du nœud constitue le second pilier de l'encordement, à égalité avec le tracé lui-même. Plusieurs accidents graves chaque année en France impliquent un huit mal terminé ou non vérifié, généralement chez des grimpeurs expérimentés qui se sont laissés distraire entre le tracé et le départ. La <a href=\"/blog/verifier-noeud-partenaire\">vérification croisée systématique</a> avec le partenaire reste la parade la plus efficace."
+    },
+    {
+      "type": "p",
+      "html": "La vérification visuelle d'un huit terminé suit quatre points de contrôle. Premier point, la gansette est passée dans le pontet et nulle part ailleurs. Second point, le nœud présente bien quatre courbes parallèles deux par deux, signe que la double passe est complète. Troisième point, aucun croisement parasite ne perturbe la géométrie du nœud. Quatrième point, le brin libre dépasse de 25 à 30 cm minimum, jamais moins."
+    },
+    {
+      "type": "tip",
+      "title": "La triple vérification avant chaque départ",
+      "body": "Avant que le grimpeur quitte le sol, le binôme se vérifie mutuellement à voix haute. Le grimpeur dit \"baudrier serré, huit dans le pontet, brin libre 30 cm\". L'assureur répond \"corde dans le système, mousqueton à vis fermé, queue de vache nouée\". Cette routine prend dix secondes et a évité plus de chutes au sol que n'importe quelle innovation technique des trente dernières années.",
+      "tone": "attention"
+    },
+    {
+      "type": "h2",
+      "text": "Le bon dimensionnement du brin libre"
+    },
+    {
+      "type": "p",
+      "html": "Le brin libre, parfois appelé brin courant restant ou queue de nœud, doit mesurer entre 25 et 30 cm une fois le nœud serré. Cette longueur n'est pas anodine. Lors d'une première chute, le nœud se serre brutalement et avale plusieurs centimètres de corde dans ses spires. Un brin libre de seulement 10 cm peut alors devenir si court qu'il finit par se libérer sous tension répétée. C'est l'un des modes de défaillance documentés des huit mal réglés."
+    },
+    {
+      "type": "p",
+      "html": "À l'inverse, un brin libre de plus de 40 cm encombre la zone du baudrier et peut s'accrocher dans les dégaines au moment de la pose. La règle pratique consiste à laisser dépasser une longueur équivalente à la largeur d'une main ouverte, soit 25 à 30 cm. Cette mesure se vérifie d'un coup d'œil et se corrige en retraçant un huit légèrement plus loin sur le brin courant."
+    },
+    {
+      "type": "h2",
+      "text": "Faut-il rajouter un pêcheur simple en arrêt"
+    },
+    {
+      "type": "p",
+      "html": "La question du <strong>pêcheur simple en arrêt</strong> sur le brin libre divise les écoles depuis trente ans. Certains formateurs FFME le recommandent comme sécurité supplémentaire, d'autres le déconseillent au motif qu'il alourdit visuellement le nœud et complique la vérification. La position dominante en 2026 considère que le huit en double bien serré, avec un brin libre de 25 à 30 cm, ne nécessite pas de pêcheur en arrêt. Le risque résiduel de défaillance d'un huit correctement tracé reste statistiquement négligeable."
+    },
+    {
+      "type": "p",
+      "html": "Le pêcheur en arrêt peut apparaître utile dans deux situations spécifiques. Première situation, l'apprentissage chez le débutant qui peine à dimensionner son brin libre. Le pêcheur agit comme garde-fou pédagogique le temps que le geste se stabilise. Seconde situation, la grande voie multi-longueurs où on cherche une marge maximale. Dans les deux cas, le pêcheur simple suffit, inutile de doubler."
+    },
+    {
+      "type": "h2",
+      "text": "Les erreurs courantes du tracé"
+    },
+    {
+      "type": "p",
+      "html": "Trois erreurs reviennent régulièrement dans les ateliers de vérification. La première consiste à encorder dans le <strong>mousqueton du pontet</strong> plutôt que dans le pontet lui-même. Faute majeure, le mousqueton n'étant pas dimensionné pour les forces d'une chute en tête. Le huit s'encorde exclusivement dans le pontet textile."
+    },
+    {
+      "type": "p",
+      "html": "Deuxième erreur, la passe simple non doublée. Le grimpeur trace un huit simple, le passe dans le pontet, mais oublie de doubler en suivant le tracé initial. Le nœud résultant est un huit simple, beaucoup moins résistant. La vérification visuelle des quatre courbes parallèles deux à deux détecte instantanément cette erreur."
+    },
+    {
+      "type": "p",
+      "html": "Troisième erreur, la double passe inversée. Le brin courant suit le huit initial mais croise les passes au lieu de les longer parallèlement. Sous tension, ce nœud peut se transformer en configuration instable. La vérification des deux brins parallèles dans chaque courbe identifie le problème."
+    },
+    {
+      "type": "table",
+      "caption": "Comparaison du huit avec les autres nœuds d'encordement",
+      "headers": [
+        "Nœud",
+        "Vitesse de tracé",
+        "Vérification visuelle",
+        "Charge conservée",
+        "Usage actuel"
+      ],
+      "rows": [
+        [
+          "Huit en double",
+          "10 secondes",
+          "Très lisible",
+          "75-80 %",
+          "Standard mondial"
+        ],
+        [
+          "Chaise double",
+          "15 secondes",
+          "Moins lisible",
+          "70-75 %",
+          "Alpinisme, secours"
+        ],
+        [
+          "Neuf en double",
+          "12 secondes",
+          "Lisible",
+          "70-75 %",
+          "Rare, marginalisé"
+        ],
+        [
+          "Yosemite (huit modifié)",
+          "12 secondes",
+          "Lisible si formé",
+          "75-80 %",
+          "Marginal, USA"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Le huit dans le contexte de la grande voie"
+    },
+    {
+      "type": "p",
+      "html": "En grande voie multi-longueurs, le huit reste le nœud d'encordement de référence sur toute la durée de la course. Le grimpeur garde son huit serré pendant plusieurs heures, à travers les relais, les rappels et les pauses, sans le renouer. Le nœud se serre progressivement sous l'effet des chutes répétées, devenant parfois difficile à défaire en fin de journée."
+    },
+    {
+      "type": "p",
+      "html": "Quand le huit est trop serré pour se défaire à la main, roule-le entre les paumes pour casser les frottements internes, puis dénoue méthodiquement courbe par courbe. Évite l'outil métallique qui peut endommager la gaine. En conditions humides ou givrées, le serrage devient parfois quasi indéfaisable, ce qui justifie de l'inspecter entre deux longueurs."
+    },
+    {
+      "type": "p",
+      "html": "Pour la jonction entre deux longueurs au relais, le grimpeur utilise généralement un <a href=\"/blog/noeud-cabestan-relais\">cabestan sur mousqueton à vis</a> plutôt qu'un huit, parce que le cabestan se règle finement en longueur et se défait instantanément. Le huit reste cantonné à l'encordement permanent dans le pontet."
+    },
+    {
+      "type": "h2",
+      "text": "Entretien du nœud et durée de vie de la corde"
+    },
+    {
+      "type": "p",
+      "html": "Un même huit peut rester serré dans le pontet sur toute la durée d'une séance, voire d'une journée complète. Aucune réglementation ne fixe de durée maximale. La logique pratique recommande de le défaire et de le renouer entre deux séances espacées, pour éviter la fatigue ponctuelle des fibres aux points de frottement."
+    },
+    {
+      "type": "p",
+      "html": "Une corde dynamique vit en moyenne 200 à 400 séances, soit 3 à 5 ans pour un grimpeur régulier. La <strong>rotation périodique des extrémités</strong>, en utilisant alternativement les deux bouts pour s'encorder, équilibre l'usure et prolonge la durée de service utile."
+    },
+    {
+      "type": "quote",
+      "text": "Un huit bien tracé se voit du bas de la voie. Quand tu dois te pencher pour vérifier, c'est déjà qu'il y a un problème dans la géométrie.",
+      "author": "Adage de moniteur",
+      "role": "transmis en formation FFME"
+    },
+    {
+      "type": "h2",
+      "text": "Quand passer du huit à un autre nœud d'encordement"
+    },
+    {
+      "type": "p",
+      "html": "Le huit en double reste suffisant pour 99 % des situations en escalade sportive, en grande voie classique et en falaise école. Les exceptions concernent l'alpinisme technique et les courses sur arête mixte, où le nœud de chaise double conserve un avantage pour la rapidité de la défaite après chargement intense. En cordée d'alpinisme classique avec changement de tête de cordée fréquent, le chaise se renoue plus vite après chaque traction sur le brin."
+    },
+    {
+      "type": "p",
+      "html": "Pour le grimpeur qui pratique majoritairement la falaise sportive et la salle, aucune raison de chercher une alternative au huit. Maîtriser parfaitement ce nœud sur des milliers de tracés répétés vaut mieux que connaître superficiellement trois ou quatre variantes. La répétition fait la fiabilité du geste, et la fiabilité du geste fait la sécurité de la cordée."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Combien de chutes peut encaisser un huit avant qu'il faille le retracer ?",
+      "a": "Aucune limite stricte n'est fixée. Un huit bien tracé encaisse sans dommage les chutes répétées sur une même séance, voire sur plusieurs journées consécutives. La corde elle-même fatigue plus vite que le nœud. Les normes EN 892 et UIAA testent les cordes sur cinq chutes facteur 1.77 avant rupture, mais en pratique réelle, on accumule des dizaines de petites chutes facteur 0.3 à 0.7 sans dommage visible sur le nœud."
+    },
+    {
+      "q": "Est-ce qu'on peut faire le huit en grande voie ou seulement en moulinette ?",
+      "a": "Le huit reste le nœud universel d'encordement, identique en grande voie, en falaise sportive, en salle ou en moulinette. Aucune adaptation n'est nécessaire selon le terrain. En grande voie, on garde le même huit sur toute la durée de la course, à travers les longueurs, les relais et les rappels, sans le renouer."
+    },
+    {
+      "q": "Quelle différence avec le nœud de chaise utilisé en alpinisme ?",
+      "a": "Le nœud de chaise se défait plus facilement après une forte traction, ce qui le rend pratique en alpinisme classique avec changement fréquent de tête de cordée. En contrepartie, il se vérifie moins facilement à distance et perd un peu plus de résistance au serrage. Le huit reste préféré en escalade sportive pour sa lisibilité géométrique et sa fiabilité éprouvée sur cinquante ans de pratique."
+    },
+    {
+      "q": "Combien de temps tient un huit serré sans défaillance ?",
+      "a": "Un huit bien tracé reste fiable indéfiniment tant que la corde n'est pas endommagée. La pratique courante consiste à le défaire entre deux séances espacées, pour le confort et pour inspecter visuellement la zone d'encordement de la corde. Aucune dégradation mesurable du nœud n'apparaît sur les durées normales d'utilisation."
+    },
+    {
+      "q": "Faut-il systématiquement ajouter un nœud d'arrêt sur le brin libre ?",
+      "a": "Non, la pratique majoritaire en 2026 considère qu'un huit en double correctement serré, avec un brin libre de 25 à 30 cm, ne nécessite pas de nœud d'arrêt supplémentaire. Certains formateurs le recommandent en pédagogie pour les débutants ou en grande voie engagée, sous forme de pêcheur simple en arrêt. Mais aucun consensus ne le rend obligatoire."
+    },
+    {
+      "q": "Le huit peut-il glisser ou se défaire spontanément en cours d'utilisation ?",
+      "a": "Un huit correctement tracé et serré ne se défait pas spontanément. Les cas d'accidents documentés impliquent toujours un défaut de tracé initial, généralement une passe simple non doublée ou une géométrie perturbée. La vérification visuelle systématique avant chaque départ détecte ces erreurs dans l'immense majorité des cas."
+    }
+  ],
+  "cover_alt": "Gros plan sur un nœud de huit en double tracé dans le pontet d'un baudrier d'escalade, brin libre de 30 cm visible, corde dynamique rouge et bleue, éclairage naturel en intérieur",
+  "internal_links": [
+    {
+      "slug": "noeuds-escalade-utiles-guide",
+      "anchor": "panorama des nœuds utiles en escalade",
+      "context": "pilier cocon"
+    },
+    {
+      "slug": "verifier-noeud-partenaire",
+      "anchor": "vérification croisée systématique",
+      "context": "rituel sécurité"
+    },
+    {
+      "slug": "noeud-cabestan-relais",
+      "anchor": "cabestan sur mousqueton à vis",
+      "context": "jonction relais"
+    },
+    {
+      "slug": "noeud-chaise-alpinisme",
+      "anchor": "chaise utilisé en alpinisme",
+      "context": "comparaison nœud alternatif"
+    },
+    {
+      "slug": "retenir-noeuds-escalade-methode",
+      "anchor": "mémorisation du tracé",
+      "context": "apprentissage"
+    }
+  ],
+  "scheduled_at": "2026-10-01T09:00:00+02:00"
+}

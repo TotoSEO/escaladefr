@@ -1,0 +1,185 @@
+{
+  "slug": "bleau-circuits-debutant",
+  "cocon": "sites",
+  "type_article": "guide",
+  "numero": 81,
+  "title": "Bleau : les circuits, comprendre les couleurs avant de partir",
+  "h1": "Les circuits de Bleau, comprendre les couleurs",
+  "description": "Comment marchent les circuits de Bleau, du jaune au blanc. Choisir sa couleur, lire les flèches et progresser sur le grès de Fontainebleau.",
+  "chapo": "Les circuits de Bleau sont l'âme du site. Inventés dans les années 1940, ils relient des blocs par des flèches peintes, classés du jaune au blanc. Quand tu débarques, comprendre le code des couleurs te fait gagner des journées d'errance. Voici comment lire un circuit, choisir le bon niveau, et tirer profit de ce format unique au monde pour progresser à ton rythme.",
+  "takeaways": [
+    "Six couleurs principales structurent les circuits de Bleau, du jaune le plus facile au blanc le plus dur.",
+    "Une flèche peinte indique le départ, un numéro suit chaque bloc dans l'ordre logique du parcours.",
+    "Compte deux à quatre heures pour boucler un circuit complet de quarante à cinquante blocs.",
+    "Le bleu reste l'entrée la plus fréquentée pour les grimpeurs habitués au 5 en salle.",
+    "L'application Boolder et le site Bleau.info recensent les circuits actifs et leurs mises à jour."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "D'où viennent les circuits de Fontainebleau"
+    },
+    {
+      "type": "p",
+      "html": "L'histoire des circuits commence en 1947 à Apremont. Fred Bernick, un Bleausard passionné, peint à la peinture des flèches qui relient des blocs de difficulté homogène. L'idée tient en peu de mots, offrir un parcours physique cohérent sans se perdre dans la lecture d'un topo. Le succès est immédiat. Dans les décennies suivantes, les ouvreurs multiplient les circuits dans tous les secteurs de la forêt, en variant les couleurs selon la difficulté."
+    },
+    {
+      "type": "p",
+      "html": "Aujourd'hui, Bleau compte plus de deux cents circuits actifs, peints et entretenus par des bénévoles de l'<strong>ASOMIF</strong> et d'associations locales. Chaque circuit raconte une histoire, celle de son ouvreur, des évolutions du niveau et des éboulements qui ont parfois supprimé des blocs entiers. La première fois que tu enchaînes un circuit complet, tu comprends pourquoi ce format est resté la signature du site et pourquoi tant de visiteurs reviennent saison après saison."
+    },
+    {
+      "type": "p",
+      "html": "Cette logique de parcours change radicalement la manière de grimper. Sur d'autres sites de bloc dans le monde, tu choisis tes lignes une par une, tu travailles tes projets pendant des séances entières. À Bleau, tu enchaînes quarante problèmes dans l'ordre, tu acceptes les échecs, tu retiens les leçons et tu reviens un autre jour. La pratique devient endurante, presque cardio, et structure naturellement les séances."
+    },
+    {
+      "type": "h2",
+      "text": "Le code des couleurs, du plus facile au plus dur"
+    },
+    {
+      "type": "p",
+      "html": "Six couleurs principales hiérarchisent la difficulté. Le système ressemble à celui des pistes de ski, avec quelques nuances locales. Tu repères tout de suite le niveau d'un circuit à la couleur des flèches, sans avoir besoin d'ouvrir le topo. Cette simplicité est la grande force de Bleau pour les grimpeurs qui veulent profiter sans se prendre la tête."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Les couleurs et leurs niveaux",
+      "items": [
+        {"title": "Jaune (PD)", "body": "Cotations 2 et 3, idéal pour les enfants ou la toute première sortie. Les blocs ne dépassent pas deux mètres."},
+        {"title": "Orange (AD)", "body": "Niveau 3 et 4. Premier vrai circuit, on commence à sentir le grès et à travailler les pieds."},
+        {"title": "Bleu (D)", "body": "Niveau 4 à 5+. Le cœur de cible des grimpeurs intermédiaires, le passage obligé."},
+        {"title": "Rouge (TD)", "body": "Niveau 5+ à 6A. Demande de la lecture, du physique et une bonne technique de pied."},
+        {"title": "Noir (ED)", "body": "Niveau 6A à 7A. Les classiques durs comme le noir du Bas Cuvier."},
+        {"title": "Blanc (ED+)", "body": "Au-delà du 7A. Réservé aux fortes, blocs engagés et souvent en hauteur."}
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Comment lire les flèches sur le rocher"
+    },
+    {
+      "type": "p",
+      "html": "Chaque circuit commence par une grande flèche peinte au sol ou sur le bloc de départ, accompagnée du chiffre 1 et parfois du nom du circuit. Tu suis ensuite les numéros dans l'ordre. Une flèche au pied du bloc indique le sens de la montée et la sortie. Les croix ou les traits horizontaux marquent les passages à éviter, généralement des blocs cassés ou supprimés. Sur certains secteurs, les flèches sont presque effacées par le temps, c'est là que les applications mobiles deviennent utiles."
+    },
+    {
+      "type": "p",
+      "html": "Les ouvreurs ajoutent parfois des indications comme un D pour départ assis, un point pour signaler un cliff dangereux ou une étoile pour un bloc classique. Apprends à repérer ces symboles, ils enrichissent ta lecture du parcours. Avec l'expérience, tu reconnais le style d'un ouvreur à la manière dont il enchaîne les pas et place les passages clés au milieu du circuit."
+    },
+    {
+      "type": "p",
+      "html": "L'ordre des numéros suit une logique de déplacement minimale. Tu ne marches pas dix minutes entre deux blocs, l'ouvreur a pensé son tracé pour rester dans une zone restreinte. Cette concentration géographique est une bénédiction quand tu pars en hiver et que le jour décline vite, tu peux enchaîner sans perdre une seconde. Sur certains circuits comme le rouge de Cuvier-Merveille, tout tient dans un mouchoir de poche d'à peine cinquante mètres."
+    },
+    {
+      "type": "table",
+      "caption": "Fiche d'identité d'un circuit type",
+      "headers": ["Élément", "Détail"],
+      "rows": [
+        ["Nombre de blocs", "30 à 50 selon les circuits"],
+        ["Durée moyenne", "2 à 4 heures avec récupération"],
+        ["Dénivelé d'approche", "Souvent moins de 30 mètres, accès facile"],
+        ["Marquage", "Peinture acrylique tenue par l'ASOMIF et les bénévoles"],
+        ["Cotation moyenne", "Homogène à 70%, quelques blocs plus durs servent de difficultés"],
+        ["Repérage", "Application Boolder, topo Bart van Raaij, Bleau.info"]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Choisir sa couleur quand on débute"
+    },
+    {
+      "type": "p",
+      "html": "Le piège classique du grimpeur de salle qui vient à Bleau, c'est de surévaluer son niveau. Tu fais du 6A en salle, tu vises naturellement un rouge. Sauf que le 6A de Bleau n'a pas grand chose à voir. Les prises sont arrondies, les pieds invisibles, la lecture demande dix minutes pour démarrer un bloc. Tu finis la matinée avec zéro réussite et beaucoup de frustration. Commence un cran en dessous de ton niveau salle, tu trouveras déjà du défi."
+    },
+    {
+      "type": "p",
+      "html": "Pour une première sortie, je conseille toujours un orange ou un bleu. À <strong>Bas Cuvier</strong>, le circuit bleu reste l'un des plus pédagogiques. Il alterne dalles, fissures, dévers courts et compressions. En une demi-journée tu auras goûté à la palette technique du site sans te ruiner les bras. La frustration en moins, tu progresses naturellement sur le grès et tu prends confiance avant d'attaquer plus difficile."
+    },
+    {
+      "type": "p",
+      "html": "Ce calibrage du niveau dépend aussi de ton style. Les grimpeurs forts en physique mais faibles en technique de pied vont souffrir sur les dalles oranges et bleues, où tout passe dans la précision. À l'inverse, les techniciens pèsent plus à l'aise sur les longues dalles arrondies que sur les compressions noires en dévers. Tu identifies ton profil en deux ou trois sorties, et tu choisis tes circuits en conséquence pour maximiser la progression."
+    },
+    {
+      "type": "tip",
+      "title": "Le bon réflexe à la pause",
+      "body": "Entre deux blocs, n'attends pas en marchant. Assieds-toi sur ton crashpad, hydrate-toi, secoue les avant-bras. Le format circuit demande une gestion d'effort proche du cardio, sans la récupération un troisième tour devient impossible. Garde toujours un sucre rapide et un peu d'eau dans le sac.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Le piège du circuit cassé ou modifié"
+    },
+    {
+      "type": "p",
+      "html": "Les circuits de Bleau évoluent avec le temps. Un bloc peut s'écrouler, une prise casser, une réfection changer le niveau d'un passage. Le rouge de Cuvier-Rempart n'a plus tout à fait le même tracé qu'il y a vingt ans. Quand tu sens qu'un numéro est anormalement dur par rapport au reste, vérifie sur Bleau.info si une modification a été signalée. Beaucoup de circuits historiques portent ces cicatrices, c'est aussi ce qui fait leur charme."
+    },
+    {
+      "type": "p",
+      "html": "Certaines flèches sont parfois mal repeintes, déplacées d'un mètre ou repassées par dessus d'anciennes. Si tu hésites devant deux flèches contradictoires, fie-toi au numéro suivant et reconstruis l'enchaînement logique. Avec un peu d'expérience, tu repères très vite les ouvreurs qui se sont entraînés sur le terrain et ceux qui ont travaillé sur carte."
+    },
+    {
+      "type": "p",
+      "html": "Quand un bloc clé tombe ou se casse, l'ouvreur peut le remplacer par un autre dans la zone. Mais la cotation globale du circuit peut changer significativement. C'est arrivé à plusieurs reprises sur le rouge du Cul du Chien après les tempêtes des années 2010, qui ont fait basculer plusieurs grosses boules. Les Bleausards de longue date te raconteront ces évolutions avec nostalgie, comme les amateurs de cuvée parlent d'un millésime perdu."
+    },
+    {
+      "type": "h2",
+      "text": "Progresser en enchaînant les circuits"
+    },
+    {
+      "type": "p",
+      "html": "Le circuit n'est pas qu'un parcours de découverte. C'est aussi un outil d'entraînement redoutable. Faire deux ou trois tours du bleu d'Apremont dans la même journée travaille ton volume et ta capacité à enchaîner. Les Bleausards font ça depuis cinquante ans. Quand tu deviens à l'aise sur une couleur, monte d'un cran. La progression devient mesurable, presque sportive, contrairement à la grimpe en blocs isolés où tu travailles un projet pendant des séances."
+    },
+    {
+      "type": "p",
+      "html": "Pour les jeunes en compétition, j'ai souvenir de cycles où je faisais trois circuits par jour pendant un week-end, en variant les secteurs. Tu apprends à gérer ton énergie, à lire vite, à accepter les blocs ratés sans t'attarder. C'est exactement ce que demande une finale de bloc en compétition, sauf que là tu disposes de l'infinie variété du grès au lieu de douze prises en résine. Cette polyvalence forge une grimpeur complet."
+    },
+    {
+      "type": "p",
+      "html": "Une autre méthode consiste à varier les couleurs sur un même secteur. Le matin tu fais le bleu pour t'échauffer et te placer, l'après-midi tu attaques le rouge pour pousser ton plafond. Cette progression dans la journée respecte les fibres et limite les blessures. Beaucoup de Bleausards expérimentés grimpent de cette manière depuis des décennies sans jamais s'arrêter pour cause de tendinite."
+    },
+    {
+      "type": "h2",
+      "text": "Les circuits classiques pour commencer"
+    },
+    {
+      "type": "p",
+      "html": "Quelques circuits servent de référence pour qui débute à Bleau. Le bleu de <strong>Bas Cuvier</strong> reste le passage obligé, accessible et varié. Le jaune et l'orange du Cul du Chien dans les Trois Pignons offrent une initiation idéale en famille, avec des blocs photogéniques sur sable. À Apremont, le <strong>Bleau N°1</strong> est l'héritier direct du premier circuit jamais tracé, du 4 au 5+, et reste un objet de fierté à boucler."
+    },
+    {
+      "type": "p",
+      "html": "Si tu veux aller plus loin, explore les <a href=\"/blog/bleau-secteurs-incontournables\">secteurs incontournables de Bleau</a> avec les détails de chaque site. Pour comprendre la place de Fontainebleau dans le paysage du bloc, va lire <a href=\"/blog/fontainebleau-bloc-foret\">Fontainebleau, capitale mondiale du bloc</a>. Et pour un comparatif avec d'autres sites majeurs, notre <a href=\"/blog/sites-escalade-emblematiques-france\">tour des sites emblématiques de France</a> remet tout en perspective."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Combien de temps faut-il pour faire un circuit complet ?",
+      "a": "Compte deux à quatre heures selon la longueur et ton niveau. Un bleu de quarante blocs te prendra environ trois heures avec une pause raisonnable. N'essaie pas d'aller trop vite, l'enchaînement compte autant que la réussite individuelle."
+    },
+    {
+      "q": "Quelle couleur choisir si je grimpe du 6A en salle ?",
+      "a": "Commence par un bleu ou un rouge facile. Le grès se grimpe différemment du calcaire et des plastiques, ne sois pas surpris de buter sur des blocs cotés en dessous de ton niveau salle."
+    },
+    {
+      "q": "Faut-il une application mobile pour suivre les circuits ?",
+      "a": "L'application Boolder est gratuite et très bien tenue. Elle te montre les blocs en 3D et te donne les départs précis. Combinée au topo papier ou à Bleau.info, tu ne te perds plus."
+    },
+    {
+      "q": "Les circuits sont-ils tous accessibles avec un seul crashpad ?",
+      "a": "Pour les jaunes, oranges et bleus, oui dans la grande majorité des cas. Dès le rouge, certains hauts demandent deux pads ou un pareur attentif. Le noir et le blanc imposent souvent trois pads."
+    },
+    {
+      "q": "Peut-on grimper hors circuit à Bleau ?",
+      "a": "Évidemment, les blocs hors circuit représentent la majorité du site. Mais commencer par les circuits te facilite la lecture du terrain et te fait découvrir les classiques sans tâtonner."
+    },
+    {
+      "q": "Quand un circuit est repeint, change-t-il de niveau ?",
+      "a": "Parfois, surtout si l'ouvreur ajoute ou supprime des blocs. Vérifie sur Bleau.info la fiche du circuit pour voir si une mise à jour a été signalée par les bénévoles."
+    }
+  ],
+  "cover_alt": "Flèche bleue peinte sur un bloc de grès indiquant le départ d'un circuit à Fontainebleau",
+  "internal_links": [
+    {"slug": "fontainebleau-bloc-foret", "anchor": "Fontainebleau, capitale mondiale du bloc", "context": "Article parent sur le site"},
+    {"slug": "bleau-secteurs-incontournables", "anchor": "secteurs incontournables de Bleau", "context": "Détails secteur par secteur"},
+    {"slug": "sites-escalade-emblematiques-france", "anchor": "tour des sites emblématiques de France", "context": "Pilier du cocon"},
+    {"slug": "verdon-grandes-voies", "anchor": "grandes voies du Verdon", "context": "Comparaison avec un autre site mythique"}
+  ],
+  "scheduled_at": "2026-11-07T09:00:00+01:00"
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "choisir-chaussons-escalade",
+  "cocon": "materiel",
+  "type_article": "guide",
+  "numero": 40,
+  "title": "Chaussons d'escalade : bien choisir forme et pointure",
+  "h1": "Bien choisir ses chaussons d'escalade en 2026",
+  "description": "Pointure, forme, rigidité, gomme : les critères pour choisir des chaussons d'escalade adaptés à ton niveau et ton terrain, sans te ruiner.",
+  "chapo": "Comment éviter d'acheter des chaussons qui font mal ou qui ne grimpent pas ? La réponse tient en quatre critères : forme, rigidité, gomme et pointure. Ce guide te détaille chaque point avec les marques qui tiennent la route en 2026, et te dit quand un chausson de débutant suffit largement.",
+  "takeaways": [
+    "Prends une pointure proche de ton chausson de ville pour débuter, jamais deux tailles en dessous.",
+    "Forme plate et neutre pour la longueur, forme cambrée pour le dévers et le bloc dur.",
+    "La gomme Vibram XS Grip 2 reste la référence sur granit et calcaire.",
+    "Compte 70 à 130 euros pour un premier chausson sérieux, jusqu'à 200 euros en haut de gamme.",
+    "Essaie toujours en fin de journée, pieds chauds, en boutique si possible."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Pourquoi le choix des chaussons compte autant"},
+    {"type": "p", "html": "Le chausson est le seul lien direct entre ton pied et le rocher. Quand j'ai commencé au lycée Camille Sée à Colmar, j'avais des chaussons trop petits, conseillés par un vendeur trop zélé. Résultat, j'ai grimpé deux mois sans les enfiler plus de dix minutes. Un chausson mal choisi te dégoûte de la grimpe avant même que tu progresses. À l'inverse, un modèle adapté te donne envie d'enchaîner les voies, parce que tu oublies tes pieds."},
+    {"type": "p", "html": "Le marché 2026 propose des dizaines de modèles répartis sur trois grandes familles : <strong>chaussons neutres pour la longueur</strong>, modèles intermédiaires polyvalents, chaussons cambrés pour la performance. <a href=\"/blog/types-chaussons-escalade\">Les types de chaussons et leur usage</a> détaillent ces familles. Avant de craquer pour un modèle agressif, demande-toi quel terrain tu pratiques vraiment."},
+    {"type": "h2", "text": "La pointure, premier piège du débutant"},
+    {"type": "p", "html": "L'erreur classique consiste à acheter des chaussons deux pointures en dessous, sur conseil d'un copain qui répète ce qu'il a entendu. Pour un débutant, la <strong>pointure proche du chausson de ville</strong> reste la bonne option. Tes orteils touchent le bout, mais sans douleur, et tu peux marcher quelques mètres sans grimacer."},
+    {"type": "p", "html": "Plus tu progresses, plus tu peux serrer. Sur dalle technique ou en bloc dur, certains grimpeurs descendent d'une pointure pour gagner en précision. Mais cette logique ne vaut que si tu sais déjà pousser sur tes pieds. Sinon tu achètes un instrument de torture sans bénéfice. Mes chaussons de performance, je les prends une demi-taille en dessous de mon EU 41 quotidien. Pas plus."},
+    {"type": "tip", "title": "Essai en boutique", "body": "Essaie tes chaussons en fin de journée, quand tes pieds sont chauds et légèrement gonflés. Reste dix minutes dedans, plie les orteils, accroche un bord de marche. Si la douleur dépasse l'inconfort raisonnable, change de modèle ou de pointure.", "tone": "astuce"},
+    {"type": "h2", "text": "Forme du chausson : plat, semi-cambré, cambré"},
+    {"type": "p", "html": "La forme conditionne l'usage. Un chausson plat répartit la pression sur tout le pied, parfait pour les longues voies et les sorties de plusieurs heures. Un chausson cambré concentre la force sur les orteils, idéal pour les petits cailloux et les dévers. Entre les deux, le semi-cambré couvre la majorité des situations de salle et de falaise."},
+    {"type": "p", "html": "Quand je grimpe une grande voie de cinq longueurs à Hautepierre, je prends mes <strong>La Sportiva Mythos</strong> ou un modèle plat équivalent. Quand je bosse une voie de 8a en falaise courte, je passe sur des Scarpa Drago ou Tenaya Mastia. Le choix de la forme dépend bien plus du terrain que du niveau."},
+    {"type": "list", "variant": "cards", "title": "Trois formes, trois usages", "items": [
+      {"title": "Plat et neutre", "body": "Confort maximum, bord de marche stable, idéal pour longueurs, grande voie et débutants. Exemples : La Sportiva Mythos, Scarpa Helix, Five Ten Anasazi Pink."},
+      {"title": "Semi-cambré", "body": "Polyvalent salle et falaise, bon en dalle comme en léger dévers. Exemples : La Sportiva TC Pro, Scarpa Vapor V, Tenaya Iati."},
+      {"title": "Cambré agressif", "body": "Performance pure, dévers, bloc dur, petits arquages. Exemples : La Sportiva Solution, Scarpa Drago, Tenaya Mastia, Five Ten Hiangle."}
+    ]},
+    {"type": "h2", "text": "La gomme, le détail qui change tout"},
+    {"type": "p", "html": "La gomme assure l'adhérence sur la prise. Les deux références du marché restent la <strong>Vibram XS Grip 2</strong> et la Vibram XS Edge, plus rigide. La Stealth C4 de Five Ten conserve aussi sa réputation, surtout sur granit poli. Une gomme plus tendre adhère mieux mais s'use vite. Une gomme plus dure dure plus longtemps mais glisse davantage."},
+    {"type": "p", "html": "L'épaisseur de la gomme compte autant que la formulation. Compte 4 à 5 millimètres pour un chausson de longueur, 3 à 4 millimètres pour un modèle polyvalent, parfois 1,8 millimètre sur les chaussons techniques de bloc. Plus c'est fin, plus tu sens la prise, mais plus tu uses vite. Le compromis idéal pour un grimpeur niveau 6c-7a reste autour de 3,5 millimètres."},
+    {"type": "h2", "text": "Rigidité et précision : ce que cherchent tes pieds"},
+    {"type": "p", "html": "Un chausson rigide tient sur des micro-prises sans plier. Un chausson souple épouse la forme du rocher et adhère mieux en gros volume. La rigidité dépend de la semelle interne et de la qualité du chausson. Pour la dalle granitique style Bleau ou Vosges, choisis plutôt rigide. Pour le bloc en salle moderne, plein de volumes et de prises plates, choisis souple."},
+    {"type": "p", "html": "Le talon mérite une attention particulière. Un bon talon ne se déforme pas quand tu tires dessus en crochet. Sur les modèles techniques, regarde la qualité du caoutchouc et la couture qui ferme la coupelle. Les modèles avec <strong>talons modulables</strong>, comme le Scarpa Drago ou le Tenaya Mastia, offrent un excellent grip en crochet inversé."},
+    {"type": "quote", "text": "Un chausson n'est pas un permis de grimper plus dur. C'est un outil qui doit servir ton geste, pas le contraindre.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
+    {"type": "h2", "text": "Lacets, scratchs ou slippers : quelle fermeture choisir"},
+    {"type": "p", "html": "Les lacets offrent le réglage le plus précis, idéal pour les pieds atypiques et les longues voies où tu desserres en relais. Les scratchs s'enfilent et se retirent en deux secondes, parfaits pour la salle et le bloc où tu déchausses entre chaque essai. Les slippers, sans fermeture, restent rares aujourd'hui mais offrent une sensibilité maximale."},
+    {"type": "p", "html": "Mon choix dépend du terrain. En salle, mes chaussons à scratchs. En falaise sportive, scratchs ou lacets selon la voie. En grande voie, lacets obligatoires, parce que je peux les desserrer entre deux longueurs sans les enlever. Pour la suite, regarde aussi <a href=\"/blog/resemelage-chaussons-quand\">quand et chez qui faire resemeler tes chaussons</a> pour prolonger leur durée de vie."},
+    {"type": "h2", "text": "Budget et marques fiables en 2026"},
+    {"type": "table", "caption": "Repères tarifaires 2026", "headers": ["Gamme", "Prix neuf", "Public", "Exemples"], "rows": [
+      ["Débutant", "70 à 100 €", "Salle, falaise facile", "Scarpa Helix, La Sportiva Tarantulace, Tenaya Masai"],
+      ["Intermédiaire", "100 à 150 €", "5c à 7a polyvalent", "Scarpa Vapor V, La Sportiva Katana, Five Ten Anasazi"],
+      ["Performance", "150 à 200 €", "Bloc dur, dévers, 7b et plus", "La Sportiva Solution, Scarpa Drago LV, Tenaya Mastia"]
+    ]},
+    {"type": "p", "html": "Les marques sérieuses se comptent sur les doigts d'une main : <strong>La Sportiva, Scarpa, Tenaya, Five Ten, Evolv, Butora</strong>. Black Diamond propose aussi des modèles intéressants depuis quelques années. Évite les chaussons à 40 euros en grande surface, la gomme est mauvaise et la coupe imprécise. Tu paies deux fois si tu rachètes au bout de trois mois."},
+    {"type": "h2", "text": "Acheter neuf ou d'occasion"},
+    {"type": "p", "html": "L'occasion peut se justifier pour un débutant qui veut tester sans trop investir. Vérifie l'usure de la pointe, la souplesse globale, l'odeur intérieure. Un chausson qui pue le moisi ne se rattrape pas. Pour le détail, j'ai écrit un guide complet sur <a href=\"/blog/matos-occasion-acheter\">acheter du matos d'escalade d'occasion</a>. La règle simple : pas d'occasion pour des chaussons hors d'âge, dont la gomme craque ou se décolle."},
+    {"type": "p", "html": "Pour le reste du matos qui accompagne tes chaussons, jette un œil au <a href=\"/blog/materiel-escalade-essentiel\">matériel d'escalade essentiel</a>. Tu y verras où placer ton budget en priorité, parce que le chausson seul ne fait pas le grimpeur. La cohérence d'ensemble compte plus qu'un seul élément haut de gamme isolé."},
+    {"type": "p", "html": "Un dernier conseil : ne te laisse pas influencer par ce que portent les grimpeurs autour de toi. Ce qui fonctionne pour un copain qui pèse 75 kilos peut ne pas convenir à ton pied. Demande à essayer, prends ton temps, accepte de repartir sans achat si rien ne te va. Un mauvais chausson choisi à la hâte te coûtera deux fois en frustration et en remplacement anticipé."},
+    {"type": "tip", "title": "L'erreur à éviter", "body": "Acheter des chaussons agressifs trop tôt. Si tu grimpes en 5c, un modèle plat te servira mieux qu'un Solution cambré. La forme suit le niveau, pas l'inverse.", "tone": "erreur"}
+  ],
+  "faq": [
+    {"q": "Quelle pointure choisir pour des chaussons d'escalade en débutant ?", "a": "Pour débuter, prends une pointure proche de ton chausson de ville, voire une demi-taille en dessous si tu vises une forme ajustée. N'écoute pas les conseils de descente de deux pointures, c'est inutile au début et tu finiras par les détester."},
+    {"q": "Combien coûte une bonne paire de chaussons d'escalade en 2026 ?", "a": "Compte 70 à 100 euros pour un modèle débutant fiable comme le Scarpa Helix ou le La Sportiva Tarantulace. Entre 100 et 150 euros pour de l'intermédiaire, jusqu'à 200 euros sur les modèles de performance type La Sportiva Solution ou Scarpa Drago."},
+    {"q": "Combien de temps durent des chaussons d'escalade ?", "a": "Un chausson dure entre six mois et deux ans selon ton volume de grimpe. Un grimpeur qui sort deux fois par semaine use sa pointe en un an environ. Le resemelage permet de prolonger la durée de vie d'au moins 50%, à condition de l'envoyer avant que la pointe perce."},
+    {"q": "Les chaussons doivent-ils forcément faire mal ?", "a": "Non. Un chausson doit être ajusté, pas douloureux. Si tu ne peux pas le porter dix minutes en boutique sans grimacer, change de modèle ou de pointure. La douleur permanente ne t'aide pas à grimper mieux, elle te dégoûte de la séance."},
+    {"q": "Quelle marque choisir pour un premier chausson d'escalade ?", "a": "Reste sur Scarpa, La Sportiva ou Tenaya, qui proposent des modèles débutants éprouvés. Le Scarpa Helix, le La Sportiva Tarantulace et le Tenaya Masai couvrent toutes les morphologies de pied à un prix raisonnable, autour de 80 à 100 euros."},
+    {"q": "Faut-il porter des chaussettes avec des chaussons d'escalade ?", "a": "Idéalement non, pour gagner en sensibilité et en précision. Tu peux porter des chaussettes fines en début si tu trouves les chaussons trop justes, le temps de les casser. Ensuite, pieds nus reste la norme. Pense à laver tes chaussons régulièrement pour limiter les odeurs."}
+  ],
+  "cover_alt": "Paire de chaussons d'escalade La Sportiva posée au pied d'une voie de calcaire",
+  "internal_links": [
+    {"slug": "types-chaussons-escalade", "anchor": "Les types de chaussons et leur usage", "context": "Détail des familles de chaussons"},
+    {"slug": "resemelage-chaussons-quand", "anchor": "quand et chez qui faire resemeler tes chaussons", "context": "Prolonger la durée de vie"},
+    {"slug": "matos-occasion-acheter", "anchor": "acheter du matos d'escalade d'occasion", "context": "Achat seconde main"},
+    {"slug": "materiel-escalade-essentiel", "anchor": "matériel d'escalade essentiel", "context": "Pilier matériel"}
+  ],
+  "scheduled_at": "2026-08-04T09:00:00+02:00"
+}
