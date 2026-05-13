@@ -5,8 +5,12 @@ import { ArrowUpRight, MapPin, Mountain, Calendar, Compass } from "lucide-react"
 
 import { PageShell } from "@/components/page-shell";
 import { SiteMiniMap } from "@/components/sites/site-mini-map";
+import { SiteGallery } from "@/components/sites/site-gallery";
+import { AccessBanner } from "@/components/sites/access-banner";
 import {
   fetchSiteById,
+  fetchSiteImages,
+  bestCoords,
   communeName,
   siteSlug,
   formatCotationRange,
@@ -69,6 +73,8 @@ export default async function SiteDetailPage(
     redirect(`/sites/${site.id}/${canonical}`);
   }
 
+  const images = await fetchSiteImages(site.id);
+
   const months = orderedMonths(site.periodes_favorables);
 
   const jsonLd = {
@@ -129,6 +135,14 @@ export default async function SiteDetailPage(
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+
+      {/* Bandeau d'accès si site fermé / restreint / saisonnier / pending */}
+      <AccessBanner
+        statut={site.acces_statut ?? null}
+        notes={site.acces_notes ?? null}
+        sourceUrl={site.acces_source_url ?? null}
+        verifiedAt={site.acces_verified_at ?? null}
       />
 
       {/* Hero — surface cool */}
@@ -209,6 +223,11 @@ export default async function SiteDetailPage(
           </dl>
         </div>
       </section>
+
+      {/* Galerie d'images (Wikimedia Commons sous licence libre) */}
+      {images.length > 0 && (
+        <SiteGallery images={images} siteNom={site.nom} />
+      )}
 
       {/* Données factuelles structurées */}
       <section className="relative surface-1 text-foreground">
@@ -296,36 +315,47 @@ export default async function SiteDetailPage(
       </section>
 
       {/* Mini-carte si coordonnées disponibles */}
-      {site.latitude && site.longitude && (
-        <section className="relative surface-2 text-foreground">
-          <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
-          <div className="mx-auto max-w-7xl px-5 py-14 sm:px-8 sm:py-20 lg:px-12">
-            <div className="mb-6 flex items-center gap-3 sm:mb-8">
-              <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
-                § Localisation
-              </span>
+      {(() => {
+        const coords = bestCoords(site);
+        if (!coords) return null;
+        return (
+          <section className="relative surface-2 text-foreground">
+            <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
+            <div className="mx-auto max-w-7xl px-5 py-14 sm:px-8 sm:py-20 lg:px-12">
+              <div className="mb-6 flex flex-wrap items-center gap-3 sm:mb-8">
+                <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+                  § Localisation
+                </span>
+                {coords.affine && (
+                  <span className="inline-flex items-center gap-1.5 rounded-full border border-primary/30 bg-primary/10 px-2.5 py-0.5 font-mono text-[9px] uppercase tracking-[0.22em] text-primary">
+                    <span className="inline-block h-1.5 w-1.5 rounded-full bg-primary" />
+                    Position affinée
+                  </span>
+                )}
+              </div>
+              <SiteMiniMap
+                latitude={coords.lat}
+                longitude={coords.lon}
+                nom={site.nom}
+                parking1={
+                  site.parking1_lat != null && site.parking1_lon != null
+                    ? { lat: site.parking1_lat, lon: site.parking1_lon }
+                    : undefined
+                }
+                parking2={
+                  site.parking2_lat != null && site.parking2_lon != null
+                    ? { lat: site.parking2_lat, lon: site.parking2_lon }
+                    : undefined
+                }
+              />
+              <p className="mt-3 text-center font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground sm:text-xs">
+                Fond de carte © OpenStreetMap contributors, © CARTO
+                {coords.affine && site.geocodage_source ? ` · Position affinée via ${site.geocodage_source.split(":")[0]}` : ""}
+              </p>
             </div>
-            <SiteMiniMap
-              latitude={site.latitude}
-              longitude={site.longitude}
-              nom={site.nom}
-              parking1={
-                site.parking1_lat != null && site.parking1_lon != null
-                  ? { lat: site.parking1_lat, lon: site.parking1_lon }
-                  : undefined
-              }
-              parking2={
-                site.parking2_lat != null && site.parking2_lon != null
-                  ? { lat: site.parking2_lat, lon: site.parking2_lon }
-                  : undefined
-              }
-            />
-            <p className="mt-3 text-center font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground sm:text-xs">
-              Fond de carte © OpenStreetMap contributors, © CARTO
-            </p>
-          </div>
-        </section>
-      )}
+          </section>
+        );
+      })()}
 
       {/* Contenus rédigés par notre rédaction (si reformulés) */}
       {(site.presentation_reformule ||

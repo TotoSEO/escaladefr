@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import maplibregl, { type GeoJSONSource, type MapMouseEvent } from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
 
-import { formatPratique, type SalleListItem } from "@/lib/salles";
+import { formatPratique, statusLabel, type SalleListItem } from "@/lib/salles";
 
 const MAP_STYLE =
   "https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json";
@@ -41,6 +41,8 @@ export function SallesMap({ salles }: Props) {
           chaine: s.chaine ?? "",
           type_pratique: s.type_pratique ?? "",
           site_web: s.site_web ?? "",
+          verified_status: s.verified_status ?? "",
+          verified_at: s.verified_at ?? "",
         },
       }));
 
@@ -154,6 +156,8 @@ export function SallesMap({ salles }: Props) {
           site_web: (props.site_web as string) || null,
           latitude: (feature.geometry as GeoJSON.Point).coordinates[1] ?? null,
           longitude: (feature.geometry as GeoJSON.Point).coordinates[0] ?? null,
+          verified_status: (props.verified_status as SalleListItem["verified_status"]) ?? null,
+          verified_at: (props.verified_at as string) || null,
         });
       });
     });
@@ -204,13 +208,38 @@ export function SallesMap({ salles }: Props) {
               </button>
             </div>
 
-            <dl className="mt-4 text-sm">
-              <dt className="font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
-                Pratique
-              </dt>
-              <dd className="mt-1 text-foreground">
-                {formatPratique(selected.type_pratique)}
-              </dd>
+            <dl className="mt-4 grid grid-cols-2 gap-3 text-sm">
+              <div>
+                <dt className="font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
+                  Pratique
+                </dt>
+                <dd className="mt-1 text-foreground">
+                  {formatPratique(selected.type_pratique)}
+                </dd>
+              </div>
+              {selected.verified_status && (
+                <div>
+                  <dt className="font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
+                    Statut
+                  </dt>
+                  <dd className="mt-1">
+                    <span
+                      className={`inline-flex items-center gap-1.5 rounded-full border px-2 py-0.5 font-mono text-[9px] uppercase tracking-[0.18em] ${
+                        selected.verified_status === "active"
+                          ? "border-primary/40 bg-primary/10 text-primary"
+                          : selected.verified_status === "unknown"
+                          ? "border-accent/40 bg-accent/10 text-accent"
+                          : "border-white/15 bg-white/5 text-muted-foreground"
+                      }`}
+                    >
+                      {selected.verified_status === "active" && (
+                        <span className="inline-block h-1.5 w-1.5 rounded-full bg-primary" />
+                      )}
+                      {statusLabel(selected.verified_status)}
+                    </span>
+                  </dd>
+                </div>
+              )}
             </dl>
 
             {selected.site_web && (

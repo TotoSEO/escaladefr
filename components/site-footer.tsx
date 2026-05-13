@@ -6,6 +6,7 @@ const COLUMNS: { title: string; links: { label: string; href: string }[] }[] = [
     links: [
       { label: "Sites naturels", href: "/sites" },
       { label: "Carte interactive", href: "/sites" },
+      { label: "Sites fermés / réglementés", href: "/sites/fermes-et-restrictions" },
       { label: "Annuaire des salles", href: "/salles" },
       { label: "Outils", href: "/outils" },
     ],

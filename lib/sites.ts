@@ -5,6 +5,8 @@
 
 import { getSupabase } from "@/lib/supabase";
 
+export type AccesStatut = "open" | "restricted" | "closed" | "seasonal" | "pending";
+
 export type SiteListItem = {
   id: number;
   nom: string;
@@ -18,7 +20,42 @@ export type SiteListItem = {
   nombre_voies: number | null;
   latitude: number | null;
   longitude: number | null;
+  acces_statut?: AccesStatut | null;
 };
+
+/** Coordonnées d'affichage : on privilégie les coords affinées si dispo. */
+export function bestCoords(
+  site: { latitude: number | null; longitude: number | null; latitude_affine?: number | null; longitude_affine?: number | null },
+): { lat: number; lon: number; affine: boolean } | null {
+  if (
+    typeof site.latitude_affine === "number" &&
+    typeof site.longitude_affine === "number"
+  ) {
+    return { lat: site.latitude_affine, lon: site.longitude_affine, affine: true };
+  }
+  if (typeof site.latitude === "number" && typeof site.longitude === "number") {
+    return { lat: site.latitude, lon: site.longitude, affine: false };
+  }
+  return null;
+}
+
+export function accesStatutLabel(s: AccesStatut | null | undefined): string {
+  switch (s) {
+    case "closed":
+      return "Accès interdit";
+    case "restricted":
+      return "Accès restreint";
+    case "seasonal":
+      return "Restriction saisonnière";
+    case "pending":
+      return "À vérifier";
+    case "open":
+    case null:
+    case undefined:
+    default:
+      return "Accès libre";
+  }
+}
 
 export type SiteDetail = SiteListItem & {
   url: string | null;
@@ -48,12 +85,25 @@ export type SiteDetail = SiteListItem & {
   informations_falaise_reformule: string | null;
   reglementation_reformule: string | null;
   reformule_at: string | null;
+  // Statut d'accès + coordonnées affinées
+  acces_statut: AccesStatut | null;
+  acces_notes: string | null;
+  acces_source_url: string | null;
+  acces_verified_at: string | null;
+  latitude_affine: number | null;
+  longitude_affine: number | null;
+  geocodage_source: string | null;
+  geocodage_distance_m: number | null;
 };
 
 const LIST_COLUMNS =
   "id,nom,commune,departement,code_departement,massif,type_site,cotation_min,cotation_max,nombre_voies,latitude,longitude";
 
-const DETAIL_COLUMNS = `${LIST_COLUMNS},url,acces_routier,approche,orientation,cartographie,interet,presentation,rocher,hauteur_min_m,hauteur_max_m,informations_falaise,periodes_favorables,reglementation_particuliere,parking1_lat,parking1_lon,parking2_lat,parking2_lon,bibliographie,derniere_mise_a_jour,presentation_reformule,acces_routier_reformule,approche_reformule,interet_reformule,informations_falaise_reformule,reglementation_reformule,reformule_at`;
+const LIST_COLUMNS_WITH_ACCESS = `${LIST_COLUMNS},acces_statut`;
+
+const DETAIL_COLUMNS_BASE = `${LIST_COLUMNS},url,acces_routier,approche,orientation,cartographie,interet,presentation,rocher,hauteur_min_m,hauteur_max_m,informations_falaise,periodes_favorables,reglementation_particuliere,parking1_lat,parking1_lon,parking2_lat,parking2_lon,bibliographie,derniere_mise_a_jour,presentation_reformule,acces_routier_reformule,approche_reformule,interet_reformule,informations_falaise_reformule,reglementation_reformule,reformule_at`;
+
+const DETAIL_COLUMNS_FULL = `${DETAIL_COLUMNS_BASE},acces_statut,acces_notes,acces_source_url,acces_verified_at,latitude_affine,longitude_affine,geocodage_source,geocodage_distance_m`;
 
 /* ───────────────── Fetch helpers ───────────────── */
 
@@ -82,13 +132,70 @@ export async function fetchAllSitesForMap(): Promise<SiteListItem[]> {
 export async function fetchSiteById(id: number): Promise<SiteDetail | null> {
   const supabase = getSupabase();
   if (!supabase) return null;
-  const { data, error } = await supabase
+  // On essaie d'abord avec les colonnes acces_* + lat/lon affinées,
+  // fallback sans si la migration n'a pas encore été appliquée.
+  let res = await supabase
     .from("sites_naturels")
-    .select(DETAIL_COLUMNS)
+    .select(DETAIL_COLUMNS_FULL)
     .eq("id", id)
     .maybeSingle();
-  if (error || !data) return null;
-  return data as SiteDetail;
+  if (res.error) {
+    res = await supabase
+      .from("sites_naturels")
+      .select(DETAIL_COLUMNS_BASE)
+      .eq("id", id)
+      .maybeSingle();
+  }
+  if (res.error || !res.data) return null;
+  return res.data as SiteDetail;
+}
+
+export type SiteImage = {
+  id: number;
+  site_id: number;
+  url: string;
+  thumbnail_url: string | null;
+  auteur: string | null;
+  licence: string | null;
+  licence_url: string | null;
+  source_url: string | null;
+  titre: string | null;
+  source: string | null;
+  position: number;
+  width: number | null;
+  height: number | null;
+};
+
+export async function fetchSiteImages(siteId: number): Promise<SiteImage[]> {
+  const supabase = getSupabase();
+  if (!supabase) return [];
+  const { data, error } = await supabase
+    .from("site_images")
+    .select("id,site_id,url,thumbnail_url,auteur,licence,licence_url,source_url,titre,source,position,width,height")
+    .eq("site_id", siteId)
+    .order("position", { ascending: true });
+  if (error || !data) return [];
+  return data as SiteImage[];
+}
+
+export async function fetchSitesByAccessStatus(
+  statuts: AccesStatut[],
+): Promise<(SiteListItem & { acces_statut: AccesStatut; acces_notes: string | null; acces_verified_at: string | null })[]> {
+  const supabase = getSupabase();
+  if (!supabase || statuts.length === 0) return [];
+  const filter = statuts.map((s) => `"${s}"`).join(",");
+  const { data, error } = await supabase
+    .from("sites_naturels")
+    .select(`${LIST_COLUMNS_WITH_ACCESS},acces_notes,acces_verified_at,acces_source_url`)
+    .filter("acces_statut", "in", `(${filter})`)
+    .order("acces_statut")
+    .order("nom");
+  if (error || !data) return [];
+  return data as (SiteListItem & {
+    acces_statut: AccesStatut;
+    acces_notes: string | null;
+    acces_verified_at: string | null;
+  })[];
 }
 
 export async function fetchSitesByDepartement(
