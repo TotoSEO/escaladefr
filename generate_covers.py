@@ -517,8 +517,13 @@ UNIQUE_PROMPTS: dict[str, str] = {
 }
 
 
-def generate_image(prompt: str) -> Optional[bytes]:
-    """Génère une image et renvoie les bytes PNG."""
+def generate_image(prompt: str, max_retries: int = 3) -> Optional[bytes]:
+    """Génère une image et renvoie les bytes PNG.
+
+    Retry avec backoff exponentiel (5s, 15s, 45s) sur timeout ou erreur 5xx.
+    Timeout généreux à 300s, l'API gpt-image-2 peut prendre 60-120s en
+    pleine charge.
+    """
     req = {
         "model": MODEL,
         "prompt": prompt,
@@ -526,22 +531,37 @@ def generate_image(prompt: str) -> Optional[bytes]:
         "size": SIZE,
         "quality": QUALITY,
     }
-    try:
-        r = requests.post(OPENAI_URL, headers=HEADERS, json=req, timeout=180)
-        if r.status_code != 200:
-            print(f"  ! API {r.status_code}: {r.text[:200]}")
+    for attempt in range(max_retries):
+        try:
+            r = requests.post(OPENAI_URL, headers=HEADERS, json=req, timeout=300)
+            if r.status_code == 200:
+                data = r.json()
+                item = data.get("data", [{}])[0]
+                if "b64_json" in item:
+                    return base64.b64decode(item["b64_json"])
+                if "url" in item:
+                    img_r = requests.get(item["url"], timeout=60)
+                    return img_r.content
+                return None
+            elif r.status_code >= 500 or r.status_code == 429:
+                # serveur ou rate-limit, on retry
+                wait = 5 * (3 ** attempt)
+                print(f"    {r.status_code} → retry dans {wait}s")
+                time.sleep(wait)
+                continue
+            else:
+                print(f"  ! API {r.status_code}: {r.text[:200]}")
+                return None
+        except (requests.Timeout, requests.ConnectionError) as e:
+            wait = 5 * (3 ** attempt)
+            print(f"    timeout/connexion ({type(e).__name__}) → retry dans {wait}s")
+            time.sleep(wait)
+            continue
+        except (requests.RequestException, ValueError, KeyError) as e:
+            print(f"  ! Exception: {e}")
             return None
-        data = r.json()
-        item = data.get("data", [{}])[0]
-        if "b64_json" in item:
-            return base64.b64decode(item["b64_json"])
-        if "url" in item:
-            img_r = requests.get(item["url"], timeout=60)
-            return img_r.content
-        return None
-    except (requests.RequestException, ValueError, KeyError) as e:
-        print(f"  ! Exception: {e}")
-        return None
+    print(f"  ! Échec après {max_retries} tentatives")
+    return None
 
 
 def to_webp(png_bytes: bytes, output: Path, slug: str) -> bool:
