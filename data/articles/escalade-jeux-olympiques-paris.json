@@ -25,7 +25,7 @@
     },
     {
       "type": "p",
-      "html": "Cette nouvelle organisation a satisfait la quasi-totalité de la communauté. Les performances ont enfin reflété les compétences réelles des athlètes dans leurs disciplines de spécialité. La vitesse a livré son spectacle court et explosif, le combiné bloc et difficulté a permis aux techniciens de briller sur deux jours d'épreuves. Le format reste perfectible mais marque un progrès net par rapport à Tokyo."
+      "html": "Cette nouvelle organisation a satisfait la quasi-totalité de la communauté. Les performances ont enfin reflété les compétences réelles des athlètes dans leurs disciplines de spécialité. La vitesse a livré son spectacle court et explosif, le combiné bloc et difficulté a permis aux techniciens de briller sur deux jours d'épreuves. Le format reste perfectible mais marque un progrès net par rapport à Tokyo. Cette inscription olympique s'est greffée sur <a href=\"/blog/histoire-escalade-france-alpes-salle\">une discipline française déjà structurée depuis plus d'un siècle</a>, des premières cordées alpines aux salles urbaines."
     },
     {
       "type": "p",
@@ -57,7 +57,7 @@
     },
     {
       "type": "p",
-      "html": "Le Japonais <strong>Sorato Anraku</strong>, dix-sept ans au moment des JO, a pris l'argent. Considéré, à la manière d'<a href=\"/blog/adam-ondra-9c-silence\">Adam Ondra à ses débuts avec Silence 9c</a>, comme le futur grimpeur dominant du circuit, il a confirmé son potentiel énorme. Le Japon a poursuivi sa domination en escalade après Tomoa Narasaki et plusieurs médailles à Tokyo. L'Autrichien Jakob Schubert a complété le podium avec le bronze, prolongeant une carrière entamée vingt ans plus tôt."
+      "html": "Le Japonais <strong>Sorato Anraku</strong>, dix-sept ans au moment des JO, a pris l'argent. Considéré comme le futur grimpeur dominant du circuit, à la manière d'un Adam Ondra à ses débuts au plus haut niveau, il a confirmé son potentiel énorme. Le Japon a poursuivi sa domination en escalade après Tomoa Narasaki et plusieurs médailles à Tokyo. L'Autrichien Jakob Schubert a complété le podium avec le bronze, prolongeant une carrière entamée vingt ans plus tôt."
     },
     {
       "type": "p",
@@ -158,7 +158,7 @@
     },
     {
       "type": "p",
-      "html": "Pour creuser la culture escalade, lis <a href=\"/blog/histoire-escalade-france-alpes-salle\">l'histoire de l'escalade en France</a>, <a href=\"/blog/films-escalade-meilleurs\">les meilleurs films sur la grimpe</a> et <a href=\"/blog/histoire-bleau-bloc\">l'histoire du bloc à Fontainebleau</a>. Les JO sont le sommet visible d'un iceberg culturel beaucoup plus large et ancien."
+      "html": "Les JO ne sont que le sommet visible d'un iceberg culturel beaucoup plus large et ancien. <a href=\"/blog/films-escalade-meilleurs\">Les films consacrés à la grimpe et à ses figures</a> ont précédé l'inscription olympique de plusieurs décennies, et <a href=\"/blog/histoire-bleau-bloc\">le berceau du bloc à Fontainebleau</a> continue d'attirer chaque week-end un public qu'aucune compétition n'égale vraiment."
     }
   ],
   "faq": [
@@ -187,28 +187,23 @@
   "internal_links": [
     {
       "slug": "histoire-escalade-france-alpes-salle",
-      "anchor": "histoire de l'escalade en France",
-      "context": "pilier culture"
-    },
-    {
-      "slug": "films-escalade-meilleurs",
-      "anchor": "meilleurs films sur la grimpe",
-      "context": "complément culturel"
-    },
-    {
-      "slug": "histoire-bleau-bloc",
-      "anchor": "histoire du bloc à Fontainebleau",
-      "context": "patrimoine français"
+      "anchor": "une discipline française déjà structurée depuis plus d'un siècle",
+      "context": "pilier culture, lien hub en début d'article"
     },
     {
       "slug": "grimpeurs-grimpeuses-histoire-france",
-      "anchor": "grands noms de la grimpe française",
-      "context": "athlètes historiques"
+      "anchor": "la maturation de l'escalade française",
+      "context": "pont vers hub personnalités, filière fédérale"
     },
     {
-      "slug": "adam-ondra-9c-silence",
-      "anchor": "Adam Ondra et le 9c Silence",
-      "context": "haut niveau mondial"
+      "slug": "films-escalade-meilleurs",
+      "anchor": "Les films consacrés à la grimpe et à ses figures",
+      "context": "complément culturel, conclusion"
+    },
+    {
+      "slug": "histoire-bleau-bloc",
+      "anchor": "le berceau du bloc à Fontainebleau",
+      "context": "patrimoine français, conclusion"
     }
   ],
   "scheduled_at": "2027-04-29T09:00:00+02:00"
