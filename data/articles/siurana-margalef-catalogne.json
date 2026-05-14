@@ -3,7 +3,7 @@
   "cocon": "sites",
   "type_article": "guide",
   "numero": 99,
-  "title": "Siurana et Margalef : Catalogne côté français",
+  "title": "Siurana et Margalef | calcaire rouge de Catalogne, escalade",
   "h1": "Siurana et Margalef, Catalogne côté grimpeurs français.",
   "description": "Guide de Siurana et Margalef en Catalogne : calcaire conglomérat, La Rambla 9a+, accès depuis la France et conseils saison hivernale.",
   "chapo": "Siurana et Margalef, c'est la Mecque hivernale des grimpeurs européens. À 3 heures de Perpignan, deux falaises catalanes parmi les plus belles du monde. La Rambla de Sharma, Demencia Senil, des milliers de voies sur calcaire compact ou conglomérat orange. Je n'y suis pas encore monté mais je prévois un séjour à Noël prochain. Voici les secteurs, l'accès, le matériel et la magie de la Catalogne grimpante.",
@@ -58,16 +58,52 @@
     {
       "type": "table",
       "caption": "Comparaison Siurana vs Margalef",
-      "headers": ["Critère", "Siurana", "Margalef"],
+      "headers": [
+        "Critère",
+        "Siurana",
+        "Margalef"
+      ],
       "rows": [
-        ["Localisation", "Priorat catalan", "Priorat catalan"],
-        ["Type rocher", "Calcaire compact", "Conglomérat orange à poches"],
-        ["Hauteur voies", "25 à 45 mètres", "15 à 25 mètres"],
-        ["Cotation dominante", "7 à 8a", "7a à 8b"],
-        ["Voies emblématiques", "La Rambla 9a+", "Demencia Senil 9a+"],
-        ["Hébergement", "Village et refuge", "Camping Margalef"],
-        ["Distance Perpignan", "3 heures", "3 h 15"],
-        ["Saison", "Octobre à avril", "Octobre à avril"]
+        [
+          "Localisation",
+          "Priorat catalan",
+          "Priorat catalan"
+        ],
+        [
+          "Type rocher",
+          "Calcaire compact",
+          "Conglomérat orange à poches"
+        ],
+        [
+          "Hauteur voies",
+          "25 à 45 mètres",
+          "15 à 25 mètres"
+        ],
+        [
+          "Cotation dominante",
+          "7 à 8a",
+          "7a à 8b"
+        ],
+        [
+          "Voies emblématiques",
+          "La Rambla 9a+",
+          "Demencia Senil 9a+"
+        ],
+        [
+          "Hébergement",
+          "Village et refuge",
+          "Camping Margalef"
+        ],
+        [
+          "Distance Perpignan",
+          "3 heures",
+          "3 h 15"
+        ],
+        [
+          "Saison",
+          "Octobre à avril",
+          "Octobre à avril"
+        ]
       ]
     },
     {
@@ -91,12 +127,30 @@
       "variant": "bullets",
       "title": "Secteurs incontournables",
       "items": [
-        {"title": "Siurana El Pati", "body": "La Rambla, voies dures, ambiance amphithéâtre."},
-        {"title": "Siurana Can Piqui", "body": "Secteur initiation, voies 5 à 7, exposé soleil."},
-        {"title": "Margalef Espadelles", "body": "Secteur principal, dévers à poches, 6c à 8b."},
-        {"title": "Margalef La Catedral", "body": "Voies hautes 25 mètres, 7a à 9a, magnifique."},
-        {"title": "Siurana La Capella", "body": "Petit secteur orange, voies courtes intenses."},
-        {"title": "Margalef Finestra", "body": "Demencia Senil et autres extrêmes, paroi raide."}
+        {
+          "title": "Siurana El Pati",
+          "body": "La Rambla, voies dures, ambiance amphithéâtre."
+        },
+        {
+          "title": "Siurana Can Piqui",
+          "body": "Secteur initiation, voies 5 à 7, exposé soleil."
+        },
+        {
+          "title": "Margalef Espadelles",
+          "body": "Secteur principal, dévers à poches, 6c à 8b."
+        },
+        {
+          "title": "Margalef La Catedral",
+          "body": "Voies hautes 25 mètres, 7a à 9a, magnifique."
+        },
+        {
+          "title": "Siurana La Capella",
+          "body": "Petit secteur orange, voies courtes intenses."
+        },
+        {
+          "title": "Margalef Finestra",
+          "body": "Demencia Senil et autres extrêmes, paroi raide."
+        }
       ]
     },
     {
@@ -166,10 +220,26 @@
   ],
   "cover_alt": "Falaise de calcaire de Siurana en Catalogne avec village médiéval perché",
   "internal_links": [
-    {"slug": "sites-escalade-emblematiques-france", "anchor": "notre panorama des sites français", "context": "Pilier du cocon"},
-    {"slug": "ceuse-cathedrale-calcaire", "anchor": "le guide de Céüse", "context": "Autre temple calcaire compact"},
-    {"slug": "saint-leger-du-ventoux-escalade", "anchor": "Saint-Léger-du-Ventoux", "context": "Alternative hivernale française"},
-    {"slug": "buoux-luberon-historique", "anchor": "Buoux dans le Luberon", "context": "Autre site méditerranéen"}
+    {
+      "slug": "sites-escalade-emblematiques-france",
+      "anchor": "notre panorama des sites français",
+      "context": "Pilier du cocon"
+    },
+    {
+      "slug": "ceuse-cathedrale-calcaire",
+      "anchor": "le guide de Céüse",
+      "context": "Autre temple calcaire compact"
+    },
+    {
+      "slug": "saint-leger-du-ventoux-escalade",
+      "anchor": "Saint-Léger-du-Ventoux",
+      "context": "Alternative hivernale française"
+    },
+    {
+      "slug": "buoux-luberon-historique",
+      "anchor": "Buoux dans le Luberon",
+      "context": "Autre site méditerranéen"
+    }
   ],
   "scheduled_at": "2026-12-19T09:00:00+01:00"
 }

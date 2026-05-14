@@ -3,7 +3,7 @@
   "cocon": "sites",
   "type_article": "guide",
   "numero": 100,
-  "title": "Gorges de la Loire : basalte du Massif Central",
+  "title": "Gorges de la Loire | basalte et calcaire du Massif Central",
   "h1": "Gorges de la Loire, basalte du Massif Central.",
   "description": "Guide des Gorges de la Loire près de Saint-Étienne : basalte volcanique, falaises courtes, accès rivière et secteurs principaux.",
   "chapo": "Les Gorges de la Loire, c'est l'escalade volcanique du Massif Central. Près de Saint-Étienne, le fleuve a sculpté des falaises de basalte parmi les plus originales de France. Voies courtes mais variées, ambiance forestière, accès facile depuis la rivière. Je prévois d'y aller au printemps prochain avec mon père. Voici les secteurs, l'accès et les conditions de ce site méconnu.",
@@ -29,7 +29,7 @@
     },
     {
       "type": "p",
-      "html": "Les Gorges restent confidentielles à l'échelle nationale. Les grimpeurs lyonnais, stéphanois et clermontois fréquentent le site régulièrement, mais peu d'étrangers y montent. Cette tranquillité préserve l'ambiance familière des falaises locales. Tu croises rarement plus de quelques cordées sur les secteurs principaux. Le calme du Forez, la beauté du fleuve, la convivialité des grimpeurs locaux composent une atmosphère agréable et accueillante."
+      "html": "Les Gorges restent confidentielles à l'échelle nationale. Les grimpeurs lyonnais, stéphanois et clermontois fréquentent le site régulièrement, mais peu d'étrangers y montent. Cette tranquillité préserve l'ambiance familière des falaises locales. Tu croises rarement plus de quelques <strong>cordée</strong>s sur les secteurs principaux. Le calme du Forez, la beauté du fleuve, la convivialité des grimpeurs locaux composent une atmosphère agréable et accueillante."
     },
     {
       "type": "h2",
@@ -46,16 +46,43 @@
     {
       "type": "table",
       "caption": "Fiche d'identité des Gorges de la Loire",
-      "headers": ["Critère", "Détail"],
+      "headers": [
+        "Critère",
+        "Détail"
+      ],
       "rows": [
-        ["Localisation", "Saint-Étienne, Loire (42)"],
-        ["Altitude", "350 à 600 mètres"],
-        ["Type de rocher", "Basalte volcanique en orgues"],
-        ["Discipline", "Voies courtes équipées, quelques blocs"],
-        ["Cotations", "Du 4 au 8a, majorité 5 et 6"],
-        ["Période idéale", "Mars à novembre"],
-        ["Accès", "Saint-Étienne par D8, sentiers depuis berges"],
-        ["Approche", "5 à 30 minutes depuis parking"]
+        [
+          "Localisation",
+          "Saint-Étienne, Loire (42)"
+        ],
+        [
+          "Altitude",
+          "350 à 600 mètres"
+        ],
+        [
+          "Type de rocher",
+          "Basalte volcanique en orgues"
+        ],
+        [
+          "Discipline",
+          "Voies courtes équipées, quelques blocs"
+        ],
+        [
+          "Cotations",
+          "Du 4 au 8a, majorité 5 et 6"
+        ],
+        [
+          "Période idéale",
+          "Mars à novembre"
+        ],
+        [
+          "Accès",
+          "Saint-Étienne par D8, sentiers depuis berges"
+        ],
+        [
+          "Approche",
+          "5 à 30 minutes depuis parking"
+        ]
       ]
     },
     {
@@ -64,7 +91,7 @@
     },
     {
       "type": "p",
-      "html": "Le secteur de <strong>Chambles</strong> reste le plus connu et fréquenté. Falaise de 30 mètres en orgues basaltiques, exposition sud-ouest, voies du 5 au 7c. La paroi domine la vallée et offre une vue magnifique sur les Monts du Forez. Plusieurs voies historiques comme La Belle Verte ou Dièdre des Anges y ont été ouvertes dans les années 80. Le site convient aux grimpeurs intermédiaires qui veulent enchaîner des voies variées sur une journée."
+      "html": "Le secteur de <strong>Chambles</strong> reste le plus connu et fréquenté. Falaise de 30 mètres en orgues basaltiques, exposition sud-ouest, voies du 5 au <strong>7c</strong>. La paroi domine la vallée et offre une vue magnifique sur les Monts du Forez. Plusieurs voies historiques comme La Belle Verte ou Dièdre des Anges y ont été ouvertes dans les années 80. Le site convient aux grimpeurs intermédiaires qui veulent enchaîner des voies variées sur une journée."
     },
     {
       "type": "p",
@@ -87,12 +114,30 @@
       "variant": "bullets",
       "title": "Secteurs et voies classiques",
       "items": [
-        {"title": "Chambles", "body": "Falaise principale, orgues basaltiques, voies 5 à 7c."},
-        {"title": "Aurec-sur-Loire", "body": "Secteurs variés, voies courtes intenses, ambiance forestière."},
-        {"title": "Saint-Maurice-en-Gourgois", "body": "Initiation et famille, voies faciles bien équipées."},
-        {"title": "Saint-Just-Saint-Rambert", "body": "Bord de Loire, accès rivière, voies faciles."},
-        {"title": "La Dérive des Continents", "body": "6a classique à Chambles, fissure historique."},
-        {"title": "Hammer", "body": "6c puissant à Aurec, voie travaillée des locaux."}
+        {
+          "title": "Chambles",
+          "body": "Falaise principale, orgues basaltiques, voies 5 à 7c."
+        },
+        {
+          "title": "Aurec-sur-Loire",
+          "body": "Secteurs variés, voies courtes intenses, ambiance forestière."
+        },
+        {
+          "title": "Saint-Maurice-en-Gourgois",
+          "body": "Initiation et famille, voies faciles bien équipées."
+        },
+        {
+          "title": "Saint-Just-Saint-Rambert",
+          "body": "Bord de Loire, accès rivière, voies faciles."
+        },
+        {
+          "title": "La Dérive des Continents",
+          "body": "6a classique à Chambles, fissure historique."
+        },
+        {
+          "title": "Hammer",
+          "body": "6c puissant à Aurec, voie travaillée des locaux."
+        }
       ]
     },
     {
@@ -162,10 +207,26 @@
   ],
   "cover_alt": "Falaises de basalte volcanique dans les Gorges de la Loire près de Saint-Étienne",
   "internal_links": [
-    {"slug": "sites-escalade-emblematiques-france", "anchor": "notre panorama des sites français", "context": "Pilier du cocon"},
-    {"slug": "gorges-tarn-massif-central", "anchor": "le guide des Gorges du Tarn", "context": "Autre site Massif Central"},
-    {"slug": "saffres-cote-or-region-est", "anchor": "Saffres en Côte-d'Or", "context": "Autre site régional original"},
-    {"slug": "saussois-yonne-bourgogne", "anchor": "Saussois en Bourgogne", "context": "Autre falaise courte centre France"}
+    {
+      "slug": "sites-escalade-emblematiques-france",
+      "anchor": "notre panorama des sites français",
+      "context": "Pilier du cocon"
+    },
+    {
+      "slug": "gorges-tarn-massif-central",
+      "anchor": "le guide des Gorges du Tarn",
+      "context": "Autre site Massif Central"
+    },
+    {
+      "slug": "saffres-cote-or-region-est",
+      "anchor": "Saffres en Côte-d'Or",
+      "context": "Autre site régional original"
+    },
+    {
+      "slug": "saussois-yonne-bourgogne",
+      "anchor": "Saussois en Bourgogne",
+      "context": "Autre falaise courte centre France"
+    }
   ],
   "scheduled_at": "2026-12-22T09:00:00+01:00"
 }

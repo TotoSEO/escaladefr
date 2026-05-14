@@ -5,7 +5,7 @@
   "numero": 91,
   "title": "Calanques : escalade face à la Méditerranée à Marseille",
   "h1": "Calanques, escalade face à la Méditerranée",
-  "description": "Découvre les Calanques entre Marseille et Cassis : En-Vau, Morgiou, Sormiou, Devenson, calcaire blanc, quotas Sugiton et restrictions estivales du Parc national.",
+  "description": "Découvre les Calanques entre Marseille et Cassis : En-Vau, Morgiou, Sormiou, Devenson, calcaire blanc, quotas Sugiton et restrictions estivales du Parc...",
   "chapo": "Les Calanques, c'est un terrain de jeu unique en Europe. Soixante kilomètres de littoral entre Marseille et Cassis, des falaises blanches plongeant dans une mer turquoise, des grandes voies maritimes, des couennes sportives. Je te raconte ce massif sauvage, ses secteurs mythiques d'En-Vau à Sormiou, les contraintes du Parc national, les quotas Sugiton et la magie de grimper le matin avec les pieds dans la Méditerranée.",
   "takeaways": [
     "Les Calanques s'étendent sur 60 kilomètres entre Marseille et Cassis, en Parc national.",
@@ -46,16 +46,43 @@
     {
       "type": "table",
       "caption": "Fiche d'identité du site",
-      "headers": ["Critère", "Détail"],
+      "headers": [
+        "Critère",
+        "Détail"
+      ],
       "rows": [
-        ["Type de rocher", "Calcaire urgonien blanc, sculpté par mer et vent"],
-        ["Orientation", "Toutes orientations selon les secteurs"],
-        ["Exposition", "Très variable, de plein sud à nord selon les calanques"],
-        ["Cotation min/max", "Du 4c au 9a, large gamme dans tous les niveaux"],
-        ["Nombre de voies", "Plus de 3000 voies sur des dizaines de secteurs"],
-        ["Période favorable", "Octobre à mai, fermetures estivales possibles"],
-        ["Accès", "Parkings Luminy, Callelongue, La Gardiole, puis marche 30 à 90 min"],
-        ["Parking", "Aires gratuites ou payantes selon les sites, vite saturées"]
+        [
+          "Type de rocher",
+          "Calcaire urgonien blanc, sculpté par mer et vent"
+        ],
+        [
+          "Orientation",
+          "Toutes orientations selon les secteurs"
+        ],
+        [
+          "Exposition",
+          "Très variable, de plein sud à nord selon les calanques"
+        ],
+        [
+          "Cotation min/max",
+          "Du 4c au 9a, large gamme dans tous les niveaux"
+        ],
+        [
+          "Nombre de voies",
+          "Plus de 3000 voies sur des dizaines de secteurs"
+        ],
+        [
+          "Période favorable",
+          "Octobre à mai, fermetures estivales possibles"
+        ],
+        [
+          "Accès",
+          "Parkings Luminy, Callelongue, La Gardiole, puis marche 30 à 90 min"
+        ],
+        [
+          "Parking",
+          "Aires gratuites ou payantes selon les sites, vite saturées"
+        ]
       ]
     },
     {
@@ -83,12 +110,30 @@
       "variant": "bullets",
       "title": "Les calanques à explorer",
       "items": [
-        {"title": "En-Vau", "body": "La plus belle, voies historiques dans le 5 au 7, Trois Doigts mythiques."},
-        {"title": "Sormiou et Morgiou", "body": "Accessibles depuis Marseille, secteurs école et couennes sportives."},
-        {"title": "Sugiton", "body": "Grandes voies maritimes, quota journalier depuis 2022, accès limité."},
-        {"title": "Devenson", "body": "Grandes voies engagées, hauteurs jusqu'à 200 mètres, autonomie requise."},
-        {"title": "Castelvieil", "body": "Secteur sportif aux voies modernes, dans le 7 et 8 principalement."},
-        {"title": "La Gardiole", "body": "Falaise écolesportive avec couennes, accès facile, fréquentation élevée."}
+        {
+          "title": "En-Vau",
+          "body": "La plus belle, voies historiques dans le 5 au 7, Trois Doigts mythiques."
+        },
+        {
+          "title": "Sormiou et Morgiou",
+          "body": "Accessibles depuis Marseille, secteurs école et couennes sportives."
+        },
+        {
+          "title": "Sugiton",
+          "body": "Grandes voies maritimes, quota journalier depuis 2022, accès limité."
+        },
+        {
+          "title": "Devenson",
+          "body": "Grandes voies engagées, hauteurs jusqu'à 200 mètres, autonomie requise."
+        },
+        {
+          "title": "Castelvieil",
+          "body": "Secteur sportif aux voies modernes, dans le 7 et 8 principalement."
+        },
+        {
+          "title": "La Gardiole",
+          "body": "Falaise écolesportive avec couennes, accès facile, fréquentation élevée."
+        }
       ]
     },
     {
@@ -98,7 +143,7 @@
     {
       "type": "p",
       "html": "Depuis 2012, les Calanques sont classées Parc national, ce qui implique des règles strictes. La principale contrainte concerne les <strong>fermetures estivales</strong>. Du 1er juin au 30 septembre, le massif peut être totalement ou partiellement fermé selon le niveau de risque incendie. Les cartes Météo France indiquent quotidiennement le niveau jaune, orange ou rouge. En rouge, accès interdit, même pour les grimpeurs. En 2022 et 2023, plus de la moitié des journées d'été ont été fermées."
-    >},
+    },
     {
       "type": "p",
       "html": "Le quota Sugiton, instauré en 2022, limite à 400 personnes par jour l'accès à la calanque entre mai et août. Réservation obligatoire en ligne plusieurs jours à l'avance. Cette mesure vise à protéger la flore et limiter la dégradation des sentiers. D'autres restrictions concernent la nidification du faucon pèlerin et de l'aigle de Bonelli, avec des fermetures de secteurs entre février et juin. Consulte le site du Parc avant chaque sortie."
@@ -162,10 +207,26 @@
   ],
   "cover_alt": "Calanque d'En-Vau avec ses falaises calcaires blanches plongeant dans la Méditerranée",
   "internal_links": [
-    {"slug": "sites-escalade-emblematiques-france", "anchor": "sites d'escalade emblématiques de France", "context": "Pilier du cocon sites"},
-    {"slug": "sainte-victoire-paul-cezanne", "anchor": "Sainte-Victoire", "context": "Autre joyau provençal"},
-    {"slug": "buoux-luberon-historique", "anchor": "Buoux dans le Luberon", "context": "Autre falaise du sud"},
-    {"slug": "saint-leger-du-ventoux-escalade", "anchor": "Saint-Léger-du-Ventoux", "context": "Autre site vauclusien"}
+    {
+      "slug": "sites-escalade-emblematiques-france",
+      "anchor": "sites d'escalade emblématiques de France",
+      "context": "Pilier du cocon sites"
+    },
+    {
+      "slug": "sainte-victoire-paul-cezanne",
+      "anchor": "Sainte-Victoire",
+      "context": "Autre joyau provençal"
+    },
+    {
+      "slug": "buoux-luberon-historique",
+      "anchor": "Buoux dans le Luberon",
+      "context": "Autre falaise du sud"
+    },
+    {
+      "slug": "saint-leger-du-ventoux-escalade",
+      "anchor": "Saint-Léger-du-Ventoux",
+      "context": "Autre site vauclusien"
+    }
   ],
   "scheduled_at": "2026-12-01T09:00:00+01:00"
 }

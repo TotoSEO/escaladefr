@@ -5,7 +5,7 @@
   "numero": 90,
   "title": "Aiglun : escalade dans les Préalpes d'Azur maritimes",
   "h1": "Aiglun, escalade dans les Préalpes d'Azur",
-  "description": "Plonge dans Aiglun, site de dalles techniques des Alpes-Maritimes : voies dans le 6 au 8, calcaire compact, ambiance Préalpes maritimes, saison et conseils.",
+  "description": "Plonge dans Aiglun, site de dalles techniques des Alpes-Maritimes : voies dans le 6 au 8, calcaire compact, ambiance Préalpes maritimes, saison et...",
   "chapo": "Aiglun, c'est l'une des plus belles falaises des Alpes-Maritimes, posée sur les Préalpes d'Azur entre Grasse et Castellane. Dalles compactes, voies techniques, ambiance sauvage à 700 mètres d'altitude. Je te raconte ce site discret du parc naturel régional, ses lignes phares, le calcaire qui demande une lecture fine et le charme particulier des Préalpes d'Azur, loin du tumulte de la côte.",
   "takeaways": [
     "Aiglun se situe dans les Alpes-Maritimes, au cœur des Préalpes d'Azur.",
@@ -25,7 +25,7 @@
     },
     {
       "type": "p",
-      "html": "Le village d'Aiglun compte une centaine d'habitants, niché dans les Préalpes d'Azur, à environ une heure de route de Nice et Grasse. La falaise se trouve à quelques minutes du centre, accessible par un petit sentier. Le Parc naturel régional des Préalpes d'Azur protège l'ensemble de la zone, et la grimpe y est encadrée mais autorisée. Environ 150 voies équipées se répartissent sur plusieurs secteurs, du 5c au 8b, avec une dominante dans le 6c à 7c."
+      "html": "Le village d'Aiglun compte une centaine d'habitants, niché dans les Préalpes d'Azur, à environ une heure de route de Nice et Grasse. La falaise se trouve à quelques minutes du centre, accessible par un petit sentier. Le Parc naturel régional des Préalpes d'Azur protège l'ensemble de la zone, et la grimpe y est encadrée mais autorisée. Environ <strong>15</strong>0 voies équipées se répartissent sur plusieurs secteurs, du 5c au <strong>8b</strong>, avec une dominante dans le 6c à <strong>7c</strong>."
     },
     {
       "type": "p",
@@ -46,16 +46,43 @@
     {
       "type": "table",
       "caption": "Fiche d'identité du site",
-      "headers": ["Critère", "Détail"],
+      "headers": [
+        "Critère",
+        "Détail"
+      ],
       "rows": [
-        ["Type de rocher", "Calcaire jurassique compact, dalles et murs verticaux"],
-        ["Orientation", "Sud principalement, quelques secteurs ouest et est"],
-        ["Exposition", "Plein soleil l'après-midi, ombre le matin sur certains secteurs"],
-        ["Cotation min/max", "Du 5c au 8b, majorité dans le 6c à 7c"],
-        ["Nombre de voies", "Environ 150 voies équipées sur 5 à 6 secteurs"],
-        ["Période favorable", "Octobre à juin, optimum mars, avril, mai, octobre, novembre"],
-        ["Accès", "Parking au village d'Aiglun puis 10 à 20 min de marche"],
-        ["Parking", "Aire gratuite au village, capacité limitée en haute saison"]
+        [
+          "Type de rocher",
+          "Calcaire jurassique compact, dalles et murs verticaux"
+        ],
+        [
+          "Orientation",
+          "Sud principalement, quelques secteurs ouest et est"
+        ],
+        [
+          "Exposition",
+          "Plein soleil l'après-midi, ombre le matin sur certains secteurs"
+        ],
+        [
+          "Cotation min/max",
+          "Du 5c au 8b, majorité dans le 6c à 7c"
+        ],
+        [
+          "Nombre de voies",
+          "Environ 150 voies équipées sur 5 à 6 secteurs"
+        ],
+        [
+          "Période favorable",
+          "Octobre à juin, optimum mars, avril, mai, octobre, novembre"
+        ],
+        [
+          "Accès",
+          "Parking au village d'Aiglun puis 10 à 20 min de marche"
+        ],
+        [
+          "Parking",
+          "Aire gratuite au village, capacité limitée en haute saison"
+        ]
       ]
     },
     {
@@ -64,7 +91,7 @@
     },
     {
       "type": "p",
-      "html": "Aiglun n'a pas de voies aussi mythiques que Biographie ou Le Minimum, mais le site compte plusieurs classiques très recherchés. Les lignes du secteur Central dans le 7a à 7c offrent des grimpes techniques exemplaires, avec des lectures de pieds millimétrées et des séquences fluides. Quelques voies dans le 8a et 8b représentent les défis du site, ouvertes par des grimpeurs de haut niveau dans les années 2000 et 2010. Le style général reste celui de la dalle technique, peu de force pure, beaucoup d'équilibre."
+      "html": "Aiglun n'a pas de voies aussi mythiques que Biographie ou Le Minimum, mais le site compte plusieurs classiques très recherchés. Les lignes du secteur Central dans le 7a à 7c offrent des grimpes techniques exemplaires, avec des lectures de pieds millimétrées et des séquences fluides. Quelques voies dans le <strong>8a</strong> et 8b représentent les défis du site, ouvertes par des grimpeurs de haut niveau dans les années 2000 et 2010. Le style général reste celui de la dalle technique, peu de force pure, beaucoup d'équilibre."
     },
     {
       "type": "p",
@@ -83,12 +110,30 @@
       "variant": "bullets",
       "title": "Les secteurs d'Aiglun",
       "items": [
-        {"title": "Secteur École", "body": "Voies du 5c au 6b, bien équipées, idéal pour découvrir le rocher local."},
-        {"title": "Mur Central", "body": "Classiques du site dans le 6c à 7c, dalles techniques et murs verticaux."},
-        {"title": "Pilier Sud", "body": "Lignes engagées dans le 7b à 8a, lecture de pieds millimétrée."},
-        {"title": "Secteur Nord", "body": "Plus frais en saison chaude, voies dans le 6b à 7b."},
-        {"title": "La Dalle Bleue", "body": "Secteur compact, voies techniques pures, ambiance dalle à doigts."},
-        {"title": "Le Bombé", "body": "Quelques voies en dévers léger, plus physiques, dans le 7c à 8b."}
+        {
+          "title": "Secteur École",
+          "body": "Voies du 5c au 6b, bien équipées, idéal pour découvrir le rocher local."
+        },
+        {
+          "title": "Mur Central",
+          "body": "Classiques du site dans le 6c à 7c, dalles techniques et murs verticaux."
+        },
+        {
+          "title": "Pilier Sud",
+          "body": "Lignes engagées dans le 7b à 8a, lecture de pieds millimétrée."
+        },
+        {
+          "title": "Secteur Nord",
+          "body": "Plus frais en saison chaude, voies dans le 6b à 7b."
+        },
+        {
+          "title": "La Dalle Bleue",
+          "body": "Secteur compact, voies techniques pures, ambiance dalle à doigts."
+        },
+        {
+          "title": "Le Bombé",
+          "body": "Quelques voies en dévers léger, plus physiques, dans le 7c à 8b."
+        }
       ]
     },
     {
@@ -150,10 +195,26 @@
   ],
   "cover_alt": "Falaise calcaire d'Aiglun dans les Préalpes d'Azur surplombant les gorges de l'Estéron",
   "internal_links": [
-    {"slug": "sites-escalade-emblematiques-france", "anchor": "sites d'escalade emblématiques de France", "context": "Pilier du cocon sites"},
-    {"slug": "saint-leger-du-ventoux-escalade", "anchor": "Saint-Léger-du-Ventoux", "context": "Autre falaise de dalles techniques"},
-    {"slug": "ceuse-cathedrale-calcaire", "anchor": "Céüse", "context": "Cathédrale du calcaire alpin"},
-    {"slug": "calanques-escalade-marseille", "anchor": "Calanques", "context": "Autre site méditerranéen"}
+    {
+      "slug": "sites-escalade-emblematiques-france",
+      "anchor": "sites d'escalade emblématiques de France",
+      "context": "Pilier du cocon sites"
+    },
+    {
+      "slug": "saint-leger-du-ventoux-escalade",
+      "anchor": "Saint-Léger-du-Ventoux",
+      "context": "Autre falaise de dalles techniques"
+    },
+    {
+      "slug": "ceuse-cathedrale-calcaire",
+      "anchor": "Céüse",
+      "context": "Cathédrale du calcaire alpin"
+    },
+    {
+      "slug": "calanques-escalade-marseille",
+      "anchor": "Calanques",
+      "context": "Autre site méditerranéen"
+    }
   ],
   "scheduled_at": "2026-11-28T09:00:00+01:00"
 }

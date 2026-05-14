@@ -15,49 +15,173 @@
     "Trente secondes de rituel suffisent pour éviter l'accident le plus bête."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Pourquoi cette triple vérification est non négociable"},
-    {"type": "p", "html": "Demande à n'importe quel ouvreur expérimenté, à n'importe quel moniteur breveté d'État, à n'importe quel pompier du Groupe Montagne. Le scénario revient toujours : un grimpeur confirmé, parfois 7a au compteur, qui part en tête sans avoir terminé son nœud. Le **nœud d'encordement** se défait dans la première dégaine, et c'est la chute libre. Ce n'est pas un mythe, c'est statistiquement le premier accident évitable de la discipline. La triple vérification existe pour ça."},
-    {"type": "p", "html": "Quand j'avais quinze ans, lors d'une session à Orpierre, j'ai vu mon partenaire partir avec un huit mal repassé. Je l'ai rattrapé à la troisième dégaine en hurlant. Depuis, je vérifie systématiquement. Pas par paranoïa, par méthode. Trente secondes de rituel partagé, c'est le prix à payer pour grimper toute une vie."},
-    {"type": "h2", "text": "Étape 1, le baudrier bouclé et sangle rabattue"},
-    {"type": "p", "html": "Premier réflexe, tu inspectes ta propre ceinture. Tu regardes la **boucle de la ceinture** : elle doit être bouclée correctement, la sangle revenant dans le passant du frein. Sur la majorité des baudriers Petzl, Black Diamond, Edelrid récents, le système est automatique et la sangle se replace seule. Sur les modèles plus anciens, il faut repasser la sangle à la main, à plus de cinq centimètres après la boucle."},
-    {"type": "p", "html": "Tu vérifies aussi les **boucles de cuisse**. Selon le modèle, elles sont fixes ou réglables. Si tu peux les ajuster, vérifie qu'elles ne sont pas torsadées. La ceinture passe au dessus de la crête iliaque, jamais sur la taille basse, sinon en cas de chute tête en bas, le baudrier te lâche aux hanches."},
-    {"type": "tip", "title": "Le piège du baudrier prêté", "body": "Quand tu prêtes ton baudrier ou que tu en empruntes un, refais la vérification complète comme si c'était le tien. Le précédent utilisateur a peut être desserré une boucle qui n'est pas revenue dans le passant. La marque n'y change rien.", "tone": "attention"},
-    {"type": "h2", "text": "Étape 2, le nœud d'encordement et son nœud d'arrêt"},
-    {"type": "p", "html": "Le nœud d'encordement standard en France, c'est le **nœud en huit suivi**. Tu fais un huit simple à environ un mètre du bout, tu passes le bout dans les deux **pontets du baudrier** (ceinture plus pont d'encordement), puis tu repasses le brin libre dans le huit en suivant tous les croisements. Cinq étapes, pas une de moins. Tu serres en tirant sur les quatre brins un à un."},
-    {"type": "p", "html": "En sortie de nœud, tu dois voir un brin libre d'au moins **dix centimètres** avant de placer le nœud d'arrêt. Le nœud d'arrêt évite tout glissement du huit si la corde se met à filer. Beaucoup utilisent un demi nœud simple plaqué contre le huit, d'autres préfèrent une boucle bloquante. Les deux protègent. Ce qui ne protège pas, c'est l'absence pure et simple."},
-    {"type": "list", "variant": "numbered", "title": "Les cinq points à confirmer sur ton nœud", "items": [
-      {"title": "Brin sortant", "body": "Il sort bien des deux pontets du baudrier, jamais d'un seul."},
-      {"title": "Huit propre", "body": "Les quatre brins du huit doivent être parallèles, sans croisement parasite."},
-      {"title": "Serrage", "body": "Tu tires les quatre brins individuellement jusqu'au compactage du nœud."},
-      {"title": "Brin libre", "body": "Minimum dix centimètres entre le huit et le nœud d'arrêt."},
-      {"title": "Nœud d'arrêt", "body": "Présent, plaqué contre le huit, serré à la main."}
-    ]},
-    {"type": "h2", "text": "Étape 3, le système d'assurage et la corde"},
-    {"type": "p", "html": "Le grimpeur a fini, l'assureur prend le relais. Tu vérifies que ton **système d'assurage** (GriGri Petzl, Click Up Climbing Technology, tube ATC Black Diamond) est monté dans le bon sens. Sur le GriGri, l'icône main brin libre est visible et orientée correctement, le brin du grimpeur entre par le bon côté. Sur un tube, la corde passe en double dans la fente et le mousqueton à vis verrouillé prend la sangle plus le brin."},
-    {"type": "p", "html": "Le **mousqueton à vis** se serre puis se desserre d'un quart de tour, c'est la recommandation Petzl pour éviter le grippage. Tu testes que le doigt verrouille bien, qu'il n'y a pas de jeu, et tu te places en bonne position d'assurage. Tu peux relire <a href=\"/blog/check-list-avant-grimper\">notre check list complète avant de grimper</a> pour ne rien oublier."},
-    {"type": "h2", "text": "Le contrôle croisé, le geste qui change tout"},
-    {"type": "p", "html": "Vérification individuelle plus contrôle croisé, c'est la règle. Le grimpeur regarde son nœud, l'assureur le regarde aussi. L'assureur regarde son système, le grimpeur le regarde aussi. C'est exactement comme un pilote d'avion qui lit la checklist avec son copilote. Personne n'a honte de demander, personne ne s'agace de se faire vérifier. C'est la culture sécurité standard en escalade."},
-    {"type": "quote", "text": "On ne vérifie jamais trop, on vérifie souvent trop tard. Le rituel partagé, c'est trente secondes pour grimper trente ans.", "author": "Antoine", "role": "rédacteur escalade-france.fr"},
-    {"type": "h2", "text": "Les pièges courants que je vois en salle et en falaise"},
-    {"type": "p", "html": "Le premier, c'est le grimpeur qui se vérifie en discutant. La parole capte le cerveau, l'œil glisse sur le nœud sans le voir. Le deuxième, c'est l'enchaînement de voies : à la troisième moulinette, on relâche le rituel, on s'encorde en parlant des projets du week-end, et c'est là que ça part en vrille. Le troisième, c'est la confiance dans le partenaire historique : depuis dix ans tu grimpes avec lui, tu sais qu'il fait bien, donc tu sautes l'étape. Mauvais raisonnement."},
-    {"type": "tip", "title": "Une erreur que j'ai failli faire", "body": "À Buoux, j'ai voulu grimper une voie en sortant de la voiture, pressé par la météo. J'ai oublié de finir le nœud d'arrêt. Mon père a vu, m'a stoppé au pied de la voie, et j'ai repris le rituel proprement. Sans lui, je serais peut être resté pendu à la première dégaine.", "tone": "erreur"},
-    {"type": "h2", "text": "Pour aller plus loin sur la sécurité"},
-    {"type": "p", "html": "La triple vérification s'inscrit dans une démarche plus large que tu peux approfondir avec <a href=\"/blog/check-list-avant-grimper\">la check list avant de grimper</a> et <a href=\"/blog/partenaire-grimpe-confiance\">le choix du partenaire de grimpe</a>. Si l'accident arrive malgré tout, tu auras besoin de connaître <a href=\"/blog/premiers-secours-escalade\">les gestes essentiels de premiers secours</a> et <a href=\"/blog/alerter-secours-falaise\">la procédure d'alerte aux secours en falaise</a>."}
+    {
+      "type": "h2",
+      "text": "Pourquoi cette triple vérification est non négociable"
+    },
+    {
+      "type": "p",
+      "html": "Demande à n'importe quel ouvreur expérimenté, à n'importe quel moniteur breveté d'État, à n'importe quel pompier du Groupe Montagne. Le scénario revient toujours : un grimpeur confirmé, parfois 7a au compteur, qui part en tête sans avoir terminé son nœud. Le **nœud d'encordement** se défait dans la première dégaine, et c'est la chute libre. Ce n'est pas un mythe, c'est statistiquement le premier accident évitable de la discipline. La triple vérification existe pour ça."
+    },
+    {
+      "type": "p",
+      "html": "Quand j'avais quinze ans, lors d'une session à Orpierre, j'ai vu mon <strong>partenaire</strong> partir avec un huit mal repassé. Je l'ai rattrapé à la troisième dégaine en hurlant. Depuis, je vérifie systématiquement. Pas par paranoïa, par méthode. Trente secondes de rituel partagé, c'est le prix à payer pour grimper toute une vie."
+    },
+    {
+      "type": "h2",
+      "text": "Étape 1, le baudrier bouclé et sangle rabattue"
+    },
+    {
+      "type": "p",
+      "html": "Premier réflexe, tu inspectes ta propre ceinture. Tu regardes la **boucle de la ceinture** : elle doit être bouclée correctement, la sangle revenant dans le passant du frein. Sur la majorité des <strong>baudrier</strong>s <strong>Petzl</strong>, <strong>Black Diamond</strong>, Edelrid récents, le système est automatique et la sangle se replace seule. Sur les modèles plus anciens, il faut repasser la sangle à la main, à plus de cinq centimètres après la boucle."
+    },
+    {
+      "type": "p",
+      "html": "Tu vérifies aussi les **boucles de cuisse**. Selon le modèle, elles sont fixes ou réglables. Si tu peux les ajuster, vérifie qu'elles ne sont pas torsadées. La ceinture passe au dessus de la crête iliaque, jamais sur la taille basse, sinon en cas de chute tête en bas, le baudrier te lâche aux hanches."
+    },
+    {
+      "type": "tip",
+      "title": "Le piège du baudrier prêté",
+      "body": "Quand tu prêtes ton baudrier ou que tu en empruntes un, refais la vérification complète comme si c'était le tien. Le précédent utilisateur a peut être desserré une boucle qui n'est pas revenue dans le passant. La marque n'y change rien.",
+      "tone": "attention"
+    },
+    {
+      "type": "h2",
+      "text": "Étape 2, le nœud d'encordement et son nœud d'arrêt"
+    },
+    {
+      "type": "p",
+      "html": "Le nœud d'encordement standard en France, c'est le **nœud en huit suivi**. Tu fais un huit simple à environ un mètre du bout, tu passes le bout dans les deux **pontets du baudrier** (ceinture plus pont d'encordement), puis tu repasses le brin libre dans le huit en suivant tous les croisements. Cinq étapes, pas une de moins. Tu serres en tirant sur les quatre brins un à un."
+    },
+    {
+      "type": "p",
+      "html": "En sortie de nœud, tu dois voir un brin libre d'au moins **dix centimètres** avant de placer le nœud d'arrêt. Le nœud d'arrêt évite tout glissement du huit si la corde se met à filer. Beaucoup utilisent un demi nœud simple plaqué contre le huit, d'autres préfèrent une boucle bloquante. Les deux protègent. Ce qui ne protège pas, c'est l'absence pure et simple."
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Les cinq points à confirmer sur ton nœud",
+      "items": [
+        {
+          "title": "Brin sortant",
+          "body": "Il sort bien des deux pontets du baudrier, jamais d'un seul."
+        },
+        {
+          "title": "Huit propre",
+          "body": "Les quatre brins du huit doivent être parallèles, sans croisement parasite."
+        },
+        {
+          "title": "Serrage",
+          "body": "Tu tires les quatre brins individuellement jusqu'au compactage du nœud."
+        },
+        {
+          "title": "Brin libre",
+          "body": "Minimum dix centimètres entre le huit et le nœud d'arrêt."
+        },
+        {
+          "title": "Nœud d'arrêt",
+          "body": "Présent, plaqué contre le huit, serré à la main."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Étape 3, le système d'assurage et la corde"
+    },
+    {
+      "type": "p",
+      "html": "Le grimpeur a fini, l'assureur prend le relais. Tu vérifies que ton **système d'assurage** (GriGri Petzl, Click Up Climbing Technology, tube ATC Black Diamond) est monté dans le bon sens. Sur le GriGri, l'icône main brin libre est visible et orientée correctement, le brin du grimpeur entre par le bon côté. Sur un tube, la corde passe en double dans la fente et le mousqueton à vis verrouillé prend la sangle plus le brin."
+    },
+    {
+      "type": "p",
+      "html": "Le **mousqueton à vis** se serre puis se desserre d'un quart de tour, c'est la recommandation Petzl pour éviter le grippage. Tu testes que le doigt verrouille bien, qu'il n'y a pas de jeu, et tu te places en bonne position d'assurage. Tu peux relire <a href=\"/blog/check-list-avant-grimper\">notre check list complète avant de grimper</a> pour ne rien oublier."
+    },
+    {
+      "type": "h2",
+      "text": "Le contrôle croisé, le geste qui change tout"
+    },
+    {
+      "type": "p",
+      "html": "Vérification individuelle plus contrôle croisé, c'est la règle. Le grimpeur regarde son nœud, l'assureur le regarde aussi. L'assureur regarde son système, le grimpeur le regarde aussi. C'est exactement comme un pilote d'avion qui lit la checklist avec son copilote. Personne n'a honte de demander, personne ne s'agace de se faire vérifier. C'est la culture sécurité standard en escalade."
+    },
+    {
+      "type": "quote",
+      "text": "On ne vérifie jamais trop, on vérifie souvent trop tard. Le rituel partagé, c'est trente secondes pour grimper trente ans.",
+      "author": "Antoine",
+      "role": "rédacteur escalade-france.fr"
+    },
+    {
+      "type": "h2",
+      "text": "Les pièges courants que je vois en salle et en falaise"
+    },
+    {
+      "type": "p",
+      "html": "Le premier, c'est le grimpeur qui se vérifie en discutant. La parole capte le cerveau, l'œil glisse sur le nœud sans le voir. Le deuxième, c'est l'enchaînement de voies : à la troisième moulinette, on relâche le rituel, on s'encorde en parlant des projets du week-end, et c'est là que ça part en vrille. Le troisième, c'est la confiance dans le partenaire historique : depuis dix ans tu grimpes avec lui, tu sais qu'il fait bien, donc tu sautes l'étape. Mauvais raisonnement."
+    },
+    {
+      "type": "tip",
+      "title": "Une erreur que j'ai failli faire",
+      "body": "À Buoux, j'ai voulu grimper une voie en sortant de la voiture, pressé par la météo. J'ai oublié de finir le nœud d'arrêt. Mon père a vu, m'a stoppé au pied de la voie, et j'ai repris le rituel proprement. Sans lui, je serais peut être resté pendu à la première dégaine.",
+      "tone": "erreur"
+    },
+    {
+      "type": "h2",
+      "text": "Pour aller plus loin sur la sécurité"
+    },
+    {
+      "type": "p",
+      "html": "La triple vérification s'inscrit dans une démarche plus large que tu peux approfondir avec <a href=\"/blog/check-list-avant-grimper\">la check list avant de grimper</a> et <a href=\"/blog/partenaire-grimpe-confiance\">le choix du partenaire de grimpe</a>. Si l'accident arrive malgré tout, tu auras besoin de connaître <a href=\"/blog/premiers-secours-escalade\">les gestes essentiels de premiers secours</a> et <a href=\"/blog/alerter-secours-falaise\">la procédure d'alerte aux secours en falaise</a>."
+    }
   ],
   "faq": [
-    {"q": "Faut il faire un nœud d'arrêt après un huit suivi ?", "a": "Oui, systématiquement. Le huit seul peut se desserrer sous l'effet de chocs successifs ou si la corde est neuve et glissante. Un nœud d'arrêt plaqué contre le huit, avec un brin libre minimum de dix centimètres, garantit que rien ne file. C'est la recommandation FFME comme la norme Petzl."},
-    {"q": "Quel nœud d'encordement choisir, huit ou neuf ?", "a": "Le huit suivi est la référence française et la plus enseignée en école d'escalade. Le neuf suivi tient mieux dans les cordes très fines mais reste plus difficile à défaire après une grosse chute. Pour 95% des pratiquants, le huit suivi avec nœud d'arrêt suffit largement."},
-    {"q": "Faut il vérifier son partenaire en salle comme en falaise ?", "a": "Oui, exactement de la même manière. Les accidents en salle sont plus rares mais ils existent, et les causes sont les mêmes : nœud incomplet, mousqueton non verrouillé, baudrier mal bouclé. La salle ne protège de rien si le rituel n'est pas respecté."},
-    {"q": "Quelle est la durée de vie d'un baudrier avant remplacement ?", "a": "La durée maximale recommandée par les constructeurs comme Petzl ou Black Diamond est de dix ans à compter de la date de fabrication, et cinq à sept ans en usage régulier. Inspecte les coutures, les sangles porteuses et l'anneau d'encordement à chaque sortie. Tout signe d'usure visible impose un remplacement immédiat."},
-    {"q": "Mon partenaire et moi grimpons depuis dix ans, dois je encore vérifier ?", "a": "Oui, et probablement encore plus. La routine est le pire ennemi de la sécurité en escalade. Les accidents arrivent à des grimpeurs expérimentés qui ont relâché le rituel après des années sans incident. Trente secondes ne te coûtent rien et te sauvent peut être la vie."}
+    {
+      "q": "Faut il faire un nœud d'arrêt après un huit suivi ?",
+      "a": "Oui, systématiquement. Le huit seul peut se desserrer sous l'effet de chocs successifs ou si la corde est neuve et glissante. Un nœud d'arrêt plaqué contre le huit, avec un brin libre minimum de dix centimètres, garantit que rien ne file. C'est la recommandation FFME comme la norme Petzl."
+    },
+    {
+      "q": "Quel nœud d'encordement choisir, huit ou neuf ?",
+      "a": "Le huit suivi est la référence française et la plus enseignée en école d'escalade. Le neuf suivi tient mieux dans les cordes très fines mais reste plus difficile à défaire après une grosse chute. Pour 95% des pratiquants, le huit suivi avec nœud d'arrêt suffit largement."
+    },
+    {
+      "q": "Faut il vérifier son partenaire en salle comme en falaise ?",
+      "a": "Oui, exactement de la même manière. Les accidents en salle sont plus rares mais ils existent, et les causes sont les mêmes : nœud incomplet, mousqueton non verrouillé, baudrier mal bouclé. La salle ne protège de rien si le rituel n'est pas respecté."
+    },
+    {
+      "q": "Quelle est la durée de vie d'un baudrier avant remplacement ?",
+      "a": "La durée maximale recommandée par les constructeurs comme Petzl ou Black Diamond est de dix ans à compter de la date de fabrication, et cinq à sept ans en usage régulier. Inspecte les coutures, les sangles porteuses et l'anneau d'encordement à chaque sortie. Tout signe d'usure visible impose un remplacement immédiat."
+    },
+    {
+      "q": "Mon partenaire et moi grimpons depuis dix ans, dois je encore vérifier ?",
+      "a": "Oui, et probablement encore plus. La routine est le pire ennemi de la sécurité en escalade. Les accidents arrivent à des grimpeurs expérimentés qui ont relâché le rituel après des années sans incident. Trente secondes ne te coûtent rien et te sauvent peut être la vie."
+    }
   ],
   "cover_alt": "Gros plan sur un nœud en huit suivi serré sur les pontets d'un baudrier d'escalade, avec un nœud d'arrêt plaqué et un brin libre visible",
   "internal_links": [
-    {"slug": "securite-escalade-regles-essentielles", "anchor": "les règles essentielles de la sécurité en escalade", "context": "Pilier du cocon"},
-    {"slug": "check-list-avant-grimper", "anchor": "notre check list complète avant de grimper", "context": "Article frère du cocon"},
-    {"slug": "partenaire-grimpe-confiance", "anchor": "le choix du partenaire de grimpe", "context": "Article frère du cocon"},
-    {"slug": "premiers-secours-escalade", "anchor": "les gestes essentiels de premiers secours", "context": "Article frère du cocon"},
-    {"slug": "alerter-secours-falaise", "anchor": "la procédure d'alerte aux secours en falaise", "context": "Article frère du cocon"}
+    {
+      "slug": "securite-escalade-regles-essentielles",
+      "anchor": "les règles essentielles de la sécurité en escalade",
+      "context": "Pilier du cocon"
+    },
+    {
+      "slug": "check-list-avant-grimper",
+      "anchor": "notre check list complète avant de grimper",
+      "context": "Article frère du cocon"
+    },
+    {
+      "slug": "partenaire-grimpe-confiance",
+      "anchor": "le choix du partenaire de grimpe",
+      "context": "Article frère du cocon"
+    },
+    {
+      "slug": "premiers-secours-escalade",
+      "anchor": "les gestes essentiels de premiers secours",
+      "context": "Article frère du cocon"
+    },
+    {
+      "slug": "alerter-secours-falaise",
+      "anchor": "la procédure d'alerte aux secours en falaise",
+      "context": "Article frère du cocon"
+    }
   ],
   "scheduled_at": "2026-03-13T09:00:00+01:00"
 }

@@ -15,76 +15,289 @@
     "Les tendons s'adaptent trois fois plus lentement que les muscles, ce qui impose un volume d'entraînement modéré pour éviter les épicondylites."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Pourquoi l'escalade convient particulièrement au senior"},
-    {"type": "p", "html": "L'escalade présente trois caractéristiques qui en font un sport remarquablement adapté à la pratique senior. Premièrement, l'intensité se règle finement en choisissant son niveau de voie, sans contrainte de groupe ou de rythme imposé. Tu grimpes à ta cadence, tu te reposes quand tu le souhaites, tu choisis quand pousser et quand consolider. Deuxièmement, le geste est doux sur les articulations principales. Pas de choc impulsif comme à la course à pied, pas de torsion brutale comme au tennis. Les genoux et les hanches travaillent en charge modérée."},
-    {"type": "p", "html": "Troisièmement, l'escalade combine effort physique et résolution de problèmes. Cette dimension cognitive entretient les fonctions cérébrales liées à l'analyse spatiale, la mémorisation de séquences et la prise de décision rapide. Plusieurs études récentes en gérontologie suggèrent que les activités combinant effort musculaire et engagement cognitif protègent mieux du déclin cognitif que les sports purement physiques. La <a href=\"/blog/apprendre-escalade-debutant-2026\">grimpe pour débutant</a> intègre cette dimension dès les premières séances."},
-    {"type": "p", "html": "Enfin, la communauté grimpe en salle reste bienveillante avec les pratiquants seniors. Tu ne subis pas la pression compétitive qu'on retrouve dans certaines disciplines plus codifiées. Beaucoup de salles, particulièrement les structures FFME et certaines enseignes comme Climb Up, proposent des créneaux spécifiques ou des cours adaptés à la pratique senior débutante."},
-    {"type": "h2", "text": "La visite médicale et les contre-indications à connaître"},
-    {"type": "p", "html": "Avant de démarrer, une consultation médicale s'impose pour les pratiquants au-delà de 50 ans, particulièrement s'il existe des antécédents cardiaques, articulaires ou tendineux. Le médecin traitant ou un médecin du sport vérifie trois zones principales. L'état cardiovasculaire, parce que la grimpe sollicite la fréquence cardiaque par à-coups. Les épaules et les coudes, parce que les tendons de la coiffe des rotateurs et les épicondyles latéraux subissent des contraintes répétées. Les hanches et les genoux, parce que la souplesse articulaire détermine en partie l'accessibilité technique."},
-    {"type": "p", "html": "Les contre-indications absolues restent rares. Une pathologie cardiaque non stabilisée, une hernie discale en phase aiguë, une chirurgie articulaire récente sans rééducation aboutie. La grande majorité des grimpeurs seniors démarrent sans contre-indication, parfois avec quelques précautions sur les types de voies à privilégier. Le médecin peut prescrire un test d'effort si l'âge ou les antécédents le justifient, particulièrement au-delà de 60 ans."},
-    {"type": "tip", "title": "Le certificat médical pour la FFME", "body": "Pour adhérer à un club FFME, un certificat médical de non contre-indication à la pratique de l'escalade est généralement demandé. Le document précise parfois la mention compétition si tu envisages de participer à des événements. Le certificat reste valable trois ans sous condition d'une attestation annuelle de santé. Cette formalité protège autant le pratiquant que la structure d'accueil.", "tone": "info"},
-    {"type": "h2", "text": "Choisir entre salle de bloc et salle de voie"},
-    {"type": "p", "html": "Le choix entre <strong>bloc et voie</strong> reste structurant pour un senior débutant, comme pour tout débutant. Le bloc présente l'avantage de l'accessibilité immédiate. Pas de matériel, pas de partenaire obligatoire, pas de formation préalable. Tu arrives, tu loues une paire de chaussons, tu commences sur les voies les plus faciles. La <a href=\"/blog/premiere-fois-salle-escalade\">première séance en salle</a> dure une à deux heures."},
-    {"type": "p", "html": "Le bémol du bloc pour le senior, c'est la chute. Tu tombes plusieurs fois par séance sur un tapis épais, ce qui sollicite les articulations en compression brutale. Pour atténuer cette contrainte, privilégie les voies basses, descend en désescalade plutôt qu'en sautant, et limite les blocs en dévers où la chute arrive en arrière. La <a href=\"/blog/chuter-en-grimpe-apprentissage\">technique de chute</a> en bloc s'apprend dès les premières séances et reste essentielle à ton âge."},
-    {"type": "p", "html": "La voie présente l'avantage du contrôle. Tu grimpes en moulinette, c'est-à-dire avec la corde déjà passée en haut, ce qui te garantit une descente douce sans chute libre. La voie demande un partenaire stable et une formation initiale d'assurage de deux à trois heures. Cette formation reste accessible quel que soit l'âge, à condition d'avoir une dextérité manuelle correcte pour manipuler la corde et le système d'assurage."},
-    {"type": "table", "caption": "Salle de bloc ou salle de voie selon le profil senior", "headers": ["Critère", "Salle de bloc", "Salle de voie"], "rows": [
-      ["Accessibilité immédiate", "Excellente", "Modérée, formation requise"],
-      ["Confort articulaire chute", "Modéré, à gérer", "Élevé, contrôlé par la corde"],
-      ["Partenaire requis", "Optionnel", "Obligatoire"],
-      ["Coût matériel personnel", "Chaussons seuls", "Chaussons plus baudrier optionnel"],
-      ["Adaptation à l'âge", "Bonne avec précautions", "Excellente"]
-    ]},
-    {"type": "h2", "text": "La préparation physique préalable et complémentaire"},
-    {"type": "p", "html": "Un senior débutant n'a pas besoin d'une condition physique exceptionnelle pour commencer, mais quelques semaines de préparation générale améliorent significativement la première année. Trois axes principaux à travailler. Premièrement, le gainage abdominal et lombaire, qui transmet la force des jambes aux bras pendant la grimpe. Deuxièmement, la mobilité de hanche, qui détermine l'accessibilité technique aux postures de bassin proche du mur. Troisièmement, la souplesse de la chaîne postérieure, ischio-jambiers et bas du dos."},
-    {"type": "p", "html": "Cette préparation tient en quinze à vingt minutes deux à trois fois par semaine. Étirements doux, planche frontale et latérale, mobilisations articulaires. Le yoga adapté ou le Pilates conviennent parfaitement à cette préparation. Pas de musculation lourde, ni de cardio intensif. Le corps senior répond bien à la régularité modérée, beaucoup moins à l'intensité ponctuelle."},
-    {"type": "p", "html": "En complément de la grimpe, le maintien d'une activité d'endurance douce reste précieux. Marche soutenue, vélo léger, natation. Trois séances par semaine d'environ trente minutes suffisent à conserver une réserve cardiovasculaire qui sert directement à la grimpe. La <a href=\"/blog/etirements-grimpeur-souplesse\">routine d'étirements du grimpeur</a> détaille les mouvements adaptés."},
-    {"type": "h2", "text": "L'encadrement initial, indispensable pour bien démarrer"},
-    {"type": "p", "html": "Le passage par un encadrant qualifié reste fortement recommandé pour le senior débutant, plus encore que pour un jeune pratiquant. Un moniteur FFME ou un Brevet d'État Escalade adapte les exercices à ton profil, repère les défauts techniques qui pourraient générer des blessures, et te transmet les automatismes de sécurité dans la durée. Compte 25 à 45 € pour une séance individuelle d'une à deux heures, ou 150 € environ pour un stage week-end complet."},
-    {"type": "p", "html": "Beaucoup de clubs FFME proposent des cours spécifiques adultes ou seniors, avec un volume horaire plus mesuré et une progression adaptée. Le tarif annuel d'adhésion club, entre 150 et 300 €, inclut souvent un nombre fixe de séances encadrées. C'est l'une des formules les plus rentables pour un démarrage senior, parce qu'elle combine encadrement, communauté et coût maîtrisé."},
-    {"type": "p", "html": "Pour la sortie en falaise, l'accompagnement d'un guide diplômé devient quasi indispensable la première fois. Compte 200 à 350 € la journée pour un guide indépendant qui choisit un site adapté, gère les manœuvres et corrige tes gestes. La <a href=\"/blog/sortie-rocher-debutant\">première sortie en falaise</a> mérite cet investissement à ton âge, parce que l'engagement extérieur n'admet pas l'improvisation."},
-    {"type": "h2", "text": "La gestion spécifique des tendons et articulations"},
-    {"type": "p", "html": "Le tendon vieillit moins vite que le muscle mais s'adapte plus lentement à la sollicitation. Cette dissymétrie crée le piège principal du senior débutant. Tu peux ressentir que ton corps tolère trois séances par semaine, mais tes tendons mettent quatre à six semaines à s'adapter à ce volume. Le résultat, c'est l'épicondylite latérale du coude, surnommée tennis elbow, qui touche un nombre significatif de grimpeurs seniors dans leur première année."},
-    {"type": "p", "html": "La prévention passe par trois règles concrètes. Une, démarrer à raison d'une séance par semaine pendant le premier mois, augmenter à deux séances pendant le second, et n'envisager trois séances qu'après trois à six mois selon les sensations. Deux, éviter les voies en réglettes et les arquées prolongées avant le sixième mois, parce qu'elles sollicitent intensément les poulies des doigts. Trois, intégrer un travail de renforcement excentrique des extenseurs du poignet, qui prévient efficacement l'épicondylite."},
-    {"type": "list", "variant": "checks", "title": "Les signaux d'alerte à surveiller dans la première année", "items": [
-      {"title": "Douleur persistante au coude", "body": "Sensation de brûlure au coude latéral persistant plus de 48 heures après la séance. Évoque une épicondylite débutante, repos et avis kiné spécialisé."},
-      {"title": "Gêne à l'épaule en position basse", "body": "Limitation de l'amplitude pour porter une charge devant soi. Évoque une tendinite de la coiffe des rotateurs, fréquente au-delà de 55 ans."},
-      {"title": "Raideur de doigt persistante", "body": "Doigt qui peine à s'étendre après la séance, ou bloque temporairement en flexion. Évoque une atteinte de poulie, repos immédiat."},
-      {"title": "Douleur lombaire après grimpe", "body": "Lombalgie inhabituelle après les séances. Souvent liée à un défaut de gainage, à travailler en kiné préventif."},
-      {"title": "Fatigue excessive le lendemain", "body": "Lassitude inhabituelle persistante 48 heures après la séance. Réduis le volume de la séance suivante de 30 %."}
-    ]},
-    {"type": "h2", "text": "Le matériel adapté au senior débutant"},
-    {"type": "p", "html": "Le matériel reste identique à celui de tout grimpeur débutant, avec quelques nuances pour le confort. Les chaussons, premier achat indispensable, doivent privilégier le confort plutôt que la performance. Les modèles plats type La Sportiva Mythos, Scarpa Vapor V ou Five Ten Anasazi Lace conviennent parfaitement. Compte 80 à 130 € pour une bonne paire. Évite les chaussons asymétriques cambrés type Solution ou Drago qui imposent une compression douloureuse des orteils, sans bénéfice technique au démarrage."},
-    {"type": "p", "html": "Le baudrier, si tu choisis la voie, doit privilégier le rembourrage. Les modèles Petzl Corax, Black Diamond Momentum ou Beal Aero Test sont des références confortables qui supportent les longues sessions sans gêner. Compte 60 à 100 €. Le <a href=\"/blog/choisir-baudrier-escalade\">choix du baudrier</a> détaille les critères selon l'usage."},
-    {"type": "p", "html": "Pour la voie, un système d'assurage avec assistance au freinage, type Petzl Grigri, simplifie l'apprentissage de l'assurage. La marge d'erreur en cas d'inattention est plus large qu'avec un tube standard, ce qui rassure les débutants âgés. Compte 90 à 110 € pour un Grigri, c'est l'investissement sécurité le plus rentable."},
-    {"type": "h2", "text": "La progression réaliste sur la première année"},
-    {"type": "p", "html": "La progression d'un senior débutant suit une courbe propre, différente de celle d'un jeune adulte. Les premiers paliers techniques sont rapides parce qu'ils reposent sur l'équilibre et le placement, qualités préservées avec l'âge. Les paliers liés à la force des doigts arrivent plus lentement, parce que les tendons demandent du temps pour s'adapter. Cette dissymétrie crée souvent une progression en deux phases."},
-    {"type": "p", "html": "Premier semestre, tu passes du 3 au 5a en moulinette confortablement. Tu acquiers le vocabulaire, les codes de sécurité, les premières techniques de pied. Tu commences à comprendre la <a href=\"/blog/lecture-voie-strategie\">lecture de voie</a>. Deuxième semestre, tu consolides le 5a et tu attaques le 5b et 5c. La progression ralentit, ce qui est normal, et tu commences à différencier les profils de prises, réglettes, bacs, pinces."},
-    {"type": "p", "html": "Au bout d'un an, un senior débutant motivé pratique régulièrement en 5b et tente le 5c, parfois le 6a sur des configurations adaptées. C'est un niveau largement suffisant pour grimper en autonomie en salle et envisager les premières sorties en falaise sur sites école. Au-delà, la progression devient une affaire de motivation personnelle plutôt qu'une nécessité."},
-    {"type": "quote", "text": "Mon père a commencé à 56 ans. À 60 ans, il enchaînait du 5c en falaise et il y prenait plus de plaisir que la plupart des jeunes 6c stressés par leur progression. La grimpe senior n'a rien de marginal, elle a juste son rythme propre.", "author": "Antoine", "role": "grimpeur 8a, formé au lycée Camille Sée Colmar"},
-    {"type": "h2", "text": "Les sites et les communautés accueillants"},
-    {"type": "p", "html": "La France compte plus de 800 salles d'escalade en 2026, mais toutes ne se valent pas pour un démarrage senior. Privilégie les structures avec encadrement régulier, espaces calmes en semaine et personnel formé à l'accueil débutant. Les clubs FFME présentent généralement un public mixte intergénérationnel rassurant pour un démarrage. Les enseignes Climb Up et Vertical'Art proposent souvent des créneaux adultes en journée, moins fréquentés que les soirées."},
-    {"type": "p", "html": "Pour la falaise, certains sites école sont particulièrement adaptés au senior débutant. Saffres en Bourgogne, le Saussois dans l'Yonne, Aiglun dans les Préalpes, certains secteurs de Buoux dans le Vaucluse. Voies courtes, équipement récent, accès facile depuis le parking. Le <a href=\"/blog/comportement-falaise-collectif\">comportement en falaise</a> demande quelques codes que tu apprendras avec un encadrant ou un grimpeur expérimenté."},
-    {"type": "h2", "text": "Quand le corps dit non, savoir s'écouter"},
-    {"type": "p", "html": "Le maître mot de la pratique senior, c'est l'écoute du corps. Tu ne grimpes pas contre la fatigue, contre la douleur, contre la lassitude. Une séance manquée vaut toujours mieux qu'une séance forcée qui dégénère en blessure. Les tendinites senior mettent six à douze mois à guérir, contre trois à six mois chez un jeune adulte. L'économie en prévention est largement positive."},
-    {"type": "p", "html": "Si une douleur s'installe, arrête immédiatement la grimpe, consulte un kinésithérapeute spécialisé en sport ou en escalade idéalement, et reprends progressivement sous protocole de rééducation. Beaucoup de grimpeurs seniors ont traversé une ou deux tendinites au cours de leur première année, sans abandon de la pratique. La clé, c'est la gestion intelligente et l'absence de précipitation."}
+    {
+      "type": "h2",
+      "text": "Pourquoi l'escalade convient particulièrement au senior"
+    },
+    {
+      "type": "p",
+      "html": "L'escalade présente trois caractéristiques qui en font un sport remarquablement adapté à la pratique senior. Premièrement, l'intensité se règle finement en choisissant son niveau de voie, sans contrainte de groupe ou de rythme imposé. Tu grimpes à ta cadence, tu te reposes quand tu le souhaites, tu choisis quand pousser et quand consolider. Deuxièmement, le geste est doux sur les articulations principales. Pas de choc impulsif comme à la course à pied, pas de torsion brutale comme au tennis. Les genoux et les hanches travaillent en charge modérée."
+    },
+    {
+      "type": "p",
+      "html": "Troisièmement, l'escalade combine effort physique et résolution de problèmes. Cette dimension cognitive entretient les fonctions cérébrales liées à l'analyse spatiale, la mémorisation de séquences et la prise de décision rapide. Plusieurs études récentes en gérontologie suggèrent que les activités combinant effort musculaire et engagement cognitif protègent mieux du déclin cognitif que les sports purement physiques. La <a href=\"/blog/apprendre-escalade-debutant-2026\">grimpe pour débutant</a> intègre cette dimension dès les premières séances."
+    },
+    {
+      "type": "p",
+      "html": "Enfin, la communauté grimpe en salle reste bienveillante avec les pratiquants seniors. Tu ne subis pas la pression compétitive qu'on retrouve dans certaines disciplines plus codifiées. Beaucoup de salles, particulièrement les structures <strong>FFME</strong> et certaines enseignes comme Climb Up, proposent des créneaux spécifiques ou des cours adaptés à la pratique senior débutante."
+    },
+    {
+      "type": "h2",
+      "text": "La visite médicale et les contre-indications à connaître"
+    },
+    {
+      "type": "p",
+      "html": "Avant de démarrer, une consultation médicale s'impose pour les pratiquants au-delà de 50 ans, particulièrement s'il existe des antécédents cardiaques, articulaires ou tendineux. Le médecin traitant ou un médecin du sport vérifie trois zones principales. L'état cardiovasculaire, parce que la grimpe sollicite la fréquence cardiaque par à-coups. Les épaules et les coudes, parce que les tendons de la coiffe des rotateurs et les épicondyles latéraux subissent des contraintes répétées. Les hanches et les genoux, parce que la souplesse articulaire détermine en partie l'accessibilité technique."
+    },
+    {
+      "type": "p",
+      "html": "Les contre-indications absolues restent rares. Une pathologie cardiaque non stabilisée, une hernie discale en phase aiguë, une chirurgie articulaire récente sans rééducation aboutie. La grande majorité des grimpeurs seniors démarrent sans contre-indication, parfois avec quelques précautions sur les types de voies à privilégier. Le médecin peut prescrire un test d'effort si l'âge ou les antécédents le justifient, particulièrement au-delà de 60 ans."
+    },
+    {
+      "type": "tip",
+      "title": "Le certificat médical pour la FFME",
+      "body": "Pour adhérer à un club FFME, un certificat médical de non contre-indication à la pratique de l'escalade est généralement demandé. Le document précise parfois la mention compétition si tu envisages de participer à des événements. Le certificat reste valable trois ans sous condition d'une attestation annuelle de santé. Cette formalité protège autant le pratiquant que la structure d'accueil.",
+      "tone": "info"
+    },
+    {
+      "type": "h2",
+      "text": "Choisir entre salle de bloc et salle de voie"
+    },
+    {
+      "type": "p",
+      "html": "Le choix entre <strong>bloc et voie</strong> reste structurant pour un senior débutant, comme pour tout débutant. Le bloc présente l'avantage de l'accessibilité immédiate. Pas de matériel, pas de <strong>partenaire</strong> obligatoire, pas de formation préalable. Tu arrives, tu loues une paire de chaussons, tu commences sur les voies les plus faciles. La <a href=\"/blog/premiere-fois-salle-escalade\">première séance en salle</a> dure une à deux heures."
+    },
+    {
+      "type": "p",
+      "html": "Le bémol du bloc pour le senior, c'est la chute. Tu tombes plusieurs fois par séance sur un tapis épais, ce qui sollicite les articulations en compression brutale. Pour atténuer cette contrainte, privilégie les voies basses, descend en désescalade plutôt qu'en sautant, et limite les blocs en dévers où la chute arrive en arrière. La <a href=\"/blog/chuter-en-grimpe-apprentissage\">technique de chute</a> en bloc s'apprend dès les premières séances et reste essentielle à ton âge."
+    },
+    {
+      "type": "p",
+      "html": "La voie présente l'avantage du contrôle. Tu grimpes en moulinette, c'est-à-dire avec la corde déjà passée en haut, ce qui te garantit une descente douce sans chute libre. La voie demande un <strong>partenaire</strong> stable et une formation initiale d'assurage de deux à trois heures. Cette formation reste accessible quel que soit l'âge, à condition d'avoir une dextérité manuelle correcte pour manipuler la corde et le système d'assurage."
+    },
+    {
+      "type": "table",
+      "caption": "Salle de bloc ou salle de voie selon le profil senior",
+      "headers": [
+        "Critère",
+        "Salle de bloc",
+        "Salle de voie"
+      ],
+      "rows": [
+        [
+          "Accessibilité immédiate",
+          "Excellente",
+          "Modérée, formation requise"
+        ],
+        [
+          "Confort articulaire chute",
+          "Modéré, à gérer",
+          "Élevé, contrôlé par la corde"
+        ],
+        [
+          "Partenaire requis",
+          "Optionnel",
+          "Obligatoire"
+        ],
+        [
+          "Coût matériel personnel",
+          "Chaussons seuls",
+          "Chaussons plus baudrier optionnel"
+        ],
+        [
+          "Adaptation à l'âge",
+          "Bonne avec précautions",
+          "Excellente"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "La préparation physique préalable et complémentaire"
+    },
+    {
+      "type": "p",
+      "html": "Un senior débutant n'a pas besoin d'une condition physique exceptionnelle pour commencer, mais quelques semaines de préparation générale améliorent significativement la première année. Trois axes principaux à travailler. Premièrement, le gainage abdominal et lombaire, qui transmet la force des jambes aux bras pendant la grimpe. Deuxièmement, la mobilité de hanche, qui détermine l'accessibilité technique aux postures de bassin proche du mur. Troisièmement, la souplesse de la chaîne postérieure, ischio-jambiers et bas du dos."
+    },
+    {
+      "type": "p",
+      "html": "Cette préparation tient en quinze à vingt minutes deux à trois fois par semaine. Étirements doux, planche frontale et latérale, mobilisations articulaires. Le yoga adapté ou le Pilates conviennent parfaitement à cette préparation. Pas de musculation lourde, ni de cardio intensif. Le corps senior répond bien à la régularité modérée, beaucoup moins à l'intensité ponctuelle."
+    },
+    {
+      "type": "p",
+      "html": "En complément de la grimpe, le maintien d'une activité d'endurance douce reste précieux. Marche soutenue, vélo léger, natation. Trois séances par semaine d'environ trente minutes suffisent à conserver une réserve cardiovasculaire qui sert directement à la grimpe. La <a href=\"/blog/etirements-grimpeur-souplesse\">routine d'étirements du grimpeur</a> détaille les mouvements adaptés."
+    },
+    {
+      "type": "h2",
+      "text": "L'encadrement initial, indispensable pour bien démarrer"
+    },
+    {
+      "type": "p",
+      "html": "Le passage par un encadrant qualifié reste fortement recommandé pour le senior débutant, plus encore que pour un jeune pratiquant. Un moniteur FFME ou un Brevet d'État Escalade adapte les exercices à ton profil, repère les défauts techniques qui pourraient générer des blessures, et te transmet les automatismes de sécurité dans la durée. Compte 25 à 45 € pour une séance individuelle d'une à deux heures, ou 150 € environ pour un stage week-end complet."
+    },
+    {
+      "type": "p",
+      "html": "Beaucoup de clubs FFME proposent des cours spécifiques adultes ou seniors, avec un volume horaire plus mesuré et une progression adaptée. Le tarif annuel d'adhésion club, entre 150 et 300 €, inclut souvent un nombre fixe de séances encadrées. C'est l'une des formules les plus rentables pour un démarrage senior, parce qu'elle combine encadrement, communauté et coût maîtrisé."
+    },
+    {
+      "type": "p",
+      "html": "Pour la sortie en falaise, l'accompagnement d'un guide diplômé devient quasi indispensable la première fois. Compte 200 à 350 € la journée pour un guide indépendant qui choisit un site adapté, gère les manœuvres et corrige tes gestes. La <a href=\"/blog/sortie-rocher-debutant\">première sortie en falaise</a> mérite cet investissement à ton âge, parce que l'engagement extérieur n'admet pas l'improvisation."
+    },
+    {
+      "type": "h2",
+      "text": "La gestion spécifique des tendons et articulations"
+    },
+    {
+      "type": "p",
+      "html": "Le tendon vieillit moins vite que le muscle mais s'adapte plus lentement à la sollicitation. Cette dissymétrie crée le piège principal du senior débutant. Tu peux ressentir que ton corps tolère trois séances par semaine, mais tes tendons mettent quatre à six semaines à s'adapter à ce volume. Le résultat, c'est l'épicondylite latérale du coude, surnommée tennis elbow, qui touche un nombre significatif de grimpeurs seniors dans leur première année."
+    },
+    {
+      "type": "p",
+      "html": "La prévention passe par trois règles concrètes. Une, démarrer à raison d'une séance par semaine pendant le premier mois, augmenter à deux séances pendant le second, et n'envisager trois séances qu'après trois à six mois selon les sensations. Deux, éviter les voies en réglettes et les arquées prolongées avant le sixième mois, parce qu'elles sollicitent intensément les poulies des doigts. Trois, intégrer un travail de renforcement excentrique des extenseurs du poignet, qui prévient efficacement l'épicondylite."
+    },
+    {
+      "type": "list",
+      "variant": "checks",
+      "title": "Les signaux d'alerte à surveiller dans la première année",
+      "items": [
+        {
+          "title": "Douleur persistante au coude",
+          "body": "Sensation de brûlure au coude latéral persistant plus de 48 heures après la séance. Évoque une épicondylite débutante, repos et avis kiné spécialisé."
+        },
+        {
+          "title": "Gêne à l'épaule en position basse",
+          "body": "Limitation de l'amplitude pour porter une charge devant soi. Évoque une tendinite de la coiffe des rotateurs, fréquente au-delà de 55 ans."
+        },
+        {
+          "title": "Raideur de doigt persistante",
+          "body": "Doigt qui peine à s'étendre après la séance, ou bloque temporairement en flexion. Évoque une atteinte de poulie, repos immédiat."
+        },
+        {
+          "title": "Douleur lombaire après grimpe",
+          "body": "Lombalgie inhabituelle après les séances. Souvent liée à un défaut de gainage, à travailler en kiné préventif."
+        },
+        {
+          "title": "Fatigue excessive le lendemain",
+          "body": "Lassitude inhabituelle persistante 48 heures après la séance. Réduis le volume de la séance suivante de 30 %."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Le matériel adapté au senior débutant"
+    },
+    {
+      "type": "p",
+      "html": "Le matériel reste identique à celui de tout grimpeur débutant, avec quelques nuances pour le confort. Les chaussons, premier achat indispensable, doivent privilégier le confort plutôt que la performance. Les modèles plats type La Sportiva Mythos, Scarpa Vapor V ou Five Ten Anasazi Lace conviennent parfaitement. Compte 80 à 130 € pour une bonne paire. Évite les chaussons asymétriques cambrés type Solution ou Drago qui imposent une compression douloureuse des orteils, sans bénéfice technique au démarrage."
+    },
+    {
+      "type": "p",
+      "html": "Le baudrier, si tu choisis la voie, doit privilégier le rembourrage. Les modèles Petzl Corax, Black Diamond Momentum ou Beal Aero Test sont des références confortables qui supportent les longues sessions sans gêner. Compte 60 à 100 €. Le <a href=\"/blog/choisir-baudrier-escalade\">choix du baudrier</a> détaille les critères selon l'usage."
+    },
+    {
+      "type": "p",
+      "html": "Pour la voie, un système d'assurage avec assistance au freinage, type Petzl Grigri, simplifie l'apprentissage de l'assurage. La marge d'erreur en cas d'inattention est plus large qu'avec un tube standard, ce qui rassure les débutants âgés. Compte 90 à 110 € pour un Grigri, c'est l'investissement sécurité le plus rentable."
+    },
+    {
+      "type": "h2",
+      "text": "La progression réaliste sur la première année"
+    },
+    {
+      "type": "p",
+      "html": "La progression d'un senior débutant suit une courbe propre, différente de celle d'un jeune adulte. Les premiers paliers techniques sont rapides parce qu'ils reposent sur l'équilibre et le placement, qualités préservées avec l'âge. Les paliers liés à la force des doigts arrivent plus lentement, parce que les tendons demandent du temps pour s'adapter. Cette dissymétrie crée souvent une progression en deux phases."
+    },
+    {
+      "type": "p",
+      "html": "Premier semestre, tu passes du 3 au 5a en moulinette confortablement. Tu acquiers le vocabulaire, les codes de sécurité, les premières techniques de pied. Tu commences à comprendre la <a href=\"/blog/lecture-voie-strategie\">lecture de voie</a>. Deuxième semestre, tu consolides le 5a et tu attaques le 5b et 5c. La progression ralentit, ce qui est normal, et tu commences à différencier les profils de prises, réglettes, bacs, pinces."
+    },
+    {
+      "type": "p",
+      "html": "Au bout d'un an, un senior débutant motivé pratique régulièrement en 5b et tente le 5c, parfois le 6a sur des configurations adaptées. C'est un niveau largement suffisant pour grimper en autonomie en salle et envisager les premières sorties en falaise sur sites école. Au-delà, la progression devient une affaire de motivation personnelle plutôt qu'une nécessité."
+    },
+    {
+      "type": "quote",
+      "text": "Mon père a commencé à 56 ans. À 60 ans, il enchaînait du 5c en falaise et il y prenait plus de plaisir que la plupart des jeunes 6c stressés par leur progression. La grimpe senior n'a rien de marginal, elle a juste son rythme propre.",
+      "author": "Antoine",
+      "role": "grimpeur 8a, formé au lycée Camille Sée Colmar"
+    },
+    {
+      "type": "h2",
+      "text": "Les sites et les communautés accueillants"
+    },
+    {
+      "type": "p",
+      "html": "La France compte plus de 800 salles d'escalade en 2026, mais toutes ne se valent pas pour un démarrage senior. Privilégie les structures avec encadrement régulier, espaces calmes en semaine et personnel formé à l'accueil débutant. Les clubs FFME présentent généralement un public mixte intergénérationnel rassurant pour un démarrage. Les enseignes Climb Up et Vertical'Art proposent souvent des créneaux adultes en journée, moins fréquentés que les soirées."
+    },
+    {
+      "type": "p",
+      "html": "Pour la falaise, certains sites école sont particulièrement adaptés au senior débutant. Saffres en Bourgogne, le Saussois dans l'Yonne, Aiglun dans les Préalpes, certains secteurs de Buoux dans le Vaucluse. Voies courtes, équipement récent, accès facile depuis le parking. Le <a href=\"/blog/comportement-falaise-collectif\">comportement en falaise</a> demande quelques codes que tu apprendras avec un encadrant ou un grimpeur expérimenté."
+    },
+    {
+      "type": "h2",
+      "text": "Quand le corps dit non, savoir s'écouter"
+    },
+    {
+      "type": "p",
+      "html": "Le maître mot de la pratique senior, c'est l'écoute du corps. Tu ne grimpes pas contre la fatigue, contre la douleur, contre la lassitude. Une séance manquée vaut toujours mieux qu'une séance forcée qui dégénère en blessure. Les tendinites senior mettent six à douze mois à guérir, contre trois à six mois chez un jeune adulte. L'économie en prévention est largement positive."
+    },
+    {
+      "type": "p",
+      "html": "Si une douleur s'installe, arrête immédiatement la grimpe, consulte un kinésithérapeute spécialisé en sport ou en escalade idéalement, et reprends progressivement sous protocole de rééducation. Beaucoup de grimpeurs seniors ont traversé une ou deux tendinites au cours de leur première année, sans abandon de la pratique. La clé, c'est la gestion intelligente et l'absence de précipitation."
+    }
   ],
   "faq": [
-    {"q": "Y a-t-il un âge limite pour commencer l'escalade ?", "a": "Aucun en théorie. Des grimpeurs débutent régulièrement à 70 ans et plus en salle de voie, avec un encadrement adapté. La condition physique de départ compte plus que l'âge calendaire. Une personne de 60 ans active depuis toujours démarre plus facilement qu'une personne de 50 ans sédentaire. La consultation médicale préalable adapte les précautions au profil individuel."},
-    {"q": "Le bloc convient-il vraiment après 50 ans ?", "a": "Oui, avec quelques précautions. Privilégie les voies basses et faciles, descend en désescalade plutôt qu'en sautant du sommet, évite les blocs en dévers prononcé où la chute arrive en arrière. La technique de chute jambes pliées s'apprend dès la première séance. Beaucoup de seniors préfèrent la voie pour le confort de la descente contrôlée par la corde, mais le bloc reste accessible."},
-    {"q": "Combien de séances par semaine sont raisonnables pour un débutant senior ?", "a": "Une séance par semaine pendant le premier mois, deux séances pendant le second et troisième, trois séances seulement après six mois si les sensations le permettent. Les tendons s'adaptent trois fois plus lentement que les muscles, ce qui rend la progression lente du volume d'entraînement essentielle pour éviter les tendinopathies. Mieux vaut deux séances régulières qu'un pic de quatre séances qui débouche sur trois semaines d'arrêt."},
-    {"q": "Faut-il prendre un coach personnel ou rejoindre un cours collectif ?", "a": "Les deux options se complètent. Un cours collectif en club FFME, deux à quatre élèves par moniteur, offre un excellent rapport qualité-prix et la dimension communauté. Un coach personnel apporte une correction technique plus fine pour quelques séances ponctuelles, deux à quatre fois par an. La combinaison cours hebdomadaire plus coach trimestriel donne souvent la progression la plus efficace."},
-    {"q": "Quels sont les risques principaux à éviter en escalade senior ?", "a": "Trois risques principaux. Premièrement, la tendinopathie du coude, prévenue par progression lente du volume et travail excentrique des extenseurs du poignet. Deuxièmement, la tendinopathie de l'épaule, prévenue par échauffement systématique de la coiffe des rotateurs. Troisièmement, la chute mal contrôlée, prévenue par apprentissage de la technique de chute dès les premières séances. Ces trois axes couvrent la grande majorité des blessures observées."},
-    {"q": "Peut-on faire de la falaise après 50 ans ?", "a": "Absolument, c'est même l'un des plaisirs majeurs de la grimpe. Privilégie les sites école avec voies courtes et équipement récent, et démarre obligatoirement avec un encadrant qualifié pour la première sortie. Les sites comme Saffres, le Saussois, Aiglun ou certains secteurs de Buoux conviennent parfaitement. La grande voie reste accessible plus tard, après une à deux saisons de falaise sportive courte."}
+    {
+      "q": "Y a-t-il un âge limite pour commencer l'escalade ?",
+      "a": "Aucun en théorie. Des grimpeurs débutent régulièrement à 70 ans et plus en salle de voie, avec un encadrement adapté. La condition physique de départ compte plus que l'âge calendaire. Une personne de 60 ans active depuis toujours démarre plus facilement qu'une personne de 50 ans sédentaire. La consultation médicale préalable adapte les précautions au profil individuel."
+    },
+    {
+      "q": "Le bloc convient-il vraiment après 50 ans ?",
+      "a": "Oui, avec quelques précautions. Privilégie les voies basses et faciles, descend en désescalade plutôt qu'en sautant du sommet, évite les blocs en dévers prononcé où la chute arrive en arrière. La technique de chute jambes pliées s'apprend dès la première séance. Beaucoup de seniors préfèrent la voie pour le confort de la descente contrôlée par la corde, mais le bloc reste accessible."
+    },
+    {
+      "q": "Combien de séances par semaine sont raisonnables pour un débutant senior ?",
+      "a": "Une séance par semaine pendant le premier mois, deux séances pendant le second et troisième, trois séances seulement après six mois si les sensations le permettent. Les tendons s'adaptent trois fois plus lentement que les muscles, ce qui rend la progression lente du volume d'entraînement essentielle pour éviter les tendinopathies. Mieux vaut deux séances régulières qu'un pic de quatre séances qui débouche sur trois semaines d'arrêt."
+    },
+    {
+      "q": "Faut-il prendre un coach personnel ou rejoindre un cours collectif ?",
+      "a": "Les deux options se complètent. Un cours collectif en club FFME, deux à quatre élèves par moniteur, offre un excellent rapport qualité-prix et la dimension communauté. Un coach personnel apporte une correction technique plus fine pour quelques séances ponctuelles, deux à quatre fois par an. La combinaison cours hebdomadaire plus coach trimestriel donne souvent la progression la plus efficace."
+    },
+    {
+      "q": "Quels sont les risques principaux à éviter en escalade senior ?",
+      "a": "Trois risques principaux. Premièrement, la tendinopathie du coude, prévenue par progression lente du volume et travail excentrique des extenseurs du poignet. Deuxièmement, la tendinopathie de l'épaule, prévenue par échauffement systématique de la coiffe des rotateurs. Troisièmement, la chute mal contrôlée, prévenue par apprentissage de la technique de chute dès les premières séances. Ces trois axes couvrent la grande majorité des blessures observées."
+    },
+    {
+      "q": "Peut-on faire de la falaise après 50 ans ?",
+      "a": "Absolument, c'est même l'un des plaisirs majeurs de la grimpe. Privilégie les sites école avec voies courtes et équipement récent, et démarre obligatoirement avec un encadrant qualifié pour la première sortie. Les sites comme Saffres, le Saussois, Aiglun ou certains secteurs de Buoux conviennent parfaitement. La grande voie reste accessible plus tard, après une à deux saisons de falaise sportive courte."
+    }
   ],
   "cover_alt": "Grimpeur senior aux tempes grisonnantes en pleine ascension sur un mur de salle d'escalade, prises bleues et jaunes visibles, posture concentrée, baudrier orange, ambiance lumineuse naturelle d'après-midi",
   "internal_links": [
-    {"slug": "apprendre-escalade-debutant-2026", "anchor": "grimpe pour débutant", "context": "pilier cocon"},
-    {"slug": "premiere-fois-salle-escalade", "anchor": "première séance en salle", "context": "démarrage"},
-    {"slug": "chuter-en-grimpe-apprentissage", "anchor": "technique de chute", "context": "sécurité bloc"},
-    {"slug": "etirements-grimpeur-souplesse", "anchor": "routine d'étirements du grimpeur", "context": "préparation"},
-    {"slug": "sortie-rocher-debutant", "anchor": "première sortie en falaise", "context": "transition extérieur"},
-    {"slug": "choisir-baudrier-escalade", "anchor": "choix du baudrier", "context": "matériel"},
-    {"slug": "comportement-falaise-collectif", "anchor": "comportement en falaise", "context": "codes site"}
+    {
+      "slug": "apprendre-escalade-debutant-2026",
+      "anchor": "grimpe pour débutant",
+      "context": "pilier cocon"
+    },
+    {
+      "slug": "premiere-fois-salle-escalade",
+      "anchor": "première séance en salle",
+      "context": "démarrage"
+    },
+    {
+      "slug": "chuter-en-grimpe-apprentissage",
+      "anchor": "technique de chute",
+      "context": "sécurité bloc"
+    },
+    {
+      "slug": "etirements-grimpeur-souplesse",
+      "anchor": "routine d'étirements du grimpeur",
+      "context": "préparation"
+    },
+    {
+      "slug": "sortie-rocher-debutant",
+      "anchor": "première sortie en falaise",
+      "context": "transition extérieur"
+    },
+    {
+      "slug": "choisir-baudrier-escalade",
+      "anchor": "choix du baudrier",
+      "context": "matériel"
+    },
+    {
+      "slug": "comportement-falaise-collectif",
+      "anchor": "comportement en falaise",
+      "context": "codes site"
+    }
   ],
   "scheduled_at": "2026-08-01T09:00:00+02:00"
 }

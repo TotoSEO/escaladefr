@@ -15,66 +15,248 @@
     "Mieux vaut grimper seul en salle qu'à plusieurs avec un mauvais partenaire."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Pourquoi le partenaire est le facteur numéro un"},
-    {"type": "p", "html": "En escalade en tête, ton **assureur** est la seule barrière entre toi et le sol en cas de chute. Plus que la corde, plus que les dégaines, plus que les plaquettes. Sa réactivité, son attention, sa capacité à donner ou reprendre le mou au bon moment déterminent si une chute reste anodine ou devient grave. Un assureur distrait peut transformer une chute de routine en accident sérieux."},
-    {"type": "p", "html": "Cette dépendance crée une **responsabilité partagée** unique dans le sport. Tu confies ta sécurité à quelqu'un, et tu prends en charge la sienne quand tu assures à ton tour. Cette confiance se construit, se teste, et parfois se brise. Comprendre cette dynamique, c'est comprendre pourquoi le choix du partenaire n'a rien d'anecdotique. Tu peux relier ce sujet à <a href=\"/blog/accidents-escalade-statistiques\">notre dossier sur les statistiques d'accidents en escalade</a> qui montre que l'erreur humaine domine les causes."},
-    {"type": "h2", "text": "Niveau d'assurage : la première chose à évaluer"},
-    {"type": "p", "html": "Le **niveau d'assurage** d'un partenaire ne dépend pas de son niveau de grimpe. Un grimpeur en 7c peut être un mauvais assureur, un débutant en 5c peut être excellent. Tu observes : sa main reste t elle constamment sur le brin libre du système ? Suit il du regard le grimpeur en permanence ? Anticipe t il les besoins (clipper en hauteur, vache au relais, lecture des dégaines) ? Est il capable d'assurer dynamiquement en absorbant un mouvement vers le mur ?"},
-    {"type": "p", "html": "Tu valides aussi son **système d'assurage** et la maîtrise qu'il en a. Un grimpeur qui utilise un GriGri Petzl mais qui ne sait pas le débloquer en cas de blocage n'a pas une maîtrise complète. Un grimpeur qui assure au tube ATC sans connaître l'absorption dynamique pourra te casser le dos sur une grosse chute. Ces compétences ne s'improvisent pas. Tu peux relire <a href=\"/blog/chute-en-tete-facteurs\">notre dossier sur la chute en tête et les facteurs de chute</a> pour comprendre les enjeux techniques de l'assurage."},
-    {"type": "list", "variant": "cards", "title": "Signes d'un bon assureur", "items": [
-      {"title": "Attention constante", "body": "Le regard ne quitte jamais le grimpeur, même pour répondre à quelqu'un au sol. La concentration est totale du début à la fin."},
-      {"title": "Main brin libre", "body": "Une main reste fermement sur le brin libre du système d'assurage en permanence, même pendant un clippage en hauteur."},
-      {"title": "Position adaptée", "body": "Le corps est positionné ni trop loin ni trop près du mur, prêt à absorber un choc dynamique ou à retenir une chute basse."},
-      {"title": "Communication claire", "body": "Les ordres ou questions sont brefs, audibles, sans ambiguïté. Le vocabulaire commun est respecté à la lettre."},
-      {"title": "Anticipation", "body": "Il sait quand donner du mou pour un clippage, quand le reprendre, quand tenir la corde semi tendue dans un pas exposé."}
-    ]},
-    {"type": "h2", "text": "Le test des voies faciles"},
-    {"type": "p", "html": "Avant d'engager un nouveau partenaire sur du dur, tu **testes sur des voies faciles**. Une voie cotée 5b ou 6a te permet d'observer sans pression. Tu grimpes lentement, tu prends une petite chute volontaire à mi voie, tu observes comment il réagit. S'il assure parfaitement sur cette voie, il assurera bien sur du plus engagé. S'il commet de petites erreurs sur de la facilité, ne lui demande pas de t'assurer sur un projet à ton niveau max."},
-    {"type": "p", "html": "Tu observes aussi sa **gestion de la corde** : sait il lover proprement, défaire les nœuds parasites, gérer le sac à corde, ranger en fin de voie ? Ces petits gestes révèlent une culture de la précision. Un partenaire qui laisse traîner la corde dans la terre, qui s'emmêle dans les brins, qui ne sait pas faire un mickey pour vérifier le sens du brin libre, est un partenaire à former encore avant l'engagement sérieux."},
-    {"type": "tip", "title": "Le test de la chute surprise", "body": "Sur une voie facile, prends une chute volontaire sans prévenir. Pas brutale, juste un relâchement à mi voie. Tu mesures la réaction réelle de ton partenaire, pas sa réaction préparée. C'est le test ultime de l'attention. Beaucoup de grimpeurs intermédiaires échouent à ce test sans s'en douter.", "tone": "astuce"},
-    {"type": "h2", "text": "Valeurs sécurité partagées"},
-    {"type": "p", "html": "Au delà des compétences techniques, tu vérifies les **valeurs sécurité** de ton futur partenaire. Accepte t il sans broncher la triple vérification baudrier corde nœud avant chaque montée ? Refuse t il de grimper en falaise sans casque ? Renonce t il à une voie quand la météo se gâte ? Insiste t il pour faire le contrôle croisé même quand tout semble évident ? Ces réponses dessinent une culture sécurité partagée ou non."},
-    {"type": "p", "html": "Si ton partenaire grogne quand tu vérifies son nœud, s'il trouve les check lists ridicules, s'il pousse à grimper sous un orage parce qu'on va finir avant, change de partenaire. Pas la peine d'argumenter, pas la peine de convertir. Tu peux relier ce critère à <a href=\"/blog/verification-baudrier-corde-noeud\">notre fiche sur la triple vérification baudrier corde nœud</a>, qui est la base partagée non négociable."},
-    {"type": "h2", "text": "Communication et vocabulaire commun"},
-    {"type": "p", "html": "Avant la première voie, vous **calez le vocabulaire**. Les mots standards en français : **sec** pour tendre la corde, **mou** pour donner du mou, **du bas** pour redescendre, **vache** ou **vaché** pour vacher au relais, **prends** pour le grimpeur qui annonce la chute imminente. Tu valides aussi les signaux non verbaux si vous risquez de ne pas vous entendre (grande voie, vent fort) : sifflet, trois coups longs pour vache, deux coups courts pour mou."},
-    {"type": "p", "html": "Tu confirmes aussi les **rôles dans la cordée** : qui grimpe en tête, qui suit, qui prépare la corde, qui range. Pas de surprise, pas d'improvisation en cours de sortie. Ces calages prennent deux minutes au parking et évitent des heures de confusion sur la voie. Tu peux compléter avec <a href=\"/blog/check-list-avant-grimper\">notre check list complète avant de grimper</a> qui détaille le bloc partenaire."},
-    {"type": "h2", "text": "Les signaux d'alerte à reconnaître"},
-    {"type": "table", "caption": "Signaux d'alerte chez un nouveau partenaire", "headers": ["Signal", "Implication", "Décision"], "rows": [
-      ["Téléphone consulté en assurage", "Attention divisée, risque de retard", "Avertir, refuser si récidive"],
-      ["Refus de vérification croisée", "Culture sécurité absente", "Ne pas continuer la cordée"],
-      ["Mou exagéré non demandé", "Mauvaise lecture de l'assurage", "Reprendre la formation ensemble"],
-      ["Décollage du sol lors d'une chute", "Position trop éloignée du mur", "Travailler le placement"],
-      ["Ego de la voie poussée", "Pression sur le grimpeur en chute", "Échanger en privé après séance"]
-    ]},
-    {"type": "h2", "text": "Trouver un partenaire de confiance"},
-    {"type": "p", "html": "Pour trouver un bon partenaire, plusieurs pistes existent. La **salle d'escalade** affiche souvent un mur dédié aux grimpeurs en quête de partenaire. Les clubs FFME organisent des sorties régulières où tu croises naturellement les bons profils. Les communautés en ligne (groupes Facebook locaux, applications Climbing Partner) permettent de se mettre en contact. Les rencontres internes en stage de perfectionnement génèrent souvent des cordées durables."},
-    {"type": "p", "html": "Le bon partenaire n'a pas forcément ton niveau de grimpe. Un grimpeur en 6c peut t'assurer parfaitement sur ton projet 7b. Ce qui compte, c'est la **compatibilité technique** plus la **compatibilité humaine**. Vous devez vouloir les mêmes types de sorties, partager une éthique sécurité commune, et apprécier vous retrouver à 6h du matin sur le parking d'une falaise."},
-    {"type": "h2", "text": "Mon expérience du partenaire de longue date"},
-    {"type": "p", "html": "Mon partenaire historique, c'est mon père. Cinq cents sorties partagées depuis mes treize ans. On a calé le vocabulaire en 2014, on l'utilise toujours à l'identique en 2026. Il refuse toujours de me laisser engager une voie si je n'ai pas vérifié son système. Je refuse toujours de partir si je n'ai pas vérifié son baudrier. Cette routine, on l'applique en falaise comme en salle, sur du 4 comme sur du 7c."},
-    {"type": "p", "html": "À côté de lui, j'ai grimpé avec des dizaines de partenaires de passage. Trois ou quatre sont devenus des compagnons fiables sur le long terme. Les autres, on ne refait pas ensemble. Pas par mauvaise volonté, juste parce que les **valeurs sécurité** ne matchaient pas. Tu n'as pas à justifier ton choix de cordée. Personne ne te doit rien, tu ne dois rien à personne. La sécurité prime."},
-    {"type": "quote", "text": "Le partenaire de grimpe, c'est l'extension de toi même dans la cordée. Choisis le aussi soigneusement que tu choisirais une corde.", "author": "Antoine", "role": "rédacteur escalade-france.fr"},
-    {"type": "h2", "text": "Quand changer de partenaire"},
-    {"type": "p", "html": "Tu changes de partenaire quand les **signaux d'alerte** persistent malgré la discussion. Tu lui as fait remarquer qu'il consulte son téléphone en assurage, il continue ? Tu lui as dit que tu voulais le contrôle croisé, il oublie ? Tu lui as demandé de garder une main sur le brin libre, il s'en passe ? Trois rappels suffisent. Au quatrième, tu changes."},
-    {"type": "p", "html": "Pas de drame, pas d'explication longue. Tu ne lui proposes plus de sortie commune, ou tu lui dis franchement que vous n'avez pas la même culture sécurité. Beaucoup de grimpeurs hésitent par peur de blesser, et finissent dans des situations dangereuses pour rester poli. C'est un mauvais calcul. Tu peux relier à <a href=\"/blog/securite-escalade-regles-essentielles\">notre pilier sur les règles essentielles de sécurité</a> qui rappelle la priorité absolue."},
-    {"type": "h2", "text": "Pour aller plus loin"},
-    {"type": "p", "html": "Le partenaire fiable s'intègre à un système plus large que tu peux approfondir avec <a href=\"/blog/check-list-avant-grimper\">notre check list complète avant de grimper</a> et <a href=\"/blog/meteo-falaise-decider-renoncer\">notre guide sur la décision de partir ou renoncer en falaise</a>. La cordée à deux est l'unité de base de la sécurité en escalade, et elle se construit avec autant de soin que tu mets à choisir ton matériel. Investir dans cette relation, c'est investir dans toute ta pratique."}
+    {
+      "type": "h2",
+      "text": "Pourquoi le partenaire est le facteur numéro un"
+    },
+    {
+      "type": "p",
+      "html": "En escalade en tête, ton **assureur** est la seule barrière entre toi et le sol en cas de chute. Plus que la corde, plus que les dégaines, plus que les plaquettes. Sa réactivité, son attention, sa capacité à donner ou reprendre le mou au bon moment déterminent si une chute reste anodine ou devient grave. Un assureur distrait peut transformer une chute de routine en accident sérieux."
+    },
+    {
+      "type": "p",
+      "html": "Cette dépendance crée une **responsabilité partagée** unique dans le sport. Tu confies ta sécurité à quelqu'un, et tu prends en charge la sienne quand tu assures à ton tour. Cette confiance se construit, se teste, et parfois se brise. Comprendre cette dynamique, c'est comprendre pourquoi le choix du <strong>partenaire</strong> n'a rien d'anecdotique. Tu peux relier ce sujet à <a href=\"/blog/accidents-escalade-statistiques\">notre dossier sur les statistiques d'accidents en escalade</a> qui montre que l'erreur humaine domine les causes."
+    },
+    {
+      "type": "h2",
+      "text": "Niveau d'assurage : la première chose à évaluer"
+    },
+    {
+      "type": "p",
+      "html": "Le **niveau d'assurage** d'un <strong>partenaire</strong> ne dépend pas de son niveau de grimpe. Un grimpeur en <strong>7c</strong> peut être un mauvais assureur, un débutant en 5c peut être excellent. Tu observes : sa main reste t elle constamment sur le brin libre du système ? Suit il du regard le grimpeur en permanence ? Anticipe t il les besoins (clipper en hauteur, vache au relais, lecture des dégaines) ? Est il capable d'assurer dynamiquement en absorbant un mouvement vers le mur ?"
+    },
+    {
+      "type": "p",
+      "html": "Tu valides aussi son **système d'assurage** et la maîtrise qu'il en a. Un grimpeur qui utilise un GriGri <strong>Petzl</strong> mais qui ne sait pas le débloquer en cas de blocage n'a pas une maîtrise complète. Un grimpeur qui assure au tube ATC sans connaître l'absorption dynamique pourra te casser le dos sur une grosse chute. Ces compétences ne s'improvisent pas. Tu peux relire <a href=\"/blog/chute-en-tete-facteurs\">notre dossier sur la chute en tête et les facteurs de chute</a> pour comprendre les enjeux techniques de l'assurage."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Signes d'un bon assureur",
+      "items": [
+        {
+          "title": "Attention constante",
+          "body": "Le regard ne quitte jamais le grimpeur, même pour répondre à quelqu'un au sol. La concentration est totale du début à la fin."
+        },
+        {
+          "title": "Main brin libre",
+          "body": "Une main reste fermement sur le brin libre du système d'assurage en permanence, même pendant un clippage en hauteur."
+        },
+        {
+          "title": "Position adaptée",
+          "body": "Le corps est positionné ni trop loin ni trop près du mur, prêt à absorber un choc dynamique ou à retenir une chute basse."
+        },
+        {
+          "title": "Communication claire",
+          "body": "Les ordres ou questions sont brefs, audibles, sans ambiguïté. Le vocabulaire commun est respecté à la lettre."
+        },
+        {
+          "title": "Anticipation",
+          "body": "Il sait quand donner du mou pour un clippage, quand le reprendre, quand tenir la corde semi tendue dans un pas exposé."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Le test des voies faciles"
+    },
+    {
+      "type": "p",
+      "html": "Avant d'engager un nouveau partenaire sur du dur, tu **testes sur des voies faciles**. Une voie cotée 5b ou 6a te permet d'observer sans pression. Tu grimpes lentement, tu prends une petite chute volontaire à mi voie, tu observes comment il réagit. S'il assure parfaitement sur cette voie, il assurera bien sur du plus engagé. S'il commet de petites erreurs sur de la facilité, ne lui demande pas de t'assurer sur un projet à ton niveau max."
+    },
+    {
+      "type": "p",
+      "html": "Tu observes aussi sa **gestion de la corde** : sait il lover proprement, défaire les nœuds parasites, gérer le sac à corde, ranger en fin de voie ? Ces petits gestes révèlent une culture de la précision. Un partenaire qui laisse traîner la corde dans la terre, qui s'emmêle dans les brins, qui ne sait pas faire un mickey pour vérifier le sens du brin libre, est un partenaire à former encore avant l'engagement sérieux."
+    },
+    {
+      "type": "tip",
+      "title": "Le test de la chute surprise",
+      "body": "Sur une voie facile, prends une chute volontaire sans prévenir. Pas brutale, juste un relâchement à mi voie. Tu mesures la réaction réelle de ton partenaire, pas sa réaction préparée. C'est le test ultime de l'attention. Beaucoup de grimpeurs intermédiaires échouent à ce test sans s'en douter.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Valeurs sécurité partagées"
+    },
+    {
+      "type": "p",
+      "html": "Au delà des compétences techniques, tu vérifies les **valeurs sécurité** de ton futur partenaire. Accepte t il sans broncher la triple vérification baudrier corde nœud avant chaque montée ? Refuse t il de grimper en falaise sans casque ? Renonce t il à une voie quand la météo se gâte ? Insiste t il pour faire le contrôle croisé même quand tout semble évident ? Ces réponses dessinent une culture sécurité partagée ou non."
+    },
+    {
+      "type": "p",
+      "html": "Si ton partenaire grogne quand tu vérifies son nœud, s'il trouve les check lists ridicules, s'il pousse à grimper sous un orage parce qu'on va finir avant, change de partenaire. Pas la peine d'argumenter, pas la peine de convertir. Tu peux relier ce critère à <a href=\"/blog/verification-baudrier-corde-noeud\">notre fiche sur la triple vérification baudrier corde nœud</a>, qui est la base partagée non négociable."
+    },
+    {
+      "type": "h2",
+      "text": "Communication et vocabulaire commun"
+    },
+    {
+      "type": "p",
+      "html": "Avant la première voie, vous **calez le vocabulaire**. Les mots standards en français : **sec** pour tendre la corde, **mou** pour donner du mou, **du bas** pour redescendre, **vache** ou **vaché** pour vacher au relais, **prends** pour le grimpeur qui annonce la chute imminente. Tu valides aussi les signaux non verbaux si vous risquez de ne pas vous entendre (grande voie, vent fort) : sifflet, trois coups longs pour vache, deux coups courts pour mou."
+    },
+    {
+      "type": "p",
+      "html": "Tu confirmes aussi les **rôles dans la cordée** : qui grimpe en tête, qui suit, qui prépare la corde, qui range. Pas de surprise, pas d'improvisation en cours de sortie. Ces calages prennent deux minutes au parking et évitent des heures de confusion sur la voie. Tu peux compléter avec <a href=\"/blog/check-list-avant-grimper\">notre check list complète avant de grimper</a> qui détaille le bloc partenaire."
+    },
+    {
+      "type": "h2",
+      "text": "Les signaux d'alerte à reconnaître"
+    },
+    {
+      "type": "table",
+      "caption": "Signaux d'alerte chez un nouveau partenaire",
+      "headers": [
+        "Signal",
+        "Implication",
+        "Décision"
+      ],
+      "rows": [
+        [
+          "Téléphone consulté en assurage",
+          "Attention divisée, risque de retard",
+          "Avertir, refuser si récidive"
+        ],
+        [
+          "Refus de vérification croisée",
+          "Culture sécurité absente",
+          "Ne pas continuer la cordée"
+        ],
+        [
+          "Mou exagéré non demandé",
+          "Mauvaise lecture de l'assurage",
+          "Reprendre la formation ensemble"
+        ],
+        [
+          "Décollage du sol lors d'une chute",
+          "Position trop éloignée du mur",
+          "Travailler le placement"
+        ],
+        [
+          "Ego de la voie poussée",
+          "Pression sur le grimpeur en chute",
+          "Échanger en privé après séance"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Trouver un partenaire de confiance"
+    },
+    {
+      "type": "p",
+      "html": "Pour trouver un bon partenaire, plusieurs pistes existent. La **salle d'escalade** affiche souvent un mur dédié aux grimpeurs en quête de partenaire. Les clubs FFME organisent des sorties régulières où tu croises naturellement les bons profils. Les communautés en ligne (groupes Facebook locaux, applications Climbing Partner) permettent de se mettre en contact. Les rencontres internes en stage de perfectionnement génèrent souvent des cordées durables."
+    },
+    {
+      "type": "p",
+      "html": "Le bon partenaire n'a pas forcément ton niveau de grimpe. Un grimpeur en 6c peut t'assurer parfaitement sur ton projet 7b. Ce qui compte, c'est la **compatibilité technique** plus la **compatibilité humaine**. Vous devez vouloir les mêmes types de sorties, partager une éthique sécurité commune, et apprécier vous retrouver à 6h du matin sur le parking d'une falaise."
+    },
+    {
+      "type": "h2",
+      "text": "Mon expérience du partenaire de longue date"
+    },
+    {
+      "type": "p",
+      "html": "Mon partenaire historique, c'est mon père. Cinq cents sorties partagées depuis mes treize ans. On a calé le vocabulaire en 2014, on l'utilise toujours à l'identique en 2026. Il refuse toujours de me laisser engager une voie si je n'ai pas vérifié son système. Je refuse toujours de partir si je n'ai pas vérifié son baudrier. Cette routine, on l'applique en falaise comme en salle, sur du 4 comme sur du 7c."
+    },
+    {
+      "type": "p",
+      "html": "À côté de lui, j'ai grimpé avec des dizaines de partenaires de passage. Trois ou quatre sont devenus des compagnons fiables sur le long terme. Les autres, on ne refait pas ensemble. Pas par mauvaise volonté, juste parce que les **valeurs sécurité** ne matchaient pas. Tu n'as pas à justifier ton choix de cordée. Personne ne te doit rien, tu ne dois rien à personne. La sécurité prime."
+    },
+    {
+      "type": "quote",
+      "text": "Le partenaire de grimpe, c'est l'extension de toi même dans la cordée. Choisis le aussi soigneusement que tu choisirais une corde.",
+      "author": "Antoine",
+      "role": "rédacteur escalade-france.fr"
+    },
+    {
+      "type": "h2",
+      "text": "Quand changer de partenaire"
+    },
+    {
+      "type": "p",
+      "html": "Tu changes de partenaire quand les **signaux d'alerte** persistent malgré la discussion. Tu lui as fait remarquer qu'il consulte son téléphone en assurage, il continue ? Tu lui as dit que tu voulais le contrôle croisé, il oublie ? Tu lui as demandé de garder une main sur le brin libre, il s'en passe ? Trois rappels suffisent. Au quatrième, tu changes."
+    },
+    {
+      "type": "p",
+      "html": "Pas de drame, pas d'explication longue. Tu ne lui proposes plus de sortie commune, ou tu lui dis franchement que vous n'avez pas la même culture sécurité. Beaucoup de grimpeurs hésitent par peur de blesser, et finissent dans des situations dangereuses pour rester poli. C'est un mauvais calcul. Tu peux relier à <a href=\"/blog/securite-escalade-regles-essentielles\">notre pilier sur les règles essentielles de sécurité</a> qui rappelle la priorité absolue."
+    },
+    {
+      "type": "h2",
+      "text": "Pour aller plus loin"
+    },
+    {
+      "type": "p",
+      "html": "Le partenaire fiable s'intègre à un système plus large que tu peux approfondir avec <a href=\"/blog/check-list-avant-grimper\">notre check list complète avant de grimper</a> et <a href=\"/blog/meteo-falaise-decider-renoncer\">notre guide sur la décision de partir ou renoncer en falaise</a>. La cordée à deux est l'unité de base de la sécurité en escalade, et elle se construit avec autant de soin que tu mets à choisir ton matériel. Investir dans cette relation, c'est investir dans toute ta pratique."
+    }
   ],
   "faq": [
-    {"q": "Comment trouver un partenaire d'escalade quand on débute ?", "a": "Les salles d'escalade proposent souvent un mur dédié aux grimpeurs cherchant un partenaire, ou des soirées rencontre organisées. Les clubs FFME et les sections universitaires créent naturellement des cordées. Les applications dédiées comme Climbing Partner ou des groupes Facebook locaux fonctionnent aussi. Pour une vraie compatibilité, commence par des voies faciles ensemble."},
-    {"q": "Peut on assurer un partenaire plus lourd que soi ?", "a": "Oui, sous condition d'écart raisonnable. Un grimpeur de 60 kg peut assurer un partenaire de 80 kg sans problème. Au delà de 20 kg d'écart, il faut soit lester l'assureur, soit lui faire passer la corde sur un point fixe au sol (sac plombé attaché à un piquet), soit changer de configuration. Ne jamais ignorer cet écart, il peut faire décoller l'assureur lors d'une chute."},
-    {"q": "Comment réagir si un partenaire a un comportement à risque ?", "a": "Tu lui en parles immédiatement, en privé, sans agressivité. Tu décris le comportement précis (téléphone consulté, mou exagéré, vérification refusée) sans porter de jugement personnel. Si le comportement persiste après deux ou trois rappels, tu changes de partenaire. La sécurité n'est jamais négociable pour préserver une relation humaine."},
-    {"q": "Est il préférable de grimper avec son couple ou son frère ?", "a": "Grimper en famille ou en couple présente des avantages (confiance, régularité, connaissance mutuelle) et des risques (relâchement de la vigilance, conflits importés). La question essentielle n'est pas le lien familial mais la compatibilité technique et la culture sécurité partagée. Beaucoup de couples grimpent ensemble pendant des décennies sans incident."},
-    {"q": "Faut il toujours grimper avec le même partenaire ?", "a": "Pas obligatoirement. Avoir un partenaire principal et deux ou trois partenaires secondaires permet de diversifier les sorties et de ne pas dépendre d'une seule personne pour grimper. L'important est que chaque cordée ait été calée techniquement et culturellement avant de s'engager sur du sérieux. Ne te lance jamais avec un parfait inconnu sur ton projet max."},
-    {"q": "Que faire si je grimpe avec quelqu'un qui ne maîtrise pas l'assurage ?", "a": "Tu adaptes la sortie : tu grimpes en moulinette ou sur autobelay pour ne pas dépendre de son assurage, ou tu lui proposes de t'assurer sur des voies très faciles et sécurisées pour le former progressivement. Tu ne lui demandes jamais d'assurer sur un projet engagé tant qu'il n'a pas validé son niveau sur du facile. La formation continue est partagée."}
+    {
+      "q": "Comment trouver un partenaire d'escalade quand on débute ?",
+      "a": "Les salles d'escalade proposent souvent un mur dédié aux grimpeurs cherchant un partenaire, ou des soirées rencontre organisées. Les clubs FFME et les sections universitaires créent naturellement des cordées. Les applications dédiées comme Climbing Partner ou des groupes Facebook locaux fonctionnent aussi. Pour une vraie compatibilité, commence par des voies faciles ensemble."
+    },
+    {
+      "q": "Peut on assurer un partenaire plus lourd que soi ?",
+      "a": "Oui, sous condition d'écart raisonnable. Un grimpeur de 60 kg peut assurer un partenaire de 80 kg sans problème. Au delà de 20 kg d'écart, il faut soit lester l'assureur, soit lui faire passer la corde sur un point fixe au sol (sac plombé attaché à un piquet), soit changer de configuration. Ne jamais ignorer cet écart, il peut faire décoller l'assureur lors d'une chute."
+    },
+    {
+      "q": "Comment réagir si un partenaire a un comportement à risque ?",
+      "a": "Tu lui en parles immédiatement, en privé, sans agressivité. Tu décris le comportement précis (téléphone consulté, mou exagéré, vérification refusée) sans porter de jugement personnel. Si le comportement persiste après deux ou trois rappels, tu changes de partenaire. La sécurité n'est jamais négociable pour préserver une relation humaine."
+    },
+    {
+      "q": "Est il préférable de grimper avec son couple ou son frère ?",
+      "a": "Grimper en famille ou en couple présente des avantages (confiance, régularité, connaissance mutuelle) et des risques (relâchement de la vigilance, conflits importés). La question essentielle n'est pas le lien familial mais la compatibilité technique et la culture sécurité partagée. Beaucoup de couples grimpent ensemble pendant des décennies sans incident."
+    },
+    {
+      "q": "Faut il toujours grimper avec le même partenaire ?",
+      "a": "Pas obligatoirement. Avoir un partenaire principal et deux ou trois partenaires secondaires permet de diversifier les sorties et de ne pas dépendre d'une seule personne pour grimper. L'important est que chaque cordée ait été calée techniquement et culturellement avant de s'engager sur du sérieux. Ne te lance jamais avec un parfait inconnu sur ton projet max."
+    },
+    {
+      "q": "Que faire si je grimpe avec quelqu'un qui ne maîtrise pas l'assurage ?",
+      "a": "Tu adaptes la sortie : tu grimpes en moulinette ou sur autobelay pour ne pas dépendre de son assurage, ou tu lui proposes de t'assurer sur des voies très faciles et sécurisées pour le former progressivement. Tu ne lui demandes jamais d'assurer sur un projet engagé tant qu'il n'a pas validé son niveau sur du facile. La formation continue est partagée."
+    }
   ],
   "cover_alt": "Deux grimpeurs en falaise vérifiant mutuellement leur équipement avant le départ d'une voie, baudriers visibles, casques posés sur le sac",
   "internal_links": [
-    {"slug": "securite-escalade-regles-essentielles", "anchor": "notre pilier sur les règles essentielles de sécurité", "context": "Pilier du cocon"},
-    {"slug": "verification-baudrier-corde-noeud", "anchor": "notre fiche sur la triple vérification baudrier corde nœud", "context": "Article frère du cocon"},
-    {"slug": "check-list-avant-grimper", "anchor": "notre check list complète avant de grimper", "context": "Article frère du cocon"},
-    {"slug": "chute-en-tete-facteurs", "anchor": "notre dossier sur la chute en tête et les facteurs de chute", "context": "Article frère du cocon"},
-    {"slug": "meteo-falaise-decider-renoncer", "anchor": "notre guide sur la décision de partir ou renoncer en falaise", "context": "Article frère du cocon"},
-    {"slug": "accidents-escalade-statistiques", "anchor": "notre dossier sur les statistiques d'accidents en escalade", "context": "Article frère du cocon"}
+    {
+      "slug": "securite-escalade-regles-essentielles",
+      "anchor": "notre pilier sur les règles essentielles de sécurité",
+      "context": "Pilier du cocon"
+    },
+    {
+      "slug": "verification-baudrier-corde-noeud",
+      "anchor": "notre fiche sur la triple vérification baudrier corde nœud",
+      "context": "Article frère du cocon"
+    },
+    {
+      "slug": "check-list-avant-grimper",
+      "anchor": "notre check list complète avant de grimper",
+      "context": "Article frère du cocon"
+    },
+    {
+      "slug": "chute-en-tete-facteurs",
+      "anchor": "notre dossier sur la chute en tête et les facteurs de chute",
+      "context": "Article frère du cocon"
+    },
+    {
+      "slug": "meteo-falaise-decider-renoncer",
+      "anchor": "notre guide sur la décision de partir ou renoncer en falaise",
+      "context": "Article frère du cocon"
+    },
+    {
+      "slug": "accidents-escalade-statistiques",
+      "anchor": "notre dossier sur les statistiques d'accidents en escalade",
+      "context": "Article frère du cocon"
+    }
   ],
   "scheduled_at": "2026-04-03T09:00:00+02:00"
 }

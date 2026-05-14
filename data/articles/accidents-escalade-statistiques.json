@@ -15,60 +15,223 @@
     "Le casque divise par trois le risque de traumatisme crânien sérieux."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Ce que disent les chiffres officiels"},
-    {"type": "p", "html": "La **FFME** publie chaque année une analyse des sinistres déclarés par ses licenciés. Sur la base de plus de cent mille licenciés en France, le taux d'accidents corporels déclarés tourne autour de **trois à cinq cas pour mille pratiquants par an**, tous niveaux confondus. C'est moins que le judo, moins que le rugby, comparable au tennis. L'image de l'escalade comme sport extrême tient mal face à ces données."},
-    {"type": "p", "html": "Le PGHM (Peloton de Gendarmerie de Haute Montagne) et les CRS Montagne interviennent en moyenne plusieurs centaines de fois par an sur des secours en escalade et alpinisme cumulés. Sur ce volume, l'escalade sportive en falaise représente une part minoritaire mais bien visible. Le bloc en falaise génère peu d'interventions lourdes, parce que les hauteurs sont faibles, mais beaucoup de blessures non déclarées au comité départemental ou à l'assurance personnelle."},
-    {"type": "h2", "text": "Salle, falaise, bloc : trois profils de risque"},
-    {"type": "p", "html": "Le **risque en salle d'escalade** se concentre sur le bloc. Les chutes mal réceptionnées entraînent des entorses de cheville, des fractures du poignet, parfois des lésions de la colonne. Les voies en moulinette posent peu de problèmes parce que la corde est en haut et que les chutes sont courtes. Les voies en tête en salle restent statistiquement très sûres, le facteur de chute reste faible et les points sont rapprochés."},
-    {"type": "p", "html": "La **falaise sportive** concentre les accidents lourds. Chute en tête au dessus du dernier point, choc contre la paroi, mauvais clippage, voie sous estimée. Les statistiques disponibles via les sociétés d'assurance comme Allianz ou la **MAIF** sport montrent que la majorité des accidents en falaise impliquent un grimpeur en tête, dans une zone connue, par grand beau temps. Le facteur surprise est presque nul, le facteur humain est central."},
-    {"type": "table", "caption": "Répartition indicative des accidents en escalade en France", "headers": ["Pratique", "Type d'accident dominant", "Gravité moyenne"], "rows": [
-      ["Bloc en salle", "Entorse cheville, fracture poignet", "Légère à modérée"],
-      ["Voie en salle", "Coup contre la paroi en chute", "Légère"],
-      ["Bloc en falaise", "Réception sur crashpad mal placé", "Légère à modérée"],
-      ["Voie sportive falaise", "Chute en tête au dessus du point", "Modérée à grave"],
-      ["Grande voie alpine", "Chute de pierres, foudre, hypothermie", "Grave"]
-    ]},
-    {"type": "h2", "text": "Les causes humaines, premières responsables"},
-    {"type": "p", "html": "Les rapports convergent vers la même conclusion : la cause matérielle d'un accident en escalade est rare. Une corde qui casse, un mousqueton qui rompt, un point d'assurage qui s'arrache, ça arrive moins d'une fois sur cent accidents. Ce qui domine, c'est **l'erreur humaine** : nœud d'encordement incomplet, mousqueton à vis non verrouillé, assureur distrait, mauvaise communication grimpeur assureur, voie sous estimée. C'est une nouvelle plutôt rassurante : tu peux agir sur quasiment toutes les causes."},
-    {"type": "p", "html": "L'analyse des accidents publiée par Petzl dans son rapport annuel confirme : sur cent cas étudiés, plus de quatre vingts impliquent une erreur de procédure côté grimpeur ou assureur. Le matériel reste fiable s'il est entretenu, vérifié et utilisé selon la notice constructeur. La **triple vérification** baudrier corde nœud reste la première barrière."},
-    {"type": "tip", "title": "Le facteur fatigue", "body": "Plus de la moitié des accidents graves arrivent en fin de séance, après deux ou trois heures de grimpe. La fatigue baisse la vigilance sur les gestes automatiques. C'est aussi vrai en salle qu'en falaise. Quand tu sens la concentration partir, tu redescends, point final.", "tone": "attention"},
-    {"type": "h2", "text": "Comparaison avec d'autres sports outdoor"},
-    {"type": "p", "html": "Le **vélo de route** affiche un taux d'accidents bien supérieur à l'escalade par heure de pratique. Le ski alpin également, surtout hors piste. Le parapente, l'alpinisme et la spéléologie sortent dans une autre catégorie de risque, plus exposée. L'escalade sportive sur sites équipés reste un sport prudent, à condition que les acteurs respectent les protocoles enseignés en école et structurés par la FFME."},
-    {"type": "p", "html": "Cette comparaison ne sert pas à minimiser. Elle remet l'escalade à sa place : un sport où le risque existe mais reste maîtrisable par la méthode. Tu peux lire <a href=\"/blog/chute-en-tete-facteurs\">notre dossier sur la chute en tête et les facteurs de chute</a> pour comprendre comment évaluer le risque réel quand tu grimpes."},
-    {"type": "h2", "text": "Mon expérience d'accident, ce qu'il m'a appris"},
-    {"type": "p", "html": "À dix sept ans, lors d'une compétition à Mulhouse, j'ai chuté en bloc sur une réception qui n'avait rien de violent. Je suis pourtant resté assis cinq minutes, douleur vive au poignet, gonflement immédiat. Verdict : entorse sévère, attelle quatre semaines. Je connaissais la voie, je savais où j'allais tomber, le tapis était au sol. Et pourtant. Cet accident sans gravité m'a appris que **le bloc en salle** n'est jamais anodin, même bas, même connu."},
-    {"type": "p", "html": "Depuis, je m'échauffe les poignets avant chaque session, je travaille la chute contrôlée et je ne saute plus volontairement quand je peux désescalader. Ce sont trois habitudes simples qui ont divisé mes blessures par trois en cinq ans."},
-    {"type": "h2", "text": "Les leviers concrets pour réduire ton risque"},
-    {"type": "list", "variant": "cards", "title": "Cinq actions efficaces pour grimper plus sûr", "items": [
-      {"title": "Vérification systématique", "body": "Triple vérification baudrier corde nœud avant chaque départ. Trente secondes par voie, gain énorme."},
-      {"title": "Casque en falaise", "body": "Toujours, dès que tu sors d'un mur artificiel. Le casque divise par trois le risque de traumatisme crânien."},
-      {"title": "Échauffement", "body": "Quinze à vingt minutes avant la première voie. Doigts, poignets, épaules. Tu réduis drastiquement les tendinites et les entorses."},
-      {"title": "Formation continue", "body": "Stage assurage tous les deux ans, cours premiers secours civique, recyclage rappel. La routine émousse, la formation réveille."},
-      {"title": "Choix du partenaire", "body": "Tu grimpes avec quelqu'un qui partage tes standards de sécurité, sinon tu changes de partenaire, pas tes standards."}
-    ]},
-    {"type": "h2", "text": "Le casque, l'EPI qui fait basculer les chiffres"},
-    {"type": "p", "html": "Le port du **casque en falaise** réduit significativement le risque de traumatisme crânien grave en cas de chute ou de chute de pierre. Les modèles Petzl Sirocco, Black Diamond Vapor ou Mammut Wall Rider couvrent la majorité des besoins. Le casque est normé EN 12492 pour l'alpinisme et l'escalade. À renouveler tous les dix ans ou immédiatement après un choc visible."},
-    {"type": "p", "html": "En salle, le casque n'est généralement pas porté, et les statistiques montrent que le risque de chute de pierre est nul. En falaise sportive, en grande voie, en escalade trad, le casque est obligatoire dans toute pratique sérieuse. Pas négociable."},
-    {"type": "quote", "text": "Les chiffres ne mentent pas : l'escalade est sûre quand le grimpeur l'est. Tout le reste suit.", "author": "Antoine", "role": "rédacteur escalade-france.fr"},
-    {"type": "h2", "text": "Que faire en cas d'accident sur ta cordée"},
-    {"type": "p", "html": "Si l'accident arrive, la procédure est cadrée : sécurise la victime, fais un bilan rapide, alerte les secours via le 112 en montagne, le 15 ou le 18 en milieu urbain. Tu peux consulter <a href=\"/blog/premiers-secours-escalade\">notre guide des premiers secours en escalade</a> et <a href=\"/blog/alerter-secours-falaise\">la procédure pour alerter les secours en falaise</a>. Sur un site reculé, l'**hélitreuillage** par le PGHM ou les CRS Montagne reste la solution standard pour les blessés graves."},
-    {"type": "p", "html": "Ton assurance personnelle multirisque couvre généralement les frais de secours en France métropolitaine. Vérifie quand même, certaines compagnies excluent l'escalade au dessus d'un certain niveau de difficulté. La licence FFME inclut une assurance corporelle de base, complémentaire à ta couverture personnelle. Pour la falaise étrangère, prévois une assurance rapatriement spécifique."}
+    {
+      "type": "h2",
+      "text": "Ce que disent les chiffres officiels"
+    },
+    {
+      "type": "p",
+      "html": "La **<strong>FFME</strong>** publie chaque année une analyse des sinistres déclarés par ses licenciés. Sur la base de plus de cent mille licenciés en France, le taux d'accidents corporels déclarés tourne autour de **trois à cinq cas pour mille pratiquants par an**, tous niveaux confondus. C'est moins que le judo, moins que le rugby, comparable au tennis. L'image de l'escalade comme sport extrême tient mal face à ces données."
+    },
+    {
+      "type": "p",
+      "html": "Le <strong>PGHM</strong> (Peloton de Gendarmerie de Haute Montagne) et les <strong>CRS Montagne</strong> interviennent en moyenne plusieurs centaines de fois par an sur des secours en escalade et alpinisme cumulés. Sur ce volume, l'escalade sportive en falaise représente une part minoritaire mais bien visible. Le bloc en falaise génère peu d'interventions lourdes, parce que les hauteurs sont faibles, mais beaucoup de blessures non déclarées au comité départemental ou à l'assurance personnelle."
+    },
+    {
+      "type": "h2",
+      "text": "Salle, falaise, bloc : trois profils de risque"
+    },
+    {
+      "type": "p",
+      "html": "Le **risque en salle d'escalade** se concentre sur le bloc. Les chutes mal réceptionnées entraînent des entorses de cheville, des fractures du poignet, parfois des lésions de la colonne. Les voies en moulinette posent peu de problèmes parce que la corde est en haut et que les chutes sont courtes. Les voies en tête en salle restent statistiquement très sûres, le <strong>facteur de chute</strong> reste faible et les points sont rapprochés."
+    },
+    {
+      "type": "p",
+      "html": "La **falaise sportive** concentre les accidents lourds. Chute en tête au dessus du dernier point, choc contre la paroi, mauvais clippage, voie sous estimée. Les statistiques disponibles via les sociétés d'assurance comme Allianz ou la **MAIF** sport montrent que la majorité des accidents en falaise impliquent un grimpeur en tête, dans une zone connue, par grand beau temps. Le facteur surprise est presque nul, le facteur humain est central."
+    },
+    {
+      "type": "table",
+      "caption": "Répartition indicative des accidents en escalade en France",
+      "headers": [
+        "Pratique",
+        "Type d'accident dominant",
+        "Gravité moyenne"
+      ],
+      "rows": [
+        [
+          "Bloc en salle",
+          "Entorse cheville, fracture poignet",
+          "Légère à modérée"
+        ],
+        [
+          "Voie en salle",
+          "Coup contre la paroi en chute",
+          "Légère"
+        ],
+        [
+          "Bloc en falaise",
+          "Réception sur crashpad mal placé",
+          "Légère à modérée"
+        ],
+        [
+          "Voie sportive falaise",
+          "Chute en tête au dessus du point",
+          "Modérée à grave"
+        ],
+        [
+          "Grande voie alpine",
+          "Chute de pierres, foudre, hypothermie",
+          "Grave"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Les causes humaines, premières responsables"
+    },
+    {
+      "type": "p",
+      "html": "Les rapports convergent vers la même conclusion : la cause matérielle d'un accident en escalade est rare. Une corde qui casse, un mousqueton qui rompt, un point d'assurage qui s'arrache, ça arrive moins d'une fois sur cent accidents. Ce qui domine, c'est **l'erreur humaine** : nœud d'encordement incomplet, mousqueton à vis non verrouillé, assureur distrait, mauvaise communication grimpeur assureur, voie sous estimée. C'est une nouvelle plutôt rassurante : tu peux agir sur quasiment toutes les causes."
+    },
+    {
+      "type": "p",
+      "html": "L'analyse des accidents publiée par Petzl dans son rapport annuel confirme : sur cent cas étudiés, plus de quatre vingts impliquent une erreur de procédure côté grimpeur ou assureur. Le matériel reste fiable s'il est entretenu, vérifié et utilisé selon la notice constructeur. La **triple vérification** baudrier corde nœud reste la première barrière."
+    },
+    {
+      "type": "tip",
+      "title": "Le facteur fatigue",
+      "body": "Plus de la moitié des accidents graves arrivent en fin de séance, après deux ou trois heures de grimpe. La fatigue baisse la vigilance sur les gestes automatiques. C'est aussi vrai en salle qu'en falaise. Quand tu sens la concentration partir, tu redescends, point final.",
+      "tone": "attention"
+    },
+    {
+      "type": "h2",
+      "text": "Comparaison avec d'autres sports outdoor"
+    },
+    {
+      "type": "p",
+      "html": "Le **vélo de route** affiche un taux d'accidents bien supérieur à l'escalade par heure de pratique. Le ski alpin également, surtout hors piste. Le parapente, l'alpinisme et la spéléologie sortent dans une autre catégorie de risque, plus exposée. L'escalade sportive sur sites équipés reste un sport prudent, à condition que les acteurs respectent les protocoles enseignés en école et structurés par la FFME."
+    },
+    {
+      "type": "p",
+      "html": "Cette comparaison ne sert pas à minimiser. Elle remet l'escalade à sa place : un sport où le risque existe mais reste maîtrisable par la méthode. Tu peux lire <a href=\"/blog/chute-en-tete-facteurs\">notre dossier sur la chute en tête et les facteurs de chute</a> pour comprendre comment évaluer le risque réel quand tu grimpes."
+    },
+    {
+      "type": "h2",
+      "text": "Mon expérience d'accident, ce qu'il m'a appris"
+    },
+    {
+      "type": "p",
+      "html": "À dix sept ans, lors d'une compétition à Mulhouse, j'ai chuté en bloc sur une réception qui n'avait rien de violent. Je suis pourtant resté assis cinq minutes, douleur vive au poignet, gonflement immédiat. Verdict : entorse sévère, attelle quatre semaines. Je connaissais la voie, je savais où j'allais tomber, le tapis était au sol. Et pourtant. Cet accident sans gravité m'a appris que **le bloc en salle** n'est jamais anodin, même bas, même connu."
+    },
+    {
+      "type": "p",
+      "html": "Depuis, je m'échauffe les poignets avant chaque session, je travaille la chute contrôlée et je ne saute plus volontairement quand je peux désescalader. Ce sont trois habitudes simples qui ont divisé mes blessures par trois en cinq ans."
+    },
+    {
+      "type": "h2",
+      "text": "Les leviers concrets pour réduire ton risque"
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Cinq actions efficaces pour grimper plus sûr",
+      "items": [
+        {
+          "title": "Vérification systématique",
+          "body": "Triple vérification baudrier corde nœud avant chaque départ. Trente secondes par voie, gain énorme."
+        },
+        {
+          "title": "Casque en falaise",
+          "body": "Toujours, dès que tu sors d'un mur artificiel. Le casque divise par trois le risque de traumatisme crânien."
+        },
+        {
+          "title": "Échauffement",
+          "body": "Quinze à vingt minutes avant la première voie. Doigts, poignets, épaules. Tu réduis drastiquement les tendinites et les entorses."
+        },
+        {
+          "title": "Formation continue",
+          "body": "Stage assurage tous les deux ans, cours premiers secours civique, recyclage rappel. La routine émousse, la formation réveille."
+        },
+        {
+          "title": "Choix du partenaire",
+          "body": "Tu grimpes avec quelqu'un qui partage tes standards de sécurité, sinon tu changes de partenaire, pas tes standards."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Le casque, l'EPI qui fait basculer les chiffres"
+    },
+    {
+      "type": "p",
+      "html": "Le port du **casque en falaise** réduit significativement le risque de traumatisme crânien grave en cas de chute ou de chute de pierre. Les modèles Petzl Sirocco, Black Diamond Vapor ou Mammut Wall Rider couvrent la majorité des besoins. Le casque est normé EN 12492 pour l'alpinisme et l'escalade. À renouveler tous les dix ans ou immédiatement après un choc visible."
+    },
+    {
+      "type": "p",
+      "html": "En salle, le casque n'est généralement pas porté, et les statistiques montrent que le risque de chute de pierre est nul. En falaise sportive, en grande voie, en escalade trad, le casque est obligatoire dans toute pratique sérieuse. Pas négociable."
+    },
+    {
+      "type": "quote",
+      "text": "Les chiffres ne mentent pas : l'escalade est sûre quand le grimpeur l'est. Tout le reste suit.",
+      "author": "Antoine",
+      "role": "rédacteur escalade-france.fr"
+    },
+    {
+      "type": "h2",
+      "text": "Que faire en cas d'accident sur ta cordée"
+    },
+    {
+      "type": "p",
+      "html": "Si l'accident arrive, la procédure est cadrée : sécurise la victime, fais un bilan rapide, alerte les secours via le 112 en montagne, le 15 ou le 18 en milieu urbain. Tu peux consulter <a href=\"/blog/premiers-secours-escalade\">notre guide des premiers secours en escalade</a> et <a href=\"/blog/alerter-secours-falaise\">la procédure pour alerter les secours en falaise</a>. Sur un site reculé, l'**hélitreuillage** par le PGHM ou les CRS Montagne reste la solution standard pour les blessés graves."
+    },
+    {
+      "type": "p",
+      "html": "Ton assurance personnelle multirisque couvre généralement les frais de secours en France métropolitaine. Vérifie quand même, certaines compagnies excluent l'escalade au dessus d'un certain niveau de difficulté. La licence FFME inclut une assurance corporelle de base, complémentaire à ta couverture personnelle. Pour la falaise étrangère, prévois une assurance rapatriement spécifique."
+    }
   ],
   "faq": [
-    {"q": "L'escalade est elle vraiment moins dangereuse que le ski ?", "a": "Oui, sur la base des statistiques d'accidents corporels par heure de pratique. Les rapports d'assurance comparent régulièrement les sports outdoor : l'escalade en salle se situe au niveau du tennis ou de la natation. La falaise sportive reste plus à risque mais demeure sous le ski alpin tous niveaux confondus."},
-    {"q": "Faut il une assurance complémentaire à la licence FFME ?", "a": "La licence FFME inclut une assurance responsabilité civile et une garantie corporelle de base. Pour une couverture solide en cas d'accident grave avec arrêt long ou invalidité, la plupart des grimpeurs ajoutent une option ou souscrivent une assurance individuelle accident. Compare attentivement les plafonds avant de signer."},
-    {"q": "Le casque est il obligatoire en falaise en France ?", "a": "Il n'est pas légalement obligatoire mais il est fortement recommandé par la FFME et tous les organismes de secours. En grande voie et en escalade trad, ne pas en porter relève de l'inconscience. En sport monopitch sur site équipé, il reste très conseillé pour se protéger des chutes de pierre."},
-    {"q": "Quels sont les accidents les plus fréquents en salle ?", "a": "Les entorses de cheville en bloc, les fractures du poignet en réception, et plus rarement les chutes en moulinette dues à un assureur distrait. Les enfants représentent une part visible des blessures bénignes, souvent des doigts coincés ou des chocs contre des prises en chute."},
-    {"q": "À partir de quel âge un enfant peut il grimper en sécurité ?", "a": "Les sections enfants en salle accueillent dès quatre ou cinq ans avec un encadrement spécifique. À partir de huit ou neuf ans, un enfant peut grimper en moulinette avec un adulte assureur formé. La FFME propose le passeport jeune qui structure la progression et garantit que les gestes sont enseignés correctement."},
-    {"q": "Comment réagir si je vois un accident sur une voie voisine ?", "a": "Tu sécurises ta propre cordée d'abord, tu ne grimpes pas pour porter secours. Tu appelles le 112, tu donnes les coordonnées GPS, tu décris la situation. Tu apportes un soutien moral à la victime si tu es près. Tu ne déplaces jamais un blessé sans formation premiers secours, sauf danger immédiat."}
+    {
+      "q": "L'escalade est elle vraiment moins dangereuse que le ski ?",
+      "a": "Oui, sur la base des statistiques d'accidents corporels par heure de pratique. Les rapports d'assurance comparent régulièrement les sports outdoor : l'escalade en salle se situe au niveau du tennis ou de la natation. La falaise sportive reste plus à risque mais demeure sous le ski alpin tous niveaux confondus."
+    },
+    {
+      "q": "Faut il une assurance complémentaire à la licence FFME ?",
+      "a": "La licence FFME inclut une assurance responsabilité civile et une garantie corporelle de base. Pour une couverture solide en cas d'accident grave avec arrêt long ou invalidité, la plupart des grimpeurs ajoutent une option ou souscrivent une assurance individuelle accident. Compare attentivement les plafonds avant de signer."
+    },
+    {
+      "q": "Le casque est il obligatoire en falaise en France ?",
+      "a": "Il n'est pas légalement obligatoire mais il est fortement recommandé par la FFME et tous les organismes de secours. En grande voie et en escalade trad, ne pas en porter relève de l'inconscience. En sport monopitch sur site équipé, il reste très conseillé pour se protéger des chutes de pierre."
+    },
+    {
+      "q": "Quels sont les accidents les plus fréquents en salle ?",
+      "a": "Les entorses de cheville en bloc, les fractures du poignet en réception, et plus rarement les chutes en moulinette dues à un assureur distrait. Les enfants représentent une part visible des blessures bénignes, souvent des doigts coincés ou des chocs contre des prises en chute."
+    },
+    {
+      "q": "À partir de quel âge un enfant peut il grimper en sécurité ?",
+      "a": "Les sections enfants en salle accueillent dès quatre ou cinq ans avec un encadrement spécifique. À partir de huit ou neuf ans, un enfant peut grimper en moulinette avec un adulte assureur formé. La FFME propose le passeport jeune qui structure la progression et garantit que les gestes sont enseignés correctement."
+    },
+    {
+      "q": "Comment réagir si je vois un accident sur une voie voisine ?",
+      "a": "Tu sécurises ta propre cordée d'abord, tu ne grimpes pas pour porter secours. Tu appelles le 112, tu donnes les coordonnées GPS, tu décris la situation. Tu apportes un soutien moral à la victime si tu es près. Tu ne déplaces jamais un blessé sans formation premiers secours, sauf danger immédiat."
+    }
   ],
   "cover_alt": "Sauveteurs du PGHM en intervention sur un site d'escalade en falaise calcaire, hélicoptère en arrière plan posé sur une zone dégagée",
   "internal_links": [
-    {"slug": "securite-escalade-regles-essentielles", "anchor": "les règles essentielles de la sécurité en escalade", "context": "Pilier du cocon"},
-    {"slug": "chute-en-tete-facteurs", "anchor": "notre dossier sur la chute en tête et les facteurs de chute", "context": "Article frère du cocon"},
-    {"slug": "premiers-secours-escalade", "anchor": "notre guide des premiers secours en escalade", "context": "Article frère du cocon"},
-    {"slug": "alerter-secours-falaise", "anchor": "la procédure pour alerter les secours en falaise", "context": "Article frère du cocon"},
-    {"slug": "verification-baudrier-corde-noeud", "anchor": "la triple vérification baudrier corde nœud", "context": "Article frère du cocon"}
+    {
+      "slug": "securite-escalade-regles-essentielles",
+      "anchor": "les règles essentielles de la sécurité en escalade",
+      "context": "Pilier du cocon"
+    },
+    {
+      "slug": "chute-en-tete-facteurs",
+      "anchor": "notre dossier sur la chute en tête et les facteurs de chute",
+      "context": "Article frère du cocon"
+    },
+    {
+      "slug": "premiers-secours-escalade",
+      "anchor": "notre guide des premiers secours en escalade",
+      "context": "Article frère du cocon"
+    },
+    {
+      "slug": "alerter-secours-falaise",
+      "anchor": "la procédure pour alerter les secours en falaise",
+      "context": "Article frère du cocon"
+    },
+    {
+      "slug": "verification-baudrier-corde-noeud",
+      "anchor": "la triple vérification baudrier corde nœud",
+      "context": "Article frère du cocon"
+    }
   ],
   "scheduled_at": "2026-03-16T09:00:00+01:00"
 }

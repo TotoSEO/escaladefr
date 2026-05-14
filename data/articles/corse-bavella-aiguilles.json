@@ -3,7 +3,7 @@
   "cocon": "sites",
   "type_article": "guide",
   "numero": 97,
-  "title": "Bavella en Corse : aiguilles de granite mythiques",
+  "title": "Bavella en Corse | aiguilles de granite face à la mer",
   "h1": "Bavella en Corse, aiguilles de granite mythiques.",
   "description": "Guide complet des aiguilles de Bavella en Corse-du-Sud : voies historiques, Punta di l'Acellu, Cima Ferru, accès col et conseils saison.",
   "chapo": "Bavella, c'est la cathédrale rocheuse de la Corse-du-Sud. Des aiguilles de granite roux dressées au-dessus du col, parmi les plus belles d'Europe. Voies historiques mythiques, ambiance haute montagne malgré l'altitude modeste, et la mer toute proche. Je prépare ma première semaine corse pour l'été prochain. Voici les itinéraires, les secteurs, l'accès et la magie de ce lieu.",
@@ -46,16 +46,43 @@
     {
       "type": "table",
       "caption": "Fiche d'identité de Bavella",
-      "headers": ["Critère", "Détail"],
+      "headers": [
+        "Critère",
+        "Détail"
+      ],
       "rows": [
-        ["Localisation", "Col de Bavella, Corse-du-Sud (2A)"],
-        ["Altitude col", "1 218 mètres"],
-        ["Altitude max aiguilles", "1 855 mètres à la Punta di u Pargulu"],
-        ["Type de rocher", "Granite roux alcalin, fissures et dalles"],
-        ["Discipline", "Grande voie, terrain d'aventure, alpinisme rocheux"],
-        ["Cotations", "Du 4 au 7c, classiques en 5 et 6"],
-        ["Période idéale", "Mai à octobre, éviter canicule juillet-août"],
-        ["Accès", "Col de Bavella depuis Solenzara ou Zonza"]
+        [
+          "Localisation",
+          "Col de Bavella, Corse-du-Sud (2A)"
+        ],
+        [
+          "Altitude col",
+          "1 218 mètres"
+        ],
+        [
+          "Altitude max aiguilles",
+          "1 855 mètres à la Punta di u Pargulu"
+        ],
+        [
+          "Type de rocher",
+          "Granite roux alcalin, fissures et dalles"
+        ],
+        [
+          "Discipline",
+          "Grande voie, terrain d'aventure, alpinisme rocheux"
+        ],
+        [
+          "Cotations",
+          "Du 4 au 7c, classiques en 5 et 6"
+        ],
+        [
+          "Période idéale",
+          "Mai à octobre, éviter canicule juillet-août"
+        ],
+        [
+          "Accès",
+          "Col de Bavella depuis Solenzara ou Zonza"
+        ]
       ]
     },
     {
@@ -91,12 +118,30 @@
       "variant": "bullets",
       "title": "Les voies à connaître à Bavella",
       "items": [
-        {"title": "La Sentinelle", "body": "Punta di u Pargulu, TD à 6a, 250 mètres, classique historique."},
-        {"title": "Ranus-Ranou", "body": "Punta di l'Acellu, TD sup à 6b, granite compact engagé."},
-        {"title": "Pater Noster", "body": "Punta di l'Acellu face est, 5 longueurs, passage en dièdre."},
-        {"title": "Voie des Belges", "body": "Équipée moderne, parfaite pour découvrir le granite corse."},
-        {"title": "La Migra", "body": "Voie sportive 6b+, équipement aux normes actuelles."},
-        {"title": "Punta di u Capeddu", "body": "Voie courte, idéale pour s'acclimater au rocher local."}
+        {
+          "title": "La Sentinelle",
+          "body": "Punta di u Pargulu, TD à 6a, 250 mètres, classique historique."
+        },
+        {
+          "title": "Ranus-Ranou",
+          "body": "Punta di l'Acellu, TD sup à 6b, granite compact engagé."
+        },
+        {
+          "title": "Pater Noster",
+          "body": "Punta di l'Acellu face est, 5 longueurs, passage en dièdre."
+        },
+        {
+          "title": "Voie des Belges",
+          "body": "Équipée moderne, parfaite pour découvrir le granite corse."
+        },
+        {
+          "title": "La Migra",
+          "body": "Voie sportive 6b+, équipement aux normes actuelles."
+        },
+        {
+          "title": "Punta di u Capeddu",
+          "body": "Voie courte, idéale pour s'acclimater au rocher local."
+        }
       ]
     },
     {
@@ -166,10 +211,26 @@
   ],
   "cover_alt": "Aiguilles de granite roux du massif de Bavella en Corse-du-Sud",
   "internal_links": [
-    {"slug": "sites-escalade-emblematiques-france", "anchor": "notre panorama des sites français", "context": "Pilier du cocon"},
-    {"slug": "corse-restonica-canyon", "anchor": "le guide de la Restonica", "context": "Autre site corse complémentaire"},
-    {"slug": "aiguille-midi-chamonix-haute", "anchor": "l'Aiguille du Midi à Chamonix", "context": "Autre site granite européen"},
-    {"slug": "mont-aiguille-vercors-pionnier", "anchor": "le Mont Aiguille", "context": "Sommet historique français"}
+    {
+      "slug": "sites-escalade-emblematiques-france",
+      "anchor": "notre panorama des sites français",
+      "context": "Pilier du cocon"
+    },
+    {
+      "slug": "corse-restonica-canyon",
+      "anchor": "le guide de la Restonica",
+      "context": "Autre site corse complémentaire"
+    },
+    {
+      "slug": "aiguille-midi-chamonix-haute",
+      "anchor": "l'Aiguille du Midi à Chamonix",
+      "context": "Autre site granite européen"
+    },
+    {
+      "slug": "mont-aiguille-vercors-pionnier",
+      "anchor": "le Mont Aiguille",
+      "context": "Sommet historique français"
+    }
   ],
   "scheduled_at": "2026-12-15T09:00:00+01:00"
 }

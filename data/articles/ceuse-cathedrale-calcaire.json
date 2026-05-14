@@ -25,7 +25,7 @@
     },
     {
       "type": "p",
-      "html": "Céüse attire les meilleurs grimpeurs du monde depuis trente ans. Patrick Edlinger venait y travailler dans les années 80, puis sont arrivés Arnaud Petit, Yuji Hirayama, François Legrand, et plus récemment Chris Sharma et Adam Ondra. Tous viennent pour la qualité du rocher, un calcaire bleu gris d'une compacité rare, sculpté de trous, de gouttes d'eau et de réglettes. La résine du rocher accroche dès qu'il fait frais et offre une sensation tactile unique."
+      "html": "Céüse attire les meilleurs grimpeurs du monde depuis trente ans. <strong>Patrick Edlinger</strong> venait y travailler dans les années 80, puis sont arrivés Arnaud Petit, Yuji Hirayama, François Legrand, et plus récemment Chris Sharma et <strong>Adam Ondra</strong>. Tous viennent pour la qualité du rocher, un calcaire bleu gris d'une compacité rare, sculpté de trous, de gouttes d'eau et de réglettes. La résine du rocher accroche dès qu'il fait frais et offre une sensation tactile unique."
     },
     {
       "type": "p",
@@ -46,16 +46,43 @@
     {
       "type": "table",
       "caption": "Fiche d'identité du site",
-      "headers": ["Critère", "Détail"],
+      "headers": [
+        "Critère",
+        "Détail"
+      ],
       "rows": [
-        ["Type de rocher", "Calcaire urgonien bleu compact à trous et réglettes"],
-        ["Orientation", "Sud-ouest principalement, quelques secteurs sud et ouest"],
-        ["Exposition", "Plein soleil l'après-midi, ombre le matin selon les secteurs"],
-        ["Cotation min/max", "Du 5c au 9b+ (Biographie), majorité dans le 7 et 8"],
-        ["Nombre de voies", "Plus de 400 voies équipées sur 15 secteurs"],
-        ["Période favorable", "Mai à octobre, optimum en juin et septembre"],
-        ["Accès", "Parking La Guinguette puis 45 min de marche, 400 m D+"],
-        ["Parking", "La Guinguette à Sigoyer, payant en haute saison"]
+        [
+          "Type de rocher",
+          "Calcaire urgonien bleu compact à trous et réglettes"
+        ],
+        [
+          "Orientation",
+          "Sud-ouest principalement, quelques secteurs sud et ouest"
+        ],
+        [
+          "Exposition",
+          "Plein soleil l'après-midi, ombre le matin selon les secteurs"
+        ],
+        [
+          "Cotation min/max",
+          "Du 5c au 9b+ (Biographie), majorité dans le 7 et 8"
+        ],
+        [
+          "Nombre de voies",
+          "Plus de 400 voies équipées sur 15 secteurs"
+        ],
+        [
+          "Période favorable",
+          "Mai à octobre, optimum en juin et septembre"
+        ],
+        [
+          "Accès",
+          "Parking La Guinguette puis 45 min de marche, 400 m D+"
+        ],
+        [
+          "Parking",
+          "La Guinguette à Sigoyer, payant en haute saison"
+        ]
       ]
     },
     {
@@ -83,12 +110,30 @@
       "variant": "bullets",
       "title": "Les secteurs incontournables de Céüse",
       "items": [
-        {"title": "Le secteur École", "body": "Voies dans le 5c à 7a, parfait pour la mise en jambes ou les grimpeurs en progression."},
-        {"title": "Berlin", "body": "Le secteur historique où Edlinger a tracé les premières lignes dans le 7c et 8a."},
-        {"title": "Demi-Lune", "body": "Le cœur du site avec Biographie et Realization, ambiance internationale."},
-        {"title": "La Cascade", "body": "Voies longues et soutenues, calcaire à gouttes d'eau caractéristique."},
-        {"title": "Face de Rat", "body": "Dévers continus, terrain de jeu pour grimpeurs aguerris dans le 8 et plus."},
-        {"title": "Biographie", "body": "Le mur des records mondiaux, à voir au moins une fois dans sa vie."}
+        {
+          "title": "Le secteur École",
+          "body": "Voies dans le 5c à 7a, parfait pour la mise en jambes ou les grimpeurs en progression."
+        },
+        {
+          "title": "Berlin",
+          "body": "Le secteur historique où Edlinger a tracé les premières lignes dans le 7c et 8a."
+        },
+        {
+          "title": "Demi-Lune",
+          "body": "Le cœur du site avec Biographie et Realization, ambiance internationale."
+        },
+        {
+          "title": "La Cascade",
+          "body": "Voies longues et soutenues, calcaire à gouttes d'eau caractéristique."
+        },
+        {
+          "title": "Face de Rat",
+          "body": "Dévers continus, terrain de jeu pour grimpeurs aguerris dans le 8 et plus."
+        },
+        {
+          "title": "Biographie",
+          "body": "Le mur des records mondiaux, à voir au moins une fois dans sa vie."
+        }
       ]
     },
     {
@@ -162,10 +207,26 @@
   ],
   "cover_alt": "Falaise de calcaire bleu de Céüse vue depuis la marche d'approche dans les Hautes-Alpes",
   "internal_links": [
-    {"slug": "sites-escalade-emblematiques-france", "anchor": "sites d'escalade emblématiques de France", "context": "Pilier du cocon sites"},
-    {"slug": "verdon-grandes-voies", "anchor": "grandes voies du Verdon", "context": "Autre site mythique français"},
-    {"slug": "buoux-luberon-historique", "anchor": "Buoux dans le Luberon", "context": "Autre falaise historique du sud"},
-    {"slug": "calanques-escalade-marseille", "anchor": "Calanques marseillaises", "context": "Site emblématique méditerranéen"}
+    {
+      "slug": "sites-escalade-emblematiques-france",
+      "anchor": "sites d'escalade emblématiques de France",
+      "context": "Pilier du cocon sites"
+    },
+    {
+      "slug": "verdon-grandes-voies",
+      "anchor": "grandes voies du Verdon",
+      "context": "Autre site mythique français"
+    },
+    {
+      "slug": "buoux-luberon-historique",
+      "anchor": "Buoux dans le Luberon",
+      "context": "Autre falaise historique du sud"
+    },
+    {
+      "slug": "calanques-escalade-marseille",
+      "anchor": "Calanques marseillaises",
+      "context": "Site emblématique méditerranéen"
+    }
   ],
   "scheduled_at": "2026-11-17T09:00:00+01:00"
 }

@@ -15,64 +15,248 @@
     "Compte 200 à 400 euros pour un crashpad fiable Mad Rock, Black Diamond ou Petzl."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Pourquoi le crashpad fait toute la différence"},
-    {"type": "p", "html": "En bloc, tu chutes sur le sol. Pas de corde, pas de relais, pas de protection autre que le crashpad et la para de tes potes. Une mauvaise réception sur un rocher ou une racine, et c'est l'entorse de cheville voire la fracture. Le crashpad amortit la chute en répartissant l'impact sur sa surface et en absorbant l'énergie cinétique par déformation de la mousse interne."},
-    {"type": "p", "html": "Quand j'ai commencé le bloc à Fontainebleau, je grimpais sur un vieux crashpad de copain de 8 cm d'épaisseur. Suffisant pour les sols moelleux de la forêt, limite sur certains blocs hauts. Aujourd'hui je tourne sur un <strong>Mad Rock Mad Pad</strong> 11 cm qui gère 99 % des situations. Le détail du matos bloc dans <a href=\"/blog/matos-bloc-checklist\">la checklist matériel bloc</a>."},
-    {"type": "h2", "text": "Épaisseur de mousse : 8, 10 ou 12 cm"},
-    {"type": "p", "html": "L'épaisseur conditionne l'absorption d'énergie. Sous 8 cm, le crashpad convient uniquement aux blocs très bas en salle ou sur sol moelleux. À 10 cm, tu couvres la majorité des blocs jusqu'à 4 m de hauteur. À 12 cm et au-dessus, tu sécurises les blocs de 5 à 6 m, hauteur limite raisonnable du bloc sans corde. Au-delà, on parle de hautblocs ou de cordée requise."},
-    {"type": "p", "html": "Mon épaisseur de confort, c'est 11 cm. Suffisant pour 95 % des blocs que je grimpe en falaise, gérable pour les marches d'approche jusqu'à 30 minutes. Pour les blocs très hauts type Lapalud ou les Cuvier hauts, j'ajoute un second crashpad en complément. Deux pads valent toujours mieux qu'un, surtout sur sol caillouteux."},
-    {"type": "h2", "text": "Type de mousse : PU ou PE haute densité"},
-    {"type": "p", "html": "Deux familles de mousses dominent. La <strong>mousse polyuréthane PU</strong> classique, abordable, mais qui se tasse vite après quelques années d'usage. La <strong>mousse polyéthylène PE haute densité</strong>, plus chère, plus performante, durable. Les meilleurs crashpads combinent une couche supérieure haute densité PE pour la fermeté et une couche inférieure PU pour l'absorption."},
-    {"type": "p", "html": "Une mousse de qualité conserve ses propriétés 8 à 10 ans en usage régulier. Une mousse bas de gamme se tasse en 3 à 4 ans et perd ses capacités d'absorption. Investis sur la qualité, c'est le critère qui définit la durée de vie utile de ton crashpad. Les références sont <strong>Mad Rock, Petzl, Black Diamond, Organic, Asana</strong>."},
-    {"type": "h2", "text": "Dimensions et surface au sol"},
-    {"type": "p", "html": "Les crashpads se déplient en surface rectangulaire ou en hexagonale pliée. La surface dépliée varie de 100 par 120 cm pour les modèles d'entrée de gamme, à 130 par 180 cm pour les plus grands. Vise au minimum 120 par 130 cm pour les blocs classiques. Plus c'est grand, mieux tu couvres les zones de chute multiples."},
-    {"type": "p", "html": "Les blocs avec dérapage latéral, les traversées et les déversants nécessitent souvent plusieurs crashpads alignés. Un seul ne suffit pas. Compte sur tes partenaires de bloc pour partager les pads et couvrir toute la zone de réception possible. La para humaine reste indispensable pour repositionner les pads pendant la grimpe."},
-    {"type": "list", "variant": "cards", "title": "Trois crashpads selon ton usage", "items": [
-      {"title": "Débutant occasionnel", "body": "100 à 120 cm de surface, 10 cm d'épaisseur, mousse PU classique. Singing Rock Combat Pad ou Decathlon Vertika. Compte 150 à 220 euros."},
-      {"title": "Régulier polyvalent", "body": "130 à 150 cm, 11 cm d'épaisseur, mousse mixte PE PU haute densité. Mad Rock Mad Pad ou Petzl Cirro. Compte 280 à 380 euros."},
-      {"title": "Engagé hautblocs", "body": "150 à 180 cm, 12 cm et plus, mousse PE haute densité. Black Diamond Mondo ou Organic Big Pad. Compte 400 à 550 euros."}
-    ]},
-    {"type": "h2", "text": "Système de portage et marche d'approche"},
-    {"type": "p", "html": "Le portage devient critique sur les longues approches. Un crashpad qui se porte mal dégoûte de la marche et tu finis par grimper plus près des parkings. Vise un système avec sangles d'épaules rembourrées, sangle ventrale stabilisante et sangle de poitrine. Les meilleurs systèmes type <strong>Mad Rock Triple Mad Pad, Black Diamond Drop Zone</strong> intègrent même des poches latérales pour chaussons, brosse et magnésie."},
-    {"type": "p", "html": "Le pliage en taco ou en hot dog change l'ergonomie. Le taco se replie en deux comme une coque, simple, robuste. Le hot dog se plie en trois pour un transport compact, mais avec un point de pliage central qui peut se tasser au fil des ans. Préfère le taco pour la durée de vie, le hot dog pour la compacité voiture."},
-    {"type": "h2", "text": "Tissu extérieur et résistance à l'abrasion"},
-    {"type": "p", "html": "Le tissu extérieur subit l'abrasion contre les rochers, la terre, les branches. Vise un tissu en nylon 1000 deniers minimum, type Cordura ou polyester ballistique épais. Les fonds résistent moins bien que les dessus, c'est normal, ils traînent sur le sol. Un crashpad bas de gamme perce après deux ans, un haut de gamme tient 10 ans facile."},
-    {"type": "p", "html": "Inspecte régulièrement les coutures de bordure et la fermeture du compartiment mousse. Une couture qui lâche laisse la mousse s'éparpiller en pleine session. Les marques sérieuses garantissent leurs coutures à vie, type Mad Rock ou Organic. Pour les bases du matos bloc, complète avec <a href=\"/blog/brosse-grimpe-entretien-prises\">la brosse à prises</a> et <a href=\"/blog/magnesie-types-grimpe\">la magnésie en grimpe</a>."},
-    {"type": "h2", "text": "Charnière et pliage : éviter la faille centrale"},
-    {"type": "p", "html": "Le point de pliage du crashpad est sa zone faible. Une chute exactement sur la charnière centrale peut entraîner un effondrement de la mousse et un contact avec le sol. Les bons crashpads minimisent ce risque avec une charnière en biais (cut hinge) ou un système de chevauchement des mousses au pliage. Vérifie ce détail avant l'achat."},
-    {"type": "p", "html": "Les crashpads haut de gamme type <strong>Mad Rock Mad Pad Heel Hook</strong> ou Black Diamond Mondo intègrent une charnière coupée en angle qui élimine la faille centrale. C'est un investissement payant pour la sécurité. Sur les modèles à charnière droite classique, dispose toujours le crashpad avec la zone de chute principale décalée par rapport à la charnière."},
-    {"type": "h2", "text": "Marques de référence en 2026"},
-    {"type": "p", "html": "Cinq marques dominent le marché français du crashpad. <strong>Mad Rock</strong>, le meilleur rapport qualité prix avec le Mad Pad et le Triple Mad Pad. <strong>Black Diamond</strong> avec la gamme Mondo et Drop Zone, valeur sûre. <strong>Petzl</strong> avec le Cirro polyvalent. <strong>Organic</strong>, fabrication artisanale américaine très qualitative. <strong>Asana</strong>, alternative respectée par les bloqueurs engagés."},
-    {"type": "p", "html": "Je déconseille les marques inconnues vendues en grande surface sport. Le prix attractif cache souvent une mousse bas de gamme qui se tasse en deux ans, des coutures qui lâchent et un système de portage médiocre. Pour 100 euros d'économie, tu rachètes un crashpad trois ans plus tôt. Le calcul ne tient pas la route sur la durée."},
-    {"type": "table", "caption": "Comparatif crashpads polyvalents 2026", "headers": ["Modèle", "Surface", "Épaisseur", "Poids", "Prix"], "rows": [
-      ["Mad Rock Mad Pad", "121 x 91 cm", "10 cm", "5.8 kg", "200 €"],
-      ["Mad Rock Triple Mad Pad", "121 x 121 cm", "11 cm", "9 kg", "320 €"],
-      ["Black Diamond Mondo", "130 x 173 cm", "12 cm", "11 kg", "380 €"],
-      ["Petzl Cirro", "118 x 100 cm", "10 cm", "6.4 kg", "260 €"],
-      ["Organic Big Pad", "122 x 152 cm", "10 cm", "8 kg", "350 €"]
-    ]},
-    {"type": "h2", "text": "Mon crashpad actuel et pourquoi"},
-    {"type": "p", "html": "J'utilise un <strong>Mad Rock Mad Pad</strong> depuis trois ans. Acheté 200 euros, 10 cm d'épaisseur, mousse mixte PE PU, surface 121 par 91 cm. Suffisant pour 90 % de mes blocs à Fontainebleau et au Saussois. Pour les blocs hauts, j'emprunte un second pad chez un partenaire de bloc régulier. Cette stratégie évite l'investissement dans un Black Diamond Mondo à 380 euros."},
-    {"type": "p", "html": "Mon Mad Pad a déjà encaissé une vingtaine de chutes sévères. La mousse haute densité supérieure n'a pas perdu en fermeté, et les coutures tiennent toujours. Le seul point de vigilance, c'est le tissu de fond qui montre des signes d'abrasion sur les zones rocailleuses de Bleau. Rien d'inquiétant mais à surveiller dans deux ans."},
-    {"type": "quote", "text": "Un bon crashpad et de bons paras valent mieux qu'un gros engagement physique. Le bloc demande humilité et préparation au sol.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
-    {"type": "h2", "text": "Stockage et entretien"},
-    {"type": "p", "html": "Stocke ton crashpad ouvert ou plié à plat dans un endroit sec à l'abri des UV. Un crashpad rangé compressé six mois perd progressivement en propriétés d'absorption. Ne le laisse jamais en plein soleil en été, la chaleur dégrade la mousse interne. La voiture devient une étuve à 70 degrés rapidement, sors le pad systématiquement après chaque sortie."},
-    {"type": "p", "html": "Pour nettoyer, utilise un linge humide et un savon doux sur le tissu extérieur. Évite l'eau qui peut s'infiltrer dans la mousse et créer des moisissures. En cas de mousse exposée à une forte humidité, laisse sécher plusieurs jours dans un endroit aéré avant de refermer. Pour aller plus loin sur l'équipement bloc, consulte <a href=\"/blog/matos-bloc-checklist\">la checklist matériel bloc</a> et <a href=\"/blog/materiel-escalade-essentiel\">le matériel d'escalade essentiel</a>."}
+    {
+      "type": "h2",
+      "text": "Pourquoi le crashpad fait toute la différence"
+    },
+    {
+      "type": "p",
+      "html": "En bloc, tu chutes sur le sol. Pas de corde, pas de relais, pas de protection autre que le crashpad et la para de tes potes. Une mauvaise réception sur un rocher ou une racine, et c'est l'entorse de cheville voire la fracture. Le crashpad amortit la chute en répartissant l'impact sur sa surface et en absorbant l'énergie cinétique par déformation de la mousse interne."
+    },
+    {
+      "type": "p",
+      "html": "Quand j'ai commencé le bloc à Fontainebleau, je grimpais sur un vieux crashpad de copain de 8 cm d'épaisseur. Suffisant pour les sols moelleux de la forêt, limite sur certains blocs hauts. Aujourd'hui je tourne sur un Mad Rock Mad Pad 11 cm qui gère 99 % des situations. Le détail du matos bloc dans <a href=\"/blog/matos-bloc-checklist\">la checklist matériel bloc</a>."
+    },
+    {
+      "type": "h2",
+      "text": "Épaisseur de mousse : 8, 10 ou 12 cm"
+    },
+    {
+      "type": "p",
+      "html": "L'épaisseur conditionne l'absorption d'énergie. Sous 8 cm, le crashpad convient uniquement aux blocs très bas en salle ou sur sol moelleux. À 10 cm, tu couvres la majorité des blocs jusqu'à 4 m de hauteur. À 12 cm et au-dessus, tu sécurises les blocs de 5 à 6 m, hauteur limite raisonnable du bloc sans corde. Au-delà, on parle de hautblocs ou de cordée requise."
+    },
+    {
+      "type": "p",
+      "html": "Mon épaisseur de confort, c'est 11 cm. Suffisant pour 95 % des blocs que je grimpe en falaise, gérable pour les marches d'approche jusqu'à 30 minutes. Pour les blocs très hauts type Lapalud ou les Cuvier hauts, j'ajoute un second crashpad en complément. Deux pads valent toujours mieux qu'un, surtout sur sol caillouteux."
+    },
+    {
+      "type": "h2",
+      "text": "Type de mousse : PU ou PE haute densité"
+    },
+    {
+      "type": "p",
+      "html": "Deux familles de mousses dominent. La mousse polyuréthane PU classique, abordable, mais qui se tasse vite après quelques années d'usage. La mousse polyéthylène PE haute densité, plus chère, plus performante, durable. Les meilleurs crashpads combinent une couche supérieure haute densité PE pour la fermeté et une couche inférieure PU pour l'absorption."
+    },
+    {
+      "type": "p",
+      "html": "Une mousse de qualité conserve ses propriétés 8 à 10 ans en usage régulier. Une mousse bas de gamme se tasse en 3 à 4 ans et perd ses capacités d'absorption. Investis sur la qualité, c'est le critère qui définit la durée de vie utile de ton crashpad. Les références sont Mad Rock, Petzl, Black Diamond, Organic, Asana."
+    },
+    {
+      "type": "h2",
+      "text": "Dimensions et surface au sol"
+    },
+    {
+      "type": "p",
+      "html": "Les crashpads se déplient en surface rectangulaire ou en hexagonale pliée. La surface dépliée varie de 100 par 120 cm pour les modèles d'entrée de gamme, à 130 par 180 cm pour les plus grands. Vise au minimum 120 par 130 cm pour les blocs classiques. Plus c'est grand, mieux tu couvres les zones de chute multiples."
+    },
+    {
+      "type": "p",
+      "html": "Les blocs avec dérapage latéral, les traversées et les déversants nécessitent souvent plusieurs crashpads alignés. Un seul ne suffit pas. Compte sur tes partenaires de bloc pour partager les pads et couvrir toute la zone de réception possible. La para humaine reste indispensable pour repositionner les pads pendant la grimpe."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Trois crashpads selon ton usage",
+      "items": [
+        {
+          "title": "Débutant occasionnel",
+          "body": "100 à 120 cm de surface, 10 cm d'épaisseur, mousse PU classique. Singing Rock Combat Pad ou Decathlon Vertika. Compte 150 à 220 euros."
+        },
+        {
+          "title": "Régulier polyvalent",
+          "body": "130 à 150 cm, 11 cm d'épaisseur, mousse mixte PE PU haute densité. Mad Rock Mad Pad ou Petzl Cirro. Compte 280 à 380 euros."
+        },
+        {
+          "title": "Engagé hautblocs",
+          "body": "150 à 180 cm, 12 cm et plus, mousse PE haute densité. Black Diamond Mondo ou Organic Big Pad. Compte 400 à 550 euros."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Système de portage et marche d'approche"
+    },
+    {
+      "type": "p",
+      "html": "Le portage devient critique sur les longues approches. Un crashpad qui se porte mal dégoûte de la marche et tu finis par grimper plus près des parkings. Vise un système avec sangles d'épaules rembourrées, sangle ventrale stabilisante et sangle de poitrine. Les meilleurs systèmes type <strong>Mad Rock Triple Mad Pad, Black Diamond Drop Zone</strong> intègrent même des poches latérales pour chaussons, brosse et magnésie."
+    },
+    {
+      "type": "p",
+      "html": "Le pliage en taco ou en hot dog change l'ergonomie. Le taco se replie en deux comme une coque, simple, robuste. Le hot dog se plie en trois pour un transport compact, mais avec un point de pliage central qui peut se tasser au fil des ans. Préfère le taco pour la durée de vie, le hot dog pour la compacité voiture."
+    },
+    {
+      "type": "h2",
+      "text": "Tissu extérieur et résistance à l'abrasion"
+    },
+    {
+      "type": "p",
+      "html": "Le tissu extérieur subit l'abrasion contre les rochers, la terre, les branches. Vise un tissu en nylon 1000 deniers minimum, type Cordura ou polyester ballistique épais. Les fonds résistent moins bien que les dessus, c'est normal, ils traînent sur le sol. Un crashpad bas de gamme perce après deux ans, un haut de gamme tient 10 ans facile."
+    },
+    {
+      "type": "p",
+      "html": "Inspecte régulièrement les coutures de bordure et la fermeture du compartiment mousse. Une couture qui lâche laisse la mousse s'éparpiller en pleine session. Les marques sérieuses garantissent leurs coutures à vie, type Mad Rock ou Organic. Pour les bases du matos bloc, complète avec <a href=\"/blog/brosse-grimpe-entretien-prises\">la brosse à prises</a> et <a href=\"/blog/magnesie-types-grimpe\">la magnésie en grimpe</a>."
+    },
+    {
+      "type": "h2",
+      "text": "Charnière et pliage : éviter la faille centrale"
+    },
+    {
+      "type": "p",
+      "html": "Le point de pliage du crashpad est sa zone faible. Une chute exactement sur la charnière centrale peut entraîner un effondrement de la mousse et un contact avec le sol. Les bons crashpads minimisent ce risque avec une charnière en biais (cut hinge) ou un système de chevauchement des mousses au pliage. Vérifie ce détail avant l'achat."
+    },
+    {
+      "type": "p",
+      "html": "Les crashpads haut de gamme type <strong>Mad Rock Mad Pad Heel Hook</strong> ou Black Diamond Mondo intègrent une charnière coupée en angle qui élimine la faille centrale. C'est un investissement payant pour la sécurité. Sur les modèles à charnière droite classique, dispose toujours le crashpad avec la zone de chute principale décalée par rapport à la charnière."
+    },
+    {
+      "type": "h2",
+      "text": "Marques de référence en 2026"
+    },
+    {
+      "type": "p",
+      "html": "Cinq marques dominent le marché français du crashpad. <strong>Mad Rock</strong>, le meilleur rapport qualité prix avec le Mad Pad et le Triple Mad Pad. <strong>Black Diamond</strong> avec la gamme Mondo et Drop Zone, valeur sûre. <strong>Petzl</strong> avec le Cirro polyvalent. <strong>Organic</strong>, fabrication artisanale américaine très qualitative. <strong>Asana</strong>, alternative respectée par les bloqueurs engagés."
+    },
+    {
+      "type": "p",
+      "html": "Je déconseille les marques inconnues vendues en grande surface sport. Le prix attractif cache souvent une mousse bas de gamme qui se tasse en deux ans, des coutures qui lâchent et un système de portage médiocre. Pour 100 euros d'économie, tu rachètes un crashpad trois ans plus tôt. Le calcul ne tient pas la route sur la durée."
+    },
+    {
+      "type": "table",
+      "caption": "Comparatif crashpads polyvalents 2026",
+      "headers": [
+        "Modèle",
+        "Surface",
+        "Épaisseur",
+        "Poids",
+        "Prix"
+      ],
+      "rows": [
+        [
+          "Mad Rock Mad Pad",
+          "121 x 91 cm",
+          "10 cm",
+          "5.8 kg",
+          "200 €"
+        ],
+        [
+          "Mad Rock Triple Mad Pad",
+          "121 x 121 cm",
+          "11 cm",
+          "9 kg",
+          "320 €"
+        ],
+        [
+          "Black Diamond Mondo",
+          "130 x 173 cm",
+          "12 cm",
+          "11 kg",
+          "380 €"
+        ],
+        [
+          "Petzl Cirro",
+          "118 x 100 cm",
+          "10 cm",
+          "6.4 kg",
+          "260 €"
+        ],
+        [
+          "Organic Big Pad",
+          "122 x 152 cm",
+          "10 cm",
+          "8 kg",
+          "350 €"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Mon crashpad actuel et pourquoi"
+    },
+    {
+      "type": "p",
+      "html": "J'utilise un <strong>Mad Rock Mad Pad</strong> depuis trois ans. Acheté 200 euros, 10 cm d'épaisseur, mousse mixte PE PU, surface 121 par 91 cm. Suffisant pour 90 % de mes blocs à Fontainebleau et au Saussois. Pour les blocs hauts, j'emprunte un second pad chez un partenaire de bloc régulier. Cette stratégie évite l'investissement dans un Black Diamond Mondo à 380 euros."
+    },
+    {
+      "type": "p",
+      "html": "Mon Mad Pad a déjà encaissé une vingtaine de chutes sévères. La mousse haute densité supérieure n'a pas perdu en fermeté, et les coutures tiennent toujours. Le seul point de vigilance, c'est le tissu de fond qui montre des signes d'abrasion sur les zones rocailleuses de Bleau. Rien d'inquiétant mais à surveiller dans deux ans."
+    },
+    {
+      "type": "quote",
+      "text": "Un bon crashpad et de bons paras valent mieux qu'un gros engagement physique. Le bloc demande humilité et préparation au sol.",
+      "author": "Antoine",
+      "role": "Rédacteur escalade-france.fr"
+    },
+    {
+      "type": "h2",
+      "text": "Stockage et entretien"
+    },
+    {
+      "type": "p",
+      "html": "Stocke ton crashpad ouvert ou plié à plat dans un endroit sec à l'abri des UV. Un crashpad rangé compressé six mois perd progressivement en propriétés d'absorption. Ne le laisse jamais en plein soleil en été, la chaleur dégrade la mousse interne. La voiture devient une étuve à 70 degrés rapidement, sors le pad systématiquement après chaque sortie."
+    },
+    {
+      "type": "p",
+      "html": "Pour nettoyer, utilise un linge humide et un savon doux sur le tissu extérieur. Évite l'eau qui peut s'infiltrer dans la mousse et créer des moisissures. En cas de mousse exposée à une forte humidité, laisse sécher plusieurs jours dans un endroit aéré avant de refermer. Pour aller plus loin sur l'équipement bloc, consulte <a href=\"/blog/matos-bloc-checklist\">la checklist matériel bloc</a> et <a href=\"/blog/materiel-escalade-essentiel\">le matériel d'escalade essentiel</a>."
+    }
   ],
   "faq": [
-    {"q": "Quelle épaisseur de crashpad pour débuter ?", "a": "Vise 10 cm minimum pour couvrir la majorité des blocs en falaise jusqu'à 4 m. Sous 8 cm, tu réserves aux blocs très bas en salle ou sur sol moelleux. Pour les blocs hauts au-dessus de 5 m, vise 12 cm ou utilise deux pads en complément."},
-    {"q": "Combien de crashpads emporter en falaise ?", "a": "Un crashpad personnel pour démarrer, mais en pratique tu grimpes rarement seul en bloc. Compte sur les pads de tes partenaires pour couvrir toute la zone de chute. Sur les blocs engagés, deux à trois pads alignés deviennent indispensables pour la sécurité."},
-    {"q": "Quel budget pour un crashpad fiable ?", "a": "Compte 200 à 300 euros pour un modèle polyvalent de marque reconnue type Mad Rock Mad Pad ou Petzl Cirro. 380 à 550 euros pour un grand crashpad haut de gamme type Black Diamond Mondo ou Organic Big Pad. Évite les premier prix sous 150 euros."},
-    {"q": "Mousse PU ou PE haute densité ?", "a": "La mousse PE haute densité résiste mieux au tassement et conserve ses propriétés 8 à 10 ans. La mousse PU classique se tasse en 3 à 4 ans d'usage régulier. Les meilleurs crashpads combinent une couche supérieure PE pour la fermeté et une couche inférieure PU pour l'absorption."},
-    {"q": "Comment porter son crashpad sur l'approche ?", "a": "Utilise le système intégré sangle d'épaules plus sangle ventrale stabilisante. Les bons modèles comme Mad Rock Triple Mad Pad ou Black Diamond Drop Zone intègrent même des poches latérales pour chaussons et brosses. Sur les approches très longues, prévois 30 % de temps en plus qu'avec un simple sac."},
-    {"q": "Combien d'années un crashpad dure-t-il ?", "a": "Un crashpad de qualité avec mousse haute densité tient 8 à 10 ans en usage régulier. Un modèle bas de gamme se tasse en 3 à 4 ans. Inspecte régulièrement les coutures, le tissu extérieur et surtout la fermeté de la mousse. Si elle se tasse durablement, il est temps de remplacer."}
+    {
+      "q": "Quelle épaisseur de crashpad pour débuter ?",
+      "a": "Vise 10 cm minimum pour couvrir la majorité des blocs en falaise jusqu'à 4 m. Sous 8 cm, tu réserves aux blocs très bas en salle ou sur sol moelleux. Pour les blocs hauts au-dessus de 5 m, vise 12 cm ou utilise deux pads en complément."
+    },
+    {
+      "q": "Combien de crashpads emporter en falaise ?",
+      "a": "Un crashpad personnel pour démarrer, mais en pratique tu grimpes rarement seul en bloc. Compte sur les pads de tes partenaires pour couvrir toute la zone de chute. Sur les blocs engagés, deux à trois pads alignés deviennent indispensables pour la sécurité."
+    },
+    {
+      "q": "Quel budget pour un crashpad fiable ?",
+      "a": "Compte 200 à 300 euros pour un modèle polyvalent de marque reconnue type Mad Rock Mad Pad ou Petzl Cirro. 380 à 550 euros pour un grand crashpad haut de gamme type Black Diamond Mondo ou Organic Big Pad. Évite les premier prix sous 150 euros."
+    },
+    {
+      "q": "Mousse PU ou PE haute densité ?",
+      "a": "La mousse PE haute densité résiste mieux au tassement et conserve ses propriétés 8 à 10 ans. La mousse PU classique se tasse en 3 à 4 ans d'usage régulier. Les meilleurs crashpads combinent une couche supérieure PE pour la fermeté et une couche inférieure PU pour l'absorption."
+    },
+    {
+      "q": "Comment porter son crashpad sur l'approche ?",
+      "a": "Utilise le système intégré sangle d'épaules plus sangle ventrale stabilisante. Les bons modèles comme Mad Rock Triple Mad Pad ou Black Diamond Drop Zone intègrent même des poches latérales pour chaussons et brosses. Sur les approches très longues, prévois 30 % de temps en plus qu'avec un simple sac."
+    },
+    {
+      "q": "Combien d'années un crashpad dure-t-il ?",
+      "a": "Un crashpad de qualité avec mousse haute densité tient 8 à 10 ans en usage régulier. Un modèle bas de gamme se tasse en 3 à 4 ans. Inspecte régulièrement les coutures, le tissu extérieur et surtout la fermeté de la mousse. Si elle se tasse durablement, il est temps de remplacer."
+    }
   ],
   "cover_alt": "Crashpad Mad Rock Mad Pad déplié au pied d'un bloc de grès en forêt de Fontainebleau",
   "internal_links": [
-    {"slug": "matos-bloc-checklist", "anchor": "la checklist matériel bloc", "context": "Équipement complet bloc"},
-    {"slug": "brosse-grimpe-entretien-prises", "anchor": "la brosse à prises", "context": "Accessoire bloc"},
-    {"slug": "magnesie-types-grimpe", "anchor": "la magnésie en grimpe", "context": "Accessoire bloc"},
-    {"slug": "materiel-escalade-essentiel", "anchor": "le matériel d'escalade essentiel", "context": "Pilier matériel"}
+    {
+      "slug": "matos-bloc-checklist",
+      "anchor": "la checklist matériel bloc",
+      "context": "Équipement complet bloc"
+    },
+    {
+      "slug": "brosse-grimpe-entretien-prises",
+      "anchor": "la brosse à prises",
+      "context": "Accessoire bloc"
+    },
+    {
+      "slug": "magnesie-types-grimpe",
+      "anchor": "la magnésie en grimpe",
+      "context": "Accessoire bloc"
+    },
+    {
+      "slug": "materiel-escalade-essentiel",
+      "anchor": "le matériel d'escalade essentiel",
+      "context": "Pilier matériel"
+    }
   ],
   "scheduled_at": "2026-09-05T09:00:00+02:00"
 }

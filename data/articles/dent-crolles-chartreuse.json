@@ -3,7 +3,7 @@
   "cocon": "sites",
   "type_article": "guide",
   "numero": 95,
-  "title": "Dent de Crolles : classique de Chartreuse, Isère",
+  "title": "Dent de Crolles | classique des grandes voies de Chartreuse",
   "h1": "Dent de Crolles, classique de Chartreuse en Isère.",
   "description": "Guide de la Dent de Crolles en Chartreuse : voie normale, La Petite Vire, calcaire karstique, accès et grottes. Tout pour préparer ta sortie.",
   "chapo": "La Dent de Crolles domine la vallée du Grésivaudan avec sa silhouette caractéristique. Massif de Chartreuse, calcaire urgonien strié de grottes, voies historiques et belvédère sur les Alpes. Je l'ai parcourue plusieurs fois depuis mes premières grandes voies en Isère. Tu trouveras ici tout ce qu'il faut pour viser le sommet sans te perdre dans le dédale karstique.",
@@ -21,7 +21,7 @@
     },
     {
       "type": "p",
-      "html": "Quand tu descends l'autoroute Grenoble-Chambéry, la <strong>Dent de Crolles</strong> se dresse à l'ouest comme un fanion calcaire planté sur la Chartreuse. La silhouette à deux dents marque l'horizon iséroois depuis Grenoble. La première fois que je l'ai parcourue, j'avais quinze ans, en sortie avec le club d'escalade. La voie normale m'avait paru engagée pour mon niveau, le rocher poli par des décennies de passages, et le panorama au sommet inoubliable avec Belledonne en face."
+      "html": "Quand tu descends l'autoroute Grenoble-Chambéry, la <strong>Dent de Crolles</strong> se dresse à l'ouest comme un fanion calcaire planté sur la Chartreuse. La silhouette à deux dents marque l'horizon iséroois depuis Grenoble. La première fois que je l'ai parcourue, j'avais quinze ans, en sortie avec le club d'escalade. La voie normale m'avait paru engagée pour mon niveau, le rocher poli par des décennies de passages, et le <strong>pan</strong>orama au sommet inoubliable avec Belledonne en face."
     },
     {
       "type": "p",
@@ -37,7 +37,7 @@
     },
     {
       "type": "p",
-      "html": "Le massif est taillé dans le calcaire urgonien, une roche sédimentaire blanche formée il y a 130 millions d'années dans une mer chaude tropicale. L'érosion karstique a creusé la pierre en profondeur, créant des dizaines de kilomètres de galeries souterraines. Le trou du Glaz, la grotte Annette, le P40 forment un réseau exploré depuis le début du vingtième siècle. Cette particularité géologique explique aussi les formes de surface : lapiaz coupants, dolines profondes, falaises à strates marquées."
+      "html": "Le massif est taillé dans le calcaire urgonien, une roche sédimentaire blanche formée il y a 130 millions d'années dans une mer chaude tropicale. L'érosion karstique a creusé la pierre en profondeur, créant des dizaines de kilomètres de galeries souterraines. Le trou du Glaz, la grotte Annette, le P40 forment un réseau exploré depuis le début du vingtième siècle. Cette particularité géologique explique aussi les formes de surface : lapiaz cou<strong>pan</strong>ts, dolines profondes, falaises à strates marquées."
     },
     {
       "type": "p",
@@ -46,16 +46,43 @@
     {
       "type": "table",
       "caption": "Fiche d'identité de la Dent de Crolles",
-      "headers": ["Critère", "Détail"],
+      "headers": [
+        "Critère",
+        "Détail"
+      ],
       "rows": [
-        ["Altitude sommet", "2 062 mètres"],
-        ["Massif", "Chartreuse, Isère (38)"],
-        ["Type de rocher", "Calcaire urgonien, parfois poli"],
-        ["Discipline", "Grande voie, voie normale, alpinisme rocheux"],
-        ["Cotations", "D inférieur à TD selon les itinéraires"],
-        ["Période idéale", "Mai à octobre, attention orages d'été"],
-        ["Accès", "Col du Coq depuis Saint-Hilaire-du-Touvet ou Saint-Pancrasse"],
-        ["Approche", "1 h 30 à 2 h depuis le col du Coq"]
+        [
+          "Altitude sommet",
+          "2 062 mètres"
+        ],
+        [
+          "Massif",
+          "Chartreuse, Isère (38)"
+        ],
+        [
+          "Type de rocher",
+          "Calcaire urgonien, parfois poli"
+        ],
+        [
+          "Discipline",
+          "Grande voie, voie normale, alpinisme rocheux"
+        ],
+        [
+          "Cotations",
+          "D inférieur à TD selon les itinéraires"
+        ],
+        [
+          "Période idéale",
+          "Mai à octobre, attention orages d'été"
+        ],
+        [
+          "Accès",
+          "Col du Coq depuis Saint-Hilaire-du-Touvet ou Saint-Pancrasse"
+        ],
+        [
+          "Approche",
+          "1 h 30 à 2 h depuis le col du Coq"
+        ]
       ]
     },
     {
@@ -87,12 +114,30 @@
       "variant": "bullets",
       "title": "Les voies à connaître sur la Dent de Crolles",
       "items": [
-        {"title": "Voie normale", "body": "Cheminée Marcel, D inférieur, 300 mètres, classique pour grimpeur autonome."},
-        {"title": "La Petite Vire", "body": "Traversée aérienne, sans difficulté technique, vertige garanti."},
-        {"title": "Berhault-Boivin", "body": "6b+, classique sportive sur la face est, 6 longueurs équipées."},
-        {"title": "La Lune Bleue", "body": "6c, voie moderne bien équipée, ambiance verticale."},
-        {"title": "Voie des dalles", "body": "5c+, parfait pour première grande voie en Chartreuse."},
-        {"title": "Pilier sud", "body": "TD inférieur, terrain d'aventure pour grimpeur expérimenté."}
+        {
+          "title": "Voie normale",
+          "body": "Cheminée Marcel, D inférieur, 300 mètres, classique pour grimpeur autonome."
+        },
+        {
+          "title": "La Petite Vire",
+          "body": "Traversée aérienne, sans difficulté technique, vertige garanti."
+        },
+        {
+          "title": "Berhault-Boivin",
+          "body": "6b+, classique sportive sur la face est, 6 longueurs équipées."
+        },
+        {
+          "title": "La Lune Bleue",
+          "body": "6c, voie moderne bien équipée, ambiance verticale."
+        },
+        {
+          "title": "Voie des dalles",
+          "body": "5c+, parfait pour première grande voie en Chartreuse."
+        },
+        {
+          "title": "Pilier sud",
+          "body": "TD inférieur, terrain d'aventure pour grimpeur expérimenté."
+        }
       ]
     },
     {
@@ -162,10 +207,26 @@
   ],
   "cover_alt": "Vue sur la Dent de Crolles en Chartreuse, falaises calcaires dominant la vallée du Grésivaudan",
   "internal_links": [
-    {"slug": "sites-escalade-emblematiques-france", "anchor": "notre panorama des sites français", "context": "Pilier du cocon"},
-    {"slug": "mont-aiguille-vercors-pionnier", "anchor": "le guide du Mont Aiguille", "context": "Autre sommet iséroois emblématique"},
-    {"slug": "claudes-romans-isere-classique", "anchor": "les classiques iséroises des Claudes", "context": "Site régional d'initiation"},
-    {"slug": "annot-grès-roses-alpes", "anchor": "le grès rose d'Annot", "context": "Autre site alpin original"}
+    {
+      "slug": "sites-escalade-emblematiques-france",
+      "anchor": "notre panorama des sites français",
+      "context": "Pilier du cocon"
+    },
+    {
+      "slug": "mont-aiguille-vercors-pionnier",
+      "anchor": "le guide du Mont Aiguille",
+      "context": "Autre sommet iséroois emblématique"
+    },
+    {
+      "slug": "claudes-romans-isere-classique",
+      "anchor": "les classiques iséroises des Claudes",
+      "context": "Site régional d'initiation"
+    },
+    {
+      "slug": "annot-grès-roses-alpes",
+      "anchor": "le grès rose d'Annot",
+      "context": "Autre site alpin original"
+    }
   ],
   "scheduled_at": "2026-12-10T09:00:00+01:00"
 }
