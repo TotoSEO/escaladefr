@@ -273,8 +273,14 @@ export default async function BlogArticlePage(
 
             {/* Auteur / signature */}
             <div className="mt-16 flex flex-col gap-5 rounded-3xl border border-white/10 bg-coal-900/60 px-6 py-7 sm:flex-row sm:gap-7 sm:px-8 sm:py-9">
-              <div className="flex h-16 w-16 shrink-0 items-center justify-center rounded-full bg-primary/15 font-display text-2xl font-medium italic text-primary sm:h-20 sm:w-20">
-                A
+              <div className="relative h-16 w-16 shrink-0 overflow-hidden rounded-full ring-1 ring-white/10 sm:h-20 sm:w-20">
+                <Image
+                  src="/blog/antoine-escalade-france.webp"
+                  alt="Antoine, rédacteur d'escalade-france.fr"
+                  fill
+                  sizes="80px"
+                  className="object-cover"
+                />
               </div>
               <div>
                 <p className="font-mono text-[10px] uppercase tracking-[0.22em] text-primary">
