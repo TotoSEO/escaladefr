@@ -25,7 +25,7 @@
     },
     {
       "type": "p",
-      "html": "Cette économie du sommet prolonge directement <a href=\"/blog/histoire-escalade-france-alpes-salle\">la grande histoire de la grimpe française</a> qui a vu naître la professionnalisation. Adam Ondra, Janja Garnbret, <a href=\"/blog/alex-honnold-free-solo-el-cap\">Alex Honnold</a>, <a href=\"/blog/chris-sharma-pionnier\">Chris Sharma</a> figurent en haut de cette pyramide. Leurs contrats cumulés avec plusieurs marques dépassent les 500 000 euros par an, parfois plus pour les figures à fort impact médiatique. À ces revenus s'ajoutent les primes de compétition, les royalties sur produits signature, les revenus de conférences et de droits d'image. Honnold a engrangé plusieurs millions de dollars après le succès de Free Solo en 2018."
+      "html": "Cette économie du sommet prolonge directement <a href=\"/blog/histoire-escalade-france-alpes-salle\">la grande histoire de la grimpe française</a> qui a vu naître la professionnalisation. Adam Ondra, Janja Garnbret, Alex Honnold ou Chris Sharma figurent en haut de cette pyramide. Leurs contrats cumulés avec plusieurs marques dépassent les 500 000 euros par an, parfois plus pour les figures à fort impact médiatique. À ces revenus s'ajoutent les primes de compétition, les royalties sur produits signature, les revenus de conférences et de droits d'image. Honnold a engrangé plusieurs millions de dollars après le succès de Free Solo en 2018."
     },
     {
       "type": "p",
@@ -61,7 +61,7 @@
     },
     {
       "type": "p",
-      "html": "Instagram joue un rôle complémentaire. Les contrats incluent souvent un nombre minimum de publications par mois, avec des hashtags et mentions spécifiques. Une publication d'un grimpeur avec 200 000 abonnés peut valoir 500 à 2 000 euros selon la marque et le ciblage. Les revenus cumulés à l'année peuvent dépasser le SMIC pour les profils les plus actifs, sans atteindre les standards du sport business classique décrits dans <a href=\"/blog/livres-escalade-references\">les livres d'escalade de référence</a>."
+      "html": "Instagram joue un rôle complémentaire. Les contrats incluent souvent un nombre minimum de publications par mois, avec des hashtags et mentions spécifiques. Une publication d'un grimpeur avec 200 000 abonnés peut valoir 500 à 2 000 euros selon la marque et le ciblage. Les revenus cumulés à l'année peuvent dépasser le SMIC pour les profils les plus actifs, sans atteindre les standards des grands sports professionnels. <a href=\"/blog/livres-escalade-references\">Les biographies de grimpeurs professionnels</a> détaillent souvent les coulisses de cette économie singulière."
     },
     {
       "type": "list",
@@ -96,7 +96,7 @@
     },
     {
       "type": "p",
-      "html": "Le <strong>financement participatif</strong> est devenu un complément important pour les grimpeurs qui veulent réaliser un projet ambitieux. Une expédition au Karakoram, l'ouverture d'une voie en grande paroi, la production d'un documentaire à la hauteur des <a href=\"/blog/films-escalade-meilleurs\">meilleurs films d'escalade</a>. Les plateformes Kickstarter, Ulule et Helloasso accueillent régulièrement ces campagnes. Les contributeurs récupèrent souvent un produit ou une expérience en contrepartie : poster signé, journée d'escalade avec le grimpeur, projection privée du film final."
+      "html": "Le <strong>financement participatif</strong> est devenu un complément important pour les grimpeurs qui veulent réaliser un projet ambitieux. Une expédition au Karakoram, l'ouverture d'une voie en grande paroi, la production d'un documentaire qui ambitionne de rejoindre <a href=\"/blog/films-escalade-meilleurs\">les films qui ont marqué l'histoire de l'escalade</a>. Les plateformes Kickstarter, Ulule et Helloasso accueillent régulièrement ces campagnes. Les contributeurs récupèrent souvent un produit ou une expérience en contrepartie : poster signé, journée d'escalade avec le grimpeur, projection privée du film final."
     },
     {
       "type": "p",
@@ -120,7 +120,7 @@
     },
     {
       "type": "p",
-      "html": "Antoine suit régulièrement plusieurs de ces blogs depuis son lycée. Le blog d'Adam Ondra mis à jour irrégulièrement reste une référence pour comprendre la stratégie d'un grimpeur de très haut niveau. Les analyses de Lattice Training ont changé sa propre approche de l'entraînement. La diffusion d'expertise écrite garde une niche solide même à l'ère de la vidéo."
+      "html": "Antoine suit régulièrement plusieurs de ces blogs depuis ses premières années de grimpe. Le blog d'Adam Ondra mis à jour irrégulièrement reste une référence pour comprendre la stratégie d'un grimpeur de très haut niveau. Les analyses de Lattice Training ont changé sa propre approche de l'entraînement. La diffusion d'expertise écrite garde une niche solide même à l'ère de la vidéo."
     },
     {
       "type": "h2",
@@ -158,7 +158,7 @@
     },
     {
       "type": "p",
-      "html": "La culture de la pratique éclaire les modèles économiques qui en découlent."
+      "html": "La culture de la pratique éclaire les modèles économiques qui en découlent. Vivre des cailloux, c'est faire des choix conscients sur la durée et accepter une économie singulière, héritière d'une tradition longue mais en mutation rapide."
     }
   ],
   "faq": [
@@ -186,29 +186,19 @@
   "cover_alt": "Van aménagé garé au pied d'une falaise calcaire au coucher du soleil, grimpeur installé sur le marche-pied avec ordinateur portable, cordes et sacs alentour, scène de vie de dirtbag moderne",
   "internal_links": [
     {
+      "slug": "histoire-escalade-france-alpes-salle",
+      "anchor": "la grande histoire de la grimpe française",
+      "context": "pilier culture, premier lien interne"
+    },
+    {
       "slug": "livres-escalade-references",
-      "anchor": "livres de référence sur l'escalade",
-      "context": "complément culturel"
+      "anchor": "Les biographies de grimpeurs professionnels",
+      "context": "complément culturel, coulisses économiques"
     },
     {
       "slug": "films-escalade-meilleurs",
-      "anchor": "films incontournables",
-      "context": "complément culturel"
-    },
-    {
-      "slug": "histoire-escalade-france-alpes-salle",
-      "anchor": "histoire de l'escalade en France",
-      "context": "pilier culture"
-    },
-    {
-      "slug": "alex-honnold-free-solo-el-cap",
-      "anchor": "trajectoire d'Alex Honnold",
-      "context": "exemple de modèle économique"
-    },
-    {
-      "slug": "chris-sharma-pionnier",
-      "anchor": "parcours de Chris Sharma",
-      "context": "pionnier du dirtbag moderne"
+      "anchor": "les films qui ont marqué l'histoire de l'escalade",
+      "context": "ambition documentaire des projets financés"
     }
   ],
   "scheduled_at": "2027-05-04T09:00:00+02:00"
