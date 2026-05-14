@@ -5,7 +5,7 @@
   "numero": 80,
   "title": "Fontainebleau, la capitale mondiale du bloc en forêt",
   "h1": "Fontainebleau, capitale mondiale du bloc en forêt",
-  "description": "Découvre Fontainebleau, berceau du bloc, ses grès, ses circuits historiques et ses secteurs mythiques. Tout sur la grimpe à Bleau au fil des saisons.",
+  "description": "Fontainebleau, berceau du bloc, ses grès, ses circuits historiques et ses secteurs mythiques. Tout sur la grimpe à Bleau au fil des saisons.",
   "chapo": "Fontainebleau, c'est plus qu'une forêt avec des cailloux. C'est la mère patrie du bloc moderne, le terrain où Pierre Allain a inventé la grimpe en chaussons collants. On y trouve 30 000 blocs répartis dans des massifs aux noms chantants. Je te raconte ce qui rend cet endroit unique, ses circuits, sa géologie et comment l'aborder sans se perdre.",
   "takeaways": [
     "Fontainebleau réunit plus de 30 000 blocs de grès sur 25 000 hectares de forêt domaniale.",
@@ -91,7 +91,7 @@
     },
     {
       "type": "p",
-      "html": "Bleau ne se résume pas à un seul rocher. La forêt couvre un quadrilatère qui s'étend de Bois-le-Roi au nord jusqu'à Larchant au sud-ouest, en passant par Milly-la-Forêt et Nemours. Les secteurs principaux se répartissent dans trois grands ensembles. Le massif des Trois Pignons abrite des sites historiques comme le Cul du Chien, le 95.2 et le Diplodocus. Le massif central de la forêt regroupe <strong>Bas Cuvier</strong>, <strong>Apremont</strong> et Franchard, plus accessibles en train. Au sud-ouest, le secteur de Larchant ajoute encore des dizaines de plateaux moins fréquentés."
+      "html": "Bleau ne se résume pas à un seul rocher. La forêt couvre un quadrilatère qui s'étend de Bois-le-Roi au nord jusqu'à Larchant au sud-ouest, en passant par Milly-la-Forêt et Nemours. <a href=\"/blog/bleau-secteurs-incontournables\">Les secteurs</a> principaux se répartissent dans trois grands ensembles. Le massif des Trois Pignons abrite des sites historiques comme le Cul du Chien, le 95.2 et le Diplodocus. Le massif central de la forêt regroupe <strong>Bas Cuvier</strong>, <strong>Apremont</strong> et Franchard, plus accessibles en train. Au sud-ouest, le secteur de Larchant ajoute encore des dizaines de plateaux moins fréquentés."
     },
     {
       "type": "p",
@@ -146,7 +146,7 @@
     },
     {
       "type": "p",
-      "html": "Beaucoup de circuits historiques sont entretenus par des bénévoles. L'<strong>ASOMIF</strong>, l'association des amis de la forêt, repeint les flèches et nettoie les approches. Le <strong>COSIROC</strong> coordonne avec l'<strong>ONF</strong> pour préserver l'accès et négocier les autorisations. Sans ce travail invisible, Bleau ne serait plus praticable. Pense à respecter les balisages, à ne pas tracer de nouveaux sentiers et à éviter de grimper sur le grès mouillé qui s'effrite et perd ses prises."
+      "html": "<a href=\"/blog/bleau-circuits-debutant\">Beaucoup de circuits</a> historiques sont entretenus par des bénévoles. L'<strong>ASOMIF</strong>, l'association des amis de la forêt, repeint les flèches et nettoie les approches. Le <strong>COSIROC</strong> coordonne avec l'<strong>ONF</strong> pour préserver l'accès et négocier les autorisations. Sans ce travail invisible, Bleau ne serait plus praticable. Pense à respecter les balisages, à ne pas tracer de nouveaux sentiers et à éviter de grimper sur le grès mouillé qui s'effrite et perd ses prises."
     },
     {
       "type": "h2",
@@ -192,7 +192,7 @@
     },
     {
       "type": "p",
-      "html": "Pour comparer avec d'autres sites majeurs, va voir notre <a href=\"/blog/sites-escalade-emblematiques-france\">tour des sites emblématiques de France</a> ou plonge dans les <a href=\"/blog/verdon-grandes-voies\">grandes voies du Verdon</a>."
+      "html": "Pour comparer avec d'autres sites majeurs, parcours les <a href=\"/blog/sites-escalade-emblematiques-france\">sites d'escalade emblématiques de France</a> ou plonge dans les <a href=\"/blog/verdon-grandes-voies\">grandes voies du Verdon</a>."
     }
   ],
   "faq": [

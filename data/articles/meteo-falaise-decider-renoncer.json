@@ -21,7 +21,7 @@
     },
     {
       "type": "p",
-      "html": "Pour lire la météo en falaise, tu croises plusieurs sources de prévision. Nous proposons aussi <a href=\"/outils/meteo\">notre bulletin météo escalade par site</a> pour croiser rapidement orientation, ensoleillement et bulletin par site. Météo France reste la référence officielle, avec des bulletins de massif détaillés pour les zones de montagne. Windy offre une visualisation cartographique des vents et précipitations très lisible. Météo Blue donne des prévisions à 10 jours plus locales que Météo France. Aucune source seule n'est infaillible, le croisement reste le meilleur indicateur."
+      "html": "Pour lire la météo en falaise, tu croises plusieurs sources de prévision. Le <a href=\"/outils/meteo\">bulletin météo escalade par site</a> permet de croiser rapidement orientation, ensoleillement et bulletin local. Météo France reste la référence officielle, avec des bulletins de massif détaillés pour les zones de montagne. Windy offre une visualisation cartographique des vents et précipitations très lisible. Météo Blue donne des prévisions à 10 jours plus locales que Météo France. Aucune source seule n'est infaillible, le croisement reste le meilleur indicateur."
     },
     {
       "type": "p",
@@ -60,11 +60,11 @@
     },
     {
       "type": "p",
-      "html": "Une falaise calcaire mouillée la veille au soir reste mouillée toute la journée suivante, surtout <a href=\"/blog/securite-escalade-regles-essentielles\">sur les</a> voies en dévers. Le calcaire absorbe l'eau dans sa porosité, restitue l'humidité par évaporation lente, et l'adhérence sur les prises chute drastiquement. Le granite sèche plus vite mais reste glissant tant qu'il est humide. Le grès reste fragile mouillé et peut casser sous une charge même modérée, jamais grimper sur du grès humide."
+      "html": "Une falaise calcaire mouillée la veille au soir reste mouillée toute la journée suivante, surtout sur les voies en dévers, ce que rappellent les <a href=\"/blog/securite-escalade-regles-essentielles\">règles essentielles de sécurité en escalade</a>. Le calcaire absorbe l'eau dans sa porosité, restitue l'humidité par évaporation lente, et l'adhérence sur les prises chute drastiquement. Le granite sèche plus vite mais reste glissant tant qu'il est humide. Le grès reste fragile mouillé et peut casser sous une charge même modérée, jamais grimper sur du grès humide."
     },
     {
       "type": "p",
-      "html": "Le timing entre la fin de la pluie et l'escalade dépend de l'exposition. Une falaise sud bien aérée sèche en deux à quatre heures. Une falaise nord en forêt peut rester humide deux jours après l'épisode pluvieux."
+      "html": "Le timing entre la fin de la pluie et l'<a href=\"/blog/accidents-escalade-statistiques\">escalade</a> dépend de l'exposition. Une falaise sud bien aérée sèche en deux à quatre heures. Une falaise nord en forêt peut rester humide deux jours après l'épisode pluvieux."
     },
     {
       "type": "h2",
@@ -94,7 +94,7 @@
     },
     {
       "type": "p",
-      "html": "Pour les sites exposés au soleil, l'orientation change tout. Une <strong>falaise plein sud</strong> en été reste invivable jusqu'à 17h. Une falaise nord en hiver reste glaciale toute la journée. Tu adaptes ton <a href=\"/blog/partenaire-grimpe-confiance\">choix</a> de site à la saison, en suivant la règle simple : sud en hiver, nord en été, est ou ouest en demi saison. Cette logique <a href=\"/blog/rappel-securite-procedure\">guide</a> toute l'escalade française et explique pourquoi certains sites se vident à certaines périodes."
+      "html": "Pour les sites exposés au soleil, l'orientation change tout. Une <strong>falaise plein sud</strong> en été reste invivable jusqu'à 17h. Une falaise nord en hiver reste glaciale toute la journée. Tu adaptes ton choix de site à la saison, en t'appuyant sur un <a href=\"/blog/partenaire-grimpe-confiance\">partenaire de cordée de confiance</a>, en suivant la règle simple : sud en hiver, nord en été, est ou ouest en demi-saison. Cette logique structure toute l'escalade française et explique pourquoi certains sites se vident à certaines périodes. Pense aussi à intégrer la <a href=\"/blog/rappel-securite-procedure\">procédure de rappel en sécurité</a> dans ton plan B quand la météo tourne."
     },
     {
       "type": "h2",
@@ -118,7 +118,7 @@
     },
     {
       "type": "p",
-      "html": "Tu consultes les prévisions d'<strong>activité orageuse</strong> (sites comme Météociel ou Lightning Maps) <a href=\"/blog/check-list-avant-grimper\">avant</a> chaque sortie estivale. Tu pars tôt pour grimper le matin et redescendre avant 14h, heure de déclenchement classique. Si l'orage menace, tu <strong>redescends immédiatement</strong> en grande voie, tu ne termines pas la dernière longueur."
+      "html": "Tu consultes les prévisions d'<strong>activité orageuse</strong> (sites comme Météociel ou Lightning Maps) <a href=\"/blog/check-list-avant-grimper\">check-list avant de grimper</a> chaque sortie estivale. Tu pars tôt pour grimper le matin et redescendre avant 14h, heure de déclenchement classique. Si l'orage menace, tu <strong>redescends immédiatement</strong> en grande voie, tu ne termines pas la dernière longueur."
     },
     {
       "type": "tip",
@@ -203,7 +203,7 @@
     },
     {
       "type": "h2",
-      "text": "Pour approfondir ta préparation"
+      "text": "La météo dans une préparation plus large"
     },
     {
       "type": "p",
