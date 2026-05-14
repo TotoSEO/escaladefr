@@ -3,7 +3,7 @@
   "cocon": "preparation",
   "type_article": "guide",
   "numero": 124,
-  "title": "Endurance et continuité en escalade : protocoles utiles",
+  "title": "Endurance et continuité en escalade, protocoles utiles",
   "h1": "Travailler l'endurance et la continuité du grimpeur",
   "description": "Protocoles d'endurance de force, capacité aérobie, ARC training et 4x4 pour grimpeur : comment travailler la continuité en bloc et en falaise sportive.",
   "chapo": "L'endurance, c'est ce qui te permet d'enchaîner 25 mouvements sans tomber, ou de claquer trois voies dans une journée à Buoux. Trois qualités à travailler : capacité aérobie, endurance de force, résistance à l'acidose. Voici les protocoles que j'utilise depuis quatre ans pour tenir mes projets longs en falaise sportive.",
@@ -15,59 +15,219 @@
     "Alterne phases d'endurance et phases de force pour ne pas plafonner."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Les trois qualités d'endurance du grimpeur"},
-    {"type": "p", "html": "L'endurance en grimpe n'est pas une qualité unique. Tu as d'abord la <strong>capacité aérobie</strong>, qui te permet de grimper longtemps à intensité modérée. Tu as ensuite l'<strong>endurance de force</strong>, capacité à répéter des contractions fortes. Tu as enfin la <strong>résistance à l'acidose</strong>, ta tolérance au lactate qui s'accumule quand tu tires fort longtemps."},
-    {"type": "p", "html": "Chacune se travaille avec des protocoles différents. Si tu pompes après 15 mouvements sur une voie facile, c'est ta capacité aérobie qui pèche. Si tu sors une 7a flash mais que tu n'enchaînes pas une 6c+ une heure plus tard, c'est ta récupération entre essais. Si tu tombes systématiquement au crux après 20 mouvements, c'est ta tolérance au lactate. Diagnostic d'abord, protocole ensuite."},
-    {"type": "h2", "text": "ARC training pour la capacité aérobie"},
-    {"type": "p", "html": "L'<strong>Aerobic Restoration and Capillarity</strong>, ou ARC training, est le protocole de base de l'endurance aérobie du grimpeur. Tu grimpes 20 à 45 minutes en continu à très faible intensité, sans jamais tomber. L'objectif est de développer la vascularisation des avant-bras et la capacité aérobie locale. Tu sentiras une légère brûlure stable, jamais de pompe forte."},
-    {"type": "p", "html": "Concrètement, je tourne sur une moulinette facile, deux niveaux en dessous de mon niveau max. Je grimpe lentement, je redescends, je remonte. Compte trois sessions par semaine pendant six à huit semaines pour des gains nets. Eric Hörst a popularisé cette méthode dans les années 2000, elle reste un classique des préparateurs physiques de Lattice."},
-    {"type": "list", "variant": "numbered", "title": "Séance ARC type 30 minutes", "items": [
-      {"title": "Échauffement 15 minutes", "body": "Cardio léger, mobilité, suspensions passives, deux voies faciles."},
-      {"title": "Bloc 1 : 10 minutes de continuité", "body": "Grimpe lente sur 5c-6a, sans descendre du mur. Repos 3 minutes."},
-      {"title": "Bloc 2 : 10 minutes de continuité", "body": "Même intensité, varie les profils. Repos 3 minutes."},
-      {"title": "Bloc 3 : 10 minutes de continuité", "body": "Même schéma. Tu finis avec une légère brûlure stable, jamais en pompant."},
-      {"title": "Retour au calme 5 minutes", "body": "Suspensions passives, étirements légers des avant-bras."}
-    ]},
-    {"type": "h2", "text": "Le 4x4 pour la résistance à l'acidose"},
-    {"type": "p", "html": "Le 4x4 est un protocole créé pour travailler la <strong>résistance à l'acidose</strong>, la tolérance au lactate qui s'accumule en fin de voie. Tu choisis quatre blocs à ton niveau confirmé. Tu les enchaînes en boucle, quatre tours, sans poser pied à terre entre les blocs d'une même série. Trois minutes de repos entre les séries."},
-    {"type": "p", "html": "Ce protocole brûle. Tu finis chaque série en pompant fort, les avant-bras en feu. C'est le but. Tu apprends à fonctionner malgré l'acidose. Deux séances de 4x4 par semaine maximum, jamais plus. Plus, tu craques en blessure ou en surmenage. J'ai gagné un cran et demi en falaise sur huit semaines de 4x4 régulier."},
-    {"type": "table", "caption": "Protocoles d'endurance selon objectif", "headers": ["Qualité travaillée", "Protocole", "Intensité", "Fréquence"],
-    "rows": [
-      ["Capacité aérobie", "ARC training", "Très faible", "3 fois par semaine"],
-      ["Endurance de force", "Continuité chargée", "Modérée à forte", "2 fois par semaine"],
-      ["Résistance acidose", "4x4 ou 6x6", "Forte", "1 à 2 fois par semaine"],
-      ["Récupération", "Voies faciles", "Très faible", "Selon ressenti"]
-    ]},
-    {"type": "tip", "title": "Erreur classique", "body": "Faire du 4x4 toutes les séances en pensant que c'est l'exercice miracle. Tu surcharges ton système, tu accumules de la fatigue chronique, tu finis en tendinopathie au coude après quatre semaines. Le 4x4 doit rester un protocole ponctuel, pas un standard de séance.", "tone": "erreur"},
-    {"type": "h2", "text": "Endurance de force et continuité chargée"},
-    {"type": "p", "html": "L'endurance de force se travaille sur des voies dures grimpées en continu. Tu choisis une voie deux niveaux en dessous de ton max, type 6c+ si tu fais du 7c. Tu l'enchaînes sans repos, puis tu redescends à pied, tu reposes 3 minutes, tu remontes. Quatre à six tours par séance. Tu sens la pompe monter progressivement, tu apprends à grimper avec."},
-    {"type": "p", "html": "Cette qualité fait la différence sur les voies longues type Verdon ou Céüse. À <strong>Céüse</strong>, les 35 mètres de calcaire bleu enchaînés demandent une endurance de force solide pour ne pas exploser à la 25ᵉ mouvement. La <a href=\"/blog/lecture-voie-strategie\">lecture stratégique de la voie</a> aide aussi, mais l'endurance reste le moteur."},
-    {"type": "h2", "text": "Périodisation sur l'année"},
-    {"type": "p", "html": "Tu ne peux pas travailler endurance et force max en même temps avec efficacité. Le système nerveux n'aime pas le mélange des intensités. Mon planning sur une année type : trois mois force max en hiver, deux mois force-endurance au printemps, trois mois endurance et continuité avant la saison falaise estivale, repos transitionnel deux à trois semaines."},
-    {"type": "p", "html": "Cette périodisation s'inspire des modèles de l'entraînement sportif classique. Les coachs de la FFME utilisent un schéma similaire pour les jeunes en équipe nationale. Sur quatre ans de pratique, j'ai senti que cette structure annuelle m'a fait progresser deux fois plus vite qu'avec un planning aléatoire."},
-    {"type": "h2", "text": "Endurance en bloc, oui ou non ?"},
-    {"type": "p", "html": "En bloc pur, l'endurance compte moins qu'en falaise. Un problème de bloc dure 4 à 8 mouvements maximum. Mais l'endurance de récupération entre essais reste utile. Si tu fais 30 essais sur un projet en deux heures, ton métabolisme de récupération devient un facteur clé. Travailler l'ARC apporte aussi ce bénéfice indirect."},
-    {"type": "p", "html": "En compétition de bloc, où tu enchaînes 4 ou 5 problèmes en 4 minutes chacun, l'endurance redevient capitale. Les boulderers d'élite font tous de l'ARC, contrairement à ce qu'on pourrait croire. Adam Ondra parle régulièrement de son travail aérobie en intersaison, même pour le bloc."},
-    {"type": "h2", "text": "Mes erreurs sur l'endurance"},
-    {"type": "p", "html": "J'ai longtemps cru que l'endurance se travaillait juste en grimpant beaucoup. Erreur. J'ai grimpé 20 jours par mois pendant un an, sans protocole. Résultat : peu de gains, beaucoup de petites blessures cumulées. Le déclic est venu en suivant un programme de Lattice Training pendant huit semaines : trois séances ARC, deux séances 4x4, le reste en récupération. Sur cette période, j'ai gagné un cran net."},
-    {"type": "quote", "text": "Grimper plus ne suffit pas. Grimper structuré change la donne. La différence entre les deux fait passer du 7a au 8a en deux ans, ou jamais.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
-    {"type": "p", "html": "Pour compléter ton entraînement, lis <a href=\"/blog/grip-strength-poutre-pan\">travailler les doigts à la poutre et au pan</a> et <a href=\"/blog/recuperation-active-jours-off\">récupération active et jours off</a>. La <a href=\"/blog/preparer-corps-tete-grimpe\">préparation physique et mentale du grimpeur</a> détaille la périodisation annuelle."}
+    {
+      "type": "h2",
+      "text": "Les trois qualités d'endurance du grimpeur"
+    },
+    {
+      "type": "p",
+      "html": "L'endurance en grimpe n'est pas une qualité unique. Tu as d'abord la <strong>capacité aérobie</strong>, qui te permet de grimper longtemps à intensité modérée. Tu as ensuite l'<strong>endurance de force</strong>, capacité à répéter des contractions fortes. Tu as enfin la <strong>résistance à l'acidose</strong>, ta tolérance au lactate qui s'accumule quand tu tires fort longtemps."
+    },
+    {
+      "type": "p",
+      "html": "Chacune se travaille avec des protocoles différents. Si tu pompes après 15 mouvements sur une voie facile, c'est ta capacité aérobie qui pèche. Si tu sors une 7a flash mais que tu n'enchaînes pas une 6c+ une heure plus tard, c'est ta récupération entre essais. Si tu tombes systématiquement au crux après 20 mouvements, c'est ta tolérance au lactate. Diagnostic d'abord, protocole ensuite."
+    },
+    {
+      "type": "h2",
+      "text": "ARC training pour la capacité aérobie"
+    },
+    {
+      "type": "p",
+      "html": "L'<strong>Aerobic Restoration and Capillarity</strong>, ou ARC training, est le protocole de base de l'endurance aérobie du grimpeur. Tu grimpes 20 à 45 minutes en continu à très faible intensité, sans jamais tomber. L'objectif est de développer la vascularisation des avant-bras et la capacité aérobie locale. Tu sentiras une légère brûlure stable, jamais de pompe forte."
+    },
+    {
+      "type": "p",
+      "html": "Concrètement, je tourne sur une moulinette facile, deux niveaux en dessous de mon niveau max. Je grimpe lentement, je redescends, je remonte. Compte trois sessions par semaine pendant six à huit semaines pour des gains nets. Eric Hörst a popularisé cette méthode dans les années 2000, elle reste un classique des préparateurs physiques de Lattice."
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Séance ARC type 30 minutes",
+      "items": [
+        {
+          "title": "Échauffement 15 minutes",
+          "body": "Cardio léger, mobilité, suspensions passives, deux voies faciles."
+        },
+        {
+          "title": "Bloc 1 : 10 minutes de continuité",
+          "body": "Grimpe lente sur 5c-6a, sans descendre du mur. Repos 3 minutes."
+        },
+        {
+          "title": "Bloc 2 : 10 minutes de continuité",
+          "body": "Même intensité, varie les profils. Repos 3 minutes."
+        },
+        {
+          "title": "Bloc 3 : 10 minutes de continuité",
+          "body": "Même schéma. Tu finis avec une légère brûlure stable, jamais en pompant."
+        },
+        {
+          "title": "Retour au calme 5 minutes",
+          "body": "Suspensions passives, étirements légers des avant-bras."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Le 4x4 pour la résistance à l'acidose"
+    },
+    {
+      "type": "p",
+      "html": "Le 4x4 est un protocole créé pour travailler la <strong>résistance à l'acidose</strong>, la tolérance au lactate qui s'accumule en fin de voie. Tu choisis quatre blocs à ton niveau confirmé. Tu les enchaînes en boucle, quatre tours, sans poser pied à terre entre les blocs d'une même série. Trois minutes de repos entre les séries."
+    },
+    {
+      "type": "p",
+      "html": "Ce protocole brûle. Tu finis chaque série en pompant fort, les avant-bras en feu. C'est le but. Tu apprends à fonctionner malgré l'acidose. Deux séances de 4x4 par semaine maximum, jamais plus. Plus, tu craques en blessure ou en surmenage. J'ai gagné un cran et demi en falaise sur huit semaines de 4x4 régulier."
+    },
+    {
+      "type": "table",
+      "caption": "Protocoles d'endurance selon objectif",
+      "headers": [
+        "Qualité travaillée",
+        "Protocole",
+        "Intensité",
+        "Fréquence"
+      ],
+      "rows": [
+        [
+          "Capacité aérobie",
+          "ARC training",
+          "Très faible",
+          "3 fois par semaine"
+        ],
+        [
+          "Endurance de force",
+          "Continuité chargée",
+          "Modérée à forte",
+          "2 fois par semaine"
+        ],
+        [
+          "Résistance acidose",
+          "4x4 ou 6x6",
+          "Forte",
+          "1 à 2 fois par semaine"
+        ],
+        [
+          "Récupération",
+          "Voies faciles",
+          "Très faible",
+          "Selon ressenti"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Erreur classique",
+      "body": "Faire du 4x4 toutes les séances en pensant que c'est l'exercice miracle. Tu surcharges ton système, tu accumules de la fatigue chronique, tu finis en tendinopathie au coude après quatre semaines. Le 4x4 doit rester un protocole ponctuel, pas un standard de séance.",
+      "tone": "erreur"
+    },
+    {
+      "type": "h2",
+      "text": "Endurance de force et continuité chargée"
+    },
+    {
+      "type": "p",
+      "html": "L'endurance de force se travaille sur des voies dures grimpées en continu. Tu choisis une voie deux niveaux en dessous de ton max, type 6c+ si tu fais du 7c. Tu l'enchaînes sans repos, puis tu redescends à pied, tu reposes 3 minutes, tu remontes. Quatre à six tours par séance. Tu sens la pompe monter progressivement, tu apprends à grimper avec."
+    },
+    {
+      "type": "p",
+      "html": "Cette qualité fait la différence sur les voies longues type Verdon ou Céüse. À <strong>Céüse</strong>, les 35 mètres de calcaire bleu enchaînés demandent une endurance de force solide pour ne pas exploser à la 25ᵉ mouvement. La <a href=\"/blog/lecture-voie-strategie\">lecture stratégique de la voie</a> aide aussi, mais l'endurance reste le moteur."
+    },
+    {
+      "type": "h2",
+      "text": "Périodisation sur l'année"
+    },
+    {
+      "type": "p",
+      "html": "Tu ne peux pas travailler endurance et force max en même temps avec efficacité. Le système nerveux n'aime pas le mélange des intensités. Mon planning sur une année type : trois mois force max en hiver, deux mois force-endurance au printemps, trois mois endurance et continuité avant la saison falaise estivale, repos transitionnel deux à trois semaines."
+    },
+    {
+      "type": "p",
+      "html": "Cette périodisation s'inspire des modèles de l'entraînement sportif classique. Les coachs de la FFME utilisent un schéma similaire pour les jeunes en équipe nationale. Sur quatre ans de pratique, j'ai senti que cette structure annuelle m'a fait progresser deux fois plus vite qu'avec un planning aléatoire."
+    },
+    {
+      "type": "h2",
+      "text": "Endurance en bloc, oui ou non ?"
+    },
+    {
+      "type": "p",
+      "html": "En bloc pur, l'endurance compte moins qu'en falaise. Un problème de bloc dure 4 à 8 mouvements maximum. Mais l'endurance de récupération entre essais reste utile. Si tu fais 30 essais sur un projet en deux heures, ton métabolisme de récupération devient un facteur clé. Travailler l'ARC apporte aussi ce bénéfice indirect."
+    },
+    {
+      "type": "p",
+      "html": "En compétition de bloc, où tu enchaînes 4 ou 5 problèmes en 4 minutes chacun, l'endurance redevient capitale. Les boulderers d'élite font tous de l'ARC, contrairement à ce qu'on pourrait croire. Adam Ondra parle régulièrement de son travail aérobie en intersaison, même pour le bloc."
+    },
+    {
+      "type": "h2",
+      "text": "Mes erreurs sur l'endurance"
+    },
+    {
+      "type": "p",
+      "html": "J'ai longtemps cru que l'endurance se travaillait juste en grimpant beaucoup. Erreur. J'ai grimpé 20 jours par mois pendant un an, sans protocole. Résultat : peu de gains, beaucoup de petites blessures cumulées. Le déclic est venu en suivant un programme de Lattice Training pendant huit semaines : trois séances ARC, deux séances 4x4, le reste en récupération. Sur cette période, j'ai gagné un cran net."
+    },
+    {
+      "type": "quote",
+      "text": "Grimper plus ne suffit pas. Grimper structuré change la donne. La différence entre les deux fait passer du 7a au 8a en deux ans, ou jamais.",
+      "author": "Antoine",
+      "role": "Rédacteur escalade-france.fr"
+    },
+    {
+      "type": "p",
+      "html": "La <a href=\"/blog/preparer-corps-tete-grimpe\">préparation physique et mentale du grimpeur</a> détaille la périodisation annuelle."
+    }
   ],
   "faq": [
-    {"q": "Combien de temps pour gagner en endurance grimpe ?", "a": "Compte huit à douze semaines de protocole structuré pour des gains nets. Tu sentiras d'abord moins de pompe sur les voies faciles, puis une récupération plus rapide entre essais, et enfin une tolérance plus haute à la fin de séance. La patience est essentielle pour l'endurance, c'est plus lent que la force max."},
-    {"q": "Faut-il faire du cardio en plus pour la grimpe ?", "a": "Le cardio général aide indirectement mais ne remplace pas l'endurance spécifique grimpe. Tu peux ajouter deux séances de vélo ou course par semaine pour la santé cardiovasculaire, mais consacre tes séances d'endurance grimpe à l'ARC ou au 4x4. Le spécifique prime sur le général."},
-    {"q": "Combien de fois par semaine faire du 4x4 ?", "a": "Maximum deux fois par semaine, et seulement pendant des blocs de quatre à six semaines, pas en permanence. Au-delà, tu accumules de la fatigue chronique et tu déclenches des tendinopathies. Espace les séances 4x4 de 72 heures minimum pour permettre la récupération complète."},
-    {"q": "L'ARC training ennuie, est-ce vraiment efficace ?", "a": "Oui, c'est démontré par plusieurs études et confirmé par les programmes de Lattice. L'effet est lent mais durable. Pour rendre ça moins ennuyeux, varie les profils, écoute de la musique, grimpe en autocoaching technique. Tu peux aussi le faire avec un partenaire en alternance pour casser la monotonie."},
-    {"q": "Endurance avant ou après force max dans la séance ?", "a": "Si tu mélanges, fais la force max en premier, l'endurance en second. La force max demande de la fraîcheur neurale, l'endurance non. L'inverse abîme les gains de force. Mais idéalement, sépare les deux qualités sur des séances différentes, c'est plus efficace pour les deux."},
-    {"q": "Peut-on travailler l'endurance à 50 ans ?", "a": "Oui, et c'est même particulièrement utile. La capacité aérobie reste entraînable à tout âge. Adapte juste les intensités : un peu moins de 4x4, un peu plus d'ARC. Beaucoup de grimpeurs de plus de 50 ans tiennent leur niveau grâce à un travail d'endurance régulier."}
+    {
+      "q": "Combien de temps pour gagner en endurance grimpe ?",
+      "a": "Compte huit à douze semaines de protocole structuré pour des gains nets. Tu sentiras d'abord moins de pompe sur les voies faciles, puis une récupération plus rapide entre essais, et enfin une tolérance plus haute à la fin de séance. La patience est essentielle pour l'endurance, c'est plus lent que la force max."
+    },
+    {
+      "q": "Faut-il faire du cardio en plus pour la grimpe ?",
+      "a": "Le cardio général aide indirectement mais ne remplace pas l'endurance spécifique grimpe. Tu peux ajouter deux séances de vélo ou course par semaine pour la santé cardiovasculaire, mais consacre tes séances d'endurance grimpe à l'ARC ou au 4x4. Le spécifique prime sur le général."
+    },
+    {
+      "q": "Combien de fois par semaine faire du 4x4 ?",
+      "a": "Maximum deux fois par semaine, et seulement pendant des blocs de quatre à six semaines, pas en permanence. Au-delà, tu accumules de la fatigue chronique et tu déclenches des tendinopathies. Espace les séances 4x4 de 72 heures minimum pour permettre la récupération complète."
+    },
+    {
+      "q": "L'ARC training ennuie, est-ce vraiment efficace ?",
+      "a": "Oui, c'est démontré par plusieurs études et confirmé par les programmes de Lattice. L'effet est lent mais durable. Pour rendre ça moins ennuyeux, varie les profils, écoute de la musique, grimpe en autocoaching technique. Tu peux aussi le faire avec un partenaire en alternance pour casser la monotonie."
+    },
+    {
+      "q": "Endurance avant ou après force max dans la séance ?",
+      "a": "Si tu mélanges, fais la force max en premier, l'endurance en second. La force max demande de la fraîcheur neurale, l'endurance non. L'inverse abîme les gains de force. Mais idéalement, sépare les deux qualités sur des séances différentes, c'est plus efficace pour les deux."
+    },
+    {
+      "q": "Peut-on travailler l'endurance à 50 ans ?",
+      "a": "Oui, et c'est même particulièrement utile. La capacité aérobie reste entraînable à tout âge. Adapte juste les intensités : un peu moins de 4x4, un peu plus d'ARC. Beaucoup de grimpeurs de plus de 50 ans tiennent leur niveau grâce à un travail d'endurance régulier."
+    }
   ],
   "cover_alt": "Grimpeur en continuité sur voie longue, salle d'escalade verticale, mouvement fluide",
   "internal_links": [
-    {"slug": "preparer-corps-tete-grimpe", "anchor": "la préparation physique et mentale du grimpeur", "context": "Pilier préparation"},
-    {"slug": "grip-strength-poutre-pan", "anchor": "travailler les doigts à la poutre et au pan", "context": "Force doigts"},
-    {"slug": "recuperation-active-jours-off", "anchor": "récupération active et jours off", "context": "Récupération"},
-    {"slug": "musculation-grimpeur-base", "anchor": "musculation de base du grimpeur", "context": "Force complémentaire"},
-    {"slug": "lecture-voie-strategie", "anchor": "lecture stratégique de la voie", "context": "Stratégie en voie"}
+    {
+      "slug": "preparer-corps-tete-grimpe",
+      "anchor": "la préparation physique et mentale du grimpeur",
+      "context": "Pilier préparation"
+    },
+    {
+      "slug": "grip-strength-poutre-pan",
+      "anchor": "travailler les doigts à la poutre et au pan",
+      "context": "Force doigts"
+    },
+    {
+      "slug": "recuperation-active-jours-off",
+      "anchor": "récupération active et jours off",
+      "context": "Récupération"
+    },
+    {
+      "slug": "musculation-grimpeur-base",
+      "anchor": "musculation de base du grimpeur",
+      "context": "Force complémentaire"
+    },
+    {
+      "slug": "lecture-voie-strategie",
+      "anchor": "lecture stratégique de la voie",
+      "context": "Stratégie en voie"
+    }
   ],
   "scheduled_at": "2027-02-16T09:00:00+01:00"
 }

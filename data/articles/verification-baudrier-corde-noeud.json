@@ -3,7 +3,7 @@
   "cocon": "securite",
   "type_article": "astuce",
   "numero": 135,
-  "title": "Vérification sécurité : baudrier, corde et nœud d'encordement",
+  "title": "Triple vérification baudrier corde nœud, le rituel avant grimpe",
   "h1": "La triple vérification baudrier corde nœud, le rituel qui sauve",
   "description": "La triple vérification baudrier corde nœud, le rituel sécurité que tout grimpeur en tête doit appliquer avant chaque départ en falaise et en salle.",
   "chapo": "Avant chaque départ, trois éléments se vérifient en chaîne : le baudrier bouclé et sangle rabattue, la corde passée dans le système d'assurage, le nœud d'encordement serré et arrêté. Trente secondes de rituel évitent l'accident le plus stupide en escalade, celui qu'aucun grimpeur ne croit possible avant qu'il arrive.",
@@ -21,11 +21,11 @@
     },
     {
       "type": "p",
-      "html": "Demande à n'importe quel ouvreur expérimenté, à n'importe quel moniteur breveté d'État, à n'importe quel pompier du Groupe Montagne. Le scénario revient toujours : un grimpeur confirmé, parfois 7a au compteur, qui part en tête sans avoir terminé son nœud. Le **nœud d'encordement** se défait dans la première dégaine, et c'est la chute libre. Ce n'est pas un mythe, c'est statistiquement le premier accident évitable de la discipline. La triple vérification existe pour ça."
+      "html": "Demande à n'importe quel ouvreur expérimenté, à n'importe quel moniteur breveté d'État, à n'importe quel pompier du Groupe Montagne. Le scénario revient toujours : un grimpeur confirmé, parfois 7a au compteur, qui part en tête sans avoir terminé son nœud. Le nœud d'encordement se défait dans la première dégaine, et c'est la chute libre. Ce n'est pas un mythe, c'est statistiquement le premier accident évitable de la discipline. La triple vérification existe pour ça."
     },
     {
       "type": "p",
-      "html": "Quand j'avais quinze ans, lors d'une session à Orpierre, j'ai vu mon <strong>partenaire</strong> partir avec un huit mal repassé. Je l'ai rattrapé à la troisième dégaine en hurlant. Depuis, je vérifie systématiquement. Pas par paranoïa, par méthode. Trente secondes de rituel partagé, c'est le prix à payer pour grimper toute une vie."
+      "html": "Quand j'avais quinze ans, lors d'une session à Orpierre, j'ai vu mon partenaire partir avec un huit mal repassé. Je l'ai rattrapé à la troisième dégaine en hurlant. Depuis, je vérifie systématiquement. Pas par paranoïa, par méthode. Trente secondes de rituel partagé, c'est le prix à payer pour grimper toute une vie."
     },
     {
       "type": "h2",
@@ -33,11 +33,11 @@
     },
     {
       "type": "p",
-      "html": "Premier réflexe, tu inspectes ta propre ceinture. Tu regardes la **boucle de la ceinture** : elle doit être bouclée correctement, la sangle revenant dans le passant du frein. Sur la majorité des <strong>baudrier</strong>s <strong>Petzl</strong>, <strong>Black Diamond</strong>, Edelrid récents, le système est automatique et la sangle se replace seule. Sur les modèles plus anciens, il faut repasser la sangle à la main, à plus de cinq centimètres après la boucle."
+      "html": "Premier réflexe, tu inspectes ta propre ceinture. Tu regardes la <strong>boucle de la ceinture</strong> : elle doit être bouclée correctement, la sangle revenant dans le passant du frein. Sur la majorité des <strong>baudrier</strong>s Petzl, Black Diamond, Edelrid récents, le système est automatique et la sangle se replace seule. Sur les modèles plus anciens, il faut repasser la sangle à la main, à plus de cinq centimètres après la boucle."
     },
     {
       "type": "p",
-      "html": "Tu vérifies aussi les **boucles de cuisse**. Selon le modèle, elles sont fixes ou réglables. Si tu peux les ajuster, vérifie qu'elles ne sont pas torsadées. La ceinture passe au dessus de la crête iliaque, jamais sur la taille basse, sinon en cas de chute tête en bas, le baudrier te lâche aux hanches."
+      "html": "Tu vérifies aussi les <strong>boucles de cuisse</strong>. Selon le modèle, elles sont fixes ou réglables. Si tu peux les ajuster, vérifie qu'elles ne sont pas torsadées. La ceinture passe au dessus de la crête iliaque, jamais sur la taille basse, sinon en cas de chute tête en bas, le baudrier te lâche aux hanches."
     },
     {
       "type": "tip",
@@ -51,11 +51,11 @@
     },
     {
       "type": "p",
-      "html": "Le nœud d'encordement standard en France, c'est le **nœud en huit suivi**. Tu fais un huit simple à environ un mètre du bout, tu passes le bout dans les deux **pontets du baudrier** (ceinture plus pont d'encordement), puis tu repasses le brin libre dans le huit en suivant tous les croisements. Cinq étapes, pas une de moins. Tu serres en tirant sur les quatre brins un à un."
+      "html": "Le nœud d'encordement standard en France, c'est le <strong>nœud en huit suivi</strong>. Tu fais un huit simple à environ un mètre du bout, tu passes le bout dans les deux <strong>pontets du baudrier</strong> (ceinture plus pont d'encordement), puis tu repasses le brin libre dans le huit en suivant tous les croisements. Cinq étapes, pas une de moins. Tu serres en tirant sur les quatre brins un à un."
     },
     {
       "type": "p",
-      "html": "En sortie de nœud, tu dois voir un brin libre d'au moins **dix centimètres** avant de placer le nœud d'arrêt. Le nœud d'arrêt évite tout glissement du huit si la corde se met à filer. Beaucoup utilisent un demi nœud simple plaqué contre le huit, d'autres préfèrent une boucle bloquante. Les deux protègent. Ce qui ne protège pas, c'est l'absence pure et simple."
+      "html": "En sortie de nœud, tu dois voir un brin libre d'au moins <strong>dix centimètres</strong> avant de placer le nœud d'arrêt. Le nœud d'arrêt évite tout glissement du huit si la corde se met à filer. Beaucoup utilisent un demi nœud simple plaqué contre le huit, d'autres préfèrent une boucle bloquante. Les deux protègent. Ce qui ne protège pas, c'est l'absence pure et simple."
     },
     {
       "type": "list",
@@ -90,11 +90,11 @@
     },
     {
       "type": "p",
-      "html": "Le grimpeur a fini, l'assureur prend le relais. Tu vérifies que ton **système d'assurage** (GriGri Petzl, Click Up Climbing Technology, tube ATC Black Diamond) est monté dans le bon sens. Sur le GriGri, l'icône main brin libre est visible et orientée correctement, le brin du grimpeur entre par le bon côté. Sur un tube, la corde passe en double dans la fente et le mousqueton à vis verrouillé prend la sangle plus le brin."
+      "html": "Le grimpeur a fini, l'assureur prend le relais. Tu vérifies que ton <strong>système d'assurage</strong> (GriGri Petzl, Click Up Climbing Technology, tube ATC Black Diamond) est monté dans le bon sens. Sur le GriGri, l'icône main brin libre est visible et orientée correctement, le brin du grimpeur entre par le bon côté. Sur un tube, la corde passe en double dans la fente et le mousqueton à vis verrouillé prend la sangle plus le brin."
     },
     {
       "type": "p",
-      "html": "Le **mousqueton à vis** se serre puis se desserre d'un quart de tour, c'est la recommandation Petzl pour éviter le grippage. Tu testes que le doigt verrouille bien, qu'il n'y a pas de jeu, et tu te places en bonne position d'assurage. Tu peux relire <a href=\"/blog/check-list-avant-grimper\">notre check list complète avant de grimper</a> pour ne rien oublier."
+      "html": "Le <strong>mousqueton à vis</strong> se serre puis se desserre d'un quart de tour, c'est la recommandation Petzl pour éviter le grippage. Tu testes que le doigt verrouille bien, qu'il n'y a pas de jeu, et tu te places en bonne position d'assurage. Tu peux relire <a href=\"/blog/check-list-avant-grimper\">notre check list complète avant de grimper</a> pour ne rien oublier."
     },
     {
       "type": "h2",
@@ -130,7 +130,7 @@
     },
     {
       "type": "p",
-      "html": "La triple vérification s'inscrit dans une démarche plus large que tu peux approfondir avec <a href=\"/blog/check-list-avant-grimper\">la check list avant de grimper</a> et <a href=\"/blog/partenaire-grimpe-confiance\">le choix du partenaire de grimpe</a>. Si l'accident arrive malgré tout, tu auras besoin de connaître <a href=\"/blog/premiers-secours-escalade\">les gestes essentiels de premiers secours</a> et <a href=\"/blog/alerter-secours-falaise\">la procédure d'alerte aux secours en falaise</a>."
+      "html": "La triple vérification s'inscrit dans une démarche plus large que Si l'accident arrive malgré tout, tu auras besoin de connaître <a href=\"/blog/premiers-secours-escalade\">les gestes essentiels de premiers secours</a> et <a href=\"/blog/alerter-secours-falaise\">la procédure d'alerte aux secours en falaise</a>."
     }
   ],
   "faq": [

@@ -3,7 +3,7 @@
   "cocon": "techniques",
   "type_article": "guide",
   "numero": 34,
-  "title": "Progresser d'un niveau en escalade : methode realiste",
+  "title": "Progresser d'un niveau en escalade, methode realiste",
   "h1": "Progresser d'un niveau en escalade, la methode realiste d'Antoine",
   "description": "Progresser niveau escalade : diagnostic du palier, plan d'entrainement, projection, gestion du volume et echecs constructifs pour passer la cotation...",
   "chapo": "Tu plafonnes en 6b depuis huit mois, tu vois tes potes monter au 7a, tu te demandes ou est le probleme. Treize ans de paliers vecus me permettent de te donner une methode realiste, sans recettes miracles. Voici comment diagnostiquer ton point faible, construire un plan adapte, et passer la cotation suivante en 6 mois ferme.",
@@ -55,7 +55,7 @@
     },
     {
       "type": "p",
-      "html": "Si ton point faible est la technique, integre 30 minutes de placement isole par seance, avec exercices repetes. Si c'est la force, integre du hangboard 2 fois par semaine. Si c'est le mental, integre des chutes volontaires controlees a chaque seance. La specificite du travail compte plus que le volume total."
+      "html": "Si ton point faible est la technique, integre 30 minutes de placement isole par seance, avec exercices repetes. Si c'est la force, integre du hangboard 2 fois par semaine et bosse ta <a href=\"/blog/doigts-prises-petites\">force des doigts</a> en complement. Si c'est le mental, integre des chutes volontaires controlees a chaque seance. La specificite du travail compte plus que le volume total."
     },
     {
       "type": "h2",
@@ -90,7 +90,7 @@
     },
     {
       "type": "p",
-      "html": "Une bonne projection demande 10 a 30 essais avant la reussite. Chaque essai t'apprend une chose : une sequence de pieds, une prehension precise, un placement de hanche. Note dans un carnet les corrections apportees a chaque tentative. Ce carnet vaut mieux que toute methode generique."
+      "html": "Une bonne projection demande 10 a 30 essais avant la reussite. Chaque essai t'apprend une chose : une sequence de pieds, une prehension precise, un placement de hanche. La <a href=\"/blog/lecture-voie-strategie\">lecture de voie</a> entre chaque essai te fait gagner beaucoup d'essais inutiles. Note dans un carnet les corrections apportees a chaque tentative. Ce carnet vaut mieux que toute methode generique."
     },
     {
       "type": "p",

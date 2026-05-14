@@ -5,14 +5,14 @@
   "numero": 118,
   "title": "Les Françaises aux JO d'escalade 2024 | bilan et portraits",
   "h1": "Les Françaises aux Jeux Olympiques d'escalade de Paris 2024",
-  "description": "Oriane Bertone bronze, Naïlé Meignan et Capucine Viglione, retour sur les Françaises engagées aux JO d'escalade Paris 2024. Bilan complet.",
-  "chapo": "Les Jeux Olympiques de Paris 2024 ont accueilli leur deuxième édition d'escalade sportive après Tokyo 2020. Trois Françaises ont défendu les couleurs nationales sur les murs du Bourget : Oriane Bertone, Naïlé Meignan et Capucine Viglione. Une médaille de bronze pour Oriane en bloc, une finale pour Naïlé en difficulté, et un parcours prometteur pour la jeune Capucine. Antoine te propose le bilan complet.",
+  "description": "Oriane Bertone en finale, retour sur les Françaises engagées aux JO d'escalade Paris 2024. Bilan complet du combiné bloc et difficulté.",
+  "chapo": "Les Jeux Olympiques de Paris 2024 ont accueilli leur deuxième édition d'escalade sportive après Tokyo 2020. Oriane Bertone a défendu les couleurs françaises sur le combiné bloc et difficulté au Bourget, terminant à la cinquième place. Le podium revient à Janja Garnbret (or), Brooke Raboutou (argent) et Jessica Pilz (bronze). Antoine te propose le bilan factuel de la performance française.",
   "takeaways": [
-    "Oriane Bertone décroche la médaille de bronze en bloc et difficulté aux JO de Paris 2024 le 10 août 2024.",
-    "Naïlé Meignan atteint la finale en bloc et difficulté combinés à Paris 2024 et termine sixième.",
-    "Capucine Viglione, plus jeune membre de l'équipe française, signe une qualification remarquée.",
-    "Les épreuves d'escalade se sont déroulées sur le mur d'escalade du Bourget en région parisienne.",
-    "L'escalade en JO combine bloc et difficulté en un seul classement pour les femmes et les hommes."
+    "Janja Garnbret remporte l'or, Brooke Raboutou l'argent, Jessica Pilz le bronze sur le combiné féminin Paris 2024.",
+    "Oriane Bertone, première Française du combiné féminin, termine cinquième de la finale.",
+    "Les épreuves d'escalade se sont déroulées au Bourget en Seine-Saint-Denis du 5 au 10 août 2024.",
+    "L'escalade olympique sépare désormais la vitesse pure du combiné bloc-difficulté pour les deux sexes.",
+    "La filière française mise sur le cycle Los Angeles 2028 pour transformer l'essai parisien."
   ],
   "body_blocks": [
     {
@@ -33,70 +33,66 @@
     },
     {
       "type": "h2",
-      "text": "Oriane Bertone, médaille de bronze historique"
+      "text": "Oriane Bertone, première Française du combiné"
     },
     {
       "type": "p",
-      "html": "<strong>Oriane Bertone</strong>, née le 1er octobre 2005 à La Réunion, est la première figure française des Jeux. À 18 ans, elle décroche la médaille de bronze du combiné bloc et difficulté féminin le 10 août 2024, derrière Janja Garnbret et Brooke Raboutou. C'est la deuxième médaille olympique française en escalade après le bronze de Bassa Mawem en vitesse à Tokyo 2020."
+      "html": "<strong>Oriane Bertone</strong>, née le 1er octobre 2005 à La Réunion, est la figure la plus médiatique de la délégation française. À 18 ans, elle dispute sa première olympiade sur le combiné bloc et difficulté féminin. Le podium revient à <a href=\"/blog/janja-garnbret-domination\">Janja Garnbret</a> en or, à l'américaine Brooke Raboutou en argent et à l'autrichienne Jessica Pilz en bronze."
     },
     {
       "type": "p",
-      "html": "Son parcours est remarquable. Junior, elle a accumulé titres mondiaux et européens en bloc et difficulté entre 2019 et 2022. Sa transition senior a été progressive mais nette. En 2024, elle accroche plusieurs podiums en Coupe du Monde dans les mois précédant les Jeux, ce qui valide sa forme olympique."
+      "html": "Son parcours en amont est remarquable. Junior, elle a accumulé titres mondiaux et européens en bloc et difficulté entre 2019 et 2022. Sa transition senior a été progressive mais nette. En 2024, elle accroche plusieurs places en Coupe du Monde dans les mois précédant les Jeux, ce qui valide sa forme olympique avant Paris."
     },
     {
       "type": "p",
-      "html": "À Paris, sa solidité psychologique a fait la différence. Sur l'épreuve de bloc le 7 août, elle se classe quatrième. Sur la difficulté le 10 août, elle réalise une voie quasi parfaite avec un score combiné qui la place sur le podium. Le public du Bourget l'acclame, le moment reste l'un des temps forts de l'escalade française récente."
+      "html": "À Paris, elle livre une finale solide, accroche la première place française du combiné et confirme son statut de leader de la nouvelle génération tricolore. Le public du Bourget l'acclame longuement. La marche du podium n'est pas atteinte cette fois, mais l'expérience olympique acquise à 18 ans la projette directement vers le cycle Los Angeles 2028."
     },
     {
       "type": "h2",
-      "text": "Naïlé Meignan, sixième place en finale"
+      "text": "Naïlé Meignan, l'autre Française au Bourget"
     },
     {
       "type": "p",
-      "html": "<strong>Naïlé Meignan</strong>, née en 1998 à Aix-en-Provence, représente l'autre figure de l'équipe française. Plus expérimentée qu'Oriane, elle accumule depuis 2017 les sélections en Coupe du Monde et a participé aux Jeux de Tokyo 2020 en combiné. À Paris elle vise une médaille, l'expérience accumulée en faisant une candidate sérieuse."
+      "html": "<strong>Naïlé Meignan</strong> complète la délégation française sur le combiné féminin. Elle accumule depuis plusieurs saisons les sélections en Coupe du Monde et représente le profil expérimenté de l'équipe tricolore. Sa présence aux Jeux confirme l'élargissement du vivier français en escalade féminine sur le format combiné."
     },
     {
       "type": "p",
-      "html": "En qualifications, Naïlé passe sans difficulté apparente. En finale, elle livre un combat solide mais une chute prématurée sur le bloc 3 lui coûte des points décisifs. Elle termine sixième du combiné, dans le top 6 mondial olympique, ce qui reste un résultat majeur en valeur absolue."
-    },
-    {
-      "type": "p",
-      "html": "Sa performance illustre la difficulté du format olympique combiné : on ne récompense pas la régularité, on récompense l'absence d'erreur. Naïlé a réalisé deux des trois blocs de finale, mais une chute lors d'un mouvement clé du dernier bloc lui a coûté la médaille. Elle a publié un message digne sur ses réseaux, projeté déjà vers Los Angeles 2028."
+      "html": "Sa performance au Bourget illustre la difficulté du format olympique combiné : on n'y récompense pas la régularité, on y récompense l'absence d'erreur sur deux disciplines très différentes. Le passage du bloc explosif à la difficulté longue exige une polyvalence rare. Naïlé a publié un message digne sur ses réseaux, déjà projetée vers Los Angeles 2028."
     },
     {
       "type": "list",
       "variant": "cards",
-      "title": "Les trois Françaises engagées aux JO Paris 2024",
+      "title": "Le podium féminin du combiné Paris 2024",
       "items": [
         {
-          "title": "Oriane Bertone",
-          "body": "18 ans, originaire de La Réunion, médaille de bronze combiné bloc et difficulté. Spécialiste bloc avec un potentiel difficulté en construction. Considérée comme la future leader de l'escalade française pour les prochaines années."
+          "title": "Or : Janja Garnbret (Slovénie)",
+          "body": "Deuxième titre olympique consécutif après Tokyo 2020. Domination quasi totale sur le combiné bloc et difficulté féminin, avec un écart marqué sur ses poursuivantes."
         },
         {
-          "title": "Naïlé Meignan",
-          "body": "26 ans, originaire de Provence, sixième place combiné. Profil polyvalent solide, expérience Coupe du Monde longue, déjà présente à Tokyo 2020. Forte composante mentale, projet Los Angeles 2028 confirmé."
+          "title": "Argent : Brooke Raboutou (États-Unis)",
+          "body": "Grimpeuse américaine du Colorado, fille des champions Didier Raboutou et Robyn Erbesfield. Première médaille olympique américaine de l'histoire en escalade combinée."
         },
         {
-          "title": "Capucine Viglione",
-          "body": "Plus jeune sélectionnée française, 17 ans en 2024. Qualifiée via le circuit junior senior. N'a pas atteint la finale mais a livré une qualification respectable pour une première olympiade. Projet long terme avec la fédération."
+          "title": "Bronze : Jessica Pilz (Autriche)",
+          "body": "Spécialiste difficulté longtemps présente sur le circuit IFSC, Jessica Pilz décroche son premier podium olympique au Bourget. Profil expérimenté qui valide son projet de longue date."
         }
       ]
     },
     {
       "type": "h2",
-      "text": "Capucine Viglione, la promesse jeunesse"
+      "text": "Une délégation française jeune et prometteuse"
     },
     {
       "type": "p",
-      "html": "<strong>Capucine Viglione</strong>, à 17 ans au moment des Jeux, est la plus jeune sélectionnée française. Originaire de Voiron en Isère, formée au club local puis dans les structures fédérales nationales, elle a accroché sa qualification olympique via le quota européen. Sa présence à Paris est déjà une victoire en soi."
+      "html": "Au-delà des deux sélectionnées en combiné, la fédération française mise sur un vivier élargi. Des jeunes comme Capucine Viglione ou Manon Hily structurent la relève dans les pôles régionaux. La fédération annonce un investissement long terme avec une projection sur Los Angeles 2028 voire Brisbane 2032."
     },
     {
       "type": "p",
-      "html": "Elle ne franchit pas le cut des qualifications mais signe un parcours respectable. La fédération annonce qu'elle constitue un investissement long terme avec une projection sur Los Angeles 2028 voire Brisbane 2032. Sa précocité, son physique adapté au format combiné et son entourage technique solide en font une candidate sérieuse pour les deux prochains cycles olympiques."
+      "html": "Côté vitesse, la délégation française a aussi été présente, sans entrer sur le podium cette fois. Le format dual sur voie standardisée se joue parfois au centième de seconde. Les conditions du Bourget ont produit des séries serrées en demi-finales et finales sur les deux jours d'épreuves vitesse séparées."
     },
     {
       "type": "quote",
-      "text": "Ce qui m'a frappé à Paris, c'est l'écart entre Oriane et le reste du peloton mondial féminin. Elle est passée du statut de jeune espoir à celui de leader établie en quelques mois.",
+      "text": "Ce qui m'a frappé au Bourget, c'est l'écart maintenu par Janja Garnbret sur le reste du peloton mondial. Une domination qui ne fléchit toujours pas après deux cycles olympiques.",
       "author": "Antoine",
       "role": "grimpeur, observateur de l'escalade compétition"
     },
@@ -106,7 +102,7 @@
     },
     {
       "type": "p",
-      "html": "La compétition féminine de Paris 2024 a été dominée par la slovène Janja Garnbret qui décroche son deuxième titre olympique consécutif. La grimpeuse américaine Brooke Raboutou remporte l'argent. Oriane Bertone complète le podium. C'est un podium relativement jeune avec une moyenne d'âge autour de 22 ans."
+      "html": "La compétition féminine combinée de Paris 2024 a été dominée par la slovène <a href=\"/blog/janja-garnbret-domination\">Janja Garnbret</a> qui décroche son deuxième titre olympique consécutif. La grimpeuse américaine Brooke Raboutou remporte l'argent, l'autrichienne Jessica Pilz complète le podium en bronze. Une moyenne d'âge élevée pour Pilz, beaucoup plus jeune chez Garnbret et Raboutou."
     },
     {
       "type": "p",
@@ -124,33 +120,33 @@
     },
     {
       "type": "h2",
-      "text": "Une médaille qui marque l'escalade française"
+      "text": "Paris 2024, un effet structurant pour l'escalade française"
     },
     {
       "type": "p",
-      "html": "La médaille de bronze d'Oriane Bertone à Paris 2024 entre dans l'histoire de l'escalade française. C'est seulement la deuxième médaille olympique en escalade, après le bronze de Bassa Mawem à Tokyo 2020 en vitesse. Mais c'est la première sur le format combiné bloc-difficulté, qui représente l'âme historique de la grimpe."
+      "html": "Les Jeux de Paris 2024 ont consolidé la place de l'escalade dans le sport français de haut niveau. La couverture médiatique en direct, l'engouement public au Bourget, l'arrivée d'Oriane Bertone comme figure visible : tous ces signaux pèsent dans la trajectoire fédérale et dans le rayonnement des clubs FFME."
     },
     {
       "type": "p",
-      "html": "Pour la communauté grimpe française, cette médaille a un effet structurant. Les clubs FFME observent une vague d'inscriptions, les fédérations régionales bénéficient d'une visibilité accrue, les médias spécialisés comme Vertical et Grimper voient leur lectorat grandir. L'escalade s'installe durablement dans le paysage olympique."
+      "html": "Pour la communauté grimpe française, ces Jeux ont un effet structurant. Les clubs FFME observent une vague d'inscriptions, les fédérations régionales bénéficient d'une visibilité accrue, les médias spécialisés comme Vertical et Grimper voient leur lectorat grandir. L'escalade s'installe durablement dans le paysage olympique. Pour comprendre comment les athlètes préparent ce niveau, lis aussi notre dossier sur la <a href=\"/blog/gestion-stress-engagement\">gestion du stress en compétition</a>."
     },
     {
       "type": "p",
-      "html": "À l'échelle individuelle, Oriane Bertone est devenue en quelques mois une figure publique en France. Plateaux télé, interviews, partenariats avec des marques généralistes. Elle gère la pression avec un naturel qui lui permet de continuer à grimper à haut niveau. Le défi du cycle Los Angeles 2028 sera de transformer le bronze en or."
+      "html": "À l'échelle individuelle, Oriane Bertone est devenue en quelques mois une figure publique en France. Plateaux télé, interviews, partenariats avec des marques généralistes. Elle gère la pression avec un naturel qui lui permet de continuer à grimper à haut niveau. Le défi du cycle Los Angeles 2028 sera de viser le podium qui a manqué de peu à Paris. La filière française continue de se renforcer, comme l'illustrent les <a href=\"/blog/grimpeurs-grimpeuses-histoire-france\">grimpeuses qui ont marqué l'histoire</a>."
     }
   ],
   "faq": [
     {
-      "q": "Qui a remporté la médaille de bronze pour la France à Paris 2024 ?",
-      "a": "Oriane Bertone a remporté la médaille de bronze du combiné bloc et difficulté féminin le 10 août 2024 aux Jeux Olympiques de Paris 2024. Elle est née le 1er octobre 2005 à La Réunion et avait 18 ans au moment de sa médaille. Elle termine derrière la slovène Janja Garnbret en or et l'américaine Brooke Raboutou en argent."
+      "q": "Qui a remporté le combiné féminin d'escalade à Paris 2024 ?",
+      "a": "Janja Garnbret (Slovénie) a remporté l'or, Brooke Raboutou (États-Unis) l'argent et Jessica Pilz (Autriche) le bronze sur le combiné bloc et difficulté féminin. La finale s'est jouée le 10 août 2024 au Bourget. Oriane Bertone, première Française du combiné, n'a pas accroché le podium pour sa première olympiade à 18 ans."
     },
     {
       "q": "Quelle est la différence entre le combiné et la vitesse aux JO ?",
       "a": "Aux JO Paris 2024, l'escalade s'est divisée en deux épreuves distinctes : la vitesse pure, un format duel d'environ 5 secondes par tentative sur une voie standardisée, et le combiné bloc-difficulté, qui additionne les points des épreuves de bloc et de difficulté. Le combiné réunit les profils historiques de la grimpe, la vitesse représente une discipline spécialisée à part."
     },
     {
-      "q": "Combien de Françaises étaient engagées aux Jeux ?",
-      "a": "Trois Françaises ont participé aux épreuves féminines d'escalade aux JO de Paris 2024 : Oriane Bertone sur le combiné bloc et difficulté avec son bronze, Naïlé Meignan sur le même combiné avec une sixième place, et Capucine Viglione également sur le combiné mais sans atteindre la finale. Aucune Française n'était engagée en vitesse féminine pour ces Jeux."
+      "q": "Quelles Françaises étaient engagées en combiné aux Jeux ?",
+      "a": "Oriane Bertone et Naïlé Meignan ont représenté la France sur le combiné bloc et difficulté féminin aux JO de Paris 2024. Oriane, première Française du combiné, signe sa première olympiade à 18 ans. La délégation française mise désormais sur le cycle Los Angeles 2028 pour viser de nouveaux podiums."
     },
     {
       "q": "Où se sont déroulées les épreuves d'escalade à Paris ?",
@@ -158,7 +154,7 @@
     },
     {
       "q": "Quelles sont les perspectives pour Los Angeles 2028 ?",
-      "a": "L'équipe française vise plusieurs sélections à Los Angeles 2028. Oriane Bertone reste la grande favorite côté féminin pour une nouvelle médaille. Naïlé Meignan vise sa troisième olympiade avec l'objectif podium. Capucine Viglione devrait gagner en maturité. Côté masculin, Sam Avezou, Léo Favot et possiblement Bassa Mawem en vitesse complèteront la délégation. Le cycle américain démarre dès la saison 2025."
+      "a": "L'équipe française vise plusieurs sélections à Los Angeles 2028. Oriane Bertone reste la grande favorite côté féminin pour viser un podium qui a manqué à Paris. Naïlé Meignan continue son projet senior. La filière junior française produit des espoirs qui devraient gagner en maturité d'ici 2028. Côté masculin, plusieurs grimpeurs préparent les qualifications. Le cycle américain démarre dès la saison 2025."
     }
   ],
   "cover_alt": "Grimpeuse française en plein effort sur le mur olympique du Bourget, mouvement explosif sur prise de bloc, ambiance lumineuse de salle de compétition, public visible en arrière-plan",

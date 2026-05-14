@@ -3,7 +3,7 @@
   "cocon": "preparation",
   "type_article": "guide",
   "numero": 120,
-  "title": "Échauffement escalade : routine 15 min avant de grimper",
+  "title": "Échauffement escalade | Routine 15 min avant de grimper",
   "h1": "Échauffement avant la grimpe : routine 15 minutes",
   "description": "Une routine d'échauffement de 15 minutes pour préparer doigts, épaules et coeur avant la grimpe, et limiter les tendinites et ruptures de poulies.",
   "chapo": "Pas un grimpeur correctement échauffé ne se blesse au premier essai. La routine qui suit prend 15 minutes, tient sur trois étages, et prépare ton corps à tirer sur du petit. Je l'utilise avant chaque séance de bloc dur ou de falaise sportive. Elle vaut autant pour le débutant que pour celui qui essaie son projet.",
@@ -15,55 +15,202 @@
     "Pas de stretching statique long avant la grimpe, garde les étirements pour la fin de séance."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Pourquoi un échauffement spécifique change tout"},
-    {"type": "p", "html": "J'ai grimpé six ans sans échauffement structuré. Résultat, deux tendinites au coude et une douleur de poulie A2 qui m'a coûté trois mois d'arrêt. Depuis que j'applique une routine de 15 minutes avant chaque séance, plus rien. La grimpe sollicite des structures fines : <strong>poulies A2 et A4</strong>, tendons fléchisseurs, coiffe des rotateurs. Ces tissus chauffent lentement et craquent vite si tu balances un essai à bloc à froid."},
-    {"type": "p", "html": "L'échauffement remonte aussi la <strong>fréquence cardiaque max</strong> progressivement, prépare le système nerveux et améliore la coordination. Tu démarres à 50% de tes capacités, tu finis à 80% sans douleur. Cette progression compte autant que la force pure quand tu veux tenir une saison entière sans casse."},
-    {"type": "h2", "text": "Étage 1 : cardio léger et mobilité générale"},
-    {"type": "p", "html": "Les 5 premières minutes servent à monter la température corporelle d'un degré environ. Vélo, course sur place, corde à sauter ou montées d'escalier, peu importe le moyen. L'objectif est simple : transpirer légèrement, sentir le souffle s'accélérer sans s'essouffler. À la salle, je prends parfois la corde à sauter, parfois je tourne sur le tapis pendant cinq minutes."},
-    {"type": "p", "html": "Enchaîne avec de la mobilité articulaire dynamique. Rotations d'épaules avant et arrière, cercles de bras, balancés de jambes, rotations de bassin. Une vingtaine de répétitions par mouvement. Tu prépares les hanches pour les pieds hauts, les épaules pour les jetés, la colonne pour les déversés."},
-    {"type": "list", "variant": "numbered", "title": "Routine mobilité 4 minutes", "items": [
-      {"title": "Rotations d'épaules", "body": "15 rotations avant, 15 arrière, bras tendus. Élargis l'amplitude à chaque tour."},
-      {"title": "Cercles de bras", "body": "10 grands cercles avant, 10 arrière, en gardant les omoplates serrées."},
-      {"title": "Balancés de jambes", "body": "10 avant-arrière, 10 latéraux par jambe, en te tenant au mur."},
-      {"title": "Rotations de bassin", "body": "15 secondes dans chaque sens, mains sur les hanches."},
-      {"title": "Inclinaisons latérales", "body": "10 de chaque côté, bras levé, pour ouvrir la cage thoracique."}
-    ]},
-    {"type": "h2", "text": "Étage 2 : activation scapulaire et coiffe des rotateurs"},
-    {"type": "p", "html": "La grimpe sollicite massivement les épaules. Avant de tirer fort, active la <strong>coiffe des rotateurs</strong> avec des exercices ciblés. Mes trois indispensables : élévations latérales avec une bouteille d'eau, rotations externes avec élastique, et activations scapulaires en suspension passive sur une barre."},
-    {"type": "p", "html": "Les activations scapulaires se font en suspension bras tendus : tu rentres et tu sors les omoplates sans plier les coudes, dix répétitions lentes. Cet exercice prévient les tendinites du <strong>supra-épineux</strong> et prépare la chaîne de traction. Je le fais sur la barre de la salle ou sur un hangboard avec des grosses prises."},
-    {"type": "tip", "title": "Erreur classique", "body": "Sauter l'activation scapulaire sous prétexte que tu as déjà chaud après le cardio. Les muscles du dos chauffent vite, mais les petits stabilisateurs de l'épaule demandent une activation spécifique. Sans elle, ton premier essai à bloc tire sur les tendons et pas sur le muscle.", "tone": "erreur"},
-    {"type": "h2", "text": "Étage 3 : doigts et avant-bras en progression"},
-    {"type": "p", "html": "Les doigts demandent une montée progressive en intensité. Commence par des suspensions passives sur grosses prises plates, 10 secondes par essai. Passe ensuite à des bacs francs, puis à des arquées moyennes. Évite absolument les prises à un ou deux doigts à froid. Une rupture de poulie A2 sur séance mal échauffée prend trois à six mois à cicatriser correctement."},
-    {"type": "p", "html": "Au pan ou sur le mur, fais trois ou quatre voies en sous-régime. Un 5c facile, un 6a, un 6b. Tu cherches à activer le système, pas à enchaîner ton projet. Si tu vises un 7c, ton dernier échauffement doit tourner autour du 6c-7a. La progression compte plus que la difficulté finale."},
-    {"type": "table", "caption": "Progression doigts conseillée", "headers": ["Phase", "Durée", "Intensité", "Type de prises"],
-    "rows": [
-      ["Suspensions passives", "2 min", "Très faible", "Grosses prises plates"],
-      ["Suspensions actives", "3 min", "Faible", "Bacs francs"],
-      ["Voies faciles", "5 min", "Modérée", "Arquées moyennes"],
-      ["Voies au niveau", "5 min", "Progressive", "Variées selon projet"]
-    ]},
-    {"type": "h2", "text": "Adapter la routine au contexte"},
-    {"type": "p", "html": "Tout ne se vaut pas. En hiver à Hautepierre, je rajoute cinq minutes de cardio. En été à Buoux à 25 degrés, je raccourcis à 10 minutes. En bloc à la salle, je prolonge la phase d'activation des doigts. En grande voie, je fais une mini-routine au relais avant chaque longueur. <a href=\"/blog/preparer-corps-tete-grimpe\">La préparation physique et mentale du grimpeur</a> détaille ces adaptations."},
-    {"type": "p", "html": "Si tu sors de blessure, double les temps d'activation. Une poulie qui cicatrise demande un échauffement plus long et plus doux. Pareil après 40 ans : compte 20 à 25 minutes au lieu de 15. La règle vaut aussi en hiver, quand les tendons sont moins vascularisés et craquent plus facilement."},
-    {"type": "quote", "text": "L'échauffement n'est pas une perte de temps avant ta vraie séance. C'est ta vraie séance qui démarre à la première suspension active.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
-    {"type": "h2", "text": "Erreurs fréquentes et signaux d'alerte"},
-    {"type": "p", "html": "L'erreur la plus fréquente reste l'échauffement zappé pour gagner du temps. Tu arrives en retard, ton pote a déjà chauffé, tu te jettes sur la voie. Mauvaise idée. L'autre erreur classique est l'échauffement trop intense : tu fais trois suspensions à un doigt avant ton projet, tu finis la séance avant de l'avoir commencée."},
-    {"type": "p", "html": "Surveille les signaux du corps. Une douleur vive à l'avant-bras pendant la phase doigts indique un problème de poulie. Un craquement à l'épaule au premier mouvement de traction signale une coiffe pas réveillée. Stoppe, reprends une activation douce, reviens progressivement. Si la douleur persiste, ne grimpe pas. Mieux vaut une séance perdue qu'une saison."},
-    {"type": "p", "html": "Pour aller plus loin, lis <a href=\"/blog/etirements-grimpeur-souplesse\">étirements et souplesse, ce qui sert vraiment</a> et <a href=\"/blog/blessures-doigts-grimpeur\">prévenir les blessures de doigts</a>. Ces deux articles complètent la routine."}
+    {
+      "type": "h2",
+      "text": "Pourquoi un échauffement spécifique change tout"
+    },
+    {
+      "type": "p",
+      "html": "J'ai grimpé six ans sans échauffement structuré. Résultat, deux tendinites au coude et une douleur de poulie A2 qui m'a coûté trois mois d'arrêt. Depuis que j'applique une routine de 15 minutes avant chaque séance, plus rien. La grimpe sollicite des structures fines : <strong>poulies A2 et A4</strong>, tendons fléchisseurs, coiffe des rotateurs. Ces tissus chauffent lentement et craquent vite si tu balances un essai à bloc à froid."
+    },
+    {
+      "type": "p",
+      "html": "L'échauffement remonte aussi la <strong>fréquence cardiaque max</strong> progressivement, prépare le système nerveux et améliore la coordination. Tu démarres à 50% de tes capacités, tu finis à 80% sans douleur. Cette progression compte autant que la force pure quand tu veux tenir une saison entière sans casse."
+    },
+    {
+      "type": "h2",
+      "text": "Étage 1 : cardio léger et mobilité générale"
+    },
+    {
+      "type": "p",
+      "html": "Les 5 premières minutes servent à monter la température corporelle d'un degré environ. Vélo, course sur place, corde à sauter ou montées d'escalier, peu importe le moyen. L'objectif est simple : transpirer légèrement, sentir le souffle s'accélérer sans s'essouffler. À la salle, je prends parfois la corde à sauter, parfois je tourne sur le tapis pendant cinq minutes."
+    },
+    {
+      "type": "p",
+      "html": "Enchaîne avec de la mobilité articulaire dynamique. Rotations d'épaules avant et arrière, cercles de bras, balancés de jambes, rotations de bassin. Une vingtaine de répétitions par mouvement. Tu prépares les hanches pour les pieds hauts, les épaules pour les jetés, la colonne pour les déversés."
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Routine mobilité 4 minutes",
+      "items": [
+        {
+          "title": "Rotations d'épaules",
+          "body": "15 rotations avant, 15 arrière, bras tendus. Élargis l'amplitude à chaque tour."
+        },
+        {
+          "title": "Cercles de bras",
+          "body": "10 grands cercles avant, 10 arrière, en gardant les omoplates serrées."
+        },
+        {
+          "title": "Balancés de jambes",
+          "body": "10 avant-arrière, 10 latéraux par jambe, en te tenant au mur."
+        },
+        {
+          "title": "Rotations de bassin",
+          "body": "15 secondes dans chaque sens, mains sur les hanches."
+        },
+        {
+          "title": "Inclinaisons latérales",
+          "body": "10 de chaque côté, bras levé, pour ouvrir la cage thoracique."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Étage 2 : activation scapulaire et coiffe des rotateurs"
+    },
+    {
+      "type": "p",
+      "html": "La grimpe sollicite massivement les épaules. Avant de tirer fort, active la <strong>coiffe des rotateurs</strong> avec des exercices ciblés. Mes trois indispensables : élévations latérales avec une bouteille d'eau, rotations externes avec élastique, et activations scapulaires en suspension passive sur une barre."
+    },
+    {
+      "type": "p",
+      "html": "Les activations scapulaires se font en suspension bras tendus : tu rentres et tu sors les omoplates sans plier les coudes, dix répétitions lentes. Cet exercice prévient les tendinites du <strong>supra-épineux</strong> et prépare la chaîne de traction. Je le fais sur la barre de la salle ou sur un hangboard avec des grosses prises."
+    },
+    {
+      "type": "tip",
+      "title": "Erreur classique",
+      "body": "Sauter l'activation scapulaire sous prétexte que tu as déjà chaud après le cardio. Les muscles du dos chauffent vite, mais les petits stabilisateurs de l'épaule demandent une activation spécifique. Sans elle, ton premier essai à bloc tire sur les tendons et pas sur le muscle.",
+      "tone": "erreur"
+    },
+    {
+      "type": "h2",
+      "text": "Étage 3 : doigts et avant-bras en progression"
+    },
+    {
+      "type": "p",
+      "html": "Les doigts demandent une montée progressive en intensité. Commence par des suspensions passives sur grosses prises plates, 10 secondes par essai. Passe ensuite à des bacs francs, puis à des arquées moyennes. Évite absolument les prises à un ou deux doigts à froid. Une rupture de poulie A2 sur séance mal échauffée prend trois à six mois à cicatriser correctement."
+    },
+    {
+      "type": "p",
+      "html": "Au pan ou sur le mur, fais trois ou quatre voies en sous-régime. Un 5c facile, un 6a, un 6b. Tu cherches à activer le système, pas à enchaîner ton projet. Si tu vises un 7c, ton dernier échauffement doit tourner autour du 6c-7a. La progression compte plus que la difficulté finale."
+    },
+    {
+      "type": "table",
+      "caption": "Progression doigts conseillée",
+      "headers": [
+        "Phase",
+        "Durée",
+        "Intensité",
+        "Type de prises"
+      ],
+      "rows": [
+        [
+          "Suspensions passives",
+          "2 min",
+          "Très faible",
+          "Grosses prises plates"
+        ],
+        [
+          "Suspensions actives",
+          "3 min",
+          "Faible",
+          "Bacs francs"
+        ],
+        [
+          "Voies faciles",
+          "5 min",
+          "Modérée",
+          "Arquées moyennes"
+        ],
+        [
+          "Voies au niveau",
+          "5 min",
+          "Progressive",
+          "Variées selon projet"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Adapter la routine au contexte"
+    },
+    {
+      "type": "p",
+      "html": "Tout ne se vaut pas. En hiver à Hautepierre, je rajoute cinq minutes de cardio. En été à Buoux à 25 degrés, je raccourcis à 10 minutes. En bloc à la salle, je prolonge la phase d'activation des doigts. En grande voie, je fais une mini-routine au relais avant chaque longueur. <a href=\"/blog/preparer-corps-tete-grimpe\">La préparation physique et mentale du grimpeur</a> détaille ces adaptations."
+    },
+    {
+      "type": "p",
+      "html": "Si tu sors de blessure, double les temps d'activation. Une poulie qui cicatrise demande un échauffement plus long et plus doux. Pareil après 40 ans : compte 20 à 25 minutes au lieu de 15. La règle vaut aussi en hiver, quand les tendons sont moins vascularisés et craquent plus facilement."
+    },
+    {
+      "type": "quote",
+      "text": "L'échauffement n'est pas une perte de temps avant ta vraie séance. C'est ta vraie séance qui démarre à la première suspension active.",
+      "author": "Antoine",
+      "role": "Rédacteur escalade-france.fr"
+    },
+    {
+      "type": "h2",
+      "text": "Erreurs fréquentes et signaux d'alerte"
+    },
+    {
+      "type": "p",
+      "html": "L'erreur la plus fréquente reste l'échauffement zappé pour gagner du temps. Tu arrives en retard, ton pote a déjà chauffé, tu te jettes sur la voie. Mauvaise idée. L'autre erreur classique est l'échauffement trop intense : tu fais trois suspensions à un doigt avant ton projet, tu finis la séance avant de l'avoir commencée."
+    },
+    {
+      "type": "p",
+      "html": "Surveille les signaux du corps. Une douleur vive à l'avant-bras pendant la phase doigts indique un problème de poulie. Un craquement à l'épaule au premier mouvement de traction signale une coiffe pas réveillée. Stoppe, reprends une activation douce, reviens progressivement. Si la douleur persiste, ne grimpe pas. Mieux vaut une séance perdue qu'une saison."
+    },
+    {
+      "type": "p",
+      "html": "Ces deux articles complètent la routine."
+    }
   ],
   "faq": [
-    {"q": "Combien de temps doit durer un échauffement avant de grimper ?", "a": "Compte 15 minutes minimum en conditions standards, 20 à 25 minutes en hiver ou après 40 ans. Trois étages : cardio léger, mobilité et activation des épaules, montée progressive en intensité sur les doigts. Plus court te coûte cher en blessures."},
-    {"q": "Faut-il s'étirer avant la grimpe ?", "a": "Pas en stretching statique long. Les étirements maintenus plus de 30 secondes diminuent la force explosive pendant 30 minutes environ. Privilégie les étirements dynamiques courts pendant l'échauffement, garde le stretching statique pour la fin de séance ou les jours off."},
-    {"q": "Quels exercices pour échauffer les doigts en escalade ?", "a": "Suspensions passives sur grosses prises 10 secondes, puis bacs, puis arquées moyennes. Trois ou quatre voies en sous-régime avant ton projet. Évite absolument les suspensions à un ou deux doigts à froid, c'est le principal facteur de rupture de poulie A2."},
-    {"q": "Comment échauffer les épaules pour la grimpe ?", "a": "Rotations dynamiques 30 secondes, élévations latérales avec une bouteille d'eau, rotations externes avec élastique. Termine par des activations scapulaires en suspension bras tendus, dix répétitions lentes. Ces exercices préparent la coiffe des rotateurs et préviennent les tendinites."},
-    {"q": "Doit-on s'échauffer entre deux essais d'un projet ?", "a": "Pas un nouvel échauffement complet, mais une réactivation rapide si tu attends plus de 15 minutes entre deux essais. Quelques rotations d'épaules, une suspension de 10 secondes sur une grosse prise, deux ou trois mouvements faciles. Le froid revient vite après une grosse tentative."}
+    {
+      "q": "Combien de temps doit durer un échauffement avant de grimper ?",
+      "a": "Compte 15 minutes minimum en conditions standards, 20 à 25 minutes en hiver ou après 40 ans. Trois étages : cardio léger, mobilité et activation des épaules, montée progressive en intensité sur les doigts. Plus court te coûte cher en blessures."
+    },
+    {
+      "q": "Faut-il s'étirer avant la grimpe ?",
+      "a": "Pas en stretching statique long. Les étirements maintenus plus de 30 secondes diminuent la force explosive pendant 30 minutes environ. Privilégie les étirements dynamiques courts pendant l'échauffement, garde le stretching statique pour la fin de séance ou les jours off."
+    },
+    {
+      "q": "Quels exercices pour échauffer les doigts en escalade ?",
+      "a": "Suspensions passives sur grosses prises 10 secondes, puis bacs, puis arquées moyennes. Trois ou quatre voies en sous-régime avant ton projet. Évite absolument les suspensions à un ou deux doigts à froid, c'est le principal facteur de rupture de poulie A2."
+    },
+    {
+      "q": "Comment échauffer les épaules pour la grimpe ?",
+      "a": "Rotations dynamiques 30 secondes, élévations latérales avec une bouteille d'eau, rotations externes avec élastique. Termine par des activations scapulaires en suspension bras tendus, dix répétitions lentes. Ces exercices préparent la coiffe des rotateurs et préviennent les tendinites."
+    },
+    {
+      "q": "Doit-on s'échauffer entre deux essais d'un projet ?",
+      "a": "Pas un nouvel échauffement complet, mais une réactivation rapide si tu attends plus de 15 minutes entre deux essais. Quelques rotations d'épaules, une suspension de 10 secondes sur une grosse prise, deux ou trois mouvements faciles. Le froid revient vite après une grosse tentative."
+    }
   ],
   "cover_alt": "Grimpeur en train de s'échauffer avant une voie, rotations d'épaules au pied du mur",
   "internal_links": [
-    {"slug": "preparer-corps-tete-grimpe", "anchor": "La préparation physique et mentale du grimpeur", "context": "Pilier préparation"},
-    {"slug": "etirements-grimpeur-souplesse", "anchor": "étirements et souplesse, ce qui sert vraiment", "context": "Souplesse"},
-    {"slug": "blessures-doigts-grimpeur", "anchor": "prévenir les blessures de doigts", "context": "Blessures doigts"},
-    {"slug": "musculation-grimpeur-base", "anchor": "musculation de base du grimpeur", "context": "Musculation"}
+    {
+      "slug": "preparer-corps-tete-grimpe",
+      "anchor": "La préparation physique et mentale du grimpeur",
+      "context": "Pilier préparation"
+    },
+    {
+      "slug": "etirements-grimpeur-souplesse",
+      "anchor": "étirements et souplesse, ce qui sert vraiment",
+      "context": "Souplesse"
+    },
+    {
+      "slug": "blessures-doigts-grimpeur",
+      "anchor": "prévenir les blessures de doigts",
+      "context": "Blessures doigts"
+    },
+    {
+      "slug": "musculation-grimpeur-base",
+      "anchor": "musculation de base du grimpeur",
+      "context": "Musculation"
+    }
   ],
   "scheduled_at": "2027-02-06T09:00:00+01:00"
 }

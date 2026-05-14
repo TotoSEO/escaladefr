@@ -3,7 +3,7 @@
   "cocon": "noeuds",
   "type_article": "astuce",
   "numero": 70,
-  "title": "Nœud de Mickey : jonction de cordes simple pour rappel",
+  "title": "Nœud de Mickey, jonction de cordes simple pour rappel",
   "h1": "Le nœud de Mickey, jonction de cordes simple pour rappel",
   "description": "Le nœud de Mickey ou flat overhand, jonction plate pour relier deux cordes en rappel. Tracé, longueur de brin libre, limites et controverse.",
   "chapo": "Le nœud de Mickey, ou flat overhand bend en anglais, joint deux cordes de rappel par un simple nœud plat. Avantage majeur, sa forme plate empêche les coincements quand tu rappelles la corde derrière toi. Inconvénient connu, il peut rouler sous charge si le brin libre est trop court. Tracé, dimensionnement et bonne pratique pour un usage fiable en falaise.",
@@ -25,7 +25,7 @@
     },
     {
       "type": "p",
-      "html": "Sa popularité explose dans les années 1990 quand les rappeleurs réalisent que sa forme plate offre un avantage décisif : il glisse sur les arêtes rocheuses et les replats sans s'accrocher, contrairement aux nœuds volumineux comme le <a href=\"/blog/noeud-pecheur-double-rappel\">pêcheur double</a>. Sur un rappel de 50 mètres, cette différence se traduit par un rappel de corde fluide ou un coincement frustrant qui oblige à remonter. Pour situer ce nœud parmi les autres, consulte le <a href=\"/blog/noeuds-escalade-utiles-guide\">panorama des nœuds utiles en escalade</a>."
+      "html": "Sa popularité explose dans les années 1990 quand les rappeleurs réalisent que sa forme plate offre un avantage décisif : il glisse sur les arêtes rocheuses et les replats sans s'accrocher, contrairement aux nœuds volumineux comme le <a href=\"/blog/noeud-pecheur-double-rappel\">pêcheur double</a>. Sur un rappel de 50 mètres, cette différence se traduit par un rappel de corde fluide ou un coincement frustrant qui oblige à remonter. Pour situer ce nœud parmi les autres,"
     },
     {
       "type": "p",

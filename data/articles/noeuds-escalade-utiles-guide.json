@@ -3,7 +3,7 @@
   "cocon": "noeuds",
   "type_article": "hub",
   "numero": 3,
-  "title": "Nœuds d'escalade : les 8 nœuds essentiels à connaître",
+  "title": "Nœuds d'escalade, les 8 nœuds essentiels à connaître",
   "h1": "Les nœuds d'escalade utiles à connaître.",
   "description": "Les nœuds essentiels en escalade : huit, cabestan, demi-cabestan, prussik, machard, pêcheur double et mule. Usage, exécution et vérifications.",
   "chapo": "Combien de nœuds faut-il vraiment connaître pour grimper sereinement ? Huit suffisent à couvrir le bloc, la voie sportive et la grande voie. Je détaille ici chaque nœud essentiel : son usage précis, comment le réaliser, les pièges à éviter et la vérification systématique du nœud du partenaire avant de quitter le sol.",
@@ -123,16 +123,52 @@
     {
       "type": "table",
       "caption": "Récapitulatif des usages des nœuds essentiels",
-      "headers": ["Nœud", "Usage principal", "Discipline"],
+      "headers": [
+        "Nœud",
+        "Usage principal",
+        "Discipline"
+      ],
       "rows": [
-        ["Huit double", "Encordement au baudrier", "Toutes"],
-        ["Cabestan", "Vachage au relais", "Voie, grande voie"],
-        ["Demi-cabestan", "Assurage de secours", "Grande voie, alpinisme"],
-        ["Prussik", "Auto-bloquant rappel", "Falaise, grande voie"],
-        ["Machard", "Auto-bloquant débloquable", "Rappel, sauvetage"],
-        ["Pêcheur double", "Jonction de cordes", "Rappel, alpinisme"],
-        ["Mickey", "Arrêt en bout de corde", "Tout rappel"],
-        ["Mule bloquant", "Bloquer la corde mains libres", "Sauvetage, urgence"]
+        [
+          "Huit double",
+          "Encordement au baudrier",
+          "Toutes"
+        ],
+        [
+          "Cabestan",
+          "Vachage au relais",
+          "Voie, grande voie"
+        ],
+        [
+          "Demi-cabestan",
+          "Assurage de secours",
+          "Grande voie, alpinisme"
+        ],
+        [
+          "Prussik",
+          "Auto-bloquant rappel",
+          "Falaise, grande voie"
+        ],
+        [
+          "Machard",
+          "Auto-bloquant débloquable",
+          "Rappel, sauvetage"
+        ],
+        [
+          "Pêcheur double",
+          "Jonction de cordes",
+          "Rappel, alpinisme"
+        ],
+        [
+          "Mickey",
+          "Arrêt en bout de corde",
+          "Tout rappel"
+        ],
+        [
+          "Mule bloquant",
+          "Bloquer la corde mains libres",
+          "Sauvetage, urgence"
+        ]
       ]
     },
     {
@@ -171,7 +207,7 @@
     },
     {
       "type": "p",
-      "html": "Tu peux lire <a href=\"/blog/verifier-noeud-partenaire\">notre protocole de vérification du partenaire</a> qui détaille la checklist visuelle et verbale. Ce moment doit devenir aussi automatique que de mettre sa ceinture en voiture, sans débat ni exception. Même Adam Ondra le fait avant ses tentatives en falaise."
+      "html": "Ce moment doit devenir aussi automatique que de mettre sa ceinture en voiture, sans débat ni exception. Même Adam Ondra le fait avant ses tentatives en falaise."
     },
     {
       "type": "h2",

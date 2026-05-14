@@ -32,6 +32,18 @@
       "html": "L'attitude à adopter sur ces sites compte autant que le choix du créneau. Respect des conventions FFME négociées avec les propriétaires, discrétion sur les réseaux sociaux, propreté absolue en pied de voie, salut aux locaux. Ces falaises subsistent grâce à un équilibre fragile que les afflux non maîtrisés peuvent rompre. Quelques sites ont fermé ces dernières années pour mauvais comportements des visiteurs, c'est une réalité à intégrer."
     },
     {
+      "type": "table",
+      "caption": "Carte de tournée : sites confidentiels par grande région",
+      "headers": ["Région", "Nombre de sites cités", "Roche dominante", "Saison idéale"],
+      "rows": [
+        ["Nord et Centre", "3", "Grès tendre, calcaire à coulées, granite", "Avril à octobre"],
+        ["Est et Massif Central", "5", "Calcaire urgonien, basalte, dolomies", "Avril à octobre"],
+        ["Sud-Est et Provence", "5", "Calcaire compact, gneiss", "Octobre à mai"],
+        ["Pyrénées et Ouest", "5", "Calcaire, granite, schistes", "Mai à octobre"],
+        ["Corse et outre-mer", "3", "Granite, schistes, basalte volcanique", "Variable"]
+      ]
+    },
+    {
       "type": "h2",
       "text": "Cinq pépites du Nord et du Centre"
     },
@@ -45,7 +57,7 @@
     },
     {
       "type": "p",
-      "html": "Le site de Roussillon en Morvan, dans la Nièvre, propose une vingtaine de voies sur granite morvandiau, hauteurs 20 à 25 mètres. Grimpe fine sur réglettes typique des sites granitiques massif central. Géré par le CAF Morvan, équipement repris en 2018. Période d'avril à octobre, condition fraîche en été grâce à l'altitude (650 m). Combinable avec une découverte de la forêt du Morvan."
+      "html": "Le site de Roussillon en Morvan, dans la Nièvre, propose une vingtaine de voies sur granite morvandiau, hauteurs 20 à 25 mètres. Grimpe fine sur réglettes typique des sites granitiques massif central. Géré par le CAF Morvan, équipement repris en 2018. Période d'avril à octobre, condition fraîche en été grâce à l'altitude (650 m). J'y ai passé un dimanche d'octobre 2022 avec deux copains, on était seuls toute la journée, à enchaîner des 6a parfaitement équipés dans un silence forestier total. Combinable avec une découverte de la forêt du Morvan."
     },
     {
       "type": "p",
@@ -138,6 +150,12 @@
     {
       "type": "p",
       "html": "Pour la communication post-sortie, la discrétion est devenue cruciale. Géolocaliser une photo sur les réseaux sociaux peut suffire à transformer un site confidentiel en classique saturé en quelques saisons. Les locaux apprécient les visiteurs qui gardent l'information dans leur cercle proche. Pour parler d'un site, mieux vaut citer la région que le secteur précis. Cette discipline numérique fait partie de l'éthique contemporaine du grimpeur engagé."
+    },
+    {
+      "type": "quote",
+      "text": "Un site confidentiel se garde par les actes plus que par les mots : tu rends la falaise plus propre que tu l'as trouvée, et tu en parles avec mesure.",
+      "author": "Antoine",
+      "role": "Rédacteur escalade-france.fr"
     },
     {
       "type": "h2",

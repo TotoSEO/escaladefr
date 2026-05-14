@@ -46,13 +46,43 @@
     {
       "type": "table",
       "caption": "Typologie des accès",
-      "headers": ["Type d'accès", "Distance", "Matériel spécifique", "Voies concernées"],
+      "headers": [
+        "Type d'accès",
+        "Distance",
+        "Matériel spécifique",
+        "Voies concernées"
+      ],
       "rows": [
-        ["Rappel court", "50 à 80 m", "1 brin de 70 m", "Demande, certaines voies de Mayreste"],
-        ["Rappel moyen", "100 à 150 m", "2 brins de 70 m", "Pichenibule, Mistic, ULA"],
-        ["Rappel long", "150 à 200 m", "2 brins de 70 m, descendeur autobloquant", "Trans-Verdon, Eric et les Verrous"],
-        ["Sentier d'approche", "30 min à 1 h", "Chaussures de marche", "Carelle, Pas du Galetas"],
-        ["Sentier long", "1 h à 2 h", "Sac d'approche complet", "Mayreste rive sud, secteurs reculés"]
+        [
+          "Rappel court",
+          "50 à 80 m",
+          "1 brin de 70 m",
+          "Demande, certaines voies de Mayreste"
+        ],
+        [
+          "Rappel moyen",
+          "100 à 150 m",
+          "2 brins de 70 m",
+          "Pichenibule, Mistic, ULA"
+        ],
+        [
+          "Rappel long",
+          "150 à 200 m",
+          "2 brins de 70 m, descendeur autobloquant",
+          "Trans-Verdon, Eric et les Verrous"
+        ],
+        [
+          "Sentier d'approche",
+          "30 min à 1 h",
+          "Chaussures de marche",
+          "Carelle, Pas du Galetas"
+        ],
+        [
+          "Sentier long",
+          "1 h à 2 h",
+          "Sac d'approche complet",
+          "Mayreste rive sud, secteurs reculés"
+        ]
       ]
     },
     {
@@ -65,7 +95,7 @@
     },
     {
       "type": "p",
-      "html": "Le facteur humain compte beaucoup. Beaucoup d'accidents au Verdon ne viennent pas de la grimpe mais des rappels mal exécutés. Le syndrome de la corde courte, où tu sors de ton brin sans t'en rendre compte, reste une cause récurrente. Un descendeur autobloquant comme le Reverso en mode bloqué ou le Grigri en rappel élimine ce risque. Forme-toi à ces manœuvres en salle ou en école avant de t'aventurer sur les longues descentes."
+      "html": "Le facteur humain compte beaucoup. Beaucoup d'accidents au Verdon ne viennent pas de la grimpe mais des rappels mal exécutés. Le syndrome de la corde courte, où tu sors de ton brin sans t'en rendre compte, reste une cause récurrente. Un descendeur autobloquant comme le Reverso en mode bloqué ou le Grigri en rappel élimine ce risque. Forme-toi à ces manœuvres en salle ou en école avant de t'aventurer sur les longues descentes. Ma première Demande, j'avais 22 ans, le rappel de 80 m m'avait paru interminable, je tournais en l'air sans contact avec la paroi pendant les vingt derniers mètres, je n'oublierai jamais cette sensation."
     },
     {
       "type": "tip",
@@ -131,7 +161,7 @@
     },
     {
       "type": "p",
-      "html": "L'accès est une partie de l'équation, la grimpe en est une autre. Pour comprendre les voies, les classiques et l'histoire du site, lis notre guide complet sur les <a href=\"/blog/verdon-grandes-voies\">grandes voies du Verdon</a>. Pour comparer avec d'autres grands sites, va voir <a href=\"/blog/sites-escalade-emblematiques-france\">les sites emblématiques de France</a> ou plonge dans <a href=\"/blog/ceuse-cathedrale-calcaire\">Céüse, cathédrale du calcaire</a>."
+      "html": "L'accès est une partie de l'équation, la grimpe en est une autre. Pour comprendre les voies, les classiques et l'histoire du site, Pour comparer avec d'autres grands sites, va voir <a href=\"/blog/sites-escalade-emblematiques-france\">les sites emblématiques de France</a> ou plonge dans <a href=\"/blog/ceuse-cathedrale-calcaire\">Céüse, cathédrale du calcaire</a>."
     },
     {
       "type": "p",
@@ -166,10 +196,26 @@
   ],
   "cover_alt": "Grimpeur en rappel d'accès depuis le plateau du Verdon vers une grande voie",
   "internal_links": [
-    {"slug": "verdon-grandes-voies", "anchor": "grandes voies du Verdon", "context": "Article parent sur les voies"},
-    {"slug": "sites-escalade-emblematiques-france", "anchor": "les sites emblématiques de France", "context": "Pilier du cocon"},
-    {"slug": "ceuse-cathedrale-calcaire", "anchor": "Céüse, cathédrale du calcaire", "context": "Autre site calcaire"},
-    {"slug": "fontainebleau-bloc-foret", "anchor": "Fontainebleau, capitale mondiale du bloc", "context": "Comparaison avec l'autre site mythique"}
+    {
+      "slug": "verdon-grandes-voies",
+      "anchor": "grandes voies du Verdon",
+      "context": "Article parent sur les voies"
+    },
+    {
+      "slug": "sites-escalade-emblematiques-france",
+      "anchor": "les sites emblématiques de France",
+      "context": "Pilier du cocon"
+    },
+    {
+      "slug": "ceuse-cathedrale-calcaire",
+      "anchor": "Céüse, cathédrale du calcaire",
+      "context": "Autre site calcaire"
+    },
+    {
+      "slug": "fontainebleau-bloc-foret",
+      "anchor": "Fontainebleau, capitale mondiale du bloc",
+      "context": "Comparaison avec l'autre site mythique"
+    }
   ],
   "scheduled_at": "2026-11-14T09:00:00+01:00"
 }

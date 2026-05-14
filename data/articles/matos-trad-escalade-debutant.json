@@ -3,7 +3,7 @@
   "cocon": "materiel",
   "type_article": "guide",
   "numero": 61,
-  "title": "Matériel trad escalade : le guide pour s'initier sans se ruiner",
+  "title": "Matériel trad escalade, le guide pour s'initier sans se ruiner",
   "h1": "Matériel pour s'initier à l'escalade traditionnelle, par où commencer",
   "description": "Friends, coinceurs, stoppers, Tricams : le guide pour comprendre et acheter son premier set de matériel trad, budget, marques et progression.",
   "chapo": "Le trad fascine beaucoup de grimpeurs mais le matériel intimide souvent au point qu'on n'ose pas franchir le cap. Friends, coinceurs passifs, Tricams, sangles longues, tampons, l'inventaire semble énorme. La vérité, c'est qu'un set d'initiation à 400-500 € suffit à grimper en autonomie sur des voies adaptées. Ce guide explique quoi acheter, dans quel ordre et chez quelle marque.",
@@ -21,11 +21,11 @@
     },
     {
       "type": "p",
-      "html": "L'escalade traditionnelle, ou trad, consiste à grimper sur des voies non équipées en plaçant soi-même les protections au fur et à mesure de la progression. Le grimpeur retire les protections au passage du second, le rocher reste vierge. Cette pratique demande un matériel spécifique : les <strong>protections amovibles</strong>, conçues pour se coincer dans les fissures et résister à une chute, puis se retirer sans abîmer le rocher."
+      "html": "L'escalade traditionnelle, ou trad, consiste à grimper sur des voies non équipées en plaçant soi-même les protections au fur et à mesure de la progression. Le grimpeur retire les protections au passage du second, le rocher reste vierge. Cette pratique demande un <a href=\"/blog/materiel-escalade-essentiel\">matériel</a> spécifique : les <strong>protections amovibles</strong>, conçues pour se coincer dans les fissures et résister à une chute, puis se retirer sans abîmer le rocher."
     },
     {
       "type": "p",
-      "html": "Deux grandes familles de protections coexistent. Les <strong>coinceurs mécaniques</strong>, appelés cams en anglais, friends en français, sont des dispositifs à cames articulées qui s'écartent dans la fissure quand on tire dessus. Les <strong>coinceurs passifs</strong>, type stoppers, hexcentriques ou Tricams, sont des pièces de métal massif qu'on coince dans un rétrécissement de fissure. Les deux familles se complètent et un set trad complet en contient des deux types."
+      "html": "Deux grandes familles de protections coexistent. Les <strong>coinceurs mécaniques</strong>, appelés cams en anglais, friends en français, sont des dispositifs à cames articulées qui s'écartent dans la fissure quand on tire dessus. Les <strong>coinceurs passifs</strong>, type stoppers, hexcentriques ou Tricams, sont des pièces de métal massif qu'on coince dans un rétrécissement de fissure. Les deux familles se complètent et un set trad complet en contient des deux <a href=\"/blog/mousquetons-escalade-types\">types</a>."
     },
     {
       "type": "p",
@@ -84,11 +84,11 @@
     },
     {
       "type": "p",
-      "html": "Le trad demande davantage de sangles longues que le sportif. Une fissure trad zigzague souvent, les points sont rarement alignés, et le tirage de corde tue la progression si tu ne prolonges pas les protections avec des sangles. Compte 6 à 8 anneaux de 60 cm en Dyneema (160-200 €) et 2 à 4 anneaux de 120 cm. Ces sangles se transforment en dégaines en y ajoutant deux mousquetons légers."
+      "html": "Le trad demande davantage de <a href=\"/blog/sangles-anneaux-cousus-usage\">sangles</a> longues que le sportif. Une fissure trad zigzague souvent, les points sont rarement alignés, et le tirage de corde tue la progression si tu ne prolonges pas les protections avec des sangles. Compte 6 à 8 anneaux de 60 cm en Dyneema (160-200 €) et 2 à 4 anneaux de 120 cm. Ces sangles se transforment en dégaines en y ajoutant deux mousquetons légers."
     },
     {
       "type": "p",
-      "html": "Côté mousquetons, le trad consomme beaucoup. Compte 20 à 25 mousquetons à doigt clean (sans crochet pour ne pas accrocher dans les fissures) type Petzl Spirit Wire ou DMM Phantom Wire. Ces mousquetons en fil de métal sont plus légers et glissent mieux dans les fissures. Budget mousquetons : 200-300 €."
+      "html": "Côté mousquetons, le trad consomme beaucoup. Compte 20 à 25 mousquetons à doigt clean (sans crochet pour ne pas accrocher dans les fissures) type Petzl Spirit Wire ou DMM Phantom Wire. Ces <a href=\"/blog/mousquetons-escalade-types\">mousquetons en fil de métal</a> sont plus légers et glissent mieux dans les fissures. Budget mousquetons : 200-300 €."
     },
     {
       "type": "h2",
@@ -147,7 +147,7 @@
     },
     {
       "type": "p",
-      "html": "L'occasion via Le Bon Coin ou Vinted Sport permet d'économiser 30 à 50% sur les cams, à condition de vérifier l'état des ressorts (les cames doivent claquer franchement), des cames (pas de méplats d'usure marqués), des tiges (pas de torsion). Pour les sangles et cordelettes, l'occasion est déconseillée parce qu'on ne connaît pas l'historique des chutes encaissées."
+      "html": "L'occasion via Le Bon Coin ou Vinted Sport permet d'économiser 30 à 50% sur les cams. Mon dossier <a href=\"/blog/matos-occasion-acheter\">acheter du matos d'occasion</a> détaille les vérifications, à commencer par l'état des ressorts (les cames doivent claquer franchement), des cames (pas de méplats d'usure marqués), des tiges (pas de torsion). Pour les sangles et cordelettes, l'occasion est déconseillée parce qu'on ne connaît pas l'historique des chutes encaissées."
     },
     {
       "type": "tip",

@@ -3,7 +3,7 @@
   "cocon": "securite",
   "type_article": "guide",
   "numero": 136,
-  "title": "Accidents en escalade : statistiques et causes réelles 2026",
+  "title": "Accidents d'escalade, ce que disent vraiment les chiffres",
   "h1": "Les accidents en escalade, ce que disent vraiment les chiffres",
   "description": "Statistiques d'accidents en escalade en France, causes réelles, comparaison salle et falaise, et leviers concrets pour réduire le risque sur ta pratique.",
   "chapo": "Quand on demande à un non grimpeur, il imagine la chute spectaculaire dans le vide. Quand on regarde les rapports d'accidents de la FFME, du PGHM et des assureurs, on voit autre chose : un nœud oublié, un mousqueton non verrouillé, une chute en bloc mal réceptionnée. Cet article reprend les chiffres et explique ce qu'ils signifient pour ta propre pratique.",
@@ -21,11 +21,11 @@
     },
     {
       "type": "p",
-      "html": "La **<strong>FFME</strong>** publie chaque année une analyse des sinistres déclarés par ses licenciés. Sur la base de plus de cent mille licenciés en France, le taux d'accidents corporels déclarés tourne autour de **trois à cinq cas pour mille pratiquants par an**, tous niveaux confondus. C'est moins que le judo, moins que le rugby, comparable au tennis. L'image de l'escalade comme sport extrême tient mal face à ces données."
+      "html": "La FFME publie chaque année une analyse des sinistres déclarés par ses licenciés. Sur la base de plus de cent mille licenciés en France, le taux d'accidents corporels déclarés tourne autour de trois à cinq cas pour mille pratiquants par an, tous niveaux confondus. C'est moins que le judo, moins que le rugby, comparable au tennis. L'image de l'escalade comme sport extrême tient mal face à ces données."
     },
     {
       "type": "p",
-      "html": "Le <strong>PGHM</strong> (Peloton de Gendarmerie de Haute Montagne) et les <strong>CRS Montagne</strong> interviennent en moyenne plusieurs centaines de fois par an sur des secours en escalade et alpinisme cumulés. Sur ce volume, l'escalade sportive en falaise représente une part minoritaire mais bien visible. Le bloc en falaise génère peu d'interventions lourdes, parce que les hauteurs sont faibles, mais beaucoup de blessures non déclarées au comité départemental ou à l'assurance personnelle."
+      "html": "Le PGHM (Peloton de Gendarmerie de Haute Montagne) et les CRS Montagne interviennent en moyenne plusieurs centaines de fois par an sur des secours en escalade et alpinisme cumulés. Sur ce volume, l'escalade sportive en falaise représente une part minoritaire mais bien visible. Le bloc en falaise génère peu d'interventions lourdes, parce que les hauteurs sont faibles, mais beaucoup de blessures non déclarées au comité départemental ou à l'assurance personnelle."
     },
     {
       "type": "h2",
@@ -33,11 +33,11 @@
     },
     {
       "type": "p",
-      "html": "Le **risque en salle d'escalade** se concentre sur le bloc. Les chutes mal réceptionnées entraînent des entorses de cheville, des fractures du poignet, parfois des lésions de la colonne. Les voies en moulinette posent peu de problèmes parce que la corde est en haut et que les chutes sont courtes. Les voies en tête en salle restent statistiquement très sûres, le <strong>facteur de chute</strong> reste faible et les points sont rapprochés."
+      "html": "Le risque en salle d'escalade se concentre sur le bloc. Les chutes mal réceptionnées entraînent des entorses de cheville, des fractures du poignet, parfois des lésions de la colonne. Les voies en moulinette posent peu de problèmes parce que la corde est en haut et que les chutes sont courtes. Les voies en tête en salle restent statistiquement très sûres, le facteur de chute reste faible et les points sont rapprochés."
     },
     {
       "type": "p",
-      "html": "La **falaise sportive** concentre les accidents lourds. Chute en tête au dessus du dernier point, choc contre la paroi, mauvais clippage, voie sous estimée. Les statistiques disponibles via les sociétés d'assurance comme Allianz ou la **MAIF** sport montrent que la majorité des accidents en falaise impliquent un grimpeur en tête, dans une zone connue, par grand beau temps. Le facteur surprise est presque nul, le facteur humain est central."
+      "html": "La <strong>falaise sportive</strong> concentre les accidents lourds. Chute en tête au dessus du dernier point, choc contre la paroi, mauvais clippage, voie sous estimée. Les statistiques disponibles via les sociétés d'assurance comme Allianz ou la <strong>MAIF</strong> sport montrent que la majorité des accidents en falaise impliquent un grimpeur en tête, dans une zone connue, par grand beau temps. Le facteur surprise est presque nul, le facteur humain est central."
     },
     {
       "type": "table",
@@ -81,11 +81,11 @@
     },
     {
       "type": "p",
-      "html": "Les rapports convergent vers la même conclusion : la cause matérielle d'un accident en escalade est rare. Une corde qui casse, un mousqueton qui rompt, un point d'assurage qui s'arrache, ça arrive moins d'une fois sur cent accidents. Ce qui domine, c'est **l'erreur humaine** : nœud d'encordement incomplet, mousqueton à vis non verrouillé, assureur distrait, mauvaise communication grimpeur assureur, voie sous estimée. C'est une nouvelle plutôt rassurante : tu peux agir sur quasiment toutes les causes."
+      "html": "Les rapports convergent vers la même conclusion : la cause matérielle d'un accident en escalade est rare. Une corde qui casse, un mousqueton qui rompt, un point d'assurage qui s'arrache, ça arrive moins d'une fois sur cent accidents. Ce qui domine, c'est <strong>l'erreur humaine</strong> : nœud d'encordement incomplet, mousqueton à vis non verrouillé, assureur distrait, mauvaise communication grimpeur assureur, voie sous estimée. C'est une nouvelle plutôt rassurante : tu peux agir sur quasiment toutes les causes."
     },
     {
       "type": "p",
-      "html": "L'analyse des accidents publiée par Petzl dans son rapport annuel confirme : sur cent cas étudiés, plus de quatre vingts impliquent une erreur de procédure côté grimpeur ou assureur. Le matériel reste fiable s'il est entretenu, vérifié et utilisé selon la notice constructeur. La **triple vérification** baudrier corde nœud reste la première barrière."
+      "html": "L'analyse des accidents publiée par Petzl dans son rapport annuel confirme : sur cent cas étudiés, plus de quatre vingts impliquent une erreur de procédure côté grimpeur ou assureur. Le matériel reste fiable s'il est entretenu, vérifié et utilisé selon la notice constructeur. La <strong>triple vérification</strong> baudrier corde nœud reste la première barrière."
     },
     {
       "type": "tip",
@@ -99,11 +99,11 @@
     },
     {
       "type": "p",
-      "html": "Le **vélo de route** affiche un taux d'accidents bien supérieur à l'escalade par heure de pratique. Le ski alpin également, surtout hors piste. Le parapente, l'alpinisme et la spéléologie sortent dans une autre catégorie de risque, plus exposée. L'escalade sportive sur sites équipés reste un sport prudent, à condition que les acteurs respectent les protocoles enseignés en école et structurés par la FFME."
+      "html": "Le <strong>vélo de route</strong> affiche un taux d'accidents bien supérieur à l'escalade par heure de pratique. Le ski alpin également, surtout hors piste. Le parapente, l'alpinisme et la spéléologie sortent dans une autre catégorie de risque, plus exposée. L'escalade sportive sur sites équipés reste un sport prudent, à condition que les acteurs respectent les protocoles enseignés en école et structurés par la FFME."
     },
     {
       "type": "p",
-      "html": "Cette comparaison ne sert pas à minimiser. Elle remet l'escalade à sa place : un sport où le risque existe mais reste maîtrisable par la méthode. Tu peux lire <a href=\"/blog/chute-en-tete-facteurs\">notre dossier sur la chute en tête et les facteurs de chute</a> pour comprendre comment évaluer le risque réel quand tu grimpes."
+      "html": "Cette comparaison ne sert pas à minimiser. Elle remet l'escalade à sa place : un sport où le risque existe mais reste maîtrisable par la méthode."
     },
     {
       "type": "h2",
@@ -111,7 +111,7 @@
     },
     {
       "type": "p",
-      "html": "À dix sept ans, lors d'une compétition à Mulhouse, j'ai chuté en bloc sur une réception qui n'avait rien de violent. Je suis pourtant resté assis cinq minutes, douleur vive au poignet, gonflement immédiat. Verdict : entorse sévère, attelle quatre semaines. Je connaissais la voie, je savais où j'allais tomber, le tapis était au sol. Et pourtant. Cet accident sans gravité m'a appris que **le bloc en salle** n'est jamais anodin, même bas, même connu."
+      "html": "À dix sept ans, lors d'une compétition à Mulhouse, j'ai chuté en bloc sur une réception qui n'avait rien de violent. Je suis pourtant resté assis cinq minutes, douleur vive au poignet, gonflement immédiat. Verdict : entorse sévère, attelle quatre semaines. Je connaissais la voie, je savais où j'allais tomber, le tapis était au sol. Et pourtant. Cet accident sans gravité m'a appris que <strong>le bloc en salle</strong> n'est jamais anodin, même bas, même connu."
     },
     {
       "type": "p",
@@ -154,7 +154,7 @@
     },
     {
       "type": "p",
-      "html": "Le port du **casque en falaise** réduit significativement le risque de traumatisme crânien grave en cas de chute ou de chute de pierre. Les modèles Petzl Sirocco, Black Diamond Vapor ou Mammut Wall Rider couvrent la majorité des besoins. Le casque est normé EN 12492 pour l'alpinisme et l'escalade. À renouveler tous les dix ans ou immédiatement après un choc visible."
+      "html": "Le port du <strong>casque en falaise</strong> réduit significativement le risque de traumatisme crânien grave en cas de chute ou de chute de pierre. Les modèles Petzl Sirocco, Black Diamond Vapor ou Mammut Wall Rider couvrent la majorité des besoins. Le casque est normé EN 12492 pour l'alpinisme et l'escalade. À renouveler tous les dix ans ou immédiatement après un choc visible."
     },
     {
       "type": "p",
@@ -172,7 +172,7 @@
     },
     {
       "type": "p",
-      "html": "Si l'accident arrive, la procédure est cadrée : sécurise la victime, fais un bilan rapide, alerte les secours via le 112 en montagne, le 15 ou le 18 en milieu urbain. Tu peux consulter <a href=\"/blog/premiers-secours-escalade\">notre guide des premiers secours en escalade</a> et <a href=\"/blog/alerter-secours-falaise\">la procédure pour alerter les secours en falaise</a>. Sur un site reculé, l'**hélitreuillage** par le PGHM ou les CRS Montagne reste la solution standard pour les blessés graves."
+      "html": "Si l'accident arrive, la procédure est cadrée : sécurise la victime, fais un bilan rapide, alerte les secours via le 112 en montagne, le 15 ou le 18 en milieu urbain. Sur un site reculé, l'<strong>hélitreuillage</strong> par le PGHM ou les CRS Montagne reste la solution standard pour les blessés graves."
     },
     {
       "type": "p",

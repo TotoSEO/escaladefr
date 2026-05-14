@@ -3,7 +3,7 @@
   "cocon": "materiel",
   "type_article": "liste",
   "numero": 50,
-  "title": "Mousquetons d'escalade : tous les types et leurs usages",
+  "title": "Mousquetons d'escalade, tous les types et leurs usages",
   "h1": "Les types de mousquetons d'escalade",
   "description": "Doigt droit, doigt courbe, à vis, automatique, HMS : tous les types de mousquetons décryptés avec normes EN 12275, charges et usages réels.",
   "chapo": "Un mousqueton, ça paraît bête. Un anneau métallique, un doigt qui s'ouvre. En réalité, il existe une bonne dizaine de types différents, chacun pour un usage précis. Mauvais mousqueton dans la mauvaise dégaine, et la performance s'effondre. Je détaille ici les familles et les modèles que j'utilise.",
@@ -15,66 +15,256 @@
     "Les HMS poire offrent un volume idéal pour le nœud de Munter et l'assurage."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Anatomie d'un mousqueton et marquages obligatoires"},
-    {"type": "p", "html": "Un mousqueton se compose de quatre éléments. Le corps, généralement en alliage d'aluminium 7075-T6. Le doigt mobile, fermé par un ressort. Le rivet d'articulation. Et l'éventuel système de verrouillage. Toute la résistance vient de la fermeture complète du doigt sur la gâchette du corps. Doigt ouvert ou semi ouvert, la charge admissible chute drastiquement."},
-    {"type": "p", "html": "Tout mousqueton vendu en Europe porte le marquage <strong>CE EN 12275</strong>, plus une norme UIAA 121 équivalente. Tu trouves trois chiffres gravés sur le corps. La résistance axiale grand axe, autour de 22 à 25 kN. La résistance mineure ou petit axe, autour de 7 à 8 kN. La résistance doigt ouvert, autour de 7 à 9 kN. Cette dernière est cruciale pour les usages où le doigt peut s'ouvrir contre la paroi."},
-    {"type": "h2", "text": "Mousqueton à doigt droit"},
-    {"type": "p", "html": "Le doigt droit est la forme la plus basique. Doigt rectiligne qui se referme verticalement sur la gâchette. Usage principal côté goujon sur les dégaines sport, ou pour clipper du matériel sur le baudrier. Léger, simple, robuste. Modèles courants <strong>Petzl Spirit, Black Diamond Hotwire, Wild Country Helium</strong>. Compte 8 à 12 euros pièce."},
-    {"type": "p", "html": "Pour les dégaines sport, le doigt droit se place toujours côté goujon. Cela évite le décrochage accidentel quand la corde se déplace. Les mousquetons à doigt droit acceptent mieux les chutes répétées sur des points en métal, ils s'usent moins vite que les courbes. Tu reconnais aussi un mousqueton qui prend une chute en tête, marqué au niveau de la gâchette par le passage de la corde."},
-    {"type": "h2", "text": "Mousqueton à doigt courbe"},
-    {"type": "p", "html": "Le doigt courbe forme un arc rentrant qui facilite le clippage de la corde. Idéal côté corde sur les dégaines sport, où tu clippes en mouvement parfois avec une seule main. Le doigt courbe guide la corde vers l'intérieur du mousqueton et limite les ratés de clippage. Petits revers, légèrement plus lourd et plus cher que le droit."},
-    {"type": "p", "html": "Les références sont <strong>Petzl Ange S, Black Diamond Hoodwire, DMM Phantom</strong>. Sur une dégaine, le doigt courbe se place toujours côté corde, le doigt droit côté goujon. Cette convention universelle vient des assureurs sportifs depuis 30 ans. Ne mélange jamais les deux côtés, tu réduirais l'ergonomie de tes dégaines."},
-    {"type": "h2", "text": "Mousqueton à doigt fil"},
-    {"type": "p", "html": "Le doigt fil utilise un câble d'acier inoxydable plié en forme de doigt, à la place du doigt classique en alu massif. L'avantage majeur, c'est le poids réduit et la limitation de l'inertie du doigt qui peut s'ouvrir lors d'une vibration ou d'un choc. Les modèles <strong>Black Diamond Hotwire, DMM Alpha Light, Wild Country Helium 3</strong> dominent cette catégorie."},
-    {"type": "p", "html": "Le doigt fil est idéal pour les dégaines longues d'alpinisme et les usages où chaque gramme compte. Le seul inconvénient, c'est la sensibilité à la déformation en cas de torsion violente. Sur un usage normal, aucun problème. En cas de chute avec mouvement latéral, le doigt fil peut se déformer plus vite qu'un doigt massif."},
-    {"type": "h2", "text": "Mousqueton à vis"},
-    {"type": "p", "html": "Le mousqueton à vis ajoute une bague filetée qui vient bloquer le doigt en position fermée. Tu visses pour sécuriser, tu dévisses pour ouvrir. Usage principal sur les points clés. Encordement au pontet du baudrier en assurage, fixation du système d'assurage, premier point en grande voie, relais en falaise. Modèles courants <strong>Petzl Sm'D, Black Diamond Rocklock, DMM Belay Master 2</strong>."},
-    {"type": "p", "html": "L'inconvénient du à vis, c'est l'oubli de visser. Une fois sur dix tu pars en grimpant sans avoir vissé, et le mousqueton se comporte alors comme un simple. Vérifie systématiquement. Le DMM Belay Master 2 intègre un clip plastique qui force le maintien du mousqueton dans le pontet et signale visuellement le vissage, c'est mon préféré pour l'assurage."},
-    {"type": "h2", "text": "Mousqueton à verrouillage automatique"},
-    {"type": "p", "html": "Le verrouillage automatique se referme tout seul après ouverture. Plusieurs systèmes existent. Twist Lock, deux mouvements quart de tour. Triple Lock, trois mouvements pour ouvrir, gage de sécurité maximale. Les références sont <strong>Petzl William Triact-Lock, Edelrid HMS Bulletproof Triple, DMM Phantom Screwgate</strong>."},
-    {"type": "p", "html": "L'avantage, c'est l'impossibilité d'oublier de visser. Le revers, c'est la difficulté d'ouverture à une main, et le risque de coincement avec sable ou glace. Pour l'assurage, je préfère un à vis qu'on contrôle visuellement, plutôt qu'un automatique parfois récalcitrant. En via ferrata en revanche, l'auto est obligatoire pour les longes."},
-    {"type": "list", "variant": "cards", "title": "Quel mousqueton pour quel usage", "items": [
-      {"title": "Côté goujon de dégaine", "body": "Doigt droit ou doigt fil. Petzl Spirit, Black Diamond Hotwire. Le doigt droit résiste mieux aux chutes répétées."},
-      {"title": "Côté corde de dégaine", "body": "Doigt courbe pour faciliter le clippage. Petzl Ange S, DMM Alpha Sport. Toujours associé à un doigt droit côté goujon."},
-      {"title": "Assurage et encordement", "body": "À vis HMS de forme poire. Petzl William, Black Diamond Rocklock, DMM Belay Master 2 pour la sécurité maximale."},
-      {"title": "Relais et grande voie", "body": "À vis ou automatique de petite taille. Petzl Sm'D, Edelrid HMS, Black Diamond Rocklock Twin Gate."},
-      {"title": "Via ferrata", "body": "Auto triple lock obligatoire selon la norme. Petzl Vertigo Wire-Lock, Edelrid Cable Kit Lite."}
-    ]},
-    {"type": "h2", "text": "Mousqueton HMS et forme poire"},
-    {"type": "p", "html": "Le HMS désigne une forme spécifique en poire, large d'un côté et étroite de l'autre. La grande ouverture permet le nœud de Munter pour l'assurage dynamique, le passage d'un autobloquant ou la gestion d'un Reverso en mode plaquette. C'est le mousqueton universel d'assurage. Modèles dominants <strong>Petzl William, Black Diamond Rocklock, Mammut Smart HMS</strong>."},
-    {"type": "p", "html": "Compte 18 à 30 euros pour un bon HMS à vis. Pour un usage assurage avec Grigri, le HMS reste utile car il offre l'espace pour passer ta corde même avec gants. Pour l'assurage en plaquette type Reverso, le HMS est obligatoire pour permettre le double passage du brin. Mes deux HMS personnels sont des Petzl William classiques."},
-    {"type": "h2", "text": "Lecture des chiffres gravés"},
-    {"type": "p", "html": "Sur le corps du mousqueton, tu trouves trois chiffres et plusieurs symboles. Le chiffre principal en kN indique la résistance axiale grand axe, charge avant rupture. Le deuxième chiffre, charge mineure petit axe, est crucial car les positions accidentelles te placent souvent en petit axe. Le troisième, charge doigt ouvert, s'applique si le doigt ne se referme pas complètement."},
-    {"type": "p", "html": "Pour un usage classique sport, vise 22 kN grand axe minimum, 8 kN petit axe, 7 kN doigt ouvert. Pour la grande voie alpine, certains acceptent des chiffres légèrement plus faibles en échange du poids plume. Mais ne descend jamais sous 20 kN grand axe pour un mousqueton de point d'assurage."},
-    {"type": "table", "caption": "Comparatif mousquetons par usage 2026", "headers": ["Modèle", "Type", "Charge axiale", "Poids", "Prix"], "rows": [
-      ["Petzl Spirit Straight", "Doigt droit", "23 kN", "39 g", "12 €"],
-      ["Petzl Ange S", "Doigt fil", "20 kN", "28 g", "16 €"],
-      ["Black Diamond Hotwire", "Doigt fil", "24 kN", "39 g", "11 €"],
-      ["Petzl William Screw-Lock", "HMS à vis", "27 kN", "84 g", "23 €"],
-      ["DMM Belay Master 2", "HMS à vis avec clip", "25 kN", "85 g", "28 €"]
-    ]},
-    {"type": "h2", "text": "Mes choix personnels pour mon set"},
-    {"type": "p", "html": "Pour mes dégaines sport, j'utilise un mix <strong>Petzl Spirit côté goujon et Ange S côté corde</strong>. Robuste sur les chutes répétées d'un côté, doigt courbe ergonomique de l'autre. Pour mon assurage Grigri, un Petzl William à vis. Pour mes relais en grande voie, deux DMM Belay Master 2 par cordée pour la sécurité maximale du verrouillage."},
-    {"type": "p", "html": "Je déconseille les mousquetons no name vendus en grandes surfaces sport. Le prix est attractif mais la traçabilité absente. Pour 5 euros d'économie sur un mousqueton, tu perds toute garantie. Pour les bases, regarde <a href=\"/blog/degaines-escalade-choix\">comment choisir tes dégaines</a> et <a href=\"/blog/materiel-escalade-essentiel\">le matériel d'escalade essentiel</a>."},
-    {"type": "quote", "text": "Un mousqueton vit toute une carrière si tu le respectes. Marque le, inspecte le, ne le fais jamais tomber d'une falaise.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
-    {"type": "h2", "text": "Inspection et durée de vie"},
-    {"type": "p", "html": "Un mousqueton n'a pas de date de péremption officielle s'il ne subit pas de choc fort. Inspecte le ressort du doigt, qui doit revenir net en position fermée. Vérifie l'absence de fissure dans le corps avec une loupe à 10x. Surveille l'usure de la zone de contact corde, qui peut creuser une encoche au bout de quelques années. Un mousqueton dont la gorge est creusée à 1 mm doit être réformé."},
-    {"type": "p", "html": "Tout mousqueton ayant chuté de plus de 5 mètres sur un sol dur doit être réformé. L'impact peut créer des micro fissures invisibles à l'œil. Ne reprends jamais le risque, le coût de remplacement reste inférieur à 30 euros. Marque tes mousquetons personnels avec un bout de scotch coloré ou un marquage poinçon pour les distinguer en grande voie."}
+    {
+      "type": "h2",
+      "text": "Anatomie d'un mousqueton et marquages obligatoires"
+    },
+    {
+      "type": "p",
+      "html": "Un mousqueton se compose de quatre éléments. Le corps, généralement en alliage d'aluminium 7075-T6. Le doigt mobile, fermé par un ressort. Le rivet d'articulation. Et l'éventuel système de verrouillage. Toute la résistance vient de la fermeture complète du doigt sur la gâchette du corps. Doigt ouvert ou semi ouvert, la charge admissible chute drastiquement."
+    },
+    {
+      "type": "p",
+      "html": "Tout mousqueton vendu en Europe porte le marquage <strong>CE EN 12275</strong>, plus une norme UIAA 121 équivalente. Tu trouves trois chiffres gravés sur le corps. La résistance axiale grand axe, autour de 22 à 25 kN. La résistance mineure ou petit axe, autour de 7 à 8 kN. La résistance doigt ouvert, autour de 7 à 9 kN. Cette dernière est cruciale pour les usages où le doigt peut s'ouvrir contre la paroi."
+    },
+    {
+      "type": "h2",
+      "text": "Mousqueton à doigt droit"
+    },
+    {
+      "type": "p",
+      "html": "Le doigt droit est la forme la plus basique. Doigt rectiligne qui se referme verticalement sur la gâchette. Usage principal côté goujon sur les dégaines sport, ou pour clipper du matériel sur le baudrier. Léger, simple, robuste. Modèles courants <strong>Petzl Spirit, Black Diamond Hotwire, Wild Country Helium</strong>. Compte 8 à 12 euros pièce."
+    },
+    {
+      "type": "p",
+      "html": "Pour les dégaines sport, le doigt droit se place toujours côté goujon. Cela évite le décrochage accidentel quand la corde se déplace. Les mousquetons à doigt droit acceptent mieux les chutes répétées sur des points en métal, ils s'usent moins vite que les courbes. Tu reconnais aussi un mousqueton qui prend une chute en tête, marqué au niveau de la gâchette par le passage de la corde."
+    },
+    {
+      "type": "h2",
+      "text": "Mousqueton à doigt courbe"
+    },
+    {
+      "type": "p",
+      "html": "Le doigt courbe forme un arc rentrant qui facilite le clippage de la corde. Idéal côté corde sur les dégaines sport, où tu clippes en mouvement parfois avec une seule main. Le doigt courbe guide la corde vers l'intérieur du mousqueton et limite les ratés de clippage. Petits revers, légèrement plus lourd et plus cher que le droit."
+    },
+    {
+      "type": "p",
+      "html": "Les références sont <strong>Petzl Ange S, Black Diamond Hoodwire, DMM Phantom</strong>. Sur une dégaine, le doigt courbe se place toujours côté corde, le doigt droit côté goujon. Cette convention universelle vient des assureurs sportifs depuis 30 ans. Ne mélange jamais les deux côtés, tu réduirais l'ergonomie de tes dégaines."
+    },
+    {
+      "type": "h2",
+      "text": "Mousqueton à doigt fil"
+    },
+    {
+      "type": "p",
+      "html": "Le doigt fil utilise un câble d'acier inoxydable plié en forme de doigt, à la place du doigt classique en alu massif. L'avantage majeur, c'est le poids réduit et la limitation de l'inertie du doigt qui peut s'ouvrir lors d'une vibration ou d'un choc. Les modèles <strong>Black Diamond Hotwire, DMM Alpha Light, Wild Country Helium 3</strong> dominent cette catégorie."
+    },
+    {
+      "type": "p",
+      "html": "Le doigt fil est idéal pour les dégaines longues d'alpinisme et les usages où chaque gramme compte. Le seul inconvénient, c'est la sensibilité à la déformation en cas de torsion violente. Sur un usage normal, aucun problème. En cas de chute avec mouvement latéral, le doigt fil peut se déformer plus vite qu'un doigt massif."
+    },
+    {
+      "type": "h2",
+      "text": "Mousqueton à vis"
+    },
+    {
+      "type": "p",
+      "html": "Le mousqueton à vis ajoute une bague filetée qui vient bloquer le doigt en position fermée. Tu visses pour sécuriser, tu dévisses pour ouvrir. Usage principal sur les points clés. Encordement au pontet du baudrier en assurage, fixation du système d'assurage, premier point en grande voie, relais en falaise. Modèles courants <strong>Petzl Sm'D, Black Diamond Rocklock, DMM Belay Master 2</strong>."
+    },
+    {
+      "type": "p",
+      "html": "L'inconvénient du à vis, c'est l'oubli de visser. Une fois sur dix tu pars en grimpant sans avoir vissé, et le mousqueton se comporte alors comme un simple. Vérifie systématiquement. Le DMM Belay Master 2 intègre un clip plastique qui force le maintien du mousqueton dans le pontet et signale visuellement le vissage, c'est mon préféré pour l'assurage."
+    },
+    {
+      "type": "h2",
+      "text": "Mousqueton à verrouillage automatique"
+    },
+    {
+      "type": "p",
+      "html": "Le verrouillage automatique se referme tout seul après ouverture. Plusieurs systèmes existent. Twist Lock, deux mouvements quart de tour. Triple Lock, trois mouvements pour ouvrir, gage de sécurité maximale. Les références sont <strong>Petzl William Triact-Lock, Edelrid HMS Bulletproof Triple, DMM Phantom Screwgate</strong>."
+    },
+    {
+      "type": "p",
+      "html": "L'avantage, c'est l'impossibilité d'oublier de visser. Le revers, c'est la difficulté d'ouverture à une main, et le risque de coincement avec sable ou glace. Pour l'assurage, je préfère un à vis qu'on contrôle visuellement, plutôt qu'un automatique parfois récalcitrant. En via ferrata en revanche, l'auto est obligatoire pour les longes."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Quel mousqueton pour quel usage",
+      "items": [
+        {
+          "title": "Côté goujon de dégaine",
+          "body": "Doigt droit ou doigt fil. Petzl Spirit, Black Diamond Hotwire. Le doigt droit résiste mieux aux chutes répétées."
+        },
+        {
+          "title": "Côté corde de dégaine",
+          "body": "Doigt courbe pour faciliter le clippage. Petzl Ange S, DMM Alpha Sport. Toujours associé à un doigt droit côté goujon."
+        },
+        {
+          "title": "Assurage et encordement",
+          "body": "À vis HMS de forme poire. Petzl William, Black Diamond Rocklock, DMM Belay Master 2 pour la sécurité maximale."
+        },
+        {
+          "title": "Relais et grande voie",
+          "body": "À vis ou automatique de petite taille. Petzl Sm'D, Edelrid HMS, Black Diamond Rocklock Twin Gate."
+        },
+        {
+          "title": "Via ferrata",
+          "body": "Auto triple lock obligatoire selon la norme. Petzl Vertigo Wire-Lock, Edelrid Cable Kit Lite."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Mousqueton HMS et forme poire"
+    },
+    {
+      "type": "p",
+      "html": "Le HMS désigne une forme spécifique en poire, large d'un côté et étroite de l'autre. La grande ouverture permet le nœud de Munter pour l'assurage dynamique, le passage d'un autobloquant ou la gestion d'un Reverso en mode plaquette. C'est le mousqueton universel d'assurage. Modèles dominants <strong>Petzl William, Black Diamond Rocklock, Mammut Smart HMS</strong>."
+    },
+    {
+      "type": "p",
+      "html": "Compte 18 à 30 euros pour un bon HMS à vis. Pour un usage assurage avec Grigri, le HMS reste utile car il offre l'espace pour passer ta corde même avec gants. Pour l'assurage en plaquette type Reverso, le HMS est obligatoire pour permettre le double passage du brin. Mes deux HMS personnels sont des Petzl William classiques."
+    },
+    {
+      "type": "h2",
+      "text": "Lecture des chiffres gravés"
+    },
+    {
+      "type": "p",
+      "html": "Sur le corps du mousqueton, tu trouves trois chiffres et plusieurs symboles. Le chiffre principal en kN indique la résistance axiale grand axe, charge avant rupture. Le deuxième chiffre, charge mineure petit axe, est crucial car les positions accidentelles te placent souvent en petit axe. Le troisième, charge doigt ouvert, s'applique si le doigt ne se referme pas complètement."
+    },
+    {
+      "type": "p",
+      "html": "Pour un usage classique sport, vise 22 kN grand axe minimum, 8 kN petit axe, 7 kN doigt ouvert. Pour la grande voie alpine, certains acceptent des chiffres légèrement plus faibles en échange du poids plume. Mais ne descend jamais sous 20 kN grand axe pour un mousqueton de point d'assurage."
+    },
+    {
+      "type": "table",
+      "caption": "Comparatif mousquetons par usage 2026",
+      "headers": [
+        "Modèle",
+        "Type",
+        "Charge axiale",
+        "Poids",
+        "Prix"
+      ],
+      "rows": [
+        [
+          "Petzl Spirit Straight",
+          "Doigt droit",
+          "23 kN",
+          "39 g",
+          "12 €"
+        ],
+        [
+          "Petzl Ange S",
+          "Doigt fil",
+          "20 kN",
+          "28 g",
+          "16 €"
+        ],
+        [
+          "Black Diamond Hotwire",
+          "Doigt fil",
+          "24 kN",
+          "39 g",
+          "11 €"
+        ],
+        [
+          "Petzl William Screw-Lock",
+          "HMS à vis",
+          "27 kN",
+          "84 g",
+          "23 €"
+        ],
+        [
+          "DMM Belay Master 2",
+          "HMS à vis avec clip",
+          "25 kN",
+          "85 g",
+          "28 €"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Mes choix personnels pour mon set"
+    },
+    {
+      "type": "p",
+      "html": "Pour mes dégaines sport, j'utilise un mix <strong>Petzl Spirit côté goujon et Ange S côté corde</strong>. Robuste sur les chutes répétées d'un côté, doigt courbe ergonomique de l'autre. Pour mon assurage Grigri, un Petzl William à vis. Pour mes relais en grande voie, deux DMM Belay Master 2 par cordée pour la sécurité maximale du verrouillage."
+    },
+    {
+      "type": "p",
+      "html": "Je déconseille les mousquetons no name vendus en grandes surfaces sport. Le prix est attractif mais la traçabilité absente. Pour 5 euros d'économie sur un mousqueton, tu perds toute garantie. Pour les bases, regarde <a href=\"/blog/degaines-escalade-choix\">comment choisir tes dégaines</a> et <a href=\"/blog/materiel-escalade-essentiel\">le matériel d'escalade essentiel</a>."
+    },
+    {
+      "type": "quote",
+      "text": "Un mousqueton vit toute une carrière si tu le respectes. Marque le, inspecte le, ne le fais jamais tomber d'une falaise.",
+      "author": "Antoine",
+      "role": "Rédacteur escalade-france.fr"
+    },
+    {
+      "type": "h2",
+      "text": "Inspection et durée de vie"
+    },
+    {
+      "type": "p",
+      "html": "Un mousqueton n'a pas de date de péremption officielle s'il ne subit pas de choc fort. Inspecte le ressort du doigt, qui doit revenir net en position fermée. Vérifie l'absence de fissure dans le corps avec une loupe à 10x. Surveille l'usure de la zone de contact corde, qui peut creuser une encoche au bout de quelques années. Un mousqueton dont la gorge est creusée à 1 mm doit être réformé."
+    },
+    {
+      "type": "p",
+      "html": "Tout mousqueton ayant chuté de plus de 5 mètres sur un sol dur doit être réformé. L'impact peut créer des micro fissures invisibles à l'œil. Ne reprends jamais le risque, le coût de remplacement reste inférieur à 30 euros. Marque tes mousquetons personnels avec un bout de scotch coloré ou un marquage poinçon pour les distinguer en grande voie."
+    }
   ],
   "faq": [
-    {"q": "Quelle différence entre doigt droit et doigt courbe ?", "a": "Le doigt droit clippe verticalement, idéal côté goujon de dégaine pour la résistance aux chutes répétées. Le doigt courbe forme un arc qui guide la corde, idéal côté corde pour faciliter le clippage. Sur une dégaine, on associe toujours droit côté point et courbe côté corde."},
-    {"q": "Quand utiliser un mousqueton à vis ?", "a": "Sur tous les points clés où une ouverture accidentelle serait dangereuse. Encordement au baudrier, fixation du système d'assurage, premier point en grande voie, relais. Visse systématiquement après installation et vérifie d'un coup d'œil avant chaque manipulation."},
-    {"q": "Que veut dire EN 12275 sur un mousqueton ?", "a": "C'est la norme européenne obligatoire pour les mousquetons d'escalade. Elle garantit les résistances minimales en axe principal, petit axe et doigt ouvert. Refuse tout mousqueton sans ce marquage CE EN 12275, surtout les produits importés via plateformes type AliExpress."},
-    {"q": "Combien d'années un mousqueton dure-t-il ?", "a": "Indéfiniment en théorie s'il n'a pas subi de choc fort. En pratique, vise 10 à 15 ans d'usage régulier avant remplacement préventif. Tout mousqueton tombé de plus de 5 mètres sur sol dur doit être réformé immédiatement, micro fissures possibles invisibles."},
-    {"q": "Quel mousqueton choisir pour l'assurage ?", "a": "Un HMS à vis de forme poire, type Petzl William, Black Diamond Rocklock ou DMM Belay Master 2. La forme large permet l'assurage en plaquette et le nœud de Munter en secours. Le verrouillage à vis évite toute ouverture accidentelle pendant l'assurage."},
-    {"q": "Peut-on acheter des mousquetons d'occasion ?", "a": "Oui si tu connais l'historique du vendeur et si le mousqueton n'a pas subi de chute importante. C'est l'un des rares EPI où l'occasion reste acceptable, contrairement aux textiles comme corde et baudrier. Inspecte minutieusement avant achat."}
+    {
+      "q": "Quelle différence entre doigt droit et doigt courbe ?",
+      "a": "Le doigt droit clippe verticalement, idéal côté goujon de dégaine pour la résistance aux chutes répétées. Le doigt courbe forme un arc qui guide la corde, idéal côté corde pour faciliter le clippage. Sur une dégaine, on associe toujours droit côté point et courbe côté corde."
+    },
+    {
+      "q": "Quand utiliser un mousqueton à vis ?",
+      "a": "Sur tous les points clés où une ouverture accidentelle serait dangereuse. Encordement au baudrier, fixation du système d'assurage, premier point en grande voie, relais. Visse systématiquement après installation et vérifie d'un coup d'œil avant chaque manipulation."
+    },
+    {
+      "q": "Que veut dire EN 12275 sur un mousqueton ?",
+      "a": "C'est la norme européenne obligatoire pour les mousquetons d'escalade. Elle garantit les résistances minimales en axe principal, petit axe et doigt ouvert. Refuse tout mousqueton sans ce marquage CE EN 12275, surtout les produits importés via plateformes type AliExpress."
+    },
+    {
+      "q": "Combien d'années un mousqueton dure-t-il ?",
+      "a": "Indéfiniment en théorie s'il n'a pas subi de choc fort. En pratique, vise 10 à 15 ans d'usage régulier avant remplacement préventif. Tout mousqueton tombé de plus de 5 mètres sur sol dur doit être réformé immédiatement, micro fissures possibles invisibles."
+    },
+    {
+      "q": "Quel mousqueton choisir pour l'assurage ?",
+      "a": "Un HMS à vis de forme poire, type Petzl William, Black Diamond Rocklock ou DMM Belay Master 2. La forme large permet l'assurage en plaquette et le nœud de Munter en secours. Le verrouillage à vis évite toute ouverture accidentelle pendant l'assurage."
+    },
+    {
+      "q": "Peut-on acheter des mousquetons d'occasion ?",
+      "a": "Oui si tu connais l'historique du vendeur et si le mousqueton n'a pas subi de chute importante. C'est l'un des rares EPI où l'occasion reste acceptable, contrairement aux textiles comme corde et baudrier. Inspecte minutieusement avant achat."
+    }
   ],
   "cover_alt": "Sélection de mousquetons d'escalade Petzl et Black Diamond posés sur une dalle de granite",
   "internal_links": [
-    {"slug": "degaines-escalade-choix", "anchor": "comment choisir tes dégaines", "context": "Usage associé"},
-    {"slug": "materiel-escalade-essentiel", "anchor": "le matériel d'escalade essentiel", "context": "Pilier matériel"},
-    {"slug": "matos-grande-voie-checklist", "anchor": "la checklist matériel grande voie", "context": "Liste complète"},
-    {"slug": "systeme-assurage-comparatif", "anchor": "le comparatif des systèmes d'assurage", "context": "HMS d'assurage"}
+    {
+      "slug": "degaines-escalade-choix",
+      "anchor": "comment choisir tes dégaines",
+      "context": "Usage associé"
+    },
+    {
+      "slug": "materiel-escalade-essentiel",
+      "anchor": "le matériel d'escalade essentiel",
+      "context": "Pilier matériel"
+    },
+    {
+      "slug": "matos-grande-voie-checklist",
+      "anchor": "la checklist matériel grande voie",
+      "context": "Liste complète"
+    },
+    {
+      "slug": "systeme-assurage-comparatif",
+      "anchor": "le comparatif des systèmes d'assurage",
+      "context": "HMS d'assurage"
+    }
   ],
   "scheduled_at": "2026-08-27T09:00:00+02:00"
 }

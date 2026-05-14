@@ -3,7 +3,7 @@
   "cocon": "materiel",
   "type_article": "astuce",
   "numero": 62,
-  "title": "Matériel escalade d'occasion : ce qui passe et ce qui non",
+  "title": "Matériel escalade d'occasion, ce qui passe et ce qui non",
   "h1": "Matériel d'escalade d'occasion, comment acheter sans prendre de risque",
   "description": "Guide pour acheter du matériel d'escalade d'occasion : ce qui passe (chaussons, baudriers récents), ce qui non (cordes, sangles), où chercher.",
   "chapo": "Le matériel d'escalade neuf coûte cher quand on s'équipe en kit complet. L'occasion permet d'économiser 30 à 60% sur certaines pièces, mais d'autres se vendent uniquement neuves pour des raisons de sécurité. Cet article distingue les catégories d'EPI à acheter d'occasion sans hésiter de celles à éviter, et liste les bons plans Vinted Sport, Le Bon Coin et Decathlon Seconde Vie.",
@@ -15,69 +15,188 @@
     "Vérifier l'historique, l'année de fabrication et les marques visibles d'usage avant tout achat."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Pourquoi l'occasion fait sens en escalade"},
-    {"type": "p", "html": "L'escalade demande un parc matériel important quand on pratique sérieusement. Un set débutant complet baudrier + chaussons + corde + dégaines + sangles + casque + assurage tourne vite à 800-1200 € en neuf. L'occasion permet de descendre ce budget de 30 à 60% sur les pièces compatibles, en gardant un niveau de sécurité équivalent à condition de respecter les règles de vérification."},
-    {"type": "p", "html": "Le secteur de l'occasion grimpe explose depuis 2020. <strong>Vinted Sport</strong> a lancé une catégorie dédiée à l'escalade en 2023, <strong>Decathlon Seconde Vie</strong> a multiplié les rayons matériel reconditionné, et <strong>Le Bon Coin</strong> centralise une grosse partie des transactions entre grimpeurs. Le marché est devenu accessible et concurrentiel."},
-    {"type": "p", "html": "À titre perso, j'ai monté la moitié de mon premier set avec de l'occasion : chaussons à 35 € au lieu de 110, baudrier d'un an à 25 € au lieu de 70, sac à dos à 20 €. La corde et les dégaines, je les ai prises neuves. Économie d'environ 200 € sur un kit d'initiation, sans compromis sur la sécurité."},
-    {"type": "h2", "text": "Ce qui s'achète d'occasion sans hésitation"},
-    {"type": "p", "html": "Les chaussons d'escalade d'occasion sont une excellente affaire. Le caoutchouc s'use mais la structure du chausson reste intacte. Un chausson un peu usé permet souvent un déjà-vu à 50% du prix neuf. Privilégie les modèles d'une à deux saisons maximum, vérifie l'état des coutures et l'état de la semelle (plus de 2 mm de caoutchouc résiduel). Si la semelle est lisse, c'est un ressemelage à 35-50 € à prévoir."},
-    {"type": "p", "html": "Le casque récent (moins de 5 ans) sans choc déclaré reste fiable. Vérifie l'absence de fissures, de zones décolorées par UV, de déformations. Un casque qui a pris un coup sérieux part au rebut même s'il paraît intact. Les sacs à dos, crashpads, et accessoires non EPI (brosses, sacs à magnésie, tape) se trouvent sans problème."},
+    {
+      "type": "h2",
+      "text": "Pourquoi l'occasion fait sens en escalade"
+    },
+    {
+      "type": "p",
+      "html": "L'escalade demande un parc matériel important quand on pratique sérieusement. Un set débutant complet baudrier + chaussons + corde + dégaines + sangles + casque + assurage tourne vite à 800-1200 € en neuf. L'occasion permet de descendre ce budget de 30 à 60% sur les pièces compatibles, en gardant un niveau de sécurité équivalent à condition de respecter les règles de vérification."
+    },
+    {
+      "type": "p",
+      "html": "Le secteur de l'occasion grimpe explose depuis 2020. <strong>Vinted Sport</strong> a lancé une catégorie dédiée à l'escalade en 2023, <strong>Decathlon Seconde Vie</strong> a multiplié les rayons matériel reconditionné, et <strong>Le Bon Coin</strong> centralise une grosse partie des transactions entre grimpeurs. Le marché est devenu accessible et concurrentiel."
+    },
+    {
+      "type": "p",
+      "html": "À titre perso, j'ai monté la moitié de mon premier set avec de l'occasion : chaussons à 35 € au lieu de 110, baudrier d'un an à 25 € au lieu de 70, sac à dos à 20 €. La corde et les dégaines, je les ai prises neuves. Économie d'environ 200 € sur un kit d'initiation, sans compromis sur la sécurité."
+    },
+    {
+      "type": "h2",
+      "text": "Ce qui s'achète d'occasion sans hésitation"
+    },
+    {
+      "type": "p",
+      "html": "Les chaussons d'escalade d'occasion sont une excellente affaire. Le caoutchouc s'use mais la structure du chausson reste intacte. Un chausson un peu usé permet souvent un déjà-vu à 50% du prix neuf. Privilégie les modèles d'une à deux saisons maximum, vérifie l'état des coutures et l'état de la semelle (plus de 2 mm de caoutchouc résiduel). Si la semelle est lisse, c'est un ressemelage à 35-50 € à prévoir."
+    },
+    {
+      "type": "p",
+      "html": "Le casque récent (moins de 5 ans) sans choc déclaré reste fiable. Vérifie l'absence de fissures, de zones décolorées par UV, de déformations. Un casque qui a pris un coup sérieux part au rebut même s'il paraît intact. Les sacs à dos, crashpads, et accessoires non EPI (brosses, sacs à magnésie, tape) se trouvent sans problème."
+    },
     {
       "type": "list",
       "variant": "cards",
       "title": "Les bonnes affaires d'occasion en grimpe",
       "items": [
-        {"title": "Chaussons", "body": "Économie 30-60%. Vérifier état semelle, coutures, déformation. Marque de référence : La Sportiva, Scarpa, Tenaya. Privilégier les modèles d'une saison maximum."},
-        {"title": "Crashpads", "body": "Économie 30-50%. Vérifier l'état des mousses (pas d'affaissement permanent), des coutures de couverture, des sangles. Black Diamond Mondo et Snap Hip Hop tiennent très bien dans le temps."},
-        {"title": "Sacs à dos et casques récents", "body": "Économie 40-60%. Le sac vieillit peu. Le casque récent sans choc reste sûr. Privilégier date de fabrication récente sur le casque."},
-        {"title": "Coinceurs mécaniques (cams) récents", "body": "Économie 30-40%. Vérifier ressorts, cames sans méplats d'usure, tiges droites. Black Diamond Camalot, Wild Country Friend. Demander preuve d'achat ou photo de l'étiquette."}
+        {
+          "title": "Chaussons",
+          "body": "Économie 30-60%. Vérifier état semelle, coutures, déformation. Marque de référence : La Sportiva, Scarpa, Tenaya. Privilégier les modèles d'une saison maximum."
+        },
+        {
+          "title": "Crashpads",
+          "body": "Économie 30-50%. Vérifier l'état des mousses (pas d'affaissement permanent), des coutures de couverture, des sangles. Black Diamond Mondo et Snap Hip Hop tiennent très bien dans le temps."
+        },
+        {
+          "title": "Sacs à dos et casques récents",
+          "body": "Économie 40-60%. Le sac vieillit peu. Le casque récent sans choc reste sûr. Privilégier date de fabrication récente sur le casque."
+        },
+        {
+          "title": "Coinceurs mécaniques (cams) récents",
+          "body": "Économie 30-40%. Vérifier ressorts, cames sans méplats d'usure, tiges droites. Black Diamond Camalot, Wild Country Friend. Demander preuve d'achat ou photo de l'étiquette."
+        }
       ]
     },
-    {"type": "h2", "text": "Ce qui s'achète neuf, sans discussion"},
-    {"type": "p", "html": "La <strong>corde</strong> d'occasion est non négociable : NON. Une corde a une mémoire interne d'usage que tu ne peux pas inspecter visuellement. Le nombre de chutes encaissées, l'historique d'exposition UV, les éventuels chocs ou contacts chimiques modifient sa résistance. Une corde d'occasion peut rompre en chute. Ce sont quelques dizaines d'euros gagnés contre un risque vital : aucun débat possible."},
-    {"type": "p", "html": "Les sangles et cordelettes suivent la même logique. Le tissu vieillit à l'UV, les coutures se fragilisent, les chocs invisibles affaiblissent la structure. Toujours neuves. Idem pour les baudriers de plus de 5 ans : la sangle interne peut être altérée même si l'extérieur paraît correct, et la traçabilité de l'historique d'usage est rarement fiable."},
-    {"type": "p", "html": "Les systèmes d'assurage à mécanisme (Grigri, Click Up, Smart) d'occasion demandent une vigilance maximale. Un Grigri qui a chuté au sol peut avoir un mécanisme grippé invisible. Si tu achètes, exige un essai complet avec une corde, ressort, came, plaquette doivent fonctionner parfaitement. Les modèles antérieurs au Grigri 2 (2011) sont à éviter."},
-    {"type": "h2", "text": "La date de fabrication, élément crucial"},
-    {"type": "p", "html": "La règle des <strong>10 ans EPI</strong> s'applique à tout matériel textile d'escalade : sangles, baudriers, cordes, casques. À partir de la date de fabrication imprimée sur l'étiquette, le compteur tourne, quel que soit l'usage. Un baudrier de 2015 jamais utilisé doit être déclassé en 2025."},
-    {"type": "p", "html": "Sur l'occasion, demande toujours la date de fabrication avant l'achat. Sur les baudriers Petzl, l'étiquette se trouve sur la sangle interne du pontet. Sur les cordes, c'est sur le manchon papier au bout. Sur les casques, une étiquette intérieure indique le mois et l'année. Si l'étiquette est illisible ou absente, c'est un drapeau rouge : passe ton chemin."},
-    {"type": "h2", "text": "Les trois plateformes pour acheter en France"},
-    {"type": "p", "html": "<strong>Vinted Sport</strong> domine désormais le marché de l'occasion grimpe. Interface simple, paiement sécurisé via plateforme, large catalogue, surtout en chaussons et vêtements. Les prix sont compétitifs et les vendeurs sont majoritairement des grimpeurs réguliers qui vendent leur ancien matériel pour acheter du neuf. Inconvénient : pas de vérification matériel par la plateforme, donc vigilance personnelle requise."},
-    {"type": "p", "html": "<strong>Le Bon Coin</strong> reste pertinent pour le matériel volumineux (crashpads, cordes, gros sets). Transaction en mains propres préférée, ce qui permet de vérifier physiquement avant d'acheter. <strong>Decathlon Seconde Vie</strong> ne couvre que du matériel issu de retours produits Decathlon (gamme Simond essentiellement), garantie 6 mois fournie, idéal pour les débutants prudents."},
-    {"type": "h2", "text": "Les vérifications à faire avant tout achat"},
-    {"type": "p", "html": "La checklist universelle pour acheter d'occasion."},
+    {
+      "type": "h2",
+      "text": "Ce qui s'achète neuf, sans discussion"
+    },
+    {
+      "type": "p",
+      "html": "La <strong>corde</strong> d'occasion est non négociable : NON. Une corde a une mémoire interne d'usage que tu ne peux pas inspecter visuellement. Le nombre de chutes encaissées, l'historique d'exposition UV, les éventuels chocs ou contacts chimiques modifient sa résistance. Une corde d'occasion peut rompre en chute. Ce sont quelques dizaines d'euros gagnés contre un risque vital : aucun débat possible."
+    },
+    {
+      "type": "p",
+      "html": "Les sangles et cordelettes suivent la même logique. Le tissu vieillit à l'UV, les coutures se fragilisent, les chocs invisibles affaiblissent la structure. Toujours neuves. Idem pour les baudriers de plus de 5 ans : la sangle interne peut être altérée même si l'extérieur paraît correct, et la traçabilité de l'historique d'usage est rarement fiable."
+    },
+    {
+      "type": "p",
+      "html": "Les systèmes d'assurage à mécanisme (Grigri, Click Up, Smart) d'occasion demandent une vigilance maximale. Un Grigri qui a chuté au sol peut avoir un mécanisme grippé invisible. Si tu achètes, exige un essai complet avec une corde, ressort, came, plaquette doivent fonctionner parfaitement. Les modèles antérieurs au Grigri 2 (2011) sont à éviter."
+    },
+    {
+      "type": "h2",
+      "text": "La date de fabrication, élément crucial"
+    },
+    {
+      "type": "p",
+      "html": "La règle des <strong>10 ans EPI</strong> s'applique à tout matériel textile d'escalade : sangles, baudriers, cordes, casques. À partir de la date de fabrication imprimée sur l'étiquette, le compteur tourne, quel que soit l'usage. Un baudrier de 2015 jamais utilisé doit être déclassé en 2025."
+    },
+    {
+      "type": "p",
+      "html": "Sur l'occasion, demande toujours la date de fabrication avant l'achat. Sur les baudriers Petzl, l'étiquette se trouve sur la sangle interne du pontet. Sur les cordes, c'est sur le manchon papier au bout. Sur les casques, une étiquette intérieure indique le mois et l'année. Si l'étiquette est illisible ou absente, c'est un drapeau rouge : passe ton chemin."
+    },
+    {
+      "type": "h2",
+      "text": "Les trois plateformes pour acheter en France"
+    },
+    {
+      "type": "p",
+      "html": "<strong>Vinted Sport</strong> domine désormais le marché de l'occasion grimpe. Interface simple, paiement sécurisé via plateforme, large catalogue, surtout en chaussons et vêtements. Les prix sont compétitifs et les vendeurs sont majoritairement des grimpeurs réguliers qui vendent leur ancien matériel pour acheter du neuf. Inconvénient : pas de vérification matériel par la plateforme, donc vigilance personnelle requise."
+    },
+    {
+      "type": "p",
+      "html": "<strong>Le Bon Coin</strong> reste pertinent pour le matériel volumineux (crashpads, cordes, gros sets). Transaction en mains propres préférée, ce qui permet de vérifier physiquement avant d'acheter. <strong>Decathlon Seconde Vie</strong> ne couvre que du matériel issu de retours produits Decathlon (gamme Simond essentiellement), garantie 6 mois fournie, idéal pour les débutants prudents."
+    },
+    {
+      "type": "h2",
+      "text": "Les vérifications à faire avant tout achat"
+    },
+    {
+      "type": "p",
+      "html": "La checklist universelle pour acheter d'occasion."
+    },
     {
       "type": "list",
       "variant": "numbered",
       "title": "Cinq vérifications obligatoires sur tout matos d'occasion",
       "items": [
-        {"title": "Étiquette d'origine et date", "body": "Demande systématiquement la photo de l'étiquette de fabrication. Pas d'étiquette = pas d'achat. La date détermine si le matériel est encore dans sa fenêtre d'usage légal selon la règle EPI."},
-        {"title": "Historique d'usage", "body": "Combien d'années de pratique, type d'usage (salle, falaise, haute montagne), nombre de chutes encaissées si applicable. Un vendeur honnête répond sans hésiter, un vendeur évasif est un signal."},
-        {"title": "État visuel détaillé", "body": "Photos de toutes les coutures, des zones de friction (boucles de baudrier, cames de friend, sangle de pontet). Demande des photos supplémentaires si certaines zones manquent."},
-        {"title": "Test de manipulation",  "body": "Pour les éléments mécaniques (cams, systèmes d'assurage, mousquetons à vis), exige un essai au pied de l'arbre avant achat. Ressort actif, came qui claque, vis qui tourne librement."},
-        {"title": "Comparaison avec le prix neuf", "body": "Une décote de moins de 25% sur du matériel d'un an n'est pas une vraie occasion. Vise au minimum 30% d'économie pour que l'opération soit intéressante face au risque résiduel."}
+        {
+          "title": "Étiquette d'origine et date",
+          "body": "Demande systématiquement la photo de l'étiquette de fabrication. Pas d'étiquette = pas d'achat. La date détermine si le matériel est encore dans sa fenêtre d'usage légal selon la règle EPI."
+        },
+        {
+          "title": "Historique d'usage",
+          "body": "Combien d'années de pratique, type d'usage (salle, falaise, haute montagne), nombre de chutes encaissées si applicable. Un vendeur honnête répond sans hésiter, un vendeur évasif est un signal."
+        },
+        {
+          "title": "État visuel détaillé",
+          "body": "Photos de toutes les coutures, des zones de friction (boucles de baudrier, cames de friend, sangle de pontet). Demande des photos supplémentaires si certaines zones manquent."
+        },
+        {
+          "title": "Test de manipulation",
+          "body": "Pour les éléments mécaniques (cams, systèmes d'assurage, mousquetons à vis), exige un essai au pied de l'arbre avant achat. Ressort actif, came qui claque, vis qui tourne librement."
+        },
+        {
+          "title": "Comparaison avec le prix neuf",
+          "body": "Une décote de moins de 25% sur du matériel d'un an n'est pas une vraie occasion. Vise au minimum 30% d'économie pour que l'opération soit intéressante face au risque résiduel."
+        }
       ]
     },
-    {"type": "tip", "title": "L'astuce du club d'escalade local", "body": "Beaucoup de clubs FFME organisent des ventes annuelles entre membres. Le matériel y est vendu par des grimpeurs sérieux qui connaissent l'historique. Les prix sont souvent meilleurs que sur les plateformes en ligne et tu peux poser les questions directement au vendeur. Renseigne-toi auprès de ton club ou des clubs voisins pour les dates des prochaines ventes.", "tone": "astuce"}
+    {
+      "type": "tip",
+      "title": "L'astuce du club d'escalade local",
+      "body": "Beaucoup de clubs FFME organisent des ventes annuelles entre membres. Le matériel y est vendu par des grimpeurs sérieux qui connaissent l'historique. Les prix sont souvent meilleurs que sur les plateformes en ligne et tu peux poser les questions directement au vendeur. Renseigne-toi auprès de ton club ou des clubs voisins pour les dates des prochaines ventes.",
+      "tone": "astuce"
+    }
   ],
   "faq": [
-    {"q": "Peut-on acheter une corde d'occasion à un ami de confiance ?",
-     "a": "Question difficile. La règle générale reste : non, on n'achète pas de corde d'occasion, même à un ami. La raison est que personne ne peut garantir avec certitude l'historique complet d'une corde : chutes mineures non rapportées, exposition UV en voiture, contact avec produits chimiques type batterie de voiture. Le risque d'une corde fatiguée qui casse en chute est vital. Préfère une corde neuve de gamme intermédiaire à 130 € qu'une corde d'occasion premium à 80 €."},
-    {"q": "Comment vérifier l'état d'un cam d'occasion ?",
-     "a": "Cinq points à contrôler : tirer la gâchette à fond et vérifier que les quatre cames se referment uniformément, relâcher et vérifier que les ressorts les rouvrent franchement (claquement net), inspecter chaque came pour repérer méplats d'usure marqués ou rayures profondes, tester la rotation de la tige pour vérifier qu'elle n'est pas tordue, regarder la couture de la sangle ou du câble. Un cam fatigué ou abîmé est un risque sérieux."},
-    {"q": "Quelle est la décote moyenne sur les chaussons d'occasion ?",
-     "a": "Cela dépend de l'état et de l'âge. Un chausson d'une saison en bon état se vend autour de 50-55% du prix neuf. Un chausson de deux saisons mais correct tourne autour de 35-40%. Un chausson qui demande un ressemelage descend à 25-30%. Les modèles populaires comme La Sportiva Solution ou Scarpa Drago se revendent vite parce que la demande est forte. Les modèles confort débutant intéressent moins le marché de seconde main."},
-    {"q": "Decathlon Seconde Vie est-il fiable pour de l'EPI escalade ?",
-     "a": "Oui, dans les limites de son catalogue. Decathlon revend uniquement du matériel issu de retours produits qu'ils ont vérifiés, principalement de la gamme Simond. La garantie 6 mois est appliquée. C'est une bonne porte d'entrée pour les débutants prudents. Inconvénient : le catalogue se limite à la gamme propre de l'enseigne, tu ne trouveras pas de Petzl ou de Black Diamond d'occasion chez eux."},
-    {"q": "Faut-il déclarer un achat d'occasion à son assurance ?",
-     "a": "Pour l'assurance de pratique sportive incluse dans une licence FFME ou un abonnement de salle, non. L'origine du matériel n'entre pas dans les conditions de prise en charge en cas d'accident, tant que le matériel respecte les normes EN en vigueur (EN 12275, EN 566, EN 12492 selon les pièces). Vérifie simplement que les marquages CE et EN sont présents sur le matériel acheté."}
+    {
+      "q": "Peut-on acheter une corde d'occasion à un ami de confiance ?",
+      "a": "Question difficile. La règle générale reste : non, on n'achète pas de corde d'occasion, même à un ami. La raison est que personne ne peut garantir avec certitude l'historique complet d'une corde : chutes mineures non rapportées, exposition UV en voiture, contact avec produits chimiques type batterie de voiture. Le risque d'une corde fatiguée qui casse en chute est vital. Préfère une corde neuve de gamme intermédiaire à 130 € qu'une corde d'occasion premium à 80 €."
+    },
+    {
+      "q": "Comment vérifier l'état d'un cam d'occasion ?",
+      "a": "Cinq points à contrôler : tirer la gâchette à fond et vérifier que les quatre cames se referment uniformément, relâcher et vérifier que les ressorts les rouvrent franchement (claquement net), inspecter chaque came pour repérer méplats d'usure marqués ou rayures profondes, tester la rotation de la tige pour vérifier qu'elle n'est pas tordue, regarder la couture de la sangle ou du câble. Un cam fatigué ou abîmé est un risque sérieux."
+    },
+    {
+      "q": "Quelle est la décote moyenne sur les chaussons d'occasion ?",
+      "a": "Cela dépend de l'état et de l'âge. Un chausson d'une saison en bon état se vend autour de 50-55% du prix neuf. Un chausson de deux saisons mais correct tourne autour de 35-40%. Un chausson qui demande un ressemelage descend à 25-30%. Les modèles populaires comme La Sportiva Solution ou Scarpa Drago se revendent vite parce que la demande est forte. Les modèles confort débutant intéressent moins le marché de seconde main."
+    },
+    {
+      "q": "Decathlon Seconde Vie est-il fiable pour de l'EPI escalade ?",
+      "a": "Oui, dans les limites de son catalogue. Decathlon revend uniquement du matériel issu de retours produits qu'ils ont vérifiés, principalement de la gamme Simond. La garantie 6 mois est appliquée. C'est une bonne porte d'entrée pour les débutants prudents. Inconvénient : le catalogue se limite à la gamme propre de l'enseigne, tu ne trouveras pas de Petzl ou de Black Diamond d'occasion chez eux."
+    },
+    {
+      "q": "Faut-il déclarer un achat d'occasion à son assurance ?",
+      "a": "Pour l'assurance de pratique sportive incluse dans une licence FFME ou un abonnement de salle, non. L'origine du matériel n'entre pas dans les conditions de prise en charge en cas d'accident, tant que le matériel respecte les normes EN en vigueur (EN 12275, EN 566, EN 12492 selon les pièces). Vérifie simplement que les marquages CE et EN sont présents sur le matériel acheté."
+    }
   ],
   "cover_alt": "Étalage de matériel d'escalade d'occasion sur une nappe lors d'une vente entre grimpeurs : chaussons usagés, baudrier, casque, sangles colorées, lumière naturelle de jardin",
   "internal_links": [
-    {"slug": "materiel-escalade-essentiel", "anchor": "matériel essentiel d'escalade", "context": "pilier matériel"},
-    {"slug": "entretien-baudrier-duree-vie", "anchor": "durée de vie du baudrier", "context": "vérification EPI"},
-    {"slug": "entretien-corde-lavage-rangement", "anchor": "entretien de la corde", "context": "soin matériel neuf"},
-    {"slug": "choisir-chaussons-escalade", "anchor": "choix des chaussons", "context": "pièce souvent en occasion"},
-    {"slug": "matos-trad-escalade-debutant", "anchor": "initiation au trad", "context": "set coûteux à monter"}
+    {
+      "slug": "materiel-escalade-essentiel",
+      "anchor": "matériel essentiel d'escalade",
+      "context": "pilier matériel"
+    },
+    {
+      "slug": "entretien-baudrier-duree-vie",
+      "anchor": "durée de vie du baudrier",
+      "context": "vérification EPI"
+    },
+    {
+      "slug": "entretien-corde-lavage-rangement",
+      "anchor": "entretien de la corde",
+      "context": "soin matériel neuf"
+    },
+    {
+      "slug": "choisir-chaussons-escalade",
+      "anchor": "choix des chaussons",
+      "context": "pièce souvent en occasion"
+    },
+    {
+      "slug": "matos-trad-escalade-debutant",
+      "anchor": "initiation au trad",
+      "context": "set coûteux à monter"
+    }
   ],
   "scheduled_at": "2026-09-29T09:00:00+02:00"
 }

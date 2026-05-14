@@ -3,7 +3,7 @@
   "cocon": "environnement",
   "type_article": "guide",
   "numero": 145,
-  "title": "Nidification falaise : arretes prefectoraux, mode d'emploi",
+  "title": "Nidification falaise, arretes prefectoraux, mode d'emploi",
   "h1": "Nidification et arretes prefectoraux en falaise, comprendre les fermetures",
   "description": "Pourquoi des falaises ferment pendant la nidification, comment lire un arrete prefectoral, ou trouver l'information avant de monter au site.",
   "chapo": "Tu arrives au pied de la falaise, panneau jaune, secteur ferme jusqu'a fin juin. Le faucon pelerin niche au-dessus de ta voie favorite. C'est frustrant la premiere fois, puis tu comprends. Cet article explique comment fonctionnent les arretes prefectoraux, ou les consulter, et comment organiser ta saison sans se cogner a une fermeture surprise.",
@@ -16,60 +16,223 @@
     "Verifier 48 heures avant la sortie evite les mauvaises surprises et les longs trajets perdus."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Pourquoi des falaises ferment au printemps"},
-    {"type": "p", "html": "Au printemps, plusieurs especes d'oiseaux protegees viennent nicher sur les vires et les surplombs des falaises. Le <strong>faucon pelerin</strong> est le plus connu, mais le hibou grand-duc, la chouette hulotte et certains rapaces forestiers occupent aussi des aires en falaise. La presence humaine au pied ou dans la voie derange la couvaison. Un derangement repete fait abandonner le nid, et l'annee de reproduction est perdue."},
-    {"type": "p", "html": "L'<strong>Arrete prefectoral de protection de biotope</strong>, abrege en APPB, est l'outil juridique qui ferme un secteur pour proteger une espece. Il est signe par le prefet du departement, sur proposition de la DREAL ou de la LPO. Il liste les voies interdites, les dates de fermeture, parfois les distances minimales a respecter. Sa portee est reglementaire, le non-respect tombe sous le coup de l'article L411-1 du Code de l'Environnement."},
-    {"type": "p", "html": "La premiere fois que j'ai vu un panneau jaune en arrivant au pied du Verdon, j'ai pesté contre la perte de la sortie. Puis le copain qui m'accompagnait, gestionnaire d'un site dans le Vercors, m'a explique le cycle. Un faucon pelerin couve entre mars et mai, les jeunes prennent leur envol fin juin. Cinq mois de paix suffisent. Le reste de l'annee, la falaise reste accessible. Aujourd'hui je verifie systematiquement avant chaque sortie de printemps."},
-    {"type": "h2", "text": "Comment lire un arrete prefectoral"},
-    {"type": "p", "html": "Un arrete prefectoral type comporte plusieurs informations cles. Le nom du site, la liste des secteurs ou voies concernes, la periode exacte de fermeture, les especes protegees, les sanctions encourues. Certains arretes precisent aussi les conditions d'acces partiel, par exemple une vire autorisee a partir d'une certaine date. Lis-le en entier, ne te contente pas du titre."},
-    {"type": "p", "html": "Les dates de fermeture courent generalement du <strong>1er fevrier au 30 juin</strong>, parfois jusqu'au 15 juillet selon les especes. Quelques arretes plus stricts couvrent l'annee complete pour des secteurs particulierement sensibles. Le calendrier varie d'un departement a l'autre. Dans les Bouches-du-Rhone, les Calanques connaissent des fermetures specifiques. Dans l'Ain, le massif du Bugey ferme certaines vires en fevrier-mars."},
-    {"type": "list", "variant": "cards", "title": "Especes typiquement protegees en falaise francaise", "items": [
-      {"title": "Faucon pelerin", "body": "Espece phare, niche sur surplombs et vires entre 50 et 300 metres de haut. Periode mars a juin."},
-      {"title": "Hibou grand-duc", "body": "Plus gros rapace nocturne d'Europe, niche dans des cavites accessibles. Fevrier a juin."},
-      {"title": "Aigle royal", "body": "Niche dans le Mercantour, les Ecrins, le Vercors. Fermeture parfois en aire active."},
-      {"title": "Vautour fauve", "body": "Reintroduit dans les Cevennes et les Baronnies. Colonies en falaise calcaire."},
-      {"title": "Chouette hulotte", "body": "Niche dans les arbres et parfois en cavite rocheuse. Moins de fermetures dediees."},
-      {"title": "Molosse de Cestoni", "body": "Chauve-souris des falaises mediterraneennes. Sensible au derangement en gite."}
-    ]},
-    {"type": "h2", "text": "Ou trouver l'information avant de partir"},
-    {"type": "p", "html": "Plusieurs sources se croisent pour identifier une fermeture. La <strong>FFME</strong> tient une page consolidee par massif et par departement. Les sites des prefectures publient les arretes en cours. La LPO, partenaire historique sur les rapaces, edite parfois des fiches par site sensible. Camptocamp recense aussi les informations remontees par les grimpeurs locaux, meme si la mise a jour reste manuelle."},
-    {"type": "p", "html": "Sur les sites les plus connus, les comites departementaux FFME envoient des bulletins par mail aux licencies. Si tu grimpes regulierement dans un massif, je conseille de t'inscrire a la newsletter du comite local. Tu recois la liste des fermetures en debut de saison et les eventuelles modifications. La <a href=\"/blog/grimper-respect-sites-faune\">vue d'ensemble du respect des sites et de la faune</a> remet ces sources dans leur contexte."},
-    {"type": "p", "html": "Sur place, le panneau d'information au depart du sentier reste l'ultime verification. Les associations locales et les comites departementaux entretiennent ces panneaux. Quand tu en vois un, prends une photo. C'est utile si tu veux relayer l'info aux copains ou contester un controle. Et signale a l'association si le panneau est tombe, abime ou contredit par un autre affichage."},
-    {"type": "table", "caption": "Calendrier indicatif des fermetures par espece", "headers": ["Espece", "Debut fermeture", "Fin fermeture", "Massifs concernes"],
-    "rows": [
-      ["Faucon pelerin", "1er fevrier", "30 juin", "Verdon, Bugey, Vercors, Tarn, Buoux"],
-      ["Hibou grand-duc", "15 fevrier", "15 juin", "Sud-Est, Massif central"],
-      ["Aigle royal", "15 janvier", "30 juin", "Mercantour, Ecrins, Vercors"],
-      ["Vautour fauve", "1er mars", "15 juillet", "Cevennes, Baronnies, Verdon"],
-      ["Chauves-souris", "15 mai", "30 septembre", "Calanques, Provence"]
-    ]},
-    {"type": "h2", "text": "Que dit la loi en cas de non-respect"},
-    {"type": "p", "html": "L'<strong>article L411-1 du Code de l'Environnement</strong> protege les especes listees dans les arretes ministeriels. Deranger une espece protegee, detruire son habitat ou son aire constitue un delit. La peine maximale prevue par le code est de trois ans d'emprisonnement et 150 000 euros d'amende. En pratique, les controles sur les falaises restent rares, mais les agents de l'Office francais de la biodiversite passent regulierement dans les massifs sensibles."},
-    {"type": "p", "html": "Sur le terrain, le contrevenant prend generalement une contravention administrative ou un rappel a la loi. Les controles aboutis a des poursuites concernent surtout les recidivistes ou les ouvertures de voies dans des zones interdites. Le risque reel n'est pas l'amende, c'est la fermeture definitive du site. Quand une falaise voit ses arretes systematiquement bafoues, le prefet bascule sur une interdiction totale et la communaute perd un terrain entier."},
-    {"type": "tip", "title": "Le bon reflexe en cas de doute", "body": "Si tu arrives sur place et qu'un panneau ferme une voie mais pas le secteur voisin, respecte le perimetre. N'essaie pas d'interpreter au plus pres. Demande confirmation au comite departemental FFME ou contacte l'association locale. Mieux vaut perdre une matinee qu'attaquer un site qui se refermera l'annee suivante a cause de toi.", "tone": "astuce"},
-    {"type": "h2", "text": "Organiser sa saison avec les fermetures"},
-    {"type": "p", "html": "Une fois que tu connais le calendrier, tu organises ta saison autrement. Le printemps devient la periode des sites sans fermeture, souvent en altitude ou en foret. Bleau, les Dentelles de Montmirail, certaines falaises du Jura ne ferment pas. Le Verdon, le Bugey et le Vercors deviennent intouchables avant fin juin. La <a href=\"/blog/parc-national-escalade-regles\">reglementation specifique des parcs nationaux</a> ajoute parfois une couche supplementaire."},
-    {"type": "p", "html": "Pour les grimpeurs de falaise sportive de niveau confirme, la solution consiste a basculer sur les sites secondaires pendant la nidification. La saison ne s'arrete pas. Au contraire, c'est le moment d'explorer des coins moins frequentes, parfois plus interessants techniquement. J'ai decouvert des falaises confidentielles en Saone-et-Loire et dans les Vosges pendant ces mois, simplement parce que mes objectifs principaux etaient fermes."},
-    {"type": "p", "html": "L'autre adaptation concerne la grande voie. Beaucoup de classiques alpines ne se font qu'apres juin de toute facon, calendrier hivernal oblige. Les fermetures de printemps coïncident souvent avec la periode ou les neiges ne sont pas encore parties des grandes faces. Tu profites de ce decalage pour reprendre l'endurance sur des falaises ecoles, puis tu attaques les courses plus longues quand les conditions s'alignent et que les pelerins ont fini leur cycle."},
-    {"type": "h2", "text": "Le role des gestionnaires et des conventions"},
-    {"type": "p", "html": "Les arretes ne sortent pas du chapeau du prefet. Ils sont le fruit d'un dialogue entre la <strong>DREAL</strong>, la LPO, les fédérations sportives, l'Office national des forets et les associations locales. La FFME participe presque toujours aux discussions pour limiter la duree et le perimetre des fermetures au strict necessaire. Sans ce travail, certaines fermetures pourraient durer toute l'annee."},
-    {"type": "p", "html": "Sur certains sites, des <a href=\"/blog/conventions-departementales-falaise\">conventions departementales d'acces</a> formalisent le partage entre grimpeurs et naturalistes. Les benevoles repertorient les aires de nidification chaque hiver, transmettent l'information au comite departemental, qui ajuste les listes des voies fermees. Cette cooperation explique pourquoi les arretes sont souvent moins severes que ce qu'auraient voulu les premiers projets prefectoraux."},
-    {"type": "p", "html": "Quand tu observes un comportement anormal pendant ta sortie, vol stationnaire repete d'un rapace, cris d'alarme, signale-le. La fiche de signalement de la LPO prend deux minutes a remplir et permet de cartographier les aires actives. Cette remontee d'information protege la cohabitation a long terme. Pour eviter les autres frictions, regarde aussi <a href=\"/blog/conflits-foncier-acces-prive\">les conflits fonciers sur les acces prives</a> qui completent le tableau."}
+    {
+      "type": "h2",
+      "text": "Pourquoi des falaises ferment au printemps"
+    },
+    {
+      "type": "p",
+      "html": "Au printemps, plusieurs especes d'oiseaux protegees viennent nicher sur les vires et les surplombs des falaises. Le <strong>faucon pelerin</strong> est le plus connu, mais le hibou grand-duc, la chouette hulotte et certains rapaces forestiers occupent aussi des aires en falaise. La presence humaine au pied ou dans la voie derange la couvaison. Un derangement repete fait abandonner le nid, et l'annee de reproduction est perdue."
+    },
+    {
+      "type": "p",
+      "html": "L'<strong>Arrete prefectoral de protection de biotope</strong>, abrege en APPB, est l'outil juridique qui ferme un secteur pour proteger une espece. Il est signe par le prefet du departement, sur proposition de la DREAL ou de la LPO. Il liste les voies interdites, les dates de fermeture, parfois les distances minimales a respecter. Sa portee est reglementaire, le non-respect tombe sous le coup de l'article L411-1 du Code de l'Environnement."
+    },
+    {
+      "type": "p",
+      "html": "La premiere fois que j'ai vu un panneau jaune en arrivant au pied du Verdon, j'ai pesté contre la perte de la sortie. Puis le copain qui m'accompagnait, gestionnaire d'un site dans le Vercors, m'a explique le cycle. Un faucon pelerin couve entre mars et mai, les jeunes prennent leur envol fin juin. Cinq mois de paix suffisent. Le reste de l'annee, la falaise reste accessible. Aujourd'hui je verifie systematiquement avant chaque sortie de printemps."
+    },
+    {
+      "type": "h2",
+      "text": "Comment lire un arrete prefectoral"
+    },
+    {
+      "type": "p",
+      "html": "Un arrete prefectoral type comporte plusieurs informations cles. Le nom du site, la liste des secteurs ou voies concernes, la periode exacte de fermeture, les especes protegees, les sanctions encourues. Certains arretes precisent aussi les conditions d'acces partiel, par exemple une vire autorisee a partir d'une certaine date. Lis-le en entier, ne te contente pas du titre."
+    },
+    {
+      "type": "p",
+      "html": "Les dates de fermeture courent generalement du <strong>1er fevrier au 30 juin</strong>, parfois jusqu'au 15 juillet selon les especes. Quelques arretes plus stricts couvrent l'annee complete pour des secteurs particulierement sensibles. Le calendrier varie d'un departement a l'autre. Dans les Bouches-du-Rhone, les Calanques connaissent des fermetures specifiques. Dans l'Ain, le massif du Bugey ferme certaines vires en fevrier-mars."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Especes typiquement protegees en falaise francaise",
+      "items": [
+        {
+          "title": "Faucon pelerin",
+          "body": "Espece phare, niche sur surplombs et vires entre 50 et 300 metres de haut. Periode mars a juin."
+        },
+        {
+          "title": "Hibou grand-duc",
+          "body": "Plus gros rapace nocturne d'Europe, niche dans des cavites accessibles. Fevrier a juin."
+        },
+        {
+          "title": "Aigle royal",
+          "body": "Niche dans le Mercantour, les Ecrins, le Vercors. Fermeture parfois en aire active."
+        },
+        {
+          "title": "Vautour fauve",
+          "body": "Reintroduit dans les Cevennes et les Baronnies. Colonies en falaise calcaire."
+        },
+        {
+          "title": "Chouette hulotte",
+          "body": "Niche dans les arbres et parfois en cavite rocheuse. Moins de fermetures dediees."
+        },
+        {
+          "title": "Molosse de Cestoni",
+          "body": "Chauve-souris des falaises mediterraneennes. Sensible au derangement en gite."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Ou trouver l'information avant de partir"
+    },
+    {
+      "type": "p",
+      "html": "Plusieurs sources se croisent pour identifier une fermeture. La <strong>FFME</strong> tient une page consolidee par massif et par departement. Les sites des prefectures publient les arretes en cours. La LPO, partenaire historique sur les rapaces, edite parfois des fiches par site sensible. Camptocamp recense aussi les informations remontees par les grimpeurs locaux, meme si la mise a jour reste manuelle."
+    },
+    {
+      "type": "p",
+      "html": "Sur les sites les plus connus, les comites departementaux FFME envoient des bulletins par mail aux licencies. Si tu grimpes regulierement dans un massif, je conseille de t'inscrire a la newsletter du comite local. Tu recois la liste des fermetures en debut de saison et les eventuelles modifications. La <a href=\"/blog/grimper-respect-sites-faune\">vue d'ensemble du respect des sites et de la faune</a> remet ces sources dans leur contexte."
+    },
+    {
+      "type": "p",
+      "html": "Sur place, le panneau d'information au depart du sentier reste l'ultime verification. Les associations locales et les comites departementaux entretiennent ces panneaux. Quand tu en vois un, prends une photo. C'est utile si tu veux relayer l'info aux copains ou contester un controle. Et signale a l'association si le panneau est tombe, abime ou contredit par un autre affichage."
+    },
+    {
+      "type": "table",
+      "caption": "Calendrier indicatif des fermetures par espece",
+      "headers": [
+        "Espece",
+        "Debut fermeture",
+        "Fin fermeture",
+        "Massifs concernes"
+      ],
+      "rows": [
+        [
+          "Faucon pelerin",
+          "1er fevrier",
+          "30 juin",
+          "Verdon, Bugey, Vercors, Tarn, Buoux"
+        ],
+        [
+          "Hibou grand-duc",
+          "15 fevrier",
+          "15 juin",
+          "Sud-Est, Massif central"
+        ],
+        [
+          "Aigle royal",
+          "15 janvier",
+          "30 juin",
+          "Mercantour, Ecrins, Vercors"
+        ],
+        [
+          "Vautour fauve",
+          "1er mars",
+          "15 juillet",
+          "Cevennes, Baronnies, Verdon"
+        ],
+        [
+          "Chauves-souris",
+          "15 mai",
+          "30 septembre",
+          "Calanques, Provence"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Que dit la loi en cas de non-respect"
+    },
+    {
+      "type": "p",
+      "html": "L'<strong>article L411-1 du Code de l'Environnement</strong> protege les especes listees dans les arretes ministeriels. Deranger une espece protegee, detruire son habitat ou son aire constitue un delit. La peine maximale prevue par le code est de trois ans d'emprisonnement et 150 000 euros d'amende. En pratique, les controles sur les falaises restent rares, mais les agents de l'Office francais de la biodiversite passent regulierement dans les massifs sensibles."
+    },
+    {
+      "type": "p",
+      "html": "Sur le terrain, le contrevenant prend generalement une contravention administrative ou un rappel a la loi. Les controles aboutis a des poursuites concernent surtout les recidivistes ou les ouvertures de voies dans des zones interdites. Le risque reel n'est pas l'amende, c'est la fermeture definitive du site. Quand une falaise voit ses arretes systematiquement bafoues, le prefet bascule sur une interdiction totale et la communaute perd un terrain entier."
+    },
+    {
+      "type": "tip",
+      "title": "Le bon reflexe en cas de doute",
+      "body": "Si tu arrives sur place et qu'un panneau ferme une voie mais pas le secteur voisin, respecte le perimetre. N'essaie pas d'interpreter au plus pres. Demande confirmation au comite departemental FFME ou contacte l'association locale. Mieux vaut perdre une matinee qu'attaquer un site qui se refermera l'annee suivante a cause de toi.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Organiser sa saison avec les fermetures"
+    },
+    {
+      "type": "p",
+      "html": "Une fois que tu connais le calendrier, tu organises ta saison autrement. Le printemps devient la periode des sites sans fermeture, souvent en altitude ou en foret. Bleau, les Dentelles de Montmirail, certaines falaises du Jura ne ferment pas. Le Verdon, le Bugey et le Vercors deviennent intouchables avant fin juin. La <a href=\"/blog/parc-national-escalade-regles\">reglementation specifique des parcs nationaux</a> ajoute parfois une couche supplementaire."
+    },
+    {
+      "type": "p",
+      "html": "Pour les grimpeurs de falaise sportive de niveau confirme, la solution consiste a basculer sur les sites secondaires pendant la nidification. La saison ne s'arrete pas. Au contraire, c'est le moment d'explorer des coins moins frequentes, parfois plus interessants techniquement. J'ai decouvert des falaises confidentielles en Saone-et-Loire et dans les Vosges pendant ces mois, simplement parce que mes objectifs principaux etaient fermes."
+    },
+    {
+      "type": "p",
+      "html": "L'autre adaptation concerne la grande voie. Beaucoup de classiques alpines ne se font qu'apres juin de toute facon, calendrier hivernal oblige. Les fermetures de printemps coïncident souvent avec la periode ou les neiges ne sont pas encore parties des grandes faces. Tu profites de ce decalage pour reprendre l'endurance sur des falaises ecoles, puis tu attaques les courses plus longues quand les conditions s'alignent et que les pelerins ont fini leur cycle."
+    },
+    {
+      "type": "h2",
+      "text": "Le role des gestionnaires et des conventions"
+    },
+    {
+      "type": "p",
+      "html": "Les arretes ne sortent pas du chapeau du prefet. Ils sont le fruit d'un dialogue entre la <strong>DREAL</strong>, la LPO, les fédérations sportives, l'Office national des forets et les associations locales. La FFME participe presque toujours aux discussions pour limiter la duree et le perimetre des fermetures au strict necessaire. Sans ce travail, certaines fermetures pourraient durer toute l'annee."
+    },
+    {
+      "type": "p",
+      "html": "Sur certains sites, des <a href=\"/blog/conventions-departementales-falaise\">conventions departementales d'acces</a> formalisent le partage entre grimpeurs et naturalistes. Les benevoles repertorient les aires de nidification chaque hiver, transmettent l'information au comite departemental, qui ajuste les listes des voies fermees. Cette cooperation explique pourquoi les arretes sont souvent moins severes que ce qu'auraient voulu les premiers projets prefectoraux."
+    },
+    {
+      "type": "p",
+      "html": "Quand tu observes un comportement anormal pendant ta sortie, vol stationnaire repete d'un rapace, cris d'alarme, signale-le. La fiche de signalement de la LPO prend deux minutes a remplir et permet de cartographier les aires actives. Cette remontee d'information protege la cohabitation a long terme. Pour eviter les autres frictions, regarde aussi <a href=\"/blog/conflits-foncier-acces-prive\">les conflits fonciers sur les acces prives</a> qui completent le tableau."
+    }
   ],
   "faq": [
-    {"q": "Comment savoir si un site d'escalade est ouvert ?", "a": "Verifie le site internet de la prefecture du departement, la page falaises de la FFME et l'application Camptocamp. Sur place, le panneau au depart du sentier reste la source la plus a jour. En cas de doute, contacte le comite departemental FFME, ils repondent generalement dans la journee."},
-    {"q": "Que faire si je tombe sur un nid pendant une voie ?", "a": "Redescends sans bruit, change de voie pour le reste de la journee, ne reviens pas sur le secteur avant la fin de la nidification. Signale l'observation au comite departemental ou a la LPO. Cette remontee d'information aide a ajuster les fermetures pour les annees suivantes."},
-    {"q": "Combien de temps durent les fermetures de printemps ?", "a": "Generalement du 1er fevrier au 30 juin, parfois jusqu'au 15 juillet selon les especes. Quelques arretes plus stricts couvrent toute l'annee pour des secteurs sensibles. Le calendrier exact figure dans l'arrete prefectoral, qui se consulte sur le site de la prefecture."},
-    {"q": "Que risque-t-on a grimper sur une voie fermee ?", "a": "Contravention administrative dans la majorite des cas, rappel a la loi par les agents de l'Office francais de la biodiversite. Le code prevoit jusqu'a 150 000 euros d'amende et trois ans d'emprisonnement, mais ces peines maximales restent reservees aux recidivistes ou aux destructions volontaires d'aires."},
-    {"q": "Qui decide de fermer une falaise ?", "a": "Le prefet du departement signe l'arrete, sur proposition de la DREAL et apres concertation avec la LPO, la FFME et les associations locales. Les decisions reposent sur des observations naturalistes documentees, generalement sur plusieurs annees. La duree est ajustee chaque saison selon le succes de reproduction."}
+    {
+      "q": "Comment savoir si un site d'escalade est ouvert ?",
+      "a": "Verifie le site internet de la prefecture du departement, la page falaises de la FFME et l'application Camptocamp. Sur place, le panneau au depart du sentier reste la source la plus a jour. En cas de doute, contacte le comite departemental FFME, ils repondent generalement dans la journee."
+    },
+    {
+      "q": "Que faire si je tombe sur un nid pendant une voie ?",
+      "a": "Redescends sans bruit, change de voie pour le reste de la journee, ne reviens pas sur le secteur avant la fin de la nidification. Signale l'observation au comite departemental ou a la LPO. Cette remontee d'information aide a ajuster les fermetures pour les annees suivantes."
+    },
+    {
+      "q": "Combien de temps durent les fermetures de printemps ?",
+      "a": "Generalement du 1er fevrier au 30 juin, parfois jusqu'au 15 juillet selon les especes. Quelques arretes plus stricts couvrent toute l'annee pour des secteurs sensibles. Le calendrier exact figure dans l'arrete prefectoral, qui se consulte sur le site de la prefecture."
+    },
+    {
+      "q": "Que risque-t-on a grimper sur une voie fermee ?",
+      "a": "Contravention administrative dans la majorite des cas, rappel a la loi par les agents de l'Office francais de la biodiversite. Le code prevoit jusqu'a 150 000 euros d'amende et trois ans d'emprisonnement, mais ces peines maximales restent reservees aux recidivistes ou aux destructions volontaires d'aires."
+    },
+    {
+      "q": "Qui decide de fermer une falaise ?",
+      "a": "Le prefet du departement signe l'arrete, sur proposition de la DREAL et apres concertation avec la LPO, la FFME et les associations locales. Les decisions reposent sur des observations naturalistes documentees, generalement sur plusieurs annees. La duree est ajustee chaque saison selon le succes de reproduction."
+    }
   ],
   "cover_alt": "Panneau jaune en pied de falaise indiquant une fermeture pour nidification du faucon pelerin avec arrete prefectoral affiche",
   "internal_links": [
-    {"slug": "grimper-respect-sites-faune", "anchor": "vue d'ensemble du respect des sites et de la faune", "context": "Pilier du cocon"},
-    {"slug": "faucon-pelerin-falaise", "anchor": "le faucon pelerin en falaise", "context": "Espece phare des fermetures"},
-    {"slug": "conventions-departementales-falaise", "anchor": "conventions departementales d'acces", "context": "Cadre juridique des sites"},
-    {"slug": "parc-national-escalade-regles", "anchor": "reglementation specifique des parcs nationaux", "context": "Couche supplementaire"},
-    {"slug": "conflits-foncier-acces-prive", "anchor": "les conflits fonciers sur les acces prives", "context": "Autre source de fermeture"}
+    {
+      "slug": "grimper-respect-sites-faune",
+      "anchor": "vue d'ensemble du respect des sites et de la faune",
+      "context": "Pilier du cocon"
+    },
+    {
+      "slug": "faucon-pelerin-falaise",
+      "anchor": "le faucon pelerin en falaise",
+      "context": "Espece phare des fermetures"
+    },
+    {
+      "slug": "conventions-departementales-falaise",
+      "anchor": "conventions departementales d'acces",
+      "context": "Cadre juridique des sites"
+    },
+    {
+      "slug": "parc-national-escalade-regles",
+      "anchor": "reglementation specifique des parcs nationaux",
+      "context": "Couche supplementaire"
+    },
+    {
+      "slug": "conflits-foncier-acces-prive",
+      "anchor": "les conflits fonciers sur les acces prives",
+      "context": "Autre source de fermeture"
+    }
   ],
   "scheduled_at": "2027-04-06T09:00:00+02:00"
 }

@@ -3,7 +3,7 @@
   "cocon": "environnement",
   "type_article": "astuce",
   "numero": 157,
-  "title": "Magnésie blanche : faut-il l'interdire en falaise et en bloc ?",
+  "title": "Magnésie blanche, faut-il l'interdire en falaise et en bloc ?",
   "h1": "Magnésie blanche, le débat qui agite la communauté grimpante",
   "description": "Traces blanches sur le rocher, impact paysager, lavage des prises et alternatives à la poudre. Le point honnête sur le débat magnésie pour les grimpeurs.",
   "chapo": "La magnésie laisse des traces blanches qui restent visibles plusieurs mois sur la roche. Le débat agite la communauté grimpante depuis trente ans. Antoine décortique ce qui se joue entre besoin technique réel, impact paysager, alternatives existantes et premières restrictions officielles. Le sujet est moins simple qu'il n'y paraît, parce que la magnésie touche aussi à l'identité même de la pratique.",
@@ -15,50 +15,172 @@
     "Le brossage régulier des prises après usage limite l'accumulation visuelle sur le long terme."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Pourquoi on utilise de la magnésie"},
-    {"type": "p", "html": "La magnésie est un carbonate de magnésium qui absorbe l'humidité. Les mains du grimpeur transpirent sous l'effort, surtout en intérieur où l'humidité de l'air et la chaleur s'additionnent. Une main moite glisse, perd 30 à 50 pour cent d'adhérence sur prise petite. La magnésie sèche la peau et restaure le contact friction entre la paume et la prise. C'est un usage technique réel, pas un effet placebo."},
-    {"type": "p", "html": "En salle, l'usage est généralisé et personne ne le conteste. En falaise, la question devient plus complexe. Le rocher n'est pas une prise plastique remplaçable, c'est un patrimoine. Les <strong>traces blanches</strong> laissées par la magnésie marquent la voie pendant des semaines à des mois selon la météo. Sur calcaire compact peu poreux, le ruissellement est lent et la trace dure longtemps. Sur granit altéré, l'eau évacue plus vite."},
-    {"type": "p", "html": "L'impact paysager est ce qui pose problème. Une falaise vue depuis le sentier d'approche présente des traînées blanches sur les itinéraires les plus fréquentés. À Saffres en Bourgogne, le secteur des Bombards visible depuis la D104 affiche ces traînées par temps sec. Le promeneur non grimpeur perçoit la falaise comme dégradée, ce qui pèse sur la perception locale de la pratique."},
-    {"type": "h2", "text": "Le débat scientifique et symbolique"},
-    {"type": "p", "html": "Plusieurs études ont mesuré l'impact biologique de la magnésie sur la roche. Le carbonate de magnésium modifie légèrement le pH de surface et peut perturber les lichens et mousses pionnières. L'effet reste modeste sur calcaire, plus marqué sur gneiss et granite où la flore rupestre est plus diversifiée. Les écologues du parc national des Calanques ont publié des relevés montrant une modification de la flore sur les itinéraires très fréquentés."},
-    {"type": "p", "html": "Le débat symbolique pèse autant. Pour une partie de la communauté grimpante, la magnésie représente une marque d'invasion de la nature par l'usage humain. Les puristes pratiquent sans magnésie sur certains sites par choix éthique. La majorité des grimpeurs jugent ce purisme excessif et défendent un usage modéré comme acceptable. Cette tension travaille la communauté depuis les années 1990."},
-    {"type": "p", "html": "Aux États-Unis, plusieurs parcs nationaux interdisent ou restreignent la magnésie blanche. Le parc national d'Arches dans l'Utah impose la magnésie colorée, teintée pour se fondre dans la roche rouge. Cette pratique reste anecdotique en France mais elle pourrait s'étendre à terme sur les sites classés. Antoine a essayé la magnésie colorée en voyage aux États-Unis, le rendu est plus discret mais le prix double."},
-    {"type": "h2", "text": "Magnésie liquide ou poudre"},
-    {"type": "p", "html": "La <strong>magnésie liquide</strong> est une solution de carbonate de magnésium dans de l'alcool. On l'applique avant la voie, elle sèche en quelques secondes et laisse un film fin sur les mains. Elle laisse beaucoup moins de traces visibles que la poudre, parce que la quantité utilisée est plus faible et l'application plus précise. Elle émet aussi nettement moins de poussière, ce qui réduit la pollution de l'air en salle."},
-    {"type": "p", "html": "La <strong>magnésie poudre</strong> reste la plus utilisée parce que plus économique et plus rapide à appliquer en cours de voie. Le sac de magnésie permet de se reservir à chaque repos. Le revers, c'est l'accumulation visible sur le rocher et l'émission de poussière fine en salle, qui finit par saturer l'air et déposer un film blanc sur tout l'équipement environnant."},
-    {"type": "p", "html": "Un usage mixte fonctionne bien : magnésie liquide en base avant la voie pour fixer un film durable, magnésie poudre en complément aux repos pour absorber la transpiration ponctuelle. Cette combinaison divise par deux la quantité de poudre nécessaire. Antoine la pratique depuis trois ans et ne reviendrait pas à la poudre seule, surtout en intérieur."},
-    {"type": "list", "variant": "cards", "title": "Trois alternatives à la magnésie classique", "items": [
-      {"title": "Magnésie liquide", "body": "Solution carbonate de magnésium et alcool. Application unique en base de voie, séchage rapide, moins de traces et zéro poussière. Idéale en salle et sur sites sensibles."},
-      {"title": "Magnésie colorée", "body": "Teintée pour se fondre dans la roche, surtout sur grès rouge ou granit clair. Plus chère, peu répandue en France, courante aux États-Unis."},
-      {"title": "Sans magnésie", "body": "Pratique sur dalle facile et bloc froid. Demande des mains naturellement sèches et un brossage du rocher. Marginal en haut niveau mais grimpable jusqu'au 6c sans souci."}
-    ]},
-    {"type": "h2", "text": "Les premières restrictions officielles"},
-    {"type": "p", "html": "En France, aucune réglementation nationale n'interdit la magnésie. Quelques sites ont adopté des chartes locales recommandant un usage modéré. Le parc national des Calanques a publié un guide de bonnes pratiques qui recommande la magnésie liquide quand c'est possible et encourage le brossage post-séance. Aucune sanction n'est associée, mais la sensibilisation existe."},
-    {"type": "p", "html": "Le parc national des Cévennes envisage périodiquement une restriction sur les sites les plus sensibles, sans avoir franchi le pas pour l'instant. La FFME et le COSIROC soutiennent une démarche d'auto-régulation plutôt qu'une interdiction réglementaire. L'argument est que la communauté peut s'autodiscipliner si elle comprend l'enjeu, sans avoir besoin d'une police de la magnésie."},
-    {"type": "p", "html": "À l'étranger, plusieurs sites mythiques imposent des restrictions. Hueco Tanks au Texas applique des quotas et recommande la magnésie réduite. Certains sites en Australie et en Afrique du Sud interdisent purement et simplement la magnésie sur les rochers gravés d'art rupestre. Ces exemples restent isolés mais montrent que la régulation est possible."},
-    {"type": "h2", "text": "Le lavage des prises, le geste qui change la donne"},
-    {"type": "p", "html": "Brosser ses prises après usage est le geste le plus efficace pour limiter l'accumulation. Une <strong>brosse à magnésie</strong> en poils naturels passée sur la prise après chaque essai enlève l'excès de poudre. Sur un projet en travail, la brosse fait partie du rituel. Le grimpeur qui brosse contribue à maintenir le rocher accessible aux suivants avec une friction propre."},
-    {"type": "p", "html": "Les sessions de nettoyage collectif organisées par les comités locaux complètent le geste individuel. Une fois par an, les bénévoles passent un week-end à brosser les voies les plus marquées et à nettoyer les zones de chute. Cette maintenance évite que l'accumulation devienne visible depuis loin. Antoine a participé à un nettoyage à Cuvier Rempart en 2024, deux jours de brosse, le résultat se voyait au sentier."},
-    {"type": "p", "html": "Le brossage ne doit pas devenir excessif. Brosser une prise après chaque pose finit par polir la roche, surtout sur grès tendre ou calcaire friable. La règle simple est de brosser pour enlever la magnésie, pas pour gratter le rocher. Une brosse souple en poils naturels suffit, les brosses dures en métal sont à proscrire absolument."},
-    {"type": "tip", "title": "Doser sa magnésie à la voie", "body": "Avant chaque essai, sèche tes mains au chiffon plutôt que de retaper dans le sac. Utilise la magnésie quand tu sens vraiment la moiteur revenir, pas par réflexe automatique. Tu réduiras ta consommation de moitié sans perte d'adhérence réelle. Ton sac de magnésie tiendra deux fois plus longtemps.", "tone": "astuce"},
-    {"type": "h2", "text": "Ce que tu peux faire concrètement"},
-    {"type": "p", "html": "Adopte la magnésie liquide en base, complète à la poudre uniquement quand nécessaire. Brosse tes prises après usage en travail. Ne brosse pas les prises naturelles déjà couvertes de magnésie ancienne, c'est le travail collectif qui les fait revenir à un état acceptable. Privilégie les marques de magnésie pure sans additif et évite les versions parfumées qui polluent l'air des salles."},
-    {"type": "p", "html": "Si tu projettes une voie pendant plusieurs séances, organise un brossage en fin de session, c'est un geste collectif. Les voies les plus marquées du site sont aussi les plus parcourues, donc celles qui subissent le plus la trace. Une brosse de poche se range dans le sac sans gêner. Plusieurs grimpeurs équipés font la différence sur un secteur."},
-    {"type": "p", "html": "Pour creuser le sujet, jette un œil à <a href=\"/blog/magnesie-types-grimpe\">le détail des types de magnésie</a>, à <a href=\"/blog/brosse-grimpe-entretien-prises\">l'entretien des prises et le brossage</a> et à <a href=\"/blog/grimper-respect-sites-faune\">la vue d'ensemble du respect des sites</a>. Trois angles techniques et environnementaux du même geste quotidien."}
+    {
+      "type": "h2",
+      "text": "Pourquoi on utilise de la magnésie"
+    },
+    {
+      "type": "p",
+      "html": "La magnésie est un carbonate de magnésium qui absorbe l'humidité. Les mains du grimpeur transpirent sous l'effort, surtout en intérieur où l'humidité de l'air et la chaleur s'additionnent. Une main moite glisse, perd 30 à 50 pour cent d'adhérence sur prise petite. La magnésie sèche la peau et restaure le contact friction entre la paume et la prise. C'est un usage technique réel, pas un effet placebo."
+    },
+    {
+      "type": "p",
+      "html": "En salle, l'usage est généralisé et personne ne le conteste. En falaise, la question devient plus complexe. Le rocher n'est pas une prise plastique remplaçable, c'est un patrimoine. Les <strong>traces blanches</strong> laissées par la magnésie marquent la voie pendant des semaines à des mois selon la météo. Sur calcaire compact peu poreux, le ruissellement est lent et la trace dure longtemps. Sur granit altéré, l'eau évacue plus vite."
+    },
+    {
+      "type": "p",
+      "html": "L'impact paysager est ce qui pose problème. Une falaise vue depuis le sentier d'approche présente des traînées blanches sur les itinéraires les plus fréquentés. À Saffres en Bourgogne, le secteur des Bombards visible depuis la D104 affiche ces traînées par temps sec. Le promeneur non grimpeur perçoit la falaise comme dégradée, ce qui pèse sur la perception locale de la pratique."
+    },
+    {
+      "type": "h2",
+      "text": "Le débat scientifique et symbolique"
+    },
+    {
+      "type": "p",
+      "html": "Plusieurs études ont mesuré l'impact biologique de la magnésie sur la roche. Le carbonate de magnésium modifie légèrement le pH de surface et peut perturber les lichens et mousses pionnières. L'effet reste modeste sur calcaire, plus marqué sur gneiss et granite où la flore rupestre est plus diversifiée. Les écologues du parc national des Calanques ont publié des relevés montrant une modification de la flore sur les itinéraires très fréquentés."
+    },
+    {
+      "type": "p",
+      "html": "Le débat symbolique pèse autant. Pour une partie de la communauté grimpante, la magnésie représente une marque d'invasion de la nature par l'usage humain. Les puristes pratiquent sans magnésie sur certains sites par choix éthique. La majorité des grimpeurs jugent ce purisme excessif et défendent un usage modéré comme acceptable. Cette tension travaille la communauté depuis les années 1990."
+    },
+    {
+      "type": "p",
+      "html": "Aux États-Unis, plusieurs parcs nationaux interdisent ou restreignent la magnésie blanche. Le parc national d'Arches dans l'Utah impose la magnésie colorée, teintée pour se fondre dans la roche rouge. Cette pratique reste anecdotique en France mais elle pourrait s'étendre à terme sur les sites classés. Antoine a essayé la magnésie colorée en voyage aux États-Unis, le rendu est plus discret mais le prix double."
+    },
+    {
+      "type": "h2",
+      "text": "Magnésie liquide ou poudre"
+    },
+    {
+      "type": "p",
+      "html": "La <strong>magnésie liquide</strong> est une solution de carbonate de magnésium dans de l'alcool. On l'applique avant la voie, elle sèche en quelques secondes et laisse un film fin sur les mains. Elle laisse beaucoup moins de traces visibles que la poudre, parce que la quantité utilisée est plus faible et l'application plus précise. Elle émet aussi nettement moins de poussière, ce qui réduit la pollution de l'air en salle."
+    },
+    {
+      "type": "p",
+      "html": "La <strong>magnésie poudre</strong> reste la plus utilisée parce que plus économique et plus rapide à appliquer en cours de voie. Le sac de magnésie permet de se reservir à chaque repos. Le revers, c'est l'accumulation visible sur le rocher et l'émission de poussière fine en salle, qui finit par saturer l'air et déposer un film blanc sur tout l'équipement environnant."
+    },
+    {
+      "type": "p",
+      "html": "Un usage mixte fonctionne bien : magnésie liquide en base avant la voie pour fixer un film durable, magnésie poudre en complément aux repos pour absorber la transpiration ponctuelle. Cette combinaison divise par deux la quantité de poudre nécessaire. Antoine la pratique depuis trois ans et ne reviendrait pas à la poudre seule, surtout en intérieur."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Trois alternatives à la magnésie classique",
+      "items": [
+        {
+          "title": "Magnésie liquide",
+          "body": "Solution carbonate de magnésium et alcool. Application unique en base de voie, séchage rapide, moins de traces et zéro poussière. Idéale en salle et sur sites sensibles."
+        },
+        {
+          "title": "Magnésie colorée",
+          "body": "Teintée pour se fondre dans la roche, surtout sur grès rouge ou granit clair. Plus chère, peu répandue en France, courante aux États-Unis."
+        },
+        {
+          "title": "Sans magnésie",
+          "body": "Pratique sur dalle facile et bloc froid. Demande des mains naturellement sèches et un brossage du rocher. Marginal en haut niveau mais grimpable jusqu'au 6c sans souci."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Les premières restrictions officielles"
+    },
+    {
+      "type": "p",
+      "html": "En France, aucune réglementation nationale n'interdit la magnésie. Quelques sites ont adopté des chartes locales recommandant un usage modéré. Le parc national des Calanques a publié un guide de bonnes pratiques qui recommande la magnésie liquide quand c'est possible et encourage le brossage post-séance. Aucune sanction n'est associée, mais la sensibilisation existe."
+    },
+    {
+      "type": "p",
+      "html": "Le parc national des Cévennes envisage périodiquement une restriction sur les sites les plus sensibles, sans avoir franchi le pas pour l'instant. La FFME et le COSIROC soutiennent une démarche d'auto-régulation plutôt qu'une interdiction réglementaire. L'argument est que la communauté peut s'autodiscipliner si elle comprend l'enjeu, sans avoir besoin d'une police de la magnésie."
+    },
+    {
+      "type": "p",
+      "html": "À l'étranger, plusieurs sites mythiques imposent des restrictions. Hueco Tanks au Texas applique des quotas et recommande la magnésie réduite. Certains sites en Australie et en Afrique du Sud interdisent purement et simplement la magnésie sur les rochers gravés d'art rupestre. Ces exemples restent isolés mais montrent que la régulation est possible."
+    },
+    {
+      "type": "h2",
+      "text": "Le lavage des prises, le geste qui change la donne"
+    },
+    {
+      "type": "p",
+      "html": "Brosser ses prises après usage est le geste le plus efficace pour limiter l'accumulation. Une <strong>brosse à magnésie</strong> en poils naturels passée sur la prise après chaque essai enlève l'excès de poudre. Sur un projet en travail, la brosse fait partie du rituel. Le grimpeur qui brosse contribue à maintenir le rocher accessible aux suivants avec une friction propre."
+    },
+    {
+      "type": "p",
+      "html": "Les sessions de nettoyage collectif organisées par les comités locaux complètent le geste individuel. Une fois par an, les bénévoles passent un week-end à brosser les voies les plus marquées et à nettoyer les zones de chute. Cette maintenance évite que l'accumulation devienne visible depuis loin. Antoine a participé à un nettoyage à Cuvier Rempart en 2024, deux jours de brosse, le résultat se voyait au sentier."
+    },
+    {
+      "type": "p",
+      "html": "Le brossage ne doit pas devenir excessif. Brosser une prise après chaque pose finit par polir la roche, surtout sur grès tendre ou calcaire friable. La règle simple est de brosser pour enlever la magnésie, pas pour gratter le rocher. Une brosse souple en poils naturels suffit, les brosses dures en métal sont à proscrire absolument."
+    },
+    {
+      "type": "tip",
+      "title": "Doser sa magnésie à la voie",
+      "body": "Avant chaque essai, sèche tes mains au chiffon plutôt que de retaper dans le sac. Utilise la magnésie quand tu sens vraiment la moiteur revenir, pas par réflexe automatique. Tu réduiras ta consommation de moitié sans perte d'adhérence réelle. Ton sac de magnésie tiendra deux fois plus longtemps.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Ce que tu peux faire concrètement"
+    },
+    {
+      "type": "p",
+      "html": "Adopte la magnésie liquide en base, complète à la poudre uniquement quand nécessaire. Brosse tes prises après usage en travail. Ne brosse pas les prises naturelles déjà couvertes de magnésie ancienne, c'est le travail collectif qui les fait revenir à un état acceptable. Privilégie les marques de magnésie pure sans additif et évite les versions parfumées qui polluent l'air des salles."
+    },
+    {
+      "type": "p",
+      "html": "Si tu projettes une voie pendant plusieurs séances, organise un brossage en fin de session, c'est un geste collectif. Les voies les plus marquées du site sont aussi les plus parcourues, donc celles qui subissent le plus la trace. Une brosse de poche se range dans le sac sans gêner. Plusieurs grimpeurs équipés font la différence sur un secteur."
+    },
+    {
+      "type": "p",
+      "html": "Pour creuser le sujet, jette un œil à <a href=\"/blog/magnesie-types-grimpe\">le détail des types de magnésie</a>, à <a href=\"/blog/brosse-grimpe-entretien-prises\">l'entretien des prises et le brossage</a> et à <a href=\"/blog/grimper-respect-sites-faune\">la vue d'ensemble du respect des sites</a>. Trois angles techniques et environnementaux du même geste quotidien."
+    }
   ],
   "faq": [
-    {"q": "La magnésie blanche est-elle dangereuse pour la santé ?", "a": "Pas en utilisation normale. Le carbonate de magnésium est inerte, ingéré il sert même d'antiacide en pharmacie. Le risque est uniquement respiratoire en salle mal ventilée, où l'inhalation chronique de poudre fine peut irriter les bronches. Les salles équipées d'extraction et l'usage de magnésie liquide réduisent ce risque. Les grimpeurs asthmatiques préfèrent souvent la version liquide."},
-    {"q": "Combien de temps les traces de magnésie restent-elles visibles ?", "a": "Plusieurs semaines à plusieurs mois selon la roche et la météo. Sur calcaire compact peu poreux, comme à Buoux ou Saffres, les traces restent visibles trois à six mois en l'absence de pluies abondantes. Sur granit ou grès plus poreux, l'eau les évacue en quelques semaines. Le brossage régulier réduit drastiquement la durée de visibilité."},
-    {"q": "Existe-t-il des falaises où la magnésie est interdite en France ?", "a": "Pas d'interdiction réglementaire à ce jour, mais plusieurs sites recommandent un usage modéré. Le parc national des Calanques a publié un guide en ce sens. Quelques sites privés ont affiché des chartes proscrivant la magnésie sur certains secteurs sensibles. La tendance européenne et américaine va vers une régulation croissante, la France suivra probablement à moyen terme."},
-    {"q": "La magnésie liquide est-elle vraiment moins polluante visuellement ?", "a": "Oui, nettement. Elle s'applique en quantité plus faible et de manière plus ciblée. Le séchage rapide fixe le carbonate sur la peau, peu de poudre se transfère à la roche. Les tests menés par des comités départementaux montrent une accumulation visible deux à trois fois plus faible sur les voies équipées de pratiquants liquides. Le surcoût est de l'ordre de 30 pour cent à long terme."},
-    {"q": "Faut-il vraiment brosser après chaque voie ?", "a": "Après chaque essai sur projet, oui. Sur des voies à vue passées une fois, c'est moins critique mais reste un bon réflexe. Une voie travaillée pendant plusieurs séances accumule rapidement la magnésie, le brossage en fin de session lave le surplus. La règle d'or est de brosser pour enlever, pas pour gratter. Une brosse souple suffit largement."}
+    {
+      "q": "La magnésie blanche est-elle dangereuse pour la santé ?",
+      "a": "Pas en utilisation normale. Le carbonate de magnésium est inerte, ingéré il sert même d'antiacide en pharmacie. Le risque est uniquement respiratoire en salle mal ventilée, où l'inhalation chronique de poudre fine peut irriter les bronches. Les salles équipées d'extraction et l'usage de magnésie liquide réduisent ce risque. Les grimpeurs asthmatiques préfèrent souvent la version liquide."
+    },
+    {
+      "q": "Combien de temps les traces de magnésie restent-elles visibles ?",
+      "a": "Plusieurs semaines à plusieurs mois selon la roche et la météo. Sur calcaire compact peu poreux, comme à Buoux ou Saffres, les traces restent visibles trois à six mois en l'absence de pluies abondantes. Sur granit ou grès plus poreux, l'eau les évacue en quelques semaines. Le brossage régulier réduit drastiquement la durée de visibilité."
+    },
+    {
+      "q": "Existe-t-il des falaises où la magnésie est interdite en France ?",
+      "a": "Pas d'interdiction réglementaire à ce jour, mais plusieurs sites recommandent un usage modéré. Le parc national des Calanques a publié un guide en ce sens. Quelques sites privés ont affiché des chartes proscrivant la magnésie sur certains secteurs sensibles. La tendance européenne et américaine va vers une régulation croissante, la France suivra probablement à moyen terme."
+    },
+    {
+      "q": "La magnésie liquide est-elle vraiment moins polluante visuellement ?",
+      "a": "Oui, nettement. Elle s'applique en quantité plus faible et de manière plus ciblée. Le séchage rapide fixe le carbonate sur la peau, peu de poudre se transfère à la roche. Les tests menés par des comités départementaux montrent une accumulation visible deux à trois fois plus faible sur les voies équipées de pratiquants liquides. Le surcoût est de l'ordre de 30 pour cent à long terme."
+    },
+    {
+      "q": "Faut-il vraiment brosser après chaque voie ?",
+      "a": "Après chaque essai sur projet, oui. Sur des voies à vue passées une fois, c'est moins critique mais reste un bon réflexe. Une voie travaillée pendant plusieurs séances accumule rapidement la magnésie, le brossage en fin de session lave le surplus. La règle d'or est de brosser pour enlever, pas pour gratter. Une brosse souple suffit largement."
+    }
   ],
   "cover_alt": "Main de grimpeur saupoudrée de magnésie blanche au bord d'un sac de magnésie textile, traces de poudre sur la peau, prise de calcaire en arrière-plan, lumière chaude de fin d'après-midi",
   "internal_links": [
-    {"slug": "magnesie-types-grimpe", "anchor": "détail des types de magnésie", "context": "complément technique"},
-    {"slug": "brosse-grimpe-entretien-prises", "anchor": "entretien des prises et le brossage", "context": "geste pratique"},
-    {"slug": "grimper-respect-sites-faune", "anchor": "vue d'ensemble du respect des sites", "context": "pilier environnement"},
-    {"slug": "rocher-fragile-grimpe-respectueuse", "anchor": "grimpe respectueuse sur rocher fragile", "context": "thématique liée"}
+    {
+      "slug": "magnesie-types-grimpe",
+      "anchor": "détail des types de magnésie",
+      "context": "complément technique"
+    },
+    {
+      "slug": "brosse-grimpe-entretien-prises",
+      "anchor": "entretien des prises et le brossage",
+      "context": "geste pratique"
+    },
+    {
+      "slug": "grimper-respect-sites-faune",
+      "anchor": "vue d'ensemble du respect des sites",
+      "context": "pilier environnement"
+    },
+    {
+      "slug": "rocher-fragile-grimpe-respectueuse",
+      "anchor": "grimpe respectueuse sur rocher fragile",
+      "context": "thématique liée"
+    }
   ],
   "scheduled_at": "2027-04-20T09:00:00+02:00"
 }

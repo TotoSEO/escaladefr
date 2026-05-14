@@ -3,7 +3,7 @@
   "cocon": "materiel",
   "type_article": "guide",
   "numero": 43,
-  "title": "Baudrier d'escalade : les critères de choix qui comptent",
+  "title": "Baudrier d'escalade, les critères de choix qui comptent",
   "h1": "Choisir son baudrier d'escalade, les critères qui comptent",
   "description": "Pontet, porte-matériel, sangle ventrale, confort en suspension : les critères concrets pour choisir un baudrier d'escalade selon ton terrain en 2026.",
   "chapo": "Quel baudrier choisir entre un modèle léger à 50 euros et un modèle confort à 130 euros ? La différence tient sur cinq critères concrets : confort en suspension, pontet, porte-matériel, ajustabilité, et durabilité. Ce guide te donne les points qui comptent vraiment, sans jargon, avec les modèles repères chez Petzl, Black Diamond, Edelrid et Mammut.",
@@ -15,63 +15,244 @@
     "Essaie en suspendant ton poids quelques minutes en magasin, indispensable avant achat."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Le baudrier, ton point d'ancrage sur la corde"},
-    {"type": "p", "html": "Le baudrier transmet ton poids à la corde, point. Il doit le faire sans te couper la circulation, sans glisser pendant l'assurage, sans gêner ton geste quand tu lâches la corde pour clipper. Pour un grimpeur loisir, c'est l'achat le plus simple à rater, parce que tous les baudriers se ressemblent en vitrine. La différence se sent en suspension, et en suspension uniquement."},
-    {"type": "p", "html": "Quand j'ai démarré au lycée Camille Sée, j'ai pris un Petzl Corax sur conseil d'un copain. Quatre ans plus tard, il fonctionne encore. Le bon baudrier dure 5 à 10 ans sans broncher, sous réserve d'un bon entretien. Pour cette partie, regarde <a href=\"/blog/entretien-baudrier-duree-vie\">entretien et durée de vie d'un baudrier</a>."},
-    {"type": "h2", "text": "Le confort en suspension, critère numéro un"},
-    {"type": "p", "html": "Le baudrier comprend trois zones de contact : la sangle ventrale, les deux cuissardes. C'est cette répartition qui détermine ton confort quand tu tombes ou que tu te reposes en l'air. Une sangle ventrale étroite coupe le bas du dos, des cuissardes mal calées compriment l'artère fémorale, et tu sens ton pied s'engourdir."},
-    {"type": "p", "html": "Test essentiel en magasin : enfile le baudrier, attache-toi à une corde, reste suspendu 3 à 5 minutes. Si tu sens un point de pression marqué après 2 minutes, change de modèle. Si tu commences à fourmiller dans les cuisses, c'est <strong>mauvais signe</strong>. Sur les modèles sérieux, le rembourrage est plus large à l'avant et s'amincit vers l'arrière, ce qui répartit mieux la charge."},
-    {"type": "tip", "title": "Le test en boutique", "body": "Ne te contente pas d'enfiler le baudrier debout. Demande au vendeur de t'accrocher à une longe ou à une corde fixée au plafond, et reste suspendu plusieurs minutes. C'est le seul moyen de juger du confort réel.", "tone": "astuce"},
-    {"type": "h2", "text": "Le pontet, la pièce qui tient ta vie"},
-    {"type": "p", "html": "Le pontet est la sangle horizontale qui relie la ceinture aux cuissardes, à l'avant du baudrier. C'est là que tu attaches ton encordement et ton système d'assurage. Sa résistance dépasse les 15 kN sur les baudriers homologués, soit largement le nécessaire pour stopper une chute. Mais sa <strong>forme et sa largeur</strong> influencent ton confort et la durée de vie de l'ensemble."},
-    {"type": "p", "html": "Un bon pontet doit accepter un mousqueton à vis ouvert sans forcer. Sur certains modèles trop fins, tu galères à passer le mousqueton de ton GriGri. Vérifie aussi qu'il n'est pas tordu en position naturelle : un pontet vrillé use ta corde de manière asymétrique. Pour comprendre les mousquetons, regarde <a href=\"/blog/mousquetons-escalade-types\">les types de mousquetons d'escalade</a>."},
-    {"type": "h2", "text": "Les porte-matériel : combien et où"},
-    {"type": "p", "html": "Le porte-matériel est l'anneau plastique ou rigide qui te permet d'accrocher dégaines, sangles, mousquetons. Le nombre dépend de ton terrain. <strong>Quatre porte-matériel</strong> suffisent pour la salle et la falaise sportive courte. Pour la grande voie, vise six porte-matériel. Pour le trad, certains baudriers proposent jusqu'à huit emplacements."},
-    {"type": "list", "variant": "cards", "title": "Combien de porte-matériel selon le terrain", "items": [
-      {"title": "Salle indoor", "body": "2 à 4 porte-matériel suffisent. Tu portes 6 à 10 dégaines au maximum, et tu n'as pas besoin de sangles longues."},
-      {"title": "Falaise sportive", "body": "4 porte-matériel pour 10 à 15 dégaines, plus une longe et un système d'assurage. Standard sur la majorité des baudriers."},
-      {"title": "Grande voie sportive", "body": "6 porte-matériel pour gérer dégaines, sangles, friends, plaquettes. Vise un modèle dédié comme le Petzl Sitta ou le Black Diamond Solution Guide."},
-      {"title": "Escalade trad", "body": "6 à 8 porte-matériel pour stocker friends, coinceurs, sangles cousues. Le Petzl Adjama ou le DMM Renegade font partie des références."}
-    ]},
-    {"type": "p", "html": "Les porte-matériel doivent être inclinés vers le bas à l'avant, et plus rigides à l'arrière. Cette différence permet de saisir une dégaine d'une main sans la chercher. Sur les baudriers d'entrée de gamme, tous les porte-matériel sont souples, ce qui complique le travail en grande voie."},
-    {"type": "h2", "text": "Ajustabilité : ventrale et cuissardes"},
-    {"type": "p", "html": "Deux types de baudriers existent. Les modèles à <strong>cuissardes fixes</strong> n'offrent qu'un réglage à la sangle ventrale. Plus légers, plus simples, ils conviennent quand tu grimpes toujours dans la même tenue. Les modèles à cuissardes réglables ajoutent une boucle de chaque côté, indispensables si tu varies entre short d'été et pantalon d'hiver."},
-    {"type": "p", "html": "Pour la falaise toute saison ou la grande voie alpine, prends des cuissardes réglables. Pour la salle uniquement, les cuissardes fixes suffisent. Mon Petzl Corax actuel a les cuissardes réglables, je serre un cran de plus en t-shirt-short, je desserre en hiver avec une polaire."},
-    {"type": "quote", "text": "Le baudrier doit te faire oublier qu'il est là. Si tu y penses pendant une voie, c'est qu'il ne te va pas.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
-    {"type": "h2", "text": "Boucles auto-bloquantes : double passage obligatoire ou non"},
-    {"type": "p", "html": "Depuis une dizaine d'années, la majorité des baudriers utilisent des boucles dites <strong>auto-bloquantes</strong>. Un seul passage suffit pour serrer, et la sangle ne peut pas se desserrer toute seule. Sur les anciens modèles, il fallait repasser la sangle dans la boucle en sens inverse, sous peine de catastrophe. Cette opération s'oublie facilement quand on apprend."},
-    {"type": "p", "html": "Vérifie sur la fiche produit que le baudrier comporte des boucles auto-bloquantes. Toutes les marques sérieuses, <strong>Petzl, Black Diamond, Edelrid, Mammut, Camp</strong>, en proposent depuis longtemps. Si tu trouves un modèle à double passage en magasin, c'est probablement du stock ancien."},
-    {"type": "h2", "text": "Modèles repères 2026 par usage"},
-    {"type": "table", "caption": "Sélection de baudriers en 2026", "headers": ["Modèle", "Usage", "Poids", "Prix"], "rows": [
-      ["Petzl Corax", "Polyvalent salle et falaise", "490 g", "65-75 €"],
-      ["Black Diamond Solution", "Falaise sportive performant", "385 g", "75-90 €"],
-      ["Petzl Sitta", "Grande voie léger", "270 g", "150-180 €"],
-      ["Edelrid Orion", "Confort grande voie", "550 g", "90-110 €"],
-      ["Mammut Ophir 4 Slide", "Polyvalent débutant", "470 g", "60-75 €"],
-      ["Camp Energy CR4", "Sportif performance", "300 g", "70-85 €"]
-    ]},
-    {"type": "p", "html": "Le Petzl Corax reste la valeur sûre du marché. Confortable, ajustable, fiable, à moins de 80 euros. Pour un premier baudrier qui dure 8 à 10 ans, c'est le choix logique. Pour les autres modèles selon ton terrain, va voir <a href=\"/blog/types-baudriers-usage\">les types de baudriers selon l'usage</a>."},
-    {"type": "h2", "text": "Tarifs et budget réaliste"},
-    {"type": "p", "html": "Compte 50 à 80 euros pour un premier baudrier sérieux. Entre 80 et 110 euros pour un modèle confort grande voie. Au-dessus, tu paies pour le poids, le rembourrage haut de gamme ou la légèreté extrême. Sur le segment 50-80 euros, tu trouves déjà tout le confort nécessaire pour 90% des sorties."},
-    {"type": "p", "html": "Évite les baudriers à 30 euros vendus en grande surface, qui n'ont souvent pas la double homologation EN 12277 et UIAA 105. Les marques fiables apposent toujours ces normes. Pour le reste du matos qui accompagne le baudrier, vois <a href=\"/blog/materiel-escalade-essentiel\">le matériel d'escalade essentiel</a>."},
-    {"type": "h2", "text": "Le pontet d'encordement : surveille l'usure"},
-    {"type": "p", "html": "Le pontet est la pièce qui s'use le plus vite. La corde frotte dessus à chaque chute, à chaque relais. Sur la majorité des modèles, un témoin d'usure rouge ou orange apparaît quand il faut remplacer le baudrier. Si tu vois la trame du pontet à travers la gaine, n'attends pas. Pour les détails de l'entretien et de la durée de vie, regarde <a href=\"/blog/entretien-baudrier-duree-vie\">entretien et durée de vie d'un baudrier</a>."},
-    {"type": "tip", "title": "L'erreur de débutant", "body": "S'encorder directement sur le pontet ou sur l'anneau de service, et non pas par un double passage dans la ceinture et les cuissardes. Ce raccourci annule la conception du baudrier et augmente le risque en cas de chute.", "tone": "erreur"}
+    {
+      "type": "h2",
+      "text": "Le baudrier, ton point d'ancrage sur la corde"
+    },
+    {
+      "type": "p",
+      "html": "Le baudrier transmet ton poids à la corde, point. Il doit le faire sans te couper la circulation, sans glisser pendant l'assurage, sans gêner ton geste quand tu lâches la corde pour clipper. Pour un grimpeur loisir, c'est l'achat le plus simple à rater, parce que tous les baudriers se ressemblent en vitrine. La différence se sent en suspension, et en suspension uniquement."
+    },
+    {
+      "type": "p",
+      "html": "Quand j'ai démarré au lycée Camille Sée, j'ai pris un Petzl Corax sur conseil d'un copain. Quatre ans plus tard, il fonctionne encore. Le bon baudrier dure 5 à 10 ans sans broncher, sous réserve d'un bon entretien. Pour cette partie, regarde <a href=\"/blog/entretien-baudrier-duree-vie\">entretien et durée de vie d'un baudrier</a>."
+    },
+    {
+      "type": "h2",
+      "text": "Le confort en suspension, critère numéro un"
+    },
+    {
+      "type": "p",
+      "html": "Le baudrier comprend trois zones de contact : la sangle ventrale, les deux cuissardes. C'est cette répartition qui détermine ton confort quand tu tombes ou que tu te reposes en l'air. Une sangle ventrale étroite coupe le bas du dos, des cuissardes mal calées compriment l'artère fémorale, et tu sens ton pied s'engourdir."
+    },
+    {
+      "type": "p",
+      "html": "Test essentiel en magasin : enfile le baudrier, attache-toi à une corde, reste suspendu 3 à 5 minutes. Si tu sens un point de pression marqué après 2 minutes, change de modèle. Si tu commences à fourmiller dans les cuisses, c'est <strong>mauvais signe</strong>. Sur les modèles sérieux, le rembourrage est plus large à l'avant et s'amincit vers l'arrière, ce qui répartit mieux la charge."
+    },
+    {
+      "type": "tip",
+      "title": "Le test en boutique",
+      "body": "Ne te contente pas d'enfiler le baudrier debout. Demande au vendeur de t'accrocher à une longe ou à une corde fixée au plafond, et reste suspendu plusieurs minutes. C'est le seul moyen de juger du confort réel.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Le pontet, la pièce qui tient ta vie"
+    },
+    {
+      "type": "p",
+      "html": "Le pontet est la sangle horizontale qui relie la ceinture aux cuissardes, à l'avant du baudrier. C'est là que tu attaches ton encordement et ton système d'assurage. Sa résistance dépasse les 15 kN sur les baudriers homologués, soit largement le nécessaire pour stopper une chute. Mais sa <strong>forme et sa largeur</strong> influencent ton confort et la durée de vie de l'ensemble."
+    },
+    {
+      "type": "p",
+      "html": "Un bon pontet doit accepter un mousqueton à vis ouvert sans forcer. Sur certains modèles trop fins, tu galères à passer le mousqueton de ton GriGri. Vérifie aussi qu'il n'est pas tordu en position naturelle : un pontet vrillé use ta corde de manière asymétrique. Pour comprendre les mousquetons, regarde <a href=\"/blog/mousquetons-escalade-types\">les types de mousquetons d'escalade</a>."
+    },
+    {
+      "type": "h2",
+      "text": "Les porte-matériel : combien et où"
+    },
+    {
+      "type": "p",
+      "html": "Le porte-matériel est l'anneau plastique ou rigide qui te permet d'accrocher dégaines, sangles, mousquetons. Le nombre dépend de ton terrain. <strong>Quatre porte-matériel</strong> suffisent pour la salle et la falaise sportive courte. Pour la grande voie, vise six porte-matériel. Pour le trad, certains baudriers proposent jusqu'à huit emplacements."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Combien de porte-matériel selon le terrain",
+      "items": [
+        {
+          "title": "Salle indoor",
+          "body": "2 à 4 porte-matériel suffisent. Tu portes 6 à 10 dégaines au maximum, et tu n'as pas besoin de sangles longues."
+        },
+        {
+          "title": "Falaise sportive",
+          "body": "4 porte-matériel pour 10 à 15 dégaines, plus une longe et un système d'assurage. Standard sur la majorité des baudriers."
+        },
+        {
+          "title": "Grande voie sportive",
+          "body": "6 porte-matériel pour gérer dégaines, sangles, friends, plaquettes. Vise un modèle dédié comme le Petzl Sitta ou le Black Diamond Solution Guide."
+        },
+        {
+          "title": "Escalade trad",
+          "body": "6 à 8 porte-matériel pour stocker friends, coinceurs, sangles cousues. Le Petzl Adjama ou le DMM Renegade font partie des références."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "html": "Les porte-matériel doivent être inclinés vers le bas à l'avant, et plus rigides à l'arrière. Cette différence permet de saisir une dégaine d'une main sans la chercher. Sur les baudriers d'entrée de gamme, tous les porte-matériel sont souples, ce qui complique le travail en grande voie."
+    },
+    {
+      "type": "h2",
+      "text": "Ajustabilité : ventrale et cuissardes"
+    },
+    {
+      "type": "p",
+      "html": "Deux types de baudriers existent. Les modèles à <strong>cuissardes fixes</strong> n'offrent qu'un réglage à la sangle ventrale. Plus légers, plus simples, ils conviennent quand tu grimpes toujours dans la même tenue. Les modèles à cuissardes réglables ajoutent une boucle de chaque côté, indispensables si tu varies entre short d'été et pantalon d'hiver."
+    },
+    {
+      "type": "p",
+      "html": "Pour la falaise toute saison ou la grande voie alpine, prends des cuissardes réglables. Pour la salle uniquement, les cuissardes fixes suffisent. Mon Petzl Corax actuel a les cuissardes réglables, je serre un cran de plus en t-shirt-short, je desserre en hiver avec une polaire."
+    },
+    {
+      "type": "quote",
+      "text": "Le baudrier doit te faire oublier qu'il est là. Si tu y penses pendant une voie, c'est qu'il ne te va pas.",
+      "author": "Antoine",
+      "role": "Rédacteur escalade-france.fr"
+    },
+    {
+      "type": "h2",
+      "text": "Boucles auto-bloquantes : double passage obligatoire ou non"
+    },
+    {
+      "type": "p",
+      "html": "Depuis une dizaine d'années, la majorité des baudriers utilisent des boucles dites <strong>auto-bloquantes</strong>. Un seul passage suffit pour serrer, et la sangle ne peut pas se desserrer toute seule. Sur les anciens modèles, il fallait repasser la sangle dans la boucle en sens inverse, sous peine de catastrophe. Cette opération s'oublie facilement quand on apprend."
+    },
+    {
+      "type": "p",
+      "html": "Vérifie sur la fiche produit que le baudrier comporte des boucles auto-bloquantes. Toutes les marques sérieuses, <strong>Petzl, Black Diamond, Edelrid, Mammut, Camp</strong>, en proposent depuis longtemps. Si tu trouves un modèle à double passage en magasin, c'est probablement du stock ancien."
+    },
+    {
+      "type": "h2",
+      "text": "Modèles repères 2026 par usage"
+    },
+    {
+      "type": "table",
+      "caption": "Sélection de baudriers en 2026",
+      "headers": [
+        "Modèle",
+        "Usage",
+        "Poids",
+        "Prix"
+      ],
+      "rows": [
+        [
+          "Petzl Corax",
+          "Polyvalent salle et falaise",
+          "490 g",
+          "65-75 €"
+        ],
+        [
+          "Black Diamond Solution",
+          "Falaise sportive performant",
+          "385 g",
+          "75-90 €"
+        ],
+        [
+          "Petzl Sitta",
+          "Grande voie léger",
+          "270 g",
+          "150-180 €"
+        ],
+        [
+          "Edelrid Orion",
+          "Confort grande voie",
+          "550 g",
+          "90-110 €"
+        ],
+        [
+          "Mammut Ophir 4 Slide",
+          "Polyvalent débutant",
+          "470 g",
+          "60-75 €"
+        ],
+        [
+          "Camp Energy CR4",
+          "Sportif performance",
+          "300 g",
+          "70-85 €"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "html": "Le Petzl Corax reste la valeur sûre du marché. Confortable, ajustable, fiable, à moins de 80 euros. Pour un premier baudrier qui dure 8 à 10 ans, c'est le choix logique. Pour les autres modèles selon ton terrain, va voir <a href=\"/blog/types-baudriers-usage\">les types de baudriers selon l'usage</a>."
+    },
+    {
+      "type": "h2",
+      "text": "Tarifs et budget réaliste"
+    },
+    {
+      "type": "p",
+      "html": "Compte 50 à 80 euros pour un premier baudrier sérieux. Entre 80 et 110 euros pour un modèle confort grande voie. Au-dessus, tu paies pour le poids, le rembourrage haut de gamme ou la légèreté extrême. Sur le segment 50-80 euros, tu trouves déjà tout le confort nécessaire pour 90% des sorties."
+    },
+    {
+      "type": "p",
+      "html": "Évite les baudriers à 30 euros vendus en grande surface, qui n'ont souvent pas la double homologation EN 12277 et UIAA 105. Les marques fiables apposent toujours ces normes. Pour le reste du matos qui accompagne le baudrier, vois <a href=\"/blog/materiel-escalade-essentiel\">le matériel d'escalade essentiel</a>."
+    },
+    {
+      "type": "h2",
+      "text": "Le pontet d'encordement : surveille l'usure"
+    },
+    {
+      "type": "p",
+      "html": "Le pontet est la pièce qui s'use le plus vite. La corde frotte dessus à chaque chute, à chaque relais. Sur la majorité des modèles, un témoin d'usure rouge ou orange apparaît quand il faut remplacer le baudrier. Si tu Pour les détails de l'entretien et de la durée de vie, regarde <a href=\"/blog/entretien-baudrier-duree-vie\">entretien et durée de vie d'un baudrier</a>."
+    },
+    {
+      "type": "tip",
+      "title": "L'erreur de débutant",
+      "body": "S'encorder directement sur le pontet ou sur l'anneau de service, et non pas par un double passage dans la ceinture et les cuissardes. Ce raccourci annule la conception du baudrier et augmente le risque en cas de chute.",
+      "tone": "erreur"
+    }
   ],
   "faq": [
-    {"q": "Quel baudrier d'escalade choisir pour débuter ?", "a": "Un modèle polyvalent à cuissardes réglables, type Petzl Corax ou Mammut Ophir 4 Slide, à 60-75 euros. Il couvre la salle, la falaise et même la grande voie courte. Évite les modèles ultra-légers ou ultra-spécialisés tant que tu n'as pas identifié ton terrain principal."},
-    {"q": "Combien coûte un bon baudrier en 2026 ?", "a": "Entre 50 et 80 euros pour un modèle débutant fiable. Entre 80 et 130 euros pour du confort grande voie ou de la performance. Les modèles ultra-légers, type Petzl Sitta, dépassent les 150 euros mais ne se justifient que pour la grande voie longue."},
-    {"q": "Combien de temps dure un baudrier d'escalade ?", "a": "Entre 5 et 10 ans selon ton volume d'usage. Si tu grimpes deux fois par semaine, prévois un remplacement vers 7-8 ans. Une chute violente ou des signes d'usure visibles, comme la trame du pontet, imposent un remplacement immédiat, peu importe l'âge du matos."},
-    {"q": "Faut-il un baudrier différent pour la salle et la falaise ?", "a": "Non, un baudrier polyvalent couvre les deux. La différence pratique est le nombre de porte-matériel, mais 4 suffisent dans les deux cas. Si tu fais aussi de la grande voie, vise un modèle à 6 porte-matériel d'emblée."},
-    {"q": "Comment savoir si un baudrier est à ma taille ?", "a": "La ceinture doit se serrer entre le nombril et les hanches, avec 5 à 10 cm de sangle restante au-delà de la boucle. Les cuissardes doivent permettre de passer deux doigts à plat entre la sangle et ta cuisse. Si tu flottes ou si tu compresses, change de taille."},
-    {"q": "Le baudrier doit-il être lavé régulièrement ?", "a": "Pas systématiquement, mais un nettoyage tous les six mois prolonge la durée de vie. Eau tiède, savon doux, séchage à l'ombre. Jamais de machine à laver, jamais de javel, jamais de séchage au soleil direct. La sangle reste fragile aux UV et aux solvants."}
+    {
+      "q": "Quel baudrier d'escalade choisir pour débuter ?",
+      "a": "Un modèle polyvalent à cuissardes réglables, type Petzl Corax ou Mammut Ophir 4 Slide, à 60-75 euros. Il couvre la salle, la falaise et même la grande voie courte. Évite les modèles ultra-légers ou ultra-spécialisés tant que tu n'as pas identifié ton terrain principal."
+    },
+    {
+      "q": "Combien coûte un bon baudrier en 2026 ?",
+      "a": "Entre 50 et 80 euros pour un modèle débutant fiable. Entre 80 et 130 euros pour du confort grande voie ou de la performance. Les modèles ultra-légers, type Petzl Sitta, dépassent les 150 euros mais ne se justifient que pour la grande voie longue."
+    },
+    {
+      "q": "Combien de temps dure un baudrier d'escalade ?",
+      "a": "Entre 5 et 10 ans selon ton volume d'usage. Si tu grimpes deux fois par semaine, prévois un remplacement vers 7-8 ans. Une chute violente ou des signes d'usure visibles, comme la trame du pontet, imposent un remplacement immédiat, peu importe l'âge du matos."
+    },
+    {
+      "q": "Faut-il un baudrier différent pour la salle et la falaise ?",
+      "a": "Non, un baudrier polyvalent couvre les deux. La différence pratique est le nombre de porte-matériel, mais 4 suffisent dans les deux cas. Si tu fais aussi de la grande voie, vise un modèle à 6 porte-matériel d'emblée."
+    },
+    {
+      "q": "Comment savoir si un baudrier est à ma taille ?",
+      "a": "La ceinture doit se serrer entre le nombril et les hanches, avec 5 à 10 cm de sangle restante au-delà de la boucle. Les cuissardes doivent permettre de passer deux doigts à plat entre la sangle et ta cuisse. Si tu flottes ou si tu compresses, change de taille."
+    },
+    {
+      "q": "Le baudrier doit-il être lavé régulièrement ?",
+      "a": "Pas systématiquement, mais un nettoyage tous les six mois prolonge la durée de vie. Eau tiède, savon doux, séchage à l'ombre. Jamais de machine à laver, jamais de javel, jamais de séchage au soleil direct. La sangle reste fragile aux UV et aux solvants."
+    }
   ],
   "cover_alt": "Baudrier Petzl Corax posé sur un sac d'escalade avec dégaines accrochées au porte-matériel",
   "internal_links": [
-    {"slug": "types-baudriers-usage", "anchor": "les types de baudriers selon l'usage", "context": "Famille de baudriers"},
-    {"slug": "entretien-baudrier-duree-vie", "anchor": "entretien et durée de vie d'un baudrier", "context": "Entretien"},
-    {"slug": "mousquetons-escalade-types", "anchor": "les types de mousquetons d'escalade", "context": "Mousquetons sur le pontet"},
-    {"slug": "materiel-escalade-essentiel", "anchor": "le matériel d'escalade essentiel", "context": "Pilier matériel"}
+    {
+      "slug": "types-baudriers-usage",
+      "anchor": "les types de baudriers selon l'usage",
+      "context": "Famille de baudriers"
+    },
+    {
+      "slug": "entretien-baudrier-duree-vie",
+      "anchor": "entretien et durée de vie d'un baudrier",
+      "context": "Entretien"
+    },
+    {
+      "slug": "mousquetons-escalade-types",
+      "anchor": "les types de mousquetons d'escalade",
+      "context": "Mousquetons sur le pontet"
+    },
+    {
+      "slug": "materiel-escalade-essentiel",
+      "anchor": "le matériel d'escalade essentiel",
+      "context": "Pilier matériel"
+    }
   ],
   "scheduled_at": "2026-08-11T09:00:00+02:00"
 }

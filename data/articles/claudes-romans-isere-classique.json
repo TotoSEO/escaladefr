@@ -50,16 +50,43 @@
     {
       "type": "table",
       "caption": "Fiche d'identité de Presles",
-      "headers": ["Critère", "Détail"],
+      "headers": [
+        "Critère",
+        "Détail"
+      ],
       "rows": [
-        ["Localisation", "Isère, commune de Presles, Vercors"],
-        ["Altitude", "400 à 1100 mètres selon secteurs"],
-        ["Roche", "Calcaire urgonien du Crétacé inférieur"],
-        ["Nombre de voies", "Plus de 500 équipées"],
-        ["Cotations", "5a à 8b, dominante 6c-7b"],
-        ["Hauteur", "100 à 350 mètres"],
-        ["Orientation", "Majoritairement sud et sud-ouest"],
-        ["Période idéale", "Avril à octobre"]
+        [
+          "Localisation",
+          "Isère, commune de Presles, Vercors"
+        ],
+        [
+          "Altitude",
+          "400 à 1100 mètres selon secteurs"
+        ],
+        [
+          "Roche",
+          "Calcaire urgonien du Crétacé inférieur"
+        ],
+        [
+          "Nombre de voies",
+          "Plus de 500 équipées"
+        ],
+        [
+          "Cotations",
+          "5a à 8b, dominante 6c-7b"
+        ],
+        [
+          "Hauteur",
+          "100 à 350 mètres"
+        ],
+        [
+          "Orientation",
+          "Majoritairement sud et sud-ouest"
+        ],
+        [
+          "Période idéale",
+          "Avril à octobre"
+        ]
       ]
     },
     {
@@ -88,7 +115,7 @@
     },
     {
       "type": "p",
-      "html": "Les autres secteurs majeurs incluent le Saint-Julien à l'ouest, plus court avec des voies de 100 à 150 mètres dans le 6 et le 7, et le secteur des Deux Sœurs à l'est, plus engagé avec des voies de 300 mètres dans le 7 et le 8. Chaque secteur a son ambiance propre et son public. Les Deux Sœurs reste le terrain de jeu préféré des forts grimpeurs régionaux, le Saint-Julien fonctionne comme une école pour la transition vers les grandes voies."
+      "html": "Les autres secteurs majeurs incluent le Saint-Julien à l'ouest, plus court avec des voies de 100 à 150 mètres dans le 6 et le 7, et le secteur des Deux Sœurs à l'est, plus engagé avec des voies de 300 mètres dans le 7 et le 8. Chaque secteur a son ambiance propre et son public. Les Deux Sœurs reste le terrain de jeu préféré des forts grimpeurs régionaux, le Saint-Julien fonctionne comme une école pour la transition vers les <a href=\"/blog/verdon-grandes-voies\">grandes voies</a>."
     },
     {
       "type": "list",

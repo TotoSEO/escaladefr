@@ -3,7 +3,7 @@
   "cocon": "environnement",
   "type_article": "astuce",
   "numero": 156,
-  "title": "Parking falaise et respect des locaux : l'astuce qui sauve",
+  "title": "Parking falaise et respect des locaux | L'astuce qui sauve",
   "h1": "Parking et respect des locaux, le réflexe qui maintient les sites ouverts",
   "description": "Stationnement sauvage, riverains exaspérés, communes qui ferment l'accès. Les bons réflexes parking en falaise pour préserver la pratique.",
   "chapo": "Tu te gares mal, le site ferme. C'est aussi simple que ça. Antoine a vu deux falaises de l'Est fermer en quelques mois après que des riverains aient saturé d'un parking transformé en bivouac le week-end. Le respect du stationnement, du voisinage et de la commune n'est pas un détail. C'est la condition concrète de la pérennité de l'accès aux sites d'escalade en France.",
@@ -15,52 +15,180 @@
     "Le covoiturage divise la pression sur les places disponibles et soutient la pratique du voisinage."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Pourquoi le parking est le sujet numéro un"},
-    {"type": "p", "html": "Le grimpeur arrive en voiture, repart en voiture, et passe le reste de la journée sur la falaise sans interagir avec le village voisin. Le seul moment de contact entre la communauté locale et la communauté grimpante, c'est le parking. C'est là que tout se joue. Un stationnement sauvage, un demi-tour mal négocié, un coffre laissé ouvert toute la journée, et la perception bascule."},
-    {"type": "p", "html": "Les comités départementaux de la <strong>FFME</strong> passent une part énorme de leur énergie à gérer les histoires de parking. Pas l'équipement, pas la formation, pas les compétitions. Le parking. Plusieurs sites majeurs en France ont vu leur accès suspendu après une cascade d'incidents de stationnement répétés. Antoine connaît au moins trois falaises qui ont fermé dans le Grand Est pour cette raison."},
-    {"type": "p", "html": "Le mécanisme est simple. Un riverain se plaint à la mairie. La mairie demande à la fédération. La fédération demande au comité départemental. Le comité départemental promet de sensibiliser. Le riverain se plaint à nouveau le mois suivant. Le maire prend un arrêté municipal. Le site est fermé sans préavis. Tu arrives le samedi matin, panneau d'interdiction, tu fais demi-tour."},
-    {"type": "h2", "text": "Les erreurs classiques que tout le monde fait"},
-    {"type": "p", "html": "Se garer sur un bas-côté herbeux quand le parking est plein. Sur le papier, ça paraît inoffensif. Dans les faits, ça crée une accumulation visible depuis la route, ça creuse la terre meuble, ça bloque la visibilité du virage suivant. Le riverain qui rentre chez lui voit l'image d'un site débordé. Trois week-ends de suite, la photo arrive sur le bureau du maire."},
-    {"type": "p", "html": "Bloquer un accès agricole. Les chemins d'exploitation paraissent vides en semaine, sauf que le tracteur passe le samedi à 6h ou le dimanche midi. Quand le grimpeur arrive à 11h et que l'agriculteur ne peut pas accéder à son champ, l'incident est garanti. Antoine a vu un agriculteur faire péter quatre pneus de grimpeurs sur le site de <strong>Berdorf au Luxembourg</strong>, après plusieurs avertissements ignorés."},
-    {"type": "p", "html": "Faire demi-tour dans une cour de ferme. Le grimpeur arrive, voit que le parking est plein, fait demi-tour devant la maison du fermier, repart. Le geste paraît anodin. Pour le riverain qui voit défiler vingt voitures dans sa cour le samedi matin, la coupe est rapidement pleine. Va te garer un kilomètre plus loin et marche, c'est moins gênant et tu te détends avant la voie."},
-    {"type": "list", "variant": "cards", "title": "Cinq comportements parking qui ferment des sites", "items": [
-      {"title": "Stationnement bas-côté herbeux", "body": "Crée une accumulation visible, érode la terre meuble, ne tient pas en cas de pluie. Image désastreuse pour le riverain qui passe."},
-      {"title": "Blocage d'accès agricole", "body": "Tracteur, troupeau, livraison de foin. Le riverain perd une journée de travail, l'incident remonte en mairie sous 24 heures."},
-      {"title": "Demi-tour en cour de ferme", "body": "Vingt voitures qui défilent dans une cour privée, c'est le scénario type qui pousse à la fermeture du site dans l'année."},
-      {"title": "Bruit et musique au parking", "body": "Enceinte Bluetooth ouverte, conversation à voix haute, klaxon de retrouvailles. Le voisinage ne supporte pas longtemps."},
-      {"title": "Poubelle abandonnée", "body": "Sac de gel énergétique, bouteille en plastique, emballage de barre. Tout reste sur le bitume et finit dans la nature à la première rafale."}
-    ]},
-    {"type": "h2", "text": "Les bons réflexes qui changent tout"},
-    {"type": "p", "html": "Salue les riverains. Quand tu croises un voisin sur le chemin du site, un bonjour clair vaut tout. Le riverain qui te répond se sent reconnu, le grimpeur passe d'anonyme à humain. Cette interaction de cinq secondes change la perception du flux grimpant sur des années. Antoine pratique le salut systématique depuis l'âge de quatorze ans, il a toujours été bien reçu."},
-    {"type": "p", "html": "Baisse le volume sonore au parking. Pas de musique au coffre, pas de cri de retrouvailles à dix mètres, pas de claquement de porte répété à 7h du matin. Le voisinage entend tout, surtout en zone rurale silencieuse. Le bruit du matin est celui qui marque le plus, parce qu'il interrompt le sommeil ou le petit-déjeuner de la maison voisine."},
-    {"type": "p", "html": "Range ta poubelle dans ta voiture. Pas dans la poubelle du voisin, pas sur le bitume, pas dans le buisson. Dans ta voiture, où elle voyagera jusqu'à chez toi. Les sacs poubelles publics au pied des falaises sont souvent vidés une fois par mois par la commune, qui se retrouve à gérer une accumulation infernale. Soulager cette charge revient à soutenir la commune."},
-    {"type": "h2", "text": "Le rôle de la commune et de l'arrêté municipal"},
-    {"type": "p", "html": "La commune dispose d'un pouvoir de police propre. Le maire peut prendre un <strong>arrêté municipal</strong> d'interdiction de stationnement sur tel ou tel secteur, applicable sous 48 heures avec affichage en mairie. Cet arrêté est juridiquement opposable, la gendarmerie peut verbaliser. Plusieurs sites célèbres ont vu leur accès parking interdit suite à un arrêté pris en urgence après plaintes répétées des riverains."},
-    {"type": "p", "html": "Le maire d'un petit village ne signe pas un arrêté à la légère. Il faut généralement plusieurs mois de plaintes, des courriers du préfet, parfois un incident grave. Mais une fois pris, l'arrêté est très difficile à faire annuler. La fédération doit alors négocier une zone de stationnement alternative avec un autre propriétaire, ce qui prend en général un à trois ans."},
-    {"type": "p", "html": "À l'inverse, certaines communes investissent dans l'aménagement de parkings pour les grimpeurs. Saffres en Bourgogne a aménagé un parking dédié il y a quelques années, financé en partie par le département. Buoux dans le Luberon dispose d'une zone payante en haute saison. Ces aménagements sortent du conflit et stabilisent la situation pour des décennies."},
-    {"type": "tip", "title": "Le réflexe covoiturage", "body": "Avant de partir en falaise un samedi, regarde le groupe Facebook ou le forum local pour proposer une place. Trois grimpeurs dans une voiture au lieu de trois voitures, c'est deux places de parking libérées, deux tiers d'émissions évitées, et une dépense partagée. La pratique du covoiturage s'est ancrée dans la communauté grimpante depuis vingt ans.", "tone": "astuce"},
-    {"type": "h2", "text": "Le cas particulier du bivouac voiture"},
-    {"type": "p", "html": "Dormir dans la voiture au parking de la falaise reste un usage répandu dans la communauté grimpante. C'est aussi le premier sujet de friction avec les locaux. Une voiture stationnée la nuit, fenêtre entrouverte, déballage de matériel au matin, brossage de dents au robinet du voisin. Le riverain qui voit ce manège régulièrement finit par contacter la mairie."},
-    {"type": "p", "html": "La règle informelle qui marche bien : si c'est toléré, c'est ponctuel et discret. Tu arrives tard, tu repars tôt, tu ne déploies pas de table de camping, tu ne fais pas tes besoins dans le buisson. Tu utilises les toilettes publiques du village voisin ou tu pars dormir un peu plus loin sur un parking de gare ou d'aire d'autoroute. La discrétion est la condition de la tolérance."},
-    {"type": "p", "html": "Plusieurs sites ont instauré des zones de bivouac autorisées en lien avec la commune. Le campement organisé évite la dispersion sauvage et concentre les nuisances dans une zone gérée. Antoine a profité de la zone de van life d'<strong>Aiglun dans les Préalpes</strong> l'an dernier, parking en terre battue, douche payante, poubelles régulières. Le confort change tout, et la pratique s'inscrit dans un cadre légitime."},
-    {"type": "h2", "text": "Ce qui se joue quand tu te gares correctement"},
-    {"type": "p", "html": "Le grimpeur qui se gare au bon endroit, sans bloquer, sans gêner, sans bruit, participe à la pérennité du site sans s'en rendre compte. Il ne se passe rien de visible. Pas de remerciement, pas de pancarte, pas de poignée de main. Mais le riverain qui ne se plaint pas est un riverain qui maintient la convention en vie pour les dix ans à venir."},
-    {"type": "p", "html": "À l'inverse, le grimpeur qui se gare mal une seule fois ne ferme pas un site. C'est la répétition qui crée le problème. Un site fréquenté par mille grimpeurs par an avec dix pour cent de mal stationnés, ça fait cent incidents annuels. Au bout de trois ans, le maire pète un câble. Le seuil de tolérance des riverains est bas, et c'est normal."},
-    {"type": "p", "html": "Pour aller plus loin sur le sujet de l'accès aux sites, lis <a href=\"/blog/conflits-foncier-acces-prive\">le détail des conflits fonciers</a>, <a href=\"/blog/conventions-departementales-falaise\">le fonctionnement des conventions départementales</a> et <a href=\"/blog/grimper-respect-sites-faune\">la vue d'ensemble du respect des sites</a>. Le parking est un sous-cas concret d'un enjeu plus large d'inscription locale de la pratique."}
+    {
+      "type": "h2",
+      "text": "Pourquoi le parking est le sujet numéro un"
+    },
+    {
+      "type": "p",
+      "html": "Le grimpeur arrive en voiture, repart en voiture, et passe le reste de la journée sur la falaise sans interagir avec le village voisin. Le seul moment de contact entre la communauté locale et la communauté grimpante, c'est le parking. C'est là que tout se joue. Un stationnement sauvage, un demi-tour mal négocié, un coffre laissé ouvert toute la journée, et la perception bascule."
+    },
+    {
+      "type": "p",
+      "html": "Les comités départementaux de la <strong>FFME</strong> passent une part énorme de leur énergie à gérer les histoires de parking. Pas l'équipement, pas la formation, pas les compétitions. Le parking. Plusieurs sites majeurs en France ont vu leur accès suspendu après une cascade d'incidents de stationnement répétés. Antoine connaît au moins trois falaises qui ont fermé dans le Grand Est pour cette raison."
+    },
+    {
+      "type": "p",
+      "html": "Le mécanisme est simple. Un riverain se plaint à la mairie. La mairie demande à la fédération. La fédération demande au comité départemental. Le comité départemental promet de sensibiliser. Le riverain se plaint à nouveau le mois suivant. Le maire prend un arrêté municipal. Le site est fermé sans préavis. Tu arrives le samedi matin, panneau d'interdiction, tu fais demi-tour."
+    },
+    {
+      "type": "h2",
+      "text": "Les erreurs classiques que tout le monde fait"
+    },
+    {
+      "type": "p",
+      "html": "Se garer sur un bas-côté herbeux quand le parking est plein. Sur le papier, ça paraît inoffensif. Dans les faits, ça crée une accumulation visible depuis la route, ça creuse la terre meuble, ça bloque la visibilité du virage suivant. Le riverain qui rentre chez lui voit l'image d'un site débordé. Trois week-ends de suite, la photo arrive sur le bureau du maire."
+    },
+    {
+      "type": "p",
+      "html": "Bloquer un accès agricole. Les chemins d'exploitation paraissent vides en semaine, sauf que le tracteur passe le samedi à 6h ou le dimanche midi. Quand le grimpeur arrive à 11h et que l'agriculteur ne peut pas accéder à son champ, l'incident est garanti. Antoine a vu un agriculteur faire péter quatre pneus de grimpeurs sur le site de <strong>Berdorf au Luxembourg</strong>, après plusieurs avertissements ignorés."
+    },
+    {
+      "type": "p",
+      "html": "Faire demi-tour dans une cour de ferme. Le grimpeur arrive, voit que le parking est plein, fait demi-tour devant la maison du fermier, repart. Le geste paraît anodin. Pour le riverain qui voit défiler vingt voitures dans sa cour le samedi matin, la coupe est rapidement pleine. Va te garer un kilomètre plus loin et marche, c'est moins gênant et tu te détends avant la voie."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Cinq comportements parking qui ferment des sites",
+      "items": [
+        {
+          "title": "Stationnement bas-côté herbeux",
+          "body": "Crée une accumulation visible, érode la terre meuble, ne tient pas en cas de pluie. Image désastreuse pour le riverain qui passe."
+        },
+        {
+          "title": "Blocage d'accès agricole",
+          "body": "Tracteur, troupeau, livraison de foin. Le riverain perd une journée de travail, l'incident remonte en mairie sous 24 heures."
+        },
+        {
+          "title": "Demi-tour en cour de ferme",
+          "body": "Vingt voitures qui défilent dans une cour privée, c'est le scénario type qui pousse à la fermeture du site dans l'année."
+        },
+        {
+          "title": "Bruit et musique au parking",
+          "body": "Enceinte Bluetooth ouverte, conversation à voix haute, klaxon de retrouvailles. Le voisinage ne supporte pas longtemps."
+        },
+        {
+          "title": "Poubelle abandonnée",
+          "body": "Sac de gel énergétique, bouteille en plastique, emballage de barre. Tout reste sur le bitume et finit dans la nature à la première rafale."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Les bons réflexes qui changent tout"
+    },
+    {
+      "type": "p",
+      "html": "Salue les riverains. Quand tu croises un voisin sur le chemin du site, un bonjour clair vaut tout. Le riverain qui te répond se sent reconnu, le grimpeur passe d'anonyme à humain. Cette interaction de cinq secondes change la perception du flux grimpant sur des années. Antoine pratique le salut systématique depuis l'âge de quatorze ans, il a toujours été bien reçu."
+    },
+    {
+      "type": "p",
+      "html": "Baisse le volume sonore au parking. Pas de musique au coffre, pas de cri de retrouvailles à dix mètres, pas de claquement de porte répété à 7h du matin. Le voisinage entend tout, surtout en zone rurale silencieuse. Le bruit du matin est celui qui marque le plus, parce qu'il interrompt le sommeil ou le petit-déjeuner de la maison voisine."
+    },
+    {
+      "type": "p",
+      "html": "Range ta poubelle dans ta voiture. Pas dans la poubelle du voisin, pas sur le bitume, pas dans le buisson. Dans ta voiture, où elle voyagera jusqu'à chez toi. Les sacs poubelles publics au pied des falaises sont souvent vidés une fois par mois par la commune, qui se retrouve à gérer une accumulation infernale. Soulager cette charge revient à soutenir la commune."
+    },
+    {
+      "type": "h2",
+      "text": "Le rôle de la commune et de l'arrêté municipal"
+    },
+    {
+      "type": "p",
+      "html": "La commune dispose d'un pouvoir de police propre. Le maire peut prendre un <strong>arrêté municipal</strong> d'interdiction de stationnement sur tel ou tel secteur, applicable sous 48 heures avec affichage en mairie. Cet arrêté est juridiquement opposable, la gendarmerie peut verbaliser. Plusieurs sites célèbres ont vu leur accès parking interdit suite à un arrêté pris en urgence après plaintes répétées des riverains."
+    },
+    {
+      "type": "p",
+      "html": "Le maire d'un petit village ne signe pas un arrêté à la légère. Il faut généralement plusieurs mois de plaintes, des courriers du préfet, parfois un incident grave. Mais une fois pris, l'arrêté est très difficile à faire annuler. La fédération doit alors négocier une zone de stationnement alternative avec un autre propriétaire, ce qui prend en général un à trois ans."
+    },
+    {
+      "type": "p",
+      "html": "À l'inverse, certaines communes investissent dans l'aménagement de parkings pour les grimpeurs. Saffres en Bourgogne a aménagé un parking dédié il y a quelques années, financé en partie par le département. Buoux dans le Luberon dispose d'une zone payante en haute saison. Ces aménagements sortent du conflit et stabilisent la situation pour des décennies."
+    },
+    {
+      "type": "tip",
+      "title": "Le réflexe covoiturage",
+      "body": "Avant de partir en falaise un samedi, regarde le groupe Facebook ou le forum local pour proposer une place. Trois grimpeurs dans une voiture au lieu de trois voitures, c'est deux places de parking libérées, deux tiers d'émissions évitées, et une dépense partagée. La pratique du covoiturage s'est ancrée dans la communauté grimpante depuis vingt ans.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Le cas particulier du bivouac voiture"
+    },
+    {
+      "type": "p",
+      "html": "Dormir dans la voiture au parking de la falaise reste un usage répandu dans la communauté grimpante. C'est aussi le premier sujet de friction avec les locaux. Une voiture stationnée la nuit, fenêtre entrouverte, déballage de matériel au matin, brossage de dents au robinet du voisin. Le riverain qui voit ce manège régulièrement finit par contacter la mairie."
+    },
+    {
+      "type": "p",
+      "html": "La règle informelle qui marche bien : si c'est toléré, c'est ponctuel et discret. Tu arrives tard, tu repars tôt, tu ne déploies pas de table de camping, tu ne fais pas tes besoins dans le buisson. Tu utilises les toilettes publiques du village voisin ou tu pars dormir un peu plus loin sur un parking de gare ou d'aire d'autoroute. La discrétion est la condition de la tolérance."
+    },
+    {
+      "type": "p",
+      "html": "Plusieurs sites ont instauré des zones de bivouac autorisées en lien avec la commune. Le campement organisé évite la dispersion sauvage et concentre les nuisances dans une zone gérée. Antoine a profité de la zone de van life d'<strong>Aiglun dans les Préalpes</strong> l'an dernier, parking en terre battue, douche payante, poubelles régulières. Le confort change tout, et la pratique s'inscrit dans un cadre légitime."
+    },
+    {
+      "type": "h2",
+      "text": "Ce qui se joue quand tu te gares correctement"
+    },
+    {
+      "type": "p",
+      "html": "Le grimpeur qui se gare au bon endroit, sans bloquer, sans gêner, sans bruit, participe à la pérennité du site sans s'en rendre compte. Il ne se passe rien de visible. Pas de remerciement, pas de pancarte, pas de poignée de main. Mais le riverain qui ne se plaint pas est un riverain qui maintient la convention en vie pour les dix ans à venir."
+    },
+    {
+      "type": "p",
+      "html": "À l'inverse, le grimpeur qui se gare mal une seule fois ne ferme pas un site. C'est la répétition qui crée le problème. Un site fréquenté par mille grimpeurs par an avec dix pour cent de mal stationnés, ça fait cent incidents annuels. Au bout de trois ans, le maire pète un câble. Le seuil de tolérance des riverains est bas, et c'est normal."
+    },
+    {
+      "type": "p",
+      "html": "Le parking est un sous-cas concret d'un enjeu plus large d'inscription locale de la pratique."
+    }
   ],
   "faq": [
-    {"q": "Que faire si le parking est plein quand j'arrive ?", "a": "Ne te gare pas n'importe où. Cherche un parking alternatif, quitte à marcher un kilomètre de plus. Plusieurs sites disposent d'un parking secondaire à 500 mètres ou 1 kilomètre, souvent vide même quand le principal déborde. Si vraiment rien n'est possible, demande-toi si la sortie peut se reporter d'une heure ou d'un jour. La pression sur le site profite à personne."},
-    {"q": "Peut-on dormir dans sa voiture au parking d'un site d'escalade ?", "a": "Cela dépend du site et de la commune. Plusieurs sites tolèrent informellement le bivouac voiture s'il reste discret, ponctuel et propre. D'autres ont des arrêtés municipaux qui interdisent explicitement le stationnement nocturne. Vérifie sur le topo officiel ou le site du club FFME local. En cas de doute, va dormir sur un parking de gare ou d'aire d'autoroute à proximité."},
-    {"q": "Comment savoir si je gêne un accès agricole ?", "a": "Un chemin de terre battue qui longe un champ, une ouverture dans une haie, une clôture amovible : ce sont autant d'indices d'accès agricole. Si tu te gares devant ou en travers, tu bloques. La règle simple est de toujours laisser un large passage permettant à un tracteur de manœuvrer. Dans le doute, va te garer ailleurs."},
-    {"q": "Doit-on payer pour stationner sur un site d'escalade ?", "a": "Quelques sites ont mis en place un stationnement payant en haute saison, généralement avec des tarifs modestes de 2 à 5 euros la journée. Buoux dans le Luberon, certaines plages des Calanques l'appliquent. Ce paiement finance l'entretien du site et soulage la pression sur les places. Paye sans rouspéter, c'est un investissement direct dans la pérennité du lieu."},
-    {"q": "Le covoiturage est-il vraiment efficace pour préserver l'accès ?", "a": "Oui, mathématiquement. Une voiture qui transporte trois grimpeurs au lieu d'un, c'est trois fois moins de places consommées sur un parking saturé. Sur un site qui dispose de trente places, le passage de un à trois grimpeurs par voiture permet d'accueillir 90 grimpeurs au lieu de 30. La différence est concrète, et plusieurs comités départementaux animent des canaux de covoiturage dédiés."}
+    {
+      "q": "Que faire si le parking est plein quand j'arrive ?",
+      "a": "Ne te gare pas n'importe où. Cherche un parking alternatif, quitte à marcher un kilomètre de plus. Plusieurs sites disposent d'un parking secondaire à 500 mètres ou 1 kilomètre, souvent vide même quand le principal déborde. Si vraiment rien n'est possible, demande-toi si la sortie peut se reporter d'une heure ou d'un jour. La pression sur le site profite à personne."
+    },
+    {
+      "q": "Peut-on dormir dans sa voiture au parking d'un site d'escalade ?",
+      "a": "Cela dépend du site et de la commune. Plusieurs sites tolèrent informellement le bivouac voiture s'il reste discret, ponctuel et propre. D'autres ont des arrêtés municipaux qui interdisent explicitement le stationnement nocturne. Vérifie sur le topo officiel ou le site du club FFME local. En cas de doute, va dormir sur un parking de gare ou d'aire d'autoroute à proximité."
+    },
+    {
+      "q": "Comment savoir si je gêne un accès agricole ?",
+      "a": "Un chemin de terre battue qui longe un champ, une ouverture dans une haie, une clôture amovible : ce sont autant d'indices d'accès agricole. Si tu te gares devant ou en travers, tu bloques. La règle simple est de toujours laisser un large passage permettant à un tracteur de manœuvrer. Dans le doute, va te garer ailleurs."
+    },
+    {
+      "q": "Doit-on payer pour stationner sur un site d'escalade ?",
+      "a": "Quelques sites ont mis en place un stationnement payant en haute saison, généralement avec des tarifs modestes de 2 à 5 euros la journée. Buoux dans le Luberon, certaines plages des Calanques l'appliquent. Ce paiement finance l'entretien du site et soulage la pression sur les places. Paye sans rouspéter, c'est un investissement direct dans la pérennité du lieu."
+    },
+    {
+      "q": "Le covoiturage est-il vraiment efficace pour préserver l'accès ?",
+      "a": "Oui, mathématiquement. Une voiture qui transporte trois grimpeurs au lieu d'un, c'est trois fois moins de places consommées sur un parking saturé. Sur un site qui dispose de trente places, le passage de un à trois grimpeurs par voiture permet d'accueillir 90 grimpeurs au lieu de 30. La différence est concrète, et plusieurs comités départementaux animent des canaux de covoiturage dédiés."
+    }
   ],
   "cover_alt": "Parking de falaise en zone rurale, voitures garées en bord de route étroite, falaise calcaire en arrière-plan, panneau d'information du site en premier plan, fin de matinée d'été",
   "internal_links": [
-    {"slug": "conflits-foncier-acces-prive", "anchor": "détail des conflits fonciers", "context": "cadre général"},
-    {"slug": "conventions-departementales-falaise", "anchor": "fonctionnement des conventions départementales", "context": "cadre juridique"},
-    {"slug": "grimper-respect-sites-faune", "anchor": "vue d'ensemble du respect des sites", "context": "pilier environnement"},
-    {"slug": "dechets-bivouac-falaise", "anchor": "gestion des déchets au bivouac", "context": "complément bivouac"}
+    {
+      "slug": "conflits-foncier-acces-prive",
+      "anchor": "détail des conflits fonciers",
+      "context": "cadre général"
+    },
+    {
+      "slug": "conventions-departementales-falaise",
+      "anchor": "fonctionnement des conventions départementales",
+      "context": "cadre juridique"
+    },
+    {
+      "slug": "grimper-respect-sites-faune",
+      "anchor": "vue d'ensemble du respect des sites",
+      "context": "pilier environnement"
+    },
+    {
+      "slug": "dechets-bivouac-falaise",
+      "anchor": "gestion des déchets au bivouac",
+      "context": "complément bivouac"
+    }
   ],
   "scheduled_at": "2027-04-22T09:00:00+02:00"
 }

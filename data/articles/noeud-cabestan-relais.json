@@ -3,7 +3,7 @@
   "cocon": "noeuds",
   "type_article": "guide",
   "numero": 66,
-  "title": "Cabestan : le nœud indispensable au relais de grande voie",
+  "title": "Cabestan | Le nœud indispensable au relais de grande voie",
   "h1": "Le cabestan, le nœud indispensable au relais de grande voie",
   "description": "Le cabestan sur mousqueton à vis HMS, l'auto-réglable du relais. Tracé, réglage en tension, vérification, glissement et limites du nœud.",
   "chapo": "Au relais de grande voie, le cabestan permet à chaque équipier de s'auto-vacher en quelques secondes sur la corde, à la longueur exacte voulue. Son tracé géométrique simple, son réglage instantané sous tension et sa capacité à se défaire sans peine après chargement en font le nœud de jonction le plus utilisé en grande voie. Tracé, vérification, limites et alternatives possibles.",
@@ -146,7 +146,7 @@
     },
     {
       "type": "p",
-      "html": "Une erreur classique consiste à former une seule boucle plutôt que deux. Le nœud résultant n'est plus un cabestan mais un simple tour mort qui glisse sous la moindre tension. Sa géométrie est différente, on identifie immédiatement le problème en regardant le mousqueton : une seule boucle visible au lieu de deux superposées. La vérification rapide avant chaque mise en tension élimine ce type d'erreur."
+      "html": "Une erreur classique consiste à former une seule boucle plutôt que deux. Le nœud résultant n'est plus un cabestan mais un simple tour mort qui glisse sous la moindre tension. Sa géométrie est différente, on identifie immédiatement le problème en regardant le mousqueton : une seule boucle visible au lieu de deux superposées. La vérification rapide avant chaque mise en tension élimine ce type d'erreur. J'ai appris à faire le cabestan d'une seule main lors d'une formation initiateur en 2019 dans les Vosges. Le geste paraît simple en démo, sauf que sous tension, avec un gant de rappel et le mousqueton qui tourne, c'est une autre affaire. J'ai mis trois sorties à le maîtriser proprement."
     },
     {
       "type": "p",

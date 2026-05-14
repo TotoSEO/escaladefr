@@ -3,7 +3,7 @@
   "cocon": "materiel",
   "type_article": "hub",
   "numero": 2,
-  "title": "Matériel d'escalade : l'équipement essentiel à connaître",
+  "title": "Matériel d'escalade, l'équipement essentiel à connaître",
   "h1": "L'équipement d'escalade essentiel.",
   "description": "Tout le matériel d'escalade utile pour grimper en salle, en falaise et en bloc : chaussons, baudrier, corde, assureur, casque, mousquetons et entretien.",
   "chapo": "Quel matériel faut-il vraiment pour grimper ? La réponse dépend de la pratique. En salle, trois pièces suffisent. En falaise, la liste s'allonge sérieusement. Je détaille ici l'équipement essentiel, les marques fiables comme Petzl, Black Diamond ou La Sportiva, et l'entretien qui prolonge la durée de vie de chaque pièce.",
@@ -86,18 +86,42 @@
     },
     {
       "type": "p",
-      "html": "Une corde sport bien entretenue tient 3 à 5 ans. Lave la une à deux fois par an dans une baignoire d'eau tiède avec un savon doux, jamais en machine à essorage. Sèche la à plat, à l'ombre, jamais au soleil direct ni près d'un radiateur. Consulte <a href=\"/blog/entretien-corde-lavage-rangement\">notre guide sur l'entretien de la corde</a> pour le détail des bonnes pratiques."
+      "html": "Une corde sport bien entretenue tient 3 à 5 ans. Lave la une à deux fois par an dans une baignoire d'eau tiède avec un savon doux, jamais en machine à essorage. Sèche la à plat, à l'ombre, jamais au soleil direct ni près d'un radiateur. Consulte <a href=\"/blog/entretien-corde-lavage-rangement\">"
     },
     {
       "type": "table",
       "caption": "Durée de vie indicative des principaux EPI",
-      "headers": ["Matériel", "Durée maxi", "Inspection"],
+      "headers": [
+        "Matériel",
+        "Durée maxi",
+        "Inspection"
+      ],
       "rows": [
-        ["Corde dynamique", "10 ans dont 3-5 d'usage", "Avant chaque sortie"],
-        ["Baudrier", "10 ans dont 5-7 d'usage", "Tous les mois"],
-        ["Casque", "10 ans, à changer après choc", "Avant chaque sortie"],
-        ["Mousquetons", "Indéfini sans choc fort", "Annuelle"],
-        ["Sangles", "10 ans, à changer après choc", "Tous les mois"]
+        [
+          "Corde dynamique",
+          "10 ans dont 3-5 d'usage",
+          "Avant chaque sortie"
+        ],
+        [
+          "Baudrier",
+          "10 ans dont 5-7 d'usage",
+          "Tous les mois"
+        ],
+        [
+          "Casque",
+          "10 ans, à changer après choc",
+          "Avant chaque sortie"
+        ],
+        [
+          "Mousquetons",
+          "Indéfini sans choc fort",
+          "Annuelle"
+        ],
+        [
+          "Sangles",
+          "10 ans, à changer après choc",
+          "Tous les mois"
+        ]
       ]
     },
     {
@@ -130,7 +154,7 @@
     },
     {
       "type": "p",
-      "html": "Pour démarrer, la location en salle coûte 5 à 8 euros la séance et permet de tester sans investir. Quand tu passes le cap de 10 sorties par an, l'achat devient rentable. Le neuf garantit la traçabilité, indispensable pour les EPI textiles. L'occasion convient uniquement pour le matériel métallique, jamais pour une corde ou un baudrier inconnu. Tu peux lire <a href=\"/blog/matos-occasion-acheter\">notre dossier sur l'achat de matériel d'occasion</a> pour faire les bons choix."
+      "html": "Pour démarrer, la location en salle coûte 5 à 8 euros la séance et permet de tester sans investir. Quand tu passes le cap de 10 sorties par an, l'achat devient rentable. Le neuf garantit la traçabilité, indispensable pour les EPI textiles. L'occasion convient uniquement pour le matériel métallique, jamais pour une corde ou un baudrier inconnu."
     },
     {
       "type": "quote",

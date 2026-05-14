@@ -37,7 +37,7 @@
     },
     {
       "type": "p",
-      "html": "Le pan moon, mur incliné équipé de prises, sollicite force et coordination simultanément. Compte 2 séances par semaine maximum, jamais deux jours d'affilée. Mes séances tournent autour de 6 à 8 suspensions de 7 secondes avec 2 minutes de récupération entre, plus 4 montées de pan en bloc dur. Consulte notre <a href=\"/blog/grip-strength-poutre-pan\">guide poutre et pan</a> pour le détail des protocoles."
+      "html": "Le pan moon, mur incliné équipé de prises, sollicite force et coordination simultanément. Compte 2 séances par semaine maximum, jamais deux jours d'affilée. Mes séances tournent autour de 6 à 8 suspensions de 7 secondes avec 2 minutes de récupération entre, plus 4 montées de pan en bloc dur."
     },
     {
       "type": "list",
@@ -97,15 +97,47 @@
     {
       "type": "table",
       "caption": "Répartition hebdomadaire type pour intermédiaire (8 à 10 h)",
-      "headers": ["Jour", "Séance", "Durée"],
+      "headers": [
+        "Jour",
+        "Séance",
+        "Durée"
+      ],
       "rows": [
-        ["Lundi", "Repos ou étirements doux", "30 min"],
-        ["Mardi", "Voies (technique, endurance)", "2 h"],
-        ["Mercredi", "Force poutre + gainage", "1 h"],
-        ["Jeudi", "Repos", "0"],
-        ["Vendredi", "Bloc (force, lecture)", "1 h 30"],
-        ["Samedi", "Falaise ou voies longues", "3 h"],
-        ["Dimanche", "Mobilité, récupération active", "45 min"]
+        [
+          "Lundi",
+          "Repos ou étirements doux",
+          "30 min"
+        ],
+        [
+          "Mardi",
+          "Voies (technique, endurance)",
+          "2 h"
+        ],
+        [
+          "Mercredi",
+          "Force poutre + gainage",
+          "1 h"
+        ],
+        [
+          "Jeudi",
+          "Repos",
+          "0"
+        ],
+        [
+          "Vendredi",
+          "Bloc (force, lecture)",
+          "1 h 30"
+        ],
+        [
+          "Samedi",
+          "Falaise ou voies longues",
+          "3 h"
+        ],
+        [
+          "Dimanche",
+          "Mobilité, récupération active",
+          "45 min"
+        ]
       ]
     },
     {
@@ -162,7 +194,7 @@
     },
     {
       "type": "p",
-      "html": "La gestion du stress en tête, du clipping difficile, de la prochaine prise floue, passe par la respiration. Inspire profondément par le nez en 4 temps, retiens 2 temps, expire par la bouche en 6 temps. Cette respiration cohérence cardiaque réduit le rythme cardiaque et le stress en moins de 90 secondes. Lis notre <a href=\"/blog/visualisation-mental-escalade\">guide visualisation et mental</a>."
+      "html": "La gestion du stress en tête, du clipping difficile, de la prochaine prise floue, passe par la respiration. Inspire profondément par le nez en 4 temps, retiens 2 temps, expire par la bouche en 6 temps. Cette respiration cohérence cardiaque réduit le rythme cardiaque et le stress en moins de 90 secondes."
     },
     {
       "type": "quote",
@@ -176,7 +208,7 @@
     },
     {
       "type": "p",
-      "html": "Notez vos séances reste l'outil le plus sous-utilisé en escalade amateur. Un simple cahier avec date, type de séance, voies réussies, sensations, fatigue ressentie, permet de repérer les patterns. Tu remarqueras par exemple que tes meilleures séances suivent toujours deux jours de repos. Ou que la chaleur t'empêche de performer au-delà de 25°C."
+      "html": "Noter tes séances reste l'outil le plus sous-utilisé en escalade amateur. Un simple cahier avec date, type de séance, voies réussies, sensations, fatigue ressentie, te permet de repérer les patterns. Tu remarqueras par exemple que tes meilleures séances suivent toujours deux jours de repos. Ou que la chaleur t'empêche de performer au-delà de 25°C."
     },
     {
       "type": "p",
@@ -194,7 +226,7 @@
     },
     {
       "type": "p",
-      "html": "Les blessures du grimpeur ne tombent pas du ciel. Elles signalent presque toujours une faute de préparation : échauffement bâclé, montée en charge trop rapide, repos insuffisants, technique tordue. Les poulies digitales, l'épitrochléite (coude du grimpeur), la coiffe des rotateurs représentent 80% des consultations spé. Lis nos guides sur <a href=\"/blog/blessures-doigts-grimpeur\">les blessures de doigts</a> et <a href=\"/blog/tendinite-epaule-coude-grimpe\">les tendinites épaule coude</a>."
+      "html": "Les blessures du grimpeur ne tombent pas du ciel. Elles signalent presque toujours une faute de préparation : échauffement bâclé, montée en charge trop rapide, repos insuffisants, technique tordue. Les poulies digitales, l'épitrochléite (coude du grimpeur), la coiffe des rotateurs représentent 80% des consultations spé."
     },
     {
       "type": "p",

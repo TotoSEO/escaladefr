@@ -3,7 +3,7 @@
   "cocon": "techniques",
   "type_article": "astuce",
   "numero": 18,
-  "title": "Clipper une degaine en tete : geste, position, securite",
+  "title": "Clipper une degaine en tete, geste, position, securite",
   "h1": "Clipper une degaine en tete, le geste qui fait la difference entre serenite et chute",
   "description": "Clipper une degaine en tete : choisir la bonne position, securiser le geste, eviter les boucles de corde et reconnaitre une mauvaise pose de mousqueton.",
   "chapo": "Clipper, ca a l'air simple jusqu'au jour ou tu pars en arriere parce que ta corde est passee derriere ton pied. Cette astuce decortique le geste a faire et a ne pas faire, comment lire la position avant de tirer la corde, et pourquoi la moitie des chutes en tete viennent d'un mauvais clip. Tu apprendras a clipper sans paniquer, meme sur une 6c bras pompes.",
@@ -15,57 +15,202 @@
     "Si tu n'as pas la position, tu ne clippes pas, tu montes ou tu redescends."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Pourquoi le clip se rate si souvent"},
-    {"type": "p", "html": "Le clip, c'est le geste le plus dangereux de l'escalade en tete avec la chute serieuse. Tu sors une main, tu tires de la corde, tu cherches le mousqueton, tu pousses la corde dedans. Quatre micro-gestes en deux secondes, avec un bras pompe et la pression mentale de la chute. Resultat : <strong>40 % des chutes en tete</strong> ont lieu pendant ou juste apres un clip mal place. La premiere etape pour ne plus rater, c'est admettre que le clip merite un vrai apprentissage."},
-    {"type": "p", "html": "Moi, j'ai failli me prendre une enorme chute en 2017 sur une voie de 6c a Saussois. Mon pied droit etait en demi-equilibre sur une reglette, je tirais de la corde a bout de bras au-dessus de moi, et j'ai laisse la corde glisser. Resultat, deux metres et demi de chute en bout de degaine au lieu d'une chute propre courte. Mon assureur a tres bien gere, mais j'ai compris ce jour-la qu'un mauvais clip transforme une chute banale en accident."},
-    {"type": "h2", "text": "Choisir la position avant de clipper"},
-    {"type": "p", "html": "La regle d'or, c'est qu'on ne clippe jamais en mouvement. Tu identifies au sol, pendant ta <a href=\"/blog/lecture-voie-strategie\">lecture de voie</a>, depuis quelle prise tu vas clipper chaque degaine. Cette prise doit etre <strong>une bonne main</strong>, idealement un bac ou une inversee profonde, qui te permet de tirer de la corde a deux mains theoriquement. Tu as aussi besoin d'un pied stable, ni trop haut ni trop bas, qui te tient en equilibre dynamique."},
-    {"type": "list", "variant": "checks", "title": "Trois positions ideales pour clipper", "items": [
-      {"title": "Bac au-dessus de la hanche", "body": "La degaine se trouve a hauteur de poitrine, tu tiens un bac avec une main, l'autre tire la corde et clippe en un mouvement fluide. C'est la position la plus sure."},
-      {"title": "Bac a hauteur de visage avec pied haut", "body": "Tu pousses sur un pied haut, la jambe te porte. Tu peux meme tirer la corde a bout de bras sans pomper. Position commune en devers leger."},
-      {"title": "Inversee bras tendu", "body": "Tu tiens une inversee, le bras tendu te suspend. Le corps est colle au mur, le second bras est libre. Tres utile en devers marque."}
-    ]},
-    {"type": "h2", "text": "Le geste lui-meme, decompose"},
-    {"type": "p", "html": "Une fois en position, le geste suit cinq etapes : tu lache la main qui clippe sur la corde, tu fais glisser un metre de mou par le brin assureur, tu remontes la corde au-dessus du mousqueton, tu introduis la corde dans le doigt du mousqueton avec le pouce et l'index, tu verifies visuellement que la corde sort du bon cote. <strong>Cinq secondes maximum</strong>. Au-dela, tu pompes et tu rates."},
-    {"type": "tip", "title": "L'astuce de la technique du pince", "body": "Tu coinces la corde entre ton pouce et ton majeur, et tu utilises ton index pour appuyer la corde dans le doigt du mousqueton. Cette technique permet de clipper d'une seule main sans devoir reattraper la corde. C'est la methode standard que j'utilise depuis 2015, plus rapide que la pince a deux doigts.", "tone": "astuce"},
-    {"type": "p", "html": "Il existe deux techniques principales : la technique du pince et la technique du pouce. La technique du pouce consiste a pousser la corde dans le mousqueton avec le pouce, le mousqueton bloque par la paume. Choisis celle qui te convient et garde-la. Mixer les deux te rend lent. Je vois souvent des grimpeurs hesiter entre les deux et perdre trois secondes au mauvais moment."},
-    {"type": "h2", "text": "Le piege du sens de la corde"},
-    {"type": "p", "html": "La corde doit toujours sortir du mousqueton <strong>cote oppose au rocher</strong>, c'est-a-dire que le brin qui monte vers toi sort en debouchant vers l'exterieur, pas vers la paroi. Si tu clippes a l'envers, lors d'une chute la corde peut se decrocher du mousqueton par effet de levier. C'est ce qu'on appelle un clip inverse, source d'accidents serieux et completement evitables."},
-    {"type": "p", "html": "Verifie aussi que la corde ne passe pas derriere ta jambe. Ce reflex de check rapide se prend en deux semaines. Si la corde passe derriere ton mollet ou ton genou, une chute te retourne la tete en bas. Apres le clip, jette un coup d'oeil rapide au brin entre toi et la degaine. Une chute la tete en bas sur falaise peut tuer, c'est l'accident classique decrit dans les <a href=\"/blog/chuter-en-grimpe-apprentissage\">analyses de chute</a>."},
-    {"type": "h2", "text": "Pratiquer au sol jusqu'au reflexe"},
-    {"type": "p", "html": "Le clip s'entraine au sol, sans mur. Tu accroches une degaine a une hauteur de 1,80 metre, tu te plantes en face, tu clippes 50 fois avec la main gauche, 50 fois avec la main droite. Tu varies la position de la corde, tu varies la hauteur, tu varies le bras. En deux semaines de pratique quotidienne (15 minutes), le geste devient automatique. Tu ne reflechis plus, tu fais."},
-    {"type": "p", "html": "Cet entrainement parait debile au debut, surtout pour un grimpeur deja confirme. C'est pourtant ce qu'on imposait au club FFME en juniors a Colmar. On clippait des degaines fixees sur un cadre de porte chez nous, pendant qu'on regardait la tele. La progression sur la qualite des clips en falaise s'est faite en un mois. Si tu te <a href=\"/blog/grimper-en-tete-premiere-fois\">prepares a passer en tete</a>, c'est l'exercice qui te donnera la plus grosse marge de securite."},
-    {"type": "h2", "text": "Erreurs typiques en falaise"},
-    {"type": "p", "html": "L'erreur 1, c'est clipper trop bas. Tu sors la corde avec une main sous la degaine, tu te retrouves a tirer 1,50 m de corde avec un bras qui pompe. Une <strong>vrille du mousqueton</strong> est probable. L'erreur 2, c'est clipper trop haut. Tu tires de la corde a bout de bras au-dessus de ta tete, tu n'as plus aucune resistance au cas ou tu lacherais. Tu prends ce qu'on appelle un facteur de chute eleve. L'erreur 3, c'est clipper en passant la corde par-dessus le mousqueton au lieu de la pousser dedans, ce qui fait sortir la corde au mauvais cote."},
-    {"type": "list", "variant": "checks", "title": "Cinq erreurs classiques a corriger", "items": [
-      {"title": "Clip dos au mur", "body": "Tu tournes le corps face exterieur pour clipper. Tu perds 50 % d'equilibre. Reste face au mur, le clip se fait de cote."},
-      {"title": "Corde derriere la jambe", "body": "Ton mollet se retrouve devant le brin qui monte. Une chute te retourne. Verifie visuellement avant de monter."},
-      {"title": "Clip a bout de bras tendu", "body": "Tu te suspends au mousqueton avec un bras et tu clippes avec l'autre. Tu prends une chute deux fois plus longue si tu lache."},
-      {"title": "Sens inverse de mousqueton", "body": "Tu tournes le doigt vers le rocher. Le mousqueton peut se decrocher en chute par levier sur la paroi."},
-      {"title": "Clip dans le bon mousqueton ?", "body": "Tu clippes par erreur ta degaine voisine ou la degaine de la voie d'a cote. Verifie la couleur ou la sequence."}
-    ]},
-    {"type": "h2", "text": "Clip en devers vs clip en dalle"},
-    {"type": "p", "html": "En devers, le clip se fait souvent en suspension active sur un bras tendu, l'autre main libre. La corde est plus difficile a tirer parce qu'elle descend a la verticale et frotte sur la degaine basse. Tu prends plus de mou que tu ne penses. <strong>Le ressenti de poids est faussant en devers</strong>. En dalle, au contraire, tu clippes souvent sur une bonne position pieds, le bassin colle au mur, sans tension. Mais la chute en dalle te coute en abrasion, alors que le clip rate en devers te coute juste de la distance. C'est aussi pour ca qu'il faut adapter ta lecture."},
-    {"type": "p", "html": "Sur toit, le clip devient un mouvement d'engagement total. Tu lache parfois deux pieds en talon-pointe, le corps suspendu par les mains et un crochet de talon. La corde sort de ta hanche, traverse l'espace, et tu clippes au plafond. Pour ces sequences, mieux vaut apprendre <a href=\"/blog/crochet-talon-bloc\">la technique du crochet</a> avant de s'attaquer a une voie 7a en toit."},
-    {"type": "quote", "text": "Un clip rate sur 6a, c'est une frayeur. Un clip rate sur 7a en toit, c'est une visite a l'hopital.", "author": "Antoine", "role": "ancien competiteur FFME, 8a en falaise"},
-    {"type": "h2", "text": "Et si tu n'arrives pas a clipper ?"},
-    {"type": "p", "html": "Tu as deux options. Soit tu redescends sur la position en dessous, tu souffles, tu remontes en force. Soit tu engages, tu montes au-dessus de la degaine sans clipper, et tu prends la chute si tu lache. Cette deuxieme option n'est viable que si tu sais ou tu vas atterrir, et seulement en moulinette ou avec une degaine en dessous qui te tient. Ne jamais bluffer au-dessus du quatrieme point sans la degaine clippee, c'est le scenario ou les accidents se multiplient."}
+    {
+      "type": "h2",
+      "text": "Pourquoi le clip se rate si souvent"
+    },
+    {
+      "type": "p",
+      "html": "Le clip, c'est le geste le plus dangereux de l'escalade en tete avec la chute serieuse. Tu sors une main, tu tires de la corde, tu cherches le mousqueton, tu pousses la corde dedans. Quatre micro-gestes en deux secondes, avec un bras pompe et la pression mentale de la chute. Resultat : <strong>40 % des chutes en tete</strong> ont lieu pendant ou juste apres un clip mal place. La premiere etape pour ne plus rater, c'est admettre que le clip merite un vrai apprentissage."
+    },
+    {
+      "type": "p",
+      "html": "Moi, j'ai failli me prendre une enorme chute en 2017 sur une voie de 6c a Saussois. Mon pied droit etait en demi-equilibre sur une reglette, je tirais de la corde a bout de bras au-dessus de moi, et j'ai laisse la corde glisser. Resultat, deux metres et demi de chute en bout de degaine au lieu d'une chute propre courte. Mon assureur a tres bien gere, mais j'ai compris ce jour-la qu'un mauvais clip transforme une chute banale en accident."
+    },
+    {
+      "type": "h2",
+      "text": "Choisir la position avant de clipper"
+    },
+    {
+      "type": "p",
+      "html": "La regle d'or, c'est qu'on ne clippe jamais en mouvement. Tu identifies au sol, pendant ta <a href=\"/blog/lecture-voie-strategie\">lecture de voie</a>, depuis quelle prise tu vas clipper chaque degaine. Cette prise doit etre <strong>une bonne main</strong>, idealement un bac ou une inversee profonde, qui te permet de tirer de la corde a deux mains theoriquement. Tu as aussi besoin d'un pied stable, ni trop haut ni trop bas, qui te tient en equilibre dynamique."
+    },
+    {
+      "type": "list",
+      "variant": "checks",
+      "title": "Trois positions ideales pour clipper",
+      "items": [
+        {
+          "title": "Bac au-dessus de la hanche",
+          "body": "La degaine se trouve a hauteur de poitrine, tu tiens un bac avec une main, l'autre tire la corde et clippe en un mouvement fluide. C'est la position la plus sure."
+        },
+        {
+          "title": "Bac a hauteur de visage avec pied haut",
+          "body": "Tu pousses sur un pied haut, la jambe te porte. Tu peux meme tirer la corde a bout de bras sans pomper. Position commune en devers leger."
+        },
+        {
+          "title": "Inversee bras tendu",
+          "body": "Tu tiens une inversee, le bras tendu te suspend. Le corps est colle au mur, le second bras est libre. Tres utile en devers marque."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Le geste lui-meme, decompose"
+    },
+    {
+      "type": "p",
+      "html": "Une fois en position, le geste suit cinq etapes : tu lache la main qui clippe sur la corde, tu fais glisser un metre de mou par le brin assureur, tu remontes la corde au-dessus du mousqueton, tu introduis la corde dans le doigt du mousqueton avec le pouce et l'index, tu verifies visuellement que la corde sort du bon cote. <strong>Cinq secondes maximum</strong>. Au-dela, tu pompes et tu rates."
+    },
+    {
+      "type": "tip",
+      "title": "L'astuce de la technique du pince",
+      "body": "Tu coinces la corde entre ton pouce et ton majeur, et tu utilises ton index pour appuyer la corde dans le doigt du mousqueton. Cette technique permet de clipper d'une seule main sans devoir reattraper la corde. C'est la methode standard que j'utilise depuis 2015, plus rapide que la pince a deux doigts.",
+      "tone": "astuce"
+    },
+    {
+      "type": "p",
+      "html": "Il existe deux techniques principales : la technique du pince et la technique du pouce. La technique du pouce consiste a pousser la corde dans le mousqueton avec le pouce, le mousqueton bloque par la paume. Choisis celle qui te convient et garde-la. Mixer les deux te rend lent. Je vois souvent des grimpeurs hesiter entre les deux et perdre trois secondes au mauvais moment."
+    },
+    {
+      "type": "h2",
+      "text": "Le piege du sens de la corde"
+    },
+    {
+      "type": "p",
+      "html": "La corde doit toujours sortir du mousqueton <strong>cote oppose au rocher</strong>, c'est-a-dire que le brin qui monte vers toi sort en debouchant vers l'exterieur, pas vers la paroi. Si tu clippes a l'envers, lors d'une chute la corde peut se decrocher du mousqueton par effet de levier. C'est ce qu'on appelle un clip inverse, source d'accidents serieux et completement evitables."
+    },
+    {
+      "type": "p",
+      "html": "Verifie aussi que la corde ne passe pas derriere ta jambe. Ce reflex de check rapide se prend en deux semaines. Si la corde passe derriere ton mollet ou ton genou, une chute te retourne la tete en bas. Apres le clip, jette un coup d'oeil rapide au brin entre toi et la degaine. Une chute la tete en bas sur falaise peut tuer, c'est l'accident classique decrit dans les <a href=\"/blog/chuter-en-grimpe-apprentissage\">analyses de chute</a>."
+    },
+    {
+      "type": "h2",
+      "text": "Pratiquer au sol jusqu'au reflexe"
+    },
+    {
+      "type": "p",
+      "html": "Le clip s'entraine au sol, sans mur. Tu accroches une degaine a une hauteur de 1,80 metre, tu te plantes en face, tu clippes 50 fois avec la main gauche, 50 fois avec la main droite. Tu varies la position de la corde, tu varies la hauteur, tu varies le bras. En deux semaines de pratique quotidienne (15 minutes), le geste devient automatique. Tu ne reflechis plus, tu fais."
+    },
+    {
+      "type": "p",
+      "html": "Cet entrainement parait debile au debut, surtout pour un grimpeur deja confirme. C'est pourtant ce qu'on imposait au club FFME en juniors a Colmar. On clippait des degaines fixees sur un cadre de porte chez nous, pendant qu'on regardait la tele. La progression sur la qualite des clips en falaise s'est faite en un mois. Si tu te <a href=\"/blog/grimper-en-tete-premiere-fois\">prepares a passer en tete</a>, c'est l'exercice qui te donnera la plus grosse marge de securite."
+    },
+    {
+      "type": "h2",
+      "text": "Erreurs typiques en falaise"
+    },
+    {
+      "type": "p",
+      "html": "L'erreur 1, c'est clipper trop bas. Tu sors la corde avec une main sous la degaine, tu te retrouves a tirer 1,50 m de corde avec un bras qui pompe. Une <strong>vrille du mousqueton</strong> est probable. L'erreur 2, c'est clipper trop haut. Tu tires de la corde a bout de bras au-dessus de ta tete, tu n'as plus aucune resistance au cas ou tu lacherais. Tu prends ce qu'on appelle un facteur de chute eleve. L'erreur 3, c'est clipper en passant la corde par-dessus le mousqueton au lieu de la pousser dedans, ce qui fait sortir la corde au mauvais cote."
+    },
+    {
+      "type": "list",
+      "variant": "checks",
+      "title": "Cinq erreurs classiques a corriger",
+      "items": [
+        {
+          "title": "Clip dos au mur",
+          "body": "Tu tournes le corps face exterieur pour clipper. Tu perds 50 % d'equilibre. Reste face au mur, le clip se fait de cote."
+        },
+        {
+          "title": "Corde derriere la jambe",
+          "body": "Ton mollet se retrouve devant le brin qui monte. Une chute te retourne. Verifie visuellement avant de monter."
+        },
+        {
+          "title": "Clip a bout de bras tendu",
+          "body": "Tu te suspends au mousqueton avec un bras et tu clippes avec l'autre. Tu prends une chute deux fois plus longue si tu lache."
+        },
+        {
+          "title": "Sens inverse de mousqueton",
+          "body": "Tu tournes le doigt vers le rocher. Le mousqueton peut se decrocher en chute par levier sur la paroi."
+        },
+        {
+          "title": "Clip dans le bon mousqueton ?",
+          "body": "Tu clippes par erreur ta degaine voisine ou la degaine de la voie d'a cote. Verifie la couleur ou la sequence."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Clip en devers vs clip en dalle"
+    },
+    {
+      "type": "p",
+      "html": "En devers, le clip se fait souvent en suspension active sur un bras tendu, l'autre main libre. La corde est plus difficile a tirer parce qu'elle descend a la verticale et frotte sur la degaine basse. Tu prends plus de mou que tu ne penses. <strong>Le ressenti de poids est faussant en devers</strong>. En dalle, au contraire, tu clippes souvent sur une bonne position pieds, le bassin colle au mur, sans tension. Mais la chute en dalle te coute en abrasion, alors que le clip rate en devers te coute juste de la distance. C'est aussi pour ca qu'il faut adapter ta lecture."
+    },
+    {
+      "type": "p",
+      "html": "Sur toit, le clip devient un mouvement d'engagement total. Tu lache parfois deux pieds en talon-pointe, le corps suspendu par les mains et un crochet de talon. La corde sort de ta hanche, traverse l'espace, et tu clippes au plafond. Pour ces sequences, mieux vaut apprendre <a href=\"/blog/crochet-talon-bloc\">la technique du crochet</a> avant de s'attaquer a une voie 7a en toit."
+    },
+    {
+      "type": "quote",
+      "text": "Un clip rate sur 6a, c'est une frayeur. Un clip rate sur 7a en toit, c'est une visite a l'hopital.",
+      "author": "Antoine",
+      "role": "ancien competiteur FFME, 8a en falaise"
+    },
+    {
+      "type": "h2",
+      "text": "Et si tu n'arrives pas a clipper ?"
+    },
+    {
+      "type": "p",
+      "html": "Tu as deux options. Soit tu redescends sur la position en dessous, tu souffles, tu remontes en force. Soit tu engages, tu montes au-dessus de la degaine sans clipper, et tu prends la chute si tu lache. Cette deuxieme option n'est viable que si tu sais ou tu vas atterrir, et seulement en moulinette ou avec une degaine en dessous qui te tient. Ne jamais bluffer au-dessus du quatrieme point sans la degaine clippee, c'est le scenario ou les accidents se multiplient."
+    }
   ],
   "faq": [
-    {"q": "Quelle main utiliser pour clipper ?", "a": "La main du cote ou la degaine te facilite le geste. Si la degaine pend vers la droite, tu clippes plus naturellement avec la main droite. Tu dois savoir clipper avec les deux mains. Si tu n'as appris qu'avec une seule, tu te retrouveras coince un jour sur une voie ou seule la mauvaise main est libre."},
-    {"q": "Faut-il toujours clipper en position basse ou en position haute ?", "a": "En position basse (degaine a hauteur de poitrine), tu prends moins de chute si tu lache. En position haute (degaine au-dessus de la tete), tu tires plus de corde, tu pompes davantage. La regle est : clippe au plus tot possible des que tu as une bonne main. Ne reserve pas le clip pour plus tard si tu peux le faire maintenant."},
-    {"q": "Combien de degaines doivent etre sur une voie de 25 metres ?", "a": "En general 8 a 12 degaines selon la difficulte et le profil. Sur une voie engagee comme certaines lignes du Verdon, tu peux avoir des espacements de 4 metres entre deux points, ce qui demande beaucoup de serenite. En salle, l'espacement est plus court, 1,5 a 2 metres entre deux degaines."},
-    {"q": "Que faire si la corde sort du mauvais cote du mousqueton ?", "a": "Tu deglippes immediatement si tu peux, et tu reclippes correctement. Si tu es deja monte au-dessus et que tu vois l'erreur, descend prudemment a la degaine, reclippe, et continue. Ne jamais grimper plusieurs metres au-dessus d'un clip inverse, le risque de degradation est trop fort."},
-    {"q": "Le clip change-t-il avec un mousqueton fil tendu ou massif ?", "a": "Oui un peu. Le mousqueton fil tendu (genre Petzl Ange) clippe plus facilement parce que le doigt est plus leger. Le massif (genre Petzl Spirit) clippe plus securitaire mais demande un peu plus de force. Habitue-toi aux deux. La <a href=\"/blog/grimper-en-tete-premiere-fois\">premiere fois en tete</a>, prefere un set avec mousquetons fil tendu."},
-    {"q": "Le clip de mou (slack) est-il utile ?", "a": "Oui, c'est crucial. Tu ne dois jamais clipper bras tendu sans mou. L'assureur doit liberer 1,50 m de corde au moment du clip pour eviter qu'on te tire en arriere. Si tu vois l'assureur trop court, attends un peu et redemande mou avant de tirer la corde."}
+    {
+      "q": "Quelle main utiliser pour clipper ?",
+      "a": "La main du cote ou la degaine te facilite le geste. Si la degaine pend vers la droite, tu clippes plus naturellement avec la main droite. Tu dois savoir clipper avec les deux mains. Si tu n'as appris qu'avec une seule, tu te retrouveras coince un jour sur une voie ou seule la mauvaise main est libre."
+    },
+    {
+      "q": "Faut-il toujours clipper en position basse ou en position haute ?",
+      "a": "En position basse (degaine a hauteur de poitrine), tu prends moins de chute si tu lache. En position haute (degaine au-dessus de la tete), tu tires plus de corde, tu pompes davantage. La regle est : clippe au plus tot possible des que tu as une bonne main. Ne reserve pas le clip pour plus tard si tu peux le faire maintenant."
+    },
+    {
+      "q": "Combien de degaines doivent etre sur une voie de 25 metres ?",
+      "a": "En general 8 a 12 degaines selon la difficulte et le profil. Sur une voie engagee comme certaines lignes du Verdon, tu peux avoir des espacements de 4 metres entre deux points, ce qui demande beaucoup de serenite. En salle, l'espacement est plus court, 1,5 a 2 metres entre deux degaines."
+    },
+    {
+      "q": "Que faire si la corde sort du mauvais cote du mousqueton ?",
+      "a": "Tu deglippes immediatement si tu peux, et tu reclippes correctement. Si tu es deja monte au-dessus et que tu vois l'erreur, descend prudemment a la degaine, reclippe, et continue. Ne jamais grimper plusieurs metres au-dessus d'un clip inverse, le risque de degradation est trop fort."
+    },
+    {
+      "q": "Le clip change-t-il avec un mousqueton fil tendu ou massif ?",
+      "a": "Oui un peu. Le mousqueton fil tendu (genre Petzl Ange) clippe plus facilement parce que le doigt est plus leger. Le massif (genre Petzl Spirit) clippe plus securitaire mais demande un peu plus de force. Habitue-toi aux deux. La <a href=\"/blog/grimper-en-tete-premiere-fois\">premiere fois en tete</a>, prefere un set avec mousquetons fil tendu."
+    },
+    {
+      "q": "Le clip de mou (slack) est-il utile ?",
+      "a": "Oui, c'est crucial. Tu ne dois jamais clipper bras tendu sans mou. L'assureur doit liberer 1,50 m de corde au moment du clip pour eviter qu'on te tire en arriere. Si tu vois l'assureur trop court, attends un peu et redemande mou avant de tirer la corde."
+    }
   ],
   "cover_alt": "Un grimpeur en tete en plein clip de degaine sur une voie en devers leger, main droite poussant la corde dans un mousqueton orange Petzl Ange, bras gauche tendu sur un bac jaune",
   "internal_links": [
-    {"slug": "apprendre-escalade-debutant-2026", "anchor": "apprendre l'escalade en 2026", "context": "Pilier general"},
-    {"slug": "grimper-en-tete-premiere-fois", "anchor": "premiere fois en tete", "context": "Etape preliminaire au clip"},
-    {"slug": "lecture-voie-strategie", "anchor": "lecture de voie", "context": "Reperer les positions de clip"},
-    {"slug": "chuter-en-grimpe-apprentissage", "anchor": "analyses de chute", "context": "Lien securite et chute"},
-    {"slug": "crochet-talon-bloc", "anchor": "la technique du crochet", "context": "Cas avance du clip en toit"}
+    {
+      "slug": "apprendre-escalade-debutant-2026",
+      "anchor": "apprendre l'escalade en 2026",
+      "context": "Pilier general"
+    },
+    {
+      "slug": "grimper-en-tete-premiere-fois",
+      "anchor": "premiere fois en tete",
+      "context": "Etape preliminaire au clip"
+    },
+    {
+      "slug": "lecture-voie-strategie",
+      "anchor": "lecture de voie",
+      "context": "Reperer les positions de clip"
+    },
+    {
+      "slug": "chuter-en-grimpe-apprentissage",
+      "anchor": "analyses de chute",
+      "context": "Lien securite et chute"
+    },
+    {
+      "slug": "crochet-talon-bloc",
+      "anchor": "la technique du crochet",
+      "context": "Cas avance du clip en toit"
+    }
   ],
   "scheduled_at": "2026-06-13T09:00:00+02:00"
 }

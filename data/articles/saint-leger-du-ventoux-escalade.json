@@ -3,7 +3,7 @@
   "cocon": "sites",
   "type_article": "guide",
   "numero": 89,
-  "title": "Saint-Léger-du-Ventoux : escalader face au Géant de Provence",
+  "title": "Saint-Léger-du-Ventoux, escalader face au Géant de Provence",
   "h1": "Saint-Léger-du-Ventoux, escalade face au Géant",
   "description": "Découvre Saint-Léger-du-Ventoux, falaise de dalles compactes du Vaucluse : La Source, voies techniques au pied du Mont Ventoux, secteurs et saison...",
   "chapo": "Saint-Léger-du-Ventoux, c'est une falaise discrète mais redoutable, posée dans la vallée du Toulourenc, face au Mont Ventoux. Calcaire compact, dalles techniques, voies à la lecture exigeante, ambiance sauvage. Je te raconte ce site vauclusien encore préservé, ses lignes phares comme La Source, ses petites tailles et la sensation particulière de grimper sous le regard du Géant de Provence.",
@@ -160,7 +160,7 @@
     },
     {
       "type": "p",
-      "html": "Pour explorer d'autres sites du Vaucluse, lis notre article sur <a href=\"/blog/buoux-luberon-historique\">Buoux dans le Luberon</a> ou notre guide des <a href=\"/blog/sites-escalade-emblematiques-france\">sites d'escalade emblématiques de France</a>. Pour d'autres falaises de dalles techniques, va voir <a href=\"/blog/aiglun-prealpes-azur\">Aiglun dans les Préalpes d'Azur</a>. Pour les amateurs de grands sites du sud, comparons avec <a href=\"/blog/ceuse-cathedrale-calcaire\">Céüse</a>, autre cathédrale du calcaire."
+      "html": "Pour explorer d'autres sites du Vaucluse, Pour d'autres falaises de dalles techniques, va voir <a href=\"/blog/aiglun-prealpes-azur\">Aiglun dans les Préalpes d'Azur</a>. Pour les amateurs de grands sites du sud, comparons avec <a href=\"/blog/ceuse-cathedrale-calcaire\">Céüse</a>, autre cathédrale du calcaire."
     }
   ],
   "faq": [

@@ -3,7 +3,7 @@
   "cocon": "noeuds",
   "type_article": "astuce",
   "numero": 73,
-  "title": "Tête d'alouette sur sangle : usage, limites et bonne pratique",
+  "title": "Tête d'alouette sur sangle, usage, limites et bonne pratique",
   "h1": "La tête d'alouette sur sangle en escalade",
   "description": "La tête d'alouette pour fixer une sangle sur un point d'ancrage, perte de résistance, alternatives validées et bonne pratique en relais sur arbre.",
   "chapo": "La tête d'alouette sur sangle relie rapidement un anneau de sangle à un point d'ancrage comme un arbre, un piton ou le pontet du baudrier. Simple à tracer, elle souffre d'une perte de résistance significative et fait l'objet d'un débat permanent entre simplicité et fiabilité. Tracé, mesures de charge, alternatives validées et cadre d'usage raisonné pour profiter de ses avantages sans tomber dans ses pièges.",
@@ -21,7 +21,7 @@
     },
     {
       "type": "p",
-      "html": "La tête d'alouette, parfois appelée nœud d'alouette ou girth hitch en anglais, appartient à la famille des nœuds de fixation rapide sur sangle. Son tracé tient en deux secondes : tu glisses ton anneau de sangle autour du point d'ancrage, puis tu passes une extrémité de la sangle à travers l'autre. Le résultat est une boucle fermée qui se serre sur le point d'ancrage sous tension. Cette simplicité explique sa popularité, malgré une perte de résistance qui en limite sérieusement l'usage. Pour situer ce nœud parmi les autres, consulte le <a href=\"/blog/noeuds-escalade-utiles-guide\">panorama des nœuds utiles en escalade</a>."
+      "html": "La tête d'alouette, parfois appelée nœud d'alouette ou girth hitch en anglais, appartient à la famille des nœuds de fixation rapide sur sangle. Son tracé tient en deux secondes : tu glisses ton anneau de sangle autour du point d'ancrage, puis tu passes une extrémité de la sangle à travers l'autre. Le résultat est une boucle fermée qui se serre sur le point d'ancrage sous tension. Cette simplicité explique sa popularité, malgré une perte de résistance qui en limite sérieusement l'usage. Pour situer ce nœud parmi les autres,"
     },
     {
       "type": "p",
