@@ -174,7 +174,7 @@
     },
     {
       "type": "p",
-      "html": "Le café et le thé en quantités modérées comptent dans l'hydratation, contrairement à une vieille idée reçue. L'effet diurétique modeste est largement compensé par l'apport en eau. Limite-toi à 3 tasses de café par jour pour ne pas perturber le sommeil. L'alcool en revanche déshydrate vraiment, évite la veille des grosses séances."
+      "html": "Le café et le thé en quantités modérées comptent dans l'hydratation, contrairement à une vieille idée reçue. L'effet diurétique modeste est largement compensé par l'apport en eau. Limite-toi à 3 tasses de café par jour pour ne pas perturber le <a href=\"/blog/sommeil-performance-grimpe\">sommeil</a>. L'alcool en revanche déshydrate vraiment, évite la veille des grosses séances."
     },
     {
       "type": "quote",

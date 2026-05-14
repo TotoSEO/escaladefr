@@ -25,7 +25,7 @@
     },
     {
       "type": "p",
-      "html": "Le maximum théorique est le facteur de chute 2. Tu l'atteins quand tu chutes au dessus de ton assureur sans aucun point intermédiaire. La corde n'a alors aucun mou utile pour amortir, et tout le choc passe sur le grimpeur, sur l'assureur, sur l'ancrage. C'est le cas extrême qu'on rencontre en grande voie au départ d'une longueur, juste après le relais. C'est aussi le cas qu'il faut absolument éviter."
+      "html": "Le maximum théorique est le facteur de chute 2. Tu l'atteins quand tu chutes au dessus de ton assureur sans aucun point intermédiaire. La <a href=\"/blog/verification-baudrier-corde-noeud\">corde n</a>'a alors aucun mou utile pour amortir, et tout le choc passe sur le grimpeur, sur l'assureur, sur l'ancrage. C'est le cas extrême qu'on rencontre en grande voie au départ d'une longueur, juste après le relais. C'est aussi le cas qu'il faut absolument éviter."
     },
     {
       "type": "list",
@@ -129,7 +129,7 @@
     },
     {
       "type": "p",
-      "html": "La parade s'apprend dès le passage en grande voie : on installe un <strong>renvoi sur le relais</strong> dès la première sortie. Une dégaine longue sur le point haut du relais, le grimpeur clippe immédiatement avant de partir vers le haut. Si chute, le facteur retombe à un maximum de 1,5 voire moins selon la position. Le risque devient gérable, le matériel et le corps encaissent sans drame. C'est l'une des premières choses qu'on enseigne en formation FFME initiation grande voie."
+      "html": "La parade s'apprend dès le passage en grande voie : on installe un <strong>renvoi sur le relais</strong> dès la première sortie. Une dégaine longue sur le point haut du relais, le grimpeur clippe immédiatement <a href=\"/blog/check-list-avant-grimper\">avant de</a> partir vers le haut. Si chute, le facteur retombe à un maximum de 1,5 voire moins selon la position. Le risque devient gérable, le matériel et le corps encaissent sans drame. C'est l'une des premières choses qu'on enseigne en formation FFME initiation grande voie."
     },
     {
       "type": "tip",
@@ -161,7 +161,7 @@
     },
     {
       "type": "p",
-      "html": "Le facteur de chute reste un outil de compréhension, pas un calcul à faire en temps réel sur la voie. Ce qui compte, c'est l'intuition que tu développes : plus tu es haut au dessus du dernier point, plus la chute sera longue, plus elle sera violente. Tu adaptes ton engagement à ce paramètre. Tu clippes dès que tu peux, tu ne tires pas la corde sur trois mètres au dessus d'un point pour finir un mouvement délicat."
+      "html": "Le facteur de chute reste un outil de compréhension, pas un calcul à faire en temps réel <a href=\"/blog/rappel-securite-procedure\">sur la</a> voie. Ce qui compte, c'est l'intuition que tu développes : plus tu es haut au dessus du dernier point, plus la chute sera longue, plus elle sera violente. Tu adaptes ton engagement à ce paramètre. Tu clippes dès que tu peux, tu ne tires pas la corde sur trois mètres au dessus d'un point pour finir un mouvement délicat."
     }
   ],
   "faq": [
