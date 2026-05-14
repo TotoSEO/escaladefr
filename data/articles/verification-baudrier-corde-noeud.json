@@ -130,7 +130,7 @@
     },
     {
       "type": "p",
-      "html": "La triple vérification s'inscrit dans une démarche plus large que Si l'accident arrive malgré tout, tu auras besoin de connaître <a href=\"/blog/premiers-secours-escalade\">les gestes essentiels de premiers secours</a> et <a href=\"/blog/alerter-secours-falaise\">la procédure d'alerte aux secours en falaise</a>."
+      "html": "La triple vérification s'inscrit dans une démarche plus large que le seul rituel pré-grimpe. Si l'accident arrive malgré tout, tu auras besoin de connaître <a href=\"/blog/premiers-secours-escalade\">les gestes essentiels de premiers secours en falaise</a> et <a href=\"/blog/alerter-secours-falaise\">la procédure d'alerte aux secours en falaise</a>."
     }
   ],
   "faq": [
@@ -159,28 +159,28 @@
   "internal_links": [
     {
       "slug": "securite-escalade-regles-essentielles",
-      "anchor": "les règles essentielles de la sécurité en escalade",
-      "context": "Pilier du cocon"
-    },
-    {
-      "slug": "check-list-avant-grimper",
-      "anchor": "notre check list complète avant de grimper",
-      "context": "Article frère du cocon"
+      "anchor": "au socle sécurité de la pratique",
+      "context": "pilier sécurité, premier lien interne"
     },
     {
       "slug": "partenaire-grimpe-confiance",
-      "anchor": "le choix du partenaire de grimpe",
-      "context": "Article frère du cocon"
+      "anchor": "mon partenaire de cordée",
+      "context": "même cocon, anecdote Orpierre"
+    },
+    {
+      "slug": "check-list-avant-grimper",
+      "anchor": "check-list avant de grimper",
+      "context": "même cocon, rituel pré-départ"
     },
     {
       "slug": "premiers-secours-escalade",
-      "anchor": "les gestes essentiels de premiers secours",
-      "context": "Article frère du cocon"
+      "anchor": "les gestes essentiels de premiers secours en falaise",
+      "context": "même cocon, si l'accident arrive"
     },
     {
       "slug": "alerter-secours-falaise",
       "anchor": "la procédure d'alerte aux secours en falaise",
-      "context": "Article frère du cocon"
+      "context": "même cocon, si l'accident arrive"
     }
   ],
   "scheduled_at": "2026-03-13T09:00:00+01:00"
