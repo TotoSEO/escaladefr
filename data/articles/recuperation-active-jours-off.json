@@ -1,0 +1,74 @@
+{
+  "slug": "recuperation-active-jours-off",
+  "cocon": "preparation",
+  "type_article": "astuce",
+  "numero": 126,
+  "title": "Récupération active du grimpeur : jours off qui paient",
+  "h1": "Récupération active et jours off : ce qui marche vraiment",
+  "description": "Récupération active du grimpeur : massage, foam roller, automassage avant-bras, sommeil et nutrition. Comment optimiser les jours off pour progresser plus vite.",
+  "chapo": "Sans jours off bien gérés, tu progresses deux fois moins vite. La récupération n'est pas une pause passive, c'est là que les adaptations se construisent. Tendons qui réparent, neural qui consolide, vascularisation qui se développe. Voici les techniques de récupération active qui m'ont permis d'enchaîner six saisons sans grosse blessure.",
+  "takeaways": [
+    "Le jour off n'est pas un jour vide, c'est un jour où ton corps construit le progrès.",
+    "Compte un à deux jours off complets par semaine, plus selon ton volume.",
+    "L'automassage des avant-bras réduit la pompe résiduelle entre séances.",
+    "Le foam roller mobilise les fascias et améliore la récupération du dos et des jambes.",
+    "Marche, vélo doux et natation accélèrent la récupération sans ajouter de charge."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Pourquoi la récupération est aussi importante que l'entraînement"},
+    {"type": "p", "html": "L'entraînement crée le stimulus, la récupération crée l'adaptation. Sans récupération suffisante, tu accumules de la fatigue chronique et tu finis en surentraînement. Les <strong>tendons et poulies</strong> demandent particulièrement de la récupération. Un fléchisseur sollicité fort prend 48 à 72 heures pour récupérer complètement, pas 24."},
+    {"type": "p", "html": "J'ai grimpé six jours par semaine pendant un an à 17 ans. Résultat : épicondylite chronique, perte de force, motivation au sol. Le déclic est venu en lisant Lattice Training : leurs grimpeurs élites prennent deux jours off complets par semaine, plus deux jours de récupération active. La progression était mesurable trois mois après le changement."},
+    {"type": "h2", "text": "Récupération passive versus active"},
+    {"type": "p", "html": "La récupération passive, c'est le canapé Netflix. C'est utile une fois par semaine pour le système nerveux. La récupération active, c'est de l'activité légère qui favorise la circulation sans solliciter les structures fatiguées. Elle accélère l'élimination des déchets métaboliques et la régénération tissulaire."},
+    {"type": "p", "html": "Les options de récupération active : marche d'une heure, vélo doux 30 à 45 minutes, natation tranquille 20 minutes, yoga vinyasa léger. Tu cherches à monter légèrement la <strong>fréquence cardiaque</strong> sans la pousser. La règle simple : tu dois pouvoir tenir une conversation pendant l'activité."},
+    {"type": "h2", "text": "Automassage des avant-bras"},
+    {"type": "p", "html": "L'automassage des avant-bras est l'outil le plus rentable du grimpeur. Cinq minutes par avant-bras le soir après une grosse séance débloque la pompe résiduelle, améliore la circulation et accélère la récupération. Tu utilises une balle de tennis, une balle de lacrosse ou tes propres mains en pression circulaire."},
+    {"type": "list", "variant": "numbered", "title": "Automassage avant-bras 5 minutes par bras", "items": [
+      {"title": "Échauffement 30 secondes", "body": "Frotte vigoureusement l'avant-bras entre les mains pour faire monter la chaleur."},
+      {"title": "Pression circulaire face palmaire 1 minute", "body": "Avec le pouce ou une balle, presse en cercle du coude au poignet."},
+      {"title": "Pression face dorsale 1 minute", "body": "Même mouvement sur la face extérieure de l'avant-bras."},
+      {"title": "Étirement des doigts 30 secondes", "body": "Tire chaque doigt vers l'arrière pendant 5 secondes."},
+      {"title": "Mobilisation poignet 1 minute", "body": "Rotations dans les deux sens, flexion-extension lente."}
+    ]},
+    {"type": "h2", "text": "Le foam roller : pour le dos et les jambes"},
+    {"type": "p", "html": "Le <strong>foam roller</strong> mobilise les <strong>fascias</strong>, ces enveloppes de tissu conjonctif qui entourent les muscles. La grimpe rigidifie souvent le dos, les fessiers et les ischios. Cinq à dix minutes de foam roller par séance offrent une libération nette. Tu sens les nœuds en passant, tu insistes 30 secondes sur chaque point sensible."},
+    {"type": "p", "html": "Les zones prioritaires pour le grimpeur : haut du dos entre les omoplates, fessiers, ischios postérieurs, mollets. Évite la zone lombaire directement, tu pourrais aggraver une compression. Un foam roller dur de qualité coûte 30 euros et dure des années. Préfère les modèles avec relief type Trigger Point GRID aux modèles lisses, le travail est plus précis."},
+    {"type": "tip", "title": "Erreur classique", "body": "Confondre douleur et efficacité sur le foam roller. Tu insistes 5 minutes sur un point qui fait mal en pensant que c'est ce qu'il faut. Tu déclenches une inflammation supplémentaire. Le foam roller doit faire un peu mal, pas beaucoup. 30 secondes à 1 minute par point sensible suffisent largement.", "tone": "erreur"},
+    {"type": "h2", "text": "Le sommeil, base de toute récupération"},
+    {"type": "p", "html": "Sept à neuf heures de sommeil par nuit sont la base. En dessous de six heures, ta production d'<strong>hormone de croissance</strong> chute et tes capacités de récupération s'effondrent. Les phases de sommeil profond sont celles où les tissus se réparent. Le sommeil reste le facteur de récupération numéro un, devant la nutrition et les techniques actives."},
+    {"type": "p", "html": "Mon expérience pendant la prépa au lycée : nuits courtes à 5 heures, performance grimpe en chute libre. J'ai remis le sommeil en priorité à l'université, j'ai gagné deux crans en six mois sans rien changer d'autre. Pour le détail, vois <a href=\"/blog/sommeil-performance-grimpe\">sommeil et performance en escalade</a>."},
+    {"type": "h2", "text": "Combien de jours off par semaine"},
+    {"type": "table", "caption": "Jours off recommandés selon volume", "headers": ["Profil grimpeur", "Séances grimpe", "Jours off complets", "Récupération active"],
+    "rows": [
+      ["Débutant", "2 à 3 par semaine", "3 à 4 jours", "Aucune obligation"],
+      ["Intermédiaire", "3 à 4 par semaine", "2 jours", "1 à 2 jours"],
+      ["Confirmé", "4 à 5 par semaine", "1 à 2 jours", "2 à 3 jours"],
+      ["Élite", "5 à 6 par semaine", "1 jour", "Quotidienne courte"]
+    ]},
+    {"type": "p", "html": "Cette grille est indicative. Le facteur clé reste l'écoute du corps. Si tu sens une fatigue cumulée, ajoute un jour off. Si tu rebondis bien, tu peux pousser un peu. Sur l'année, prévois aussi deux semaines de décharge totale, en hiver après la saison automnale et au printemps après l'hiver de force max."},
+    {"type": "h2", "text": "Récupération entre séances rapprochées"},
+    {"type": "p", "html": "Si tu enchaînes deux séances en 36 heures, optimise la récupération entre les deux. Boisson de récupération dans les 30 minutes après la première, dîner riche en glucides complexes et protéines, sommeil prioritaire. Le lendemain matin, automassage et 30 minutes de marche. L'après-midi peut servir pour la seconde séance sans déficit."},
+    {"type": "p", "html": "Évite les séances dures sur deux jours consécutifs si tu n'es pas habitué. Les pros le font, mais ils ont une charge cumulée d'années d'adaptation. Toi, tu paies en fatigue tendineuse et en risque de blessure. Préfère un cycle 2 jours grimpe, 1 jour off complet ou actif."},
+    {"type": "h2", "text": "Le bain froid et la cryothérapie"},
+    {"type": "p", "html": "Le bain froid, ou immersion à 10-15 degrés pendant 10 à 15 minutes, réduit l'inflammation post-séance. Utile après une grosse compétition ou un projet épuisant. À éviter en revanche tous les jours, parce que ça limite aussi les adaptations d'entraînement. La cryothérapie pro à -110 degrés est encore plus puissante mais coûte cher et reste réservée aux moments clés."},
+    {"type": "p", "html": "Mon usage personnel : trois bains froids par an, après les grosses sessions automnales en falaise. Le reste du temps, je m'en passe. Le rapport coût-bénéfice n'est intéressant que pour les pics de charge, pas pour la routine."},
+    {"type": "quote", "text": "Le jour off intelligent contient plus de progrès qu'une séance forcée. Le grimpeur qui sait se reposer dépasse celui qui s'épuise.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
+    {"type": "p", "html": "Pour aller plus loin, vois <a href=\"/blog/sommeil-performance-grimpe\">sommeil et performance en escalade</a> et <a href=\"/blog/alimentation-grimpeur-essentiel\">alimentation du grimpeur, les vrais leviers</a>. La <a href=\"/blog/preparer-corps-tete-grimpe\">préparation physique et mentale du grimpeur</a> détaille l'organisation hebdomadaire complète."}
+  ],
+  "faq": [
+    {"q": "Combien de jours off par semaine pour un grimpeur ?", "a": "Un à deux jours complets par semaine selon ton niveau et ton volume. Ajoute deux à trois jours de récupération active si tu grimpes quatre fois par semaine ou plus. La règle simple : si tu sens une fatigue cumulée qui ne passe pas, ajoute un jour off complet immédiatement."},
+    {"q": "Faut-il ne rien faire les jours off ?", "a": "Pas forcément. Un jour de récupération active avec marche, vélo doux ou natation accélère la récupération sans charger les structures fatiguées. Réserve la passivité complète une fois par semaine pour le système nerveux. Combine les deux types selon ton ressenti."},
+    {"q": "L'automassage est-il vraiment efficace ?", "a": "Oui, c'est démontré par plusieurs études en physiologie. Cinq minutes par avant-bras après une grosse séance débloque la pompe résiduelle, améliore la circulation et accélère la récupération musculaire. Le bénéfice est rapide et durable si tu le pratiques régulièrement."},
+    {"q": "Combien de temps pour récupérer d'une grosse séance ?", "a": "48 à 72 heures pour une séance moyenne, jusqu'à 96 heures pour une séance projet ou compétition. Les tendons et poulies sont les structures qui demandent le plus de temps. Si tu sens encore une raideur ou une douleur après 96 heures, prolonge la récupération avant de reprendre."},
+    {"q": "Le bain froid est-il utile en grimpe ?", "a": "Utile ponctuellement, après une grosse séance ou une compétition. Pas en routine quotidienne parce qu'il limite les adaptations d'entraînement à long terme. Compte 10 à 15 minutes à 10-15 degrés. Le rapport coût-bénéfice favorise l'usage occasionnel sur les pics de charge."}
+  ],
+  "cover_alt": "Grimpeur faisant un automassage des avant-bras avec une balle de tennis, fin de séance",
+  "internal_links": [
+    {"slug": "preparer-corps-tete-grimpe", "anchor": "la préparation physique et mentale du grimpeur", "context": "Pilier préparation"},
+    {"slug": "sommeil-performance-grimpe", "anchor": "sommeil et performance en escalade", "context": "Récupération sommeil"},
+    {"slug": "alimentation-grimpeur-essentiel", "anchor": "alimentation du grimpeur, les vrais leviers", "context": "Nutrition récupération"},
+    {"slug": "etirements-grimpeur-souplesse", "anchor": "étirements et souplesse", "context": "Mobilité récupération"},
+    {"slug": "endurance-continuite-grimpe", "anchor": "endurance et continuité", "context": "Volume séances"}
+  ],
+  "scheduled_at": "2027-02-20T09:00:00+01:00"
+}

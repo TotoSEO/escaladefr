@@ -1,0 +1,175 @@
+{
+  "slug": "verdon-secteurs-rappel-acces",
+  "cocon": "sites",
+  "type_article": "guide",
+  "numero": 84,
+  "title": "Verdon : accéder aux voies par rappel ou sentier pédestre",
+  "h1": "Verdon, accéder par rappel ou pédestre",
+  "description": "Comment accéder aux voies du Verdon par rappel depuis le plateau ou par sentier pédestre. Logistique, matériel, sécurité et secteurs concernés.",
+  "chapo": "Au Verdon, on ne grimpe pas comme ailleurs. La moitié des voies s'attaquent depuis le bas par sentier, l'autre depuis le haut en rappel. Cette logistique inversée donne au site son caractère unique, mais demande de bien planifier la journée. Voici ce qu'il faut savoir pour choisir ton accès, préparer ton matériel et ne pas te retrouver bloqué au milieu de la falaise.",
+  "takeaways": [
+    "Les voies du Verdon s'attaquent soit par rappel depuis le plateau, soit par sentier d'approche.",
+    "Les rappels font de 50 à 200 mètres et imposent deux brins de 70 mètres minimum.",
+    "Les sentiers pédestres comme le Sentier Blanc-Martel donnent accès à la rive sud.",
+    "Le matériel diffère selon l'accès, notamment pour les manœuvres en relais haut perché.",
+    "Le timing de la journée compte, l'accès par rappel allonge la durée totale d'une voie."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Deux logiques d'accès très différentes"
+    },
+    {
+      "type": "p",
+      "html": "Au Verdon, l'accès à la voie compte autant que la voie elle-même. Sur la rive gauche, depuis <strong>La Palud-sur-Verdon</strong>, la plupart des secteurs se rejoignent par le plateau. Tu te gares en bord de route, tu marches dix à trente minutes, puis tu lances un rappel de 50 à 200 mètres pour atteindre le relais d'attaque. La voie commence alors au milieu de la falaise. Tu remontes, tu retrouves ton sac sur le plateau, tu rentres."
+    },
+    {
+      "type": "p",
+      "html": "Sur la rive droite, depuis <strong>Aiguines</strong>, l'approche est plus classique. Tu descends par un sentier dans la pente jusqu'à la base de la falaise. Tu grimpes du bas vers le haut, sans rappel préalable. C'est plus rassurant pour un grimpeur peu habitué aux manœuvres complexes, mais l'approche peut être longue, parfois plus d'une heure dans un terrain caillouteux et exposé au soleil."
+    },
+    {
+      "type": "p",
+      "html": "Le choix entre rappel et sentier dépend aussi du niveau de la cordée. Une équipe expérimentée préférera souvent le rappel pour gagner du temps et démarrer la voie reposée. Une cordée plus modeste sera plus à l'aise par le sentier, même si l'approche fatigue. Cette logique influence le programme de la semaine, alternant rive nord et rive sud selon l'envie et la forme du jour."
+    },
+    {
+      "type": "h2",
+      "text": "Le rappel d'accès, signature du Verdon"
+    },
+    {
+      "type": "p",
+      "html": "Le rappel d'accès est l'une des spécialités du site. Il existe plusieurs grandes catégories. Les rappels courts, de 50 à 80 mètres, te déposent rapidement sur un relais intermédiaire. Les rappels moyens, de 100 à 150 mètres, demandent un brin de 70 mètres et une bonne gestion du frottement. Les longs rappels, jusqu'à 200 mètres, imposent deux brins de 70 et plusieurs reprises intermédiaires sur des relais aménagés."
+    },
+    {
+      "type": "p",
+      "html": "Sur la <strong>Demande</strong>, par exemple, tu pars du belvédère de la Demande sur le plateau, tu te vaches sur un relais équipé, tu lances un rappel de 80 mètres qui te dépose à mi-falaise sur un autre relais aménagé. De là, six longueurs te ramènent au sommet. Cette logistique imposait à l'époque des manœuvres acrobatiques. Aujourd'hui, l'<strong>Office du Tourisme du Verdon</strong> a sécurisé la plupart des relais d'accès avec des plaquettes neuves et des chaînes."
+    },
+    {
+      "type": "table",
+      "caption": "Typologie des accès",
+      "headers": ["Type d'accès", "Distance", "Matériel spécifique", "Voies concernées"],
+      "rows": [
+        ["Rappel court", "50 à 80 m", "1 brin de 70 m", "Demande, certaines voies de Mayreste"],
+        ["Rappel moyen", "100 à 150 m", "2 brins de 70 m", "Pichenibule, Mistic, ULA"],
+        ["Rappel long", "150 à 200 m", "2 brins de 70 m, descendeur autobloquant", "Trans-Verdon, Eric et les Verrous"],
+        ["Sentier d'approche", "30 min à 1 h", "Chaussures de marche", "Carelle, Pas du Galetas"],
+        ["Sentier long", "1 h à 2 h", "Sac d'approche complet", "Mayreste rive sud, secteurs reculés"]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Préparer un rappel d'accès sans stress"
+    },
+    {
+      "type": "p",
+      "html": "Le rappel d'accès doit se préparer avec rigueur. Avant de partir du plateau, vérifie chaque maillon. Les longueurs de corde, le descendeur autobloquant, le nœud en bout de corde pour éviter de sortir, le mousqueton de sécurité sur ton baudrier. Une fois engagé dans le rappel, tu ne pourras plus revenir simple. La concentration doit être totale dès le départ, surtout pour les premiers rappels de la saison où les automatismes ne sont pas encore en place."
+    },
+    {
+      "type": "p",
+      "html": "Le facteur humain compte beaucoup. Beaucoup d'accidents au Verdon ne viennent pas de la grimpe mais des rappels mal exécutés. Le syndrome de la corde courte, où tu sors de ton brin sans t'en rendre compte, reste une cause récurrente. Un descendeur autobloquant comme le Reverso en mode bloqué ou le Grigri en rappel élimine ce risque. Forme-toi à ces manœuvres en salle ou en école avant de t'aventurer sur les longues descentes."
+    },
+    {
+      "type": "tip",
+      "title": "La règle du nœud en bout",
+      "body": "Toujours faire un gros nœud en bout de chaque brin de rappel. Cette simple précaution évite la majorité des accidents par sortie de corde. Même si tu es sûr que la corde touche le bas, fais le nœud par réflexe systématique. Une seconde de manipulation peut sauver ta journée et ta vie.",
+      "tone": "attention"
+    },
+    {
+      "type": "h2",
+      "text": "L'accès par sentier, plus serein mais plus long"
+    },
+    {
+      "type": "p",
+      "html": "Sur la rive droite, plusieurs secteurs s'atteignent par sentier pédestre depuis Aiguines. Le secteur de la Carelle se rejoint en 30 minutes par un chemin balisé. Mayreste rive sud demande une bonne heure. Le célèbre <strong>Sentier Blanc-Martel</strong>, qui traverse le fond des gorges, dessert plusieurs voies isolées, mais demande une demi-journée de marche aller-retour. Vérifie ton timing pour ne pas finir dans le noir au milieu des gorges."
+    },
+    {
+      "type": "p",
+      "html": "L'avantage du sentier, c'est qu'il ne demande pas de matériel supplémentaire. Une bonne paire de chaussures, ton sac à dos d'escalade, et c'est parti. L'inconvénient, c'est l'effort. Tu arrives parfois en bas de la voie déjà bien échauffé, voire fatigué, surtout en été. Le retour se fait par les mêmes sentiers ou par le haut de la voie, selon l'organisation prévue. Prévois toujours une frontale dans le sac, les ombres tombent vite dans les gorges."
+    },
+    {
+      "type": "h2",
+      "text": "Logistique de matériel et préparation du sac"
+    },
+    {
+      "type": "p",
+      "html": "La logistique de matériel diffère sensiblement selon le type d'accès. Pour un rappel, tu ajoutes les deux brins de 70 mètres, le descendeur autobloquant, des sangles longues pour les relais, parfois un troisième brin pour aller chercher de l'eau au fond. Pour un sentier d'approche, tu peux te contenter d'une corde simple de 70 mètres ou même 60 si la voie le permet. La gestion du poids devient un facteur majeur sur les longues sorties."
+    },
+    {
+      "type": "p",
+      "html": "Prévois toujours trois litres d'eau par grimpeur en été, deux litres en intersaison. Une frontale même pour une sortie matinale. Un téléphone chargé avec les numéros de secours dans le sac. Une couverture de survie. Un peu de nourriture rapide à manger en relais. Cette préparation systématique change tout en cas d'incident. Le Verdon est un milieu engagé, le secours peut prendre plusieurs heures dans certains secteurs reculés."
+    },
+    {
+      "type": "h2",
+      "text": "Cas pratique, une sortie sur Pichenibule"
+    },
+    {
+      "type": "p",
+      "html": "<strong>Pichenibule</strong> illustre parfaitement la logistique verdonaise. Tu te gares au belvédère du Couloir Samson, tu marches vingt minutes sur le plateau jusqu'au relais de tête de Pichenibule. Tu te vaches sur les chaînes, tu prépares deux brins de 70 mètres. Le premier rappel fait 60 mètres jusqu'à un relais intermédiaire, le deuxième 80 mètres jusqu'au relais d'attaque. Tu te poses, tu manges un peu, tu lèves les yeux, douze longueurs te séparent du sommet."
+    },
+    {
+      "type": "p",
+      "html": "L'enchaînement prend généralement de six à huit heures, selon le rythme et le nombre de cordées. Tu sors au sommet épuisé mais comblé. Cette logique inversée, descendre puis remonter, marque profondément. Tu ne grimpes pas une voie au Verdon, tu vis une expédition miniature à chaque sortie. La satisfaction qui en résulte n'a pas d'équivalent dans la grimpe sportive classique."
+    },
+    {
+      "type": "p",
+      "html": "Le timing est crucial. Pars du parking entre sept et huit heures du matin pour éviter les autres cordées sur le rappel d'accès. Croiser deux cordées sur le même rappel ralentit énormément et peut générer des conflits. Compte trente minutes par cordée sur un relais d'attaque commun. Si tu vois trois équipes au pied de la voie, tente une voie voisine ou un secteur alternatif pour préserver ta journée."
+    },
+    {
+      "type": "h2",
+      "text": "Sécurité et secours dans les gorges"
+    },
+    {
+      "type": "p",
+      "html": "Les gorges du Verdon restent un milieu engagé où le secours peut être long. Le <strong>PGHM des Alpes-de-Haute-Provence</strong> intervient depuis Castellane, parfois en hélicoptère, parfois à pied selon la météo et la zone. Le réseau téléphonique est correct sur les plateaux mais s'effondre dans les gorges. Prévois un téléphone bien chargé et donne ton itinéraire à un proche avant de partir, avec une heure de retour prévue."
+    },
+    {
+      "type": "p",
+      "html": "En cas d'incident dans une voie, la règle d'or reste de garder ton calme et d'évaluer la situation. Si tu peux remonter ou descendre par tes propres moyens, fais-le prudemment. Sinon, vache-toi solidement, appelle les secours et attends. Beaucoup d'accidents s'aggravent par précipitation après une chute légère. Le Verdon impose un sang-froid permanent."
+    },
+    {
+      "type": "h2",
+      "text": "Pour approfondir ta connaissance du Verdon"
+    },
+    {
+      "type": "p",
+      "html": "L'accès est une partie de l'équation, la grimpe en est une autre. Pour comprendre les voies, les classiques et l'histoire du site, lis notre guide complet sur les <a href=\"/blog/verdon-grandes-voies\">grandes voies du Verdon</a>. Pour comparer avec d'autres grands sites, va voir <a href=\"/blog/sites-escalade-emblematiques-france\">les sites emblématiques de France</a> ou plonge dans <a href=\"/blog/ceuse-cathedrale-calcaire\">Céüse, cathédrale du calcaire</a>."
+    },
+    {
+      "type": "p",
+      "html": "Une dernière recommandation. Si tu n'as jamais fait de rappel de plus de 50 mètres, forme-toi avec un guide ou un grimpeur expérimenté avant de te lancer. Les manœuvres au Verdon ne pardonnent pas l'approximation. Quelques jours de stage en école valent dix sorties tâtonnantes en falaise, et te donneront les bases solides pour profiter pleinement de ce site exceptionnel."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quel matériel pour un rappel d'accès au Verdon ?",
+      "a": "Deux brins de 70 mètres minimum, un descendeur autobloquant, sangles longues pour les relais, mousquetons de sécurité, une frontale. Pour les très longs rappels, prévois parfois un troisième brin et un dispositif de remontée sur corde."
+    },
+    {
+      "q": "Combien de temps prévoir pour une grande voie au Verdon ?",
+      "a": "Compte six à huit heures pour une voie classique de huit à douze longueurs, en incluant l'accès par rappel et le retour sur le plateau. Les longues voies comme Trans-Verdon peuvent prendre dix à douze heures avec une cordée moyenne."
+    },
+    {
+      "q": "Peut-on faire le Verdon sans expérience de rappel ?",
+      "a": "Très difficilement. La quasi-totalité des classiques rive gauche imposent un rappel d'accès. Forme-toi avant de venir ou prends un guide pour les premières sorties. Une école comme Aiguines reste accessible sans rappel pour démarrer."
+    },
+    {
+      "q": "Où trouver les topos d'accès à jour ?",
+      "a": "Le topo Sébastien Bohin reste la référence imprimée et détaille tous les accès. L'application La Pal grimpe complète avec des photos récentes. Le bar du gîte de La Palud-sur-Verdon distribue parfois des bulletins d'infos sur les conditions."
+    },
+    {
+      "q": "Que faire si on se retrouve bloqué dans une voie ?",
+      "a": "Reste vaché, évalue la situation calmement. Si tu peux remonter en libre ou redescendre en rappel, fais-le prudemment. Sinon, appelle le 18 ou le 112. Le PGHM des Alpes-de-Haute-Provence intervient depuis Castellane."
+    },
+    {
+      "q": "Le sentier Blanc-Martel est-il ouvert toute l'année ?",
+      "a": "Il ferme généralement de novembre à avril pour des raisons de sécurité, et reste très exposé en plein été. La période idéale court de mai à octobre. Vérifie les conditions auprès du Parc naturel régional du Verdon."
+    }
+  ],
+  "cover_alt": "Grimpeur en rappel d'accès depuis le plateau du Verdon vers une grande voie",
+  "internal_links": [
+    {"slug": "verdon-grandes-voies", "anchor": "grandes voies du Verdon", "context": "Article parent sur les voies"},
+    {"slug": "sites-escalade-emblematiques-france", "anchor": "les sites emblématiques de France", "context": "Pilier du cocon"},
+    {"slug": "ceuse-cathedrale-calcaire", "anchor": "Céüse, cathédrale du calcaire", "context": "Autre site calcaire"},
+    {"slug": "fontainebleau-bloc-foret", "anchor": "Fontainebleau, capitale mondiale du bloc", "context": "Comparaison avec l'autre site mythique"}
+  ],
+  "scheduled_at": "2026-11-14T09:00:00+01:00"
+}

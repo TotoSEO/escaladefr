@@ -1,0 +1,79 @@
+{
+  "slug": "check-list-avant-grimper",
+  "cocon": "securite",
+  "type_article": "astuce",
+  "numero": 142,
+  "title": "Check-list sécurité avant de grimper : la liste complète",
+  "h1": "Check list complète avant de grimper, le rituel sécurité du grimpeur sérieux",
+  "description": "Check list sécurité avant de grimper : matériel, partenaire, météo, voie, communication et triple vérification, le rituel complet du grimpeur en falaise.",
+  "chapo": "Avant de poser la première main sur la prise, le grimpeur expérimenté passe par une check list mentale ou écrite. Matériel inspecté, partenaire prêt, voie repérée, météo confirmée, communication établie. Cette page reprend la check list complète, point par point, telle que je l'applique avant chaque sortie en falaise depuis dix ans. Cinq minutes de méthode pour éviter l'accident le plus bête.",
+  "takeaways": [
+    "La check list complète prend cinq minutes et sauve des heures d'arrêt sur blessure.",
+    "Le matériel se vérifie avant le départ du parking, jamais au pied de la voie.",
+    "La voie se repère visuellement et sur topo avant l'engagement.",
+    "La communication grimpeur assureur se cale avant le premier mouvement.",
+    "Une check list écrite vaut mieux qu'une check list mentale stressée."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Pourquoi une check list change tout"},
+    {"type": "p", "html": "L'idée vient de l'aviation. Les pilotes les plus expérimentés ont compris depuis cinquante ans que la **check list écrite** réduit drastiquement les erreurs humaines. Le cerveau humain, même brillant, oublie un point sur dix sous stress ou fatigue. La liste matérielle ferme cette brèche. L'escalade, qui partage avec l'aviation cette logique du facteur humain dominant, gagne énormément à appliquer la même discipline. Aucun grimpeur sérieux ne s'en passe en grande voie."},
+    {"type": "p", "html": "Tu peux la stocker dans ton téléphone, l'imprimer en petit format dans le sac, ou la mémoriser par blocs de trois ou quatre items. L'important, c'est de la **dérouler systématiquement**, pas occasionnellement. La routine est l'ennemie de la sécurité quand elle est aléatoire, elle devient l'amie quand elle est régulière. Tu peux relire <a href=\"/blog/verification-baudrier-corde-noeud\">notre fiche sur la triple vérification baudrier corde nœud</a> qui pose le rituel central."},
+    {"type": "h2", "text": "Bloc 1, le matériel au parking"},
+    {"type": "p", "html": "Première vérification, au parking ou à la maison avant de partir : tu inspectes le **matériel personnel** un à un. Baudrier sans usure visible, sangles intactes, anneau d'encordement propre. Corde inspectée sur toute sa longueur en la faisant glisser entre tes mains, à la recherche de zones molles ou de bosses dures. Chaussons en état, pas de semelle décollée. Système d'assurage propre, mousqueton à vis fonctionnel."},
+    {"type": "p", "html": "Tu vérifies aussi le **matériel collectif** de la cordée : nombre de dégaines (au moins 12 pour une voie sport), sangles, longes, autobloquant, anneaux cousus pour les rappels. Tu n'oublies pas le **casque obligatoire en falaise**, la couverture de survie, la trousse de premiers secours, le téléphone chargé. Une corde de rappel si tu sors en grande voie."},
+    {"type": "list", "variant": "cards", "title": "Le contenu type d'un sac de cordée falaise", "items": [
+      {"title": "Personnel", "body": "Baudrier, chaussons, magnésie, casque, longe, descendeur, système d'assurage, mousqueton à vis, gourde."},
+      {"title": "Collectif", "body": "Corde dynamique 70 m, 12 à 15 dégaines, sangles, anneaux cousus, autobloquant, plaquette de relais."},
+      {"title": "Sécurité", "body": "Trousse de premiers secours, couverture de survie, téléphone chargé, sifflet, frontale, papier crayon."},
+      {"title": "Confort", "body": "Sac à dos, doudoune, coupe vent, en cas, casquette, lunettes, crème solaire, topo papier ou téléphone."}
+    ]},
+    {"type": "h2", "text": "Bloc 2, la météo et l'horaire"},
+    {"type": "p", "html": "Tu consultes la **météo locale** la veille et le matin du départ. Sites recommandés : Météo France, Windy, Météo Blue. Tu regardes vent, température, probabilité de pluie, point de rosée. Une falaise au nord en hiver sera glaciale à 9h, parfaite à 14h. Une falaise sud en été deviendra invivable à partir de 11h. Le timing fait souvent la différence entre une bonne et une mauvaise journée."},
+    {"type": "p", "html": "Tu prévois aussi le **coucher du soleil** et la marche d'approche. Si tu sors une grande voie longue, tu pars tôt pour éviter la nuit. Tu peux consulter <a href=\"/blog/meteo-falaise-decider-renoncer\">notre guide sur la décision de partir ou renoncer en falaise</a> qui détaille les critères de go ou no go. Une heure de retard sur le timing planifié peut transformer une sortie agréable en cauchemar."},
+    {"type": "h2", "text": "Bloc 3, la voie et le topo"},
+    {"type": "p", "html": "Avant d'engager une voie, tu la **regardes du sol**. Tu lis le topo (livre ou application type Climb It, Sport27), tu identifies les difficultés, les pas clés, le nombre de dégaines, la hauteur totale, le type de relais en sommet (chaîne avec maillon, anneau à passer en moulinette, anneau de descente individuel). Tu repères les éventuels échappatoires si tu dois redescendre en cours de voie."},
+    {"type": "p", "html": "Tu adaptes ton choix à ton niveau du jour, **pas à ton meilleur niveau**. Un grimpeur en 7a peut souffrir sur un 6c froid ou mal échauffé. Le topo donne aussi la cotation engagement de la voie : un 6b R3 demande plus de sang froid qu'un 6b R1. Pour les sites moins connus, tu te renseignes sur la qualité du **scellement des plaquettes**, parfois variable selon les ouvreurs et l'âge des installations."},
+    {"type": "tip", "title": "Le piège de la voie sous estimée", "body": "À Buoux, j'ai engagé une 6b cotée facile par le topo qui s'est révélée terriblement déversante et sur petites prises. J'ai fini en bourrasque à la deuxième dégaine, fatigué, en mode survie. Depuis, je rajoute toujours mentalement une demi cotation au topo des sites que je connais peu. C'est bien plus humble et plus sûr.", "tone": "astuce"},
+    {"type": "h2", "text": "Bloc 4, le partenaire et la communication"},
+    {"type": "p", "html": "Tu te cales avec ton partenaire avant de partir. Vous **échangez sur le déroulement** : qui grimpe en tête, qui assure, qui prépare la corde, qui range, qui filme. Vous fixez le vocabulaire commun : **sec** pour tendre la corde, **mou** pour donner du mou, **du bas** pour redescendre, **vache** pour vacher au relais. Ce sont les mots standards utilisés partout en France. Pas de surprise possible en cours de voie."},
+    {"type": "p", "html": "Tu confirmes aussi le **niveau d'assurage** de ton partenaire : utilise t il un GriGri Petzl, un tube ATC, un Click Up Climbing Technology ? Sait il assurer dynamiquement ? A t il un badge passeport assurage validé ? S'il a peu d'expérience, tu adaptes ton engagement, tu clippes plus haut, tu ne tentes pas le pas à risque. Tu peux relire <a href=\"/blog/partenaire-grimpe-confiance\">notre article sur le choix d'un partenaire de grimpe</a> qui détaille comment évaluer la fiabilité."},
+    {"type": "h2", "text": "Bloc 5, la triple vérification au pied de la voie"},
+    {"type": "p", "html": "Avant que le grimpeur ne pose la main sur la première prise, tu déroules la **triple vérification** : baudrier bouclé sangle rabattue, nœud d'encordement en huit suivi avec nœud d'arrêt, système d'assurage monté correctement. Vérification individuelle plus contrôle croisé. Tu prends le temps. Tu peux relire <a href=\"/blog/verification-baudrier-corde-noeud\">notre fiche détaillée sur la triple vérification</a> qui décortique chaque étape."},
+    {"type": "p", "html": "Tu valides aussi que la **corde n'a pas de nœud parasite** sur sa longueur, qu'elle se libère bien du sac, que le partenaire au sol est bien positionné, ni trop loin ni trop près du mur. Tu vérifies que le casque est sur la tête et bien réglé. Ces deux minutes sont peut être les plus importantes de toute ta journée d'escalade. Tu ne sautes aucune étape."},
+    {"type": "h2", "text": "Bloc 6, la sortie de voie et le retour"},
+    {"type": "p", "html": "Avant même de monter, tu anticipes la **fin de voie**. Tu sais si le relais est en chaîne avec maillon, en anneau de descente ou en plaquette sans relais. Tu sais si tu vas redescendre en moulinette directe ou si tu vas devoir installer un rappel. En cas de doute, tu prends le topo en photo sur ton téléphone pour le relire au sommet. Beaucoup d'accidents en falaise arrivent en sortie de voie, parce que le grimpeur a improvisé une manœuvre inhabituelle."},
+    {"type": "p", "html": "Tu valides aussi le **mode de retour au parking** : sentier d'accès, dénivelé, durée. Tu prévoies une frontale si tu rentres au coucher du soleil. Tu informes éventuellement un proche du timing prévu, comme on remplit une **main courante** en alpinisme. C'est une habitude qui paraît exagérée jusqu'au jour où elle sauve. Tu peux compléter avec <a href=\"/blog/rappel-securite-procedure\">notre guide sur la procédure de rappel sécurisé</a> si tu sors en grande voie."},
+    {"type": "table", "caption": "Récapitulatif de la check list complète", "headers": ["Bloc", "Items à vérifier", "Timing"], "rows": [
+      ["Matériel", "Baudrier, corde, chaussons, casque, assureur", "Au parking, avant marche"],
+      ["Météo", "Vent, pluie, température, exposition, coucher soleil", "La veille et le matin"],
+      ["Voie", "Topo, cotation, hauteur, relais, échappatoires", "Au pied de la voie, avant départ"],
+      ["Partenaire", "Vocabulaire commun, niveau assurage, rôles", "Avant la première voie"],
+      ["Triple vérif", "Baudrier, nœud, système d'assurage", "Avant chaque montée"],
+      ["Sortie", "Type de relais, mode de descente, retour", "Anticipé au sol"]
+    ]},
+    {"type": "h2", "text": "Mon expérience de check list négligée"},
+    {"type": "p", "html": "À dix sept ans, je suis arrivé à Saint Léger du Ventoux un matin d'octobre, j'avais oublié la **frontale au camion**. Pas grave, on rentrera tôt. La journée a duré, on a engagé une grande voie de cinq longueurs, on est arrivé au relais final à 18h. Crépuscule, descente en rappel à organiser, et zéro lumière. On a improvisé avec la lampe torche d'un téléphone, batterie en chute libre. On a touché terre dans le noir complet."},
+    {"type": "p", "html": "Personne n'a été blessé, mais on a vécu deux heures de stress qui auraient pu basculer en accident. Depuis, ma frontale ne quitte plus la **poche basse de mon sac**, même par grand beau temps de juillet à 11h du matin. Une check list complète, ça prend cinq minutes. Une frontale oubliée, ça prend des heures et parfois des cordées entières."},
+    {"type": "quote", "text": "La check list, c'est l'aveu d'humilité du grimpeur expérimenté. Plus tu en sais, plus tu sais que tu peux oublier.", "author": "Antoine", "role": "rédacteur escalade-france.fr"},
+    {"type": "h2", "text": "Personnaliser sa check list selon la pratique"},
+    {"type": "p", "html": "La check list évolue selon le type de sortie. **Bloc en salle**, elle se résume à chaussons, magnésie, échauffement. **Voie en salle**, on ajoute le badge passeport et la communication partenaire. **Falaise sport monopitch**, on ajoute la météo, le casque, la trousse de secours. **Grande voie**, on ajoute les rappels, les vivres, les vêtements chauds, la frontale. **Escalade trad**, on ajoute le rack de coinceurs et la lecture spécifique du terrain. Adapte la liste à ton terrain de jeu."},
+    {"type": "p", "html": "Tu peux compléter ta lecture avec <a href=\"/blog/accidents-escalade-statistiques\">notre dossier sur les statistiques d'accidents en escalade</a> qui replace l'utilité de la check list dans son contexte de prévention. Et avec <a href=\"/blog/securite-escalade-regles-essentielles\">notre pilier sur les règles essentielles de sécurité</a> pour la vision d'ensemble. La check list est un outil, pas une religion. Elle s'adapte à ta pratique tout en gardant son cœur de discipline."}
+  ],
+  "faq": [
+    {"q": "Combien de temps prend une check list complète ?", "a": "Cinq à sept minutes pour la version complète au parking, plus trente secondes par voie pour la triple vérification au pied du mur. Ce timing inclut l'inspection du matériel personnel, la lecture du topo, le calage avec le partenaire et la mise en place initiale. Au début, ça peut paraître long. Après trois sorties, ça devient un automatisme rapide."},
+    {"q": "Faut il une check list écrite ou mentale ?", "a": "Une check list écrite reste plus fiable, surtout en début de pratique et en sortie complexe. Tu peux l'imprimer en petit format, la stocker en photo dans ton téléphone, ou utiliser une application dédiée. La version mentale fonctionne pour les pratiquants expérimentés sur des sortie connues, mais elle reste plus exposée à l'oubli sous stress."},
+    {"q": "Faut il vérifier le matériel à chaque sortie ?", "a": "Oui, systématiquement, même si tu as vérifié la veille. Le matériel d'escalade peut subir des dommages invisibles entre deux sorties : choc dans le coffre, exposition à la chaleur, dégradation chimique. La vérification visuelle au parking prend trente secondes par pièce et garantit que tu pars avec du matériel en état."},
+    {"q": "Une check list est elle utile en salle d'escalade ?", "a": "Oui, dans une version simplifiée. Tu vérifies chaussons, baudrier, badge passeport assurage, partenaire identifié, communication calée, échauffement fait. C'est moins long qu'en falaise mais ça reste un rituel utile, surtout pour les nouveaux grimpeurs qui construisent leur culture sécurité. Les bonnes habitudes prises en salle se reportent en falaise sans effort."},
+    {"q": "Que faire si je découvre un défaut sur mon matériel à la check list ?", "a": "Tu remplaces immédiatement la pièce concernée, ou tu annules la sortie si tu n'as pas de matériel de rechange. Aucun grimpeur sérieux ne grimpe avec un EPI douteux. Le matériel d'escalade est normé EN 12275 pour les mousquetons, EN 12277 pour les baudriers, EN 892 pour les cordes. Tout produit sortant de ces normes ou présentant un dommage visible se réforme sans discussion."}
+  ],
+  "cover_alt": "Grimpeur en falaise vérifiant méthodiquement son équipement au pied d'une voie, baudrier en main, casque posé sur le sac, corde lovée à côté",
+  "internal_links": [
+    {"slug": "securite-escalade-regles-essentielles", "anchor": "notre pilier sur les règles essentielles de sécurité", "context": "Pilier du cocon"},
+    {"slug": "verification-baudrier-corde-noeud", "anchor": "notre fiche détaillée sur la triple vérification", "context": "Article frère du cocon"},
+    {"slug": "meteo-falaise-decider-renoncer", "anchor": "notre guide sur la décision de partir ou renoncer en falaise", "context": "Article frère du cocon"},
+    {"slug": "partenaire-grimpe-confiance", "anchor": "notre article sur le choix d'un partenaire de grimpe", "context": "Article frère du cocon"},
+    {"slug": "rappel-securite-procedure", "anchor": "notre guide sur la procédure de rappel sécurisé", "context": "Article frère du cocon"},
+    {"slug": "accidents-escalade-statistiques", "anchor": "notre dossier sur les statistiques d'accidents en escalade", "context": "Article frère du cocon"}
+  ],
+  "scheduled_at": "2026-03-30T09:00:00+02:00"
+}

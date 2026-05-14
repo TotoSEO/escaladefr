@@ -1,0 +1,171 @@
+{
+  "slug": "corse-restonica-canyon",
+  "cocon": "sites",
+  "type_article": "guide",
+  "numero": 98,
+  "title": "Restonica : granite de haute montagne en Haute-Corse",
+  "h1": "Restonica, granite de haute montagne en Haute-Corse.",
+  "description": "Guide complet du val Restonica près de Corte : granite alpin, Monte Rotondo, lac Melo, escalade haute altitude et accès pratique.",
+  "chapo": "La Restonica, c'est l'âme alpine de la Corse. Une vallée encaissée au pied du Monte Rotondo, des lacs glaciaires à plus de 2 000 mètres, du granite alpin qui rappelle les Écrins. À 20 minutes de Corte, tu basculer dans un autre monde. Je prévois d'y monter cet été avec mon père, premier voyage corse. Voici les voies, les approches, l'altitude et les conditions de ce site rare.",
+  "takeaways": [
+    "La vallée de la Restonica grimpe jusqu'à 2 622 mètres au Monte Rotondo.",
+    "Le granite alpin offre fissures et dalles dans une ambiance haute montagne.",
+    "Les lacs Melo et Capitello sont à 2 heures de marche depuis la bergerie de Grotelle.",
+    "Saison limitée de juin à septembre à cause de l'altitude.",
+    "Accès depuis Corte par une route étroite, parking payant en été."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Pourquoi grimper dans la Restonica"
+    },
+    {
+      "type": "p",
+      "html": "La Restonica, c'est l'autre Corse, celle qui te rappelle pourquoi cette île s'appelle aussi la Montagne dans la Mer. Depuis Corte, la <strong>route monte 16 kilomètres</strong> dans une vallée granitique creusée par les glaciers, jusqu'à la bergerie de Grotelle à 1 370 mètres. De là, tu marches deux heures vers le lac Melo, puis encore 45 minutes vers le lac Capitello, l'un des plus hauts de Corse. Je n'y suis encore jamais allé, mais cette ascension fait partie de mon premier voyage corse prévu cet été."
+    },
+    {
+      "type": "p",
+      "html": "Le site n'est pas une falaise classique avec topo détaillé. C'est un univers d'alpinisme rocheux où tu choisis ta ligne, tu engages, tu protèges, tu redescends. Les arêtes du Monte Rotondo, du Monte d'Oro tout proche et de la chaîne centrale corse offrent des courses de grande envergure, parfois plusieurs jours, avec bivouacs aux lacs ou en altitude. C'est un terrain pour grimpeurs expérimentés qui savent évoluer en montagne autonome."
+    },
+    {
+      "type": "p",
+      "html": "Le caractère unique de la Restonica tient à son altitude et à son isolement. Tu grimpes à 2 000 mètres face à des paysages qui n'évoquent pas la Corse classique : pas de plage, pas de garrigue, pas d'oliviers. Plutôt des moraines, des couloirs neigeux jusqu'en juin, des plaques de granite poli par les glaciers. La rudesse de la nature et la qualité du rocher en font une destination parmi les plus appréciées des grimpeurs corses connaisseurs."
+    },
+    {
+      "type": "h2",
+      "text": "Le granite alpin de Haute-Corse"
+    },
+    {
+      "type": "p",
+      "html": "Le massif central corse est constitué d'un complexe granitique alcalin et magmatique daté du Permien, comme à Bavella mais avec une histoire glaciaire plus marquée. L'érosion des derniers glaciers, jusqu'à 10 000 ans avant notre ère, a sculpté des cirques, des arêtes effilées et des dalles polies. Le granite y est moins roux qu'à Bavella, plus gris, parfois bleuté selon l'éclairage et la composition minérale locale."
+    },
+    {
+      "type": "p",
+      "html": "Pour le grimpeur, ce granite offre des fissures parfaites pour les coinceurs, des dalles compactes à pieds, des dièdres ouverts. Tu trouves rarement des goujons, l'éthique locale privilégie la protection mobile. Les passages aériens sur arêtes effilées rappellent les itinéraires des Aiguilles Rouges ou du massif des Écrins. La pierre, peu polie sur les voies peu fréquentées, garde un grain abrasif qui accroche les chaussons et les doigts."
+    },
+    {
+      "type": "table",
+      "caption": "Fiche d'identité de la Restonica",
+      "headers": ["Critère", "Détail"],
+      "rows": [
+        ["Localisation", "Val di Restonica, Haute-Corse (2B)"],
+        ["Altitude max", "2 622 mètres au Monte Rotondo"],
+        ["Type de rocher", "Granite alcalin, dalles et fissures"],
+        ["Discipline", "Alpinisme rocheux, grande voie haute montagne"],
+        ["Cotations", "Du PD au TD, majorité AD à D"],
+        ["Période idéale", "Juin à septembre"],
+        ["Accès", "Corte par la D623, parking Grotelle payant"],
+        ["Approche", "1 à 3 heures depuis la bergerie selon l'objectif"]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Les sommets et arêtes principaux"
+    },
+    {
+      "type": "p",
+      "html": "Le <strong>Monte Rotondo</strong> domine la vallée à 2 622 mètres, deuxième plus haut sommet de Corse après le Monte Cinto. L'arête est offre une course AD avec quelques passages III sup, dans une ambiance haute montagne typique. L'approche dure 4 heures depuis Grotelle, et le sommet récompense par un panorama 360 degrés sur l'île entière, du Cap Corse au Cap Sagro. Les guides corses programment cette course en deux jours avec bivouac au lac Melo."
+    },
+    {
+      "type": "p",
+      "html": "La Punta alle Porte, plus modeste à 2 313 mètres, propose des voies courtes et accessibles sur ses faces sud et est. Cotations entre AD et D, longueurs de 100 à 200 mètres, idéales pour découvrir le granite alpin corse. Le Monte d'Oro, plus à l'ouest, offre l'une des arêtes les plus longues de l'île, traversée intégrale en 8 à 10 heures pour les marcheurs alpinistes confirmés. La chaîne centrale entière forme un terrain de jeu vaste, encore peu exploré comparé aux Alpes."
+    },
+    {
+      "type": "h2",
+      "text": "Les lacs Melo et Capitello"
+    },
+    {
+      "type": "p",
+      "html": "Le lac Melo, à 1 711 mètres, est l'objectif randonneur principal de la vallée. Depuis la bergerie de Grotelle, compte 1 h 30 à 2 heures de marche sur un sentier balisé. Le lac d'origine glaciaire repose dans un cirque granitique majestueux. Quelques voies sportives récentes ont été équipées sur les dalles autour du lac, courtes mais dans un cadre magique. C'est l'endroit idéal pour une journée moins engagée que les grandes courses."
+    },
+    {
+      "type": "p",
+      "html": "Le lac Capitello, à 1 930 mètres, demande 45 minutes supplémentaires depuis Melo. Plus sauvage, plus haut, il offre l'un des panoramas les plus puissants de Corse. Les couloirs et faces autour du lac proposent quelques itinéraires d'alpinisme rocheux, principalement entre PD et AD. La neige peut rester jusqu'en juin selon les années. Cette ambiance haute montagne corse fait du Capitello un objectif en soi, même sans grimpe technique."
+    },
+    {
+      "type": "list",
+      "variant": "bullets",
+      "title": "Courses principales en Restonica",
+      "items": [
+        {"title": "Monte Rotondo arête est", "body": "AD, course classique, panorama exceptionnel sur la Corse."},
+        {"title": "Punta alle Porte sud", "body": "D, 200 mètres, idéal pour découvrir le granite alpin."},
+        {"title": "Voies dalles lac Melo", "body": "Voies courtes équipées, 5 à 7a, cadre lacustre magique."},
+        {"title": "Couloirs Capitello", "body": "PD à AD, terrain mixte au printemps, randonnée alpine."},
+        {"title": "Arête Monte d'Oro", "body": "TD sup, traversée longue, course d'envergure 8-10 h."},
+        {"title": "Aiguille de Trifaglietto", "body": "AD, sommet secondaire accessible depuis Grotelle."}
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Accès, parking et logistique"
+    },
+    {
+      "type": "p",
+      "html": "L'accès se fait depuis Corte, capitale historique de la Corse, par la D623, route étroite qui longe la rivière Restonica. Compte 30 minutes pour parcourir les 16 kilomètres jusqu'à la bergerie de Grotelle. La route est fermée en hiver et le parking devient payant en haute saison, environ 8 euros la journée. En juillet et août, la fréquentation est telle qu'un service de navette est mis en place depuis Corte."
+    },
+    {
+      "type": "p",
+      "html": "Corte se trouve au cœur de la Corse, à 1 heure de Bastia, 1 h 15 d'Ajaccio. La ville propose tous les services nécessaires, hôtels, gîtes, supermarchés, librairie avec topos locaux. L'université de Corse anime la cité. Pour l'hébergement plus proche de la vallée, le camping Tuani sur la route et plusieurs gîtes ruraux offrent une base pratique. Le bivouac près des lacs reste autorisé selon les règles du Parc Naturel Régional, à condition de partir au lever du soleil."
+    },
+    {
+      "type": "tip",
+      "title": "Altitude et conditions montagne",
+      "body": "Même à 2 000 mètres en Corse, les conditions peuvent devenir alpines rapidement. Neige tardive jusqu'en juin, orages violents en juillet-août, brouillards soudains en septembre. Emporte vêtements chauds, lampe frontale, kit de survie. Le réseau téléphonique reste partiel dans la vallée, prévois un repli de descente.",
+      "tone": "attention"
+    },
+    {
+      "type": "h2",
+      "text": "Saisonnalité et conditions de grimpe"
+    },
+    {
+      "type": "p",
+      "html": "La saison principale s'étend de mi-juin à mi-septembre. Avant juin, la neige bouche les couloirs et rend les approches dangereuses. Après septembre, les nuits froides reviennent et les premiers flocons peuvent tomber dès octobre en altitude. Juillet et août offrent les conditions les plus stables, mais aussi la plus forte fréquentation. Les week-ends de plein été, le parking de Grotelle se remplit dès 8 heures du matin."
+    },
+    {
+      "type": "p",
+      "html": "Les orages d'été constituent le principal danger. La position centrale du massif corse crée des cellules convectives violentes en fin d'après-midi. La règle classique de l'alpinisme s'applique : départ avant 6 heures, sommet avant midi, retour à l'abri avant 14 heures. Vérifie Météo Corse et les bulletins du Parc Naturel Régional, qui diffusent des alertes spécifiques en cas d'instabilité forte."
+    },
+    {
+      "type": "h2",
+      "text": "Préparer ton expédition en Restonica"
+    },
+    {
+      "type": "p",
+      "html": "Le matériel pour la Restonica relève de l'alpinisme rocheux complet. Casque, baudrier confortable, deux cordes de 50 ou 60 mètres pour les rappels, jeu complet de coinceurs et friends, sangles longues, six à huit dégaines, mousquetons à vis. Pour les courses du Rotondo ou du Monte d'Oro, ajoute piolet et crampons légers au printemps. Le topo Corse alpinisme et grandes voies de Pierre Pellissier reste la référence, disponible en librairie de montagne."
+    },
+    {
+      "type": "p",
+      "html": "Pour préparer ton séjour corse, lis aussi <a href=\"/blog/corse-bavella-aiguilles\">le guide complémentaire sur Bavella</a> dans le sud de l'île. Tu peux enchaîner les deux sites en une semaine pour découvrir les deux visages du granite corse. Lis aussi <a href=\"/blog/sites-escalade-emblematiques-france\">notre panorama des sites français</a> et <a href=\"/blog/aiguille-midi-chamonix-haute\">le guide de l'Aiguille du Midi</a>, pour comparer haute altitude continentale et insulaire."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quel niveau pour grimper en Restonica ?",
+      "a": "Il faut maîtriser l'alpinisme rocheux et la pose de protections sur friends et coinceurs. Un niveau D en grande voie convient pour la plupart des courses. Les voies sportives autour du lac Melo restent accessibles aux grimpeurs 6a autonomes en grande voie équipée."
+    },
+    {
+      "q": "Comment accéder au val Restonica ?",
+      "a": "Depuis Corte par la D623, route étroite de 16 kilomètres en 30 minutes. Parking payant à la bergerie de Grotelle en haute saison. Une navette fonctionne en juillet-août depuis Corte. La route est fermée en hiver de novembre à avril selon les conditions."
+    },
+    {
+      "q": "Peut-on bivouaquer en Restonica ?",
+      "a": "Le bivouac est toléré dans le Parc Naturel Régional sous conditions : entre 19 heures et 8 heures, hors zones interdites, sans feu. Près des lacs Melo et Capitello, des emplacements sont identifiés. Respecte la nature et redescends tes déchets pour préserver le site."
+    },
+    {
+      "q": "Quand grimper en Restonica ?",
+      "a": "De mi-juin à mi-septembre. Juillet et août sont les plus stables mais fréquentés. Juin offre des jours longs et de la neige fondante, septembre une lumière dorée et moins de monde. Évite les périodes hors saison sauf en alpinisme hivernal pour très expérimentés."
+    },
+    {
+      "q": "Faut-il un guide en Restonica ?",
+      "a": "Pour les courses comme le Monte Rotondo, oui si tu n'es pas autonome en alpinisme rocheux. Les guides corses connaissent les voies et adaptent à ton niveau. Pour les voies équipées du lac Melo, un grimpeur expérimenté peut s'engager seul avec partenaire."
+    }
+  ],
+  "cover_alt": "Lacs glaciaires et granite alpin dans le val Restonica en Haute-Corse",
+  "internal_links": [
+    {"slug": "corse-bavella-aiguilles", "anchor": "le guide complémentaire sur Bavella", "context": "Autre site corse à enchaîner"},
+    {"slug": "sites-escalade-emblematiques-france", "anchor": "notre panorama des sites français", "context": "Pilier du cocon"},
+    {"slug": "aiguille-midi-chamonix-haute", "anchor": "le guide de l'Aiguille du Midi", "context": "Autre haute altitude française"},
+    {"slug": "dent-crolles-chartreuse", "anchor": "la Dent de Crolles", "context": "Autre sommet emblématique"}
+  ],
+  "scheduled_at": "2026-12-17T09:00:00+01:00"
+}

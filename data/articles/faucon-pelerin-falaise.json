@@ -1,0 +1,64 @@
+{
+  "slug": "faucon-pelerin-falaise",
+  "cocon": "environnement",
+  "type_article": "astuce",
+  "numero": 146,
+  "title": "Faucon pelerin en falaise : l'oiseau qui ferme tes voies",
+  "h1": "Le faucon pelerin, espece protegee qui partage nos falaises",
+  "description": "Tout savoir sur le faucon pelerin, oiseau emblematique des falaises, son cycle de nidification et pourquoi sa presence ferme des secteurs entiers chaque printemps.",
+  "chapo": "Le faucon pelerin, c'est ce rapace gris ardoise qui plonge a 380 km/h sur sa proie. Il niche sur les surplombs des falaises ou nous grimpons. Connaitre son cycle, savoir le reconnaitre et comprendre pourquoi il merite nos amenagements de saison, c'est la base du respect des sites. Antoine te raconte ses observations et le ressort d'une cohabitation devenue normale.",
+  "takeaways": [
+    "Le faucon pelerin couve d'avril a juin sur des vires de falaise difficiles d'acces.",
+    "Espece classee protegee au niveau national, sa protection est inscrite a l'article L411-1 du Code de l'Environnement.",
+    "Sa population a remonte de 200 couples a 1500 en France depuis l'interdiction du DDT en 1971.",
+    "Reconnaissable a son cri strident et a son vol piqueur, il chasse en aerien au-dessus de la falaise.",
+    "Un derangement repete pendant la couvaison fait abandonner le nid pour la saison entiere.",
+    "La LPO suit les couples actifs et transmet l'information aux comites departementaux FFME."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Portrait d'un rapace exceptionnel"},
+    {"type": "p", "html": "Le <strong>faucon pelerin</strong>, Falco peregrinus pour les naturalistes, est l'animal le plus rapide du monde. En piqué de chasse, il atteint 380 km/h, vitesse mesurée par radar dans les annees 2000. Son envergure dépasse rarement un metre, son poids tient entre 600 grammes et 1,2 kilo. Le mâle reste plus petit que la femelle, particularité commune chez les rapaces. Tu le reconnais a son dos gris ardoise, son ventre rayé clair et sa moustache noire bien marquée sous l'œil."},
+    {"type": "p", "html": "Le pelerin niche sur les surplombs, les vires inaccessibles, les grandes failles verticales. Il ne construit pas de nid au sens classique. Il occupe une simple plateforme rocheuse, parfois agrémentée de plumes et de regurgitations. Son aire est utilisée annee apres annee, parfois pendant des decennies par les memes lignées. Quand tu vois des fientes blanches sur une vire, des plumes éparses au pied de la falaise, tu sais qu'un couple occupe la zone."},
+    {"type": "p", "html": "La premiere fois que j'ai vu un pelerin chasser, c'etait en juin au-dessus du Saussois. Un pigeon traversait la falaise, le faucon est sorti d'un surplomb a vingt metres au-dessus de ma cordée. Le piqué a dure deux secondes, le bruit de l'impact m'est resté en tete pendant des annees. Depuis je sais reconnaitre son cri d'alarme et je m'eloigne quand je l'entends, meme si la voie n'est pas officiellement fermée."},
+    {"type": "h2", "text": "Cycle de nidification et calendrier"},
+    {"type": "p", "html": "Le couple revient sur l'aire en janvier ou février. La parade nuptiale dure quelques semaines, avec des vols spectaculaires. La ponte intervient entre fin mars et mi-avril, généralement trois ou quatre œufs. La couvaison dure 29 jours, assurée à 90 pour cent par la femelle. Les jeunes éclosent vers fin avril ou début mai. Ils restent au nid 35 a 42 jours avant le premier envol."},
+    {"type": "p", "html": "Une fois envolés, les jeunes restent dépendants des parents pendant deux mois supplementaires. Ils apprennent à chasser sur le secteur immédiat de l'aire. C'est pour cette raison que les fermetures pour <a href=\"/blog/nidification-falaise-arret\">arrêté préfectoral de nidification</a> s'étirent souvent jusqu'à fin juin, parfois mi-juillet. La période sensible commence vraiment dès le retour du couple en février, mais les fermetures officielles démarrent souvent au 1er février ou 1er mars selon les départements."},
+    {"type": "list", "variant": "cards", "title": "Reconnaitre le faucon pelerin sur ta sortie", "items": [
+      {"title": "Silhouette en vol", "body": "Ailes pointues, queue assez courte, vol direct et puissant. Battements rapides alternés avec planés serrés."},
+      {"title": "Plumage adulte", "body": "Dos et tete gris ardoise sombre. Ventre clair barré de fines rayures sombres. Moustache noire très marquée."},
+      {"title": "Cri caractéristique", "body": "Une série de kek-kek-kek stridents répétés, surtout en cas de dérangement de l'aire."},
+      {"title": "Vol de chasse", "body": "Cercles en altitude puis piqué vertical sur la proie. Vitesse impressionnante, impact sonore."},
+      {"title": "Aire au sol", "body": "Plumes d'oiseaux mangés, fientes blanches sur les rebords, parfois ossements de pigeons."}
+    ]},
+    {"type": "h2", "text": "Une histoire de remontée spectaculaire"},
+    {"type": "p", "html": "L'histoire du pelerin en France est un cas d'école de la conservation. Dans les annees 1960, la population franchit le seuil des 200 couples. Le coupable, c'est le DDT, insecticide qui s'accumule dans la chaîne alimentaire et qui fragilise la coquille des œufs. La femelle pond, et l'œuf casse sous son poids pendant la couvaison. L'espece se rapproche dangereusement de l'extinction sur la facade ouest-européenne."},
+    {"type": "p", "html": "Le DDT est interdit en France en 1971. La protection légale est renforcée la meme decennie. Les nicheurs sont surveillés, les aires actives cartographiées. La <strong>LPO</strong> mobilise un réseau de bénévoles qui suit chaque couple année après année. En cinquante ans, la population remonte de 200 a 1500 couples nicheurs estimés. La reconquête concerne tous les massifs francais, y compris les sites urbains comme Notre-Dame de Paris ou les tours de La Défense."},
+    {"type": "p", "html": "Cette reconquête tient en partie a la protection légale, en partie a l'effort des grimpeurs qui respectent les fermetures. Les arrêtés préfectoraux ne fonctionnent que si la communauté joue le jeu. Quand un secteur est respecté pendant cinq saisons, le couple s'installe durablement et finit par tolérer une présence humaine raisonnable sur les voies plus éloignées."},
+    {"type": "h2", "text": "Ce que tu dois faire si tu observes un nid"},
+    {"type": "p", "html": "Sur une voie, tu peux tomber sur une aire active sans le savoir. Plumes au sol, fientes sur la paroi, regurgitations qui sentent fort. Si tu vois des poussins ou un adulte qui tourne autour de toi en lançant des cris d'alarme, le réflexe est simple. Tu redescends sans precipitation, tu changes de voie pour la journée, tu signales l'observation au comité départemental FFME ou à la LPO du département."},
+    {"type": "p", "html": "Le pelerin ne defend pas son nid en attaquant l'humain. Il manifeste son stress par des cris répétés et des vols circulaires de plus en plus serrés. Un dérangement court, ponctuel, ne fait généralement pas abandonner le nid. C'est la repetition qui pose problème. Si trois cordees consécutives passent sur la voie en une journée, le couple peut décider de quitter l'aire pour la saison."},
+    {"type": "tip", "title": "Le reflexe a adopter en cas de doute", "body": "Si tu hesites sur la presence d'une aire, demi-tour. Une fois en bas, contacte l'association locale ou consulte la cartographie LPO du departement. Mieux vaut perdre une matinée que provoquer l'abandon d'un couple. Le site sera ouvert l'année suivante si le couple reussit sa nidification.", "tone": "astuce"},
+    {"type": "h2", "text": "Comment la LPO suit les couples nicheurs"},
+    {"type": "p", "html": "Chaque hiver, les bénévoles de la LPO repartent en prospection sur les falaises connues. Ils scrutent les zones d'aire potentielle aux jumelles, identifient les couples en parade, notent les dates de ponte et d'éclosion. Cette base de données alimente directement les propositions d'arrêté préfectoral envoyées à la DREAL. Sans ce travail, les fermetures resteraient théoriques et déconnectées du terrain."},
+    {"type": "p", "html": "Le grimpeur lambda peut contribuer en signalant ses observations via le portail Faune-France ou directement par mail à la LPO départementale. Une photo de l'aire, une date, des coordonnées GPS approximatives suffisent. Le bénévole local complete avec ses propres observations et valide le signalement. Cette synergie entre naturalistes et grimpeurs a transformé la gestion des sites depuis 20 ans."},
+    {"type": "h2", "text": "Cohabiter sur le long terme"},
+    {"type": "p", "html": "Le pelerin n'est pas un adversaire du grimpeur, c'est un compagnon de falaise. Sur certains sites, les couples tolèrent la présence humaine sur les voies les plus éloignées de l'aire. Le Verdon, le Bugey, les Calanques connaissent des aires actives à 50 metres de voies grimpées. La cohabitation tient au respect du périmètre défini par les naturalistes, qui adaptent la zone selon le comportement du couple."},
+    {"type": "p", "html": "Sur les arretes préfectoraux récents, on voit apparaitre des fermetures de plus en plus précises. Une voie ferme, deux voies adjacentes restent ouvertes. Ce maillage fin demande un travail de cartographie naturaliste poussé. Les <a href=\"/blog/conventions-departementales-falaise\">conventions départementales d'accès</a> formalisent ce partage du territoire vertical entre activités humaines et faune sauvage."},
+    {"type": "p", "html": "Pour aller plus loin sur la cohabitation, regarde aussi <a href=\"/blog/grimper-respect-sites-faune\">la vue d'ensemble du respect des sites et de la faune</a> et <a href=\"/blog/parc-national-escalade-regles\">les règles spécifiques aux parcs nationaux</a> qui ajoutent une couche de protection sur les massifs sensibles. Le pelerin a fait son retour grâce a une mobilisation collective, c'est un succes que les grimpeurs partagent avec les naturalistes."}
+  ],
+  "faq": [
+    {"q": "Que faire si je tombe sur un nid pendant ma voie ?", "a": "Redescends sans precipitation, change de voie pour le reste de la journée, ne reviens pas sur le secteur avant la fin de la nidification. Signale l'observation au comité départemental FFME ou à la LPO. Cette remontée d'information aide à ajuster les fermetures pour les années suivantes et protège la cohabitation à long terme."},
+    {"q": "Combien de temps dure la couvaison du faucon pelerin ?", "a": "La couvaison dure 29 jours, généralement entre fin mars et fin avril. Les jeunes restent ensuite au nid 35 à 42 jours avant le premier envol. Au total, la période sensible s'étire de février à fin juin, parfois mi-juillet pour permettre l'apprentissage de la chasse par les jeunes."},
+    {"q": "Le faucon pelerin attaque-t-il les grimpeurs ?", "a": "Non, le pelerin ne défend pas son nid en attaquant physiquement. Il manifeste son stress par des cris d'alarme stridents et des vols circulaires. Ce sont des signaux à respecter en quittant la zone immédiatement, mais aucun cas d'attaque sur grimpeur n'est documenté en France."},
+    {"q": "Comment savoir si une falaise abrite un pelerin ?", "a": "Consulte les cartographies de la LPO du département, le site internet de la prefecture pour les arretes en cours, et l'application Camptocamp pour les remontées de grimpeurs. Sur place, les indices sont fientes blanches sur les rebords, plumes d'oiseaux au sol et cris caractéristiques en vol."},
+    {"q": "Pourquoi la population a-t-elle remonté en cinquante ans ?", "a": "L'interdiction du DDT en 1971, qui fragilisait les coquilles d'œufs, a permis le redémarrage. La protection légale, la surveillance par la LPO et le respect des fermetures par les grimpeurs ont fait le reste. La population française est passée de 200 à environ 1500 couples nicheurs depuis."}
+  ],
+  "cover_alt": "Faucon pelerin adulte en vol au-dessus d'une falaise calcaire avec son plumage gris ardoise et sa moustache noire caracteristique",
+  "internal_links": [
+    {"slug": "grimper-respect-sites-faune", "anchor": "la vue d'ensemble du respect des sites et de la faune", "context": "Pilier du cocon"},
+    {"slug": "nidification-falaise-arret", "anchor": "arrêté préfectoral de nidification", "context": "Cadre legal"},
+    {"slug": "conventions-departementales-falaise", "anchor": "conventions départementales d'accès", "context": "Cohabitation locale"},
+    {"slug": "parc-national-escalade-regles", "anchor": "les règles spécifiques aux parcs nationaux", "context": "Protection renforcee"}
+  ],
+  "scheduled_at": "2027-04-08T09:00:00+02:00"
+}

@@ -1,0 +1,260 @@
+{
+  "slug": "noeud-tete-alouette-sangle",
+  "cocon": "noeuds",
+  "type_article": "astuce",
+  "numero": 73,
+  "title": "Tête d'alouette sur sangle : usage, limites et bonne pratique",
+  "h1": "La tête d'alouette sur sangle en escalade",
+  "description": "La tête d'alouette pour fixer une sangle sur un point d'ancrage, perte de résistance, alternatives validées et bonne pratique en relais sur arbre.",
+  "chapo": "La tête d'alouette sur sangle relie rapidement un anneau de sangle à un point d'ancrage comme un arbre, un piton ou le pontet du baudrier. Simple à tracer, elle souffre d'une perte de résistance significative et fait l'objet d'un débat permanent entre simplicité et fiabilité. Tracé, mesures de charge, alternatives validées et cadre d'usage raisonné pour profiter de ses avantages sans tomber dans ses pièges.",
+  "takeaways": [
+    "La tête d'alouette se trace en glissant un anneau de sangle autour d'un point d'ancrage puis en passant la sangle à travers elle-même.",
+    "Elle réduit la charge de rupture de la sangle de 25 à 40 % selon la géométrie, perte significative à intégrer dans le dimensionnement.",
+    "Acceptable sur points larges comme un arbre ou un becquet rocheux, déconseillée sur mousqueton ou point étroit où elle se concentre dangereusement.",
+    "Sur sangle Dyneema fine, la perte de résistance peut atteindre 50 %, ce qui rend l'usage critique pour les ancrages principaux.",
+    "La FFME recommande de privilégier le passage simple de la sangle dans l'ancrage et fermeture par mousqueton plutôt que la tête d'alouette."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "La tête d'alouette dans la famille des nœuds sur sangle"
+    },
+    {
+      "type": "p",
+      "html": "La <strong>tête d'alouette</strong>, parfois appelée nœud d'alouette ou girth hitch en anglais, appartient à la famille des nœuds de fixation rapide sur sangle. Son tracé tient en deux secondes : tu glisses ton anneau de sangle autour du point d'ancrage, puis tu passes une extrémité de la sangle à travers l'autre. Le résultat est une boucle fermée qui se serre sur le point d'ancrage sous tension. Cette simplicité explique sa popularité, malgré une perte de résistance qui en limite sérieusement l'usage. Pour situer ce nœud parmi les autres, consulte le <a href=\"/blog/noeuds-escalade-utiles-guide\">panorama des nœuds utiles en escalade</a>."
+    },
+    {
+      "type": "p",
+      "html": "Contrairement au nœud papillon ou au cabestan tracés sur une corde, la tête d'alouette est exclusivement un nœud de sangle. Elle se trace sur anneau de sangle cousue ou sur anneau ouvert serré par nœud. Son usage le plus typique reste la fixation rapide d'un anneau de sangle autour d'un arbre, d'un becquet rocheux ou d'un piton lors de la confection d'un relais en grande voie ou en falaise."
+    },
+    {
+      "type": "p",
+      "html": "J'ai découvert la tête d'alouette en juin 2024 lors d'une sortie en grande voie aux Aiguilles de Bavella, où il fallait équiper un relais sur arbre. Le moniteur a montré la tête d'alouette comme solution de secours rapide, en précisant immédiatement les limites de résistance et en préférant systématiquement d'autres méthodes quand le contexte le permettait. C'est typique du débat permanent sur ce nœud : pratique mais imparfait."
+    },
+    {
+      "type": "h2",
+      "text": "Le tracé de la tête d'alouette, étape par étape"
+    },
+    {
+      "type": "p",
+      "html": "Le tracé de la tête d'alouette se compte en secondes. C'est probablement le nœud le plus simple du répertoire d'escalade, ce qui fait à la fois sa force et sa faiblesse. La simplicité du geste cache une complexité géométrique réelle : selon le diamètre du point d'ancrage et la tension appliquée, la sangle se déforme différemment, ce qui modifie la charge de rupture de manière significative."
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Les quatre gestes de la tête d'alouette",
+      "items": [
+        {
+          "title": "Préparer l'anneau de sangle",
+          "body": "Vérifie que ta sangle forme bien un anneau fermé, soit par couture industrielle, soit par un nœud de pêcheur double. La longueur courante pour relais sur arbre est de 120 cm, à doubler en deux brins parallèles."
+        },
+        {
+          "title": "Glisser la sangle autour du point d'ancrage",
+          "body": "Passe l'anneau autour de l'arbre, du becquet ou du point fixe à équiper. La sangle entoure complètement le point, en restant à plat sans torsade."
+        },
+        {
+          "title": "Passer une extrémité dans l'autre",
+          "body": "Saisis une boucle de la sangle et passe-la à travers l'autre boucle, en tirant pour réduire l'anneau autour du point d'ancrage. Le résultat est un nœud qui se serre sur le point."
+        },
+        {
+          "title": "Serrer et vérifier la géométrie",
+          "body": "Tire fortement sur la boucle libre pour serrer la tête d'alouette autour du point. La sangle doit épouser le point sans plis aigus ni torsades, et présenter une face plate qui reçoit le mousqueton de relais."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "html": "L'exécution prend cinq à dix secondes même pour un débutant. La simplicité du geste explique sa popularité en formation initiation, où il rassure les apprentis qui peinent encore sur les nœuds plus complexes. La <a href=\"/blog/retenir-noeuds-escalade-methode\">mémorisation du geste</a> est immédiate, ce qui n'est pas le cas du papillon ou du cabestan."
+    },
+    {
+      "type": "h2",
+      "text": "La perte de résistance, point critique du nœud"
+    },
+    {
+      "type": "p",
+      "html": "Le principal défaut de la tête d'alouette tient à sa <strong>perte de résistance</strong>. Les essais en laboratoire de l'UIAA et de la DAV montrent qu'une sangle qui résiste nominalement à 22 kN perd 25 à 40 % de sa charge de rupture une fois tracée en tête d'alouette. Sur sangle Dyneema fine de 11 mm, la perte peut atteindre 50 %, ramenant la résistance résiduelle à environ 11 kN, valeur encore acceptable mais nettement inférieure à la nominale."
+    },
+    {
+      "type": "p",
+      "html": "Cette perte s'explique par la <strong>concentration des contraintes</strong> au point de passage de la sangle dans elle-même. Les fibres se plient à angle aigu, ce qui crée un cisaillement localisé. Sur un point d'ancrage de petit diamètre comme un mousqueton, l'angle de pliure devient plus serré et la perte de résistance s'aggrave. Sur un point d'ancrage large comme un arbre de 30 cm de diamètre, l'angle reste ouvert et la perte se limite à 25 %."
+    },
+    {
+      "type": "p",
+      "html": "Concrètement, la tête d'alouette reste fonctionnelle dans la grande majorité des cas. Une chute facteur 1 génère 6 à 9 kN de force au point d'ancrage, valeur largement compatible avec une sangle ramenée à 11 ou 15 kN par la tête d'alouette. Le problème devient critique uniquement en cas de chute facteur 2 ou de mise en charge dynamique extrême, situations heureusement rares."
+    },
+    {
+      "type": "h2",
+      "text": "Quand la tête d'alouette est acceptable"
+    },
+    {
+      "type": "p",
+      "html": "Trois situations rendent la tête d'alouette acceptable malgré sa perte de résistance. Première situation, la fixation d'une sangle autour d'un <strong>arbre suffisamment large</strong>, de 15 cm de diamètre ou plus. La pliure de la sangle reste douce et la perte de résistance modérée. Deuxième situation, la fixation autour d'un becquet rocheux arrondi, dans les mêmes conditions de diamètre."
+    },
+    {
+      "type": "p",
+      "html": "Troisième situation, l'attache rapide d'une sangle au pontet du baudrier pour une longe d'autosauvetage occasionnelle. L'angle reste relativement ouvert sur un pontet épais, et la sollicitation reste statique en autosauvetage. Cette pratique reste néanmoins discutée par certains formateurs qui préfèrent un mousqueton à vis pour cette fonction."
+    },
+    {
+      "type": "h2",
+      "text": "Quand l'éviter absolument"
+    },
+    {
+      "type": "p",
+      "html": "Plusieurs situations imposent d'écarter la tête d'alouette. Première situation, la fixation sur <strong>mousqueton</strong> ou plaquette d'ancrage de petit diamètre, où la pliure aiguë de la sangle peut faire perdre plus de 50 % de la résistance. Préfère systématiquement un passage simple de la sangle dans la plaquette et fermeture par mousqueton à vis."
+    },
+    {
+      "type": "p",
+      "html": "Deuxième situation, l'usage en sangle Dyneema fine pour un point d'ancrage critique. La perte de résistance et l'inélasticité du Dyneema cumulent les facteurs défavorables. Sur ce type de sangle, le passage simple par anneau et mousqueton reste largement préférable."
+    },
+    {
+      "type": "p",
+      "html": "Troisième situation, toute configuration où la sangle peut subir une <strong>charge dynamique élevée</strong>, par exemple en pied de voie comme point d'assurage du leader. La perte de résistance combinée à la charge potentielle d'une chute facteur 2 sort de la marge de sécurité acceptable."
+    },
+    {
+      "type": "tip",
+      "title": "Le test de l'angle de pliure",
+      "body": "Avant de te fier à une tête d'alouette, regarde l'angle de pliure de la sangle au point de passage. Si l'angle est ouvert, supérieur à 120 degrés, la perte de résistance reste modérée. Si l'angle se ferme à moins de 90 degrés, la concentration des contraintes devient critique et il vaut mieux changer de méthode. Cette vérification visuelle prend deux secondes et évite la grande majorité des situations à risque.",
+      "tone": "attention"
+    },
+    {
+      "type": "h2",
+      "text": "Les alternatives à la tête d'alouette"
+    },
+    {
+      "type": "p",
+      "html": "Trois alternatives validées remplacent avantageusement la tête d'alouette selon le contexte. Première alternative, le <strong>passage simple de la sangle</strong> autour du point puis fermeture par mousqueton à vis HMS. Cette méthode préserve 100 % de la résistance de la sangle, au prix d'un mousqueton supplémentaire dans le système."
+    },
+    {
+      "type": "p",
+      "html": "Deuxième alternative, le <a href=\"/blog/noeud-cabestan-relais\">nœud de cabestan sur mousqueton à vis</a>, plus rapide à tracer et qui se règle finement en longueur. Le cabestan reste exclusivement utilisable sur corde dynamique, pas sur sangle. Troisième alternative, le double passage de la sangle autour du point pour augmenter la surface de contact, technique utile sur becquets ou arbres très étroits."
+    },
+    {
+      "type": "table",
+      "caption": "Tête d'alouette et alternatives selon le contexte",
+      "headers": [
+        "Situation",
+        "Recommandation",
+        "Résistance préservée"
+      ],
+      "rows": [
+        [
+          "Sangle autour arbre 15 cm",
+          "Tête d'alouette acceptable",
+          "70-75 %"
+        ],
+        [
+          "Sangle autour mousqueton",
+          "Passage simple + mousqueton",
+          "100 %"
+        ],
+        [
+          "Sangle Dyneema fine",
+          "Passage simple obligatoire",
+          "100 %"
+        ],
+        [
+          "Longe autosauvetage",
+          "Tête d'alouette acceptable",
+          "70-75 %"
+        ],
+        [
+          "Point relais grande voie",
+          "Passage simple préférable",
+          "100 %"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Le débat permanent autour de ce nœud"
+    },
+    {
+      "type": "p",
+      "html": "La tête d'alouette traîne un débat permanent dans la communauté escalade depuis les années 1990. Certains formateurs FFME la considèrent comme acceptable dans son champ d'usage validé, à condition d'en connaître les limites. D'autres recommandent de la <strong>bannir complètement</strong> au profit du passage simple, au motif que la perte de résistance même partielle reste inacceptable sur un point critique."
+    },
+    {
+      "type": "p",
+      "html": "La position majoritaire en 2026 retient un compromis : tête d'alouette acceptable sur ancrages larges et charges statiques, alternative obligatoire sur ancrages étroits ou charges dynamiques élevées. Cette position pragmatique reconnaît à la fois l'utilité opérationnelle du nœud et ses limites mécaniques. Elle implique surtout que le grimpeur sache identifier la situation devant lui et choisir consciemment l'outil adapté."
+    },
+    {
+      "type": "h2",
+      "text": "Le cas particulier de la longe sur pontet"
+    },
+    {
+      "type": "p",
+      "html": "L'usage le plus banalisé de la tête d'alouette concerne la <strong>longe d'autosauvetage</strong> attachée au pontet du baudrier. Cette longe sert à se vacher au relais en grande voie, à se reposer entre deux longueurs ou à attendre son second. La tête d'alouette sur pontet reste largement pratiquée parce qu'elle évite un mousqueton supplémentaire sur le baudrier."
+    },
+    {
+      "type": "p",
+      "html": "Pour cet usage, la sollicitation reste essentiellement statique, équivalente au poids du grimpeur, soit 0,8 à 1 kN. La résistance résiduelle de 15 kN après tête d'alouette reste donc largement suffisante. Le seul risque concerne le scénario de chute en facteur 2 directement sur la longe, situation rarissime que la <a href=\"/blog/verifier-noeud-partenaire\">vérification des points d'ancrage</a> doit prévenir en amont."
+    },
+    {
+      "type": "quote",
+      "text": "La tête d'alouette, c'est le nœud que tu utilises en sachant exactement pourquoi. Sinon tu prends un mousqueton à vis et tu dors tranquille.",
+      "author": "Adage de moniteur",
+      "role": "transmis en formation FFME"
+    },
+    {
+      "type": "h2",
+      "text": "Apprentissage et automatisation"
+    },
+    {
+      "type": "p",
+      "html": "La tête d'alouette s'apprend en deux minutes, ce qui en fait souvent le premier nœud présenté en initiation. Le risque pédagogique majeur tient à sa simplicité trompeuse : les apprentis l'adoptent volontiers sans intégrer ses limites de résistance. Le bon enseignement présente toujours la tête d'alouette avec son cadre d'usage et ses alternatives, jamais comme solution universelle."
+    },
+    {
+      "type": "p",
+      "html": "En pratique régulière, la tête d'alouette devient un automatisme géré sans réflexion. C'est le moment où elle peut devenir problématique si tu l'appliques sans discernement dans des situations défavorables. Le réflexe utile consiste à vérifier mentalement à chaque utilisation : largeur du point d'ancrage acceptable, charge attendue compatible, alternative disponible si nécessaire. Trois questions, trois secondes, et tu sécurises ton choix."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Est-ce qu'on peut faire une tête d'alouette en grande voie ?",
+      "a": "Oui, sur des points d'ancrage larges comme un arbre robuste ou un becquet rocheux arrondi. À éviter sur les plaquettes d'ancrage métalliques et sur mousqueton, où la pliure aiguë de la sangle fait perdre plus de 40 % de la résistance. En grande voie engagée, le passage simple de la sangle dans l'ancrage et fermeture par mousqueton à vis reste la méthode préférée."
+    },
+    {
+      "q": "Combien de temps tient une tête d'alouette sous charge ?",
+      "a": "Indéfiniment sur charge statique. Le nœud ne se défait pas spontanément, et reste fonctionnel après plusieurs cycles de tension. La perte de résistance reste constante dans le temps, sans dégradation supplémentaire au-delà de la perte initiale. Une longe sur pontet en tête d'alouette peut rester en place sur plusieurs séances sans inquiétude."
+    },
+    {
+      "q": "Quelle différence avec le passage simple plus mousqueton ?",
+      "a": "Le passage simple préserve 100 % de la résistance de la sangle, la tête d'alouette en perd 25 à 50 %. Le passage simple nécessite un mousqueton supplémentaire, la tête d'alouette s'en passe. Le passage simple se défait plus facilement après chargement intense, la tête d'alouette peut se bloquer. En usage critique, le passage simple s'impose systématiquement."
+    },
+    {
+      "q": "La tête d'alouette est-elle dangereuse ?",
+      "a": "Non en usage normal sur ancrages larges et charges statiques. La perte de résistance reste acceptable dans la majorité des situations rencontrées en escalade. Le risque devient critique uniquement en cas de chute dynamique violente sur une sangle déjà affaiblie par le nœud. Ce scénario reste rare et se gère en évitant la tête d'alouette dans les configurations à risque connu."
+    },
+    {
+      "q": "Faut-il l'éviter sur sangle Dyneema ?",
+      "a": "Oui, sur sangle Dyneema fine de 8 à 11 mm, la perte de résistance peut atteindre 50 % en raison de la combinaison entre inélasticité du matériau et concentration des contraintes. Le passage simple dans l'ancrage avec mousqueton à vis reste préférable. Sur sangle Dyneema large de 18 mm ou plus, la perte se limite à 30 % environ, ce qui rend l'usage à nouveau acceptable sur ancrages adaptés."
+    },
+    {
+      "q": "Combien de têtes d'alouette accepter sur un relais ?",
+      "a": "Aucune limite stricte, mais la pratique recommandée reste d'en limiter le nombre. Sur un relais en triangulation à deux ou trois points, on préfère le passage simple sur chaque point individuel et la liaison par cordelette ou corde dynamique. La tête d'alouette reste réservée à la fixation initiale sur un point principal large, généralement un arbre ou un becquet."
+    }
+  ],
+  "cover_alt": "Gros plan sur une tête d'alouette tracée sur un anneau de sangle plate violette autour du tronc d'un arbre de 20 cm de diamètre, mousqueton à vis HMS argenté pendu en bas du nœud, paroi rocheuse en arrière-plan",
+  "internal_links": [
+    {
+      "slug": "noeuds-escalade-utiles-guide",
+      "anchor": "panorama des nœuds utiles en escalade",
+      "context": "pilier cocon"
+    },
+    {
+      "slug": "noeud-cabestan-relais",
+      "anchor": "nœud de cabestan sur mousqueton à vis",
+      "context": "alternative sur corde"
+    },
+    {
+      "slug": "retenir-noeuds-escalade-methode",
+      "anchor": "mémorisation du geste",
+      "context": "apprentissage"
+    },
+    {
+      "slug": "verifier-noeud-partenaire",
+      "anchor": "vérification des points d'ancrage",
+      "context": "rituel sécurité"
+    }
+  ],
+  "scheduled_at": "2026-10-20T09:00:00+02:00"
+}

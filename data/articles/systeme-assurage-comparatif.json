@@ -1,0 +1,80 @@
+{
+  "slug": "systeme-assurage-comparatif",
+  "cocon": "materiel",
+  "type_article": "liste",
+  "numero": 52,
+  "title": "Grigri, Reverso, Atc : comparatif systèmes d'assurage 2026",
+  "h1": "Comparatif des systèmes d'assurage en escalade",
+  "description": "Grigri Plus, Reverso 4, Atc-XP, Smart, Click Up : comparatif détaillé des systèmes d'assurage avec compatibilités, prix et usages adaptés.",
+  "chapo": "Le système d'assurage, c'est ton cordon ombilical avec ton partenaire de cordée. Mauvais choix et tu perds en sécurité ou en confort. Je compare ici les Grigri Plus, Reverso 4, Atc-XP et autres Click Up, avec les diamètres de corde compatibles et les usages qui marchent vraiment.",
+  "takeaways": [
+    "Le Grigri Plus reste le bloqueur de référence pour le sport régulier en 2026.",
+    "Le Reverso 4 plaquette autorise l'assurage du second en grande voie facile.",
+    "L'Atc-XP tube simple offre la simplicité absolue à petit prix.",
+    "Le Smart de Mammut et le Click Up de Climbing Technology compètent le Grigri.",
+    "Le Munter sur HMS reste la solution de secours universelle en falaise."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Trois familles de systèmes d'assurage"},
+    {"type": "p", "html": "On distingue trois grandes familles. Les bloqueurs mécaniques type <strong>Petzl Grigri Plus</strong>, qui bloquent automatiquement la corde en cas de chute. Les freins à friction améliorée type <strong>Mammut Smart, Climbing Technology Click Up</strong>, qui aident l'assureur sans bloquer totalement. Les tubes et plaquettes type <strong>Petzl Reverso 4, Black Diamond Atc-XP</strong>, classiques avec friction simple sur la corde."},
+    {"type": "p", "html": "Chaque famille a ses avantages et ses limites. Le bloqueur sécurise contre la perte de main mais demande une attention spécifique au mouflage. Le frein assisté apporte une marge de sécurité sans changer le geste classique. Le tube reste le plus simple mais exige une main de freinage constante. Pour bien comprendre, regarde aussi <a href=\"/blog/materiel-escalade-essentiel\">le matériel d'escalade essentiel</a>."},
+    {"type": "h2", "text": "Petzl Grigri Plus : la référence sport"},
+    {"type": "p", "html": "Le <strong>Grigri Plus</strong> est l'évolution du Grigri 2 sortie en 2017. Diamètre de corde compatible 8.5 à 11 mm, optimal sur 9.5 à 11 mm. Système came interne qui bloque automatiquement en cas de tension brutale. Trois positions sur la poignée, position retenue, position descente lente, position descente normale. La sangle d'amortissement intégrée limite la force de choc transmise au système."},
+    {"type": "p", "html": "Avantages, sécurité contre la perte de main, repose pour l'assureur en moulinette, mouflage simplifié. Inconvénients, poids 200 g, prix 110 euros, geste de mouflage à apprendre pour ne pas faire patiner la corde lors du clippage. C'est mon système principal depuis cinq ans, je le recommande à tous les pratiquants réguliers de sport. Le détail dans <a href=\"/blog/assurer-grigri-bien-utiliser\">comment bien utiliser son Grigri</a>."},
+    {"type": "h2", "text": "Petzl Reverso 4 : la polyvalence grande voie"},
+    {"type": "p", "html": "Le <strong>Reverso 4</strong> est un tube en plaquette avec deux usages distincts. En mode classique au baudrier, il fonctionne comme un Atc-XP avec friction améliorée par des dents internes. En mode plaquette au relais, il bloque automatiquement le second qui monte en grande voie, avec une fente dédiée pour passer un mousqueton HMS de réception."},
+    {"type": "p", "html": "Compatible cordes 7.3 à 11 mm, parfait pour les doubles fines en grande voie alpine. Poids plume 57 g, prix 35 euros. Inconvénients, pas de blocage automatique en mode classique, mouflage du second au relais plus complexe que sur un Grigri. Si tu pratiques la grande voie même occasionnellement, ce système devient indispensable dans le sac."},
+    {"type": "h2", "text": "Black Diamond Atc-XP : la simplicité abordable"},
+    {"type": "p", "html": "Le <strong>Atc-XP</strong> est le tube simple le plus vendu au monde. Diamètre compatible 7.7 à 11 mm, poids 64 g, prix 26 euros. Fonctionnement par friction simple sur la corde, avec deux rainures de friction améliorée pour augmenter le freinage. Pas de blocage automatique, la main de freinage doit rester constante."},
+    {"type": "p", "html": "Avantages, simplicité absolue, robustesse extrême, légèreté, prix imbattable, polyvalent en plaquette. Inconvénients, pas d'aide à l'assurage, geste à parfaitement maîtriser pour la sécurité. C'est le premier achat des grimpeurs débutants en France. Garde le toujours en secours dans le sac même quand tu grimpes au Grigri, en cas de problème de batterie sur l'électronique de ton bloqueur."},
+    {"type": "h2", "text": "Mammut Smart et CT Click Up : alternatives au Grigri"},
+    {"type": "p", "html": "Le <strong>Mammut Smart 2.0</strong> propose un frein assisté sans pièce mobile. Diamètre 8.7 à 10.5 mm, poids 84 g, prix 50 euros. Fonctionnement par déformation de la corde dans la cinématique du système, blocage progressif en cas de chute. Léger, fiable, mais sensibilité au mouflage et au type de corde."},
+    {"type": "p", "html": "Le <strong>Climbing Technology Click Up Plus</strong> joue dans la même catégorie. Diamètre 8.5 à 11 mm, poids 110 g, prix 70 euros. Système à double position, mode classique et mode bloqué. Très apprécié en Espagne et en Italie, plus rare en France. Bon compromis si tu veux une alternative au Grigri sans changer fondamentalement ton geste d'assurage."},
+    {"type": "list", "variant": "cards", "title": "Cinq systèmes d'assurage selon ta pratique", "items": [
+      {"title": "Petzl Grigri Plus", "body": "Sport régulier en moulinette ou tête de cordée. Sécurité maximale, repose, mouflage facile. 110 € pour 200 g."},
+      {"title": "Petzl Reverso 4", "body": "Grande voie polyvalente avec assurage du second en plaquette. Léger, simple, fiable. 35 € pour 57 g."},
+      {"title": "Black Diamond Atc-XP", "body": "Premier achat débutant, polyvalent, robuste, simple. Geste à maîtriser. 26 € pour 64 g."},
+      {"title": "Mammut Smart 2.0", "body": "Alternative au Grigri en frein assisté sans pièce mobile. Léger, abordable. 50 € pour 84 g."},
+      {"title": "Edelrid Mega Jul", "body": "Système double mode classique et bloqueur en plaquette. Polyvalent grande voie. 40 € pour 65 g."}
+    ]},
+    {"type": "h2", "text": "Edelrid Mega Jul : le double mode polyvalent"},
+    {"type": "p", "html": "Le <strong>Edelrid Mega Jul</strong> est un tube spécial en acier inoxydable qui fonctionne en deux modes. Mode classique avec friction améliorée pour la tête de cordée et la moulinette. Mode bloqueur en plaquette pour assurer le second en grande voie. Diamètre 7.9 à 10.5 mm, poids 65 g, prix 40 euros."},
+    {"type": "p", "html": "Avantage, la polyvalence absolue dans un poids plume. Le Mega Jul te permet d'assurer en tête comme avec un Atc et le second comme avec un Reverso, avec une aide partielle au blocage en cas de chute. Le revers, c'est le geste de mouflage plus complexe que sur un Reverso classique. À l'usage, on s'habitue vite et le gain en sécurité vaut le coût."},
+    {"type": "h2", "text": "Nœud de Munter sur HMS : la solution de secours"},
+    {"type": "p", "html": "Le nœud de Munter, aussi appelé demi cabestan ou Italian hitch, s'effectue directement sur un mousqueton HMS sans aucun matériel supplémentaire. C'est la solution de secours universelle si tu perds ton système d'assurage. Diamètre compatible 9 à 11 mm pour un freinage correct. Inconvénients, vrillage important de la corde, freinage moins constant qu'un système dédié."},
+    {"type": "p", "html": "Tout grimpeur de grande voie doit savoir installer un Munter à l'aveugle. C'est le geste de survie en cas de perte de ton Reverso au relais. Un HMS de forme poire comme le <strong>Petzl William ou Black Diamond Rocklock</strong> offre l'espace nécessaire au Munter. Garde toujours en tête cette technique d'urgence quand tu pars en falaise éloignée."},
+    {"type": "h2", "text": "Compatibilités diamètre par système"},
+    {"type": "p", "html": "Chaque système a sa plage de diamètres optimale, hors de laquelle le freinage devient moins efficace. Le Grigri Plus fonctionne sur 9.5 à 11 mm en optimum, accepte 8.5 à 11 mm en plage étendue. Le Reverso 4 et l'Atc-XP couvrent 7.7 à 11 mm en plaquette double. Le Mammut Smart vise 8.7 à 10.5 mm, le Click Up Plus 8.5 à 11 mm."},
+    {"type": "p", "html": "Si tu grimpes sur cordes fines sous 9 mm, oublie le Grigri Plus standard et passe sur un Reverso 4 ou un Atc-XP. Pour les cordes très fines sous 8 mm en jumelée ou double, seul le Reverso 4 ou un système dédié comme l'Edelrid Mega Jul donne un freinage propre. Le tableau ci-dessous récapitule. Pour les bases corde, lis <a href=\"/blog/choisir-corde-escalade\">comment choisir sa corde</a>."},
+    {"type": "table", "caption": "Comparatif systèmes d'assurage 2026", "headers": ["Modèle", "Type", "Diamètre", "Poids", "Prix"], "rows": [
+      ["Petzl Grigri Plus", "Bloqueur came", "8.5-11 mm", "200 g", "110 €"],
+      ["Petzl Reverso 4", "Tube plaquette", "7.3-11 mm", "57 g", "35 €"],
+      ["Black Diamond Atc-XP", "Tube friction", "7.7-11 mm", "64 g", "26 €"],
+      ["Mammut Smart 2.0", "Frein assisté", "8.7-10.5 mm", "84 g", "50 €"],
+      ["Edelrid Mega Jul", "Tube bloqueur", "7.9-10.5 mm", "65 g", "40 €"]
+    ]},
+    {"type": "h2", "text": "Mes choix selon les situations"},
+    {"type": "p", "html": "Pour mon usage personnel, j'ai trois systèmes dans le sac. Le <strong>Grigri Plus</strong> pour le sport régulier en falaise et salle. Le <strong>Reverso 4</strong> pour la grande voie et les sorties qui demandent l'assurage du second en plaquette. Un <strong>Atc-XP</strong> de secours dans la trousse à corde, au cas où. Ces trois systèmes couvrent toutes mes situations depuis cinq ans sans souci."},
+    {"type": "p", "html": "Pour un débutant, je conseille de commencer avec l'Atc-XP. C'est 26 euros, ça apprend le bon geste, la main de freinage ne quitte jamais la corde sous le frein. Quand tu maîtrises ce geste, tu peux passer au Grigri Plus en sport régulier sans perdre les bases de la sécurité. Sauter directement au Grigri Plus crée parfois de mauvais réflexes qu'on paie plus tard."},
+    {"type": "quote", "text": "Le meilleur système d'assurage, c'est celui que tu maîtrises parfaitement. Connais bien un système plutôt que mal trois.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
+    {"type": "h2", "text": "Entretien et durée de vie des systèmes"},
+    {"type": "p", "html": "Les systèmes d'assurage en alliage d'aluminium ou acier inoxydable durent indéfiniment en l'absence de choc fort. Inspecte régulièrement les pièces mobiles, le ressort de la came du Grigri, l'état des plaques de friction du Reverso. Nettoie au pinceau doux pour éliminer la magnésie qui peut bloquer les mécanismes. Évite tout solvant qui altérerait les pièces plastiques internes."},
+    {"type": "p", "html": "Pour aller plus loin, lis <a href=\"/blog/assurer-grigri-bien-utiliser\">bien utiliser son Grigri</a> et <a href=\"/blog/materiel-escalade-essentiel\">le matériel d'escalade essentiel</a>. Le bon geste d'assurage prime sur le matériel, mais un bon matériel facilite le bon geste. C'est l'équation à ne jamais perdre de vue quand tu choisis ton système."}
+  ],
+  "faq": [
+    {"q": "Quel système d'assurage choisir pour débuter ?", "a": "L'Atc-XP de Black Diamond à 26 euros reste le meilleur premier choix. Simple, robuste, polyvalent, il apprend le bon geste d'assurage avec main de freinage constante. Tu pourras évoluer vers un Grigri Plus quand tu maîtriseras les bases avec 50 voies en moulinette."},
+    {"q": "Est-ce que je peux utiliser un Grigri avec une corde 8.7 mm ?", "a": "Le Grigri Plus accepte officiellement 8.5 à 11 mm mais fonctionne optimalement sur 9.5 à 11 mm. Sous 9 mm, le freinage devient moins efficace et le risque de glissement augmente. Pour une corde 8.7 mm, préfère un Reverso 4 ou un Mega Jul mieux adaptés aux diamètres fins."},
+    {"q": "Grigri ou Reverso pour la grande voie ?", "a": "Le Reverso 4, sans hésitation. Il permet l'assurage du second en plaquette directement au relais, le mouflage rapide en cas de problème, et pèse trois fois moins lourd. Le Grigri n'a pas vraiment sa place en grande voie sauf pour les rappels sur brin unique."},
+    {"q": "Le Grigri remplace-t-il la main de freinage ?", "a": "Non, jamais. La main de freinage reste obligatoire sous le frein à tout moment de l'assurage. Le Grigri assiste en cas de chute brutale mais ne supprime pas le geste de base. Tu lis encore régulièrement des accidents liés à cette mauvaise compréhension du fonctionnement."},
+    {"q": "Quelle différence entre Atc-XP et Reverso 4 ?", "a": "L'Atc-XP est un tube de friction simple, le Reverso 4 est un tube plaquette qui ajoute le mode bloqueur pour assurer le second en grande voie. Le Reverso pèse 7 g de moins et permet plus de configurations. Pour 9 euros de différence, l'achat se justifie facilement."},
+    {"q": "Faut-il connaître le nœud de Munter ?", "a": "Oui, c'est la solution de secours universelle si tu perds ton système d'assurage. Tout grimpeur de grande voie doit savoir l'installer à l'aveugle sur un mousqueton HMS. Entraîne toi régulièrement, le jour où tu en auras besoin tu seras content de savoir le faire vite."}
+  ],
+  "cover_alt": "Comparatif systèmes d'assurage Grigri Plus Reverso 4 et Atc-XP posés sur une corde dynamique",
+  "internal_links": [
+    {"slug": "assurer-grigri-bien-utiliser", "anchor": "comment bien utiliser son Grigri", "context": "Approfondissement Grigri"},
+    {"slug": "choisir-corde-escalade", "anchor": "comment choisir sa corde", "context": "Compatibilité diamètre"},
+    {"slug": "materiel-escalade-essentiel", "anchor": "le matériel d'escalade essentiel", "context": "Pilier matériel"},
+    {"slug": "gants-assurage-escalade", "anchor": "les gants d'assurage", "context": "Accessoire complémentaire"}
+  ],
+  "scheduled_at": "2026-09-01T09:00:00+02:00"
+}

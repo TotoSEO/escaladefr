@@ -1,0 +1,248 @@
+{
+  "slug": "noeud-papillon-corde-endommagee",
+  "cocon": "noeuds",
+  "type_article": "astuce",
+  "numero": 72,
+  "title": "Nœud papillon : isoler une portion de corde endommagée",
+  "h1": "Le nœud papillon, isoler une portion de corde",
+  "description": "Le nœud papillon ou alpine butterfly, comment isoler une zone de corde abîmée, créer une boucle de relais et utiliser ses trois brins de tension.",
+  "chapo": "Le nœud papillon, ou alpine butterfly en anglais, crée une boucle au milieu d'une corde sans en utiliser les bouts. C'est le nœud d'urgence pour isoler une portion de gaine arrachée ou un fil d'âme exposé après un accident matériel. Il se trace en quelques secondes une fois maîtrisé, supporte une charge dans les trois directions, et garde sa fiabilité quand les autres nœuds glissent. Tracé, usages et limites.",
+  "takeaways": [
+    "Le papillon se trace au milieu d'une corde sans utiliser les bouts, en formant trois boucles superposées qu'on retourne sur elles-mêmes.",
+    "Il supporte la charge dans les trois directions, sur la boucle centrale et sur les deux brins de tension, sans se déformer ni glisser.",
+    "Usage principal : isoler une zone de corde endommagée pour finir une journée en sécurité avant remplacement, ou créer un point d'attache intermédiaire en cordée glaciaire.",
+    "Le papillon ne se substitue pas à une corde saine, c'est une solution d'urgence pour évacuer en sécurité après un accident matériel.",
+    "La FFME le recommande dans les modules de secours en falaise pour les manipulations de cordée à trois ou pour isoler une portion de corde marquée."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Le papillon parmi les nœuds de boucle médiane"
+    },
+    {
+      "type": "p",
+      "html": "Le <strong>nœud papillon</strong> appartient à la famille très spécifique des nœuds qui créent une boucle au milieu d'une corde, sans en utiliser les bouts. Cette famille compte aussi le nœud d'alouette double et le nœud de chaise médian, mais le papillon s'impose comme la référence moderne pour trois raisons. Il se trace rapidement après quelques séances d'apprentissage. Il supporte la charge dans les trois directions sans déformation. Il se défait facilement après chargement, même après plusieurs cycles de tension. Pour situer ce nœud parmi les autres, consulte le <a href=\"/blog/noeuds-escalade-utiles-guide\">panorama des nœuds utiles en escalade</a>."
+    },
+    {
+      "type": "p",
+      "html": "Son nom anglais alpine butterfly évoque la silhouette de l'aile d'un papillon une fois tracé. Les guides de haute montagne l'utilisent depuis les années 1950, notamment en cordée glaciaire pour créer les points d'encordement intermédiaires des grimpeurs du milieu. En falaise sportive, son usage le plus fréquent reste l'isolement d'une portion de corde endommagée, urgence rare mais critique."
+    },
+    {
+      "type": "p",
+      "html": "J'ai appris le papillon en avril 2024 au club de Colmar, dans le cadre du module manipulations de corde de la formation initiateur. Le moniteur l'a présenté comme le nœud qui transforme une situation potentiellement grave en simple inconvénient : avec un papillon bien tracé, une corde abîmée à mi-longueur reste utilisable pour finir la journée et redescendre en sécurité."
+    },
+    {
+      "type": "h2",
+      "text": "Le tracé du papillon, étape par étape"
+    },
+    {
+      "type": "p",
+      "html": "Le tracé du papillon repose sur trois enroulements successifs autour de la main, suivis d'une manipulation qui retourne la boucle centrale. La méthode de la main reste la plus utilisée parce qu'elle ne nécessite aucun support matériel. Avec un peu de pratique, le geste se fait en quinze à vingt secondes, ce qui le rend opérationnel en situation d'urgence."
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Les cinq gestes du papillon sur la main",
+      "items": [
+        {
+          "title": "Enrouler trois tours autour de la main",
+          "body": "Pose la corde sur la paume de la main ouverte, du poignet vers le bout des doigts, en gardant les deux brins de tension. Enroule trois tours parallèles autour de la main, en formant trois boucles côte à côte."
+        },
+        {
+          "title": "Repérer la boucle centrale",
+          "body": "Sur les trois boucles formées, identifie celle du milieu. C'est elle qui va devenir le point d'attache du nœud, en passant par-dessus les deux autres boucles."
+        },
+        {
+          "title": "Tirer la boucle centrale par-dessus",
+          "body": "Saisis la boucle centrale au niveau de tes doigts, et tire-la par-dessus la première boucle vers le poignet. La boucle centrale enjambe désormais la première boucle, en passant sous la troisième."
+        },
+        {
+          "title": "Repasser la boucle sous les deux brins",
+          "body": "Glisse la boucle centrale sous les deux brins de tension qui passent à la base de ta main, vers le poignet. Tu obtiens un tracé en forme de papillon avec deux ailes et un corps central."
+        },
+        {
+          "title": "Serrer et vérifier la géométrie",
+          "body": "Retire la main et tire simultanément sur les deux brins de tension et sur la boucle pour serrer le nœud. Le résultat doit être symétrique, avec une boucle centrale propre et les deux brins de tension qui sortent du nœud parallèles, dans le même axe."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "html": "L'exécution prend une vingtaine de secondes après quelques séances d'entraînement. La difficulté principale tient à mémoriser la manipulation de la boucle centrale, qui semble contre-intuitive au début. La <a href=\"/blog/retenir-noeuds-escalade-methode\">mémorisation du geste</a> passe par la répétition d'une dizaine de tracés successifs, jusqu'à ce que le mouvement devienne fluide. Une fois la séquence acquise, elle reste durablement disponible même après plusieurs mois sans pratique."
+    },
+    {
+      "type": "h2",
+      "text": "Isoler une portion de corde endommagée"
+    },
+    {
+      "type": "p",
+      "html": "L'usage le plus critique du papillon en falaise concerne l'isolement d'une <strong>portion de corde endommagée</strong> en cours de séance. Imagine que ta corde présente une zone de gaine arrachée à mi-longueur, suite à un frottement sur arête ou un faux mouvement. La corde n'est plus utilisable telle quelle, mais tu es en haut de la voie ou au milieu d'une grande voie avec besoin de redescendre en sécurité."
+    },
+    {
+      "type": "p",
+      "html": "La technique consiste à tracer un papillon sur la zone abîmée, en englobant la portion endommagée dans la boucle. La boucle isole la zone défectueuse et la met hors charge : le brin de tension passe à travers le papillon en évitant la portion abîmée. Cette technique de sauvetage transforme une corde potentiellement dangereuse en corde fonctionnelle sur sa portion saine, le temps de finir la journée et de redescendre en sécurité."
+    },
+    {
+      "type": "p",
+      "html": "Attention, cette manipulation reste une <strong>solution d'urgence</strong>, pas un correctif définitif. Une corde marquée d'un papillon d'isolement doit être remplacée avant la prochaine séance. La portion isolée reste vulnérable et l'intégrité globale de la corde est compromise."
+    },
+    {
+      "type": "tip",
+      "title": "Marquer la zone isolée avec du ruban",
+      "body": "Une fois le papillon tracé sur la zone abîmée, marque visuellement le nœud avec du ruban adhésif ou un nœud d'arrêt supplémentaire. Cette marque évite que quelqu'un défasse le papillon par inadvertance lors du rangement, et signale immédiatement au propriétaire qu'il faut remplacer la corde. Sans marquage, le risque est qu'on défasse le nœud en croyant à un simple nœud parasite, et qu'on remette la corde abîmée en service.",
+      "tone": "attention"
+    },
+    {
+      "type": "h2",
+      "text": "L'usage en cordée glaciaire et alpinisme"
+    },
+    {
+      "type": "p",
+      "html": "Dans le contexte de la cordée glaciaire ou de l'alpinisme classique avec trois grimpeurs ou plus, le papillon sert à créer le <strong>point d'encordement du grimpeur du milieu</strong>. Le grimpeur de tête et le grimpeur de queue s'encordent en bout de corde par un huit en double classique. Le grimpeur du milieu se mousquetonne sur la boucle d'un papillon tracé à mi-longueur, généralement par mousqueton à vis HMS."
+    },
+    {
+      "type": "p",
+      "html": "Cette configuration permet de tendre la corde entre les trois grimpeurs sans nécessiter une corde dédiée pour le grimpeur du milieu. Le papillon supporte la charge dans les trois directions : vers le haut en cas de chute du grimpeur de tête, vers le bas en cas de chute du grimpeur de queue, et latéralement en cas de chute du grimpeur du milieu lui-même. C'est précisément cette polyvalence directionnelle qui fait du papillon le seul nœud adapté à cet usage."
+    },
+    {
+      "type": "h2",
+      "text": "La résistance du nœud aux différentes directions"
+    },
+    {
+      "type": "p",
+      "html": "Le papillon conserve <strong>70 à 75 %</strong> de la charge de rupture de la corde sur la boucle centrale, et 75 à 80 % sur les deux brins de tension qui passent à travers. Ces valeurs restent largement suffisantes pour toutes les sollicitations réalistes en escalade ou en alpinisme. La résistance se maintient identique dans les trois directions, ce qui n'est pas le cas du nœud d'alouette ou du nœud de chaise médian."
+    },
+    {
+      "type": "p",
+      "html": "Sous charge dynamique répétée, le papillon a tendance à se serrer légèrement mais reste facile à défaire. C'est l'un des nœuds qui pardonne le mieux les cycles de tension répétés, ce qui le rend préférable au nœud d'alouette pour les usages en cordée prolongée. La <a href=\"/blog/noeud-tete-alouette-sangle\">tête d'alouette sur sangle</a>, à ne pas confondre avec le nœud d'alouette sur corde, ne convient pas à ce type d'usage médian."
+    },
+    {
+      "type": "table",
+      "caption": "Le papillon selon le contexte d'usage",
+      "headers": [
+        "Situation",
+        "Recommandation",
+        "Type de charge"
+      ],
+      "rows": [
+        [
+          "Isoler zone corde abîmée",
+          "Papillon adapté",
+          "Statique"
+        ],
+        [
+          "Cordée glaciaire grimpeur médian",
+          "Papillon obligatoire",
+          "Dynamique trois directions"
+        ],
+        [
+          "Point relais provisoire",
+          "Papillon acceptable",
+          "Statique"
+        ],
+        [
+          "Mouflage assistance",
+          "Papillon comme renvoi",
+          "Dynamique"
+        ],
+        [
+          "Encordement principal",
+          "Préférer huit en double",
+          "Sans objet"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Défaire un papillon après chargement"
+    },
+    {
+      "type": "p",
+      "html": "Le papillon se défait plus facilement que la plupart des nœuds après une mise en tension, ce qui constitue l'un de ses avantages opérationnels en cordée glaciaire. Après une chute dynamique de plusieurs mètres, le nœud reste pénétrable à la main en quelques secondes. Pour défaire un papillon serré, tire latéralement sur la boucle centrale pour <strong>casser la géométrie</strong> du nœud, puis dénoue méthodiquement les enroulements."
+    },
+    {
+      "type": "p",
+      "html": "Cette propriété de défaite facile facilite les manipulations en cordée prolongée, où on peut être amené à déplacer le papillon le long de la corde selon la longueur disponible entre les grimpeurs. Sur une corde mouillée ou givrée, le serrage reste modéré et la défaite garde sa facilité, contrairement au pêcheur double qui devient parfois quasi indéfaisable."
+    },
+    {
+      "type": "h2",
+      "text": "Erreurs courantes du tracé"
+    },
+    {
+      "type": "p",
+      "html": "Deux erreurs reviennent régulièrement dans les ateliers d'apprentissage du papillon. Première erreur, la manipulation de la mauvaise boucle. Le grimpeur tire l'une des boucles latérales au lieu de la boucle centrale, ce qui donne un nœud d'apparence semblable mais qui glisse sous charge. Le diagnostic se fait à la vérification de la symétrie : un papillon correct présente deux ailes parfaitement symétriques de part et d'autre du corps central."
+    },
+    {
+      "type": "p",
+      "html": "Deuxième erreur, le tracé inversé qui place la boucle dans la direction opposée à celle voulue. Pour le grimpeur médian de la cordée glaciaire, la boucle doit pointer vers le ventre du grimpeur. Pour l'isolement d'une zone abîmée, la boucle doit englober précisément la portion défectueuse. Une inversion involontaire force à retracer le nœud avant la mise en charge."
+    },
+    {
+      "type": "quote",
+      "text": "Le papillon, c'est le nœud qui te sort d'une journée potentiellement catastrophique en deux minutes de manipulation. Il vaut son pesant d'or quand tu en as besoin.",
+      "author": "Adage de guide de haute montagne",
+      "role": "transmis en formation alpinisme"
+    },
+    {
+      "type": "h2",
+      "text": "Apprendre le papillon en salle avant l'urgence"
+    },
+    {
+      "type": "p",
+      "html": "Le papillon n'est utile que s'il est maîtrisé à froid, parce qu'on le trace toujours dans des situations qui demandent de la sérénité. La pratique régulière en salle ou à la maison, sur un bout de corde libre, garantit que le geste sera disponible le jour où il faudra l'utiliser. Pratique-le une fois par mois sur cinq tracés successifs, c'est suffisant pour le garder durablement disponible."
+    },
+    {
+      "type": "p",
+      "html": "En complément, intègre le papillon aux exercices de manipulation de corde courants : autosauvetage, mouflage, transformation de moulinette en rappel. Cette utilisation contextuelle ancre le nœud dans des situations réelles, plus pédagogique que le simple tracé à blanc. Le <a href=\"/blog/nettoyer-relais-rappel-securite\">nettoyage de relais avec rappel</a> peut intégrer un papillon de sécurité en cas de besoin."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Est-ce qu'on peut utiliser le papillon comme nœud d'encordement principal ?",
+      "a": "Non, le papillon n'est pas un nœud d'encordement principal. Sa boucle moins compacte et sa visibilité moins lisible le rendent moins adapté au pontet du baudrier que le huit en double. L'usage principal du papillon reste la création d'une boucle au milieu d'une corde, soit pour isoler une portion endommagée, soit pour créer un point d'attache intermédiaire en cordée à trois grimpeurs ou plus."
+    },
+    {
+      "q": "Combien de temps tient un papillon sous charge ?",
+      "a": "Indéfiniment dans les conditions normales d'usage. Le nœud ne se déforme pas sous charge statique, et reste fonctionnel après des cycles de tension répétés. Sur une cordée glaciaire prolongée de plusieurs heures, le papillon du grimpeur médian reste stable du début à la fin de la course. Aucun cas de glissement ou de défaillance n'a été documenté en conditions réalistes d'usage."
+    },
+    {
+      "q": "Quelle différence avec le nœud d'alouette double ?",
+      "a": "Le papillon supporte la charge dans les trois directions, le nœud d'alouette double ne supporte la charge que dans deux directions et se déforme dans la troisième. Le papillon se défait plus facilement après chargement, le nœud d'alouette double devient parfois indéfaisable. Le papillon présente une géométrie plus complexe à apprendre, mais offre des performances supérieures dans tous les cas d'usage médian."
+    },
+    {
+      "q": "Peut-on tracer un papillon avec une seule main ?",
+      "a": "Oui, plusieurs méthodes existent pour tracer le papillon avec une seule main, utiles si l'autre main est occupée à tenir une prise ou un point d'assurage. La méthode du double pli sur le pouce et l'index est la plus courante. Elle demande un entraînement spécifique d'une dizaine de séances avant d'être fiable. La méthode à deux mains reste plus rapide et plus fiable dans la plupart des situations."
+    },
+    {
+      "q": "Le papillon convient-il pour le mouflage en sauvetage ?",
+      "a": "Oui, le papillon sert souvent de renvoi de poulie dans les systèmes de mouflage à 3:1 ou 5:1 pour le sauvetage en falaise. Sa boucle propre accepte un mousqueton à vis HMS sans déformation, et la corde coulisse fluidement à travers le système. C'est l'un des nœuds standards des modules de secours FFME aux côtés du machard et du cabestan."
+    },
+    {
+      "q": "Une corde isolée par un papillon est-elle utilisable longtemps ?",
+      "a": "Non, la solution est temporaire. Une corde marquée d'un papillon d'isolement doit être remplacée avant la prochaine séance d'escalade. La portion isolée reste vulnérable aux chocs et l'intégrité globale de la corde est compromise. Le papillon permet seulement de finir la journée en sécurité et de redescendre, mais ne restaure pas la corde dans son état neuf."
+    }
+  ],
+  "cover_alt": "Gros plan sur un nœud papillon ou alpine butterfly tracé au milieu d'une corde dynamique rouge, boucle centrale propre symétrique, deux brins de tension parallèles, main de grimpeur en arrière-plan",
+  "internal_links": [
+    {
+      "slug": "noeuds-escalade-utiles-guide",
+      "anchor": "panorama des nœuds utiles en escalade",
+      "context": "pilier cocon"
+    },
+    {
+      "slug": "retenir-noeuds-escalade-methode",
+      "anchor": "mémorisation du geste",
+      "context": "apprentissage"
+    },
+    {
+      "slug": "noeud-tete-alouette-sangle",
+      "anchor": "tête d'alouette sur sangle",
+      "context": "comparaison nœud médian"
+    },
+    {
+      "slug": "nettoyer-relais-rappel-securite",
+      "anchor": "nettoyage de relais avec rappel",
+      "context": "contexte manipulation"
+    }
+  ],
+  "scheduled_at": "2026-10-17T09:00:00+02:00"
+}

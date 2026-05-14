@@ -1,0 +1,74 @@
+{
+  "slug": "alimentation-grimpeur-essentiel",
+  "cocon": "preparation",
+  "type_article": "guide",
+  "numero": 127,
+  "title": "Alimentation du grimpeur : les vrais leviers pour progresser",
+  "h1": "Alimentation du grimpeur : les leviers qui font la différence",
+  "description": "Nutrition du grimpeur : protéines, glucides, hydratation, timing des repas autour des séances. Ce qui marche vraiment et ce qui ne sert à rien selon les preneurs.",
+  "chapo": "L'alimentation du grimpeur n'a rien de magique. Trois piliers : assez de protéines, des glucides au bon moment, et pas trop de surveillance obsessive du poids. Voici les leviers concrets qui m'ont permis de tenir un poids stable à 65 kilos pendant quatre ans et de récupérer correctement entre les séances dures.",
+  "takeaways": [
+    "Vise 1,6 à 2 g de protéines par kilo de poids de corps et par jour.",
+    "Mange des glucides 2 à 3 heures avant la séance, et dans les 30 minutes après.",
+    "Le poids ne fait pas tout, la qualité de la masse maigre prime.",
+    "Évite les régimes restrictifs longs, ils détruisent les progrès tendineux.",
+    "Hydrate-toi avant d'avoir soif, surtout en falaise estivale."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Protéines : la base de la récupération"},
+    {"type": "p", "html": "Le grimpeur a besoin de 1,6 à 2 grammes de <strong>protéines</strong> par kilo de poids de corps et par jour. Pour 70 kilos, ça fait 112 à 140 grammes par jour. C'est plus que le sédentaire, parce que tu sollicites tes tissus musculaires et tendineux à chaque séance. Les protéines servent à la réparation, pas juste à la construction musculaire."},
+    {"type": "p", "html": "Les sources de qualité : oeufs, poulet, poisson, viande rouge maigre, légumineuses, produits laitiers fermentés. Pour les végétariens, combinaisons légumineuses-céréales pour avoir tous les acides aminés essentiels. La poudre de protéines whey ou pois reste utile mais pas obligatoire si ton alimentation est correcte."},
+    {"type": "h2", "text": "Glucides et timing autour de la séance"},
+    {"type": "p", "html": "Les <strong>glucides</strong> sont ton carburant. Mange 2 à 3 heures avant la séance pour avoir des réserves complètes sans inconfort digestif. Privilégie les glucides complexes : pâtes complètes, riz complet, patate douce, flocons d'avoine. Évite les sucres rapides juste avant la séance, ils te font monter puis chuter ta glycémie."},
+    {"type": "p", "html": "Pendant la séance longue, une barre de céréales ou une banane à mi-parcours stabilise ta glycémie. Dans les 30 minutes après la séance, mange un mix glucides-protéines pour recharger les réserves et lancer la récupération. Une banane plus un yaourt grec font très bien le job, ou un shake banane-lait-protéines."},
+    {"type": "list", "variant": "numbered", "title": "Timing alimentaire autour d'une séance", "items": [
+      {"title": "3 heures avant la séance", "body": "Repas complet : glucides complexes, protéines maigres, peu de gras, fibres modérées."},
+      {"title": "30 minutes avant", "body": "Petite collation glucidique si tu as faim : banane, barre de céréales, fruits secs."},
+      {"title": "Pendant la séance longue", "body": "Banane à mi-séance, eau régulière, électrolytes par forte chaleur."},
+      {"title": "30 minutes après", "body": "Mix glucides-protéines : shake, sandwich complet, yaourt grec et fruits."},
+      {"title": "2 heures après", "body": "Repas complet avec glucides, protéines de qualité, légumes, bonnes graisses."}
+    ]},
+    {"type": "h2", "text": "Le poids : sujet sensible"},
+    {"type": "p", "html": "Le rapport force-poids compte en grimpe. Mais l'obsession du poids cause plus de dégâts qu'elle ne procure d'avantages. Les troubles du comportement alimentaire sont fréquents dans la communauté grimpe, particulièrement chez les jeunes filles et garçons en compétition. La <strong>RED-S</strong>, ou syndrome de déficit énergétique relatif dans le sport, touche un grimpeur élite sur trois selon plusieurs études."},
+    {"type": "p", "html": "À 17 ans, j'ai voulu perdre 4 kilos en pensant gagner un cran. J'ai perdu les kilos en six semaines, j'ai gagné dix jours puis j'ai perdu trois mois de force pure. La masse maigre tombe avec le poids si la perte est rapide. Tu deviens léger mais faible, et tu te blesses plus facilement. Vise plutôt un poids stable avec une bonne qualité de masse maigre."},
+    {"type": "tip", "title": "Erreur classique", "body": "Faire un régime restrictif pendant la phase de préparation à un projet. Tu coupes les calories pour grimper léger sur ton 8a. Résultat : tu pèses moins, tu tires moins fort, et tu craques en blessure de poulie. La perte de poids rapide en période d'entraînement intense est presque toujours contre-productive.", "tone": "erreur"},
+    {"type": "h2", "text": "Hydratation : sous-estimée"},
+    {"type": "p", "html": "Une déshydratation de 2 pour cent du poids de corps fait baisser la performance de 10 pour cent. Tu n'attends pas la soif pour boire, parce que la soif arrive après la déshydratation. Vise 30 à 35 ml par kilo de poids de corps et par jour, plus en effort. Pour 70 kilos, ça fait 2,1 à 2,5 litres en routine, jusqu'à 4 litres en falaise estivale."},
+    {"type": "p", "html": "En falaise par chaleur, ajoute des <strong>électrolytes</strong> : sodium, potassium, magnésium. Tu transpires énormément, tu perds des minéraux. Une eau riche en minéraux type Saint-Yorre ou Vichy Célestins suffit. Les boissons isotoniques type Apurna ou Overstim's sont pratiques en effort long. Pour les détails, vois <a href=\"/blog/hydratation-effort-falaise\">hydratation à l'effort en falaise</a>."},
+    {"type": "h2", "text": "Les compléments alimentaires utiles"},
+    {"type": "table", "caption": "Compléments alimentaires pour grimpeur", "headers": ["Complément", "Utilité", "Dosage", "Niveau de preuve"],
+    "rows": [
+      ["Protéines whey", "Récupération musculaire", "20 à 30 g post-séance", "Très bon"],
+      ["Créatine", "Force explosive", "3 à 5 g par jour", "Très bon"],
+      ["Collagène + vitamine C", "Tendons et poulies", "15 g + 50 mg avant séance", "Modéré"],
+      ["Magnésium", "Récupération musculaire", "300 à 400 mg par jour", "Bon"],
+      ["Vitamine D", "Os et système immunitaire", "1000 à 2000 UI par jour", "Bon en hiver"]
+    ]},
+    {"type": "p", "html": "Le <strong>collagène avec vitamine C</strong> pris 30 minutes avant une séance de poutre stimulerait la synthèse du collagène tendineux. Les preuves sont émergentes mais prometteuses pour la santé des poulies A2 et A4. Keith Baar, chercheur en physiologie du tendon, recommande ce protocole. Je le suis depuis deux ans, mes doigts tiennent mieux."},
+    {"type": "h2", "text": "Petit déjeuner du grimpeur"},
+    {"type": "p", "html": "Si tu grimpes le matin, le petit déjeuner devient stratégique. Vise un mix glucides complexes, protéines et bons gras : flocons d'avoine, yaourt grec, fruits, fruits secs, un peu de miel. Tu manges 90 minutes avant la séance pour digérer sans inconfort. Évite les pâtisseries industrielles, elles te font crasher la glycémie après une heure de grimpe."},
+    {"type": "p", "html": "Mon petit dej type avant falaise : 60 g de flocons d'avoine, 200 g de yaourt grec, une banane, 30 g de noix, un café noir, un grand verre d'eau. 600 kcal environ, équilibré, digestible. Je tiens trois heures de falaise sans coup de pompe avec ce schéma."},
+    {"type": "h2", "text": "Alcool et progression"},
+    {"type": "p", "html": "L'alcool plombe la récupération. Une soirée bière le vendredi soir avant une session falaise le samedi te coûte 15 à 30 pour cent de performance. Le <strong>cortisol</strong> reste élevé, le sommeil est moins réparateur, l'hydratation est compromise. À éviter avant les sessions clés. Le verre de vin occasionnel en semaine reste compatible avec la progression."},
+    {"type": "h2", "text": "Mon parcours nutrition"},
+    {"type": "p", "html": "À 14 ans, je mangeais comme un ado de cantine. Pas de stratégie, glucides en masse, peu de protéines. J'ai commencé à structurer mon alimentation à 16 ans après ma première grosse blessure. Sur huit ans, j'ai testé le végétarien strict, le low carb, les régimes hyperprotéinés. La conclusion : un équilibre simple, des aliments peu transformés, du timing autour des séances. Pas besoin de plus."},
+    {"type": "quote", "text": "Le meilleur régime du grimpeur, c'est celui que tu tiens cinq ans. Pas celui qui te fait perdre 3 kilos en six semaines puis te ramène à ton point de départ.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
+    {"type": "p", "html": "Pour aller plus loin, vois <a href=\"/blog/hydratation-effort-falaise\">hydratation à l'effort</a> et <a href=\"/blog/sommeil-performance-grimpe\">sommeil et performance</a>. La <a href=\"/blog/preparer-corps-tete-grimpe\">préparation physique et mentale du grimpeur</a> intègre nutrition et récupération dans une vision globale."}
+  ],
+  "faq": [
+    {"q": "Faut-il manger avant ou après la grimpe ?", "a": "Les deux. Un repas complet 2 à 3 heures avant pour avoir des réserves de glycogène, et un apport glucides-protéines dans les 30 minutes après pour lancer la récupération. La fenêtre post-séance est moins critique qu'on a pu le dire, mais elle reste utile pour les séances dures."},
+    {"q": "Combien de protéines par jour pour un grimpeur ?", "a": "Vise 1,6 à 2 grammes par kilo de poids de corps et par jour. Pour 70 kilos, ça fait 112 à 140 grammes. Répartis sur 3 ou 4 repas pour optimiser la synthèse protéique. Au-delà de 2,5 g par kilo, les bénéfices ne sont plus prouvés et tu surcharges les reins."},
+    {"q": "Le grimpeur doit-il être maigre pour progresser ?", "a": "Pas particulièrement. Le rapport force-poids compte, mais une perte de poids excessive plombe la force et augmente le risque de blessure. Vise un poids stable avec une bonne qualité de masse maigre. Les troubles alimentaires sont fréquents en grimpe, ne tombe pas dans l'obsession du poids."},
+    {"q": "La créatine est-elle utile pour la grimpe ?", "a": "Oui modérément. La créatine améliore la force explosive et la récupération entre essais courts. Effet net sur le bloc et les voies courtes, plus discret sur les voies longues. 3 à 5 grammes par jour, peu importe le timing. Très bien documentée scientifiquement, sans effet secondaire majeur aux doses standards."},
+    {"q": "Faut-il prendre du collagène pour les poulies ?", "a": "Les études récentes suggèrent un effet positif du collagène avec vitamine C pris 30 à 60 minutes avant la séance de doigts. 15 grammes de collagène plus 50 mg de vitamine C. Les preuves émergent, le coût est modéré, le bénéfice possible. À tester si tu fais de la poutre régulièrement."}
+  ],
+  "cover_alt": "Repas du grimpeur : pâtes complètes, poulet, légumes, eau, sur une table avant séance",
+  "internal_links": [
+    {"slug": "preparer-corps-tete-grimpe", "anchor": "la préparation physique et mentale du grimpeur", "context": "Pilier préparation"},
+    {"slug": "hydratation-effort-falaise", "anchor": "hydratation à l'effort en falaise", "context": "Hydratation"},
+    {"slug": "sommeil-performance-grimpe", "anchor": "sommeil et performance", "context": "Récupération"},
+    {"slug": "recuperation-active-jours-off", "anchor": "récupération active et jours off", "context": "Récupération"},
+    {"slug": "musculation-grimpeur-base", "anchor": "musculation de base du grimpeur", "context": "Entraînement"}
+  ],
+  "scheduled_at": "2027-02-23T09:00:00+01:00"
+}

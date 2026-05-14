@@ -1,0 +1,74 @@
+{
+  "slug": "hydratation-effort-falaise",
+  "cocon": "preparation",
+  "type_article": "astuce",
+  "numero": 128,
+  "title": "Hydratation à l'effort en escalade : ce qu'il faut savoir",
+  "h1": "Hydratation à l'effort : ce qui marche en falaise et salle",
+  "description": "Hydratation du grimpeur : combien boire, quand, quelles boissons, électrolytes, signes de déshydratation. Conseils pratiques pour la falaise estivale et la salle.",
+  "chapo": "Une déshydratation de 2 pour cent de ton poids fait baisser ta performance de 10 pour cent. C'est mesurable et reproductible. Pourtant, beaucoup de grimpeurs négligent l'hydratation, surtout en falaise estivale. Voici ce que j'ai appris en quatre saisons à Buoux par 35 degrés et en falaise hivernale à Stetten.",
+  "takeaways": [
+    "Bois 30 à 35 ml par kilo de poids de corps et par jour en routine.",
+    "En effort, bois 500 à 800 ml par heure selon la température.",
+    "Ajoute des électrolytes au-delà de 90 minutes d'effort ou de 25 degrés.",
+    "N'attends pas la soif, c'est déjà le signe d'une déshydratation de 1 pour cent.",
+    "Urine claire ou jaune pâle = hydratation correcte, jaune foncé = déjà déficitaire."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Pourquoi l'hydratation impacte autant la grimpe"},
+    {"type": "p", "html": "Une déshydratation de 2 pour cent de ton poids fait chuter la performance de 10 pour cent. Cette donnée vient d'études en physiologie du sport et se vérifie en grimpe. Tu sens d'abord une baisse de la <strong>coordination motrice</strong>, puis une diminution de la force, puis une augmentation de la fatigue perçue. À 4 pour cent de déshydratation, tu perds 20 à 30 pour cent de ta capacité de performance."},
+    {"type": "p", "html": "L'eau intervient dans la régulation thermique, le transport des nutriments, l'élimination des déchets métaboliques et la lubrification articulaire. Manquer d'eau, c'est saboter tous ces systèmes en même temps. En falaise par 30 degrés, tu peux perdre 1,5 litre par heure de transpiration. Sans compensation, la chute de performance arrive en 90 minutes."},
+    {"type": "h2", "text": "Combien boire en routine"},
+    {"type": "p", "html": "La base de l'hydratation se construit hors séance. Vise 30 à 35 ml par kilo de poids de corps et par jour, en routine et hors effort. Pour 70 kilos, ça fait 2,1 à 2,5 litres par jour. Cette quantité comprend l'eau des boissons et celle des aliments, mais en pratique, il vaut mieux compter l'eau bue à part."},
+    {"type": "p", "html": "Répartis sur la journée. Un grand verre au réveil, une gourde à porter avec toi, deux verres à chaque repas, une gourde dans l'après-midi. Si tu attends la soif, tu fonctionnes en déshydratation chronique. Plusieurs études montrent que le grimpeur moyen est déjà à 1 pour cent de déshydratation au début de sa séance."},
+    {"type": "h2", "text": "Hydratation en falaise estivale"},
+    {"type": "p", "html": "En falaise par 25 degrés ou plus, double les quantités. Compte 3 à 4 litres sur une journée de falaise complète, avec des températures à 30 degrés et plus. Mes journées d'été à Buoux dans le Vaucluse : 4 litres minimum, plus des électrolytes. Les premières fois, je grimpais avec 1,5 litre, je crashais à 16 heures. Maintenant, je tiens jusqu'à la fin sans coup de pompe."},
+    {"type": "list", "variant": "numbered", "title": "Hydratation journée falaise estivale", "items": [
+      {"title": "Réveil 7 h : 500 ml d'eau", "body": "Réhydrate après la nuit, ajoute une pincée de sel si tu es sujet aux crampes."},
+      {"title": "Petit dej : 500 ml", "body": "Eau, café, jus dilué. Pas de gros volume d'un coup."},
+      {"title": "Route 1 h : 250 ml", "body": "Petites gorgées régulières, pas de grosse rasade avant de grimper."},
+      {"title": "Pied de voie 9 h : 250 ml", "body": "Boisson isotonique légère pour amorcer les électrolytes."},
+      {"title": "Pendant la grimpe : 500 ml par heure", "body": "Gorgées entre les voies, électrolytes au-delà de 11 h."},
+      {"title": "Pause midi : 500 ml", "body": "Avec le repas, hydratation reposée pendant 45 minutes."},
+      {"title": "Après-midi 4 h : 1 à 1,5 litre", "body": "Eau plus électrolytes, fréquemment, par petites quantités."},
+      {"title": "Retour bivouac 19 h : 500 ml", "body": "Réhydratation finale, plus électrolytes selon les pertes."}
+    ]},
+    {"type": "h2", "text": "Les électrolytes : sodium, potassium, magnésium"},
+    {"type": "p", "html": "En effort prolongé ou par chaleur, tu perds des <strong>électrolytes</strong> par transpiration : sodium principalement, potassium et magnésium en quantités moindres. Sans compensation, tu déclenches des crampes, une fatigue précoce et parfois une hyponatrémie en cas d'apport d'eau pure massif. Une transpiration intense fait perdre 1 à 2 grammes de sodium par heure."},
+    {"type": "p", "html": "Les sources d'électrolytes : eaux minérales riches comme Saint-Yorre, Vichy Célestins, Hépar. Les boissons isotoniques type Apurna, Overstim's, Aptonia. Les <strong>tablettes effervescentes</strong> comme High5 Zero ou Nuun, pratiques en gourde. Une pincée de sel dans ta gourde fait aussi le job pour les efforts modérés. Évite les sodas et boissons sucrées qui ralentissent l'absorption."},
+    {"type": "tip", "title": "Erreur classique", "body": "Boire 2 litres d'eau pure d'un coup au pied de la voie en pensant compenser une déshydratation matinale. Tu déclenches une hyponatrémie de dilution, avec maux de tête, nausées, parfois confusion. L'hydratation se fait par petites quantités régulières, jamais en grosse rasade. Et toujours avec un peu de sodium en effort long.", "tone": "erreur"},
+    {"type": "h2", "text": "Hydratation en salle"},
+    {"type": "p", "html": "En salle climatisée à 18 degrés, l'hydratation est moins critique mais reste importante. Compte 500 ml à 1 litre sur une séance de 2 heures. La salle a un air sec qui assèche les muqueuses, l'eau aide à compenser. Une gourde de 750 ml au pied du mur couvre une séance standard."},
+    {"type": "p", "html": "En compétition de bloc en salle, ajoute des électrolytes même par températures modérées. La tension nerveuse augmente la transpiration. Mes coachs FFME conseillaient toujours une boisson isotonique légère pendant les qualifs et finales."},
+    {"type": "h2", "text": "Signes de déshydratation"},
+    {"type": "table", "caption": "Signes de déshydratation à reconnaître", "headers": ["Niveau", "Symptôme principal", "Perf impactée", "Action"],
+    "rows": [
+      ["1 pour cent", "Soif légère", "Quelques pour cent", "Boire 200 à 300 ml"],
+      ["2 pour cent", "Bouche sèche, fatigue", "10 pour cent", "Boire 500 ml avec électrolytes"],
+      ["3 pour cent", "Maux de tête, urine foncée", "15 à 20 pour cent", "Pause de 30 min, réhydratation soutenue"],
+      ["4 pour cent et plus", "Crampes, vertiges, confusion", "30 pour cent ou plus", "Arrêter, électrolytes, ombre"]
+    ]},
+    {"type": "p", "html": "Le test le plus simple : la couleur des urines. Claires ou jaune pâle, tu es bien hydraté. Jaune foncé, tu es déficitaire. Brune, tu es en risque sérieux. Vérifie aux pauses pipi de la journée falaise. C'est plus fiable que la sensation de soif."},
+    {"type": "h2", "text": "Hydratation et grimpe en altitude"},
+    {"type": "p", "html": "En altitude au-delà de 1500 mètres, la déshydratation est plus rapide. L'air est sec, tu respires plus fort, tu perds plus d'eau par la respiration. À Céüse, à 2000 mètres, j'ajoute systématiquement 500 ml par rapport à un site équivalent en plaine. Idem en grande voie en montagne, où les conditions changent vite."},
+    {"type": "h2", "text": "Café, thé, alcool : ce qui compte"},
+    {"type": "p", "html": "Le café et le thé en quantités modérées comptent dans l'hydratation, contrairement à une vieille idée reçue. L'effet diurétique modeste est largement compensé par l'apport en eau. Limite-toi à 3 tasses de café par jour pour ne pas perturber le sommeil. L'alcool en revanche déshydrate vraiment, évite la veille des grosses séances."},
+    {"type": "quote", "text": "L'hydratation se construit avant la séance, pas pendant. Si tu commences à boire au pied de la voie, tu es déjà en retard.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
+    {"type": "p", "html": "Pour les détails nutrition, vois <a href=\"/blog/alimentation-grimpeur-essentiel\">alimentation du grimpeur, les vrais leviers</a>. La <a href=\"/blog/preparer-corps-tete-grimpe\">préparation physique et mentale du grimpeur</a> intègre hydratation et nutrition dans une vision complète."}
+  ],
+  "faq": [
+    {"q": "Combien d'eau boire par jour pour un grimpeur ?", "a": "30 à 35 ml par kilo de poids de corps en routine, plus selon l'effort et la chaleur. Pour 70 kilos, ça fait 2,1 à 2,5 litres en base, jusqu'à 4 litres en journée de falaise estivale. Répartis sur la journée par petites quantités, pas en grosse rasade."},
+    {"q": "Faut-il boire pendant la grimpe ?", "a": "Oui, 500 à 800 ml par heure d'effort selon la température. Bois entre les voies, par petites gorgées de 100 à 150 ml. Évite de boire 500 ml d'un coup avant de grimper, l'inconfort digestif te plombe. Une gourde à la portée de main au pied du mur reste la règle simple."},
+    {"q": "Quand prendre des électrolytes ?", "a": "Au-delà de 90 minutes d'effort, ou par températures supérieures à 25 degrés, ou en effort intense type compétition. Une boisson isotonique légère, ou de l'eau plus une pincée de sel, ou une tablette effervescente type High5 Zero. Privilégie les boissons à faible teneur en sucre pour l'absorption."},
+    {"q": "Comment savoir si je suis déshydraté ?", "a": "Le test le plus fiable est la couleur des urines : claires ou jaune pâle = bien hydraté, jaune foncé = déficit, brune = urgence. La soif arrive après le début de la déshydratation, ne t'y fie pas. Vérifie aussi le poids du matin, une perte rapide indique souvent un déficit hydrique."},
+    {"q": "Le café compte-t-il dans l'hydratation ?", "a": "Oui, contrairement à une vieille idée reçue. L'effet diurétique du café est modeste et largement compensé par l'apport en eau. Limite-toi à 3 tasses par jour pour ne pas perturber le sommeil. L'alcool en revanche déshydrate vraiment, évite-le la veille des grosses séances de grimpe."}
+  ],
+  "cover_alt": "Grimpeur buvant à sa gourde au pied d'une voie, paroi calcaire ensoleillée en arrière-plan",
+  "internal_links": [
+    {"slug": "preparer-corps-tete-grimpe", "anchor": "la préparation physique et mentale du grimpeur", "context": "Pilier préparation"},
+    {"slug": "alimentation-grimpeur-essentiel", "anchor": "alimentation du grimpeur, les vrais leviers", "context": "Nutrition globale"},
+    {"slug": "recuperation-active-jours-off", "anchor": "récupération active et jours off", "context": "Récupération"},
+    {"slug": "sommeil-performance-grimpe", "anchor": "sommeil et performance en escalade", "context": "Récupération"}
+  ],
+  "scheduled_at": "2027-02-25T09:00:00+01:00"
+}

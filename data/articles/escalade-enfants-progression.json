@@ -1,0 +1,72 @@
+{
+  "slug": "escalade-enfants-progression",
+  "cocon": "techniques",
+  "type_article": "guide",
+  "numero": 38,
+  "title": "Initier ses enfants a l'escalade : progression adaptee",
+  "h1": "Initier ses enfants a l'escalade, le guide d'Antoine pour parent grimpeur",
+  "description": "Escalade enfants : age de debut, materiel adapte, choix du club FFME ou salle, encadrement, progression realiste et signes a surveiller pour eviter les blessures.",
+  "chapo": "Tu grimpes depuis 5 ans, tes enfants te regardent et te demandent quand ils pourront essayer. Bonne nouvelle, l'escalade est l'un des sports les plus adaptes aux enfants si l'encadrement suit. Treize ans plus tard et apres avoir vu beaucoup de jeunes au club FFME, voici comment initier proprement tes enfants sans gacher leur plaisir ni leur sante.",
+  "takeaways": [
+    "L'escalade en club FFME accepte les enfants des 5 ans selon les ecoles.",
+    "Avant 12 ans, evite le hangboard et les exercices de force specifiques aux doigts.",
+    "Le materiel adapte (baudrier enfant, chaussons taille petite) est obligatoire.",
+    "L'encadrement par un BE ou BPJEPS est non negociable les 2 premieres annees.",
+    "Surveille les signes de fatigue articulaire et arrete sans hesiter si douleur."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "A quel age commencer l'escalade ?"},
+    {"type": "p", "html": "Officiellement, la FFME accepte les enfants des 5 ans dans les ecoles d'escalade, sous reserve d'un programme adapte. La realite, c'est que la majorite des enfants commencent vraiment entre 7 et 10 ans, dans des creneaux baby grimpe puis enfants 6-10 ans. Avant 5 ans, l'escalade est un jeu de psychomotricite, pas un apprentissage."},
+    {"type": "p", "html": "Mes parents m'ont fait essayer a 9 ans au club FFME de Colmar, dans un creneau enfants encadre. C'etait une heure et demie le mercredi, et j'adore. Trois ans plus tard, je rentrais en competitions departementales jeunes. La progression d'un enfant qui aime est rapide et durable."},
+    {"type": "h2", "text": "Choisir le bon cadre"},
+    {"type": "p", "html": "Pour la premiere annee, vise un <strong>club FFME local</strong> ou une <strong>salle commerciale</strong> avec creneau enfants encadres. Pas de grimpe parent-enfant en autonomie au depart. L'enfant a besoin d'un cadre stable, un coach diplome, des copains de son age, et une progression par jeux."},
+    {"type": "p", "html": "En France, les enseignes Climb Up, Vertical'Art et Arkose proposent souvent des ecoles d'escalade enfants. Cout 200 a 350 euros pour la saison de septembre a juin. Les clubs FFME associatifs descendent a 150-200 euros mais ont des creneaux plus limites. Le club apporte aussi la dimension competition jeune si l'enfant veut s'engager."},
+    {"type": "tip", "title": "La regle du desir", "body": "N'impose jamais l'escalade a un enfant qui n'en a pas envie. Le sport doit venir de lui, sinon tu le degoutes durablement. Propose, accompagne, attends. Mes meilleurs camarades de competition jeunes etaient tous demandeurs, jamais inscrits de force. Le desir conditionne la progression.", "tone": "astuce"},
+    {"type": "h2", "text": "Le materiel adapte"},
+    {"type": "p", "html": "Le baudrier d'enfant n'est pas un baudrier adulte miniature. C'est un modele type <strong>baudrier-bretelles</strong> qui s'attache aux epaules en plus du bassin, pour eviter la chute en arriere si l'enfant se renverse en suspension. Les modeles Petzl Macchu ou Camp Topaz coutent 50 a 80 euros et durent 3 a 5 ans."},
+    {"type": "list", "variant": "cards", "title": "Materiel essentiel pour enfants", "items": [
+      {"title": "Baudrier-bretelles", "body": "Petzl Macchu, Camp Topaz ou Singing Rock Bambino. Taille S ou XS selon morphologie. Verifier l'ajustement avant chaque seance."},
+      {"title": "Chaussons enfant", "body": "La Sportiva Tarantulace Kids ou Five Ten Anasazi VCS Kids. Pointures 28 a 38, autour de 50 a 70 euros. A changer chaque annee jusqu'a 14 ans."},
+      {"title": "Casque escalade enfant", "body": "Modeles ajustables type Petzl Picchu, 50 a 80 euros. Indispensable en falaise et grandes voies, optionnel en salle."},
+      {"title": "Magnesie enfant", "body": "Sac de magnesie petite taille avec ceinture ajustable. Modeles colores type Beal Cocoon Kids autour de 15 a 20 euros."}
+    ]},
+    {"type": "h2", "text": "Progression realiste"},
+    {"type": "p", "html": "La progression enfant ressemble peu a celle d'un adulte. Avant 10 ans, le travail technique est mineur, le jeu domine. Entre 10 et 14 ans, l'enfant developpe sa technique en imitant sans force specifique. Apres 14 ans, on peut commencer un travail plus structure."},
+    {"type": "p", "html": "Un enfant motive et bien encadre peut atteindre 5c-6a a 12 ans et 6c-7a a 16 ans sans aucun forcage. Mais ce parcours suppose 2 a 3 seances par semaine avec encadrement et une vraie progression technique. Beaucoup d'enfants restent en loisir 1 fois par semaine, ce qui est tres bien aussi."},
+    {"type": "h2", "text": "Ce qu'il faut absolument eviter"},
+    {"type": "p", "html": "Avant 14 ans, <strong>pas de hangboard, pas de poutre, pas d'arquee ferme repetee</strong>. Les plaques de croissance des doigts ne sont pas fermees. Un enfant qui force sur les arquees a 10 ans casse ses poulies a 16 et arrete l'escalade. C'est documente medicalement, la FFME suit ces consignes."},
+    {"type": "p", "html": "Evite aussi les voies sur projection longue avec echec repetes pour les moins de 12 ans. L'enfant doit garder du plaisir et de la reussite a chaque seance. Trois projections rates a la suite et tu peux le perdre durablement. Les coachs FFME formes connaissent ces principes."},
+    {"type": "h2", "text": "La competition jeune, oui ou non"},
+    {"type": "table", "caption": "Decision competition jeune", "headers": ["Age", "Type de competition", "Approche conseillee"], "rows": [
+      ["7 a 10 ans", "Rencontres amicales club", "Encouragement, pas de classement strict"],
+      ["10 a 12 ans", "Departementales benjamines", "Decouverte sans pression, plaisir avant tout"],
+      ["12 a 14 ans", "Regionales minimes", "Premier engagement reel si l'enfant le demande"],
+      ["14 a 16 ans", "Nationales cadets", "Si motive et progression solide, sinon retour loisir"]
+    ]},
+    {"type": "p", "html": "J'etais top 200 jeunes FFME a 14 ans, et c'etait une experience formidable. Mais beaucoup de mes camarades de competition ont abandonne l'escalade vers 17-18 ans, brules par l'intensite. Le piege de la compet jeune est de placer l'objectif performance avant le plaisir. A surveiller."},
+    {"type": "h2", "text": "Surveiller les signes"},
+    {"type": "p", "html": "Surveille trois signes chez ton enfant. Premier : <strong>douleur articulaire</strong> persistant apres seance, surtout aux doigts ou aux coudes. Stop et consultation. Deuxieme : <strong>fatigue chronique</strong> ou refus de venir aux seances. Le sport ne doit pas etre un fardeau. Troisieme : <strong>perte de poids inexpliquee</strong>, signe possible de pression mentale ou regime spontane."},
+    {"type": "p", "html": "L'escalade peut declencher des troubles alimentaires chez les adolescents, surtout en milieu competition. La culture du grimpeur leger a fait des degats dans les annees 2010-2020. Le club FFME suit maintenant des consignes specifiques, mais le parent reste le premier filtre. Garde un oeil bienveillant."},
+    {"type": "h2", "text": "Falaise avec les enfants"},
+    {"type": "p", "html": "Apres 2-3 ans de salle, tu peux emmener ton enfant en <a href=\"/blog/sortie-rocher-debutant\">premiere sortie en falaise</a>. Choisis un secteur ecole peu frequente, en semaine si possible. Le calme du rocher rassure l'enfant et permet a sa premiere experience d'etre belle. Saffres ou Saussois sont des classiques accessibles."},
+    {"type": "p", "html": "Ne fais pas plus de 3-4 voies en falaise pour la premiere sortie, l'enfant fatigue vite. Privilegie la qualite, le picnic, l'experience globale. Mes premieres falaises avec mon pere etaient courtes et joyeuses, c'est ce qui m'a fait revenir."},
+    {"type": "quote", "text": "L'escalade enfant se transmet par le plaisir, pas par la performance. Garde ca en tete a chaque seance.", "author": "Antoine", "role": "grimpeur depuis 13 ans, ancien top 200 jeunes FFME"}
+  ],
+  "faq": [
+    {"q": "Mon enfant peut-il grimper s'il a peur du vide ?", "a": "Oui mais en progression douce. Commence par l'<a href=\"/blog/autobelay-en-salle\">autobelay en salle</a> avec hauteur progressive. La peur du vide est normale chez l'enfant et disparait souvent avec l'experience encadree. Ne le force jamais, attends sa demande."},
+    {"q": "Combien de seances par semaine pour un enfant ?", "a": "Une seance suffit largement pour un loisir. Deux seances pour un enfant tres motive qui veut progresser. Au-dela, le risque de surmenage et de blessure augmente. Le sport doit rester un plaisir, pas une obligation quotidienne."},
+    {"q": "Faut-il un equipement neuf ou d'occasion ?", "a": "Pour le baudrier et les chaussons, l'occasion fonctionne tres bien jusqu'a 12 ans. Les enfants changent de taille trop vite pour amortir le neuf. Verifie l'etat des sangles et des coutures, et change tout des le premier signe d'usure."},
+    {"q": "Quel age maximum pour commencer l'escalade enfant ?", "a": "Aucun age maximum, beaucoup d'adolescents 15-18 ans rejoignent l'escalade et progressent excellemment. La fenetre 5-12 ans est juste favorable pour developper l'intuition gestuelle, mais ce n'est pas eliminatoire pour les plus tard."},
+    {"q": "Mon enfant veut faire de la competition, est-ce bon ?", "a": "Si la demande vient de lui et qu'il continue a s'amuser, oui. Si la pression vient des parents ou du coach, attention. La competition jeune apporte beaucoup en confiance et en discipline, mais elle epuise vite si elle remplace le plaisir."},
+    {"q": "Que faire si mon enfant veut arreter l'escalade ?", "a": "Respecte sa decision, sans drame. Le sport doit lui plaire. Beaucoup d'enfants arretent vers 12-13 ans en pleine puberte, et reviennent vers 16-18 ans avec un autre regard. La porte reste ouverte, sans pression."}
+  ],
+  "cover_alt": "Petite fille en baudrier rouge et chaussons gris en train de grimper une voie de salle facile, coach souriant qui assure depuis le sol, prises colorees a sa portee",
+  "internal_links": [
+    {"slug": "apprendre-escalade-debutant-2026", "anchor": "apprendre l'escalade en 2026", "context": "Pilier general"},
+    {"slug": "autobelay-en-salle", "anchor": "autobelay en salle", "context": "Outil d'apprentissage"},
+    {"slug": "sortie-rocher-debutant", "anchor": "premiere sortie en falaise", "context": "Etape progression"},
+    {"slug": "premiere-fois-salle-escalade", "anchor": "premiere seance en salle", "context": "Decouverte salle"},
+    {"slug": "escalade-senior-debuter", "anchor": "escalade pour seniors", "context": "Public specifique miroir"}
+  ],
+  "scheduled_at": "2026-07-30T09:00:00+02:00"
+}

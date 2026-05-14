@@ -1,0 +1,72 @@
+{
+  "slug": "placement-corps-equilibre",
+  "cocon": "techniques",
+  "type_article": "guide",
+  "numero": 15,
+  "title": "Placement du corps et équilibre en escalade, les bases",
+  "h1": "Placement du corps et équilibre en escalade, ce qui change tout",
+  "description": "Placement du corps en escalade : centre de gravité, bassin, drapeau, lolotte, gaston. Les positions à connaître pour économiser ses bras.",
+  "chapo": "On parle souvent du placement des pieds. On oublie le placement du corps entier, qui décide pourtant si tu vas atteindre la prise suivante ou non. Ce guide passe en revue le centre de gravité, le rôle du bassin, les positions classiques comme le drapeau, la lolotte, le gaston, et donne les exercices pour les intégrer en deux à quatre semaines.",
+  "takeaways": [
+    "Le centre de gravité doit rester au-dessus de la prise de pied porteuse.",
+    "Le bassin orienté vers le mur, c'est la base, contre l'instinct du débutant.",
+    "Le drapeau, la lolotte et le gaston résolvent 80 % des passages 5c à 6b.",
+    "On regarde son bassin pas ses mains : c'est lui qui définit l'équilibre.",
+    "Quinze minutes par séance dédiées au placement font gagner un niveau en six semaines."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Le centre de gravité, point de départ"},
+    {"type": "p", "html": "Tout en grimpe commence par la position du <strong>centre de gravité</strong>, qui se situe approximativement à hauteur du nombril chez l'adulte. Quand ce centre est au-dessus de la prise de pied principale, tu es en équilibre. Quand il s'en éloigne, tu compenses avec les bras. Ce principe physique simple explique 80 % des situations où tu te dis 'je n'arrive pas à atteindre la prise', alors que ton corps est dans une mauvaise position."},
+    {"type": "p", "html": "Le débutant garde son centre de gravité vers l'extérieur du mur, parce qu'il a peur de se rapprocher du caillou. Le grimpeur expérimenté l'amène <strong>près de la paroi</strong>, ce qui place les jambes en charge et libère les bras. Cette différence change la fatigue avant-bras, l'amplitude des gestes et la possibilité de récupérer dans une position d'équilibre. Sans travail sur le centre de gravité, tu ne passes pas un certain niveau en grimpe verticale et a fortiori en dévers."},
+    {"type": "h2", "text": "Le bassin, le vrai gouvernail"},
+    {"type": "p", "html": "Le bassin est l'organe central de la grimpe. Ses trois positions de base sont la face au mur (bassin perpendiculaire à la paroi), de profil (bassin parallèle au mur), et en torsion (rotation d'un côté). Sur du vertical facile, tu grimpes face au mur. Dès que ça devient technique, tu vas alterner profil et torsion. Le bassin de profil te rapproche du mur et économise les bras de 30 à 40 %."},
+    {"type": "p", "html": "L'erreur classique du débutant, c'est de toujours rester face au mur. Tu tires aux bras, tu fatigues vite, tu rates les prises éloignées. La consigne simple : à chaque mouvement, oriente ton bassin du côté du bras qui va attraper. Si tu attrapes avec le bras droit, ton bassin pivote vers la gauche, et inversement. Ce réflexe se construit en cinq séances et s'intègre à la <a href=\"/blog/rotation-pivot-escalade\">grammaire des hanches</a> qui définit la grimpe technique."},
+    {"type": "h2", "text": "Les trois positions à connaître absolument"},
+    {"type": "list", "variant": "cards", "title": "Les trois figures de base", "items": [
+      {"title": "Le drapeau (flag)", "body": "Une jambe pousse sur une prise, l'autre se déploie dans le vide pour faire contrepoids et stabiliser le bassin. Trois variantes : drapeau intérieur, extérieur, et avant. Outil universel sur toute paroi verticale ou peu déverse."},
+      {"title": "La lolotte (drop knee)", "body": "Le genou pointe vers le bas, le bassin colle au mur. Position signature du dévers, parce qu'elle place le centre de gravité contre la paroi et économise massivement les bras. Difficile à apprendre, indispensable au-delà de 6b en dévers."},
+      {"title": "Le gaston", "body": "Tu tires une prise verticale latérale en poussant à l'opposé du corps, paume vers l'extérieur. Position de transition souvent négligée. Indispensable sur les voies sportives modernes où les prises latérales remplacent les bacs frontaux."}
+    ]},
+    {"type": "p", "html": "Tu vas rencontrer ces trois positions dès les 6a en salle, et tu les croiseras sur quasi toutes les voies sportives en falaise au-dessus de 6b. Le grimpeur qui ne sait pas faire de lolotte plafonne en dévers à 6a-6b. Celui qui ne sait pas faire de drapeau gaspille de l'énergie sur du vertical. Le gaston est plus rare mais résout des passages où le bac frontal manque. Les <a href=\"/blog/devers-techniques-puissance\">techniques de dévers</a> exploitent ces trois positions à 100 %."},
+    {"type": "h2", "text": "Le regard, ton GPS d'équilibre"},
+    {"type": "p", "html": "Là où le débutant regarde, le grimpeur expérimenté regarde différemment. Le débutant fixe la prochaine prise de main. Il oublie le bassin, oublie les pieds, et perd l'équilibre. Le grimpeur entraîné regarde <strong>son bassin et ses pieds</strong> par moments, puis remonte vers la prise. Ce balayage du regard maintient la conscience corporelle complète. Tu peux t'entraîner à ce balayage en faisant des voies en mode lent."},
+    {"type": "tip", "title": "Vérifier ton placement avec une photo", "body": "Demande à ton partenaire de te filmer ou photographier en pleine voie. Tu vas être surpris : tu te crois proche du mur, tu es à 30 cm. Tu te crois en équilibre, tu es en porte-à-faux. La vidéo objective tes défauts mieux que n'importe quelle correction verbale.", "tone": "astuce"},
+    {"type": "h2", "text": "L'équilibre statique contre dynamique"},
+    {"type": "p", "html": "Deux écoles s'opposent en escalade. L'équilibre statique consiste à se placer à chaque mouvement de sorte que la position soit tenable sans effort, puis à bouger d'une prise stable à une autre. L'équilibre dynamique accepte des moments hors équilibre, compensés par le mouvement. Les deux ont leur place. Sur du dur, on bascule plus souvent en dynamique. Sur du long, on cherche la statique pour économiser."},
+    {"type": "table", "caption": "Quand utiliser statique ou dynamique", "headers": ["Situation", "Choix typique", "Pourquoi"], "rows": [
+      ["Voie longue d'endurance", "Statique", "Économie de force, gestion de la pompe"],
+      ["Crux explosif", "Dynamique", "La force statique ne suffit pas, lancer la dynamique"],
+      ["Dalle technique", "Statique stricte", "Adhérence trop fragile pour un mouvement brutal"],
+      ["Dévers en bloc", "Mixte", "Lolotte statique en repos, dynamique sur les mouvements clés"]
+    ]},
+    {"type": "p", "html": "Le grimpeur autonome alterne en permanence. Sur une voie de 6b en salle, tu peux faire les huit premiers mètres en statique pour économiser, puis basculer en dynamique sur les deux mouvements du crux. C'est cet aller-retour qui distingue le grimpeur tactique du grimpeur pur force. Le <a href=\"/blog/dyno-mouvement-explosif\">dyno</a> est l'expression extrême du dynamique."},
+    {"type": "h2", "text": "Exercices pour ancrer le placement"},
+    {"type": "p", "html": "Trois exercices fonctionnent sur tous les grimpeurs. Premier : la <strong>traverse en silence</strong>. Sur une traverse balisée, tu grimpes en silence de pieds et de bassin. Pas de claquement, pas de bruit de friction. Tu obliges ton corps à se placer parfaitement avant chaque mouvement. Deuxième : la grimpe les yeux fermés un coup sur deux. Tu écoutes ton corps au lieu de regarder, ce qui amplifie la conscience du bassin et du centre de gravité."},
+    {"type": "p", "html": "Troisième exercice : refais une voie en exagérant le drapeau et la lolotte sur chaque mouvement, même quand ce n'est pas optimal. Tu vas grimper laid, tu vas grimper lent, mais tu vas intégrer la position dans ton vocabulaire moteur. Après deux séances en mode exagération, tu fais le geste correct au bon moment instinctivement. Ces trois exercices se cumulent à un bon <a href=\"/blog/poser-pieds-escalade-placement\">placement des pieds</a>, le binôme inséparable."},
+    {"type": "quote", "text": "Quand le bassin est à sa place, les mains servent juste à orienter. Quand il n'y est pas, les mains font le travail des jambes.", "author": "Antoine", "role": "auteur de cette page, 8a falaise"},
+    {"type": "h2", "text": "Les pièges typiques du placement"},
+    {"type": "p", "html": "Premier piège : grimper le buste collé au mur en oubliant le bassin. Tu te crois proche, ton bassin est à 25 centimètres. Mauvais transfert, jambes inutilisées. Deuxième : tourner uniquement les épaules sans le bassin. Les épaules suivent le bassin, jamais l'inverse. Si tu pivotes seulement les épaules, tu te tords inutilement. Troisième : oublier le drapeau quand il s'impose, par habitude de pied à pied classique."},
+    {"type": "p", "html": "Quatrième piège : abuser de la lolotte sur du vertical. La lolotte est pensée pour le dévers, pas pour la dalle ou le mur droit. Sur du vertical, elle coince les jambes inutilement. Cinquième : essayer de tout faire en statique. Sur certaines voies, le dynamique est obligatoire et insister en statique te grille. Sache reconnaître quand basculer, c'est une compétence à part qui s'affine avec les saisons."},
+    {"type": "h2", "text": "Travailler le placement en autonomie"},
+    {"type": "p", "html": "Un grimpeur autonome se filme régulièrement et reprend les passages où il a galéré. Au début, regarde-toi sans son, en accéléré x2. Tu vas repérer les bassins qui basculent vers l'extérieur, les drapeaux ratés, les pieds qui glissent. Une analyse de cinq minutes par séance après la grimpe vaut une heure de discussion théorique. Si tu n'as pas de partenaire pour filmer, beaucoup de salles ont des supports pour téléphone à l'entrée des couloirs."},
+    {"type": "p", "html": "Deuxième levier : observer les grimpeurs plus forts. En salle, regarde une grimpeuse ou un grimpeur qui passe à 7a ou 7b sur ta voie projet, et reproduis son placement. Pas son mouvement complet, juste où elle met son bassin, comment elle oriente ses pieds. C'est l'observation tactique qui débloque le plus vite, pas l'écoute des conseils. Pour pousser plus loin, prends une séance avec un moniteur diplômé deux fois par an, ça vaut largement les 40 euros payés à chaque fois."}
+  ],
+  "faq": [
+    {"q": "Combien de temps pour intégrer drapeau et lolotte ?", "a": "Deux à quatre semaines de pratique régulière, avec dix à quinze minutes par séance dédiées au placement. Tu fais d'abord les positions exagérées en exercice, puis tu les intègres progressivement dans tes voies habituelles."},
+    {"q": "Le placement compte-t-il autant en bloc qu'en voie ?", "a": "Encore plus en bloc, parce que chaque mouvement compte et que la marge d'erreur est nulle. Un mauvais placement en bloc te coûte le mouvement direct, pas après cinq minutes de fatigue comme en voie. C'est pour ça que les blocs de Fontainebleau forment si bien les grimpeurs."},
+    {"q": "Faut-il être souple pour bien se placer ?", "a": "La souplesse aide mais n'est pas indispensable. Un grimpeur peu souple peut compenser avec la précision et le timing. Les étirements ouverture de hanches améliorent surtout la lolotte profonde. Une demi-heure d'étirements par semaine suffit à débloquer la majorité."},
+    {"q": "Le placement diffère-t-il entre hommes et femmes ?", "a": "Le centre de gravité féminin est légèrement plus bas, ce qui favorise l'équilibre sur petites prises de pieds. Les grimpeuses ont souvent un meilleur sens du placement instinctif. Aucune règle générale, mais la statistique salle confirme cette tendance."},
+    {"q": "Quand on grimpe en grande voie, ça change ?", "a": "Oui, parce que la fatigue cumulée sur plusieurs longueurs oblige à privilégier le placement économique sur la performance. Voir le sujet <a href=\"/blog/grandes-voies-tactique\">tactique de grande voie</a> pour les spécificités."},
+    {"q": "Doit-on travailler le placement avant la force ?", "a": "Toujours. Au moins jusqu'au 6b sportif. La force vient compenser un mauvais placement, mais elle a un plafond, alors que le placement n'en a pas. Les grimpeurs forts mais mal placés stagnent vers 7a, les bien placés montent à 8a sans muscle particulier."}
+  ],
+  "cover_alt": "Une grimpeuse en position lolotte sur un mur dévers en salle, genou droit pointé vers le bas, bassin collé au mur, bras gauche tendu vers une prise rouge",
+  "internal_links": [
+    {"slug": "apprendre-escalade-debutant-2026", "anchor": "apprendre l'escalade", "context": "Pilier du cocon"},
+    {"slug": "poser-pieds-escalade-placement", "anchor": "placement des pieds", "context": "Sujet jumeau"},
+    {"slug": "rotation-pivot-escalade", "anchor": "grammaire des hanches", "context": "Approfondissement"},
+    {"slug": "devers-techniques-puissance", "anchor": "techniques de dévers", "context": "Application typique"},
+    {"slug": "dyno-mouvement-explosif", "anchor": "dyno", "context": "Cas extrême du dynamique"},
+    {"slug": "grandes-voies-tactique", "anchor": "tactique de grande voie", "context": "Contexte spécifique"}
+  ],
+  "scheduled_at": "2026-06-06T09:00:00+02:00"
+}

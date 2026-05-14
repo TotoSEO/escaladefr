@@ -1,0 +1,175 @@
+{
+  "slug": "siurana-margalef-catalogne",
+  "cocon": "sites",
+  "type_article": "guide",
+  "numero": 99,
+  "title": "Siurana et Margalef : Catalogne côté français",
+  "h1": "Siurana et Margalef, Catalogne côté grimpeurs français.",
+  "description": "Guide de Siurana et Margalef en Catalogne : calcaire conglomérat, La Rambla 9a+, accès depuis la France et conseils saison hivernale.",
+  "chapo": "Siurana et Margalef, c'est la Mecque hivernale des grimpeurs européens. À 3 heures de Perpignan, deux falaises catalanes parmi les plus belles du monde. La Rambla de Sharma, Demencia Senil, des milliers de voies sur calcaire compact ou conglomérat orange. Je n'y suis pas encore monté mais je prévois un séjour à Noël prochain. Voici les secteurs, l'accès, le matériel et la magie de la Catalogne grimpante.",
+  "takeaways": [
+    "Siurana et Margalef offrent plus de 2 500 voies dans un rayon de 30 kilomètres.",
+    "La Rambla 9a+ de Chris Sharma reste l'une des voies mythiques mondiales.",
+    "Le calcaire compact de Siurana contraste avec le conglomérat orange de Margalef.",
+    "Accès depuis Perpignan en 3 heures, idéal pour week-ends prolongés.",
+    "Saison hivernale d'octobre à avril, températures clémentes face sud."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Pourquoi grimper à Siurana et Margalef"
+    },
+    {
+      "type": "p",
+      "html": "Quand l'hiver gèle les falaises françaises, les grimpeurs sérieux descendent en Catalogne. <strong>Siurana et Margalef</strong> forment l'un des plus beaux duos d'escalade au monde, à 30 kilomètres l'un de l'autre, dans le Priorat catalan. Le village médiéval de Siurana, perché sur sa falaise, est devenu un symbole. Margalef, plus rural, plus brut, attire les amateurs de poches et de conglomérat. Je n'y suis pas encore allé, mais ce séjour fait partie de mes projets pour l'hiver 2026-2027."
+    },
+    {
+      "type": "p",
+      "html": "Les deux sites partagent une géographie et un climat favorables. Falaises orientées principalement sud et sud-est, températures hivernales douces grâce à la proximité méditerranéenne, ensoleillement maximal en saison froide. C'est exactement ce que cherchent les grimpeurs qui veulent travailler du dur sans souffrir du froid. Tu enchaînes des projets en T-shirt à 15 degrés alors que la Provence française grelotte à 5 degrés."
+    },
+    {
+      "type": "p",
+      "html": "Le statut mythique vient surtout des voies emblématiques ouvertes au tournant des années 2000 par Chris Sharma, Ramonet et la nouvelle vague catalane. La Rambla en 9a+ à Siurana, première voie dans cette cotation, a marqué l'histoire. Demencia Senil 9a+ à Margalef a suivi. Aujourd'hui, des dizaines de voies dans le 8 et le 9 offrent des projets pour une vie entière. Les sites accueillent stages et compétitions, mais gardent une ambiance détendue."
+    },
+    {
+      "type": "h2",
+      "text": "Siurana, calcaire compact et village médiéval"
+    },
+    {
+      "type": "p",
+      "html": "Siurana se trouve à 740 mètres d'altitude, perchée sur une falaise dominant le réservoir de Siurana. Le village médiéval, dernier bastion musulman tombé aux mains des chrétiens en 1153, conserve une église romane, des ruelles pavées et des points de vue magnifiques. Le calcaire local appartient au Crétacé, compact, gris-bleu, parfois rosé selon l'éclairage. Il offre des prises franches sur réglettes et bidoigts, peu de patine malgré la fréquentation."
+    },
+    {
+      "type": "p",
+      "html": "Le site compte une vingtaine de secteurs disséminés autour du village. Can Piqui, El Pati, Can Marges, La Capella sont les plus connus. Les cotations s'étalent du 5c au 9a+, avec une forte densité dans le 7 et le 8. Les voies mesurent généralement 25 à 35 mètres, certaines atteignent 45 mètres. La résine du rocher accroche dès qu'il fait frais, ce qui explique l'enchaînement des records hivernaux. L'orientation sud-est donne le soleil le matin, ombre l'après-midi en hiver."
+    },
+    {
+      "type": "h2",
+      "text": "Margalef, conglomérat orange et poches"
+    },
+    {
+      "type": "p",
+      "html": "Margalef, à 30 kilomètres au nord-ouest de Siurana, offre un visage complètement différent. Le rocher est un conglomérat orange formé de galets calcaires cimentés dans une matrice carbonatée. L'érosion creuse des poches profondes, certaines incrustées de galets ronds. Cette texture unique en fait un site de poches par excellence. Tu accroches des galets de poing, tu enchaînes mono et bi-doigts dans des poches travaillées par l'eau."
+    },
+    {
+      "type": "p",
+      "html": "Le site compte plus de 1 800 voies réparties sur une trentaine de secteurs étagés dans le canyon. Espadelles, Raco de la Finestra, La Catedral sont parmi les plus fréquentés. Les cotations s'échelonnent du 5 au 9a+, avec une majorité dans le 7. Les voies courtes de 15 à 20 mètres permettent d'enchaîner les essais sur projet. Cette particularité fait de Margalef un site idéal pour qui veut bosser un projet en sessions courtes répétées."
+    },
+    {
+      "type": "table",
+      "caption": "Comparaison Siurana vs Margalef",
+      "headers": ["Critère", "Siurana", "Margalef"],
+      "rows": [
+        ["Localisation", "Priorat catalan", "Priorat catalan"],
+        ["Type rocher", "Calcaire compact", "Conglomérat orange à poches"],
+        ["Hauteur voies", "25 à 45 mètres", "15 à 25 mètres"],
+        ["Cotation dominante", "7 à 8a", "7a à 8b"],
+        ["Voies emblématiques", "La Rambla 9a+", "Demencia Senil 9a+"],
+        ["Hébergement", "Village et refuge", "Camping Margalef"],
+        ["Distance Perpignan", "3 heures", "3 h 15"],
+        ["Saison", "Octobre à avril", "Octobre à avril"]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Les voies historiques mondiales"
+    },
+    {
+      "type": "p",
+      "html": "<strong>La Rambla</strong>, à Siurana, secteur El Pati, est la voie qui a marqué l'histoire de l'escalade. Ouverte par Alex Huber en 1994 en 9a, prolongée par Chris Sharma en 2003 jusqu'au sommet pour devenir la première 9a+ de l'histoire. La voie suit une ligne de bidoigts et de monodoigts sur un dièdre vertical de 40 mètres. Elle a été enchaînée par moins de 50 grimpeurs dans le monde, dont quelques femmes comme Margo Hayes."
+    },
+    {
+      "type": "p",
+      "html": "<strong>Demencia Senil</strong>, à Margalef, secteur Raco de la Finestra, est l'autre référence. Ouverte par Sharma en 2003 dans une cotation 9a+ contestée, elle a été enchaînée depuis par Adam Ondra, Sébastien Bouin et quelques autres. La voie suit un dévers continu sur poches profondes, sans repos, sur 25 mètres. Elle illustre parfaitement le style Margalef : résistance pure sur poches, sans technique compliquée, juste de la puissance et de l'endurance."
+    },
+    {
+      "type": "p",
+      "html": "Au-delà des projets mythiques, les deux sites offrent des centaines de voies dans le 7 et le 8 qui font le bonheur des grimpeurs intermédiaires et avancés. Las Hermanas 8a à Siurana, Anesthesia 7c+ à Margalef, et tant d'autres. Pour le grimpeur 7a-7b, les sites proposent des centaines de voies parfaitement équipées qui permettent de progresser saison après saison dans un cadre exceptionnel."
+    },
+    {
+      "type": "list",
+      "variant": "bullets",
+      "title": "Secteurs incontournables",
+      "items": [
+        {"title": "Siurana El Pati", "body": "La Rambla, voies dures, ambiance amphithéâtre."},
+        {"title": "Siurana Can Piqui", "body": "Secteur initiation, voies 5 à 7, exposé soleil."},
+        {"title": "Margalef Espadelles", "body": "Secteur principal, dévers à poches, 6c à 8b."},
+        {"title": "Margalef La Catedral", "body": "Voies hautes 25 mètres, 7a à 9a, magnifique."},
+        {"title": "Siurana La Capella", "body": "Petit secteur orange, voies courtes intenses."},
+        {"title": "Margalef Finestra", "body": "Demencia Senil et autres extrêmes, paroi raide."}
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Accès depuis la France et logistique"
+    },
+    {
+      "type": "p",
+      "html": "Depuis Perpignan, compte 3 heures de route par l'autoroute AP-7 jusqu'à Falset, puis 20 minutes de routes secondaires. Depuis Toulouse, 4 heures via Perpignan. Depuis Marseille ou Lyon, plus long, 6 à 8 heures. L'aéroport de Reus, près de Tarragone, dessert le Priorat à 1 heure de voiture. Pour les longs séjours, la voiture reste indispensable, les deux sites étant éloignés des transports en commun."
+    },
+    {
+      "type": "p",
+      "html": "À Siurana, l'hébergement se concentre dans le village médiéval avec quelques chambres d'hôtes et un refuge climbing-friendly. Cornudella de Montsant, à 5 minutes en voiture, propose hôtels, restaurants et supermarchés. À Margalef, le camping Margalef accueille la communauté grimpeurs depuis vingt ans avec emplacements, bungalows et restaurant. Les villages alentour, La Bisbal de Falset et Margalef de Montsant, offrent aussi des chambres en pension complète."
+    },
+    {
+      "type": "tip",
+      "title": "Réserver à l'avance en haute saison",
+      "body": "Les hébergements se réservent plusieurs mois à l'avance pour les vacances de février et Pâques. Le camping Margalef affiche complet en haute saison. Pense aussi à louer une voiture tôt, les compagnies de Perpignan et Reus écoulent leur flotte vite. Apporte ton matériel, peu de magasins locaux.",
+      "tone": "info"
+    },
+    {
+      "type": "h2",
+      "text": "Saisonnalité et conditions"
+    },
+    {
+      "type": "p",
+      "html": "La saison s'étend d'octobre à avril, avec un pic en décembre, janvier et février. Les températures hivernales oscillent entre 8 et 18 degrés selon l'exposition, idéales pour la résine du calcaire et la performance. Les jours raccourcissent en décembre, on grimpe de 10 à 16 heures sur les faces sud. La fréquentation est forte aux vacances de Noël et de Pâques, plus calme en novembre et mars. L'été reste possible mais déconseillé, températures élevées et insolation."
+    },
+    {
+      "type": "p",
+      "html": "Les pluies sont rares en hiver dans le Priorat, climat méditerranéen sec. Quelques épisodes pluvieux en novembre ou en avril peuvent interrompre la grimpe. Le calcaire compact de Siurana sèche en quelques heures. Le conglomérat de Margalef demande un peu plus de patience à cause des poches profondes qui gardent l'humidité. La tramontane catalane souffle régulièrement, vérifie la météo avant de monter."
+    },
+    {
+      "type": "h2",
+      "text": "Préparer ton séjour catalan"
+    },
+    {
+      "type": "p",
+      "html": "Le matériel se compose classiquement : corde de 70 mètres minimum, 80 mètres pour les voies hautes de Margalef ou Siurana El Pati, quinze à vingt dégaines, assureur, chaussons agressifs pour le travail dur. Les topos de référence sont édités par Desnivel : Siurana de Toni Arbones et Margalef de la collection officielle. Disponibles en librairies espagnoles et françaises spécialisées. Mountain Project et 8a.nu complètent en numérique."
+    },
+    {
+      "type": "p",
+      "html": "Pour préparer ton hiver catalan, lis aussi <a href=\"/blog/sites-escalade-emblematiques-france\">notre panorama des sites français</a> et complète avec <a href=\"/blog/ceuse-cathedrale-calcaire\">le guide de Céüse</a>, autre temple du calcaire compact. Si tu cherches une alternative française pour l'hiver, va voir <a href=\"/blog/saint-leger-du-ventoux-escalade\">Saint-Léger-du-Ventoux</a> qui offre aussi des conditions hivernales douces."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quel niveau pour grimper à Siurana et Margalef ?",
+      "a": "Les deux sites accueillent tous les niveaux du 5 au 9a+. Pour profiter pleinement, un niveau 6c-7a permet d'accéder aux meilleures voies. Les grimpeurs 7b-8a y trouveront un terrain de jeu inépuisable. Quelques voies en 5 et 6 conviennent aux initiés."
+    },
+    {
+      "q": "Quelle différence entre Siurana et Margalef ?",
+      "a": "Siurana propose du calcaire compact, voies hautes verticales à légèrement déversantes. Margalef offre du conglomérat à poches, voies plus courtes très déversantes. Siurana convient mieux aux grimpeurs technique, Margalef aux puissants. Les deux se complètent parfaitement sur un séjour."
+    },
+    {
+      "q": "Quand grimper en Catalogne ?",
+      "a": "D'octobre à avril principalement. Décembre à février offrent les meilleures conditions pour la performance, températures fraîches sur faces ensoleillées. Évite l'été, trop chaud. Mars et novembre sont parfaits pour qui veut éviter la foule des vacances scolaires."
+    },
+    {
+      "q": "Faut-il parler espagnol pour grimper en Catalogne ?",
+      "a": "Non, beaucoup d'hébergeurs et de grimpeurs locaux parlent français ou anglais. Les topos existent en anglais. Quelques bases d'espagnol ou de catalan facilitent les échanges avec les villageois et améliorent l'expérience, mais ce n'est pas indispensable."
+    },
+    {
+      "q": "Combien de temps prévoir pour un séjour ?",
+      "a": "Une semaine minimum permet de découvrir les deux sites sans courir. Dix jours à deux semaines pour bien s'imprégner et travailler des projets. Beaucoup de grimpeurs viennent pour un mois complet en hiver, hébergés en camping ou en location longue durée."
+    }
+  ],
+  "cover_alt": "Falaise de calcaire de Siurana en Catalogne avec village médiéval perché",
+  "internal_links": [
+    {"slug": "sites-escalade-emblematiques-france", "anchor": "notre panorama des sites français", "context": "Pilier du cocon"},
+    {"slug": "ceuse-cathedrale-calcaire", "anchor": "le guide de Céüse", "context": "Autre temple calcaire compact"},
+    {"slug": "saint-leger-du-ventoux-escalade", "anchor": "Saint-Léger-du-Ventoux", "context": "Alternative hivernale française"},
+    {"slug": "buoux-luberon-historique", "anchor": "Buoux dans le Luberon", "context": "Autre site méditerranéen"}
+  ],
+  "scheduled_at": "2026-12-19T09:00:00+01:00"
+}
