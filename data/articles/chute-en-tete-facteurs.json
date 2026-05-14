@@ -190,28 +190,28 @@
   "internal_links": [
     {
       "slug": "securite-escalade-regles-essentielles",
-      "anchor": "notre pilier sur les règles essentielles de sécurité",
-      "context": "Pilier du cocon"
-    },
-    {
-      "slug": "partenaire-grimpe-confiance",
-      "anchor": "notre article sur le choix d'un partenaire de confiance",
-      "context": "Article frère du cocon"
-    },
-    {
-      "slug": "rappel-securite-procedure",
-      "anchor": "notre guide sur la procédure de rappel sécurisé",
-      "context": "Article frère du cocon"
-    },
-    {
-      "slug": "check-list-avant-grimper",
-      "anchor": "la check list à appliquer avant de grimper",
-      "context": "Article frère du cocon"
+      "anchor": "les règles essentielles de sécurité",
+      "context": "pilier sécurité, premier lien interne"
     },
     {
       "slug": "verification-baudrier-corde-noeud",
-      "anchor": "la triple vérification baudrier corde nœud",
-      "context": "Article frère du cocon"
+      "anchor": "l'inspection complète de l'encordement",
+      "context": "même cocon, condition force de choc"
+    },
+    {
+      "slug": "partenaire-grimpe-confiance",
+      "anchor": "Choisir un partenaire de confiance",
+      "context": "même cocon, assurage dynamique"
+    },
+    {
+      "slug": "check-list-avant-grimper",
+      "anchor": "la check-list avant chaque longueur",
+      "context": "même cocon, renvoi sur relais"
+    },
+    {
+      "slug": "rappel-securite-procedure",
+      "anchor": "le rappel maîtrisé en falaise",
+      "context": "même cocon, redescente quand montée impossible"
     }
   ],
   "scheduled_at": "2026-03-18T09:00:00+01:00"
