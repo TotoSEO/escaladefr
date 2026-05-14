@@ -1,0 +1,163 @@
+{
+  "slug": "gorges-tarn-massif-central",
+  "cocon": "sites",
+  "type_article": "guide",
+  "numero": 88,
+  "title": "Gorges du Tarn : escalade au cœur du Massif Central",
+  "h1": "Gorges du Tarn, panorama d'escalade du Massif Central",
+  "description": "Explore les Gorges du Tarn, paradis du calcaire dolomitique en Lozère : Cinglégros, Saint-Marcellin, Tennessee, secteurs Causse et conseils saison complets.",
+  "chapo": "Les Gorges du Tarn, c'est un canyon de 50 kilomètres taillé dans le calcaire dolomitique, entre Lozère et Aveyron. Des falaises de 200 à 400 mètres, des grandes voies historiques, des secteurs sportifs comme Tennessee et Cinglégros, et une nature préservée. Je te raconte ce paradis du Massif Central, ses ambiances très variées, ses cités troglodytes et la magie de grimper face aux vautours.",
+  "takeaways": [
+    "Les Gorges du Tarn traversent la Lozère et l'Aveyron sur 50 kilomètres de falaises.",
+    "Le calcaire dolomitique du Causse offre des grandes voies et des couennes sportives.",
+    "Cinglégros, Saint-Marcellin et Tennessee figurent parmi les secteurs phares.",
+    "Plus de 1000 voies équipées du 4c au 9a se répartissent sur la vallée.",
+    "On grimpe principalement d'avril à octobre, l'altitude modère les températures."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Les Gorges du Tarn, un labyrinthe vertical"
+    },
+    {
+      "type": "p",
+      "html": "La première fois que je suis descendu dans les Gorges du Tarn, j'avais dix-huit ans et je venais de quitter le lycée Camille Sée à Colmar. On était quatre, en route pour deux semaines de grimpe avec une vieille voiture chargée jusqu'au toit. Quand on est arrivé au belvédère du Pas de Souci, j'ai compris pourquoi les amis du club en parlaient avec autant de respect. Le canyon s'enfonce de 400 mètres, le Tarn serpente en bas, et les falaises se dressent partout, partout, partout. C'est immense."
+    },
+    {
+      "type": "p",
+      "html": "Le site occupe le territoire de la <strong>Lozère</strong> et de l'Aveyron, entre Florac et Le Rozier, dans le Parc national des Cévennes. Plus de mille voies équipées se répartissent sur une trentaine de secteurs, allant de la grande voie de 300 mètres aux couennes sportives de 25 mètres. L'altitude moyenne autour de 600 à 900 mètres modère les températures estivales et permet une saison étendue de mars à novembre selon les expositions."
+    },
+    {
+      "type": "p",
+      "html": "Le coin a été ouvert dans les années 70 et 80 par les pionniers de l'escalade libre française. Les noms de Patrick Edlinger, Jean-Baptiste Tribout et de nombreux ouvreurs locaux apparaissent sur les voies historiques. La diversité des styles est l'atout majeur du site. Tu peux grimper du dévers à doigts à Tennessee, des dalles à Saint-Marcellin, des grandes voies engagées à Cinglégros, le tout dans un rayon de quinze kilomètres."
+    },
+    {
+      "type": "h2",
+      "text": "Le calcaire dolomitique du Causse"
+    },
+    {
+      "type": "p",
+      "html": "Le rocher des Gorges du Tarn est un calcaire dolomitique du Jurassique moyen et supérieur. Sa particularité tient à sa teneur en magnésium, qui le rend plus résistant à l'érosion chimique et lui donne cette couleur ocre rosée si caractéristique. La roche est sculptée en éperons, tafonis, baumes et grands surplombs, héritage millions d'années de dissolution et d'effondrements karstiques. Tu trouves des préhensions très variées, du bac franc au monodoigt, du plat étiré au pincement de stalactite."
+    },
+    {
+      "type": "p",
+      "html": "La présence du Causse au-dessus des gorges influence directement la qualité du rocher. Les plateaux calcaires drainent l'eau qui ressurgit dans les falaises sous forme de sources, de baumes et de concrétions. Certains secteurs présentent des coulées de calcite blanche spectaculaires. La dolomie, plus dure, offre une accroche supérieure au calcaire pur, ce qui rend les voies en dévers plus tenables que sur d'autres sites comparables."
+    },
+    {
+      "type": "table",
+      "caption": "Fiche d'identité du site",
+      "headers": ["Critère", "Détail"],
+      "rows": [
+        ["Type de rocher", "Calcaire dolomitique du Jurassique, ocre rosé"],
+        ["Orientation", "Toutes orientations selon les secteurs et la rive"],
+        ["Exposition", "Très variable, ombrage matin ou après-midi possible partout"],
+        ["Cotation min/max", "Du 4c au 9a, large éventail dans tous les niveaux"],
+        ["Nombre de voies", "Plus de 1000 voies sur 30 secteurs entre Florac et Le Rozier"],
+        ["Période favorable", "Avril à octobre, mars et novembre selon expositions"],
+        ["Accès", "Route D907bis le long du Tarn, parkings au pied des sites"],
+        ["Parking", "Plusieurs aires gratuites, attention en haute saison"]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Cinglégros, le secteur phare"
+    },
+    {
+      "type": "p",
+      "html": "<strong>Cinglégros</strong> est sans doute le secteur le plus connu des Gorges du Tarn. La falaise se dresse face à la rive droite, sur la commune de Saint-Pierre-des-Tripiers. Plus de 150 voies y sont équipées, du 5c au 8c, sur une hauteur variant de 25 à 80 mètres. Le calcaire y est compact, légèrement dévers, sculpté de trous et de réglettes. C'est le terrain de jeu favori des grimpeurs de niveau 6c à 8a, avec une concentration impressionnante de classiques."
+    },
+    {
+      "type": "p",
+      "html": "La marche d'approche depuis le parking prend environ 20 minutes, sur un sentier raide qui chauffe vite quand il fait soleil. L'orientation principalement nord-ouest permet de grimper l'après-midi en pleine ombre, idéal pour les chaudes journées d'été. Les voies de 30 à 50 mètres dominent, avec des relais bien équipés et des descentes en moulinette ou en rappel. Un classique pour comprendre l'esprit des gorges."
+    },
+    {
+      "type": "h2",
+      "text": "Tennessee, Saint-Marcellin et la diversité des secteurs"
+    },
+    {
+      "type": "p",
+      "html": "<strong>Tennessee</strong>, sur la rive opposée, propose une grimpe très différente. Calcaire concrétionné, baumes, stalactites suspendues, ambiance américaine d'où le nom. Les voies dans le 7 et 8 dominent, avec quelques pépites dans le 8c et 9a. Le secteur est exposé sud-est, idéal au printemps et à l'automne, brûlant en été. <strong>Saint-Marcellin</strong>, plus en aval, offre des dalles techniques et quelques grandes voies dans le 6 et 7, parfaites pour découvrir le site sans engagement excessif."
+    },
+    {
+      "type": "p",
+      "html": "Au-delà de ces grands noms, les Gorges du Tarn cachent des dizaines de secteurs moins fréquentés mais tout aussi intéressants. Le Boundoulaou pour les grandes voies, Pougnadoires pour les couennes en dalle, Cassagnes pour les dévers, Saint-Chély pour les niveaux intermédiaires. Tu peux passer un mois sur place sans répéter une seule voie. La région se vit en immersion."
+    },
+    {
+      "type": "list",
+      "variant": "bullets",
+      "title": "Les secteurs phares des Gorges du Tarn",
+      "items": [
+        {"title": "Cinglégros", "body": "Plus de 150 voies du 5c au 8c, ombre l'après-midi, classique incontournable."},
+        {"title": "Tennessee", "body": "Concrétions et baumes, voies dans le 7 et 8, ambiance dévers cathédrale."},
+        {"title": "Saint-Marcellin", "body": "Dalles techniques et grandes voies dans le 6 et 7, parfait pour découvrir."},
+        {"title": "Pougnadoires", "body": "Calcaire compact en dalle, voies dans le 6 à 7b, ambiance vallée."},
+        {"title": "Boundoulaou", "body": "Grandes voies engagées jusqu'à 200 mètres, terrain d'aventure."},
+        {"title": "Le Causse", "body": "Petits secteurs sur le plateau, idéaux les jours chauds, niveaux variés."}
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Saisonnalité et microclimats des gorges"
+    },
+    {
+      "type": "p",
+      "html": "Les Gorges du Tarn se grimpent quasiment toute l'année grâce à la diversité d'orientations. D'avril à juin, toutes les expositions sont praticables, c'est la haute saison. L'été, on se réfugie sur les secteurs nord ou en ombre, comme Cinglégros l'après-midi ou les baumes profondes. L'automne offre des conditions parfaites jusqu'à fin octobre, parfois novembre. L'hiver, certaines voies sud restent praticables les jours ensoleillés. En 2026 surveille les épisodes pluvieux cévenols, parfois violents."
+    },
+    {
+      "type": "p",
+      "html": "Le climat local est marqué par les influences méditerranéennes et montagnardes mêlées. Les épisodes cévenols peuvent déverser 200 millimètres en quelques heures, transformant le Tarn en torrent. Après ces orages, certaines voies restent humides plusieurs jours, surtout en dévers où l'eau de percolation suinte longtemps. Le rocher dolomitique sèche cependant plus vite que le calcaire pur, c'est un avantage."
+    },
+    {
+      "type": "tip",
+      "title": "Choisir son secteur selon la météo",
+      "body": "Le matin, privilégie les secteurs nord-est qui prennent le premier soleil et sèchent vite. L'après-midi en été, va sur Cinglégros ou les baumes du Boundoulaou. Par grand froid, choisis les expositions sud comme Tennessee ou Pougnadoires. La diversité des gorges permet toujours de trouver un secteur adapté.",
+      "tone": "info"
+    },
+    {
+      "type": "h2",
+      "text": "Vivre les Gorges du Tarn au-delà de la grimpe"
+    },
+    {
+      "type": "p",
+      "html": "Le site se vit aussi comme une destination patrimoniale. Les villages de Sainte-Énimie, La Malène, Castelbouc sont classés parmi les plus beaux de France. Les cités troglodytes accrochées aux falaises racontent un millénaire d'occupation humaine. Les vautours fauves, réintroduits dans les années 80, planent au-dessus des voies pendant que tu grimpes. C'est une expérience totale, mêlant escalade, nature et histoire."
+    },
+    {
+      "type": "p",
+      "html": "Pour comparer avec d'autres canyons d'escalade, va voir notre article sur le <a href=\"/blog/verdon-grandes-voies\">Verdon et ses grandes voies</a>. Si tu veux explorer d'autres sites du Massif Central, lis notre guide sur les <a href=\"/blog/gorges-loire-massif-central\">Gorges de la Loire</a>. Pour une vision d'ensemble, va voir notre pilier sur les <a href=\"/blog/sites-escalade-emblematiques-france\">sites d'escalade emblématiques de France</a>."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle est la meilleure saison pour grimper aux Gorges du Tarn ?",
+      "a": "D'avril à juin et de septembre à octobre offrent les meilleures conditions. L'été reste praticable sur les secteurs nord ou ombragés. L'hiver fonctionne sur les expositions sud par beau temps. La diversité d'orientations permet de grimper toute l'année."
+    },
+    {
+      "q": "Où dormir dans les Gorges du Tarn ?",
+      "a": "Plusieurs campings au bord du Tarn accueillent les grimpeurs, notamment à La Malène et Saint-Chély. Des gîtes existent à Sainte-Énimie et Le Rozier. Pour plus de confort, hôtels à Florac et Millau. Le bivouac est réglementé dans le Parc national."
+    },
+    {
+      "q": "Faut-il un topo papier ou les Climbing Topos suffisent ?",
+      "a": "Le topo papier des Gorges du Tarn édité par les ouvreurs locaux reste indispensable, vu l'étendue du site. Climbing Topos couvre les secteurs principaux. Une carte IGN au 25 millième aide à se repérer dans la vallée."
+    },
+    {
+      "q": "Y a-t-il des restrictions d'accès actuelles ?",
+      "a": "Le site se trouve dans le Parc national des Cévennes. Quelques secteurs sont fermés en période de nidification des vautours et faucons, généralement entre février et juin. Consulte les panneaux locaux et le site du Parc avant ta venue."
+    },
+    {
+      "q": "Quelles voies pour découvrir le site en 6c ?",
+      "a": "Va à Saint-Marcellin ou Pougnadoires. Cherche les classiques du 6a au 6c, bien équipées, hauteurs modérées de 20 à 40 mètres. Cinglégros propose aussi quelques voies dans ce niveau, mais l'ambiance est plus engagée. Mieux vaut s'échauffer doucement."
+    },
+    {
+      "q": "Et pour les grimpeurs de haut niveau cherchant du 8a et plus ?",
+      "a": "Cinglégros et Tennessee concentrent les voies dures. Cherche les lignes ouvertes par Edlinger, Tribout et les locaux dans les années 90 et 2000. Quelques pépites existent dans le 8c et 9a, à Tennessee notamment. Le site se renouvelle régulièrement."
+    }
+  ],
+  "cover_alt": "Falaise calcaire des Gorges du Tarn surplombant la rivière en Lozère",
+  "internal_links": [
+    {"slug": "sites-escalade-emblematiques-france", "anchor": "sites d'escalade emblématiques de France", "context": "Pilier du cocon sites"},
+    {"slug": "verdon-grandes-voies", "anchor": "Verdon et ses grandes voies", "context": "Autre canyon d'escalade"},
+    {"slug": "gorges-loire-massif-central", "anchor": "Gorges de la Loire", "context": "Autre site du Massif Central"},
+    {"slug": "ceuse-cathedrale-calcaire", "anchor": "Céüse cathédrale de calcaire", "context": "Autre site de calcaire historique"}
+  ],
+  "scheduled_at": "2026-11-24T09:00:00+01:00"
+}

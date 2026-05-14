@@ -1,0 +1,257 @@
+{
+  "slug": "noeud-chaise-alpinisme",
+  "cocon": "noeuds",
+  "type_article": "astuce",
+  "numero": 74,
+  "title": "Nœud de chaise : encordement et usages en alpinisme",
+  "h1": "Le nœud de chaise en escalade et alpinisme",
+  "description": "Le nœud de chaise pour l'encordement alpin, tracé pas à pas, comparaison avec le huit, variantes en chaise double et limites en escalade sportive.",
+  "chapo": "Le nœud de chaise, ou bowline en anglais, est l'ancêtre du huit en double comme nœud d'encordement. Toujours utilisé en alpinisme classique et en cordée militaire, il se défait plus facilement après chargement mais demande plus d'attention à la vérification. Tracé, variantes en chaise double, limites en escalade sportive et critères de choix entre chaise et huit pour ton contexte de pratique.",
+  "takeaways": [
+    "Le nœud de chaise crée une boucle fermée en bout de corde par un tracé qui passe sous le brin de tension puis dans la boucle initiale.",
+    "Il conserve 65 à 75 % de la charge de rupture de la corde, légèrement moins que le huit en double, mais reste largement suffisant en pratique réelle.",
+    "Sa défaite reste facile même après chargement intense, ce qui en fait le nœud privilégié de l'alpinisme classique avec changements fréquents de tête de cordée.",
+    "La variante en chaise double, avec un pêcheur simple en arrêt, est obligatoire en escalade sportive pour éviter le glissement spontané du nœud simple.",
+    "La FFME a progressivement abandonné le chaise au profit du huit en double pour l'escalade sportive, mais le maintient en formation alpinisme."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Le nœud de chaise dans l'histoire de l'encordement"
+    },
+    {
+      "type": "p",
+      "html": "Le <strong>nœud de chaise</strong>, ou bowline en anglais, occupe une place historique majeure dans l'encordement d'alpinisme. Pendant tout le 20ᵉ siècle, il a été le nœud standard de référence pour s'encorder en cordée, sur arête, en glacier et en montagne. Sa simplicité de tracé, sa rapidité d'exécution et sa facilité de défaite après chargement en ont fait le compagnon de toutes les grandes courses des Alpes et de l'Himalaya jusqu'aux années 1980. Pour situer ce nœud parmi les autres, consulte le <a href=\"/blog/noeuds-escalade-utiles-guide\">panorama des nœuds utiles en escalade</a>."
+    },
+    {
+      "type": "p",
+      "html": "L'arrivée de l'escalade sportive moderne dans les années 1980 a progressivement déplacé le chaise au profit du <a href=\"/blog/noeud-huit-encordement\">huit en double</a>, plus lisible visuellement et moins exposé au glissement spontané. La FFME a opéré cette bascule pédagogique dans les années 1990, en maintenant néanmoins le chaise dans les modules de formation alpinisme et secours en montagne où ses avantages restent pertinents."
+    },
+    {
+      "type": "p",
+      "html": "J'ai appris le chaise en mai 2024 lors d'une initiation alpinisme au Col de l'Arpettaz, encadrée par un guide formateur FFME. Sa démonstration commençait toujours par la phrase rituelle : tu apprends le chaise pour la culture et pour l'alpinisme, mais tu utilises le huit dans 99 % de ta pratique. Cette nuance pédagogique illustre la position actuelle du chaise dans la pratique moderne."
+    },
+    {
+      "type": "h2",
+      "text": "Le tracé du chaise, étape par étape"
+    },
+    {
+      "type": "p",
+      "html": "Le tracé du nœud de chaise repose sur une métaphore classique : <strong>le serpent sort du puits, fait le tour de l'arbre et retourne dans le puits</strong>. Cette image enfantine reste l'une des aides mnémotechniques les plus efficaces pour mémoriser le geste, transmise de génération en génération chez les éclaireurs et les alpinistes. Le tracé en lui-même se réalise en une quinzaine de secondes après quelques séances d'entraînement."
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Les cinq gestes du chaise simple",
+      "items": [
+        {
+          "title": "Former la boucle ou puits",
+          "body": "Avec la corde tenue verticalement, forme une boucle simple en croisant le brin courant par-dessus le brin de tension. Cette boucle représente le puits par lequel le serpent va sortir."
+        },
+        {
+          "title": "Passer le brin libre dans la boucle",
+          "body": "Engage le brin libre dans la boucle, en passant par-dessous. Le serpent sort du puits. Laisse dépasser une longueur suffisante pour faire le tour de l'arbre, soit environ 30 cm."
+        },
+        {
+          "title": "Faire le tour du brin de tension",
+          "body": "Passe le brin libre derrière le brin de tension, le serpent fait le tour de l'arbre. Le brin doit contourner complètement le brin de tension sans s'emmêler avec la boucle initiale."
+        },
+        {
+          "title": "Repasser dans la boucle",
+          "body": "Engage le brin libre dans la boucle initiale, le serpent retourne dans le puits. Le brin descend désormais à côté du brin de tension à travers la boucle."
+        },
+        {
+          "title": "Serrer et vérifier la géométrie",
+          "body": "Tire simultanément sur le brin libre, sur le brin de tension et sur la boucle d'encordement pour serrer le nœud. La géométrie finale doit présenter une boucle propre du côté du pontet, et un nœud compact avec un brin libre qui sort par le bas."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "html": "L'exécution prend une quinzaine de secondes après une dizaine de séances d'entraînement. La principale difficulté tient à orienter correctement la boucle initiale et à respecter le sens de passage du brin libre. Une inversion du sens crée un nœud d'apparence similaire mais qui glisse sous charge, défaut majeur potentiellement dangereux. La <a href=\"/blog/retenir-noeuds-escalade-methode\">mémorisation du geste</a> par la métaphore du serpent reste la méthode la plus fiable."
+    },
+    {
+      "type": "h2",
+      "text": "La variante chaise double pour escalade sportive"
+    },
+    {
+      "type": "p",
+      "html": "Le nœud de chaise simple présente un défaut connu : il peut <strong>se défaire spontanément</strong> sous cycles de tension répétés et secousses, particulièrement sur corde dynamique souple. Ce mode de défaillance a causé plusieurs accidents documentés en escalade sportive dans les années 1980, ce qui a accéléré la bascule pédagogique vers le huit en double."
+    },
+    {
+      "type": "p",
+      "html": "La variante en <strong>chaise double</strong> élimine ce risque en ajoutant un nœud d'arrêt en pêcheur simple sur le brin libre, contre le nœud principal. Cette sécurité prévient le glissement progressif du nœud sous secousses. Avec cette modification, le chaise retrouve une fiabilité comparable au huit en double, au prix d'une géométrie un peu moins lisible visuellement."
+    },
+    {
+      "type": "p",
+      "html": "En pratique 2026, le chaise utilisé en escalade sportive s'accompagne systématiquement de son pêcheur simple en arrêt. Le chaise nu sans arrêt reste cantonné à l'alpinisme classique où on l'utilise sur des durées plus courtes et où on accepte le compromis de surveillance. Sur escalade sportive en falaise ou en salle, jamais de chaise nu."
+    },
+    {
+      "type": "h2",
+      "text": "Chaise contre huit : critères de choix"
+    },
+    {
+      "type": "p",
+      "html": "Le choix entre chaise et huit repose sur quatre critères concrets. Premier critère, la <strong>facilité de défaite après chargement</strong>. Le chaise gagne : après une chute en tête, il se dénoue à la main en quelques secondes, tandis que le huit peut devenir difficile à défaire. Cet avantage est crucial en alpinisme classique avec changements de tête de cordée fréquents."
+    },
+    {
+      "type": "p",
+      "html": "Deuxième critère, la <strong>lisibilité visuelle</strong>. Le huit gagne : sa géométrie en double boucle se vérifie d'un coup d'œil à distance, alors que le chaise demande un examen plus attentif. Cette propriété explique son adoption massive en salle et en falaise sportive où la vérification croisée se fait rapidement entre partenaires."
+    },
+    {
+      "type": "p",
+      "html": "Troisième critère, la <strong>résistance résiduelle</strong>. Le huit gagne légèrement : 75 à 80 % de la charge de rupture, contre 65 à 75 % pour le chaise. Cette différence reste cependant largement absorbée par la marge de sécurité globale du système d'assurage. Quatrième critère, la <strong>fiabilité dans le temps</strong>. Le huit gagne sans ambiguïté : aucun cas de défaillance spontanée documenté, contre plusieurs accidents historiques pour le chaise simple."
+    },
+    {
+      "type": "tip",
+      "title": "Le test du serpent qui glisse",
+      "body": "Après avoir tracé un chaise, secoue vigoureusement le nœud pendant cinq secondes. Si la boucle commence à se déformer ou si le brin libre commence à reculer, le nœud est mal tracé ou trop lâche. Renoue-le immédiatement en serrant plus fortement les quatre brins individuellement. Sur chaise double avec pêcheur en arrêt, ce test révèle aussi un arrêt mal positionné qui peut glisser le long du brin libre.",
+      "tone": "attention"
+    },
+    {
+      "type": "h2",
+      "text": "Le chaise en alpinisme classique"
+    },
+    {
+      "type": "p",
+      "html": "En alpinisme classique sur arête mixte ou en course glaciaire, le chaise garde sa pertinence pour trois raisons opérationnelles. Première raison, les changements fréquents de tête de cordée demandent un nœud qui se défait vite après chaque traction. Deuxième raison, les rappels successifs avec encordement et désencordement alternés bénéficient d'un nœud rapide à manipuler. Troisième raison, la culture historique d'alpinisme transmet le chaise comme nœud de référence depuis plus d'un siècle."
+    },
+    {
+      "type": "p",
+      "html": "En haute montagne, certains guides continuent d'utiliser le chaise sur corde tendue parce qu'il se défait facilement avec des moufles ou des gants épais, contrainte fréquente en altitude ou par grand froid. Le huit serré au point de l'indéfaisable devient problématique en environnement hostile, ce qui maintient une niche d'usage durable pour le chaise."
+    },
+    {
+      "type": "table",
+      "caption": "Choisir entre chaise et huit selon le contexte",
+      "headers": [
+        "Contexte",
+        "Recommandation",
+        "Justification"
+      ],
+      "rows": [
+        [
+          "Escalade sportive falaise",
+          "Huit en double",
+          "Lisibilité et fiabilité"
+        ],
+        [
+          "Salle d'escalade",
+          "Huit en double",
+          "Standard FFME"
+        ],
+        [
+          "Alpinisme classique",
+          "Chaise double",
+          "Défaite facile"
+        ],
+        [
+          "Cordée glaciaire",
+          "Chaise double + papillon",
+          "Encordement médian"
+        ],
+        [
+          "Course haute altitude",
+          "Chaise double",
+          "Manipulations gantées"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Les erreurs courantes du tracé"
+    },
+    {
+      "type": "p",
+      "html": "Trois erreurs reviennent régulièrement sur le chaise. Première erreur, l'inversion du sens de passage du brin libre. Le serpent ne fait pas vraiment le tour de l'arbre, et le résultat est un nœud d'apparence chaise mais qui glisse sous tension. Le diagnostic se fait à la vérification : un chaise correct présente le brin libre qui sort par le bas du nœud, du même côté que le brin de tension."
+    },
+    {
+      "type": "p",
+      "html": "Deuxième erreur, l'oubli du pêcheur simple en arrêt sur la variante double. Sans arrêt, le chaise simple reste exposé au glissement spontané, défaut potentiellement dangereux en escalade sportive. La <a href=\"/blog/verifier-noeud-partenaire\">vérification croisée systématique</a> doit inclure explicitement la présence et le bon positionnement de l'arrêt."
+    },
+    {
+      "type": "p",
+      "html": "Troisième erreur, le brin libre trop court. La règle pratique impose 30 cm minimum pour le pêcheur d'arrêt, sinon l'arrêt lui-même perd en fiabilité. Un brin libre de 15 cm avec arrêt mal serré devient une fausse sécurité, pire que pas d'arrêt du tout parce qu'il rassure faussement."
+    },
+    {
+      "type": "h2",
+      "text": "Le nœud de chaise sur cordée à deux"
+    },
+    {
+      "type": "p",
+      "html": "Sur cordée à deux grimpeurs en alpinisme, chaque grimpeur s'encorde en bout de corde par un chaise double. La longueur de corde tendue entre les deux varie selon le terrain : 8 à 12 mètres sur glacier en zone crevassée, 15 à 25 mètres sur arête peu engagée, plus sur terrain technique avec assurage relais classique."
+    },
+    {
+      "type": "p",
+      "html": "Le grimpeur peut <strong>moduler son encordement</strong> en déroulant ou réenroulant la corde excédentaire en sangle ventrale par-dessus le baudrier. Cette manipulation rapide se fait en quelques secondes et adapte la longueur de la corde tendue selon le passage à franchir. Le chaise se prête bien à cette flexibilité parce qu'il se défait et se renoue rapidement si besoin."
+    },
+    {
+      "type": "quote",
+      "text": "Le chaise, c'est le nœud de l'alpiniste qui ne reste pas en place. Tu le défais cinq fois par jour, tu le renoues cinq fois, sans jamais te poser la question.",
+      "author": "Adage de guide de haute montagne",
+      "role": "transmis en formation alpinisme"
+    },
+    {
+      "type": "h2",
+      "text": "Apprentissage et place dans le répertoire"
+    },
+    {
+      "type": "p",
+      "html": "Le chaise s'apprend en deuxième nœud d'encordement, après le huit en double. Cet ordre pédagogique reflète la pratique actuelle : le huit est l'outil quotidien, le chaise est l'outil de spécialité alpinisme. Pour un grimpeur de salle ou de falaise sportive, la maîtrise du chaise reste optionnelle, à acquérir le jour où la pratique s'oriente vers l'alpinisme classique ou la grande voie engagée."
+    >
+    },
+    {
+      "type": "p",
+      "html": "L'apprentissage demande une dizaine de séances de pratique à blanc pour automatiser le geste. La métaphore du serpent reste l'aide mnémotechnique de référence, à compléter par la pratique régulière en cordée pour ancrer le geste dans le contexte réel d'utilisation. Une fois maîtrisé, le chaise reste durablement disponible même après plusieurs mois sans usage, propriété précieuse pour les grimpeurs qui alternent les pratiques."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Est-ce qu'on peut utiliser le chaise en escalade sportive ?",
+      "a": "Oui, à condition d'utiliser systématiquement la variante chaise double avec pêcheur simple en arrêt sur le brin libre. Le chaise simple nu reste exposé au glissement spontané sous secousses et doit être évité en escalade sportive. La pratique majoritaire 2026 préfère néanmoins le huit en double, plus lisible visuellement et adopté comme standard FFME en salle et en falaise sportive."
+    },
+    {
+      "q": "Combien de temps tient un chaise sous charge ?",
+      "a": "Indéfiniment dans des conditions de chargement permanent. Le chaise se serre légèrement sous tension puis se stabilise sans déformation supplémentaire. Le risque de défaillance spontanée concerne uniquement les cycles de tension répétés avec relâchements intermédiaires, situation typique de l'alpinisme classique sur corde tendue. La variante chaise double avec arrêt élimine ce risque."
+    },
+    {
+      "q": "Quelle différence avec le nœud de huit ?",
+      "a": "Le chaise se défait plus facilement après chargement, le huit est plus difficile à défaire. Le chaise est moins lisible visuellement, le huit se vérifie d'un coup d'œil. Le chaise conserve 65-75 % de la résistance, le huit 75-80 %. Le chaise simple peut glisser, le huit en double ne glisse jamais correctement tracé. Usage : chaise en alpinisme, huit en escalade sportive."
+    },
+    {
+      "q": "Faut-il toujours mettre un pêcheur en arrêt sur un chaise ?",
+      "a": "Oui en escalade sportive et en grande voie classique. Optionnel en alpinisme glaciaire avec corde tendue où le nœud est défait et renoué fréquemment. Le pêcheur simple en arrêt prend cinq secondes à tracer et élimine le risque de glissement spontané, sécurité minimale à ne pas négliger sauf cadre d'usage très spécifique."
+    },
+    {
+      "q": "Le chaise est-il enseigné en formation FFME ?",
+      "a": "Oui, dans les modules d'alpinisme et de secours en montagne. Il a été retiré du tronc commun d'initiation escalade sportive au profit du huit en double, mais reste maintenu en formation initiateur alpinisme et en stage cordée. La culture du chaise reste vivante chez les guides et formateurs, et constitue un repère commun avec les alpinistes étrangers qui l'utilisent encore couramment."
+    },
+    {
+      "q": "Peut-on tracer un chaise à une main ?",
+      "a": "Oui, une technique spécifique appelée chaise à une main existe et fait partie des compétences enseignées en formation secours. Elle sert à s'encorder en autosauvetage quand une main reste mobilisée pour tenir une prise ou un point d'assurage. La technique demande une dizaine de séances de pratique spécifique et reste réservée aux situations particulières où la commodité du tracé à une main devient critique."
+    }
+  ],
+  "cover_alt": "Gros plan sur un nœud de chaise double tracé dans le pontet d'un baudrier d'escalade, pêcheur simple en arrêt sur le brin libre, corde dynamique rouge, boucle d'encordement compacte, lumière naturelle en intérieur",
+  "internal_links": [
+    {
+      "slug": "noeuds-escalade-utiles-guide",
+      "anchor": "panorama des nœuds utiles en escalade",
+      "context": "pilier cocon"
+    },
+    {
+      "slug": "noeud-huit-encordement",
+      "anchor": "huit en double",
+      "context": "comparaison nœud principal"
+    },
+    {
+      "slug": "retenir-noeuds-escalade-methode",
+      "anchor": "mémorisation du geste",
+      "context": "apprentissage"
+    },
+    {
+      "slug": "verifier-noeud-partenaire",
+      "anchor": "vérification croisée systématique",
+      "context": "rituel sécurité"
+    }
+  ],
+  "scheduled_at": "2026-10-22T09:00:00+02:00"
+}

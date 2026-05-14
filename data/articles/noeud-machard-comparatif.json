@@ -1,0 +1,229 @@
+{
+  "slug": "noeud-machard-comparatif",
+  "cocon": "noeuds",
+  "type_article": "astuce",
+  "numero": 69,
+  "title": "Machard contre prussik : quel auto-bloquant choisir",
+  "h1": "Le Machard, alternative moderne au prussik en rappel sécurisé",
+  "description": "Le Machard tubulaire à comparer au prussik historique. Géométrie, blocage sous charge, desserrage manuel et usage en rappel grande voie.",
+  "chapo": "Le Machard a progressivement remplacé le prussik dans la pratique courante du rappel sécurisé. Sa géométrie tubulaire en spirale offre un meilleur compromis entre blocage fiable et desserrage facile après charge. Comparaison directe entre les deux nœuds, contextes où chacun l'emporte, et choix pratique selon ton type de pratique en escalade et en alpinisme.",
+  "takeaways": [
+    "Le Machard tubulaire se trace en cordelette enroulée en spirale ouverte autour de la corde, géométrie distincte des tours symétriques du prussik.",
+    "Sous charge, le Machard se serre légèrement moins que le prussik, ce qui facilite le desserrage après chaque rappel.",
+    "Le prussik reste préféré en mouflage de secours où le blocage maximal prime sur la facilité de manipulation.",
+    "Le Machard nécessite quatre à six tours selon les conditions, là où le prussik suffit en trois tours symétriques.",
+    "Les deux nœuds utilisent une cordelette polyamide Ø 6 ou 7 mm conforme à la norme EN 564, fermée en boucle par double-pêcheur."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Deux nœuds de la même famille, deux philosophies"
+    },
+    {
+      "type": "p",
+      "html": "Le <strong>Machard tubulaire</strong> et le <a href=\"/blog/noeud-prussik-auto-bloquant\">prussik historique</a> partagent la même fonction d'auto-blocage par friction d'une cordelette autour d'une corde principale. Tous deux sont enseignés dans les formations FFME et utilisés en grande voie comme en alpinisme. Mais leur géométrie diverge sur un point critique : le prussik utilise des tours symétriques superposés, le Machard une spirale ouverte qui se replie sur elle-même."
+    },
+    {
+      "type": "p",
+      "html": "Cette différence géométrique a des conséquences pratiques notables. Le prussik bloque plus fort à charge égale, le Machard se desserre plus facilement après une charge prolongée. Dans la pratique du <strong>rappel sécurisé</strong> en falaise comme en grande voie, où on monte et démonte l'auto-bloquant plusieurs fois par session, le Machard a progressivement gagné en popularité au détriment du prussik. Les guides de moins de 40 ans utilisent majoritairement le Machard, les alpinistes plus anciens restent fidèles au prussik."
+    },
+    {
+      "type": "h2",
+      "text": "Le tracé du Machard étape par étape"
+    },
+    {
+      "type": "p",
+      "html": "Le Machard se trace en enroulant la boucle de cordelette en spirale autour de la corde principale, puis en repassant le brin libre dans la boucle de départ. La géométrie obtenue ressemble à un ressort fermé qui peut glisser le long de la corde quand il est détendu et bloquer instantanément quand on tire sur la longe."
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Les quatre temps du tracé",
+      "items": [
+        {
+          "title": "Positionner la boucle",
+          "body": "Tiens la boucle prussik fermée en main, double-pêcheur de fermeture vers le bas. Place la boucle parallèlement à la corde principale, brin de connexion vers toi."
+        },
+        {
+          "title": "Enrouler en spirale",
+          "body": "Enroule la boucle autour de la corde en faisant quatre à six tours en spirale, chaque tour décalé du précédent dans la même direction. Tu obtiens une géométrie en hélice ouverte."
+        },
+        {
+          "title": "Refermer la spirale",
+          "body": "Passe l'extrémité libre de la boucle dans la dernière boucle restée ouverte, en revenant vers le point de départ. La spirale est désormais refermée sur elle-même."
+        },
+        {
+          "title": "Connecter et tester",
+          "body": "Clippe la boucle finale sur ton mousqueton de connexion, puis teste le glissement à vide et le blocage sous traction. Le Machard doit bloquer instantanément sous traction sur la longe."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "html": "Le tracé prend une quinzaine de secondes une fois la technique acquise. La difficulté principale au début est de bien respecter la direction d'enroulement de la spirale : tous les tours doivent partir du même sens, sinon le Machard ne bloque pas correctement. La symétrie compte aussi : les tours doivent être régulièrement espacés sans chevauchement parasite."
+    },
+    {
+      "type": "h2",
+      "text": "Comparaison directe prussik et Machard"
+    },
+    {
+      "type": "table",
+      "caption": "Différences pratiques entre les deux auto-bloquants",
+      "headers": [
+        "Critère",
+        "Prussik classique",
+        "Machard tubulaire"
+      ],
+      "rows": [
+        [
+          "Nombre de tours",
+          "3 tours symétriques",
+          "4-6 tours spirale"
+        ],
+        [
+          "Blocage sous charge",
+          "Très ferme",
+          "Ferme, légèrement moindre"
+        ],
+        [
+          "Desserrage après charge",
+          "Difficile, manipulation manuelle",
+          "Plus facile, sensible à la main"
+        ],
+        [
+          "Vitesse de tracé",
+          "10-15 secondes",
+          "15-20 secondes"
+        ],
+        [
+          "Compatibilité corde glissante",
+          "Bonne, peu sensible",
+          "Sensible, ajouter tours"
+        ],
+        [
+          "Usage majoritaire 2026",
+          "Mouflage, formation",
+          "Rappel sécurisé"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "html": "Cette comparaison reflète la pratique observée chez les grimpeurs et alpinistes en activité. Le Machard a gagné le terrain du rappel par sa facilité de manipulation répétée, le prussik reste dominant dans les manœuvres de secours où on prend le temps de bien faire les choses une fois, et où le maximum de blocage prime sur la vitesse de manipulation."
+    },
+    {
+      "type": "h2",
+      "text": "Quand préférer le Machard"
+    },
+    {
+      "type": "p",
+      "html": "Trois situations recommandent le Machard plutôt que le prussik. Première situation, le rappel sécurisé en grande voie multi-longueurs où tu descends 50 à 100 mètres en plusieurs rappels successifs. Entre chaque rappel, tu démontes et tu remontes ton auto-bloquant. Le Machard se manipule plus rapidement, ce qui gagne plusieurs minutes sur une descente complète. Sur une grande voie engagée en fin de journée, ces minutes comptent."
+    },
+    {
+      "type": "p",
+      "html": "Deuxième situation, le rappel hivernal en alpinisme avec corde gelée et mains gantées. La cordelette Machard, plus tolérante au desserrage difficile, reste opérationnelle là où un prussik fortement serré devient quasi indéblocable dans ces conditions. La pratique en course mixte montagne suit largement cette logique."
+    },
+    {
+      "type": "p",
+      "html": "Troisième situation, l'enseignement aux débutants. Le Machard pardonne davantage les erreurs de manipulation. Si tu serres un peu trop ton Machard en cours de descente, tu peux le débloquer en quelques secondes en relâchant la main de freinage. Avec un prussik mal géré, le blocage devient parfois si ferme qu'il faut s'arrêter complètement pour le déblocage manuel."
+    },
+    {
+      "type": "h2",
+      "text": "Quand le prussik reste indispensable"
+    },
+    {
+      "type": "p",
+      "html": "Le prussik garde l'avantage dans deux contextes spécifiques. Premier contexte, le <strong>mouflage de secours</strong> en grande voie. Quand tu dois remonter un grimpeur lourdement chargé sur plusieurs mètres en démultiplication, le blocage maximal du prussik garantit qu'aucun centimètre ne se perd entre deux phases de traction. Le Machard, légèrement plus tolérant au glissement, perd parfois quelques millimètres à chaque phase, ce qui dégrade l'efficacité du mouflage."
+    },
+    {
+      "type": "p",
+      "html": "Second contexte, la remontée sur corde fixe avec une seule cordelette. Là où on monte le long de la corde en bloquant alternativement le pied et la main, le prussik symétrique bloque dans les deux sens de manière identique. Le Machard a une légère asymétrie qui peut compliquer la remontée selon le sens de traction."
+    },
+    {
+      "type": "tip",
+      "title": "Choisir entre les deux selon ton sac",
+      "body": "Pour la pratique habituelle en grande voie sportive ou en alpinisme estival, monte un Machard sur ta cordelette dédiée. Pour la pratique alpine engagée ou les sorties techniques avec mouflage probable, garde plutôt un prussik. Pour les deux, la cordelette polyamide tressé Ø 6 ou 7 mm conforme à la norme EN 564 reste la même.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Les variantes intermédiaires entre les deux"
+    },
+    {
+      "type": "p",
+      "html": "Plusieurs nœuds intermédiaires existent entre le prussik strict et le Machard tubulaire. Le Bachmann utilise un mousqueton dans la boucle pour faciliter le déblocage manuel, au prix d'une fiabilité légèrement inférieure et d'un encombrement supérieur. Le Kreuzklemm combine la symétrie du prussik avec une spirale partielle pour gagner en facilité de manipulation."
+    },
+    {
+      "type": "p",
+      "html": "Dans la pratique courante en escalade et en alpinisme français, ces variantes restent marginales. Les deux nœuds dominants sont le prussik historique et le Machard tubulaire, qui couvrent ensemble plus de 90 % des usages d'auto-blocage. Maîtriser parfaitement ces deux options vaut mieux que disperser son apprentissage sur cinq ou six variantes peu utilisées. Le <a href=\"/blog/noeuds-escalade-utiles-guide\">panorama complet des nœuds utiles</a> revient sur cette famille dans son ensemble."
+    },
+    {
+      "type": "quote",
+      "text": "Prussik ou Machard, ce n'est pas une religion. C'est juste un choix d'outil selon la tâche. L'important, c'est de maîtriser le tracé sans réfléchir.",
+      "author": "Adage de guide UIAGM",
+      "role": "transmis en formation autonomie"
+    },
+    {
+      "type": "h2",
+      "text": "L'erreur courante : confondre les deux tracés"
+    },
+    {
+      "type": "p",
+      "html": "L'erreur la plus fréquente chez le pratiquant occasionnel consiste à mélanger inconsciemment les deux tracés. Tu pars sur un prussik en intentant des tours symétriques, puis la spirale du Machard se forme par erreur, et tu obtiens un nœud hybride qui ne bloque correctement ni dans un mode ni dans l'autre. Cette confusion explique une part des cas documentés de glissement d'auto-bloquant en rappel."
+    },
+    {
+      "type": "p",
+      "html": "La prévention passe par la pratique régulière d'un seul nœud à la fois pendant les premières dizaines d'utilisations. Choisis le Machard ou le prussik selon ta préférence, puis pratique-le jusqu'à l'automatisation. La <a href=\"/blog/retenir-noeuds-escalade-methode\">mémorisation systématique des nœuds</a> par répétition consciente reste la meilleure méthode pour éviter la confusion en situation réelle. Le second nœud peut s'ajouter ensuite, une fois le premier parfaitement acquis."
+    },
+    {
+      "type": "p",
+      "html": "Une dernière recommandation pratique : ne change pas de nœud entre deux sorties sans raison. La cohérence du geste compte plus que le choix optimal théorique. Si tu pratiques toujours en Machard, garde le Machard. Si tu as appris en prussik et que tu n'as jamais eu de problème, garde le prussik. La <a href=\"/blog/verifier-noeud-partenaire\">vérification croisée systématique</a> reste de toute façon la dernière ligne de sécurité, quel que soit le nœud choisi."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle différence pratique entre le prussik et le Machard ?",
+      "a": "Le prussik utilise trois tours symétriques superposés, le Machard une spirale de quatre à six tours. Le prussik bloque plus fermement mais se desserre plus difficilement après charge. Le Machard se manipule plus rapidement entre deux rappels, ce qui en a fait le choix dominant en grande voie sportive moderne. Pour le mouflage de secours, le prussik reste préféré."
+    },
+    {
+      "q": "Combien de tours minimum pour un Machard fiable ?",
+      "a": "Quatre tours sur corde dynamique standard de 9 à 10 mm. Cinq à six tours sur corde fine, corde mouillée ou cordelette neuve qui glisse facilement. Avec moins de quatre tours, le risque de glissement sous charge devient significatif et le nœud perd sa fiabilité en sécurité de rappel."
+    },
+    {
+      "q": "Peut-on utiliser la même cordelette pour les deux nœuds ?",
+      "a": "Oui, la boucle prussik en cordelette polyamide tressé Ø 6 ou 7 mm fermée par double-pêcheur convient pour les deux nœuds. Tu peux changer de tracé selon le contexte sans changer de matériel. Une longueur de cordelette de 1,30 à 1,50 mètre te donne une boucle utile dans les deux configurations."
+    },
+    {
+      "q": "Est-ce qu'on peut utiliser le Machard en mouflage comme le prussik ?",
+      "a": "Techniquement oui, mais la pratique recommande le prussik pour le mouflage. Le Machard se desserre plus facilement, ce qui peut faire perdre quelques millimètres entre deux phases de traction et dégrader l'efficacité de la démultiplication. Pour les manœuvres de mouflage en grande voie, garde le prussik comme nœud bloquant principal."
+    },
+    {
+      "q": "Combien de temps tient un Machard avant glissement sous charge constante ?",
+      "a": "Avec quatre à cinq tours sur corde sèche standard, le Machard tient indéfiniment en charge statique normale du pratiquant. Sous charge dynamique au-delà de 4-5 kN, la cordelette peut chauffer et glisser de quelques centimètres avant de bloquer. Le Machard ne s'utilise jamais comme assurage principal de chute, uniquement comme sécurité passive de rappel ou comme système de mouflage."
+    }
+  ],
+  "cover_alt": "Comparatif visuel d'un Machard tubulaire en spirale et d'un prussik en tours symétriques sur deux brins de corde dynamique parallèles, cordelettes orange et bleue Ø 7 mm en boucle, gros plan technique",
+  "internal_links": [
+    {
+      "slug": "noeuds-escalade-utiles-guide",
+      "anchor": "panorama complet des nœuds utiles",
+      "context": "pilier cocon"
+    },
+    {
+      "slug": "noeud-prussik-auto-bloquant",
+      "anchor": "prussik historique",
+      "context": "comparaison directe"
+    },
+    {
+      "slug": "retenir-noeuds-escalade-methode",
+      "anchor": "mémorisation systématique des nœuds",
+      "context": "apprentissage"
+    },
+    {
+      "slug": "verifier-noeud-partenaire",
+      "anchor": "vérification croisée systématique",
+      "context": "sécurité"
+    }
+  ],
+  "scheduled_at": "2026-10-10T09:00:00+02:00"
+}

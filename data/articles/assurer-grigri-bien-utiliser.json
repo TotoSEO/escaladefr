@@ -1,0 +1,79 @@
+{
+  "slug": "assurer-grigri-bien-utiliser",
+  "cocon": "materiel",
+  "type_article": "guide",
+  "numero": 53,
+  "title": "Grigri : bien utiliser son frein assisté en sécurité",
+  "h1": "Bien utiliser son Grigri Plus en assurage",
+  "description": "Mouflage, freinage, descente, donner du mou : les bons gestes pour utiliser un Grigri Plus en sécurité avec corde 9.5 mm en sport et moulinette.",
+  "chapo": "Le Grigri Plus bloque tout seul en cas de chute, mais c'est aussi son piège. Beaucoup pensent que l'assistance remplace la vigilance. Faux. Je détaille ici comment vraiment utiliser un Grigri Plus, du chargement au mouflage du clippage, en passant par la descente contrôlée et les pièges classiques.",
+  "takeaways": [
+    "La main de freinage reste obligatoire sous le frein à tout moment.",
+    "Le Grigri Plus s'utilise sur cordes 9.5 à 11 mm optimalement.",
+    "Le mouflage du clippage demande un geste précis pour ne pas bloquer.",
+    "La poignée se manipule pour la descente, jamais pour libérer la corde en assurage.",
+    "Le Grigri Plus intègre une came anti-panique très utile pour les débutants."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Comment fonctionne un Grigri Plus"},
+    {"type": "p", "html": "Le <strong>Grigri Plus</strong> utilise une came pivotante interne qui pince la corde lors d'une traction brutale. En statique, la corde passe librement. En cas de chute, la came se bloque automatiquement par effet de pince entre la came mobile et le corps fixe. Le système intègre une sangle d'amortissement qui limite la force de choc transmise au système et au grimpeur."},
+    {"type": "p", "html": "Pour libérer la corde, tu actionnes la poignée latérale qui dégage la came par rotation contrôlée. Trois positions sur la poignée. Position retenue qui maintient la corde tendue. Position descente lente pour la moulinette progressive. Position descente normale pour les rappels en sport. Le détail dans le <a href=\"/blog/systeme-assurage-comparatif\">comparatif des systèmes d'assurage</a>."},
+    {"type": "h2", "text": "Chargement de la corde : le sens compte"},
+    {"type": "p", "html": "Le Grigri Plus se charge dans un sens précis indiqué par un pictogramme imprimé sur le corps. Le brin venant du grimpeur entre par le haut, le brin de freinage sort par le bas. Inversion du sens et le système ne bloque pas en cas de chute, c'est l'accident classique en salle. Vérifie systématiquement avant chaque session, regarde le pictogramme et le passage de la corde."},
+    {"type": "p", "html": "Le test partenaire est obligatoire. Avant de partir, ton partenaire fait une petite traction sur le brin grimpeur. Tu sens immédiatement le blocage du Grigri qui maintient la corde. Si rien ne bloque, tu as monté à l'envers. Ce test 5 secondes a sauvé des vies en salle et en falaise. Ne le saute jamais, même pour la centième fois."},
+    {"type": "h2", "text": "Donner du mou : le mouflage classique"},
+    {"type": "p", "html": "Pour donner du mou simplement, tu tires sur le brin grimpeur avec ta main forte, en accompagnant le passage de la corde dans le système. La main de freinage glisse en synchronisation sous le frein. Geste fluide, jamais brutal. Compte une traction de 30 à 50 cm par mouvement, on enchaîne plusieurs mouvements pour donner du mou conséquent."},
+    {"type": "p", "html": "Quand le grimpeur clippe vite et que tu dois donner beaucoup de mou rapidement, deux options. Soit tu enchaînes les tractions rapides comme décrit. Soit tu actionnes le mouflage spécial avec le pouce sur la came interne, pour fluidifier le passage de la corde. Ce geste demande un apprentissage en salle avant de l'utiliser en falaise, c'est le grand piège du Grigri."},
+    {"type": "h2", "text": "Le geste de mouflage du clippage"},
+    {"type": "p", "html": "Quand ton grimpeur clippe une dégaine en hauteur, il a besoin d'un mètre de mou en deux secondes. Avec un Atc, ça passe tout seul. Avec un Grigri, la came interne tend à bloquer le passage rapide de la corde. Tu dois manipuler avec le pouce sur la came pour faciliter le passage, sans la verrouiller en position dégagée."},
+    {"type": "p", "html": "Le geste exact, ton pouce de la main forte appuie sur la came pendant que tu tires sur le brin grimpeur. Tu libères la came dès que tu as donné assez de mou. Ne reste jamais le pouce sur la came en permanence, ce serait neutraliser la sécurité du système. Beaucoup d'accidents en salle viennent de ce geste mal maîtrisé."},
+    {"type": "list", "variant": "checks", "title": "Les gestes corrects au Grigri", "items": [
+      {"title": "Test partenaire systématique", "body": "Avant de partir, ton grimpeur tire sur le brin pour vérifier le blocage du Grigri. 5 secondes qui sauvent des vies."},
+      {"title": "Main de freinage permanente", "body": "Sous le frein, en permanence, sur toute la session. Aucune exception, même quand le grimpeur repose."},
+      {"title": "Mouflage avec pouce sur came", "body": "Pour le clippage rapide, geste à apprendre en salle avant la falaise. Libère la came dès le mou donné."},
+      {"title": "Descente contrôlée", "body": "Poignée à 45 degrés en position descente lente, main de freinage qui module la vitesse."},
+      {"title": "Communication assureur grimpeur", "body": "Annonces vocales claires : sec, mou, vache. Le Grigri ne dispense pas de communiquer."}
+    ]},
+    {"type": "h2", "text": "Descente en moulinette : la maîtrise de la poignée"},
+    {"type": "p", "html": "Pour faire descendre ton partenaire en moulinette, tu actionnes la poignée latérale en position descente lente. La came se dégage partiellement et la corde glisse au rythme que tu contrôles avec ta main de freinage sous le frein. Plus tu serres ta main de freinage, plus tu freines. Plus tu relâches, plus tu accélères la descente."},
+    {"type": "p", "html": "Le <strong>Grigri Plus</strong> intègre une came anti-panique qui se bloque si tu tires brutalement la poignée par réflexe. Cette innovation a sauvé pas mal de grimpeurs débutants qui paniquent en descente trop rapide. Le système se reverrouille automatiquement et tu peux reprendre le contrôle. C'est l'amélioration majeure par rapport au Grigri 2."},
+    {"type": "h2", "text": "Tendre la corde : sec, mou, vache"},
+    {"type": "p", "html": "Pour tendre la corde et soulager le grimpeur, tu tires sur le brin de freinage vers le bas. Le système se bloque sur la traction, la corde se tend. Pour donner du mou et permettre une petite progression, tu laisses passer 30 cm en accompagnement. Cette gestion fine demande de la pratique pour anticiper les besoins du grimpeur."},
+    {"type": "p", "html": "Les annonces vocales restent essentielles malgré le système assisté. Sec pour demander la tension. Mou pour demander du mou. Vache pour signaler la sécurisation au relais. Le Grigri ne lit pas dans tes pensées, communique clairement avec ton grimpeur. La distance amplifie les malentendus en falaise, double tes annonces si nécessaire."},
+    {"type": "h2", "text": "Pièges classiques à éviter"},
+    {"type": "p", "html": "Premier piège, lâcher la main de freinage en pensant que le Grigri suffit. Le système bloque sur une chute brutale, pas sur une descente progressive due à un mauvais blocage. Garde la main toujours, partout, tout le temps. Deuxième piège, bloquer la came en permanence avec le pouce. Le système devient inopérant, équivalent à grimper sans assurage."},
+    {"type": "p", "html": "Troisième piège, monter le Grigri à l'envers et oublier le test partenaire. C'est l'accident classique en salle qui mène à des chutes brutales sans aucune retenue. Vérifie systématiquement le sens à chaque chargement. Quatrième piège, utiliser un Grigri sur une corde fine sous 9 mm. Le freinage devient moins efficace et le risque de glissement augmente."},
+    {"type": "h2", "text": "Compatibilités de corde précises"},
+    {"type": "p", "html": "Le <strong>Grigri Plus</strong> accepte les diamètres 8.5 à 11 mm officiellement, optimal sur 9.5 à 11 mm. En usage régulier, vise des cordes 9.5 à 9.8 mm pour le confort. Sous 9 mm, le freinage demande plus d'attention et la sangle d'amortissement travaille moins efficacement. Au-dessus de 10 mm, le passage devient pénible et le mouflage du clippage plus difficile."},
+    {"type": "p", "html": "Pour les cordes très fines sous 8.5 mm, oublie le Grigri et passe sur un Reverso 4 ou un Mega Jul. Le freinage par friction simple devient préférable à un blocage came mal adapté au diamètre. Pour les cordes très grosses au-dessus de 10.5 mm, le Grigri force au passage et fatigue ta main. Le détail dans <a href=\"/blog/choisir-corde-escalade\">comment choisir sa corde</a>."},
+    {"type": "table", "caption": "Compatibilité Grigri Plus selon diamètre corde", "headers": ["Diamètre corde", "Compatibilité", "Confort"], "rows": [
+      ["8.5 à 9 mm", "Officielle, freinage limite", "Attention requise"],
+      ["9.5 à 9.8 mm", "Optimale, freinage idéal", "Confort maximal"],
+      ["10 à 10.5 mm", "Officielle, passage normal", "Confort bon"],
+      ["10.5 à 11 mm", "Limite haute, passage dur", "Main fatiguée vite"]
+    ]},
+    {"type": "h2", "text": "Mon expérience personnelle avec le Grigri Plus"},
+    {"type": "p", "html": "J'utilise un Grigri Plus depuis cinq ans en sport régulier. Acheté à 110 euros, il m'a accompagné sur 300 sorties environ sans aucun souci. Le geste de mouflage du clippage a demandé deux mois d'apprentissage en salle avant d'être fluide en falaise. Aujourd'hui je donne du mou à mon grimpeur en grosse longueur sans même réfléchir au geste."},
+    {"type": "p", "html": "Je l'ai déjà fait tomber d'1 m sur du calcaire sans dégât. Le boîtier en alliage encaisse bien les chutes mineures. Pour les chutes importantes, je remplacerais sans hésitation, le mécanisme interne ne tolère pas les chocs forts. Mon Grigri Plus se nettoie à l'eau claire de temps en temps pour éliminer la magnésie qui s'infiltre dans la came. Pas de WD-40, pas de solvant."},
+    {"type": "quote", "text": "Le Grigri assiste, il ne remplace pas. Ton cerveau et ta main de freinage restent les seuls vrais systèmes de sécurité.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
+    {"type": "h2", "text": "Quand passer au Grigri Plus"},
+    {"type": "p", "html": "Je conseille de débuter avec un Atc-XP classique. Pendant 30 à 50 voies en moulinette, tu apprends le geste de base de la main de freinage et la lecture de ton grimpeur. Puis passe au Grigri Plus quand tu pratiques régulièrement en salle ou en sport. Le coût supplémentaire de 80 euros se justifie largement par la sécurité en moulinette longue session et en assurage de tête."},
+    {"type": "p", "html": "Avant le passage au Grigri Plus, prends une heure avec un grimpeur expérimenté en salle. Travaille en mode formation le chargement, le mouflage simple, le mouflage du clippage avec pouce sur came, la descente en moulinette. Cette session d'apprentissage vaut tous les tutoriels YouTube du monde. Pour le matos complémentaire, regarde <a href=\"/blog/gants-assurage-escalade\">les gants d'assurage</a> et <a href=\"/blog/materiel-escalade-essentiel\">le matériel d'escalade essentiel</a>."}
+  ],
+  "faq": [
+    {"q": "Le Grigri remplace-t-il la main de freinage ?", "a": "Non, jamais. La main de freinage sous le frein reste obligatoire à tout moment de l'assurage. Le Grigri assiste en cas de chute brutale mais ne se substitue pas au geste de base. Cette confusion mène encore régulièrement à des accidents en salle et en falaise."},
+    {"q": "Quel diamètre de corde pour le Grigri Plus ?", "a": "Compatibilité officielle 8.5 à 11 mm, optimal sur 9.5 à 11 mm. Sous 9 mm, le freinage devient moins efficace et la marge de sécurité diminue. Pour les cordes fines, préfère un Reverso 4 ou un Mega Jul mieux adaptés aux diamètres réduits."},
+    {"q": "Comment donner du mou rapide au clippage ?", "a": "Appuie sur la came interne avec le pouce de ta main forte pendant que tu tires sur le brin grimpeur. Libère la came dès le mou donné. Ce geste demande un apprentissage en salle avant la falaise, c'est le piège classique du Grigri pour les débutants."},
+    {"q": "Mon Grigri se bloque au passage de la corde, est-ce normal ?", "a": "Oui, c'est le comportement attendu. Le système est conçu pour bloquer la corde par défaut. Tu dois actionner manuellement le mouflage avec accompagnement de ta main forte sur le brin grimpeur. Si le blocage est excessif, vérifie le diamètre de ta corde et l'absence de magnésie dans la came."},
+    {"q": "Quand utiliser la came anti-panique du Grigri Plus ?", "a": "Elle s'active automatiquement si tu tires brutalement la poignée par réflexe de panique. Le système se reverrouille immédiatement pour stopper la descente. C'est une sécurité passive qui ne se manipule pas activement, juste un filet de sécurité supplémentaire pour les débutants."},
+    {"q": "Faut-il mettre des gants pour assurer au Grigri ?", "a": "Pas obligatoire mais conseillé sur les sessions longues ou avec des chutes répétées. Le brin de freinage glisse parfois rapidement et peut chauffer ou irriter les mains. Les gants en cuir fin type Petzl Cordex protègent sans gêner la sensibilité au freinage."}
+  ],
+  "cover_alt": "Grigri Plus de Petzl monté sur baudrier avec corde 9.5 mm en position assurage",
+  "internal_links": [
+    {"slug": "systeme-assurage-comparatif", "anchor": "comparatif des systèmes d'assurage", "context": "Comparaison technique"},
+    {"slug": "choisir-corde-escalade", "anchor": "comment choisir sa corde", "context": "Compatibilité diamètre"},
+    {"slug": "gants-assurage-escalade", "anchor": "les gants d'assurage", "context": "Accessoire complémentaire"},
+    {"slug": "materiel-escalade-essentiel", "anchor": "le matériel d'escalade essentiel", "context": "Pilier matériel"}
+  ],
+  "scheduled_at": "2026-09-03T09:00:00+02:00"
+}

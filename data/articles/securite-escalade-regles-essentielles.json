@@ -1,0 +1,275 @@
+{
+  "slug": "securite-escalade-regles-essentielles",
+  "cocon": "securite",
+  "type_article": "hub",
+  "numero": 7,
+  "title": "Sécurité escalade : les règles essentielles à appliquer",
+  "h1": "Sécurité escalade : les règles à appliquer.",
+  "description": "Sécurité en escalade : vérifications, check-list, gestion des chutes, premiers secours, météo et choix du partenaire. Les bonnes pratiques de l'assurage.",
+  "chapo": "L'escalade reste une activité à risque maîtrisé. Combien d'accidents sont évitables avec quelques règles simples ? La quasi totalité. Je détaille ici les vérifications systématiques, les protocoles de chute, l'alerte aux secours, la lecture météo et le choix du partenaire. Aucun grimpeur sérieux ne quitte le sol sans appliquer ces règles.",
+  "takeaways": [
+    "La vérification croisée du nœud et du baudrier prend 10 secondes et sauve des vies.",
+    "75% des accidents en escalade surviennent en falaise, surtout au rappel.",
+    "Le check-list avant grimper ferme toutes les portes d'entrée du risque humain.",
+    "Le 112 reste le numéro d'alerte unique pour les secours en montagne.",
+    "Le choix d'un partenaire de confiance pèse autant que le matériel utilisé."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "La vérification croisée : le rituel non négociable"
+    },
+    {
+      "type": "p",
+      "html": "Avant chaque ascension, le grimpeur et l'assureur se vérifient mutuellement. Le contrôle porte sur trois points clés : <strong>le nœud d'encordement</strong> (huit propre, queue suffisante, passage dans le pontet), <strong>le baudrier</strong> (boucles doublées si non auto-doubl, ceinture sangle ventrale, cuissards bien positionnés) et le système d'assurage (sens de la corde, fermeture du mousqueton). Cette check dure dix secondes. Aucun grimpeur expérimenté ne la saute, jamais."
+    },
+    {
+      "type": "p",
+      "html": "Les accidents par nœud raté ou baudrier mal fermé représentent encore plusieurs cas mortels par an en France. Tous évitables. Le piège classique : le grimpeur se laisse distraire pendant l'encordement par une discussion, un appel, un échauffement. Il oublie de finir son huit. Le partenaire ne vérifie pas. Lis notre <a href=\"/blog/verification-baudrier-corde-noeud\">protocole de vérification croisée détaillé</a>."
+    },
+    {
+      "type": "h2",
+      "text": "Le check-list complet avant chaque session"
+    },
+    {
+      "type": "p",
+      "html": "Au-delà du nœud, un check-list visuelle balaie l'environnement complet. Avant de monter, vérifie : la propreté du sol (cordes au sec, sacs rangés), la libération de la zone de chute, l'absence d'enfants ou d'animaux à la verticale, l'état des dégaines équipées dans la voie si la falaise est récemment ré équipée. En grande voie, ajoute le contrôle du relais et du sens de la traversée éventuelle."
+    },
+    {
+      "type": "p",
+      "html": "Notre <a href=\"/blog/check-list-avant-grimper\">check-list complète avant grimper</a> propose une liste à imprimer ou mémoriser. Le grimpeur méthodique s'y tient à chaque sortie, qu'il soit débutant ou expérimenté. La routine sauve."
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Les 6 piliers de la sécurité en escalade",
+      "items": [
+        {
+          "title": "Vérification croisée",
+          "body": "Nœud, baudrier, assureur, dans cet ordre, vérifiés par les deux personnes avant chaque montée."
+        },
+        {
+          "title": "Communication claire",
+          "body": "Sec, mou, vache, départ, je tombe. Les codes verbaux évitent les ambiguïtés dangereuses."
+        },
+        {
+          "title": "Météo et conditions",
+          "body": "Bulletin avant la sortie, plan B prêt, retraite organisée. Renoncer reste la décision la plus mature."
+        },
+        {
+          "title": "Partenaire de confiance",
+          "body": "Niveau adapté, attention sérieuse, communication fluide. Pas de partenariat improvisé en falaise."
+        },
+        {
+          "title": "Matériel inspecté",
+          "body": "Corde lisse, baudrier non éraillé, mousquetons fonctionnels, dégaines en bon état."
+        },
+        {
+          "title": "Plan d'urgence",
+          "body": "Numéros des secours notés, frontale chargée, premiers secours dans le sac, savoir alerter."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Les chutes en tête : facteurs et gestion"
+    },
+    {
+      "type": "p",
+      "html": "La chute en tête reste l'événement le plus impressionnant de l'escalade sportive. Si l'assureur fait son job et que les points sont solides, la chute reste sans danger sérieux jusqu'à des hauteurs considérables. Le <strong>facteur de chute</strong> mesure l'agressivité : facteur 1 sur un point au-dessus du grimpeur, facteur 2 dans le pire cas (chute avant le premier point). Les voies sportives modernes gardent les facteurs sous 1, dans des conditions normales."
+    },
+    {
+      "type": "p",
+      "html": "L'assureur attentif laisse fuser ou amortit selon la position de la chute. Trop dur, et le grimpeur claque contre le mur. Trop mou, et il touche le sol. Le réglage demande des heures de pratique en salle. Notre <a href=\"/blog/chute-en-tete-facteurs\">guide chute en tête et facteurs</a> détaille la physique et la gestuelle d'assurage. Travaille la chute volontaire en salle dès tes premières montées en tête pour vaincre l'appréhension."
+    },
+    {
+      "type": "h2",
+      "text": "Le rappel : zone à haut risque d'accident"
+    },
+    {
+      "type": "p",
+      "html": "Statistiquement, le rappel concentre une part disproportionnée des accidents mortels en escalade. Trois causes principales : passer le bout de la corde (sans nœud d'arrêt), maladresse au passage du relais, chute de pierres décrochées par la corde qui frotte. Le protocole rigoureux passe par cinq étapes : <strong>nœuds d'arrêt aux deux brins</strong>, vérification de l'ancrage, autobloquant installé, descente progressive, sortie de la corde au sol."
+    },
+    {
+      "type": "p",
+      "html": "Lis notre <a href=\"/blog/rappel-securite-procedure\">procédure rappel détaillée</a> avant ta première descente. Et toujours, toujours, sans exception : si tu doutes, c'est qu'il y a un doute. Reprends, vérifie, recommence."
+    },
+    {
+      "type": "table",
+      "caption": "Causes principales d'accidents en escalade en France",
+      "headers": ["Cause", "Part estimée", "Évitable"],
+      "rows": [
+        ["Erreur de nœud / baudrier", "20-25%", "Oui, par vérification"],
+        ["Erreur au rappel", "15-20%", "Oui, par protocole"],
+        ["Chute en grande voie", "15-20%", "Partiellement"],
+        ["Chute de pierres", "10-15%", "Casque, vigilance"],
+        ["Bloc / mauvaise réception", "10-15%", "Crashpad, parade"],
+        ["Erreur d'assurage", "10-15%", "Oui, par formation"]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Premiers secours et alerte : le 112"
+    },
+    {
+      "type": "p",
+      "html": "En cas d'accident, le numéro unique européen 112 reste la priorité absolue. Il bascule automatiquement vers le PGHM (gendarmerie de haute montagne) ou le PSPM selon la zone. Communique trois informations essentielles : la localisation précise (coordonnées GPS si possible), le nombre de victimes et leur état, et les conditions d'évacuation (héliportable, accessible à pied)."
+    },
+    {
+      "type": "p",
+      "html": "Garde dans ton téléphone l'application gpgendarmerie ou similaires qui transmettent automatiquement ta position. Notre <a href=\"/blog/alerter-secours-falaise\">guide d'alerte aux secours</a> et <a href=\"/blog/premiers-secours-escalade\">les premiers gestes</a> couvrent les procédures à connaître. Une formation PSC1 ou IFAC en complément ne coûte que 60 euros pour une vie."
+    },
+    {
+      "type": "h2",
+      "text": "La météo : le décider qui sauve"
+    },
+    {
+      "type": "p",
+      "html": "Un bulletin météo mal lu transforme une sortie classique en sortie de survie. Les paramètres à connaître : précipitations attendues (la pluie rend le calcaire glissant 24 à 48 h), température minimale et maximale (au-delà de 25°C en falaise, performance et concentration chutent), vent (plus de 30 km/h en grande voie fragilise les manœuvres), et orages."
+    },
+    {
+      "type": "p",
+      "html": "<strong>L'orage en falaise reste mortel</strong>. La règle absolue : décroche dès que tu entends le tonnerre, même lointain. Météo France, Mountain Forecast et Yr.no sont les références. Lis notre <a href=\"/blog/meteo-falaise-decider-renoncer\">guide météo et décision</a>. Renoncer reste toujours une option, jamais un échec."
+    },
+    {
+      "type": "image_text",
+      "image": "/blog/securite-escalade-regles-essentielles.webp",
+      "alt": "Grimpeur et assureur réalisant la vérification croisée du nœud et du baudrier au pied d'une voie",
+      "text": "La vérification croisée se fait toujours à deux. Le grimpeur montre son nœud à l'assureur, qui le valide à voix haute. L'assureur montre son appareil chargé, le grimpeur confirme. Ce dialogue silencieux est la signature des binômes sérieux.",
+      "position": "left",
+      "caption": "Le rituel à deux qui sauve à chaque sortie"
+    },
+    {
+      "type": "h2",
+      "text": "Le partenaire d'escalade : confiance et niveau"
+    },
+    {
+      "type": "p",
+      "html": "Tu confies ta vie à ton partenaire. Cette phrase a l'air dramatique, elle est juste. Choisis quelqu'un dont tu connais la rigueur, l'attention et le niveau. Évite d'assurer un grimpeur trois niveaux au-dessus de toi en falaise inconnue : tu ne sais pas comment réagir si quelque chose tourne mal."
+    },
+    {
+      "type": "p",
+      "html": "Le partenariat se construit en salle, sur des dizaines d'heures d'observation mutuelle, avant la sortie falaise commune. Lis notre <a href=\"/blog/partenaire-grimpe-confiance\">guide sur le choix du partenaire</a>. Et n'aie pas peur de refuser de grimper avec quelqu'un qui te paraît distrait, fatigué ou trop sûr de lui. Ton instinct mérite d'être écouté."
+    },
+    {
+      "type": "quote",
+      "text": "Un bon grimpeur n'est pas celui qui ne tombe jamais, c'est celui qui sait que la chute viendra, et qui a tout fait pour qu'elle reste sans conséquence.",
+      "author": "Antoine",
+      "role": "Rédacteur escalade-france.fr"
+    },
+    {
+      "type": "h2",
+      "text": "L'hélitreuillage : ce qu'il faut savoir"
+    },
+    {
+      "type": "p",
+      "html": "Si l'évacuation se fait en hélicoptère, certaines règles s'appliquent. Tu signales par les bras croisés en V (Yes, j'ai besoin) ou en N (No, tout va bien) à l'approche du pilote. Tu sécurises tout matériel sur la paroi (rappel ou point fixe), tu te recroquevilles à l'approche du vent généré par les pales, tu laisses l'équipe SAF te guider sans initiative personnelle."
+    },
+    {
+      "type": "p",
+      "html": "L'hélitreuillage coûte aux secours plusieurs milliers d'euros, parfois pris en charge selon les départements ou ta licence FFME. Une licence fédérale couvre la quasi totalité des frais sur le territoire français. Lis notre <a href=\"/blog/helitreuillage-evacuation\">guide hélitreuillage</a> pour les détails pratiques."
+    },
+    {
+      "type": "h2",
+      "text": "Les statistiques d'accidents en escalade"
+    },
+    {
+      "type": "p",
+      "html": "L'escalade reste l'un des sports outdoor les moins accidentogènes en France quand on regarde les heures de pratique. Le ratio accident grave par 1 000 heures de pratique reste inférieur à celui du ski alpin, du VTT ou de l'équitation. Pourtant chaque année, une vingtaine de décès et plusieurs centaines de blessures graves marquent la communauté. Lis notre <a href=\"/blog/accidents-escalade-statistiques\">dossier statistiques d'accidents</a>."
+    },
+    {
+      "type": "p",
+      "html": "La grande leçon de ces statistiques : la majorité des accidents impliquent une faute humaine évitable, pas une défaillance du matériel ou un imprévu inéluctable. Cela rend cette discipline particulière, car la responsabilité personnelle reste centrale. C'est aussi ce qui en fait sa beauté."
+    },
+    {
+      "type": "tip",
+      "title": "Le double check verbal",
+      "body": "Ne te contente pas de regarder ton partenaire faire son nœud. Énonce à voix haute : huit double passé dans le pontet, baudrier doublé, longe en place. Le verbal force la conscience visuelle et coupe les automatismes dangereux.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Les erreurs des grimpeurs expérimentés"
+    },
+    {
+      "type": "p",
+      "html": "Contrairement aux idées reçues, les accidents en escalade ne touchent pas seulement les débutants. Les grimpeurs confirmés représentent une proportion significative des victimes, souvent à cause d'un excès de confiance. La routine endort la vigilance. Le grimpeur 7c qui a fait mille rappels finit par les bâcler. L'assureur expérimenté qui texte pendant l'ascension. L'ouvreur qui ne porte pas son casque par habitude. Tous ces petits relâchements préparent l'accident."
+    },
+    {
+      "type": "p",
+      "html": "La parade tient en un mot : humilité. Le grimpeur qui se considère encore comme un apprenti, même après vingt ans de pratique, garde la vigilance qui sauve. Réviser ses procédures, accepter les retours d'un partenaire, lire les rapports d'accidents publiés par la FFME ou le PGHM, autant de gestes qui maintiennent l'esprit en alerte."
+    },
+    {
+      "type": "h2",
+      "text": "Former et transmettre la culture sécurité"
+    },
+    {
+      "type": "p",
+      "html": "La meilleure façon d'ancrer la sécurité reste de la transmettre. Si tu encadres un débutant, sois exemplaire dans tes gestes : ne saute aucune vérification, énonce à voix haute chaque étape, explique pourquoi cette étape compte. Le débutant apprend en regardant, pas en écoutant des théories. Un encadrant négligent forme un grimpeur négligent pour les vingt prochaines années."
+    },
+    {
+      "type": "p",
+      "html": "Les clubs FFME, les associations locales et les stages d'initiation organisés par les BE escalade restent les meilleurs cadres pour acquérir les bons réflexes. Compte 200 à 400 euros pour un stage d'une semaine complète qui couvre l'autonomie en falaise sportive. C'est l'investissement le plus rentable de toute ta carrière de grimpeur."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quels sont les principaux dangers en escalade ?",
+      "a": "Les erreurs humaines (nœud mal fait, rappel mal préparé, assurage négligent) restent la première cause d'accident. Les chutes de pierres, la météo défavorable (orage, gel, pluie), et le matériel défaillant suivent dans les statistiques officielles."
+    },
+    {
+      "q": "Faut-il porter un casque en escalade ?",
+      "a": "En falaise, oui, systématiquement. Le casque protège des chutes de pierres et des chocs en cas de chute. En salle d'escalade artificielle, ce n'est pas obligatoire et la plupart des grimpeurs n'en portent pas. En bloc, le casque reste rare."
+    },
+    {
+      "q": "Comment savoir si la météo permet de grimper ?",
+      "a": "Consulte un bulletin précis (Météo France, Mountain Forecast) la veille et le matin. Pluie 24h avant : rocher humide pendant 2 jours minimum. Orage annoncé : renonce. Vent supérieur à 30 km/h : pas de grande voie. Température au-delà de 30°C : performance médiocre."
+    },
+    {
+      "q": "Que faire en cas d'accident d'escalade ?",
+      "a": "Sécurise la zone, évalue l'état de la victime, appelle le 112 en donnant ta position précise (GPS si possible). Couvre la victime pour éviter l'hypothermie. Ne déplace pas un blessé suspect de fracture du rachis. Reste en ligne avec les secours jusqu'à leur arrivée."
+    },
+    {
+      "q": "Combien d'accidents mortels par an en escalade en France ?",
+      "a": "Environ 15 à 25 décès par an directement liés à l'escalade selon la FFME et le PGHM, sur plus d'un million de pratiquants. Le ratio reste très inférieur à celui de la randonnée ou du ski alpin. La majorité concerne des erreurs humaines évitables."
+    },
+    {
+      "q": "Faut-il une licence FFME pour grimper ?",
+      "a": "Pas obligatoire en accès libre sur falaise privée ou en autonomie. Mais la licence FFME couvre l'assurance responsabilité civile, les frais de secours et donne accès aux salles fédérales. Pour 70 à 100 euros annuels, c'est un investissement raisonnable pour qui pratique régulièrement."
+    }
+  ],
+  "cover_alt": "Grimpeur et assureur se vérifiant mutuellement nœud et baudrier au pied d'une falaise calcaire",
+  "internal_links": [
+    {
+      "slug": "verification-baudrier-corde-noeud",
+      "anchor": "protocole de vérification croisée détaillé",
+      "context": "Article enfant cocon securite"
+    },
+    {
+      "slug": "check-list-avant-grimper",
+      "anchor": "check-list complète avant grimper",
+      "context": "Article enfant cocon securite"
+    },
+    {
+      "slug": "chute-en-tete-facteurs",
+      "anchor": "guide chute en tête et facteurs",
+      "context": "Article enfant cocon securite"
+    },
+    {
+      "slug": "rappel-securite-procedure",
+      "anchor": "procédure rappel détaillée",
+      "context": "Article enfant cocon securite"
+    },
+    {
+      "slug": "alerter-secours-falaise",
+      "anchor": "guide d'alerte aux secours",
+      "context": "Article enfant cocon securite"
+    },
+    {
+      "slug": "meteo-falaise-decider-renoncer",
+      "anchor": "guide météo et décision",
+      "context": "Article enfant cocon securite"
+    }
+  ],
+  "scheduled_at": "2026-05-19T09:00:00+02:00"
+}

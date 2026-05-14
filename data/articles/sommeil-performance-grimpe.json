@@ -1,0 +1,74 @@
+{
+  "slug": "sommeil-performance-grimpe",
+  "cocon": "preparation",
+  "type_article": "astuce",
+  "numero": 129,
+  "title": "Sommeil et performance en escalade : levier sous-estimé",
+  "h1": "Sommeil et performance en escalade : le levier oublié",
+  "description": "Le sommeil du grimpeur : combien d'heures, qualité, sieste, alcool et écrans. Comment optimiser ton sommeil pour récupérer mieux et progresser plus vite en escalade.",
+  "chapo": "Sept à neuf heures de sommeil par nuit, c'est la base de toute progression sérieuse. En dessous, ton corps ne répare plus, ton système nerveux ne consolide plus les apprentissages moteurs. Voici pourquoi le sommeil est le premier levier de performance, et comment optimiser le tien en tant que grimpeur.",
+  "takeaways": [
+    "Vise 7 à 9 heures de sommeil par nuit, base de la récupération tendineuse.",
+    "La phase de sommeil profond est celle où le tissu conjonctif se répare.",
+    "Évite les écrans 60 minutes avant le coucher, la lumière bleue retarde l'endormissement.",
+    "Une sieste de 20 à 30 minutes booste les apprentissages moteurs.",
+    "L'alcool dégrade la qualité du sommeil même à dose modérée."
+  ],
+  "body_blocks": [
+    {"type": "h2", "text": "Le sommeil, fondation de la récupération"},
+    {"type": "p", "html": "Le sommeil n'est pas un repos passif. C'est le moment où ton corps libère l'<strong>hormone de croissance</strong>, consolide les apprentissages moteurs et répare les tissus. La phase de sommeil profond, qui survient principalement dans les 4 premières heures de la nuit, est celle où la réparation tissulaire est la plus active. Sans ces phases, tes tendons et poulies cicatrisent mal."},
+    {"type": "p", "html": "Une étude de l'université de Stanford en 2011 a montré que des sportifs qui passaient de 7 à 9 heures de sommeil amélioraient leur performance de 10 à 15 pour cent en six semaines, sans rien changer à l'entraînement. Ce gain est énorme. Aucun complément alimentaire ou protocole d'entraînement ne procure ça. Le sommeil reste le levier le plus efficace et le moins coûteux."},
+    {"type": "h2", "text": "Combien d'heures pour un grimpeur"},
+    {"type": "p", "html": "Vise 7 à 9 heures par nuit en routine. En dessous de 7 heures, tu accumules une dette de sommeil qui plombe progressivement les performances. Au-dessus de 9 heures de manière chronique, c'est souvent le signe d'un autre problème : dépression, hypothyroïdie, syndrome inflammatoire. Les athlètes d'élite, dont les grimpeurs pros, dorment souvent 8 à 10 heures par nuit avec une sieste."},
+    {"type": "p", "html": "Pendant ma prépa au lycée Camille Sée à Colmar, je dormais 5 à 6 heures par nuit pour réviser. Ma grimpe a stagné pendant 18 mois. À 18 ans, j'ai recadré le sommeil en priorité absolue, 8 heures minimum. Sur les six mois suivants, j'ai passé deux crans en falaise. Le sommeil avait été le facteur limitant, sans que je m'en rende compte."},
+    {"type": "h2", "text": "Qualité du sommeil au-delà de la durée"},
+    {"type": "p", "html": "Huit heures de sommeil fragmenté ne valent pas six heures de sommeil de qualité. La qualité dépend de la quantité de <strong>sommeil profond</strong> et <strong>sommeil paradoxal</strong>, des phases de récupération essentielles. Pour les optimiser, plusieurs leviers concrets : régularité des horaires, chambre fraîche, obscurité totale, absence d'écrans en fin de soirée."},
+    {"type": "list", "variant": "numbered", "title": "Routine du soir pour mieux dormir", "items": [
+      {"title": "Couper les écrans 60 minutes avant", "body": "La lumière bleue retarde la sécrétion de mélatonine, l'hormone du sommeil."},
+      {"title": "Baisser les lumières", "body": "Lumière chaude, faible intensité, pour signaler au cerveau l'approche de la nuit."},
+      {"title": "Pas de repas lourd 3 heures avant", "body": "La digestion empêche le sommeil profond. Dîner léger si tu te couches tôt."},
+      {"title": "Chambre à 18 degrés", "body": "Le corps refroidit pendant le sommeil, une chambre fraîche facilite l'endormissement."},
+      {"title": "Obscurité complète", "body": "Volets fermés ou masque, même un peu de lumière perturbe la mélatonine."},
+      {"title": "Routine fixe", "body": "Mêmes horaires de coucher et lever, sept jours sur sept dans l'idéal."}
+    ]},
+    {"type": "h2", "text": "Sieste et apprentissages moteurs"},
+    {"type": "p", "html": "Une sieste de 20 à 30 minutes booste les apprentissages moteurs et la mémoire procédurale. Pour un grimpeur qui travaille un projet technique, la sieste post-séance accélère la consolidation des mouvements. Plus de 30 minutes, tu entres en sommeil profond et tu te réveilles groggy. La sieste éclair de 20 minutes est l'idéal pour le grimpeur."},
+    {"type": "p", "html": "Mon expérience après les séances de bloc dures : 25 minutes de sieste en début d'après-midi, je sens la différence le lendemain. Le mouvement difficile que j'ai travaillé la veille est plus fluide. Le cerveau a consolidé l'apprentissage pendant la sieste. C'est un effet documenté en physiologie du sport, pas une impression subjective."},
+    {"type": "tip", "title": "Erreur classique", "body": "Compenser une nuit courte par un café fort le lendemain. Le café masque la fatigue sans réparer le déficit. Tu fonctionnes comme si tu étais reposé, tu pousses ton corps trop loin, et tu paies la facture deux jours plus tard. La seule vraie compensation est une bonne nuit dans les 48 heures.", "tone": "erreur"},
+    {"type": "h2", "text": "Alcool et sommeil"},
+    {"type": "p", "html": "L'alcool, même à dose modérée, dégrade la qualité du sommeil. Tu t'endors plus vite mais ton sommeil paradoxal est réduit, et tu te réveilles fatigué. Une étude de 2018 sur 4000 personnes a montré qu'à partir d'un verre de vin, la qualité du sommeil baisse de 9 pour cent. À deux verres, baisse de 24 pour cent."},
+    {"type": "p", "html": "Pour le grimpeur sérieux, évite l'alcool la veille des grosses séances. Le verre du week-end reste compatible avec un volume d'entraînement modéré. Au-delà, tu sabotes tes progrès sans le voir directement. C'est un facteur souvent négligé, mais qui explique pas mal de plateaux."},
+    {"type": "h2", "text": "Sommeil et performance le jour J"},
+    {"type": "table", "caption": "Impact d'une nuit courte sur la performance", "headers": ["Durée sommeil", "Perf grimpe", "Récupération", "Risque blessure"],
+    "rows": [
+      ["Moins de 5 h", "-30 à 40 pour cent", "Très mauvaise", "Multiplié par 3"],
+      ["5 à 6 h", "-15 à 25 pour cent", "Mauvaise", "Multiplié par 2"],
+      ["6 à 7 h", "-5 à 15 pour cent", "Médiocre", "Augmenté"],
+      ["7 à 9 h", "Optimale", "Bonne", "Standard"],
+      ["Plus de 9 h", "Optimale ou légère baisse", "Très bonne", "Standard"]
+    ]},
+    {"type": "p", "html": "Une nuit de moins de 5 heures avant une compétition ou un projet est rédhibitoire. Tu pars avec un handicap mesurable. Si tu sais que la nuit a été mauvaise, ajuste tes attentes : pas d'essai à bloc sur un projet majeur, plutôt de la récupération active ou des voies en sous-régime. Mieux vaut perdre une journée que se blesser sur fatigue."},
+    {"type": "h2", "text": "Sommeil et hormones"},
+    {"type": "p", "html": "Le sommeil régule la production de <strong>testostérone</strong>, de cortisol et d'hormone de croissance. Une privation de sommeil chronique fait chuter la testostérone de 10 à 15 pour cent. Cette chute pèse directement sur la récupération, la force et la motivation. Le cortisol, lui, monte avec la privation de sommeil. Tu te retrouves en état d'inflammation chronique sans le savoir."},
+    {"type": "p", "html": "Pour les femmes, l'impact hormonal du sommeil est aussi marqué, avec des effets sur le cycle menstruel et la récupération. Les grimpeuses qui négligent le sommeil rapportent souvent des cycles irréguliers et une fatigue chronique. La <strong>RED-S</strong> citée dans <a href=\"/blog/alimentation-grimpeur-essentiel\">l'article alimentation</a> a souvent une composante sommeil sous-estimée."},
+    {"type": "h2", "text": "Mes leviers concrets"},
+    {"type": "p", "html": "Voilà ma routine actuelle, testée et validée sur trois ans. Coucher à 22h30, lever à 7h00, six jours par semaine. Pas d'écran après 21h30, lumière chaude dès 20h. Chambre à 17 degrés en hiver, volets fermés. Petit dej tranquille au réveil, pas de café avant 8h30. Sur cette base, je dors entre 7h45 et 8h30 par nuit, avec un sommeil profond mesuré par une montre connectée à 1h45 environ."},
+    {"type": "quote", "text": "Tu peux faire toute la muscu et la nutrition parfaite du monde. Si tu dors 5 heures, tu progresses comme un type qui dort 8 heures et ne fait rien. Le sommeil arrive en premier.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
+    {"type": "p", "html": "Pour aller plus loin, vois <a href=\"/blog/recuperation-active-jours-off\">récupération active et jours off</a> et <a href=\"/blog/alimentation-grimpeur-essentiel\">alimentation du grimpeur</a>. La <a href=\"/blog/preparer-corps-tete-grimpe\">préparation physique et mentale du grimpeur</a> intègre le sommeil dans une vision globale."}
+  ],
+  "faq": [
+    {"q": "Combien d'heures de sommeil pour un grimpeur ?", "a": "Vise 7 à 9 heures par nuit. En dessous de 7, tu accumules une dette qui plombe les performances et augmente le risque de blessure. Les athlètes d'élite dorment souvent 8 à 10 heures avec une sieste. La régularité compte autant que la durée, mêmes horaires sept jours sur sept dans l'idéal."},
+    {"q": "La sieste aide-t-elle pour la grimpe ?", "a": "Oui, particulièrement pour la consolidation des apprentissages moteurs. Une sieste de 20 à 30 minutes après une séance technique accélère l'intégration des mouvements travaillés. Au-delà de 30 minutes, tu entres en sommeil profond et tu te réveilles groggy. La sieste éclair est l'idéal pour le grimpeur."},
+    {"q": "Comment dormir mieux avant une compétition ?", "a": "Couche-toi à l'heure habituelle, pas plus tôt. Évite les écrans 60 minutes avant. Tisane camomille ou tilleul si besoin. Si le stress empêche de dormir, n'insiste pas dans le lit, lis un livre dans une autre pièce 30 minutes. Une nuit calme reste meilleure qu'une nuit blanche d'angoisse."},
+    {"q": "L'alcool aide-t-il à dormir ?", "a": "Non, c'est une idée reçue. L'alcool aide à s'endormir mais dégrade la qualité du sommeil. Sommeil paradoxal réduit, réveils nocturnes, fatigue au lever. Même un verre avant le coucher détériore la récupération. Évite l'alcool la veille des grosses séances de grimpe."},
+    {"q": "Peut-on récupérer une nuit courte ?", "a": "Partiellement, par une bonne nuit suivante. Tu ne récupères pas en une seule nuit ce que tu as perdu, mais tu compenses sur 48 à 72 heures. Évite d'enchaîner plusieurs nuits courtes. Si tu as trois nuits courtes d'affilée, prends une journée de récupération complète avec sieste."}
+  ],
+  "cover_alt": "Grimpeur en train de dormir paisiblement, lumière douce, chambre fraîche et sombre",
+  "internal_links": [
+    {"slug": "preparer-corps-tete-grimpe", "anchor": "la préparation physique et mentale du grimpeur", "context": "Pilier préparation"},
+    {"slug": "recuperation-active-jours-off", "anchor": "récupération active et jours off", "context": "Récupération"},
+    {"slug": "alimentation-grimpeur-essentiel", "anchor": "alimentation du grimpeur", "context": "Nutrition globale"},
+    {"slug": "hydratation-effort-falaise", "anchor": "hydratation à l'effort", "context": "Hydratation"}
+  ],
+  "scheduled_at": "2027-02-27T09:00:00+01:00"
+}
