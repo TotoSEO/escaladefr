@@ -99,7 +99,7 @@
     },
     {
       "type": "p",
-      "html": "Pour la jeune génération qui Six ans après, il est important de continuer à transmettre cette mémoire. Pas pour figer la communauté dans le deuil, mais pour reconnaître qu'une grimpeuse exceptionnelle a existé, qu'elle aurait probablement marqué les Jeux Olympiques de Paris 2024, et que sa disparition a changé quelque chose dans le rapport collectif au risque."
+      "html": "Six ans après, il est important de continuer à transmettre cette mémoire. Pas pour figer la communauté dans le deuil, mais pour reconnaître qu'une grimpeuse exceptionnelle a existé, qu'elle aurait probablement marqué les Jeux Olympiques de Paris 2024, et que sa disparition a changé quelque chose dans le rapport collectif au risque."
     },
     {
       "type": "p",
@@ -138,28 +138,28 @@
   "internal_links": [
     {
       "slug": "grimpeurs-grimpeuses-histoire-france",
-      "anchor": "grimpeurs et grimpeuses qui ont marqué l'histoire",
-      "context": "pilier personnalites"
-    },
-    {
-      "slug": "francaises-jeux-olympiques-paris",
-      "anchor": "les Françaises aux JO 2024",
-      "context": "génération suivante"
-    },
-    {
-      "slug": "charlotte-durif-multiple-disciplines",
-      "anchor": "Charlotte Durif et la polyvalence",
-      "context": "autre profil féminin français"
+      "anchor": "des trajectoires tricolores qui ont nourri l'escalade française",
+      "context": "pilier personnalités, premier lien interne"
     },
     {
       "slug": "dent-crolles-chartreuse",
-      "anchor": "escalade en Chartreuse",
-      "context": "massif d'origine"
+      "anchor": "la Dent de Crolles et ses classiques de Chartreuse",
+      "context": "cross-cocon sites, massif d'origine"
+    },
+    {
+      "slug": "francaises-jeux-olympiques-paris",
+      "anchor": "au Bourget pour Paris 2024",
+      "context": "même cocon, génération suivante"
+    },
+    {
+      "slug": "charlotte-durif-multiple-disciplines",
+      "anchor": "Charlotte Durif et son parcours polyvalent",
+      "context": "même cocon, autre profil féminin français"
     },
     {
       "slug": "verification-baudrier-corde-noeud",
-      "anchor": "sécurité et vérifications",
-      "context": "rappel sécurité"
+      "anchor": "vérification mutuelle du baudrier et du nœud",
+      "context": "cross-cocon sécurité, leçons de sécurité hors-voie"
     }
   ],
   "scheduled_at": "2027-01-28T09:00:00+01:00"
