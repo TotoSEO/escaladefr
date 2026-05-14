@@ -607,47 +607,101 @@ def to_webp(png_bytes: bytes, output: Path, slug: str) -> bool:
         return False
 
 
+# Estimation $ par image gpt-image-2 high 1536x1024 (constatée mai 2026 : ~0.55 USD)
+COST_PER_IMAGE_USD = 0.55
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--slug", type=str, default=None)
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--redo", action="store_true")
+    ap.add_argument("--budget", type=float, default=10.0,
+                    help="Cap dur en USD (estimation). Arrêt si dépassé.")
+    ap.add_argument("--yes", action="store_true",
+                    help="Skip la confirmation interactive.")
     args = ap.parse_args()
 
     slugs = [args.slug] if args.slug else list(UNIQUE_PROMPTS.keys())
     if args.limit:
         slugs = slugs[: args.limit]
 
-    saved = 0
-    skipped = 0
-    errors = 0
-    for i, slug in enumerate(slugs, start=1):
-        if slug not in UNIQUE_PROMPTS:
-            print(f"[{i}/{len(slugs)}] {slug} ✗ pas dans UNIQUE_PROMPTS")
-            errors += 1
-            continue
+    # Filtre direct : tout slug avec un .webp existant et pas de --redo est zappé tout de suite.
+    missing = []
+    for slug in slugs:
         out = OUT_DIR / f"{slug}.webp"
         if out.exists() and not args.redo:
-            print(f"[{i}/{len(slugs)}] {slug} · déjà fait, skip")
-            skipped += 1
             continue
+        missing.append(slug)
 
+    if not missing:
+        print(f"Aucune image à générer ({len(slugs)} déjà présentes).")
+        return
+
+    est_cost = len(missing) * COST_PER_IMAGE_USD
+    print(f"À générer : {len(missing)} images · ~{est_cost:.2f} USD estimés")
+    print(f"Budget max : {args.budget:.2f} USD")
+    if est_cost > args.budget and not args.yes:
+        sys.exit(f"✗ Estimation > budget. Augmente --budget ou réduis --limit.")
+    if not args.yes:
+        resp = input("Continuer ? [y/N] ").strip().lower()
+        if resp not in {"y", "yes", "oui", "o"}:
+            sys.exit("Annulé.")
+
+    saved = 0
+    errors = 0
+    spent = 0.0
+    for i, slug in enumerate(missing, start=1):
+        if spent + COST_PER_IMAGE_USD > args.budget:
+            print(f"\n✋ Budget atteint ({spent:.2f}/{args.budget:.2f} USD). Arrêt avant {slug}.")
+            break
+
+        out = OUT_DIR / f"{slug}.webp"
         full_prompt = PROMPT_PREFIX + UNIQUE_PROMPTS[slug]
+
+        # Étape 1 : appel API, attente complète (pas de parallélisme)
+        print(f"[{i}/{len(missing)}] {slug} · requête…", flush=True)
+        t0 = time.time()
         png = generate_image(full_prompt)
+        elapsed = time.time() - t0
         if png is None:
+            print(f"  ✗ pas d'image renvoyée ({elapsed:.1f}s)")
             errors += 1
             continue
-        ok = to_webp(png, out, slug)
-        if ok:
-            saved += 1
-            size_kb = out.stat().st_size // 1024
-            print(f"[{i}/{len(slugs)}] {slug} ✓ {size_kb} KB")
-        else:
-            errors += 1
-        # léger délai pour ne pas saturer l'API
-        time.sleep(0.5)
 
-    print(f"\n=== {saved} générées · {skipped} déjà présentes · {errors} erreurs ===")
+        # Étape 2 : conversion WebP + métadonnées EXIF/XMP
+        ok = to_webp(png, out, slug)
+        if not ok:
+            errors += 1
+            continue
+
+        # Étape 3 : vérification que le fichier est bien en notre possession,
+        #           taille plausible, dimensions correctes. Sinon on ne facture pas
+        #           le slug comme « fait ».
+        if not out.exists() or out.stat().st_size < 30_000:
+            print(f"  ✗ fichier absent ou < 30 KB après écriture")
+            errors += 1
+            continue
+        try:
+            with Image.open(out) as verify:
+                if verify.size != (1600, 900):
+                    print(f"  ✗ dimensions inattendues : {verify.size}")
+                    errors += 1
+                    continue
+        except Exception as e:  # noqa: BLE001
+            print(f"  ✗ image illisible : {e}")
+            errors += 1
+            continue
+
+        spent += COST_PER_IMAGE_USD
+        saved += 1
+        size_kb = out.stat().st_size // 1024
+        print(f"  ✓ {size_kb} KB · {elapsed:.1f}s · cumulé {spent:.2f}/{args.budget:.2f} USD")
+
+        # Pause anti rate-limit, image suivante seulement après confirmation file-system
+        time.sleep(1.0)
+
+    print(f"\n=== {saved} générées · {errors} erreurs · {spent:.2f} USD dépensés ===")
 
 
 if __name__ == "__main__":

@@ -99,6 +99,7 @@ export type BlogArticleListItem = {
   word_count: number | null;
   published_at: string;
   scheduled_at: string;
+  updated_at: string | null;
 };
 
 export type BlogArticle = BlogArticleListItem & {
@@ -111,7 +112,7 @@ export type BlogArticle = BlogArticleListItem & {
 };
 
 const LIST_COLS =
-  "id,slug,cocon,type_article,title,h1,description,chapo,cover_image,cover_alt,word_count,published_at,scheduled_at";
+  "id,slug,cocon,type_article,title,h1,description,chapo,cover_image,cover_alt,word_count,published_at,scheduled_at,updated_at";
 const FULL_COLS = `${LIST_COLS},takeaways,body_blocks,faq,internal_links,author_name,author_url`;
 
 /* ───── Fetch helpers ───── */

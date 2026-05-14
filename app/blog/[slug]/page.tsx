@@ -44,6 +44,7 @@ export async function generateMetadata(
         },
       ],
       publishedTime: article.published_at,
+      modifiedTime: article.updated_at ?? article.published_at,
       authors: [article.author_name],
     },
     twitter: {
@@ -97,7 +98,7 @@ export default async function BlogArticlePage(
           height: 900,
         },
         datePublished: article.published_at,
-        dateModified: article.published_at,
+        dateModified: article.updated_at ?? article.published_at,
         author: {
           "@type": "Person",
           name: article.author_name,

@@ -19,10 +19,10 @@ type NavItem = { label: string; href: string; tag?: string };
 
 const NAV: NavItem[] = [
   { label: "Sites naturels", href: "/sites" },
-  { label: "Salles", href: "/salles", tag: "bientôt" },
+  { label: "Salles", href: "/salles" },
   { label: "Outils", href: "/outils" },
   { label: "Glossaire", href: "/glossaire-escalade" },
-  { label: "Blog", href: "/blog", tag: "bientôt" },
+  { label: "Blog", href: "/blog" },
 ];
 
 export function SiteHeader() {
