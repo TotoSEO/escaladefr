@@ -80,7 +80,7 @@
     },
     {
       "type": "p",
-      "html": "La marche d'approche d'une heure trente refroidit les ardeurs des touristes, mais le site mérite l'effort. Une fois là haut, tu trouves de la voie du 6c jusqu'au 9b+, dans un cadre alpin grandiose. Tu peux lire <a href=\"/blog/ceuse-cathedrale-calcaire\">notre dossier dédié à Céüse</a> qui détaille les secteurs, la saison et l'organisation pratique."
+      "html": "La marche d'approche d'une heure trente refroidit les ardeurs des touristes, mais le site mérite l'effort. Une fois là haut, tu trouves de la voie du 6c jusqu'au 9b+, dans un cadre alpin grandiose."
     },
     {
       "type": "h2",
@@ -104,19 +104,47 @@
     },
     {
       "type": "p",
-      "html": "L'accès au parc national impose des règles strictes : pas de feu, sentiers balisés, déchets retour, et fermetures estivales liées au risque incendie. Consulte notre <a href=\"/blog/calanques-escalade-marseille\">guide Calanques</a> et la <a href=\"/blog/parc-national-escalade-regles\">réglementation parc national</a> avant chaque sortie. La période idéale tourne d'octobre à avril."
+      "html": "L'accès au parc national impose des règles strictes : pas de feu, sentiers balisés, déchets retour, et fermetures estivales liées au risque incendie. La période idéale tourne d'octobre à avril."
     },
     {
       "type": "table",
       "caption": "Saison idéale par site",
-      "headers": ["Site", "Pleine saison", "À éviter"],
+      "headers": [
+        "Site",
+        "Pleine saison",
+        "À éviter"
+      ],
       "rows": [
-        ["Fontainebleau", "Octobre à mars", "Été humide"],
-        ["Verdon", "Avril-juin, sept-nov", "Juillet, août"],
-        ["Céüse", "Mai à octobre", "Hiver enneigé"],
-        ["Buoux", "Octobre à avril", "Été chaud"],
-        ["Calanques", "Octobre à avril", "Été (fermetures)"],
-        ["Aiguille du Midi", "Juin à septembre", "Hiver (alpinisme)"]
+        [
+          "Fontainebleau",
+          "Octobre à mars",
+          "Été humide"
+        ],
+        [
+          "Verdon",
+          "Avril-juin, sept-nov",
+          "Juillet, août"
+        ],
+        [
+          "Céüse",
+          "Mai à octobre",
+          "Hiver enneigé"
+        ],
+        [
+          "Buoux",
+          "Octobre à avril",
+          "Été chaud"
+        ],
+        [
+          "Calanques",
+          "Octobre à avril",
+          "Été (fermetures)"
+        ],
+        [
+          "Aiguille du Midi",
+          "Juin à septembre",
+          "Hiver (alpinisme)"
+        ]
       ]
     },
     {

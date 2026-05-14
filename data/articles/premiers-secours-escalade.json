@@ -21,7 +21,7 @@
     },
     {
       "type": "p",
-      "html": "Le premier geste, c'est de **sécuriser la scène**. Si le blessé est suspendu sur une voie après une chute, il faut d'abord stabiliser sa position. S'il est tombé en bloc avec un <strong>crashpad</strong> mal placé, on vérifie d'abord qu'aucun autre crashpad ne va lui tomber dessus. Si tu te précipites sans regarder, tu deviens la deuxième victime et tu compliques le travail des secours. Le <strong>PGHM</strong> le répète à chaque stage : sécurité du sauveteur d'abord."
+      "html": "Le premier geste, c'est de sécuriser la scène. Si le blessé est suspendu sur une voie après une chute, il faut d'abord stabiliser sa position. S'il est tombé en bloc avec un crashpad mal placé, on vérifie d'abord qu'aucun autre crashpad ne va lui tomber dessus. Si tu te précipites sans regarder, tu deviens la deuxième victime et tu compliques le travail des secours. Le PGHM le répète à chaque stage : sécurité du sauveteur d'abord."
     },
     {
       "type": "p",
@@ -33,11 +33,11 @@
     },
     {
       "type": "p",
-      "html": "Tu démarres par trois questions de base. **Conscience** : tu parles à la victime, tu la touches doucement à l'épaule, tu vois si elle répond. **Respiration** : tu observes le thorax qui se soulève, tu colles l'oreille près de la bouche pour entendre. **Saignement** : tu inspectes visuellement les vêtements pour repérer une tâche de sang, tu regardes la tête, les bras et les jambes."
+      "html": "Tu démarres par trois questions de base. Conscience : tu parles à la victime, tu la touches doucement à l'épaule, tu vois si elle répond. Respiration : tu observes le thorax qui se soulève, tu colles l'oreille près de la bouche pour entendre. Saignement : tu inspectes visuellement les vêtements pour repérer une tâche de sang, tu regardes la tête, les bras et les jambes."
     },
     {
       "type": "p",
-      "html": "Si la victime est consciente et respire normalement, tu lui parles, tu la rassures, tu lui demandes où elle a mal et ce qui s'est passé. Ces réponses te permettront de transmettre un **bilan précis aux secours**. Si elle est inconsciente mais respire, tu la positionnes en position latérale de sécurité. Si elle ne respire pas, tu démarres immédiatement la réanimation cardiopulmonaire et tu envoies quelqu'un appeler le <strong>112</strong>."
+      "html": "Si la victime est consciente et respire normalement, tu lui parles, tu la rassures, tu lui demandes où elle a mal et ce qui s'est passé. Ces réponses te permettront de transmettre un bilan précis aux secours. Si elle est inconsciente mais respire, tu la positionnes en position latérale de sécurité. Si elle ne respire pas, tu démarres immédiatement la réanimation cardiopulmonaire et tu envoies quelqu'un appeler le 112."
     },
     {
       "type": "list",
@@ -64,11 +64,11 @@
     },
     {
       "type": "p",
-      "html": "La règle d'or après une chute d'escalade : **ne pas déplacer la victime** si tu suspectes une lésion vertébrale, sauf danger immédiat. Tu la laisses dans la position trouvée, tu la couvres avec une couverture de survie pour éviter l'hypothermie, et tu attends les secours. Si tu dois absolument la déplacer (risque de chute de pierres, montée des eaux), tu maintiens l'axe tête cou tronc autant que possible, à plusieurs personnes."
+      "html": "La règle d'or après une chute d'escalade : ne pas déplacer la victime si tu suspectes une lésion vertébrale, sauf danger immédiat. Tu la laisses dans la position trouvée, tu la couvres avec une couverture de survie pour éviter l'hypothermie, et tu attends les secours. Si tu dois absolument la déplacer (risque de chute de pierres, montée des eaux), tu maintiens l'axe tête cou tronc autant que possible, à plusieurs personnes."
     },
     {
       "type": "p",
-      "html": "Une victime consciente qui se plaint de la nuque, du dos ou qui ne sent plus une partie de son corps reste **strictement immobile**. Tu la rassures, tu lui parles, tu maintiens sa tête entre tes mains pour limiter les mouvements. Tu peux relire <a href=\"/blog/alerter-secours-falaise\">notre procédure d'alerte aux secours en falaise</a> pour préparer l'arrivée de l'équipe médicale."
+      "html": "Une victime consciente qui se plaint de la nuque, du dos ou qui ne sent plus une partie de son corps reste strictement immobile. Tu la rassures, tu lui parles, tu maintiens sa tête entre tes mains pour limiter les mouvements. Tu peux relire <a href=\"/blog/alerter-secours-falaise\">notre procédure d'alerte aux secours en falaise</a> pour préparer l'arrivée de l'équipe médicale."
     },
     {
       "type": "tip",
@@ -82,11 +82,11 @@
     },
     {
       "type": "p",
-      "html": "Le saignement se gère par **compression directe**. Tu prends un linge propre, un t-shirt, une compresse stérile si tu as une trousse, et tu appuies fort sur la plaie pendant au moins cinq minutes sans relâcher. Tu n'enlèves jamais le linge même s'il s'imbibe, tu en ajoutes un par dessus. Tu surélèves le membre blessé si possible."
+      "html": "Le saignement se gère par compression directe. Tu prends un linge propre, un t-shirt, une compresse stérile si tu as une trousse, et tu appuies fort sur la plaie pendant au moins cinq minutes sans relâcher. Tu n'enlèves jamais le linge même s'il s'imbibe, tu en ajoutes un par dessus. Tu surélèves le membre blessé si possible."
     },
     {
       "type": "p",
-      "html": "Le **garrot** reste un geste de dernier recours, réservé aux saignements artériels massifs qui ne cèdent pas à la compression. Il s'applique en amont de la plaie, sur un membre, avec un bandage large, et on note l'heure de pose sur le bras de la victime. Mal posé, un garrot peut faire plus de dégâts que de bien. Si tu n'es pas formé, la compression directe couvre 95% des cas."
+      "html": "Le garrot reste un geste de dernier recours, réservé aux saignements artériels massifs qui ne cèdent pas à la compression. Il s'applique en amont de la plaie, sur un membre, avec un bandage large, et on note l'heure de pose sur le bras de la victime. Mal posé, un garrot peut faire plus de dégâts que de bien. Si tu n'es pas formé, la compression directe couvre 95% des cas."
     },
     {
       "type": "h2",
@@ -94,11 +94,11 @@
     },
     {
       "type": "p",
-      "html": "Si tu suspectes une fracture (déformation visible, douleur intense, perte de mobilité), tu immobilises la zone en position d'inconfort minimal pour la victime. Un foulard, une dégaine longue, un bout de corde peuvent servir à attacher un membre supérieur contre le tronc. Pour un membre inférieur, tu cales avec un sac, un <strong>crashpad</strong>, un vêtement roulé. Tu n'essaies jamais de remettre un os en place."
+      "html": "Si tu suspectes une fracture (déformation visible, douleur intense, perte de mobilité), tu immobilises la zone en position d'inconfort minimal pour la victime. Un foulard, une dégaine longue, un bout de corde peuvent servir à attacher un membre supérieur contre le tronc. Pour un membre inférieur, tu cales avec un sac, un crashpad, un vêtement roulé. Tu n'essaies jamais de remettre un os en place."
     },
     {
       "type": "p",
-      "html": "Tu surveilles la **coloration et la sensibilité** de l'extrémité du membre. Si les orteils ou les doigts deviennent bleus, c'est que la circulation est compromise, tu desserres légèrement le bandage. Tu rassures la victime et tu transmets ces informations aux secours quand ils arrivent."
+      "html": "Tu surveilles la <strong>coloration et la sensibilité</strong> de l'extrémité du membre. Si les orteils ou les doigts deviennent bleus, c'est que la circulation est compromise, tu desserres légèrement le bandage. Tu rassures la victime et tu transmets ces informations aux secours quand ils arrivent."
     },
     {
       "type": "table",
@@ -142,11 +142,11 @@
     },
     {
       "type": "p",
-      "html": "Une **trousse de premiers secours d'escalade** tient dans une poche de sac. Compresses stériles, pansements, bandes de gaze, sparadrap, ciseaux, désinfectant, couverture de survie, antalgiques, paracétamol, et de quoi noter (papier crayon ou téléphone). Tu peux ajouter une attelle gonflable type Sam Splint, un sifflet, et une frontale pour les retours tardifs."
+      "html": "Une <strong>trousse de premiers secours d'escalade</strong> tient dans une poche de sac. Compresses stériles, pansements, bandes de gaze, sparadrap, ciseaux, désinfectant, couverture de survie, antalgiques, paracétamol, et de quoi noter (papier crayon ou téléphone). Tu peux ajouter une attelle gonflable type Sam Splint, un sifflet, et une frontale pour les retours tardifs."
     },
     {
       "type": "p",
-      "html": "La trousse reste dans le sac de cordée à proximité du pied de voie. Vérifie régulièrement les dates de péremption des antalgiques et l'état des compresses. Compte cinquante à quatre vingt euros pour une trousse complète prête à l'emploi vendue chez **Petzl ou décathlon**. Tu peux aussi consulter <a href=\"/blog/check-list-avant-grimper\">notre check list pour préparer une sortie</a> qui rappelle l'importance de la trousse."
+      "html": "La trousse reste dans le sac de cordée à proximité du pied de voie. Vérifie régulièrement les dates de péremption des antalgiques et l'état des compresses. Compte cinquante à quatre vingt euros pour une trousse complète prête à l'emploi vendue chez <strong>Petzl ou décathlon</strong>."
     },
     {
       "type": "h2",
@@ -154,11 +154,11 @@
     },
     {
       "type": "p",
-      "html": "Dès que tu as appelé le 112, tu te prépares à recevoir les sauveteurs. Tu notes l'**heure de l'accident**, l'évolution des paramètres (conscience, respiration, douleur), tu prépares la carte d'identité et la licence FFME du blessé, tu prépares son téléphone pour pouvoir contacter ses proches. Tu envoies un membre de la cordée à la rencontre des secours sur le sentier d'accès, sifflet et frontale en main si la nuit tombe."
+      "html": "Dès que tu as appelé le 112, tu te prépares à recevoir les sauveteurs. Tu notes l'<strong>heure de l'accident</strong>, l'évolution des paramètres (conscience, respiration, douleur), tu prépares la carte d'identité et la licence FFME du blessé, tu prépares son téléphone pour pouvoir contacter ses proches. Tu envoies un membre de la cordée à la rencontre des secours sur le sentier d'accès, sifflet et frontale en main si la nuit tombe."
     },
     {
       "type": "p",
-      "html": "Si l'**hélitreuillage** est nécessaire, tu repères une zone dégagée d'au moins quinze mètres de diamètre, à l'écart de la falaise, pour permettre le posé ou le treuillage. Tu peux consulter <a href=\"/blog/helitreuillage-evacuation\">notre fiche sur l'hélitreuillage et l'évacuation</a> qui détaille la procédure côté grimpeur. Tu fais signe à l'hélico les bras en V, jamais les bras croisés qui signifient au contraire pas besoin d'aide."
+      "html": "Si l'<strong>hélitreuillage</strong> est nécessaire, tu repères une zone dégagée d'au moins quinze mètres de diamètre, à l'écart de la falaise, pour permettre le posé ou le treuillage. Tu fais signe à l'hélico les bras en V, jamais les bras croisés qui signifient au contraire pas besoin d'aide."
     },
     {
       "type": "tip",
@@ -172,7 +172,7 @@
     },
     {
       "type": "p",
-      "html": "Le diplôme **PSC1** (Prévention et Secours Civiques niveau 1) dure une journée, coûte autour de soixante euros, et te donne les bases solides : protection, alerte, position latérale de sécurité, RCP, défibrillation, saignement. Tous les centres de Croix Rouge française et de protection civile le proposent. Pour aller plus loin, le **PSC2** ou le brevet de secouriste en milieu montagne couvre les spécificités de l'extérieur."
+      "html": "Le diplôme <strong>PSC1</strong> (Prévention et Secours Civiques niveau 1) dure une journée, coûte autour de soixante euros, et te donne les bases solides : protection, alerte, position latérale de sécurité, RCP, défibrillation, saignement. Tous les centres de Croix Rouge française et de protection civile le proposent. Pour aller plus loin, le <strong>PSC2</strong> ou le brevet de secouriste en milieu montagne couvre les spécificités de l'extérieur."
     },
     {
       "type": "p",
@@ -194,7 +194,7 @@
     },
     {
       "type": "p",
-      "html": "L'objectif des premiers secours n'est pas de soigner, c'est de **stabiliser** en attendant les professionnels. Avec un protocole simple bien appliqué, tu donnes à la victime ses meilleures chances. C'est ce que m'a appris ma première formation PSC1, et c'est ce qui reste vrai sur le terrain. Tu peux compléter ta lecture avec <a href=\"/blog/accidents-escalade-statistiques\">notre analyse des statistiques d'accidents en escalade</a> pour mieux comprendre ce que tu peux rencontrer."
+      "html": "L'objectif des premiers secours n'est pas de soigner, c'est de <strong>stabiliser</strong> en attendant les professionnels. Avec un protocole simple bien appliqué, tu donnes à la victime ses meilleures chances. C'est ce que m'a appris ma première formation PSC1, et c'est ce qui reste vrai sur le terrain."
     }
   ],
   "faq": [

@@ -16,48 +16,164 @@
     "Influence revendiquee par une generation entiere de jeunes grimpeuses."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Les debuts en Slovenie"},
-    {"type": "p", "html": "Janja Garnbret naît en 1999 a Slovenj Gradec, en Slovenie, un petit pays d'Europe centrale qui produit pourtant un nombre etonnant de grimpeurs de haut niveau. Elle commence l'escalade tres jeune, vers l'age de 7 ans, dans le club local. La Slovenie dispose d'une federation active, de plusieurs salles et d'un environnement de falaise proche, ce qui a favorise l'eclosion de nombreux talents au cours des dernieres decennies, en parallele de la Republique Tchèque, de l'Allemagne et de l'Autriche."},
-    {"type": "p", "html": "Tres tot, elle se distingue dans les categories jeunes. A 14 ans, elle remporte sa premiere medaille internationale en jeunes, et la trajectoire s'accelere. Plusieurs entraineurs slovenes ont rapporte sa capacite a apprendre vite, a reproduire un mouvement complexe apres l'avoir observe, et son endurance mentale dans les sessions longues. Cette combinaison rare l'amene a passer chez les seniors avant ses 16 ans, dans une fenetre ou la concurrence est deja installee."},
-    {"type": "p", "html": "Son ascension croise plusieurs autres grimpeurs slovenes au plus haut niveau, dans une periode ou la nation se positionne comme une reference de la grimpe sportive en Europe. Pour comprendre comment la compétition francaise se compare a cette puissance slovene, tu peux relire <a href=\"/blog/francois-legrand-competition\">le profil de François Legrand</a> qui raconte la generation francaise dominante des annees 90."},
-    {"type": "h2", "text": "Les titres mondiaux et le circuit"},
-    {"type": "p", "html": "Janja Garnbret aligne une serie de titres mondiaux a partir de <strong>2016</strong>. Aux championnats du monde organises par la <strong>IFSC</strong>, elle remporte plusieurs medailles d'or en bloc et en combine, et participe aussi a des podiums en difficulte. Sa polyvalence est l'une de ses caracteristiques majeures : elle est competitive dans deux disciplines distinctes, ce qui devient un avantage decisif quand la compétition combinée gagne du terrain."},
-    {"type": "p", "html": "En <strong>2019</strong>, elle realise une performance rare : remporter toutes les etapes de la coupe du monde de bloc dans une meme saison. Cette serie complete n'avait jamais ete reussie auparavant chez les femmes. Cette saison historique marque l'installation de sa domination. Les saisons suivantes confirment sa regularite, avec des places sur le podium presque systematiques quand elle participe."},
-    {"type": "quote", "text": "La compétition, c'est un travail. Le talent ne suffit pas, il faut y mettre les heures.", "author": "Janja Garnbret", "role": "propos rapportes dans des interviews internationales"},
-    {"type": "h2", "text": "Les Jeux Olympiques de Tokyo et de Paris"},
-    {"type": "p", "html": "L'escalade entre aux <strong>Jeux Olympiques</strong> a Tokyo en 2021 (edition 2020 reportee), avec un format combine inedit. Les athletes doivent grimper en vitesse, en bloc et en difficulte, et l'addition de leurs places donne un classement final. Janja Garnbret remporte la medaille d'or chez les femmes, dans une finale qui marque l'histoire de la discipline. Cette victoire installe la grimpe dans le grand public mondial."},
-    {"type": "p", "html": "Aux Jeux Olympiques de <strong>Paris 2024</strong>, le format evolue : la vitesse devient une epreuve a part, et le combine se limite au bloc et a la difficulte. Janja Garnbret remporte l'or dans ce nouveau combine. Ce deuxieme titre olympique consecutif est une performance rare, qui place la grimpeuse slovene parmi les athletes olympiques majeurs de sa decennie, toutes disciplines confondues. Pour comprendre le contexte francais de ces JO, tu peux consulter <a href=\"/blog/francaises-jeux-olympiques-2024\">le bilan des Françaises aux JO 2024</a>."},
-    {"type": "h2", "text": "Les performances en falaise"},
-    {"type": "p", "html": "Janja Garnbret ne se limite pas a la compétition. Elle grimpe regulierement en falaise, et a realise plusieurs voies dans le haut niveau international. Elle est devenue la deuxieme femme a avoir grimpe une voie cotee <strong>9a</strong>, avec une realisation rapportee en Slovenie au debut des annees 2020. Plusieurs autres voies dans le 8c et 8c+ ont egalement ete documentees par les sources publiques."},
-    {"type": "list", "variant": "cards", "title": "Voies et titres signes par Janja Garnbret", "items": [
-      {"title": "JO Tokyo 2021, combine", "body": "Premiere championne olympique de l'histoire de l'escalade chez les femmes."},
-      {"title": "JO Paris 2024, bloc et difficulte", "body": "Deuxieme titre olympique consecutif chez les femmes."},
-      {"title": "Coupe du monde de bloc 2019", "body": "Premiere grimpeuse a remporter toutes les etapes d'une saison."},
-      {"title": "Voie 9a en Slovenie", "body": "Deuxieme femme a realiser une voie cotee 9a en falaise."},
-      {"title": "Multiples titres mondiaux IFSC", "body": "Plusieurs medailles d'or aux championnats du monde en bloc et en combine."},
-      {"title": "Coupes du monde de difficulte", "body": "Plusieurs etapes remportees, podiums reguliers sur le circuit."}
-    ]},
-    {"type": "h2", "text": "Ce qu'elle a apporte a la grimpe contemporaine"},
-    {"type": "p", "html": "Janja Garnbret a installe un nouveau standard de regularite dans la compétition feminine. Sa serie de victoires force les autres grimpeuses a repenser leur entrainement, leur volume et leur preparation mentale. Elle a aussi rendu la grimpe plus visible aupres du grand public mondial, notamment a travers les retransmissions olympiques. Sa victoire a Tokyo a beaucoup contribue a faire connaitre la discipline en dehors des publics deja convaincus."},
-    {"type": "p", "html": "Son approche a aussi popularise un modele d'entrainement structure, base sur le volume, la repetition technique et la preparation psychologique. Ce modele est repris par les jeunes generations dans plusieurs pays, dont la France et la Slovenie. Tu peux relier cette dynamique a la generation d'<a href=\"/blog/adam-ondra-9c-silence\">Adam Ondra</a>, l'autre figure majeure tcheque de la grimpe contemporaine, qui partage cette culture d'Europe centrale."},
-    {"type": "h2", "text": "Aujourd'hui et perspectives"},
-    {"type": "p", "html": "Janja Garnbret continue de compétitionner au plus haut niveau et n'a pas annonce de retrait. Elle alterne saisons de compétition et periodes consacrees a la falaise, en Slovenie et a l'etranger. Les sources publiques rapportent qu'elle s'engage egalement dans des projets de promotion de la grimpe feminine et de denonciation des derives liees au poids dans le milieu de la compétition, un sujet sensible dans la discipline."},
-    {"type": "p", "html": "Pour la suite, elle reste l'une des favorites des prochaines compétitions internationales et des Jeux Olympiques de <strong>2028</strong>. Si elle confirme sa regularite, son palmares pourrait devenir l'un des plus etoffes de l'histoire de la discipline, toutes generations confondues. Pour situer Janja Garnbret dans une histoire plus large, le <a href=\"/blog/grimpeurs-grimpeuses-histoire-france\">pilier du cocon personnalites</a> offre une vision d'ensemble des figures qui ont marque la discipline, en France et a l'international."}
+    {
+      "type": "h2",
+      "text": "Les debuts en Slovenie"
+    },
+    {
+      "type": "p",
+      "html": "Janja Garnbret naît en 1999 a Slovenj Gradec, en Slovenie, un petit pays d'Europe centrale qui produit pourtant un nombre etonnant de grimpeurs de haut niveau. Elle commence l'escalade tres jeune, vers l'age de 7 ans, dans le club local. La Slovenie dispose d'une federation active, de plusieurs salles et d'un environnement de falaise proche, ce qui a favorise l'eclosion de nombreux talents au cours des dernieres decennies, en parallele de la Republique Tchèque, de l'Allemagne et de l'Autriche."
+    },
+    {
+      "type": "p",
+      "html": "Tres tot, elle se distingue dans les categories jeunes. A 14 ans, elle remporte sa premiere medaille internationale en jeunes, et la trajectoire s'accelere. Plusieurs entraineurs slovenes ont rapporte sa capacite a apprendre vite, a reproduire un mouvement complexe apres l'avoir observe, et son endurance mentale dans les sessions longues. Cette combinaison rare l'amene a passer chez les seniors avant ses 16 ans, dans une fenetre ou la concurrence est deja installee."
+    },
+    {
+      "type": "p",
+      "html": "Son ascension croise plusieurs autres grimpeurs slovenes au plus haut niveau, dans une periode ou la nation se positionne comme une reference de la grimpe sportive en Europe. Pour comprendre comment la compétition francaise se compare a cette puissance slovene, tu peux relire <a href=\"/blog/francois-legrand-competition\">le profil de François Legrand</a> qui raconte la generation francaise dominante des annees 90."
+    },
+    {
+      "type": "h2",
+      "text": "Les titres mondiaux et le circuit"
+    },
+    {
+      "type": "p",
+      "html": "Janja Garnbret aligne une serie de titres mondiaux a partir de <strong>2016</strong>. Aux championnats du monde organises par la <strong>IFSC</strong>, elle remporte plusieurs medailles d'or en bloc et en combine, et participe aussi a des podiums en difficulte. Sa polyvalence est l'une de ses caracteristiques majeures : elle est competitive dans deux disciplines distinctes, ce qui devient un avantage decisif quand la compétition combinée gagne du terrain."
+    },
+    {
+      "type": "p",
+      "html": "En <strong>2019</strong>, elle realise une performance rare : remporter toutes les etapes de la coupe du monde de bloc dans une meme saison. Cette serie complete n'avait jamais ete reussie auparavant chez les femmes. Cette saison historique marque l'installation de sa domination. Les saisons suivantes confirment sa regularite, avec des places sur le podium presque systematiques quand elle participe."
+    },
+    {
+      "type": "quote",
+      "text": "La compétition, c'est un travail. Le talent ne suffit pas, il faut y mettre les heures.",
+      "author": "Janja Garnbret",
+      "role": "propos rapportes dans des interviews internationales"
+    },
+    {
+      "type": "h2",
+      "text": "Les Jeux Olympiques de Tokyo et de Paris"
+    },
+    {
+      "type": "p",
+      "html": "L'escalade entre aux <strong>Jeux Olympiques</strong> a Tokyo en 2021 (edition 2020 reportee), avec un format combine inedit. Les athletes doivent grimper en vitesse, en bloc et en difficulte, et l'addition de leurs places donne un classement final. Janja Garnbret remporte la medaille d'or chez les femmes, dans une finale qui marque l'histoire de la discipline. Cette victoire installe la grimpe dans le grand public mondial."
+    },
+    {
+      "type": "p",
+      "html": "Aux Jeux Olympiques de <strong>Paris 2024</strong>, le format evolue : la vitesse devient une epreuve a part, et le combine se limite au bloc et a la difficulte. Janja Garnbret remporte l'or dans ce nouveau combine. Ce deuxieme titre olympique consecutif est une performance rare, qui place la grimpeuse slovene parmi les athletes olympiques majeurs de sa decennie, toutes disciplines confondues. Pour comprendre le contexte francais de ces JO,"
+    },
+    {
+      "type": "h2",
+      "text": "Les performances en falaise"
+    },
+    {
+      "type": "p",
+      "html": "Janja Garnbret ne se limite pas a la compétition. Elle grimpe regulierement en falaise, et a realise plusieurs voies dans le haut niveau international. Elle est devenue la deuxieme femme a avoir grimpe une voie cotee <strong>9a</strong>, avec une realisation rapportee en Slovenie au debut des annees 2020. Plusieurs autres voies dans le 8c et 8c+ ont egalement ete documentees par les sources publiques."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Voies et titres signes par Janja Garnbret",
+      "items": [
+        {
+          "title": "JO Tokyo 2021, combine",
+          "body": "Premiere championne olympique de l'histoire de l'escalade chez les femmes."
+        },
+        {
+          "title": "JO Paris 2024, bloc et difficulte",
+          "body": "Deuxieme titre olympique consecutif chez les femmes."
+        },
+        {
+          "title": "Coupe du monde de bloc 2019",
+          "body": "Premiere grimpeuse a remporter toutes les etapes d'une saison."
+        },
+        {
+          "title": "Voie 9a en Slovenie",
+          "body": "Deuxieme femme a realiser une voie cotee 9a en falaise."
+        },
+        {
+          "title": "Multiples titres mondiaux IFSC",
+          "body": "Plusieurs medailles d'or aux championnats du monde en bloc et en combine."
+        },
+        {
+          "title": "Coupes du monde de difficulte",
+          "body": "Plusieurs etapes remportees, podiums reguliers sur le circuit."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Ce qu'elle a apporte a la grimpe contemporaine"
+    },
+    {
+      "type": "p",
+      "html": "Janja Garnbret a installe un nouveau standard de regularite dans la compétition feminine. Sa serie de victoires force les autres grimpeuses a repenser leur entrainement, leur volume et leur preparation mentale. Elle a aussi rendu la grimpe plus visible aupres du grand public mondial, notamment a travers les retransmissions olympiques. Sa victoire a Tokyo a beaucoup contribue a faire connaitre la discipline en dehors des publics deja convaincus."
+    },
+    {
+      "type": "p",
+      "html": "Son approche a aussi popularise un modele d'entrainement structure, base sur le volume, la repetition technique et la preparation psychologique. Ce modele est repris par les jeunes generations dans plusieurs pays, dont la France et la Slovenie."
+    },
+    {
+      "type": "h2",
+      "text": "Aujourd'hui et perspectives"
+    },
+    {
+      "type": "p",
+      "html": "Janja Garnbret continue de compétitionner au plus haut niveau et n'a pas annonce de retrait. Elle alterne saisons de compétition et periodes consacrees a la falaise, en Slovenie et a l'etranger. Les sources publiques rapportent qu'elle s'engage egalement dans des projets de promotion de la grimpe feminine et de denonciation des derives liees au poids dans le milieu de la compétition, un sujet sensible dans la discipline."
+    },
+    {
+      "type": "p",
+      "html": "Pour la suite, elle reste l'une des favorites des prochaines compétitions internationales et des Jeux Olympiques de <strong>2028</strong>. Si elle confirme sa regularite, son palmares pourrait devenir l'un des plus etoffes de l'histoire de la discipline, toutes generations confondues. Pour situer Janja Garnbret dans une histoire plus large, le <a href=\"/blog/grimpeurs-grimpeuses-histoire-france\">pilier du cocon personnalites</a> offre une vision d'ensemble des figures qui ont marque la discipline, en France et a l'international."
+    }
   ],
   "faq": [
-    {"q": "Quel est le palmares olympique de Janja Garnbret ?", "a": "Elle a remporte la medaille d'or aux Jeux Olympiques de Tokyo en 2021 dans le combine, puis la medaille d'or aux Jeux Olympiques de Paris en 2024 dans le nouveau combine bloc et difficulte. Ces deux titres consecutifs sont une performance rare en escalade."},
-    {"q": "Dans quelle discipline excelle-t-elle ?", "a": "Elle est polyvalente, avec un niveau exceptionnel en bloc et en difficulte. Cette double competence lui permet de dominer les formats combines, qui additionnent les places dans plusieurs disciplines pour donner un classement final."},
-    {"q": "Quel est son niveau en falaise ?", "a": "Plusieurs sources publiques la situent dans le 9a en falaise, avec des voies repetees ou enchainees en Slovenie et ailleurs. Elle est l'une des rares grimpeuses a avoir atteint ce niveau, ce qui montre la convergence entre compétition et escalade en falaise."},
-    {"q": "Est-elle toujours active ?", "a": "Oui, elle continue de participer aux compétitions internationales et alterne avec des periodes de grimpe en falaise. Aucun retrait n'a ete annonce, et elle reste l'une des favorites du circuit IFSC."},
-    {"q": "Comment s'entraine-t-elle ?", "a": "Les sources publiques decrivent une preparation structuree, avec un volume eleve, un travail technique pousse et une preparation mentale serieuse. Elle s'entraine principalement en Slovenie, au sein d'une federation tres organisee, et collabore avec des entraineurs locaux reputes."},
-    {"q": "Qui sont ses concurrentes principales ?", "a": "Sur le circuit IFSC, plusieurs grimpeuses japonaises, americaines et europeennes la suivent de pres. Les compositions des podiums varient d'une saison a l'autre, mais Janja Garnbret est restee la reference depuis 2017."}
+    {
+      "q": "Quel est le palmares olympique de Janja Garnbret ?",
+      "a": "Elle a remporte la medaille d'or aux Jeux Olympiques de Tokyo en 2021 dans le combine, puis la medaille d'or aux Jeux Olympiques de Paris en 2024 dans le nouveau combine bloc et difficulte. Ces deux titres consecutifs sont une performance rare en escalade."
+    },
+    {
+      "q": "Dans quelle discipline excelle-t-elle ?",
+      "a": "Elle est polyvalente, avec un niveau exceptionnel en bloc et en difficulte. Cette double competence lui permet de dominer les formats combines, qui additionnent les places dans plusieurs disciplines pour donner un classement final."
+    },
+    {
+      "q": "Quel est son niveau en falaise ?",
+      "a": "Plusieurs sources publiques la situent dans le 9a en falaise, avec des voies repetees ou enchainees en Slovenie et ailleurs. Elle est l'une des rares grimpeuses a avoir atteint ce niveau, ce qui montre la convergence entre compétition et escalade en falaise."
+    },
+    {
+      "q": "Est-elle toujours active ?",
+      "a": "Oui, elle continue de participer aux compétitions internationales et alterne avec des periodes de grimpe en falaise. Aucun retrait n'a ete annonce, et elle reste l'une des favorites du circuit IFSC."
+    },
+    {
+      "q": "Comment s'entraine-t-elle ?",
+      "a": "Les sources publiques decrivent une preparation structuree, avec un volume eleve, un travail technique pousse et une preparation mentale serieuse. Elle s'entraine principalement en Slovenie, au sein d'une federation tres organisee, et collabore avec des entraineurs locaux reputes."
+    },
+    {
+      "q": "Qui sont ses concurrentes principales ?",
+      "a": "Sur le circuit IFSC, plusieurs grimpeuses japonaises, americaines et europeennes la suivent de pres. Les compositions des podiums varient d'une saison a l'autre, mais Janja Garnbret est restee la reference depuis 2017."
+    }
   ],
   "cover_alt": "Une grimpeuse en tenue de compétition s'apprete a lancer sur une prise loin au-dessus d'un tapis epais dans une grande salle olympique remplie de public",
   "internal_links": [
-    {"slug": "grimpeurs-grimpeuses-histoire-france", "anchor": "pilier du cocon personnalites", "context": "Pilier general du cocon"},
-    {"slug": "francois-legrand-competition", "anchor": "le profil de François Legrand", "context": "Generation francaise dominante"},
-    {"slug": "francaises-jeux-olympiques-2024", "anchor": "le bilan des Françaises aux JO 2024", "context": "Contexte francais des JO"},
-    {"slug": "adam-ondra-9c-silence", "anchor": "Adam Ondra", "context": "Generation contemporaine Europe centrale"}
+    {
+      "slug": "grimpeurs-grimpeuses-histoire-france",
+      "anchor": "pilier du cocon personnalites",
+      "context": "Pilier general du cocon"
+    },
+    {
+      "slug": "francois-legrand-competition",
+      "anchor": "le profil de François Legrand",
+      "context": "Generation francaise dominante"
+    },
+    {
+      "slug": "francaises-jeux-olympiques-2024",
+      "anchor": "le bilan des Françaises aux JO 2024",
+      "context": "Contexte francais des JO"
+    },
+    {
+      "slug": "adam-ondra-9c-silence",
+      "anchor": "Adam Ondra",
+      "context": "Generation contemporaine Europe centrale"
+    }
   ],
   "scheduled_at": "2027-01-09T09:00:00+01:00"
 }

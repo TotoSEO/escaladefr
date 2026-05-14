@@ -291,7 +291,6 @@ export function coconFromSlug(slug: string): Cocon | null {
   return null;
 }
 
-/** Description SEO de chaque cocon, utilisée sur la page d'index dédiée. */
 export const COCON_DESCRIPTION: Record<Cocon, string> = {
   techniques:
     "Tout pour progresser en escalade : techniques de pied, lecture de voie, dyno, crochets de talon, gestion du dévers, mental, transition salle vers falaise.",

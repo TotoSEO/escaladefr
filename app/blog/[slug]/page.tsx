@@ -7,11 +7,11 @@ import { ArrowUpRight, Clock, Calendar as CalendarIcon } from "lucide-react";
 import { PageShell } from "@/components/page-shell";
 import { RenderBlock, KeyTakeaways } from "@/components/blog/blocks";
 import { TableOfContents } from "@/components/blog/toc";
+import { PillarLink } from "@/components/blog/pillar-link";
 import {
   COCON_LABEL,
   articleHref,
   fetchArticleBySlug,
-  fetchRelatedArticles,
   formatPublishedDate,
   readingTimeMinutes,
 } from "@/lib/blog";
@@ -61,8 +61,6 @@ export default async function BlogArticlePage(
   const { slug } = await params;
   const article = await fetchArticleBySlug(slug);
   if (!article) notFound();
-
-  const related = await fetchRelatedArticles(article.cocon, article.slug, 3);
 
   const breadcrumb = {
     "@type": "BreadcrumbList",
@@ -166,6 +164,8 @@ export default async function BlogArticlePage(
                 {article.chapo}
               </p>
 
+              <PillarLink article={article} />
+
               <div className="mt-8 flex flex-wrap items-center gap-4 font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
                 <span className="inline-flex items-center gap-1.5">
                   <CalendarIcon className="h-3.5 w-3.5 text-primary" />
@@ -213,13 +213,13 @@ export default async function BlogArticlePage(
             {article.faq && article.faq.length > 0 && (
               <section className="mt-16 rounded-3xl border border-white/10 bg-coal-900/60 p-6 sm:p-10">
                 <p className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
-                  § Questions fréquentes
+                  § FAQ
                 </p>
                 <h2
                   className="mt-3 font-display font-medium leading-tight tracking-[-0.02em]"
                   style={{ fontSize: "clamp(1.5rem, 3vw, 2.2rem)" }}
                 >
-                  Pour aller plus loin sur ce sujet.
+                  Foire aux questions sur {faqSubject(article.h1)}.
                 </h2>
                 <div className="mt-6 divide-y divide-white/10">
                   {article.faq.map((qa, i) => (
@@ -282,65 +282,16 @@ export default async function BlogArticlePage(
           </div>
         </section>
 
-        {/* Articles liés du même cocon */}
-        {related.length > 0 && (
-          <section className="relative surface-1 text-foreground">
-            <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
-            <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 sm:py-24 lg:px-12">
-              <div className="mb-8 flex items-baseline justify-between gap-4 sm:mb-12">
-                <div>
-                  <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
-                    § Dans le même thème
-                  </span>
-                  <h2
-                    className="mt-3 font-display font-medium leading-tight tracking-[-0.02em]"
-                    style={{ fontSize: "clamp(1.4rem, 3vw, 2.2rem)" }}
-                  >
-                    Cocon {COCON_LABEL[article.cocon]}.
-                  </h2>
-                </div>
-                <Link
-                  href="/blog"
-                  className="inline-flex items-center gap-2 font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground transition-colors hover:text-primary"
-                >
-                  Tous les articles
-                  <ArrowUpRight className="h-3.5 w-3.5" />
-                </Link>
-              </div>
-              <div className="grid grid-cols-1 gap-4 sm:gap-6 md:grid-cols-3">
-                {related.map((r) => (
-                  <Link
-                    key={r.id}
-                    href={articleHref(r.slug)}
-                    className="group flex flex-col overflow-hidden rounded-2xl border border-white/10 bg-coal-900 transition-all hover:border-primary/40"
-                  >
-                    <div className="relative aspect-[16/10] overflow-hidden">
-                      <Image
-                        src={r.cover_image}
-                        alt={r.cover_alt}
-                        fill
-                        sizes="(min-width: 768px) 33vw, 100vw"
-                        className="object-cover transition-transform duration-500 group-hover:scale-[1.03]"
-                      />
-                    </div>
-                    <div className="flex flex-col gap-2 p-5 sm:p-6">
-                      <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-primary">
-                        {formatPublishedDate(r.published_at)} · {readingTimeMinutes(r.word_count)} min
-                      </span>
-                      <h3
-                        className="font-display font-medium leading-tight tracking-[-0.01em]"
-                        style={{ fontSize: "clamp(1.1rem, 2vw, 1.4rem)" }}
-                      >
-                        {r.h1}
-                      </h3>
-                    </div>
-                  </Link>
-                ))}
-              </div>
-            </div>
-          </section>
-        )}
       </article>
     </PageShell>
   );
+}
+
+/** Extrait un sujet court depuis le H1 pour le titre FAQ. Premier segment
+ * avant la première virgule ou les deux-points, en minuscule.
+ */
+function faqSubject(h1: string): string {
+  const segment = h1.split(/[,:]/)[0].trim();
+  const lower = segment.charAt(0).toLowerCase() + segment.slice(1);
+  return lower;
 }

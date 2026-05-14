@@ -15,57 +15,201 @@
     "La coach indépendante en salle ou en falaise génère 1 500 à 3 000 euros mensuels pour les pratiquants installés."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Le sponsoring institutionnel, sommet de la pyramide"},
-    {"type": "p", "html": "Le sponsoring de marque reste le revenu principal des grimpeurs de très haut niveau. Quelques dizaines d'athlètes dans le monde vivent intégralement de contrats avec les grandes marques outdoor. <strong>Patagonia</strong>, <strong>North Face</strong>, <strong>Petzl</strong>, <strong>Black Diamond</strong>, <strong>La Sportiva</strong>, Scarpa, Mammut sont les noms qui reviennent le plus régulièrement. Les contrats vont de 30 000 à 250 000 euros annuels selon la notoriété et les résultats."},
-    {"type": "p", "html": "Adam Ondra, Janja Garnbret, Alex Honnold, Chris Sharma figurent en haut de cette pyramide. Leurs contrats cumulés avec plusieurs marques dépassent les 500 000 euros par an, parfois plus pour les figures à fort impact médiatique. À ces revenus s'ajoutent les primes de compétition, les royalties sur produits signature, les revenus de conférences et de droits d'image. Honnold a engrangé plusieurs millions de dollars après le succès de Free Solo en 2018."},
-    {"type": "p", "html": "Sous cette élite, plusieurs centaines de grimpeurs bénéficient de contrats partiels. Quelques milliers d'euros par an, des dotations en matériel, parfois un défraiement de voyages. Ces athlètes complètent leurs revenus par d'autres sources comme l'entraînement, les contenus en ligne, les compétitions régionales. La FFME verse aussi des aides aux grimpeurs de l'équipe de France junior et senior, modulées selon les résultats."},
-    {"type": "h2", "text": "La van life et la culture dirtbag"},
-    {"type": "p", "html": "La <strong>van life</strong> est devenue un mode de vie revendiqué dans la communauté grimpante. Un véhicule aménagé, quelques économies, et la possibilité de passer plusieurs mois sur les meilleurs spots du moment. Le coût mensuel oscille entre 500 et 1 200 euros selon le pays, la nourriture, l'essence et les frais d'accès aux salles d'entraînement. Beaucoup vivent ainsi entre quelques saisons par an et plusieurs années consécutives."},
-    {"type": "p", "html": "La <strong>culture dirtbag</strong> a ses racines à Yosemite dans les années 1960. Royal Robbins, Yvon Chouinard et leurs camarades vivaient en camping permanent, mangeaient des conserves récupérées et grimpaient toute la journée. Cette philosophie de vie réduite à l'essentiel s'est diffusée dans le monde entier. Aujourd'hui, des camps de grimpeurs permanents existent à Margalef en Espagne, à Squamish au Canada, à Tonsai en Thaïlande."},
-    {"type": "p", "html": "Le modèle économique du dirtbag moderne combine plusieurs sources. Quelques mois de travail salarié pendant l'hiver pour épargner, puis plusieurs mois de grimpe sur les épargnes. D'autres pratiquent le travail saisonnier en station, le coaching ponctuel ou la photographie outdoor. Antoine a croisé plusieurs de ces grimpeurs à Buoux et à Margalef, des cinquantenaires barbus qui vivent sur leur van depuis vingt ans sans regret apparent."},
-    {"type": "h2", "text": "YouTube, Instagram et le sponsoring de contenu"},
-    {"type": "p", "html": "L'économie du contenu en ligne a redistribué les cartes du sponsoring depuis dix ans. Un grimpeur avec 500 000 abonnés sur YouTube génère plus de revenus publicitaires qu'un athlète de Coupe du Monde. Le Norvégien Magnus Midtbø a quitté la compétition pour se consacrer à sa chaîne, ses vidéos comparant Olympic Games sont devenues virales. Ses revenus YouTube dépassent largement ce qu'il toucherait en sponsoring institutionnel pur."},
-    {"type": "p", "html": "Le modèle marche aussi pour des grimpeurs moins exposés en performance pure. Ben Hanna, Mani the Monkey, Wide Boyz ou Eric Karlsson racontent des projets, des voyages, des analyses techniques. Leur public dépasse le millier d'abonnés très engagés, ce qui suffit pour attirer des sponsors qui ciblent une audience qualifiée plus qu'une masse. Plusieurs grimpeurs vivent ainsi avec des chaînes à 100 000 abonnés."},
-    {"type": "p", "html": "Instagram joue un rôle complémentaire. Les contrats incluent souvent un nombre minimum de publications par mois, avec des hashtags et mentions spécifiques. Une publication d'un grimpeur avec 200 000 abonnés peut valoir 500 à 2 000 euros selon la marque et le ciblage. Les revenus cumulés sur l'année peuvent dépasser le SMIC pour les profils les plus actifs."},
-    {"type": "list", "variant": "cards", "title": "Cinq sources de revenus typiques d'un grimpeur pro", "items": [
-      {"title": "Sponsoring institutionnel", "body": "Contrat annuel avec une à quatre marques. De 5 000 à 250 000 euros selon la notoriété. Obligations d'événements et de communication associées."},
-      {"title": "Compétitions et primes", "body": "Coupe du Monde IFSC, championnats nationaux, événements. Primes modestes de quelques centaines à quelques milliers d'euros par podium. Variable selon la fédération."},
-      {"title": "Contenu YouTube et Instagram", "body": "Revenus publicitaires, partenariats sponsorisés, vente de programmes en ligne. De 0 à 200 000 euros annuels selon l'audience."},
-      {"title": "Coaching et formation", "body": "Cours individuels en salle ou en falaise, stages d'été, vidéos formatives. 30 à 80 euros l'heure, plusieurs centaines par mois pour un coach installé."},
-      {"title": "Conférences et droits d'image", "body": "Interventions en entreprise, festivals, événements promotionnels. 500 à 5 000 euros la conférence pour les grimpeurs reconnus."}
-    ]},
-    {"type": "h2", "text": "Le financement participatif et les projets de l'année"},
-    {"type": "p", "html": "Le <strong>financement participatif</strong> est devenu un complément important pour les grimpeurs qui veulent réaliser un projet ambitieux. Une expédition au Karakoram, l'ouverture d'une voie en grande paroi, la production d'un documentaire. Les plateformes Kickstarter, Ulule et Helloasso accueillent régulièrement ces campagnes. Les contributeurs récupèrent souvent un produit ou une expérience en contrepartie : poster signé, journée d'escalade avec le grimpeur, projection privée du film final."},
-    {"type": "p", "html": "Les campagnes les plus réussies dépassent les 50 000 euros. Le voyage de Sébastien Berthe en Patagonie, la production du film du collectif Petzl Roctrip, plusieurs ouvertures de grande paroi en Himalaya ont été financés ainsi. Le retour sur investissement pour les sponsors institutionnels devient flou, ce qui rend le crowdfunding attractif pour des projets qui ne rentrent pas dans les cases marketing classiques."},
-    {"type": "p", "html": "Le projet de l'année structure la communication de beaucoup de grimpeurs. Une voie majeure visée, un voyage emblématique, une première féminine en projet. Cette unité de récit alimente le blog, le YouTube, l'Instagram et la demande de soutien. Adam Ondra, Magnus Midtbø ou Margo Hayes annoncent régulièrement leur projet de l'année. Cette mise en récit est une compétence à part entière, qui dépasse la performance pure."},
-    {"type": "h2", "text": "Les blogs et la diffusion d'expertise"},
-    {"type": "p", "html": "Les blogs de grimpeurs ont connu un âge d'or dans les années 2010 avant de céder du terrain au YouTube et à Instagram. Quelques blogs résistent et génèrent encore des revenus par affiliation et publicité. Le blog de Olivier Aubry, le site de Mélissa Le Nevé, plusieurs blogs anglophones comme Climbing Magazine ou Mountain Project conservent une audience fidèle. Le format texte permet une profondeur d'analyse impossible en vidéo courte."},
-    {"type": "p", "html": "L'expertise technique reste un atout monnayable. Un grimpeur qui développe un programme de musculation spécifique, une méthode d'entraînement à la difficulté, une analyse technique de la chute en tête peut vendre cette expertise en ligne. Les plateformes comme Lattice Training, TrainingBeta ou Crimpd marient ce modèle. Quelques milliers d'utilisateurs payants génèrent des revenus stables sur plusieurs années."},
-    {"type": "p", "html": "Antoine suit régulièrement plusieurs de ces blogs depuis son lycée. Le blog d'Adam Ondra mis à jour irrégulièrement reste une référence pour comprendre la stratégie d'un grimpeur de très haut niveau. Les analyses de Lattice Training ont changé sa propre approche de l'entraînement. La diffusion d'expertise écrite garde une niche solide même à l'ère de la vidéo."},
-    {"type": "h2", "text": "Vivre du coaching et de la formation"},
-    {"type": "p", "html": "Beaucoup de grimpeurs vivent du coaching plutôt que du sponsoring. Un moniteur diplômé d'État ou un éducateur sportif peut facturer 30 à 80 euros de l'heure en cours individuel en salle. Un stage week-end en falaise génère 200 à 400 euros par participant, sur des groupes de 4 à 8 personnes. Les revenus mensuels d'un coach installé tournent entre 1 500 et 3 000 euros nets, ce qui correspond à un revenu correct sans être luxueux."},
-    {"type": "p", "html": "La FFME forme et diplôme les moniteurs. Le brevet fédéral d'animateur d'escalade en salle, le diplôme d'État de la jeunesse, le brevet d'État alpinisme ouvrent des niveaux d'enseignement différents. Le diplôme guide de haute montagne est le sommet de la formation, avec des revenus journaliers de 350 à 600 euros pour les guides indépendants reconnus."},
-    {"type": "p", "html": "Le coaching à distance par visioconférence et programmes personnalisés a explosé depuis le COVID. Plusieurs grimpeurs ont monté des structures comme Lattice ou Power Company Climbing qui coachent à distance pour 50 à 200 euros mensuels par grimpeur. Le scale est attractif, plusieurs centaines de clients génèrent des revenus largement supérieurs au coaching présentiel pur."},
-    {"type": "tip", "title": "Tester le modèle avant de plonger", "body": "Avant d'envisager une vie de grimpe à plein temps, vis-la pendant trois à six mois sur tes économies. Tu testes la routine, la solitude, l'incertitude financière, la dimension physique d'une pratique quotidienne. La plupart des candidats au dirtbag découvrent au bout de quelques mois que la vie en van ne leur convient pas. Mieux vaut s'en rendre compte avant d'avoir vendu son appartement.", "tone": "astuce"},
-    {"type": "h2", "text": "Le compromis et la trajectoire de vie"},
-    {"type": "p", "html": "Vivre des cailloux n'est pas un état stable, c'est un compromis permanent. Revenus irréguliers, absence de protection sociale solide, blessures qui peuvent tout interrompre, gestion du long terme financier compliquée. Beaucoup de grimpeurs combinent une activité partielle salariée avec leur pratique, ce qui assure une base économique mais limite la liberté de mouvement. Le modèle pur dirtbag concerne une minorité."},
-    {"type": "p", "html": "Antoine connaît plusieurs grimpeurs qui ont vécu plusieurs années sur la route puis se sont installés en salle, en école de grimpe, en bureau d'études ou en photographie outdoor. La transition vers une vie professionnelle classique est rarement douloureuse pour qui a vécu intensément quelques années sur les cailloux. Le souvenir reste, et les compétences relationnelles, organisationnelles, physiques acquises se transposent bien dans la vie active."},
-    {"type": "p", "html": "Pour aller plus loin, lis <a href=\"/blog/livres-escalade-references\">les livres de référence sur l'escalade</a>, <a href=\"/blog/films-escalade-meilleurs\">les films incontournables</a> et <a href=\"/blog/histoire-escalade-france-alpes-salle\">l'histoire de l'escalade en France</a>. La culture de la pratique éclaire les modèles économiques qui en découlent."}
+    {
+      "type": "h2",
+      "text": "Le sponsoring institutionnel, sommet de la pyramide"
+    },
+    {
+      "type": "p",
+      "html": "Le sponsoring de marque reste le revenu principal des grimpeurs de très haut niveau. Quelques dizaines d'athlètes dans le monde vivent intégralement de contrats avec les grandes marques outdoor. <strong>Patagonia</strong>, <strong>North Face</strong>, <strong>Petzl</strong>, <strong>Black Diamond</strong>, <strong>La Sportiva</strong>, Scarpa, Mammut sont les noms qui reviennent le plus régulièrement. Les contrats vont de 30 000 à 250 000 euros annuels selon la notoriété et les résultats."
+    },
+    {
+      "type": "p",
+      "html": "Adam Ondra, Janja Garnbret, Alex Honnold, Chris Sharma figurent en haut de cette pyramide. Leurs contrats cumulés avec plusieurs marques dépassent les 500 000 euros par an, parfois plus pour les figures à fort impact médiatique. À ces revenus s'ajoutent les primes de compétition, les royalties sur produits signature, les revenus de conférences et de droits d'image. Honnold a engrangé plusieurs millions de dollars après le succès de Free Solo en 2018."
+    },
+    {
+      "type": "p",
+      "html": "Sous cette élite, plusieurs centaines de grimpeurs bénéficient de contrats partiels. Quelques milliers d'euros par an, des dotations en matériel, parfois un défraiement de voyages. Ces athlètes complètent leurs revenus par d'autres sources comme l'entraînement, les contenus en ligne, les compétitions régionales. La FFME verse aussi des aides aux grimpeurs de l'équipe de France junior et senior, modulées selon les résultats."
+    },
+    {
+      "type": "h2",
+      "text": "La van life et la culture dirtbag"
+    },
+    {
+      "type": "p",
+      "html": "La <strong>van life</strong> est devenue un mode de vie revendiqué dans la communauté grimpante. Un véhicule aménagé, quelques économies, et la possibilité de passer plusieurs mois sur les meilleurs spots du moment. Le coût mensuel oscille entre 500 et 1 200 euros selon le pays, la nourriture, l'essence et les frais d'accès aux salles d'entraînement. Beaucoup vivent ainsi entre quelques saisons par an et plusieurs années consécutives."
+    },
+    {
+      "type": "p",
+      "html": "La <strong>culture dirtbag</strong> a ses racines à Yosemite dans les années 1960. Royal Robbins, Yvon Chouinard et leurs camarades vivaient en camping permanent, mangeaient des conserves récupérées et grimpaient toute la journée. Cette philosophie de vie réduite à l'essentiel s'est diffusée dans le monde entier. Aujourd'hui, des camps de grimpeurs permanents existent à Margalef en Espagne, à Squamish au Canada, à Tonsai en Thaïlande."
+    },
+    {
+      "type": "p",
+      "html": "Le modèle économique du dirtbag moderne combine plusieurs sources. Quelques mois de travail salarié pendant l'hiver pour épargner, puis plusieurs mois de grimpe sur les épargnes. D'autres pratiquent le travail saisonnier en station, le coaching ponctuel ou la photographie outdoor. Antoine a croisé plusieurs de ces grimpeurs à Buoux et à Margalef, des cinquantenaires barbus qui vivent sur leur van depuis vingt ans sans regret apparent."
+    },
+    {
+      "type": "h2",
+      "text": "YouTube, Instagram et le sponsoring de contenu"
+    },
+    {
+      "type": "p",
+      "html": "L'économie du contenu en ligne a redistribué les cartes du sponsoring depuis dix ans. Un grimpeur avec 500 000 abonnés sur YouTube génère plus de revenus publicitaires qu'un athlète de Coupe du Monde. Le Norvégien Magnus Midtbø a quitté la compétition pour se consacrer à sa chaîne, ses vidéos comparant Olympic Games sont devenues virales. Ses revenus YouTube dépassent largement ce qu'il toucherait en sponsoring institutionnel pur."
+    },
+    {
+      "type": "p",
+      "html": "Le modèle marche aussi pour des grimpeurs moins exposés en performance pure. Ben Hanna, Mani the Monkey, Wide Boyz ou Eric Karlsson racontent des projets, des voyages, des analyses techniques. Leur public dépasse le millier d'abonnés très engagés, ce qui suffit pour attirer des sponsors qui ciblent une audience qualifiée plus qu'une masse. Plusieurs grimpeurs vivent ainsi avec des chaînes à 100 000 abonnés."
+    },
+    {
+      "type": "p",
+      "html": "Instagram joue un rôle complémentaire. Les contrats incluent souvent un nombre minimum de publications par mois, avec des hashtags et mentions spécifiques. Une publication d'un grimpeur avec 200 000 abonnés peut valoir 500 à 2 000 euros selon la marque et le ciblage. Les revenus cumulés sur l'année peuvent dépasser le SMIC pour les profils les plus actifs."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Cinq sources de revenus typiques d'un grimpeur pro",
+      "items": [
+        {
+          "title": "Sponsoring institutionnel",
+          "body": "Contrat annuel avec une à quatre marques. De 5 000 à 250 000 euros selon la notoriété. Obligations d'événements et de communication associées."
+        },
+        {
+          "title": "Compétitions et primes",
+          "body": "Coupe du Monde IFSC, championnats nationaux, événements. Primes modestes de quelques centaines à quelques milliers d'euros par podium. Variable selon la fédération."
+        },
+        {
+          "title": "Contenu YouTube et Instagram",
+          "body": "Revenus publicitaires, partenariats sponsorisés, vente de programmes en ligne. De 0 à 200 000 euros annuels selon l'audience."
+        },
+        {
+          "title": "Coaching et formation",
+          "body": "Cours individuels en salle ou en falaise, stages d'été, vidéos formatives. 30 à 80 euros l'heure, plusieurs centaines par mois pour un coach installé."
+        },
+        {
+          "title": "Conférences et droits d'image",
+          "body": "Interventions en entreprise, festivals, événements promotionnels. 500 à 5 000 euros la conférence pour les grimpeurs reconnus."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Le financement participatif et les projets de l'année"
+    },
+    {
+      "type": "p",
+      "html": "Le <strong>financement participatif</strong> est devenu un complément important pour les grimpeurs qui veulent réaliser un projet ambitieux. Une expédition au Karakoram, l'ouverture d'une voie en grande paroi, la production d'un documentaire. Les plateformes Kickstarter, Ulule et Helloasso accueillent régulièrement ces campagnes. Les contributeurs récupèrent souvent un produit ou une expérience en contrepartie : poster signé, journée d'escalade avec le grimpeur, projection privée du film final."
+    },
+    {
+      "type": "p",
+      "html": "Les campagnes les plus réussies dépassent les 50 000 euros. Le voyage de Sébastien Berthe en Patagonie, la production du film du collectif Petzl Roctrip, plusieurs ouvertures de grande paroi en Himalaya ont été financés ainsi. Le retour sur investissement pour les sponsors institutionnels devient flou, ce qui rend le crowdfunding attractif pour des projets qui ne rentrent pas dans les cases marketing classiques."
+    },
+    {
+      "type": "p",
+      "html": "Le projet de l'année structure la communication de beaucoup de grimpeurs. Une voie majeure visée, un voyage emblématique, une première féminine en projet. Cette unité de récit alimente le blog, le YouTube, l'Instagram et la demande de soutien. Adam Ondra, Magnus Midtbø ou Margo Hayes annoncent régulièrement leur projet de l'année. Cette mise en récit est une compétence à part entière, qui dépasse la performance pure."
+    },
+    {
+      "type": "h2",
+      "text": "Les blogs et la diffusion d'expertise"
+    },
+    {
+      "type": "p",
+      "html": "Les blogs de grimpeurs ont connu un âge d'or dans les années 2010 avant de céder du terrain au YouTube et à Instagram. Quelques blogs résistent et génèrent encore des revenus par affiliation et publicité. Le blog de Olivier Aubry, le site de Mélissa Le Nevé, plusieurs blogs anglophones comme Climbing Magazine ou Mountain Project conservent une audience fidèle. Le format texte permet une profondeur d'analyse impossible en vidéo courte."
+    },
+    {
+      "type": "p",
+      "html": "L'expertise technique reste un atout monnayable. Un grimpeur qui développe un programme de musculation spécifique, une méthode d'entraînement à la difficulté, une analyse technique de la chute en tête peut vendre cette expertise en ligne. Les plateformes comme Lattice Training, TrainingBeta ou Crimpd marient ce modèle. Quelques milliers d'utilisateurs payants génèrent des revenus stables sur plusieurs années."
+    },
+    {
+      "type": "p",
+      "html": "Antoine suit régulièrement plusieurs de ces blogs depuis son lycée. Le blog d'Adam Ondra mis à jour irrégulièrement reste une référence pour comprendre la stratégie d'un grimpeur de très haut niveau. Les analyses de Lattice Training ont changé sa propre approche de l'entraînement. La diffusion d'expertise écrite garde une niche solide même à l'ère de la vidéo."
+    },
+    {
+      "type": "h2",
+      "text": "Vivre du coaching et de la formation"
+    },
+    {
+      "type": "p",
+      "html": "Beaucoup de grimpeurs vivent du coaching plutôt que du sponsoring. Un moniteur diplômé d'État ou un éducateur sportif peut facturer 30 à 80 euros de l'heure en cours individuel en salle. Un stage week-end en falaise génère 200 à 400 euros par participant, sur des groupes de 4 à 8 personnes. Les revenus mensuels d'un coach installé tournent entre 1 500 et 3 000 euros nets, ce qui correspond à un revenu correct sans être luxueux."
+    },
+    {
+      "type": "p",
+      "html": "La FFME forme et diplôme les moniteurs. Le brevet fédéral d'animateur d'escalade en salle, le diplôme d'État de la jeunesse, le brevet d'État alpinisme ouvrent des niveaux d'enseignement différents. Le diplôme guide de haute montagne est le sommet de la formation, avec des revenus journaliers de 350 à 600 euros pour les guides indépendants reconnus."
+    },
+    {
+      "type": "p",
+      "html": "Le coaching à distance par visioconférence et programmes personnalisés a explosé depuis le COVID. Plusieurs grimpeurs ont monté des structures comme Lattice ou Power Company Climbing qui coachent à distance pour 50 à 200 euros mensuels par grimpeur. Le scale est attractif, plusieurs centaines de clients génèrent des revenus largement supérieurs au coaching présentiel pur."
+    },
+    {
+      "type": "tip",
+      "title": "Tester le modèle avant de plonger",
+      "body": "Avant d'envisager une vie de grimpe à plein temps, vis-la pendant trois à six mois sur tes économies. Tu testes la routine, la solitude, l'incertitude financière, la dimension physique d'une pratique quotidienne. La plupart des candidats au dirtbag découvrent au bout de quelques mois que la vie en van ne leur convient pas. Mieux vaut s'en rendre compte avant d'avoir vendu son appartement.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Le compromis et la trajectoire de vie"
+    },
+    {
+      "type": "p",
+      "html": "Vivre des cailloux n'est pas un état stable, c'est un compromis permanent. Revenus irréguliers, absence de protection sociale solide, blessures qui peuvent tout interrompre, gestion du long terme financier compliquée. Beaucoup de grimpeurs combinent une activité partielle salariée avec leur pratique, ce qui assure une base économique mais limite la liberté de mouvement. Le modèle pur dirtbag concerne une minorité."
+    },
+    {
+      "type": "p",
+      "html": "Antoine connaît plusieurs grimpeurs qui ont vécu plusieurs années sur la route puis se sont installés en salle, en école de grimpe, en bureau d'études ou en photographie outdoor. La transition vers une vie professionnelle classique est rarement douloureuse pour qui a vécu intensément quelques années sur les cailloux. Le souvenir reste, et les compétences relationnelles, organisationnelles, physiques acquises se transposent bien dans la vie active."
+    },
+    {
+      "type": "p",
+      "html": "La culture de la pratique éclaire les modèles économiques qui en découlent."
+    }
   ],
   "faq": [
-    {"q": "Combien gagne un grimpeur professionnel français en moyenne ?", "a": "Les revenus varient énormément. Un grimpeur de l'équipe de France junior peut toucher 5 000 à 15 000 euros annuels en sponsoring et aides fédérales. Un athlète établi de la Coupe du Monde tourne autour de 30 000 à 80 000 euros par an. Les figures comme Mélissa Le Nevé ou Manu Cornu peuvent dépasser 100 000 euros annuels en cumulant sponsoring, contenu, compétitions et conférences. Très peu atteignent les revenus d'Adam Ondra ou Alex Honnold."},
-    {"q": "Peut-on vivre uniquement du sponsoring sans contenu en ligne ?", "a": "C'est devenu très difficile. Les marques attendent un retour de communication mesurable, ce qui passe presque toujours par une présence active sur les réseaux. Quelques athlètes purement compétiteurs vivent encore du sponsoring traditionnel mais leur nombre diminue. Le contrat moderne intègre presque toujours des obligations de publications, de stories, de vidéos brandées."},
-    {"q": "Comment commencer à vendre des programmes d'entraînement en ligne ?", "a": "Construis d'abord une audience par un blog ou une chaîne YouTube, montre ton expertise pendant un an ou deux. Crée ensuite un programme de plusieurs semaines avec exercices, planning, vidéos explicatives. Vends sur une plateforme comme Gumroad ou crée ton propre site avec Stripe. Compte 50 à 200 euros par programme. Les revenus deviennent intéressants à partir de plusieurs centaines de clients."},
-    {"q": "La van life est-elle vraiment vivable sur plusieurs années ?", "a": "Pour certains profils oui, pour d'autres non. La solitude, le froid en hiver, le manque d'intimité, les difficultés administratives finissent par peser. Beaucoup tiennent un à trois ans puis cherchent une base fixe. Quelques-uns vivent en van depuis plus de dix ans sans regret. Le profil psychologique compte autant que la motivation initiale. Tester quelques mois avant d'engager des choix lourds reste prudent."},
-    {"q": "Faut-il avoir un haut niveau d'escalade pour vivre de la grimpe ?", "a": "Pas nécessairement. Le coaching, la formation, la guidance en falaise marchent à partir du 7a ou 7b solide. La photographie outdoor, la production vidéo, l'écriture spécialisée demandent d'autres compétences que la performance pure. Plusieurs grimpeurs reconnus dans la communauté ne dépassent pas le 8a en performance pure mais excellent dans la transmission ou la création de contenu."}
+    {
+      "q": "Combien gagne un grimpeur professionnel français en moyenne ?",
+      "a": "Les revenus varient énormément. Un grimpeur de l'équipe de France junior peut toucher 5 000 à 15 000 euros annuels en sponsoring et aides fédérales. Un athlète établi de la Coupe du Monde tourne autour de 30 000 à 80 000 euros par an. Les figures comme Mélissa Le Nevé ou Manu Cornu peuvent dépasser 100 000 euros annuels en cumulant sponsoring, contenu, compétitions et conférences. Très peu atteignent les revenus d'Adam Ondra ou Alex Honnold."
+    },
+    {
+      "q": "Peut-on vivre uniquement du sponsoring sans contenu en ligne ?",
+      "a": "C'est devenu très difficile. Les marques attendent un retour de communication mesurable, ce qui passe presque toujours par une présence active sur les réseaux. Quelques athlètes purement compétiteurs vivent encore du sponsoring traditionnel mais leur nombre diminue. Le contrat moderne intègre presque toujours des obligations de publications, de stories, de vidéos brandées."
+    },
+    {
+      "q": "Comment commencer à vendre des programmes d'entraînement en ligne ?",
+      "a": "Construis d'abord une audience par un blog ou une chaîne YouTube, montre ton expertise pendant un an ou deux. Crée ensuite un programme de plusieurs semaines avec exercices, planning, vidéos explicatives. Vends sur une plateforme comme Gumroad ou crée ton propre site avec Stripe. Compte 50 à 200 euros par programme. Les revenus deviennent intéressants à partir de plusieurs centaines de clients."
+    },
+    {
+      "q": "La van life est-elle vraiment vivable sur plusieurs années ?",
+      "a": "Pour certains profils oui, pour d'autres non. La solitude, le froid en hiver, le manque d'intimité, les difficultés administratives finissent par peser. Beaucoup tiennent un à trois ans puis cherchent une base fixe. Quelques-uns vivent en van depuis plus de dix ans sans regret. Le profil psychologique compte autant que la motivation initiale. Tester quelques mois avant d'engager des choix lourds reste prudent."
+    },
+    {
+      "q": "Faut-il avoir un haut niveau d'escalade pour vivre de la grimpe ?",
+      "a": "Pas nécessairement. Le coaching, la formation, la guidance en falaise marchent à partir du 7a ou 7b solide. La photographie outdoor, la production vidéo, l'écriture spécialisée demandent d'autres compétences que la performance pure. Plusieurs grimpeurs reconnus dans la communauté ne dépassent pas le 8a en performance pure mais excellent dans la transmission ou la création de contenu."
+    }
   ],
   "cover_alt": "Van aménagé garé au pied d'une falaise calcaire au coucher du soleil, grimpeur installé sur le marche-pied avec ordinateur portable, cordes et sacs alentour, scène de vie de dirtbag moderne",
   "internal_links": [
-    {"slug": "livres-escalade-references", "anchor": "livres de référence sur l'escalade", "context": "complément culturel"},
-    {"slug": "films-escalade-meilleurs", "anchor": "films incontournables", "context": "complément culturel"},
-    {"slug": "histoire-escalade-france-alpes-salle", "anchor": "histoire de l'escalade en France", "context": "pilier culture"},
-    {"slug": "alex-honnold-free-solo-el-cap", "anchor": "trajectoire d'Alex Honnold", "context": "exemple de modèle économique"},
-    {"slug": "chris-sharma-pionnier", "anchor": "parcours de Chris Sharma", "context": "pionnier du dirtbag moderne"}
+    {
+      "slug": "livres-escalade-references",
+      "anchor": "livres de référence sur l'escalade",
+      "context": "complément culturel"
+    },
+    {
+      "slug": "films-escalade-meilleurs",
+      "anchor": "films incontournables",
+      "context": "complément culturel"
+    },
+    {
+      "slug": "histoire-escalade-france-alpes-salle",
+      "anchor": "histoire de l'escalade en France",
+      "context": "pilier culture"
+    },
+    {
+      "slug": "alex-honnold-free-solo-el-cap",
+      "anchor": "trajectoire d'Alex Honnold",
+      "context": "exemple de modèle économique"
+    },
+    {
+      "slug": "chris-sharma-pionnier",
+      "anchor": "parcours de Chris Sharma",
+      "context": "pionnier du dirtbag moderne"
+    }
   ],
   "scheduled_at": "2027-05-04T09:00:00+02:00"
 }

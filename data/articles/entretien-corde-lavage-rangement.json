@@ -15,54 +15,190 @@
     "Inspecte sur toute la longueur avant chaque sortie en faisant glisser entre les mains."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Pourquoi laver sa corde change tout"},
-    {"type": "p", "html": "La poussière, le sable et la magnésie s'infiltrent dans le gainage et finissent par attaquer l'âme. Ces particules abrasives font office de papier de verre interne à chaque clippage de dégaine. Une corde sale s'use jusqu'à deux fois plus vite qu'une corde propre. Le lavage régulier élimine ces particules et redonne souplesse au polyamide."},
-    {"type": "p", "html": "Quand j'ai commencé, je pensais qu'on ne lavait jamais une corde. Erreur classique. Ma première <strong>Beal Top Gun</strong> a tenu trois ans, alors qu'elle pouvait en faire cinq facilement. Aujourd'hui je lave systématiquement après une grosse session en falaise terreuse comme Saussois ou Buoux, et une fois par an à minima."},
-    {"type": "h2", "text": "Le lavage : étape par étape"},
-    {"type": "p", "html": "Remplis une baignoire d'eau tiède à 30 degrés maximum. Ajoute un savon doux type savon noir, savon de Marseille rapé ou un produit dédié comme le <strong>Beal Rope Cleaner</strong> ou le Sterling Rope Soap. Évite la lessive classique qui contient des azurants optiques agressifs pour le polyamide. Évite surtout l'eau de javel, l'ammoniaque, les produits acides ou basiques forts."},
-    {"type": "p", "html": "Plonge la corde lovée en accordéon, fais la passer dans tes mains plusieurs fois pour décrasser le gainage. Tu vois l'eau devenir grise voire noire selon ton niveau d'encrassement. Vide, rince à l'eau claire deux fois. Ne tordez jamais la corde pour essorer, l'âme n'aime pas. Laisse simplement s'égoutter au fond de la baignoire."},
-    {"type": "h2", "text": "Le séchage : zone d'ombre obligatoire"},
-    {"type": "p", "html": "Le séchage est l'étape la plus délicate. Le soleil direct est ton pire ennemi. Les UV dégradent les fibres synthétiques de manière irréversible. Une corde laissée au soleil deux journées entières perd jusqu'à 30 % de sa résistance à la chute. Étale ta corde à plat sur une serviette, dans une pièce aérée à l'ombre, ou suspends la en boucles larges sur un porte-corde dédié."},
-    {"type": "p", "html": "Évite absolument le sèche linge, le radiateur, le sèche cheveux ou tout dispositif chauffant. La chaleur supérieure à 50 degrés ramollit le polyamide et altère ses propriétés mécaniques. Compte 24 à 48 heures de séchage complet selon la pièce. Une corde mal séchée stockée humide développe des moisissures qui attaquent le gainage."},
-    {"type": "h2", "text": "Le rangement : sac à corde et environnement"},
-    {"type": "p", "html": "Un bon sac à corde change la vie. Le <strong>Petzl Kab, Beal Combi, Edelrid Caddy</strong> protègent vraiment l'âme en évitant le contact avec la terre, les épines et les graviers. La bâche intégrée se déroule au pied de la voie et garde ta corde propre pendant toute la session. Investis 50 à 80 euros, c'est un des meilleurs achats que tu feras."},
-    {"type": "p", "html": "Pour le stockage maison, vise un endroit sec, à l'abri des UV et loin des produits chimiques. Un placard dans un couloir tempéré est parfait. Évite le garage humide en hiver, la cave avec moisissures, le coffre de voiture en été où la température monte à 70 degrés. La corde se conserve lovée ou en sac, jamais comprimée sous un objet lourd."},
-    {"type": "list", "variant": "checks", "title": "Les ennemis de ta corde", "items": [
-      {"title": "UV solaires", "body": "Décomposent le polyamide. Une corde au soleil deux jours perd 30 % de sa résistance. Stocke à l'ombre absolue."},
-      {"title": "Solvants chimiques", "body": "Essence, huile moteur, white spirit, javel. Le moindre contact dégrade les fibres de manière invisible."},
-      {"title": "Chaleur excessive", "body": "Au dessus de 50 degrés, le polyamide ramollit. Pas de coffre voiture en été, pas de séchage radiateur."},
-      {"title": "Sable et poussière", "body": "Particules abrasives qui s'infiltrent dans l'âme. Lave régulièrement et utilise un sac à corde."},
-      {"title": "Humidité prolongée", "body": "Favorise les moisissures qui attaquent le gainage. Sèche complètement avant rangement."}
-    ]},
-    {"type": "h2", "text": "Lover correctement : la méthode pour éviter les nœuds"},
-    {"type": "p", "html": "Une corde mal lovée s'emmêle, tourne et finit par perdre en souplesse. Deux méthodes dominent. Le lovage en papillon en posant la corde sur le sol en huit, idéal en sac. Le lovage en boucle classique en mètres de bras pour le transport sur sac à dos. Évite le lovage en torsade serrée qui tortille les fibres et provoque des plis permanents."},
-    {"type": "p", "html": "Au début de chaque session, déplie complètement ta corde avant l'utilisation, plutôt que de tirer du sac. Cette routine évite les nœuds en cours de voie et te permet d'inspecter visuellement la corde sur toute sa longueur. Trente secondes d'effort qui sauvent dix minutes de désengagement énervé sur la chaîne."},
-    {"type": "h2", "text": "L'inspection : ce que tu cherches"},
-    {"type": "p", "html": "Avant chaque sortie, fais glisser ta corde entre tes mains sur toute la longueur. Tu cherches des zones molles indiquant une rupture interne de l'âme, des bosses dures révélant un nœud serré ancien, des entailles ou des effilochages de la gaine, des décolorations qui peuvent signaler une exposition chimique. N'importe lequel de ces signes impose une discussion sérieuse sur la réforme."},
-    {"type": "p", "html": "Toute corde ayant pris une grosse chute facteur supérieur à 1, une chute de caillou ou un passage sur une arête saillante doit être inspectée minutieusement. En cas de doute, écourte la zone abîmée. Une corde 70 m peut être recoupée en 60 m si l'extrémité est endommagée, à condition de remarquer le milieu après. La sécurité prime sur le budget."},
-    {"type": "tip", "title": "Marque la date d'achat", "body": "Inscris au feutre indélébile spécifique la date d'achat sur l'étiquette d'extrémité dès l'ouverture. Note aussi les grosses chutes prises. Tu sauras toujours quand réformer en toute connaissance de cause.", "tone": "astuce"},
-    {"type": "h2", "text": "Réforme : quand jeter sa corde"},
-    {"type": "p", "html": "Une corde se réforme dans plusieurs cas. Limite d'âge officielle : 10 ans à partir de la date de fabrication. Usage régulier : 3 à 5 ans selon la fréquence. Grosse chute facteur supérieur à 1 ayant fait travailler la corde proche de ses limites. Contact prouvé avec un solvant ou un acide. Entaille de la gaine laissant voir l'âme. Zone molle révélant une rupture interne."},
-    {"type": "p", "html": "Une corde réformée peut servir à d'autres usages non sécuritaires. Tractage en jardinage, balise de signalisation, déco. Ne la revends jamais comme corde d'escalade, même à bas prix. C'est une question d'éthique et de responsabilité. Pour les bases d'achat, regarde <a href=\"/blog/choisir-corde-escalade\">comment choisir sa corde d'escalade</a>."},
-    {"type": "quote", "text": "Ta corde, tu la connais mieux que personne. Tes mains la lisent à chaque sortie. Écoute ce qu'elles te disent.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
-    {"type": "h2", "text": "Ma routine d'entretien personnelle"},
-    {"type": "p", "html": "Voici ce que je fais sur mes cordes. Après chaque session en falaise sale comme le Saussois, je passe la corde sur une serviette pour enlever le gros de la terre. Tous les trois mois, je lave dans la baignoire avec du Beal Rope Cleaner. Je marque la date d'achat sur l'étiquette d'extrémité et je note les grosses chutes dans un petit carnet. Trois minutes par mois maximum, et la corde dure deux fois plus longtemps."},
-    {"type": "p", "html": "Pour aller plus loin, consulte <a href=\"/blog/materiel-escalade-essentiel\">le matériel d'escalade essentiel</a> et <a href=\"/blog/types-cordes-simple-double-jumeleee\">les types de cordes simple, double et jumelée</a> pour comprendre quelle corde tu entretiens. L'entretien dépend en partie du traitement Everdry et du diamètre de ta corde."}
+    {
+      "type": "h2",
+      "text": "Pourquoi laver sa corde change tout"
+    },
+    {
+      "type": "p",
+      "html": "La poussière, le sable et la magnésie s'infiltrent dans le gainage et finissent par attaquer l'âme. Ces particules abrasives font office de papier de verre interne à chaque clippage de dégaine. Une corde sale s'use jusqu'à deux fois plus vite qu'une corde propre. Le lavage régulier élimine ces particules et redonne souplesse au polyamide."
+    },
+    {
+      "type": "p",
+      "html": "Quand j'ai commencé, je pensais qu'on ne lavait jamais une corde. Erreur classique. Ma première <strong>Beal Top Gun</strong> a tenu trois ans, alors qu'elle pouvait en faire cinq facilement. Aujourd'hui je lave systématiquement après une grosse session en falaise terreuse comme Saussois ou Buoux, et une fois par an à minima."
+    },
+    {
+      "type": "h2",
+      "text": "Le lavage : étape par étape"
+    },
+    {
+      "type": "p",
+      "html": "Remplis une baignoire d'eau tiède à 30 degrés maximum. Ajoute un savon doux type savon noir, savon de Marseille rapé ou un produit dédié comme le <strong>Beal Rope Cleaner</strong> ou le Sterling Rope Soap. Évite la lessive classique qui contient des azurants optiques agressifs pour le polyamide. Évite surtout l'eau de javel, l'ammoniaque, les produits acides ou basiques forts."
+    },
+    {
+      "type": "p",
+      "html": "Plonge la corde lovée en accordéon, fais la passer dans tes mains plusieurs fois pour décrasser le gainage. Tu vois l'eau devenir grise voire noire selon ton niveau d'encrassement. Vide, rince à l'eau claire deux fois. Ne tordez jamais la corde pour essorer, l'âme n'aime pas. Laisse simplement s'égoutter au fond de la baignoire."
+    },
+    {
+      "type": "h2",
+      "text": "Le séchage : zone d'ombre obligatoire"
+    },
+    {
+      "type": "p",
+      "html": "Le séchage est l'étape la plus délicate. Le soleil direct est ton pire ennemi. Les UV dégradent les fibres synthétiques de manière irréversible. Une corde laissée au soleil deux journées entières perd jusqu'à 30 % de sa résistance à la chute. Étale ta corde à plat sur une serviette, dans une pièce aérée à l'ombre, ou suspends la en boucles larges sur un porte-corde dédié."
+    },
+    {
+      "type": "p",
+      "html": "Évite absolument le sèche linge, le radiateur, le sèche cheveux ou tout dispositif chauffant. La chaleur supérieure à 50 degrés ramollit le polyamide et altère ses propriétés mécaniques. Compte 24 à 48 heures de séchage complet selon la pièce. Une corde mal séchée stockée humide développe des moisissures qui attaquent le gainage."
+    },
+    {
+      "type": "h2",
+      "text": "Le rangement : sac à corde et environnement"
+    },
+    {
+      "type": "p",
+      "html": "Un bon sac à corde change la vie. Le <strong>Petzl Kab, Beal Combi, Edelrid Caddy</strong> protègent vraiment l'âme en évitant le contact avec la terre, les épines et les graviers. La bâche intégrée se déroule au pied de la voie et garde ta corde propre pendant toute la session. Investis 50 à 80 euros, c'est un des meilleurs achats que tu feras."
+    },
+    {
+      "type": "p",
+      "html": "Pour le stockage maison, vise un endroit sec, à l'abri des UV et loin des produits chimiques. Un placard dans un couloir tempéré est parfait. Évite le garage humide en hiver, la cave avec moisissures, le coffre de voiture en été où la température monte à 70 degrés. La corde se conserve lovée ou en sac, jamais comprimée sous un objet lourd."
+    },
+    {
+      "type": "list",
+      "variant": "checks",
+      "title": "Les ennemis de ta corde",
+      "items": [
+        {
+          "title": "UV solaires",
+          "body": "Décomposent le polyamide. Une corde au soleil deux jours perd 30 % de sa résistance. Stocke à l'ombre absolue."
+        },
+        {
+          "title": "Solvants chimiques",
+          "body": "Essence, huile moteur, white spirit, javel. Le moindre contact dégrade les fibres de manière invisible."
+        },
+        {
+          "title": "Chaleur excessive",
+          "body": "Au dessus de 50 degrés, le polyamide ramollit. Pas de coffre voiture en été, pas de séchage radiateur."
+        },
+        {
+          "title": "Sable et poussière",
+          "body": "Particules abrasives qui s'infiltrent dans l'âme. Lave régulièrement et utilise un sac à corde."
+        },
+        {
+          "title": "Humidité prolongée",
+          "body": "Favorise les moisissures qui attaquent le gainage. Sèche complètement avant rangement."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Lover correctement : la méthode pour éviter les nœuds"
+    },
+    {
+      "type": "p",
+      "html": "Une corde mal lovée s'emmêle, tourne et finit par perdre en souplesse. Deux méthodes dominent. Le lovage en papillon en posant la corde sur le sol en huit, idéal en sac. Le lovage en boucle classique en mètres de bras pour le transport sur sac à dos. Évite le lovage en torsade serrée qui tortille les fibres et provoque des plis permanents."
+    },
+    {
+      "type": "p",
+      "html": "Au début de chaque session, déplie complètement ta corde avant l'utilisation, plutôt que de tirer du sac. Cette routine évite les nœuds en cours de voie et te permet d'inspecter visuellement la corde sur toute sa longueur. Trente secondes d'effort qui sauvent dix minutes de désengagement énervé sur la chaîne."
+    },
+    {
+      "type": "h2",
+      "text": "L'inspection : ce que tu cherches"
+    },
+    {
+      "type": "p",
+      "html": "Avant chaque sortie, fais glisser ta corde entre tes mains sur toute la longueur. Tu cherches des zones molles indiquant une rupture interne de l'âme, des bosses dures révélant un nœud serré ancien, des entailles ou des effilochages de la gaine, des décolorations qui peuvent signaler une exposition chimique. N'importe lequel de ces signes impose une discussion sérieuse sur la réforme."
+    },
+    {
+      "type": "p",
+      "html": "Toute corde ayant pris une grosse chute facteur supérieur à 1, une chute de caillou ou un passage sur une arête saillante doit être inspectée minutieusement. En cas de doute, écourte la zone abîmée. Une corde 70 m peut être recoupée en 60 m si l'extrémité est endommagée, à condition de remarquer le milieu après. La sécurité prime sur le budget."
+    },
+    {
+      "type": "tip",
+      "title": "Marque la date d'achat",
+      "body": "Inscris au feutre indélébile spécifique la date d'achat sur l'étiquette d'extrémité dès l'ouverture. Note aussi les grosses chutes prises. Tu sauras toujours quand réformer en toute connaissance de cause.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Réforme : quand jeter sa corde"
+    },
+    {
+      "type": "p",
+      "html": "Une corde se réforme dans plusieurs cas. Limite d'âge officielle : 10 ans à partir de la date de fabrication. Usage régulier : 3 à 5 ans selon la fréquence. Grosse chute facteur supérieur à 1 ayant fait travailler la corde proche de ses limites. Contact prouvé avec un solvant ou un acide. Entaille de la gaine laissant voir l'âme. Zone molle révélant une rupture interne."
+    },
+    {
+      "type": "p",
+      "html": "Une corde réformée peut servir à d'autres usages non sécuritaires. Tractage en jardinage, balise de signalisation, déco. Ne la revends jamais comme corde d'escalade, même à bas prix. C'est une question d'éthique et de responsabilité. Pour les bases d'achat, regarde <a href=\"/blog/choisir-corde-escalade\">comment choisir sa corde d'escalade</a>."
+    },
+    {
+      "type": "quote",
+      "text": "Ta corde, tu la connais mieux que personne. Tes mains la lisent à chaque sortie. Écoute ce qu'elles te disent.",
+      "author": "Antoine",
+      "role": "Rédacteur escalade-france.fr"
+    },
+    {
+      "type": "h2",
+      "text": "Ma routine d'entretien personnelle"
+    },
+    {
+      "type": "p",
+      "html": "Voici ce que je fais sur mes cordes. Après chaque session en falaise sale comme le Saussois, je passe la corde sur une serviette pour enlever le gros de la terre. Tous les trois mois, je lave dans la baignoire avec du Beal Rope Cleaner. Je marque la date d'achat sur l'étiquette d'extrémité et je note les grosses chutes dans un petit carnet. Trois minutes par mois maximum, et la corde dure deux fois plus longtemps."
+    },
+    {
+      "type": "p",
+      "html": "L'entretien dépend en partie du traitement Everdry et du diamètre de ta corde."
+    }
   ],
   "faq": [
-    {"q": "À quelle fréquence laver sa corde d'escalade ?", "a": "Une à deux fois par an pour un usage régulier. Plus souvent si tu grimpes sur des falaises terreuses comme le Saussois, Buoux ou Orpierre. Le lavage immédiat s'impose après tout contact prouvé avec de la boue épaisse, des graviers ou du sable."},
-    {"q": "Peut-on laver une corde en machine à laver ?", "a": "Non, l'essorage centrifuge tord violemment les fibres et abîme l'âme. La machine à laver classique sans essorage à 30 degrés est tolérée si tu places la corde dans une taie d'oreiller. Mais le lavage en baignoire reste largement préférable."},
-    {"q": "Combien de temps faut-il pour sécher une corde ?", "a": "24 à 48 heures à plat dans une pièce aérée à l'ombre. Le temps varie selon l'humidité ambiante et la circulation d'air. Vérifie que la corde est complètement sèche avant rangement, une humidité résiduelle favorise les moisissures."},
-    {"q": "Comment ranger sa corde sans qu'elle s'emmêle ?", "a": "Lave la dans un sac à corde dédié avec bâche intégrée type Petzl Kab ou Beal Combi. Lovée en papillon ou en boucles larges, jamais en torsade serrée. Stocke dans un endroit sec, à l'abri des UV et loin des solvants chimiques."},
-    {"q": "Que faire si ma corde a touché un produit chimique ?", "a": "Réforme la immédiatement, sans discussion. Les solvants, acides, huiles et hydrocarbures dégradent le polyamide de manière irréversible et invisible. Même un contact bref peut compromettre la résistance à la chute. Ne prends jamais ce risque."},
-    {"q": "Une corde lavée perd-elle en résistance ?", "a": "Non, le lavage à l'eau tiède et au savon doux ne dégrade pas le polyamide. Au contraire, l'élimination des particules abrasives prolonge la durée de vie. Seuls les détergents agressifs, les solvants ou la chaleur excessive sont à proscrire absolument."}
+    {
+      "q": "À quelle fréquence laver sa corde d'escalade ?",
+      "a": "Une à deux fois par an pour un usage régulier. Plus souvent si tu grimpes sur des falaises terreuses comme le Saussois, Buoux ou Orpierre. Le lavage immédiat s'impose après tout contact prouvé avec de la boue épaisse, des graviers ou du sable."
+    },
+    {
+      "q": "Peut-on laver une corde en machine à laver ?",
+      "a": "Non, l'essorage centrifuge tord violemment les fibres et abîme l'âme. La machine à laver classique sans essorage à 30 degrés est tolérée si tu places la corde dans une taie d'oreiller. Mais le lavage en baignoire reste largement préférable."
+    },
+    {
+      "q": "Combien de temps faut-il pour sécher une corde ?",
+      "a": "24 à 48 heures à plat dans une pièce aérée à l'ombre. Le temps varie selon l'humidité ambiante et la circulation d'air. Vérifie que la corde est complètement sèche avant rangement, une humidité résiduelle favorise les moisissures."
+    },
+    {
+      "q": "Comment ranger sa corde sans qu'elle s'emmêle ?",
+      "a": "Lave la dans un sac à corde dédié avec bâche intégrée type Petzl Kab ou Beal Combi. Lovée en papillon ou en boucles larges, jamais en torsade serrée. Stocke dans un endroit sec, à l'abri des UV et loin des solvants chimiques."
+    },
+    {
+      "q": "Que faire si ma corde a touché un produit chimique ?",
+      "a": "Réforme la immédiatement, sans discussion. Les solvants, acides, huiles et hydrocarbures dégradent le polyamide de manière irréversible et invisible. Même un contact bref peut compromettre la résistance à la chute. Ne prends jamais ce risque."
+    },
+    {
+      "q": "Une corde lavée perd-elle en résistance ?",
+      "a": "Non, le lavage à l'eau tiède et au savon doux ne dégrade pas le polyamide. Au contraire, l'élimination des particules abrasives prolonge la durée de vie. Seuls les détergents agressifs, les solvants ou la chaleur excessive sont à proscrire absolument."
+    }
   ],
   "cover_alt": "Corde d'escalade lovée séchant à plat sur une serviette dans une pièce aérée à l'ombre",
   "internal_links": [
-    {"slug": "choisir-corde-escalade", "anchor": "comment choisir sa corde d'escalade", "context": "Critères d'achat"},
-    {"slug": "types-cordes-simple-double-jumeleee", "anchor": "les types de cordes simple, double et jumelée", "context": "Distinction technique"},
-    {"slug": "materiel-escalade-essentiel", "anchor": "le matériel d'escalade essentiel", "context": "Pilier matériel"},
-    {"slug": "sac-escalade-emporter", "anchor": "le sac à corde et son contenu", "context": "Transport"}
+    {
+      "slug": "choisir-corde-escalade",
+      "anchor": "comment choisir sa corde d'escalade",
+      "context": "Critères d'achat"
+    },
+    {
+      "slug": "types-cordes-simple-double-jumeleee",
+      "anchor": "les types de cordes simple, double et jumelée",
+      "context": "Distinction technique"
+    },
+    {
+      "slug": "materiel-escalade-essentiel",
+      "anchor": "le matériel d'escalade essentiel",
+      "context": "Pilier matériel"
+    },
+    {
+      "slug": "sac-escalade-emporter",
+      "anchor": "le sac à corde et son contenu",
+      "context": "Transport"
+    }
   ],
   "scheduled_at": "2026-08-22T09:00:00+02:00"
 }

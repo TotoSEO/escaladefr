@@ -25,7 +25,7 @@
     },
     {
       "type": "p",
-      "html": "Les accidents par nœud raté ou baudrier mal fermé représentent encore plusieurs cas mortels par an en France. Tous évitables. Le piège classique : le grimpeur se laisse distraire pendant l'encordement par une discussion, un appel, un échauffement. Il oublie de finir son huit. Le partenaire ne vérifie pas. Lis notre <a href=\"/blog/verification-baudrier-corde-noeud\">protocole de vérification croisée détaillé</a>."
+      "html": "Les accidents par nœud raté ou baudrier mal fermé représentent encore plusieurs cas mortels par an en France. Tous évitables. Le piège classique : le grimpeur se laisse distraire pendant l'encordement par une discussion, un appel, un échauffement. Il oublie de finir son huit. Le partenaire ne vérifie pas."
     },
     {
       "type": "h2",
@@ -92,19 +92,47 @@
     },
     {
       "type": "p",
-      "html": "Lis notre <a href=\"/blog/rappel-securite-procedure\">procédure rappel détaillée</a> avant ta première descente. Et toujours, toujours, sans exception : si tu doutes, c'est qu'il y a un doute. Reprends, vérifie, recommence."
+      "html": "Et toujours, toujours, sans exception : si tu doutes, c'est qu'il y a un doute. Reprends, vérifie, recommence."
     },
     {
       "type": "table",
       "caption": "Causes principales d'accidents en escalade en France",
-      "headers": ["Cause", "Part estimée", "Évitable"],
+      "headers": [
+        "Cause",
+        "Part estimée",
+        "Évitable"
+      ],
       "rows": [
-        ["Erreur de nœud / baudrier", "20-25%", "Oui, par vérification"],
-        ["Erreur au rappel", "15-20%", "Oui, par protocole"],
-        ["Chute en grande voie", "15-20%", "Partiellement"],
-        ["Chute de pierres", "10-15%", "Casque, vigilance"],
-        ["Bloc / mauvaise réception", "10-15%", "Crashpad, parade"],
-        ["Erreur d'assurage", "10-15%", "Oui, par formation"]
+        [
+          "Erreur de nœud / baudrier",
+          "20-25%",
+          "Oui, par vérification"
+        ],
+        [
+          "Erreur au rappel",
+          "15-20%",
+          "Oui, par protocole"
+        ],
+        [
+          "Chute en grande voie",
+          "15-20%",
+          "Partiellement"
+        ],
+        [
+          "Chute de pierres",
+          "10-15%",
+          "Casque, vigilance"
+        ],
+        [
+          "Bloc / mauvaise réception",
+          "10-15%",
+          "Crashpad, parade"
+        ],
+        [
+          "Erreur d'assurage",
+          "10-15%",
+          "Oui, par formation"
+        ]
       ]
     },
     {
@@ -129,7 +157,7 @@
     },
     {
       "type": "p",
-      "html": "<strong>L'orage en falaise reste mortel</strong>. La règle absolue : décroche dès que tu entends le tonnerre, même lointain. Météo France, Mountain Forecast et Yr.no sont les références. Lis notre <a href=\"/blog/meteo-falaise-decider-renoncer\">guide météo et décision</a>. Renoncer reste toujours une option, jamais un échec."
+      "html": "<strong>L'orage en falaise reste mortel</strong>. La règle absolue : décroche dès que tu entends le tonnerre, même lointain. Météo France, Mountain Forecast et Yr.no sont les références. Renoncer reste toujours une option, jamais un échec."
     },
     {
       "type": "image_text",
@@ -149,7 +177,7 @@
     },
     {
       "type": "p",
-      "html": "Le partenariat se construit en salle, sur des dizaines d'heures d'observation mutuelle, avant la sortie falaise commune. Lis notre <a href=\"/blog/partenaire-grimpe-confiance\">guide sur le choix du partenaire</a>. Et n'aie pas peur de refuser de grimper avec quelqu'un qui te paraît distrait, fatigué ou trop sûr de lui. Ton instinct mérite d'être écouté."
+      "html": "Le partenariat se construit en salle, sur des dizaines d'heures d'observation mutuelle, avant la sortie falaise commune. Et n'aie pas peur de refuser de grimper avec quelqu'un qui te paraît distrait, fatigué ou trop sûr de lui. Ton instinct mérite d'être écouté."
     },
     {
       "type": "quote",
@@ -167,7 +195,7 @@
     },
     {
       "type": "p",
-      "html": "L'hélitreuillage coûte aux secours plusieurs milliers d'euros, parfois pris en charge selon les départements ou ta licence FFME. Une licence fédérale couvre la quasi totalité des frais sur le territoire français. Lis notre <a href=\"/blog/helitreuillage-evacuation\">guide hélitreuillage</a> pour les détails pratiques."
+      "html": "L'hélitreuillage coûte aux secours plusieurs milliers d'euros, parfois pris en charge selon les départements ou ta licence FFME. Une licence fédérale couvre la quasi totalité des frais sur le territoire français."
     },
     {
       "type": "h2",
@@ -175,7 +203,7 @@
     },
     {
       "type": "p",
-      "html": "L'escalade reste l'un des sports outdoor les moins accidentogènes en France quand on regarde les heures de pratique. Le ratio accident grave par 1 000 heures de pratique reste inférieur à celui du ski alpin, du VTT ou de l'équitation. Pourtant chaque année, une vingtaine de décès et plusieurs centaines de blessures graves marquent la communauté. Lis notre <a href=\"/blog/accidents-escalade-statistiques\">dossier statistiques d'accidents</a>."
+      "html": "L'escalade reste l'un des sports outdoor les moins accidentogènes en France quand on regarde les heures de pratique. Le ratio accident grave par 1 000 heures de pratique reste inférieur à celui du ski alpin, du VTT ou de l'équitation. Pourtant chaque année, une vingtaine de décès et plusieurs centaines de blessures graves marquent la communauté."
     },
     {
       "type": "p",

@@ -46,16 +46,43 @@
     {
       "type": "table",
       "caption": "Fiche d'identité du site",
-      "headers": ["Critère", "Détail"],
+      "headers": [
+        "Critère",
+        "Détail"
+      ],
       "rows": [
-        ["Type de rocher", "Calcaire urgonien lisse, réglettes et plats étirés"],
-        ["Orientation", "Sud-est principalement, quelques secteurs nord et ouest"],
-        ["Exposition", "Soleil le matin, ombre l'après-midi sur le mur principal"],
-        ["Cotation min/max", "Du 5c au 8c, majorité dans le 7a à 8a"],
-        ["Nombre de voies", "Plus de 200 voies équipées sur 7 à 8 secteurs"],
-        ["Période favorable", "Octobre à mai, optimum en mars, avril et novembre"],
-        ["Accès", "Parking du Fort de Buoux puis 10 à 20 min de marche"],
-        ["Parking", "Plusieurs aires à Buoux et au Fort, attention en haute saison"]
+        [
+          "Type de rocher",
+          "Calcaire urgonien lisse, réglettes et plats étirés"
+        ],
+        [
+          "Orientation",
+          "Sud-est principalement, quelques secteurs nord et ouest"
+        ],
+        [
+          "Exposition",
+          "Soleil le matin, ombre l'après-midi sur le mur principal"
+        ],
+        [
+          "Cotation min/max",
+          "Du 5c au 8c, majorité dans le 7a à 8a"
+        ],
+        [
+          "Nombre de voies",
+          "Plus de 200 voies équipées sur 7 à 8 secteurs"
+        ],
+        [
+          "Période favorable",
+          "Octobre à mai, optimum en mars, avril et novembre"
+        ],
+        [
+          "Accès",
+          "Parking du Fort de Buoux puis 10 à 20 min de marche"
+        ],
+        [
+          "Parking",
+          "Plusieurs aires à Buoux et au Fort, attention en haute saison"
+        ]
       ]
     },
     {
@@ -83,12 +110,30 @@
       "variant": "bullets",
       "title": "Les secteurs incontournables de Buoux",
       "items": [
-        {"title": "La Petite Conque", "body": "Voies dans le 6a à 7b, parfait pour la mise en jambes et l'apprentissage du rocher local."},
-        {"title": "Le Styx", "body": "Secteur école avec des voies du 5c au 7a, école d'escalade des locaux."},
-        {"title": "Les Trois Pignons", "body": "Voies historiques dans le 7c à 8b, ambiance années 80 garantie."},
-        {"title": "La Bout du Monde", "body": "Secteur engagé en dévers, terrain de jeu des grimpeurs aguerris."},
-        {"title": "Le Pilier des Fourmis", "body": "Le mur technique par excellence, lecture fine et placement de pieds millimétré."},
-        {"title": "Le Bombé Bleu", "body": "Calcaire compact, voies dans le 7 et 8, ambiance plus moderne."}
+        {
+          "title": "La Petite Conque",
+          "body": "Voies dans le 6a à 7b, parfait pour la mise en jambes et l'apprentissage du rocher local."
+        },
+        {
+          "title": "Le Styx",
+          "body": "Secteur école avec des voies du 5c au 7a, école d'escalade des locaux."
+        },
+        {
+          "title": "Les Trois Pignons",
+          "body": "Voies historiques dans le 7c à 8b, ambiance années 80 garantie."
+        },
+        {
+          "title": "La Bout du Monde",
+          "body": "Secteur engagé en dévers, terrain de jeu des grimpeurs aguerris."
+        },
+        {
+          "title": "Le Pilier des Fourmis",
+          "body": "Le mur technique par excellence, lecture fine et placement de pieds millimétré."
+        },
+        {
+          "title": "Le Bombé Bleu",
+          "body": "Calcaire compact, voies dans le 7 et 8, ambiance plus moderne."
+        }
       ]
     },
     {
@@ -119,7 +164,7 @@
     },
     {
       "type": "p",
-      "html": "Pour comparer Buoux à d'autres sites du sud, lis notre article sur <a href=\"/blog/ceuse-cathedrale-calcaire\">Céüse et son calcaire bleu</a>. Tu peux aussi explorer les <a href=\"/blog/calanques-escalade-marseille\">Calanques face à la Méditerranée</a> ou le <a href=\"/blog/saint-leger-du-ventoux-escalade\">site de Saint-Léger-du-Ventoux</a>. Pour une vision d'ensemble, va voir notre pilier sur les <a href=\"/blog/sites-escalade-emblematiques-france\">sites d'escalade emblématiques de France</a>."
+      "html": "Pour comparer Buoux à d'autres sites du sud, Tu peux aussi explorer les <a href=\"/blog/calanques-escalade-marseille\">Calanques face à la Méditerranée</a> ou le <a href=\"/blog/saint-leger-du-ventoux-escalade\">site de Saint-Léger-du-Ventoux</a>. Pour une vision d'ensemble, va voir notre pilier sur les <a href=\"/blog/sites-escalade-emblematiques-france\">sites d'escalade emblématiques de France</a>."
     }
   ],
   "faq": [
@@ -150,10 +195,26 @@
   ],
   "cover_alt": "Falaise calcaire de Buoux dans le Luberon avec vue sur le vallon de l'Aiguebrun",
   "internal_links": [
-    {"slug": "sites-escalade-emblematiques-france", "anchor": "sites d'escalade emblématiques de France", "context": "Pilier du cocon sites"},
-    {"slug": "ceuse-cathedrale-calcaire", "anchor": "Céüse et son calcaire bleu", "context": "Autre cathédrale du sud"},
-    {"slug": "calanques-escalade-marseille", "anchor": "Calanques face à la Méditerranée", "context": "Site emblématique méditerranéen"},
-    {"slug": "saint-leger-du-ventoux-escalade", "anchor": "site de Saint-Léger-du-Ventoux", "context": "Autre falaise vauclusienne"}
+    {
+      "slug": "sites-escalade-emblematiques-france",
+      "anchor": "sites d'escalade emblématiques de France",
+      "context": "Pilier du cocon sites"
+    },
+    {
+      "slug": "ceuse-cathedrale-calcaire",
+      "anchor": "Céüse et son calcaire bleu",
+      "context": "Autre cathédrale du sud"
+    },
+    {
+      "slug": "calanques-escalade-marseille",
+      "anchor": "Calanques face à la Méditerranée",
+      "context": "Site emblématique méditerranéen"
+    },
+    {
+      "slug": "saint-leger-du-ventoux-escalade",
+      "anchor": "site de Saint-Léger-du-Ventoux",
+      "context": "Autre falaise vauclusienne"
+    }
   ],
   "scheduled_at": "2026-11-19T09:00:00+01:00"
 }

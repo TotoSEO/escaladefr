@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://escalade-france.fr"),
   title: {
     default: "escalade-france.fr · sites naturels et salles d'escalade",
-    template: "%s · escalade-france.fr",
+    template: "%s",
   },
   description:
     "Annuaire indépendant de l'escalade en France. 3 500 sites naturels, salles indoor, cartographie, cotations, équipement testé.",
