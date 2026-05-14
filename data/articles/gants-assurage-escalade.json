@@ -3,7 +3,7 @@
   "cocon": "materiel",
   "type_article": "astuce",
   "numero": 57,
-  "title": "Gants d'assurage escalade : vraiment utiles ou gadget ?",
+  "title": "Gants d'assurage escalade, vraiment utiles ou gadget ?",
   "h1": "Gants d'assurage en escalade, utilité réelle, modèles et limites",
   "description": "Tour d'horizon des gants d'assurage : à qui ils servent vraiment, modèles Petzl Cordex, Black Diamond Crag, usages en grande voie et en rappel.",
   "chapo": "Le gant d'assurage divise la communauté escalade. Les uns le considèrent comme un accessoire de pro pour la grande voie ou les longs rappels, les autres comme un gadget inutile en salle. La vérité se trouve entre les deux, avec des situations précises où la paume renforcée évite des brûlures sérieuses, et d'autres où le gant nuit plus à la sensation qu'il ne protège.",
@@ -15,52 +15,161 @@
     "Le gant à doigts coupés permet de sentir le brin de freinage tout en protégeant la paume des frictions."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Ce que le gant d'assurage protège réellement"},
-    {"type": "p", "html": "Le gant d'assurage protège deux zones : la paume des mains contre les brûlures provoquées par le glissement rapide d'une corde sous tension, et les doigts contre les frottements répétés sur les arêtes vives des cordes en rappel. Une corde qui défile à vitesse élevée dans la main produit une chaleur qui peut brûler la peau au troisième degré en moins d'une seconde. Sur un freinage de chute lourde en grande voie, ou sur un rappel d'urgence mal contrôlé, la brûlure est instantanée et profonde."},
-    {"type": "p", "html": "Le matériau standard est le cuir tanné fin, parfois renforcé sur la paume avec un cuir épais ou des inserts kevlar. Le cuir absorbe la chaleur sans fondre, ne fait pas glisser la corde, et garde une bonne souplesse de manipulation. Les modèles synthétiques en polyamide existent mais offrent une protection thermique moindre, surtout en cas de freinage prolongé."},
-    {"type": "p", "html": "Mon premier rappel sur une grande voie de 200 m à Presles, j'avais lésiné sur l'équipement. Pas de gants. Au troisième rappel sur des cordes neuves, la paume gauche commençait à cuire. À mi-descente j'avais une vraie brûlure rouge. Depuis, gants systématiques pour tout rappel de plus de 30 m, et ils figurent en tête de ma <a href=\"/blog/matos-grande-voie-checklist\">checklist matériel grande voie</a>."},
-    {"type": "h2", "text": "Court doigt ou plein doigt, deux philosophies"},
-    {"type": "p", "html": "Les gants à <strong>doigts coupés</strong> laissent les phalanges nues, ce qui préserve la sensation tactile sur la corde de freinage. Tu sens passer le brin, tu sens la tension qui monte, tu manipules un système d'assurage type Grigri ou tube avec la même précision qu'à mains nues. La paume reste protégée des brûlures par frottement, ce qui couvre 90% des risques de l'assurage classique."},
-    {"type": "p", "html": "Les gants à <strong>doigts longs</strong> couvrent totalement la main. Tu perds une partie de la sensation mais tu gagnes une protection complète, notamment en hiver, sur les manœuvres de relais prolongées et lors des rappels successifs en cordes parallèles. C'est le choix des alpinistes et des grimpeurs de grande voie qui font de longues sessions par temps frais."},
+    {
+      "type": "h2",
+      "text": "Ce que le gant d'assurage protège réellement"
+    },
+    {
+      "type": "p",
+      "html": "Le gant d'assurage protège deux zones : la paume des mains contre les brûlures provoquées par le glissement rapide d'une corde sous tension, et les doigts contre les frottements répétés sur les arêtes vives des cordes en rappel. Une corde qui défile à vitesse élevée dans la main produit une chaleur qui peut brûler la peau au troisième degré en moins d'une seconde. Sur un freinage de chute lourde en grande voie, ou sur un rappel d'urgence mal contrôlé, la brûlure est instantanée et profonde."
+    },
+    {
+      "type": "p",
+      "html": "Le matériau standard est le cuir tanné fin, parfois renforcé sur la paume avec un cuir épais ou des inserts kevlar. Le cuir absorbe la chaleur sans fondre, ne fait pas glisser la corde, et garde une bonne souplesse de manipulation. Les modèles synthétiques en polyamide existent mais offrent une protection thermique moindre, surtout en cas de freinage prolongé."
+    },
+    {
+      "type": "p",
+      "html": "Mon premier rappel sur une grande voie de 200 m à Presles, j'avais lésiné sur l'équipement. Pas de gants. Au troisième rappel sur des cordes neuves, la paume gauche commençait à cuire. À mi-descente j'avais une vraie brûlure rouge. Depuis, gants systématiques pour tout rappel de plus de 30 m."
+    },
+    {
+      "type": "h2",
+      "text": "Court doigt ou plein doigt, deux philosophies"
+    },
+    {
+      "type": "p",
+      "html": "Les gants à <strong>doigts coupés</strong> laissent les phalanges nues, ce qui préserve la sensation tactile sur la corde de freinage. Tu sens passer le brin, tu sens la tension qui monte, tu manipules un système d'assurage type Grigri ou tube avec la même précision qu'à mains nues. La paume reste protégée des brûlures par frottement, ce qui couvre 90% des risques de l'assurage classique."
+    },
+    {
+      "type": "p",
+      "html": "Les gants à <strong>doigts longs</strong> couvrent totalement la main. Tu perds une partie de la sensation mais tu gagnes une protection complète, notamment en hiver, sur les manœuvres de relais prolongées et lors des rappels successifs en cordes parallèles. C'est le choix des alpinistes et des grimpeurs de grande voie qui font de longues sessions par temps frais."
+    },
     {
       "type": "list",
       "variant": "cards",
       "title": "Trois modèles de référence selon ton usage",
       "items": [
-        {"title": "Petzl Cordex", "body": "Doigts coupés en cuir nubuck, sangle réglable au poignet, autour de 28 €. Référence pour assurage en falaise et rappels modérés. Bon compromis protection-sensation."},
-        {"title": "Petzl Cordex Plus", "body": "Doigts coupés mais paume doublée et renforcée. Idéal pour rappels longs et grandes voies. Compte 38-42 €. Durabilité supérieure de deux saisons par rapport au Cordex standard."},
-        {"title": "Black Diamond Crag Half-Finger", "body": "Cuir chèvre fin, coupe respirante, sangle élastique. Autour de 32 €. Très ajusté, idéal pour assurage régulier en falaise avec sensation de corde maximale."}
+        {
+          "title": "Petzl Cordex",
+          "body": "Doigts coupés en cuir nubuck, sangle réglable au poignet, autour de 28 €. Référence pour assurage en falaise et rappels modérés. Bon compromis protection-sensation."
+        },
+        {
+          "title": "Petzl Cordex Plus",
+          "body": "Doigts coupés mais paume doublée et renforcée. Idéal pour rappels longs et grandes voies. Compte 38-42 €. Durabilité supérieure de deux saisons par rapport au Cordex standard."
+        },
+        {
+          "title": "Black Diamond Crag Half-Finger",
+          "body": "Cuir chèvre fin, coupe respirante, sangle élastique. Autour de 32 €. Très ajusté, idéal pour assurage régulier en falaise avec sensation de corde maximale."
+        }
       ]
     },
-    {"type": "h2", "text": "Les situations où le gant est vraiment utile"},
-    {"type": "p", "html": "Le gant d'assurage prend tout son sens dans cinq situations précises. En grande voie longue avec multiples rappels, où l'enchaînement provoque des frottements cumulés. En rappel sur corde fine de 8 mm ou moins, plus chaude au passage à cause du diamètre. En assurage de tête sur un partenaire lourd avec un Grigri qui freine brutalement à la chute, comme détaillé dans mon guide <a href=\"/blog/assurer-grigri-bien-utiliser\">utiliser le Grigri</a>. En manœuvres de mouflage et de réchappe, où la corde glisse sous charge importante. Et en hiver, où la peau froide brûle plus vite."},
-    {"type": "p", "html": "À l'inverse, l'assurage en moulinette en salle ne justifie quasiment jamais le port de gants. Pour comparer les freineurs, voir mon <a href=\"/blog/systeme-assurage-comparatif\">comparatif des systèmes d'assurage</a>. Le partenaire ne tombe pas brutalement, les distances sont courtes, le système d'assurage gère l'essentiel du freinage. Les gants ajoutent ici une perte de sensibilité sans bénéfice de protection. Idem pour la pratique du bloc, où les gants n'ont aucun usage en assurage classique."},
-    {"type": "h2", "text": "Choisir la bonne taille, le détail qui change tout"},
-    {"type": "p", "html": "Un gant trop grand crée des plis dans la paume qui se transforment en points chauds au freinage. Un gant trop serré coupe la circulation et fait mal au bout de quinze minutes d'usage. La bonne taille colle la paume sans serrer les phalanges, avec une légère réserve au bout des doigts pour les modèles plein doigt."},
-    {"type": "p", "html": "Les fabricants proposent généralement quatre tailles XS à XL. Mesure ton tour de paume à la base des doigts, à plat sur une règle, et compare au tableau du fabricant. Les marques européennes type <strong>Petzl</strong> ou <strong>Camp</strong> ont des tailles qui collent au standard. Les marques américaines comme Black Diamond taillent parfois un cran au-dessus."},
-    {"type": "h2", "text": "Entretien et durée de vie"},
-    {"type": "p", "html": "Un gant en cuir s'entretient comme une chaussure : éviter l'eau prolongée, sécher à l'air libre loin d'une source de chaleur, graisser la paume tous les six mois avec un baume cuir neutre pour préserver la souplesse. Un gant qui durcit perd ses propriétés et craque aux jointures."},
-    {"type": "p", "html": "Durée de vie réaliste : deux saisons pour un grimpeur intensif en grande voie qui rappelle plusieurs fois par sortie, quatre à cinq saisons pour un usage occasionnel. Les signes de fin de vie : paume noircie et lustrée par la corde, plis qui craquent aux articulations, perte de souplesse générale. À ce stade, on change avant l'incident, parce qu'un gant qui craque pendant un rappel ne protège plus."},
-    {"type": "tip", "title": "Le rangement intelligent du gant", "body": "Un mousqueton léger type Petzl Spirit Wire au passant des gants te permet de les accrocher au baudrier quand tu ne les portes pas. Tu les retrouves immédiatement pour le rappel suivant sans fouiller le sac. Les modèles Petzl Cordex prévoient une boucle métallique pour ce rangement.", "tone": "astuce"},
-    {"type": "h2", "text": "Le débat sensation contre protection"},
-    {"type": "p", "html": "Le grand débat des assureurs reste celui de la sensation. Certains refusent les gants par principe parce qu'ils estiment perdre le ressenti de la corde, élément essentiel d'un assurage attentif. La perception de la tension qui monte, la vibration discrète d'un grimpeur qui hésite, la légère vibration d'une corde qui frotte : ces informations passent par les doigts."},
-    {"type": "p", "html": "L'argument tient en moulinette en salle, où les sollicitations sont régulières et faibles. Il s'effondre en grande voie engagée, où les conséquences d'une mauvaise gestion de freinage dépassent largement celles d'une légère perte de sensation. Le compromis classique : <strong>doigts coupés</strong> pour la grimpe sportive sérieuse, paume nue en salle pour l'apprentissage. Avec l'expérience, beaucoup d'assureurs gardent leurs gants au baudrier en permanence et les enfilent uniquement quand la situation le justifie."},
-    {"type": "p", "html": "Mon retour personnel après deux ans de pratique régulière en grande voie : gants systématiques pour le rappel, gants pour l'assurage de tête sur projet engagé, pas de gants en moulinette ni en bloc. La règle de bon sens fonctionne mieux que les dogmes."}
+    {
+      "type": "h2",
+      "text": "Les situations où le gant est vraiment utile"
+    },
+    {
+      "type": "p",
+      "html": "Le gant d'assurage prend tout son sens dans cinq situations précises. En grande voie longue avec multiples rappels, où l'enchaînement provoque des frottements cumulés. En rappel sur corde fine de 8 mm ou moins, plus chaude au passage à cause du diamètre. En assurage de tête sur un partenaire lourd avec un Grigri qui freine brutalement à la chute. En manœuvres de mouflage et de réchappe, où la corde glisse sous charge importante. Et en hiver, où la peau froide brûle plus vite."
+    },
+    {
+      "type": "p",
+      "html": "À l'inverse, l'assurage en moulinette en salle ne justifie quasiment jamais le port de gants. Le partenaire ne tombe pas brutalement, les distances sont courtes, le système d'assurage gère l'essentiel du freinage. Les gants ajoutent ici une perte de sensibilité sans bénéfice de protection. Idem pour la pratique du bloc, où les gants n'ont aucun usage en assurage classique."
+    },
+    {
+      "type": "h2",
+      "text": "Choisir la bonne taille, le détail qui change tout"
+    },
+    {
+      "type": "p",
+      "html": "Un gant trop grand crée des plis dans la paume qui se transforment en points chauds au freinage. Un gant trop serré coupe la circulation et fait mal au bout de quinze minutes d'usage. La bonne taille colle la paume sans serrer les phalanges, avec une légère réserve au bout des doigts pour les modèles plein doigt."
+    },
+    {
+      "type": "p",
+      "html": "Les fabricants proposent généralement quatre tailles XS à XL. Mesure ton tour de paume à la base des doigts, à plat sur une règle, et compare au tableau du fabricant. Les marques européennes type <strong>Petzl</strong> ou <strong>Camp</strong> ont des tailles qui collent au standard. Les marques américaines comme Black Diamond taillent parfois un cran au-dessus."
+    },
+    {
+      "type": "h2",
+      "text": "Entretien et durée de vie"
+    },
+    {
+      "type": "p",
+      "html": "Un gant en cuir s'entretient comme une chaussure : éviter l'eau prolongée, sécher à l'air libre loin d'une source de chaleur, graisser la paume tous les six mois avec un baume cuir neutre pour préserver la souplesse. Un gant qui durcit perd ses propriétés et craque aux jointures."
+    },
+    {
+      "type": "p",
+      "html": "Durée de vie réaliste : deux saisons pour un grimpeur intensif en grande voie qui rappelle plusieurs fois par sortie, quatre à cinq saisons pour un usage occasionnel. Les signes de fin de vie : paume noircie et lustrée par la corde, plis qui craquent aux articulations, perte de souplesse générale. À ce stade, on change avant l'incident, parce qu'un gant qui craque pendant un rappel ne protège plus."
+    },
+    {
+      "type": "tip",
+      "title": "Le rangement intelligent du gant",
+      "body": "Un mousqueton léger type Petzl Spirit Wire au passant des gants te permet de les accrocher au baudrier quand tu ne les portes pas. Tu les retrouves immédiatement pour le rappel suivant sans fouiller le sac. Les modèles Petzl Cordex prévoient une boucle métallique pour ce rangement.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Le débat sensation contre protection"
+    },
+    {
+      "type": "p",
+      "html": "Le grand débat des assureurs reste celui de la sensation. Certains refusent les gants par principe parce qu'ils estiment perdre le ressenti de la corde, élément essentiel d'un assurage attentif. La perception de la tension qui monte, la vibration discrète d'un grimpeur qui hésite, la légère vibration d'une corde qui frotte : ces informations passent par les doigts."
+    },
+    {
+      "type": "p",
+      "html": "L'argument tient en moulinette en salle, où les sollicitations sont régulières et faibles. Il s'effondre en grande voie engagée, où les conséquences d'une mauvaise gestion de freinage dépassent largement celles d'une légère perte de sensation. Le compromis classique : <strong>doigts coupés</strong> pour la grimpe sportive sérieuse, paume nue en salle pour l'apprentissage. Avec l'expérience, beaucoup d'assureurs gardent leurs gants au baudrier en permanence et les enfilent uniquement quand la situation le justifie."
+    },
+    {
+      "type": "p",
+      "html": "Mon retour personnel après deux ans de pratique régulière en grande voie : gants systématiques pour le rappel, gants pour l'assurage de tête sur projet engagé, pas de gants en moulinette ni en bloc. La règle de bon sens fonctionne mieux que les dogmes."
+    }
   ],
   "faq": [
-    {"q": "Les gants d'assurage sont-ils obligatoires pour la grande voie ?", "a": "Non, aucune norme n'impose le port de gants. C'est un choix personnel basé sur le confort et la prévention. Dans la pratique, la grande majorité des grimpeurs de grande voie engagée porte des gants, et la plupart des guides de haute montagne les imposent à leurs clients pour les rappels et les manœuvres de réchappe. La sécurité augmente concrètement avec leur port."},
-    {"q": "Peut-on assurer en bloc avec des gants ?", "a": "Question piège : on n'assure pas en bloc, il n'y a pas de corde. Le seul rôle d'un parreur, c'est de guider la chute du grimpeur vers le crashpad. Aucun gant n'est utile. Inversement, en bloc en grande hauteur ou highball, certains pratiquants utilisent des gants pour protéger les paumes lors des spotting techniques, mais c'est marginal."},
-    {"q": "Quelle différence entre gants d'assurage et gants via ferrata ?", "a": "Les gants de via ferrata sont conçus pour protéger des câbles métalliques saillants, avec paume renforcée et doigts coupés. Ils peuvent dépanner pour l'assurage classique mais leur cuir est souvent plus rigide et la coupe moins adaptée à la manipulation fine du système d'assurage. À l'inverse, les gants d'assurage type Petzl Cordex protègent mal contre les arêtes vives des câbles. Mieux vaut un modèle par usage."},
-    {"q": "Les gants en laine ou polaire suffisent en hiver ?", "a": "Non. La laine ou la polaire isolent mais ne protègent pas contre la friction de corde. Un freinage rapide brûle la fibre, qui fond et colle à la peau. Pour assurer en hiver, prends un gant d'assurage en cuir sous une sous-couche fine en laine mérinos si tu as froid. La combinaison protège thermiquement sans compromettre la sécurité."},
-    {"q": "Combien coûte une paire de gants d'assurage corrects ?", "a": "Compte 25 à 35 € pour un modèle d'entrée de gamme type Petzl Cordex ou Black Diamond Crag, qui suffit largement pour la pratique régulière. Les modèles renforcés Cordex Plus ou Camp Start montent à 40-60 €. Au-delà, on entre dans le domaine du gant d'alpinisme ou de cascade qui ajoute des fonctions thermiques. Pour de l'assurage pur, 30 € donnent déjà du matériel fiable."}
+    {
+      "q": "Les gants d'assurage sont-ils obligatoires pour la grande voie ?",
+      "a": "Non, aucune norme n'impose le port de gants. C'est un choix personnel basé sur le confort et la prévention. Dans la pratique, la grande majorité des grimpeurs de grande voie engagée porte des gants, et la plupart des guides de haute montagne les imposent à leurs clients pour les rappels et les manœuvres de réchappe. La sécurité augmente concrètement avec leur port."
+    },
+    {
+      "q": "Peut-on assurer en bloc avec des gants ?",
+      "a": "Question piège : on n'assure pas en bloc, il n'y a pas de corde. Le seul rôle d'un parreur, c'est de guider la chute du grimpeur vers le crashpad. Aucun gant n'est utile. Inversement, en bloc en grande hauteur ou highball, certains pratiquants utilisent des gants pour protéger les paumes lors des spotting techniques, mais c'est marginal."
+    },
+    {
+      "q": "Quelle différence entre gants d'assurage et gants via ferrata ?",
+      "a": "Les gants de via ferrata sont conçus pour protéger des câbles métalliques saillants, avec paume renforcée et doigts coupés. Ils peuvent dépanner pour l'assurage classique mais leur cuir est souvent plus rigide et la coupe moins adaptée à la manipulation fine du système d'assurage. À l'inverse, les gants d'assurage type Petzl Cordex protègent mal contre les arêtes vives des câbles. Mieux vaut un modèle par usage."
+    },
+    {
+      "q": "Les gants en laine ou polaire suffisent en hiver ?",
+      "a": "Non. La laine ou la polaire isolent mais ne protègent pas contre la friction de corde. Un freinage rapide brûle la fibre, qui fond et colle à la peau. Pour assurer en hiver, prends un gant d'assurage en cuir sous une sous-couche fine en laine mérinos si tu as froid. La combinaison protège thermiquement sans compromettre la sécurité."
+    },
+    {
+      "q": "Combien coûte une paire de gants d'assurage corrects ?",
+      "a": "Compte 25 à 35 € pour un modèle d'entrée de gamme type Petzl Cordex ou Black Diamond Crag, qui suffit largement pour la pratique régulière. Les modèles renforcés Cordex Plus ou Camp Start montent à 40-60 €. Au-delà, on entre dans le domaine du gant d'alpinisme ou de cascade qui ajoute des fonctions thermiques. Pour de l'assurage pur, 30 € donnent déjà du matériel fiable."
+    }
   ],
   "cover_alt": "Paire de gants d'assurage en cuir nubuck accrochés à un baudrier par un mousqueton, vue de près en lumière naturelle, sangle de poignet visible, paume légèrement marquée par l'usage",
   "internal_links": [
-    {"slug": "materiel-escalade-essentiel", "anchor": "matériel essentiel d'escalade", "context": "pilier matériel"},
-    {"slug": "systeme-assurage-comparatif", "anchor": "comparatif systèmes d'assurage", "context": "matériel associé"},
-    {"slug": "matos-grande-voie-checklist", "anchor": "checklist matériel grande voie", "context": "usage typique gants"},
-    {"slug": "assurer-grigri-bien-utiliser", "anchor": "assurer au Grigri", "context": "système courant"},
-    {"slug": "entretien-corde-lavage-rangement", "anchor": "entretien des cordes", "context": "soin matériel"}
+    {
+      "slug": "materiel-escalade-essentiel",
+      "anchor": "matériel essentiel d'escalade",
+      "context": "pilier matériel"
+    },
+    {
+      "slug": "systeme-assurage-comparatif",
+      "anchor": "comparatif systèmes d'assurage",
+      "context": "matériel associé"
+    },
+    {
+      "slug": "matos-grande-voie-checklist",
+      "anchor": "checklist matériel grande voie",
+      "context": "usage typique gants"
+    },
+    {
+      "slug": "assurer-grigri-bien-utiliser",
+      "anchor": "assurer au Grigri",
+      "context": "système courant"
+    },
+    {
+      "slug": "entretien-corde-lavage-rangement",
+      "anchor": "entretien des cordes",
+      "context": "soin matériel"
+    }
   ],
   "scheduled_at": "2026-09-15T09:00:00+02:00"
 }

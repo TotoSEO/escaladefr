@@ -3,7 +3,7 @@
   "cocon": "culture",
   "type_article": "guide",
   "numero": 159,
-  "title": "Escalade aux JO Paris 2024 : bilan du Bourget et podiums",
+  "title": "Escalade aux JO Paris 2024, bilan du Bourget et podiums",
   "h1": "Escalade aux JO Paris 2024, le bilan d'une compétition qui a marqué la discipline",
   "description": "Janja Garnbret, Toby Roberts, format bloc et difficulté séparé : le bilan complet de l'escalade aux Jeux Olympiques de Paris 2024 au Bourget.",
   "chapo": "L'escalade aux Jeux Olympiques de Paris 2024 a marqué une étape majeure pour la discipline. Format revu, athlètes confirmés, dramaturgie sportive sur le site du Bourget. Antoine revient sur les podiums, sur les performances des Français et sur ce que ces JO ont changé dans l'image de la grimpe. Deux semaines à regarder la télévision avec une intensité rare pour un sport encore confidentiel.",
@@ -15,57 +15,201 @@
     "Le site du Bourget a accueilli les épreuves devant 12 500 spectateurs en gradins, ambiance saturée."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Le format Paris 2024, un saut en avant pour la discipline"},
-    {"type": "p", "html": "Tokyo 2020 avait fait débat en regroupant les trois disciplines bloc, difficulté et vitesse dans un combiné unique. Les puristes du bloc se retrouvaient à devoir courir, les spécialistes de la vitesse à projeter en difficulté. Paris 2024 a corrigé cette aberration en dissociant la vitesse, qui dispose de ses propres médailles, et en proposant un combiné bloc plus difficulté pour les disciplines techniques."},
-    {"type": "p", "html": "Cette nouvelle organisation a satisfait la quasi-totalité de la communauté. Les performances ont enfin reflété les compétences réelles des athlètes dans leurs disciplines de spécialité. La vitesse a livré son spectacle court et explosif, le combiné bloc et difficulté a permis aux techniciens de briller sur deux jours d'épreuves. Le format reste perfectible mais marque un progrès net par rapport à Tokyo."},
-    {"type": "p", "html": "Le site du <strong>Bourget</strong>, au nord de Paris, accueillait les épreuves dans une structure temporaire de 12 500 places. L'enceinte saturée pendant les finales a créé une ambiance inédite pour la discipline, plus proche du concert que de la compétition technique. Les athlètes français comme Oriane Bertone et Sam Avezou ont décrit la différence avec les compétitions Coupe du Monde habituelles, beaucoup plus calmes."},
-    {"type": "h2", "text": "Le podium femmes : Janja Garnbret intouchable"},
-    {"type": "p", "html": "<strong>Janja Garnbret</strong> a remporté l'or du combiné bloc et difficulté, comme à Tokyo 2020. La Slovène a survolé l'épreuve de bloc avec quatre tops sur quatre, puis a confirmé en difficulté sur des voies qu'elle a quasiment toutes terminées. Son écart avec les suivantes dépasse les vingt points sur un total possible de cent. Le débat sur son niveau face au reste de la planète n'a pas avancé, Garnbret reste sans rivale réelle."},
-    {"type": "p", "html": "L'Américaine <strong>Brooke Raboutou</strong> a décroché l'argent, première médaille olympique d'escalade pour les États-Unis chez les femmes. Fille de deux grimpeurs renommés, Robyn Erbesfield et Didier Raboutou, elle a confirmé son potentiel après plusieurs saisons mitigées. Sa progression en difficulté pendant la finale a fait la différence sur les concurrentes plus spécialisées bloc."},
-    {"type": "p", "html": "L'Autrichienne <strong>Jessica Pilz</strong> a complété le podium avec le bronze. Spécialiste historique de la difficulté, elle a su rester compétitive en bloc malgré des concurrentes plus jeunes. Son podium récompense une carrière longue de plus de dix ans au plus haut niveau. Côté français, Oriane Bertone a terminé sixième de la finale après une sélection difficile, performance honorable pour sa première Olympiade."},
-    {"type": "h2", "text": "Le podium hommes : Toby Roberts surprend tout le monde"},
-    {"type": "p", "html": "<strong>Toby Roberts</strong>, britannique de dix-neuf ans, a remporté l'or olympique en combiné hommes. Personne ne le voyait sur le podium en début de compétition. Il s'est imposé d'abord en bloc avec trois tops sur quatre, puis a fait la différence sur la voie finale de difficulté en flashant un passage que les favoris ont raté. Sa performance reste l'une des plus inattendues des JO Paris 2024 toutes disciplines confondues."},
-    {"type": "p", "html": "Le Japonais <strong>Sorato Anraku</strong>, dix-sept ans au moment des JO, a pris l'argent. Considéré comme le futur grimpeur dominant du circuit, il a confirmé son potentiel énorme. Le Japon a poursuivi sa domination en escalade après Tomoa Narasaki et plusieurs médailles à Tokyo. L'Autrichien Jakob Schubert a complété le podium avec le bronze, prolongeant une carrière entamée vingt ans plus tôt."},
-    {"type": "p", "html": "Le Français Sam Avezou a terminé quatrième de la finale hommes, à un cheveu du bronze. Performance majeure pour la France, qui n'avait jamais placé un grimpeur aussi haut aux JO. Antoine a regardé cette finale avec deux copains de salle, on espérait tous le miracle sur la dernière voie. La déception était à la hauteur de l'engouement."},
-    {"type": "list", "variant": "cards", "title": "Les médailles de l'escalade aux JO Paris 2024", "items": [
-      {"title": "Or femmes combiné", "body": "Janja Garnbret (Slovénie), 168 points, deuxième titre olympique consécutif après Tokyo 2020."},
-      {"title": "Argent femmes combiné", "body": "Brooke Raboutou (États-Unis), 156 points, première médaille olympique américaine en escalade."},
-      {"title": "Bronze femmes combiné", "body": "Jessica Pilz (Autriche), 147 points, consécration en fin de carrière."},
-      {"title": "Or hommes combiné", "body": "Toby Roberts (Royaume-Uni), 162 points, surprise majeure de la compétition à dix-neuf ans."},
-      {"title": "Argent hommes combiné", "body": "Sorato Anraku (Japon), 159 points, confirmation du futur leader du circuit à dix-sept ans."},
-      {"title": "Bronze hommes combiné", "body": "Jakob Schubert (Autriche), 154 points, médaille pour la fidélité au plus haut niveau depuis vingt ans."}
-    ]},
-    {"type": "h2", "text": "L'épreuve de vitesse, le format spectacle"},
-    {"type": "p", "html": "L'épreuve de vitesse a livré ses propres médailles avec un spectacle plus court mais très intense. Le mur standardisé de 15 mètres avec 20 prises identiques dans le monde entier produit des temps autour de cinq secondes pour les meilleurs hommes. La Polonaise Aleksandra Mirosław a remporté l'or femmes en battant son propre record du monde à 6,06 secondes. L'Indonésien Veddriq Leonardo a pris l'or hommes à 4,75 secondes."},
-    {"type": "p", "html": "La vitesse divise toujours la communauté grimpante. Pour les puristes du bloc et de la difficulté, c'est un autre sport, plus proche de l'athlétisme que de l'escalade. Pour les organisateurs et les diffuseurs, c'est le format télévisuellement le plus lisible. La séparation des médailles à Paris 2024 a permis aux deux mondes de coexister sans se contraindre l'un l'autre."},
-    {"type": "p", "html": "Aucun Français n'a brillé en vitesse à Paris 2024. La discipline reste dominée par la Pologne, l'Indonésie, la Chine et les pays de l'Est. La France a peu d'infrastructure dédiée à la vitesse pure, ce qui explique le retard. Quelques initiatives locales tentent de combler le vide, notamment au CREPS de Voiron, mais les résultats au plus haut niveau prendront plusieurs cycles olympiques."},
-    {"type": "h2", "text": "Le retour des frères Mawem et la transition française"},
-    {"type": "p", "html": "Tokyo 2020 avait marqué la sélection des frères <strong>Mawem</strong>, Mickaël et Bassa, premiers Français à concourir en escalade olympique. <strong>Bassa Mawem</strong> avait remporté la qualification mais s'était blessé au biceps avant la finale, manquant la médaille. Paris 2024 a vu une nouvelle génération prendre le relais avec Sam Avezou chez les hommes et Oriane Bertone chez les femmes, plus jeunes et plus spécialisés."},
-    {"type": "p", "html": "Cette transition reflète la maturation de l'escalade française. La filière fédérale produit désormais des grimpeurs au niveau international dès l'adolescence, avec des structures comme les pôles Espoir de Voiron et de Toulouse. La FFME a investi sur la formation des entraîneurs et l'accompagnement médical. Le résultat se voit aux compétitions junior où les Français trustent les podiums depuis quelques années."},
-    {"type": "p", "html": "Antoine a suivi cette montée en puissance depuis ses débuts au lycée Camille Sée à Colmar. Il y a treize ans, l'escalade française n'avait pas de modèle clair au plus haut niveau international. Aujourd'hui, des grimpeurs comme Manu Cornu, Mejdi Schalck ou Oriane Bertone montrent ce que peut produire une filière structurée. Les prochains JO Los Angeles 2028 devraient confirmer cette tendance."},
-    {"type": "h2", "text": "L'impact médiatique et culturel des JO"},
-    {"type": "p", "html": "Les audiences télévisées de l'escalade à Paris 2024 ont dépassé les espérances. Les finales du combiné ont attiré plus de 2 millions de téléspectateurs sur France Télévisions, un record absolu pour la discipline. Les rediffusions et les extraits ont circulé massivement sur les réseaux sociaux, exposant l'escalade à un public qui ne la connaissait que par les films de salle ou les images d'Honnold."},
-    {"type": "p", "html": "Les inscriptions en salle ont connu un pic visible dans les mois suivant les JO. Les gérants de Climb Up et Vertical'Art ont rapporté une hausse de 20 à 30 pour cent des passages débutants sur le second semestre 2024. La couverture médiatique avait préparé le terrain, les performances de Toby Roberts et Janja Garnbret ont déclenché les vocations. Cette dynamique reste à confirmer sur le long terme."},
-    {"type": "tip", "title": "Revoir les finales en replay", "body": "Les replays des finales escalade JO Paris 2024 restent disponibles sur le site officiel de l'IFSC et sur les plateformes des chaînes diffuseuses. Regarde la finale hommes du combiné en intégralité, c'est un cas d'école de dramaturgie sportive avec retournement final. Les commentaires techniques d'Olivier Wieber et Charlotte Bertrand sur France Télé valent la peine.", "tone": "astuce"},
-    {"type": "h2", "text": "Et après ? Vers Los Angeles 2028"},
-    {"type": "p", "html": "Le format des JO Los Angeles 2028 sera précisé en 2026 ou 2027 par le CIO et l'IFSC. La séparation vitesse et combiné devrait rester acquise. Le combiné pourrait évoluer vers des formats encore plus lisibles télévisuellement, avec des voies plus courtes et plus de tentatives par grimpeur. Les athlètes redoutent une simplification excessive qui dénaturerait la discipline."},
-    {"type": "p", "html": "Côté français, la préparation de Los Angeles 2028 commence dès maintenant. Sam Avezou, à 25 ans en 2028, sera au sommet de sa forme. Oriane Bertone a la marge de progression de la jeunesse. La filière junior produit régulièrement des médaillés mondiaux et continentaux, le réservoir est là. La question sera de transformer ce vivier en médailles olympiques, ce qui demande encore des cycles complets de préparation spécifique."},
-    {"type": "p", "html": "Pour creuser la culture escalade, lis <a href=\"/blog/histoire-escalade-france-alpes-salle\">l'histoire de l'escalade en France</a>, <a href=\"/blog/films-escalade-meilleurs\">les meilleurs films sur la grimpe</a> et <a href=\"/blog/histoire-bleau-bloc\">l'histoire du bloc à Fontainebleau</a>. Les JO sont le sommet visible d'un iceberg culturel beaucoup plus large et ancien."}
+    {
+      "type": "h2",
+      "text": "Le format Paris 2024, un saut en avant pour la discipline"
+    },
+    {
+      "type": "p",
+      "html": "Tokyo 2020 avait fait débat en regroupant les trois disciplines bloc, difficulté et vitesse dans un combiné unique. Les puristes du bloc se retrouvaient à devoir courir, les spécialistes de la vitesse à projeter en difficulté. Paris 2024 a corrigé cette aberration en dissociant la vitesse, qui dispose de ses propres médailles, et en proposant un combiné bloc plus difficulté pour les disciplines techniques."
+    },
+    {
+      "type": "p",
+      "html": "Cette nouvelle organisation a satisfait la quasi-totalité de la communauté. Les performances ont enfin reflété les compétences réelles des athlètes dans leurs disciplines de spécialité. La vitesse a livré son spectacle court et explosif, le combiné bloc et difficulté a permis aux techniciens de briller sur deux jours d'épreuves. Le format reste perfectible mais marque un progrès net par rapport à Tokyo."
+    },
+    {
+      "type": "p",
+      "html": "Le site du <strong>Bourget</strong>, au nord de Paris, accueillait les épreuves dans une structure temporaire de 12 500 places. L'enceinte saturée pendant les finales a créé une ambiance inédite pour la discipline, plus proche du concert que de la compétition technique. Les athlètes français comme Oriane Bertone et Sam Avezou ont décrit la différence avec les compétitions Coupe du Monde habituelles, beaucoup plus calmes."
+    },
+    {
+      "type": "h2",
+      "text": "Le podium femmes : Janja Garnbret intouchable"
+    },
+    {
+      "type": "p",
+      "html": "<strong>Janja Garnbret</strong> a remporté l'or du combiné bloc et difficulté, comme à Tokyo 2020. La Slovène a survolé l'épreuve de bloc avec quatre tops sur quatre, puis a confirmé en difficulté sur des voies qu'elle a quasiment toutes terminées. Son écart avec les suivantes dépasse les vingt points sur un total possible de cent. Le débat sur son niveau face au reste de la planète n'a pas avancé, Garnbret reste sans rivale réelle."
+    },
+    {
+      "type": "p",
+      "html": "L'Américaine <strong>Brooke Raboutou</strong> a décroché l'argent, première médaille olympique d'escalade pour les États-Unis chez les femmes. Fille de deux grimpeurs renommés, Robyn Erbesfield et Didier Raboutou, elle a confirmé son potentiel après plusieurs saisons mitigées. Sa progression en difficulté pendant la finale a fait la différence sur les concurrentes plus spécialisées bloc."
+    },
+    {
+      "type": "p",
+      "html": "L'Autrichienne <strong>Jessica Pilz</strong> a complété le podium avec le bronze. Spécialiste historique de la difficulté, elle a su rester compétitive en bloc malgré des concurrentes plus jeunes. Son podium récompense une carrière longue de plus de dix ans au plus haut niveau. Côté français, Oriane Bertone a terminé sixième de la finale après une sélection difficile, performance honorable pour sa première Olympiade."
+    },
+    {
+      "type": "h2",
+      "text": "Le podium hommes : Toby Roberts surprend tout le monde"
+    },
+    {
+      "type": "p",
+      "html": "<strong>Toby Roberts</strong>, britannique de dix-neuf ans, a remporté l'or olympique en combiné hommes. Personne ne le voyait sur le podium en début de compétition. Il s'est imposé d'abord en bloc avec trois tops sur quatre, puis a fait la différence sur la voie finale de difficulté en flashant un passage que les favoris ont raté. Sa performance reste l'une des plus inattendues des JO Paris 2024 toutes disciplines confondues."
+    },
+    {
+      "type": "p",
+      "html": "Le Japonais <strong>Sorato Anraku</strong>, dix-sept ans au moment des JO, a pris l'argent. Considéré comme le futur grimpeur dominant du circuit, il a confirmé son potentiel énorme. Le Japon a poursuivi sa domination en escalade après Tomoa Narasaki et plusieurs médailles à Tokyo. L'Autrichien Jakob Schubert a complété le podium avec le bronze, prolongeant une carrière entamée vingt ans plus tôt."
+    },
+    {
+      "type": "p",
+      "html": "Le Français Sam Avezou a terminé quatrième de la finale hommes, à un cheveu du bronze. Performance majeure pour la France, qui n'avait jamais placé un grimpeur aussi haut aux JO. Antoine a regardé cette finale avec deux copains de salle, on espérait tous le miracle sur la dernière voie. La déception était à la hauteur de l'engouement."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Les médailles de l'escalade aux JO Paris 2024",
+      "items": [
+        {
+          "title": "Or femmes combiné",
+          "body": "Janja Garnbret (Slovénie), 168 points, deuxième titre olympique consécutif après Tokyo 2020."
+        },
+        {
+          "title": "Argent femmes combiné",
+          "body": "Brooke Raboutou (États-Unis), 156 points, première médaille olympique américaine en escalade."
+        },
+        {
+          "title": "Bronze femmes combiné",
+          "body": "Jessica Pilz (Autriche), 147 points, consécration en fin de carrière."
+        },
+        {
+          "title": "Or hommes combiné",
+          "body": "Toby Roberts (Royaume-Uni), 162 points, surprise majeure de la compétition à dix-neuf ans."
+        },
+        {
+          "title": "Argent hommes combiné",
+          "body": "Sorato Anraku (Japon), 159 points, confirmation du futur leader du circuit à dix-sept ans."
+        },
+        {
+          "title": "Bronze hommes combiné",
+          "body": "Jakob Schubert (Autriche), 154 points, médaille pour la fidélité au plus haut niveau depuis vingt ans."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "L'épreuve de vitesse, le format spectacle"
+    },
+    {
+      "type": "p",
+      "html": "L'épreuve de vitesse a livré ses propres médailles avec un spectacle plus court mais très intense. Le mur standardisé de 15 mètres avec 20 prises identiques dans le monde entier produit des temps autour de cinq secondes pour les meilleurs hommes. La Polonaise Aleksandra Mirosław a remporté l'or femmes en battant son propre record du monde à 6,06 secondes. L'Indonésien Veddriq Leonardo a pris l'or hommes à 4,75 secondes."
+    },
+    {
+      "type": "p",
+      "html": "La vitesse divise toujours la communauté grimpante. Pour les puristes du bloc et de la difficulté, c'est un autre sport, plus proche de l'athlétisme que de l'escalade. Pour les organisateurs et les diffuseurs, c'est le format télévisuellement le plus lisible. La séparation des médailles à Paris 2024 a permis aux deux mondes de coexister sans se contraindre l'un l'autre."
+    },
+    {
+      "type": "p",
+      "html": "Aucun Français n'a brillé en vitesse à Paris 2024. La discipline reste dominée par la Pologne, l'Indonésie, la Chine et les pays de l'Est. La France a peu d'infrastructure dédiée à la vitesse pure, ce qui explique le retard. Quelques initiatives locales tentent de combler le vide, notamment au CREPS de Voiron, mais les résultats au plus haut niveau prendront plusieurs cycles olympiques."
+    },
+    {
+      "type": "h2",
+      "text": "Le retour des frères Mawem et la transition française"
+    },
+    {
+      "type": "p",
+      "html": "Tokyo 2020 avait marqué la sélection des frères <strong>Mawem</strong>, Mickaël et Bassa, premiers Français à concourir en escalade olympique. <strong>Bassa Mawem</strong> avait remporté la qualification mais s'était blessé au biceps avant la finale, manquant la médaille. Paris 2024 a vu une nouvelle génération prendre le relais avec Sam Avezou chez les hommes et Oriane Bertone chez les femmes, plus jeunes et plus spécialisés."
+    },
+    {
+      "type": "p",
+      "html": "Cette transition reflète la maturation de l'escalade française. La filière fédérale produit désormais des grimpeurs au niveau international dès l'adolescence, avec des structures comme les pôles Espoir de Voiron et de Toulouse. La FFME a investi sur la formation des entraîneurs et l'accompagnement médical. Le résultat se voit aux compétitions junior où les Français trustent les podiums depuis quelques années."
+    },
+    {
+      "type": "p",
+      "html": "Antoine a suivi cette montée en puissance depuis ses débuts au lycée Camille Sée à Colmar. Il y a treize ans, l'escalade française n'avait pas de modèle clair au plus haut niveau international. Aujourd'hui, des grimpeurs comme Manu Cornu, Mejdi Schalck ou Oriane Bertone montrent ce que peut produire une filière structurée. Les prochains JO Los Angeles 2028 devraient confirmer cette tendance."
+    },
+    {
+      "type": "h2",
+      "text": "L'impact médiatique et culturel des JO"
+    },
+    {
+      "type": "p",
+      "html": "Les audiences télévisées de l'escalade à Paris 2024 ont dépassé les espérances. Les finales du combiné ont attiré plus de 2 millions de téléspectateurs sur France Télévisions, un record absolu pour la discipline. Les rediffusions et les extraits ont circulé massivement sur les réseaux sociaux, exposant l'escalade à un public qui ne la connaissait que par les films de salle ou les images d'Honnold."
+    },
+    {
+      "type": "p",
+      "html": "Les inscriptions en salle ont connu un pic visible dans les mois suivant les JO. Les gérants de Climb Up et Vertical'Art ont rapporté une hausse de 20 à 30 pour cent des passages débutants sur le second semestre 2024. La couverture médiatique avait préparé le terrain, les performances de Toby Roberts et Janja Garnbret ont déclenché les vocations. Cette dynamique reste à confirmer sur le long terme."
+    },
+    {
+      "type": "tip",
+      "title": "Revoir les finales en replay",
+      "body": "Les replays des finales escalade JO Paris 2024 restent disponibles sur le site officiel de l'IFSC et sur les plateformes des chaînes diffuseuses. Regarde la finale hommes du combiné en intégralité, c'est un cas d'école de dramaturgie sportive avec retournement final. Les commentaires techniques d'Olivier Wieber et Charlotte Bertrand sur France Télé valent la peine.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Et après ? Vers Los Angeles 2028"
+    },
+    {
+      "type": "p",
+      "html": "Le format des JO Los Angeles 2028 sera précisé en 2026 ou 2027 par le CIO et l'IFSC. La séparation vitesse et combiné devrait rester acquise. Le combiné pourrait évoluer vers des formats encore plus lisibles télévisuellement, avec des voies plus courtes et plus de tentatives par grimpeur. Les athlètes redoutent une simplification excessive qui dénaturerait la discipline."
+    },
+    {
+      "type": "p",
+      "html": "Côté français, la préparation de Los Angeles 2028 commence dès maintenant. Sam Avezou, à 25 ans en 2028, sera au sommet de sa forme. Oriane Bertone a la marge de progression de la jeunesse. La filière junior produit régulièrement des médaillés mondiaux et continentaux, le réservoir est là. La question sera de transformer ce vivier en médailles olympiques, ce qui demande encore des cycles complets de préparation spécifique."
+    },
+    {
+      "type": "p",
+      "html": "Pour creuser la culture escalade, lis <a href=\"/blog/histoire-escalade-france-alpes-salle\">l'histoire de l'escalade en France</a>, <a href=\"/blog/films-escalade-meilleurs\">les meilleurs films sur la grimpe</a> et <a href=\"/blog/histoire-bleau-bloc\">l'histoire du bloc à Fontainebleau</a>. Les JO sont le sommet visible d'un iceberg culturel beaucoup plus large et ancien."
+    }
   ],
   "faq": [
-    {"q": "Pourquoi la vitesse a-t-elle été séparée du combiné à Paris 2024 ?", "a": "Tokyo 2020 avait montré l'incohérence du combiné triple. Les spécialistes de la vitesse étaient désavantagés en bloc et difficulté, et inversement. Le CIO et l'IFSC ont admis cette aberration et ont dissocié les épreuves pour Paris 2024. Le résultat a satisfait athlètes et public, avec deux jeux de médailles distincts pour des disciplines techniquement très différentes."},
-    {"q": "Janja Garnbret est-elle imbattable ?", "a": "Sur le combiné olympique, oui pour l'instant. Elle a remporté Tokyo 2020 et Paris 2024 sans contestation. Sur le circuit Coupe du Monde, elle a connu quelques défaites face à des spécialistes du bloc comme Brooke Raboutou ou Natalia Grossman. Mais aux JO en combiné, son régularité en bloc et en difficulté fait la différence. La concurrence travaille pour Los Angeles 2028."},
-    {"q": "Pourquoi aucun Français n'a-t-il décroché de médaille en escalade à Paris 2024 ?", "a": "Sam Avezou a terminé quatrième chez les hommes, à un cheveu du bronze. Oriane Bertone a fini sixième chez les femmes. Le niveau international est extrêmement dense, plusieurs nations produisent des médaillables. La France paie un retard d'investissement dans la formation par rapport au Japon ou aux États-Unis. La filière progresse, les résultats viendront probablement à Los Angeles 2028."},
-    {"q": "L'épreuve de vitesse est-elle vraiment de l'escalade ?", "a": "Techniquement oui, mais c'est une discipline à part entière. Le mur standardisé international, les prises identiques et le temps de 5 à 6 secondes en font une épreuve athlétique pure. Les vitessistes s'entraînent presque exclusivement sur ce mur pendant des années. Les bloqueurs et grimpeurs en difficulté la considèrent souvent comme un autre sport, ce qui justifie la séparation des médailles."},
-    {"q": "Comment regarder les replays des finales escalade Paris 2024 ?", "a": "Les replays sont accessibles sur le site officiel de l'IFSC et sur les plateformes de France Télévisions, Eurosport et de Discovery Plus en France. La finale du combiné hommes est devenue un classique du genre avec son retournement final entre Toby Roberts, Sorato Anraku et Jakob Schubert. Les commentaires techniques valent la peine d'être réécoutés pour saisir les nuances de la cotation et de la stratégie de finale."}
+    {
+      "q": "Pourquoi la vitesse a-t-elle été séparée du combiné à Paris 2024 ?",
+      "a": "Tokyo 2020 avait montré l'incohérence du combiné triple. Les spécialistes de la vitesse étaient désavantagés en bloc et difficulté, et inversement. Le CIO et l'IFSC ont admis cette aberration et ont dissocié les épreuves pour Paris 2024. Le résultat a satisfait athlètes et public, avec deux jeux de médailles distincts pour des disciplines techniquement très différentes."
+    },
+    {
+      "q": "Janja Garnbret est-elle imbattable ?",
+      "a": "Sur le combiné olympique, oui pour l'instant. Elle a remporté Tokyo 2020 et Paris 2024 sans contestation. Sur le circuit Coupe du Monde, elle a connu quelques défaites face à des spécialistes du bloc comme Brooke Raboutou ou Natalia Grossman. Mais aux JO en combiné, son régularité en bloc et en difficulté fait la différence. La concurrence travaille pour Los Angeles 2028."
+    },
+    {
+      "q": "Pourquoi aucun Français n'a-t-il décroché de médaille en escalade à Paris 2024 ?",
+      "a": "Sam Avezou a terminé quatrième chez les hommes, à un cheveu du bronze. Oriane Bertone a fini sixième chez les femmes. Le niveau international est extrêmement dense, plusieurs nations produisent des médaillables. La France paie un retard d'investissement dans la formation par rapport au Japon ou aux États-Unis. La filière progresse, les résultats viendront probablement à Los Angeles 2028."
+    },
+    {
+      "q": "L'épreuve de vitesse est-elle vraiment de l'escalade ?",
+      "a": "Techniquement oui, mais c'est une discipline à part entière. Le mur standardisé international, les prises identiques et le temps de 5 à 6 secondes en font une épreuve athlétique pure. Les vitessistes s'entraînent presque exclusivement sur ce mur pendant des années. Les bloqueurs et grimpeurs en difficulté la considèrent souvent comme un autre sport, ce qui justifie la séparation des médailles."
+    },
+    {
+      "q": "Comment regarder les replays des finales escalade Paris 2024 ?",
+      "a": "Les replays sont accessibles sur le site officiel de l'IFSC et sur les plateformes de France Télévisions, Eurosport et de Discovery Plus en France. La finale du combiné hommes est devenue un classique du genre avec son retournement final entre Toby Roberts, Sorato Anraku et Jakob Schubert. Les commentaires techniques valent la peine d'être réécoutés pour saisir les nuances de la cotation et de la stratégie de finale."
+    }
   ],
   "cover_alt": "Vue d'ensemble du mur olympique d'escalade au Bourget pendant les JO Paris 2024, gradins remplis, deux grimpeurs en finale de difficulté, éclairage de stade en soirée",
   "internal_links": [
-    {"slug": "histoire-escalade-france-alpes-salle", "anchor": "histoire de l'escalade en France", "context": "pilier culture"},
-    {"slug": "films-escalade-meilleurs", "anchor": "meilleurs films sur la grimpe", "context": "complément culturel"},
-    {"slug": "histoire-bleau-bloc", "anchor": "histoire du bloc à Fontainebleau", "context": "patrimoine français"},
-    {"slug": "grimpeurs-grimpeuses-histoire-france", "anchor": "grands noms de la grimpe française", "context": "athlètes historiques"},
-    {"slug": "adam-ondra-9c-silence", "anchor": "Adam Ondra et le 9c Silence", "context": "haut niveau mondial"}
+    {
+      "slug": "histoire-escalade-france-alpes-salle",
+      "anchor": "histoire de l'escalade en France",
+      "context": "pilier culture"
+    },
+    {
+      "slug": "films-escalade-meilleurs",
+      "anchor": "meilleurs films sur la grimpe",
+      "context": "complément culturel"
+    },
+    {
+      "slug": "histoire-bleau-bloc",
+      "anchor": "histoire du bloc à Fontainebleau",
+      "context": "patrimoine français"
+    },
+    {
+      "slug": "grimpeurs-grimpeuses-histoire-france",
+      "anchor": "grands noms de la grimpe française",
+      "context": "athlètes historiques"
+    },
+    {
+      "slug": "adam-ondra-9c-silence",
+      "anchor": "Adam Ondra et le 9c Silence",
+      "context": "haut niveau mondial"
+    }
   ],
   "scheduled_at": "2027-04-29T09:00:00+02:00"
 }

@@ -3,7 +3,7 @@
   "cocon": "sites",
   "type_article": "guide",
   "numero": 81,
-  "title": "Bleau : les circuits, comprendre les couleurs avant de partir",
+  "title": "Bleau, les circuits, comprendre les couleurs avant de partir",
   "h1": "Les circuits de Bleau, comprendre les couleurs",
   "description": "Comment marchent les circuits de Bleau, du jaune au blanc. Choisir sa couleur, lire les flèches et progresser sur le grès de Fontainebleau.",
   "chapo": "Les circuits de Bleau sont l'âme du site. Inventés dans les années 1940, ils relient des blocs par des flèches peintes, classés du jaune au blanc. Quand tu débarques, comprendre le code des couleurs te fait gagner des journées d'errance. Voici comment lire un circuit, choisir le bon niveau, et tirer profit de ce format unique au monde pour progresser à ton rythme.",
@@ -44,12 +44,30 @@
       "variant": "cards",
       "title": "Les couleurs et leurs niveaux",
       "items": [
-        {"title": "Jaune (PD)", "body": "Cotations 2 et 3, idéal pour les enfants ou la toute première sortie. Les blocs ne dépassent pas deux mètres."},
-        {"title": "Orange (AD)", "body": "Niveau 3 et 4. Premier vrai circuit, on commence à sentir le grès et à travailler les pieds."},
-        {"title": "Bleu (D)", "body": "Niveau 4 à 5+. Le cœur de cible des grimpeurs intermédiaires, le passage obligé."},
-        {"title": "Rouge (TD)", "body": "Niveau 5+ à 6A. Demande de la lecture, du physique et une bonne technique de pied."},
-        {"title": "Noir (ED)", "body": "Niveau 6A à 7A. Les classiques durs comme le noir du Bas Cuvier."},
-        {"title": "Blanc (ED+)", "body": "Au-delà du 7A. Réservé aux fortes, blocs engagés et souvent en hauteur."}
+        {
+          "title": "Jaune (PD)",
+          "body": "Cotations 2 et 3, idéal pour les enfants ou la toute première sortie. Les blocs ne dépassent pas deux mètres."
+        },
+        {
+          "title": "Orange (AD)",
+          "body": "Niveau 3 et 4. Premier vrai circuit, on commence à sentir le grès et à travailler les pieds."
+        },
+        {
+          "title": "Bleu (D)",
+          "body": "Niveau 4 à 5+. Le cœur de cible des grimpeurs intermédiaires, le passage obligé."
+        },
+        {
+          "title": "Rouge (TD)",
+          "body": "Niveau 5+ à 6A. Demande de la lecture, du physique et une bonne technique de pied."
+        },
+        {
+          "title": "Noir (ED)",
+          "body": "Niveau 6A à 7A. Les classiques durs comme le noir du Bas Cuvier."
+        },
+        {
+          "title": "Blanc (ED+)",
+          "body": "Au-delà du 7A. Réservé aux fortes, blocs engagés et souvent en hauteur."
+        }
       ]
     },
     {
@@ -71,14 +89,35 @@
     {
       "type": "table",
       "caption": "Fiche d'identité d'un circuit type",
-      "headers": ["Élément", "Détail"],
+      "headers": [
+        "Élément",
+        "Détail"
+      ],
       "rows": [
-        ["Nombre de blocs", "30 à 50 selon les circuits"],
-        ["Durée moyenne", "2 à 4 heures avec récupération"],
-        ["Dénivelé d'approche", "Souvent moins de 30 mètres, accès facile"],
-        ["Marquage", "Peinture acrylique tenue par l'ASOMIF et les bénévoles"],
-        ["Cotation moyenne", "Homogène à 70%, quelques blocs plus durs servent de difficultés"],
-        ["Repérage", "Application Boolder, topo Bart van Raaij, Bleau.info"]
+        [
+          "Nombre de blocs",
+          "30 à 50 selon les circuits"
+        ],
+        [
+          "Durée moyenne",
+          "2 à 4 heures avec récupération"
+        ],
+        [
+          "Dénivelé d'approche",
+          "Souvent moins de 30 mètres, accès facile"
+        ],
+        [
+          "Marquage",
+          "Peinture acrylique tenue par l'ASOMIF et les bénévoles"
+        ],
+        [
+          "Cotation moyenne",
+          "Homogène à 70%, quelques blocs plus durs servent de difficultés"
+        ],
+        [
+          "Repérage",
+          "Application Boolder, topo Bart van Raaij, Bleau.info"
+        ]
       ]
     },
     {
@@ -176,10 +215,26 @@
   ],
   "cover_alt": "Flèche bleue peinte sur un bloc de grès indiquant le départ d'un circuit à Fontainebleau",
   "internal_links": [
-    {"slug": "fontainebleau-bloc-foret", "anchor": "Fontainebleau, capitale mondiale du bloc", "context": "Article parent sur le site"},
-    {"slug": "bleau-secteurs-incontournables", "anchor": "secteurs incontournables de Bleau", "context": "Détails secteur par secteur"},
-    {"slug": "sites-escalade-emblematiques-france", "anchor": "tour des sites emblématiques de France", "context": "Pilier du cocon"},
-    {"slug": "verdon-grandes-voies", "anchor": "grandes voies du Verdon", "context": "Comparaison avec un autre site mythique"}
+    {
+      "slug": "fontainebleau-bloc-foret",
+      "anchor": "Fontainebleau, capitale mondiale du bloc",
+      "context": "Article parent sur le site"
+    },
+    {
+      "slug": "bleau-secteurs-incontournables",
+      "anchor": "secteurs incontournables de Bleau",
+      "context": "Détails secteur par secteur"
+    },
+    {
+      "slug": "sites-escalade-emblematiques-france",
+      "anchor": "tour des sites emblématiques de France",
+      "context": "Pilier du cocon"
+    },
+    {
+      "slug": "verdon-grandes-voies",
+      "anchor": "grandes voies du Verdon",
+      "context": "Comparaison avec un autre site mythique"
+    }
   ],
   "scheduled_at": "2026-11-07T09:00:00+01:00"
 }

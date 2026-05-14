@@ -3,7 +3,7 @@
   "cocon": "materiel",
   "type_article": "liste",
   "numero": 59,
-  "title": "Checklist matériel grande voie : ce qu'il faut emporter",
+  "title": "Checklist matériel grande voie, ce qu'il faut emporter",
   "h1": "Checklist matériel grande voie, l'inventaire complet à cocher",
   "description": "Inventaire détaillé du matériel grande voie : corde, dégaines, sangles, relais, secours, alimentation. Poids du sac et organisation pratique.",
   "chapo": "Une grande voie réussie commence par un sac bien préparé. Trop léger et tu manques l'essentiel, trop chargé et tu peines avant la première longueur. Cette checklist couvre les six grandes catégories d'équipement à cocher avant de quitter le parking, avec les poids indicatifs, les choix de matériel selon la durée et le niveau d'engagement de la course.",
@@ -100,7 +100,7 @@
     },
     {
       "type": "p",
-      "html": "Le poids total du <a href=\"/blog/materiel-escalade-essentiel\">matériel</a> technique d'une cordée tourne autour de 8 kg. Le partage classique entre les deux grimpeurs distingue le matériel d'usage individuel (baudrier, chaussons, casque, magnésie) du matériel commun à répartir."
+      "html": "Le poids total du matériel technique d'une cordée tourne autour de 8 kg. Le partage classique entre les deux grimpeurs distingue le matériel d'usage individuel (baudrier, chaussons, casque, magnésie) du matériel commun à répartir."
     },
     {
       "type": "table",
@@ -149,7 +149,7 @@
     },
     {
       "type": "p",
-      "html": "La vérification finale se fait debout, sac ouvert, à deux, avant de s'encorder. Tu cites les éléments à voix haute, ton partenaire confirme la présence. Cette vérification croisée évite les oublis classiques : casque resté à la maison, longe au fond du sac de transport, <a href=\"/blog/gants-assurage-escalade\">gants</a> oubliés en voiture, batterie de téléphone à 15%. Un check d'une minute évite parfois la galère qui ruine la journée."
+      "html": "La vérification finale se fait debout, sac ouvert, à deux, avant de s'encorder. Tu cites les éléments à voix haute, ton partenaire confirme la présence. Cette vérification croisée évite les oublis classiques : casque resté à la maison, longe au fond du sac de transport, gants oubliés en voiture, batterie de téléphone à 15%. Un check d'une minute évite parfois la galère qui ruine la journée."
     },
     {
       "type": "tip",
@@ -163,7 +163,7 @@
     },
     {
       "type": "p",
-      "html": "Une grande voie sportive équipée au Verdon n'a pas les mêmes contraintes qu'une voie alpine en Oisans. La checklist générique doit s'ajuster au contexte. En voie sportive bien équipée, tu peux alléger sur les <a href=\"/blog/sangles-anneaux-cousus-usage\">sangles</a> longues et les cordelettes de mouflage. En voie alpine ou semi-équipée, tu charges davantage en sangles, en friends d'appoint, et en système de réchappe."
+      "html": "Une grande voie sportive équipée au Verdon n'a pas les mêmes contraintes qu'une voie alpine en Oisans. La checklist générique doit s'ajuster au contexte. En voie sportive bien équipée, tu peux alléger sur les sangles longues et les cordelettes de mouflage. En voie alpine ou semi-équipée, tu charges davantage en sangles, en friends d'appoint, et en système de réchappe."
     },
     {
       "type": "p",

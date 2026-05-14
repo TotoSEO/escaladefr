@@ -3,7 +3,7 @@
   "cocon": "materiel",
   "type_article": "guide",
   "numero": 46,
-  "title": "Corde d'escalade : bien choisir longueur, diamètre, traitement",
+  "title": "Corde d'escalade, bien choisir longueur, diamètre, traitement",
   "h1": "Bien choisir sa corde d'escalade en 2026",
   "description": "Diamètre, longueur, traitement Everdry, charge de rupture : tous les critères pour choisir une corde d'escalade fiable selon ta pratique sport ou trad.",
   "chapo": "Une corde, c'est ce qui te retient quand tu lâches une prise. Le choix du diamètre, de la longueur et du traitement change tout selon ta pratique. Je détaille ici les critères techniques, les modèles que j'utilise, et les pièges classiques quand tu achètes ta première corde dynamique.",
@@ -15,59 +15,230 @@
     "La corde se réforme après une grosse chute, une chute de caillou ou dix ans de date."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Diamètre : 8.7, 9.5 ou 10 mm, lequel pour toi"},
-    {"type": "p", "html": "Le diamètre conditionne le poids, la durabilité et la compatibilité avec ton système d'assurage. Une corde 9.5 mm reste la référence polyvalente, validée par tous les <strong>Grigri Plus, Reverso 4 et Atc-XP</strong> du marché. Au-dessous de 9 mm, tu gagnes en poids mais tu sacrifies la durée de vie. Au-dessus de 10 mm, tu prends de la robustesse mais tu manges du tirage et de l'énergie au mètre."},
-    {"type": "p", "html": "Quand j'ai commencé au lycée Camille Sée à Colmar, j'ai grimpé deux ans avec une corde 10.2 mm achetée d'occasion. Solide, oui. Lourde, terriblement. Aujourd'hui je tourne sur une <strong>Beal Joker 9.1 mm</strong> pour le sport et une Edelrid Boa 9.8 mm pour la grande voie. Le choix dépend du nombre de jours sur la corde, pas du niveau."},
-    {"type": "h2", "text": "Longueur : 60, 70 ou 80 mètres"},
-    {"type": "p", "html": "Le 70 m couvre la grande majorité des falaises françaises. Quelques sites comme le Verdon, Céüse ou certains spots du Vercors imposent une corde 80 m, sinon tu ne touches pas le sol au rappel. Le 60 m suffit en salle et sur les petits crags de Bourgogne ou des Vosges. Avant l'achat, regarde toujours la hauteur du relais maxi dans le topo de ton secteur."},
-    {"type": "p", "html": "Je conseille systématiquement un 70 m pour démarrer la falaise. Tu auras moins de mauvaises surprises et tu peux toujours raccourcir si tu uses une extrémité. Pense à marquer le milieu de corde au feutre indélébile spécifique, ou avec le système Beal Bicolor qui change la couleur du gainage à mi-longueur."},
-    {"type": "h2", "text": "Type : simple, double ou jumelée"},
-    {"type": "p", "html": "Trois types de cordes existent, marqués sur l'étiquette d'extrémité. La corde simple, indiquée par un cercle marqué 1, s'utilise seule en sport et en grande voie facile. La corde à double, marquée 1/2, s'utilise par paires en grande voie pour clipper alternativement. La corde jumelée, marquée infini, s'utilise par paires clippées ensemble. Tu trouveras le détail dans <a href=\"/blog/types-cordes-simple-double-jumeleee\">les types de cordes simple, double, jumelée</a>."},
-    {"type": "p", "html": "Pour le sport pur, vise une corde simple 9.5 à 9.8 mm. Pour la grande voie alpine ou les voies à itinéraire sinueux, deux cordes à double 8.5 à 8.7 mm offrent plus de sécurité et limitent le tirage. Les cordes jumelées restent un choix de niche pour les cascades de glace et l'alpinisme léger."},
-    {"type": "h2", "text": "Traitement Everdry, Duotec ou rien"},
-    {"type": "p", "html": "Le traitement hydrophobe ralentit l'absorption d'eau et la pénétration de poussière dans l'âme. <strong>Mammut Coating Finish, Beal Golden Dry, Edelrid Pro Shield, Petzl Everdry</strong> proposent leur version. Sur une falaise sèche et propre, un traitement reste un confort. Sur cascade de glace, alpinisme ou falaise humide, il devient indispensable."},
-    {"type": "p", "html": "Comptez 30 à 50 euros de différence entre une corde traitée et une non traitée. Pour une corde de salle, le traitement est superflu. Pour une corde qui dort dans la voiture, marche dans la rosée et passe sous des suintements, le traitement double pratiquement la durée de vie utile."},
-    {"type": "list", "variant": "cards", "title": "Trois usages, trois choix de corde", "items": [
-      {"title": "Salle uniquement", "body": "9.8 à 10 mm, 40 à 50 m, sans traitement. Beal Top Gun II, Edelrid Tower ou Mammut Tusk. Compte 130 à 170 euros."},
-      {"title": "Sport polyvalent", "body": "9.4 à 9.6 mm, 70 m, traitement Everdry. Beal Stinger III, Mammut Crag We Care ou Petzl Mambo. Budget 180 à 250 euros."},
-      {"title": "Grande voie alpine", "body": "Deux cordes à double 8.5 mm 60 m, Beal Cobra II ou Edelrid Apus Pro Dry. Compte 350 à 450 euros la paire."}
-    ]},
-    {"type": "h2", "text": "Chiffres techniques : facteur de chute, allongement, charge"},
-    {"type": "p", "html": "Sur l'étiquette d'extrémité, tu trouves plusieurs chiffres normés <strong>EN 892</strong>. La force de choc indique la force transmise au grimpeur lors d'une chute facteur 1.77. Plus elle est basse, mieux c'est, vise sous 9 kN. Le nombre de chutes UIAA indique combien de chutes facteur 1.77 la corde encaisse avant rupture. Une corde sport tient 5 à 8 chutes UIAA. L'allongement statique mesure l'élasticité à 80 kg, en dessous de 10 % pour la simple."},
-    {"type": "p", "html": "Une force de choc sous 8 kN te ménage les vertèbres en cas de gros vol. Un nombre de chutes UIAA élevé garantit une marge de sécurité supérieure. Les cordes haut de gamme comme la <strong>Beal Joker 9.1 mm Triple Norm</strong> affichent 5 chutes UIAA en simple, 17 en double et 25 en jumelée. Polyvalence absolue, à condition d'accepter un diamètre fin qui s'use vite."},
-    {"type": "table", "caption": "Comparatif cordes sport 70 m polyvalentes 2026", "headers": ["Modèle", "Diamètre", "Poids", "Force choc", "Prix"], "rows": [
-      ["Beal Stinger III", "9.4 mm", "57 g/m", "8.2 kN", "220 €"],
-      ["Mammut Crag We Care", "9.5 mm", "59 g/m", "8.8 kN", "210 €"],
-      ["Edelrid Boa", "9.8 mm", "62 g/m", "9.2 kN", "190 €"],
-      ["Petzl Mambo", "10.1 mm", "65 g/m", "8.6 kN", "180 €"],
-      ["Beal Joker", "9.1 mm", "53 g/m", "7.9 kN", "260 €"]
-    ]},
-    {"type": "h2", "text": "Marques fiables et modèles que j'utilise"},
-    {"type": "p", "html": "Le marché français est dominé par <strong>Beal, Mammut, Edelrid, Petzl, Sterling, Tendon</strong>. J'ai grimpé sur les cinq premières et toutes tiennent la route. Beal reste mon préféré pour la qualité du gainage Unicore qui empêche la séparation entre l'âme et la gaine en cas d'entaille. Mammut offre des coloris très visibles, utile pour repérer ton brin dans une grande voie à deux cordes."},
-    {"type": "p", "html": "Je déconseille les marques inconnues vendues sur Amazon ou AliExpress. Une corde, c'est ta vie. Le surcoût de 30 euros entre une marque reconnue et une marque obscure ne se discute pas. Vérifie systématiquement la norme EN 892 imprimée sur l'étiquette d'extrémité, et la date de fabrication. Une corde qui dort dans un entrepôt depuis trois ans avant l'achat a déjà perdu 30 % de sa durée de vie potentielle."},
-    {"type": "quote", "text": "Une corde, ça ne s'achète pas comme un t-shirt. Tu confies ta sécurité à ce bout de polyamide, alors prends celui que tu comprends.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
-    {"type": "h2", "text": "Durée de vie et entretien : faire durer la corde"},
-    {"type": "p", "html": "Une corde dynamique tient officiellement 10 ans à partir de la date de fabrication. En usage régulier deux fois par semaine, compte 3 à 5 ans d'usage réel. Une grosse chute facteur supérieur à 1, une chute de caillou ou un passage sur une arête saillante imposent la réforme immédiate. Inspecte avant chaque sortie en faisant glisser la corde entre les mains. Tu cherches des bosses, des zones molles, des entailles."},
-    {"type": "p", "html": "L'entretien régulier double la durée de vie utile. Lave la corde une à deux fois par an dans une baignoire d'eau tiède avec un savon doux comme le Beal Rope Cleaner. Le détail des bonnes pratiques figure dans <a href=\"/blog/entretien-corde-lavage-rangement\">l'entretien et le rangement de la corde</a>. Stocke ta corde lovée dans un sac à corde dédié, à l'abri des UV et de l'humidité."},
-    {"type": "tip", "title": "Marque la date d'achat", "body": "Inscris au feutre indélébile la date d'achat sur l'étiquette d'extrémité dès l'ouverture. Tu sauras toujours quand réformer, et tu documentes l'historique en cas de problème.", "tone": "astuce"},
-    {"type": "h2", "text": "Erreurs classiques à éviter"},
-    {"type": "p", "html": "Beaucoup de débutants achètent une corde trop fine pour leur niveau d'expérience, sur conseil d'un copain qui grimpe en 7c. Une corde 8.7 mm demande un assurage parfait, un Grigri en mode dégagé n'est pas adapté. Reste sur du 9.5 mm pour tes 200 premières voies, tu y gagneras en sérénité et en marge d'erreur. Évite aussi les cordes statiques vendues comme semi-statiques en grande surface, elles ne se distinguent pas au toucher mais ne tolèrent aucune chute."},
-    {"type": "p", "html": "Pour aller plus loin, regarde aussi <a href=\"/blog/materiel-escalade-essentiel\">le matériel d'escalade essentiel</a> et <a href=\"/blog/systeme-assurage-comparatif\">le comparatif des systèmes d'assurage</a> pour comprendre comment ta corde interagit avec ton frein."}
+    {
+      "type": "h2",
+      "text": "Diamètre : 8.7, 9.5 ou 10 mm, lequel pour toi"
+    },
+    {
+      "type": "p",
+      "html": "Le diamètre conditionne le poids, la durabilité et la compatibilité avec ton système d'assurage. Une corde 9.5 mm reste la référence polyvalente, validée par tous les <strong>Grigri Plus, Reverso 4 et Atc-XP</strong> du marché. Au-dessous de 9 mm, tu gagnes en poids mais tu sacrifies la durée de vie. Au-dessus de 10 mm, tu prends de la robustesse mais tu manges du tirage et de l'énergie au mètre."
+    },
+    {
+      "type": "p",
+      "html": "Quand j'ai commencé au lycée Camille Sée à Colmar, j'ai grimpé deux ans avec une corde 10.2 mm achetée d'occasion. Solide, oui. Lourde, terriblement. Aujourd'hui je tourne sur une <strong>Beal Joker 9.1 mm</strong> pour le sport et une Edelrid Boa 9.8 mm pour la grande voie. Le choix dépend du nombre de jours sur la corde, pas du niveau."
+    },
+    {
+      "type": "h2",
+      "text": "Longueur : 60, 70 ou 80 mètres"
+    },
+    {
+      "type": "p",
+      "html": "Le 70 m couvre la grande majorité des falaises françaises. Quelques sites comme le Verdon, Céüse ou certains spots du Vercors imposent une corde 80 m, sinon tu ne touches pas le sol au rappel. Le 60 m suffit en salle et sur les petits crags de Bourgogne ou des Vosges. Avant l'achat, regarde toujours la hauteur du relais maxi dans le topo de ton secteur."
+    },
+    {
+      "type": "p",
+      "html": "Je conseille systématiquement un 70 m pour démarrer la falaise. Tu auras moins de mauvaises surprises et tu peux toujours raccourcir si tu uses une extrémité. Pense à marquer le milieu de corde au feutre indélébile spécifique, ou avec le système Beal Bicolor qui change la couleur du gainage à mi-longueur."
+    },
+    {
+      "type": "h2",
+      "text": "Type : simple, double ou jumelée"
+    },
+    {
+      "type": "p",
+      "html": "Trois types de cordes existent, marqués sur l'étiquette d'extrémité. La corde simple, indiquée par un cercle marqué 1, s'utilise seule en sport et en grande voie facile. La corde à double, marquée 1/2, s'utilise par paires en grande voie pour clipper alternativement. La corde jumelée, marquée infini, s'utilise par paires clippées ensemble. Tu trouveras le détail dans <a href=\"/blog/types-cordes-simple-double-jumeleee\">les types de cordes simple, double, jumelée</a>."
+    },
+    {
+      "type": "p",
+      "html": "Pour le sport pur, vise une corde simple 9.5 à 9.8 mm. Pour la grande voie alpine ou les voies à itinéraire sinueux, deux cordes à double 8.5 à 8.7 mm offrent plus de sécurité et limitent le tirage. Les cordes jumelées restent un choix de niche pour les cascades de glace et l'alpinisme léger."
+    },
+    {
+      "type": "h2",
+      "text": "Traitement Everdry, Duotec ou rien"
+    },
+    {
+      "type": "p",
+      "html": "Le traitement hydrophobe ralentit l'absorption d'eau et la pénétration de poussière dans l'âme. <strong>Mammut Coating Finish, Beal Golden Dry, Edelrid Pro Shield, Petzl Everdry</strong> proposent leur version. Sur une falaise sèche et propre, un traitement reste un confort. Sur cascade de glace, alpinisme ou falaise humide, il devient indispensable."
+    },
+    {
+      "type": "p",
+      "html": "Comptez 30 à 50 euros de différence entre une corde traitée et une non traitée. Pour une corde de salle, le traitement est superflu. Pour une corde qui dort dans la voiture, marche dans la rosée et passe sous des suintements, le traitement double pratiquement la durée de vie utile."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Trois usages, trois choix de corde",
+      "items": [
+        {
+          "title": "Salle uniquement",
+          "body": "9.8 à 10 mm, 40 à 50 m, sans traitement. Beal Top Gun II, Edelrid Tower ou Mammut Tusk. Compte 130 à 170 euros."
+        },
+        {
+          "title": "Sport polyvalent",
+          "body": "9.4 à 9.6 mm, 70 m, traitement Everdry. Beal Stinger III, Mammut Crag We Care ou Petzl Mambo. Budget 180 à 250 euros."
+        },
+        {
+          "title": "Grande voie alpine",
+          "body": "Deux cordes à double 8.5 mm 60 m, Beal Cobra II ou Edelrid Apus Pro Dry. Compte 350 à 450 euros la paire."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Chiffres techniques : facteur de chute, allongement, charge"
+    },
+    {
+      "type": "p",
+      "html": "Sur l'étiquette d'extrémité, tu trouves plusieurs chiffres normés <strong>EN 892</strong>. La force de choc indique la force transmise au grimpeur lors d'une chute facteur 1.77. Plus elle est basse, mieux c'est, vise sous 9 kN. Le nombre de chutes UIAA indique combien de chutes facteur 1.77 la corde encaisse avant rupture. Une corde sport tient 5 à 8 chutes UIAA. L'allongement statique mesure l'élasticité à 80 kg, en dessous de 10 % pour la simple."
+    },
+    {
+      "type": "p",
+      "html": "Une force de choc sous 8 kN te ménage les vertèbres en cas de gros vol. Un nombre de chutes UIAA élevé garantit une marge de sécurité supérieure. Les cordes haut de gamme comme la <strong>Beal Joker 9.1 mm Triple Norm</strong> affichent 5 chutes UIAA en simple, 17 en double et 25 en jumelée. Polyvalence absolue, à condition d'accepter un diamètre fin qui s'use vite."
+    },
+    {
+      "type": "table",
+      "caption": "Comparatif cordes sport 70 m polyvalentes 2026",
+      "headers": [
+        "Modèle",
+        "Diamètre",
+        "Poids",
+        "Force choc",
+        "Prix"
+      ],
+      "rows": [
+        [
+          "Beal Stinger III",
+          "9.4 mm",
+          "57 g/m",
+          "8.2 kN",
+          "220 €"
+        ],
+        [
+          "Mammut Crag We Care",
+          "9.5 mm",
+          "59 g/m",
+          "8.8 kN",
+          "210 €"
+        ],
+        [
+          "Edelrid Boa",
+          "9.8 mm",
+          "62 g/m",
+          "9.2 kN",
+          "190 €"
+        ],
+        [
+          "Petzl Mambo",
+          "10.1 mm",
+          "65 g/m",
+          "8.6 kN",
+          "180 €"
+        ],
+        [
+          "Beal Joker",
+          "9.1 mm",
+          "53 g/m",
+          "7.9 kN",
+          "260 €"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Marques fiables et modèles que j'utilise"
+    },
+    {
+      "type": "p",
+      "html": "Le marché français est dominé par <strong>Beal, Mammut, Edelrid, Petzl, Sterling, Tendon</strong>. J'ai grimpé sur les cinq premières et toutes tiennent la route. Beal reste mon préféré pour la qualité du gainage Unicore qui empêche la séparation entre l'âme et la gaine en cas d'entaille. Mammut offre des coloris très visibles, utile pour repérer ton brin dans une grande voie à deux cordes."
+    },
+    {
+      "type": "p",
+      "html": "Je déconseille les marques inconnues vendues sur Amazon ou AliExpress. Une corde, c'est ta vie. Le surcoût de 30 euros entre une marque reconnue et une marque obscure ne se discute pas. Vérifie systématiquement la norme EN 892 imprimée sur l'étiquette d'extrémité, et la date de fabrication. Une corde qui dort dans un entrepôt depuis trois ans avant l'achat a déjà perdu 30 % de sa durée de vie potentielle."
+    },
+    {
+      "type": "quote",
+      "text": "Une corde, ça ne s'achète pas comme un t-shirt. Tu confies ta sécurité à ce bout de polyamide, alors prends celui que tu comprends.",
+      "author": "Antoine",
+      "role": "Rédacteur escalade-france.fr"
+    },
+    {
+      "type": "h2",
+      "text": "Durée de vie et entretien : faire durer la corde"
+    },
+    {
+      "type": "p",
+      "html": "Une corde dynamique tient officiellement 10 ans à partir de la date de fabrication. En usage régulier deux fois par semaine, compte 3 à 5 ans d'usage réel. Une grosse chute facteur supérieur à 1, une chute de caillou ou un passage sur une arête saillante imposent la réforme immédiate. Inspecte avant chaque sortie en faisant glisser la corde entre les mains. Tu cherches des bosses, des zones molles, des entailles."
+    },
+    {
+      "type": "p",
+      "html": "L'entretien régulier double la durée de vie utile. Lave la corde une à deux fois par an dans une baignoire d'eau tiède avec un savon doux comme le Beal Rope Cleaner. Le détail des bonnes pratiques figure dans <a href=\"/blog/entretien-corde-lavage-rangement\">l'entretien et le rangement de la corde</a>. Stocke ta corde lovée dans un sac à corde dédié, à l'abri des UV et de l'humidité."
+    },
+    {
+      "type": "tip",
+      "title": "Marque la date d'achat",
+      "body": "Inscris au feutre indélébile la date d'achat sur l'étiquette d'extrémité dès l'ouverture. Tu sauras toujours quand réformer, et tu documentes l'historique en cas de problème.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Erreurs classiques à éviter"
+    },
+    {
+      "type": "p",
+      "html": "Beaucoup de débutants achètent une corde trop fine pour leur niveau d'expérience, sur conseil d'un copain qui grimpe en 7c. Une corde 8.7 mm demande un assurage parfait, un Grigri en mode dégagé n'est pas adapté. Reste sur du 9.5 mm pour tes 200 premières voies, tu y gagneras en sérénité et en marge d'erreur. Évite aussi les cordes statiques vendues comme semi-statiques en grande surface, elles ne se distinguent pas au toucher mais ne tolèrent aucune chute."
+    },
+    {
+      "type": "p",
+      "html": "Pour aller plus loin, regarde aussi <a href=\"/blog/materiel-escalade-essentiel\">le matériel d'escalade essentiel</a> et <a href=\"/blog/systeme-assurage-comparatif\">le comparatif des systèmes d'assurage</a> pour comprendre comment ta corde interagit avec ton frein."
+    }
   ],
   "faq": [
-    {"q": "Quelle longueur de corde choisir pour la falaise sport ?", "a": "Le 70 m couvre la majorité des falaises françaises. Quelques sites comme le Verdon ou Céüse imposent un 80 m. Le 60 m suffit pour la salle et les petits crags. Avant l'achat, vérifie toujours la longueur maxi des voies dans ton topo de référence."},
-    {"q": "Combien d'années une corde tient ?", "a": "Officiellement 10 ans à partir de la date de fabrication. En usage régulier, compte 3 à 5 ans avant réforme. Une grosse chute facteur supérieur à 1, une entaille profonde ou une zone molle imposent la réforme immédiate, indépendamment de l'âge."},
-    {"q": "Est-ce que je peux utiliser un Grigri avec une corde 8.7 mm ?", "a": "Non, le Grigri Plus accepte les cordes de 8.5 à 11 mm mais fonctionne optimalement sur 9.5 à 11 mm. Sous 9 mm, le freinage devient moins efficace et le risque de glissement augmente. Pour le brin fin, préfère un Reverso 4 en mode plaquette ou un Edelrid Mega Jul."},
-    {"q": "Faut-il un traitement Everdry pour une corde sport ?", "a": "Pas indispensable si tu grimpes uniquement en falaise sèche. Si tu pratiques en montagne, sur cascade ou sur sites humides, le traitement double pratiquement la durée de vie utile. Compte 30 à 50 euros de différence pour une protection sérieuse contre l'eau et la poussière."},
-    {"q": "Quelle différence entre corde simple, double et jumelée ?", "a": "La corde simple s'utilise seule en sport. La corde à double s'utilise par paires en grande voie pour clipper alternativement et limiter le tirage. La corde jumelée s'utilise par paires clippées ensemble, surtout en cascade de glace. Le marquage figure sur l'étiquette d'extrémité."},
-    {"q": "Comment savoir si une corde est encore utilisable ?", "a": "Inspecte sur toute la longueur en la faisant glisser entre les mains. Tu cherches des zones molles, des bosses dures, des entailles de gaine ou un effilochage. Toute corde ayant pris une chute violente facteur supérieur à 1 doit être réformée immédiatement, même sans dégât visible."}
+    {
+      "q": "Quelle longueur de corde choisir pour la falaise sport ?",
+      "a": "Le 70 m couvre la majorité des falaises françaises. Quelques sites comme le Verdon ou Céüse imposent un 80 m. Le 60 m suffit pour la salle et les petits crags. Avant l'achat, vérifie toujours la longueur maxi des voies dans ton topo de référence."
+    },
+    {
+      "q": "Combien d'années une corde tient ?",
+      "a": "Officiellement 10 ans à partir de la date de fabrication. En usage régulier, compte 3 à 5 ans avant réforme. Une grosse chute facteur supérieur à 1, une entaille profonde ou une zone molle imposent la réforme immédiate, indépendamment de l'âge."
+    },
+    {
+      "q": "Est-ce que je peux utiliser un Grigri avec une corde 8.7 mm ?",
+      "a": "Non, le Grigri Plus accepte les cordes de 8.5 à 11 mm mais fonctionne optimalement sur 9.5 à 11 mm. Sous 9 mm, le freinage devient moins efficace et le risque de glissement augmente. Pour le brin fin, préfère un Reverso 4 en mode plaquette ou un Edelrid Mega Jul."
+    },
+    {
+      "q": "Faut-il un traitement Everdry pour une corde sport ?",
+      "a": "Pas indispensable si tu grimpes uniquement en falaise sèche. Si tu pratiques en montagne, sur cascade ou sur sites humides, le traitement double pratiquement la durée de vie utile. Compte 30 à 50 euros de différence pour une protection sérieuse contre l'eau et la poussière."
+    },
+    {
+      "q": "Quelle différence entre corde simple, double et jumelée ?",
+      "a": "La corde simple s'utilise seule en sport. La corde à double s'utilise par paires en grande voie pour clipper alternativement et limiter le tirage. La corde jumelée s'utilise par paires clippées ensemble, surtout en cascade de glace. Le marquage figure sur l'étiquette d'extrémité."
+    },
+    {
+      "q": "Comment savoir si une corde est encore utilisable ?",
+      "a": "Inspecte sur toute la longueur en la faisant glisser entre les mains. Tu cherches des zones molles, des bosses dures, des entailles de gaine ou un effilochage. Toute corde ayant pris une chute violente facteur supérieur à 1 doit être réformée immédiatement, même sans dégât visible."
+    }
   ],
   "cover_alt": "Corde d'escalade Beal Stinger lovée au pied d'une falaise calcaire ensoleillée",
   "internal_links": [
-    {"slug": "types-cordes-simple-double-jumeleee", "anchor": "les types de cordes simple, double, jumelée", "context": "Distinction technique"},
-    {"slug": "entretien-corde-lavage-rangement", "anchor": "l'entretien et le rangement de la corde", "context": "Durée de vie"},
-    {"slug": "systeme-assurage-comparatif", "anchor": "le comparatif des systèmes d'assurage", "context": "Interaction frein corde"},
-    {"slug": "materiel-escalade-essentiel", "anchor": "le matériel d'escalade essentiel", "context": "Pilier matériel"}
+    {
+      "slug": "types-cordes-simple-double-jumeleee",
+      "anchor": "les types de cordes simple, double, jumelée",
+      "context": "Distinction technique"
+    },
+    {
+      "slug": "entretien-corde-lavage-rangement",
+      "anchor": "l'entretien et le rangement de la corde",
+      "context": "Durée de vie"
+    },
+    {
+      "slug": "systeme-assurage-comparatif",
+      "anchor": "le comparatif des systèmes d'assurage",
+      "context": "Interaction frein corde"
+    },
+    {
+      "slug": "materiel-escalade-essentiel",
+      "anchor": "le matériel d'escalade essentiel",
+      "context": "Pilier matériel"
+    }
   ],
   "scheduled_at": "2026-08-18T09:00:00+02:00"
 }
