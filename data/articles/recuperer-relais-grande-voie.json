@@ -46,7 +46,7 @@
         },
         {
           "title": "Crier securite",
-          "body": "Le compagnon t'enleve de l'assurage. La corde vous relie toujours, mais c'est lui qui gere le brin en bas."
+          "body": "Le compagnon t'enleve de l'assurage. Tu restes relie par la corde, mais c'est lui qui gere le brin en bas."
         },
         {
           "title": "Installer la reversee",
@@ -76,7 +76,7 @@
     },
     {
       "type": "p",
-      "html": "Une fois les deux au relais, vous etes en mode pose. C'est le moment de boire, manger, gerer la suite. Pas le moment de raconter une blague qui dure 10 minutes (sauf en mode tranquille sur une voie facile, ce qui reste legitime). Sur une grande voie engagee, chaque minute compte. La nuit ne pardonne pas, le froid non plus."
+      "html": "Une fois la cordee au relais, tu es en mode pose. C'est le moment de boire, manger, gerer la suite. Pas le moment de raconter une blague qui dure 10 minutes (sauf si la cordee est en mode tranquille, ce qui peut etre legitime sur une voie facile). Sur une grande voie engagee, chaque minute compte. La nuit ne pardonne pas, le froid non plus."
     },
     {
       "type": "h2",
@@ -194,7 +194,7 @@
   "faq": [
     {
       "q": "Combien de temps doit durer un relais ?",
-      "a": "Compte 8 a 15 minutes en general, 5 minutes si tu es presse ou en voie facile, 20 minutes au max si la cordee mange vraiment. Au-dela, tu perds du temps utile. Reduis par exercice systematique. Un relais qui dure 25 minutes, c'est 2 heures cumulees sur 6 longueurs, soit une perte enorme."
+      "a": "Compte 8 a 15 minutes en general, 5 minutes si tu es presse ou en voie facile, 20 minutes au max si tu manges vraiment. Au-dela, tu perds du temps utile. Reduis par exercice systematique. Un relais qui dure 25 minutes, c'est 2 heures cumulees sur 6 longueurs, soit une perte enorme."
     },
     {
       "q": "Faut-il vraiment se detacher au relais ?",
