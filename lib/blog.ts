@@ -3,6 +3,9 @@
  * Stocke les articles avec body_blocks JSON (rich content typé).
  */
 
+import fs from "node:fs";
+import path from "node:path";
+
 import { getSupabase } from "@/lib/supabase";
 
 export type Cocon =
@@ -145,7 +148,69 @@ export async function fetchArticleBySlug(
     .lte("published_at", new Date().toISOString())
     .maybeSingle();
   if (error || !data) return null;
-  return data as BlogArticle;
+
+  const article = data as BlogArticle;
+
+  // Liens internes auto-résolus : <a href='/blog/<slug>'> n'est conservé
+  // que si la cible est elle-même publiée. Sinon le lien est réduit à son
+  // texte d'ancre seul (évite les 404 sur les articles publiés en avance
+  // dans le calendrier).
+  const publishedSet = await fetchPublishedSlugsSet();
+  article.body_blocks = resolveInternalLinks(article.body_blocks, publishedSet);
+
+  // Cover fallback : si l'image définitive n'est pas encore générée
+  // (job background gpt-image-2 toujours en cours), on sert un placeholder
+  // brand. Dès que le fichier final apparaît au même chemin /blog/<slug>.webp,
+  // il remplace automatiquement le placeholder au prochain build.
+  article.cover_image = resolveCoverImage(article.cover_image, slug);
+
+  return article;
+}
+
+const PLACEHOLDER_COVER = "/blog/_placeholder.webp";
+let _coverCache: Set<string> | null = null;
+
+function listAvailableCovers(): Set<string> {
+  if (_coverCache !== null) return _coverCache;
+  try {
+    const dir = path.join(process.cwd(), "public", "blog");
+    const files = fs.readdirSync(dir);
+    _coverCache = new Set(files.filter((f) => f.endsWith(".webp")));
+  } catch {
+    _coverCache = new Set();
+  }
+  return _coverCache;
+}
+
+export function resolveCoverImage(declared: string, slug: string): string {
+  if (typeof window !== "undefined") return declared; // côté client : trust DB
+  const filename = `${slug}.webp`;
+  const covers = listAvailableCovers();
+  if (covers.has(filename)) return declared;
+  return PLACEHOLDER_COVER;
+}
+
+async function fetchPublishedSlugsSet(): Promise<Set<string>> {
+  const slugs = await fetchArticleSlugs();
+  return new Set(slugs.map((s) => s.slug));
+}
+
+function resolveInternalLinks(
+  blocks: BlogBlock[],
+  publishedSlugs: Set<string>,
+): BlogBlock[] {
+  return blocks.map((b) => {
+    if (b.type !== "p" || !b.html) return b;
+    const fixed = b.html.replace(
+      /<a\s+href="\/blog\/([^"]+)"[^>]*>([^<]+)<\/a>/g,
+      (_m, targetSlug: string, anchor: string) => {
+        return publishedSlugs.has(targetSlug)
+          ? `<a href="/blog/${targetSlug}">${anchor}</a>`
+          : anchor;
+      },
+    );
+    return { ...b, html: fixed };
+  });
 }
 
 export async function fetchArticleSlugs(): Promise<{ slug: string; updated_at: string }[]> {
@@ -213,6 +278,40 @@ export function cocronTo(c: Cocon): { label: string; slug: string } {
 export function articleHref(slug: string): string {
   return `/blog/${slug}`;
 }
+
+export function coconHref(c: Cocon): string {
+  return `/blog/cocon/${COCON_SLUG[c]}`;
+}
+
+/** Trouve le cocon depuis son slug d'URL (inverse de COCON_SLUG). */
+export function coconFromSlug(slug: string): Cocon | null {
+  for (const [k, v] of Object.entries(COCON_SLUG)) {
+    if (v === slug) return k as Cocon;
+  }
+  return null;
+}
+
+/** Description SEO de chaque cocon, utilisée sur la page d'index dédiée. */
+export const COCON_DESCRIPTION: Record<Cocon, string> = {
+  techniques:
+    "Tout pour progresser en escalade : techniques de pied, lecture de voie, dyno, crochets de talon, gestion du dévers, mental, transition salle vers falaise.",
+  materiel:
+    "Chaussons, baudriers, cordes, casques, dégaines, systèmes d'assurage : panorama complet du matériel d'escalade en 2026, avec tests et entretien.",
+  noeuds:
+    "Les nœuds essentiels en escalade : huit, cabestan, demi-cabestan, prussik, machard, jonctions de rappel et auto-bloquants en grande voie.",
+  sites:
+    "Les sites d'escalade emblématiques de France : Verdon, Céüse, Bleau, Calanques, Sainte-Victoire, Buoux, Annot, Corse et confidentiels.",
+  personnalites:
+    "Portraits des grimpeurs et grimpeuses qui ont marqué l'histoire de l'escalade : Edlinger, Destivelle, Ondra, Garnbret, Honnold, Messner et autres.",
+  preparation:
+    "Préparation physique et mentale du grimpeur : musculation, hangboard, gainage, endurance, étirements, alimentation, sommeil, gestion du stress.",
+  securite:
+    "Sécurité en escalade : triple vérification, gestion de la chute, facteurs de chute, premiers secours, alerte des secours, hélitreuillage, météo.",
+  environnement:
+    "Grimper en respectant les sites : nidification, arrêtés préfectoraux, conventions départementales, parcs nationaux, magnésie, rocher fragile.",
+  culture:
+    "Histoire et culture de l'escalade : JO de Paris 2024, Fontainebleau, vie des grimpeurs pros, films cultes, livres de référence.",
+};
 
 const FR_MONTH_FULL = [
   "janvier", "février", "mars", "avril", "mai", "juin",

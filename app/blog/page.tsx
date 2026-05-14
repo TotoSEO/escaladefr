@@ -1,11 +1,14 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
+import { ArrowUpRight } from "lucide-react";
 
 import { PageShell, PageHeader } from "@/components/page-shell";
 import {
   COCON_LABEL,
+  COCON_SLUG,
   articleHref,
+  coconHref,
   fetchPublishedArticles,
   formatPublishedDate,
   readingTimeMinutes,
@@ -81,7 +84,37 @@ export default async function BlogPage() {
         subtitle="Techniques de grimpe, tests matériel, profils, sites mythiques, nœuds et sécurité. Trois articles par semaine, sourcés et originaux, écrits par notre rédaction qui grimpe vraiment."
       />
 
+      {/* Navigation par cocons (silo SEO) */}
+      <section className="relative surface-2 text-foreground">
+        <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
+        <div className="mx-auto max-w-7xl px-5 py-12 sm:px-8 sm:py-16 lg:px-12">
+          <div className="mb-8 flex items-baseline justify-between gap-4">
+            <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+              § Navigation par thématique
+            </span>
+            <span className="font-mono text-[11px] uppercase tracking-[0.22em] text-muted-foreground">
+              9 cocons
+            </span>
+          </div>
+          <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 sm:gap-4 lg:grid-cols-3">
+            {(Object.keys(COCON_LABEL) as (keyof typeof COCON_LABEL)[]).map((c) => (
+              <Link
+                key={c}
+                href={coconHref(c)}
+                className="group flex items-center justify-between gap-3 rounded-2xl border border-white/10 bg-coal-900 px-5 py-4 transition-all hover:border-primary/40 hover:bg-coal-800 sm:px-6 sm:py-5"
+              >
+                <span className="font-display text-base font-medium tracking-[-0.01em] sm:text-lg">
+                  {COCON_LABEL[c]}
+                </span>
+                <ArrowUpRight className="h-4 w-4 text-muted-foreground transition-all group-hover:-translate-y-0.5 group-hover:translate-x-0.5 group-hover:text-primary" />
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
       <section className="relative surface-1 text-foreground">
+        <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
         <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 sm:py-24 lg:px-12">
           {articles.length === 0 ? (
             <EmptyState />

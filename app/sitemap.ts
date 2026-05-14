@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-import { fetchArticleSlugs } from "@/lib/blog";
+import { COCON_SLUG, fetchArticleSlugs } from "@/lib/blog";
 import {
   fetchAllSitesForMap,
   fetchDepartements,
@@ -25,6 +25,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${SITE}/outils/jonctions`, lastModified: now, changeFrequency: "monthly", priority: 0.7 },
     { url: `${SITE}/glossaire-escalade`, lastModified: now, changeFrequency: "monthly", priority: 0.85 },
     { url: `${SITE}/blog`, lastModified: now, changeFrequency: "weekly", priority: 0.7 },
+    ...Object.values(COCON_SLUG).map((s) => ({
+      url: `${SITE}/blog/cocon/${s}`,
+      lastModified: now,
+      changeFrequency: "weekly" as const,
+      priority: 0.7,
+    })),
     { url: `${SITE}/boutique`, lastModified: now, changeFrequency: "monthly", priority: 0.6 },
     { url: `${SITE}/contact`, lastModified: now, changeFrequency: "yearly", priority: 0.4 },
     { url: `${SITE}/mentions-legales`, lastModified: now, changeFrequency: "yearly", priority: 0.3 },
