@@ -250,28 +250,28 @@
   "internal_links": [
     {
       "slug": "noeuds-escalade-utiles-guide",
-      "anchor": "panorama des nœuds utiles en escalade",
-      "context": "pilier cocon"
-    },
-    {
-      "slug": "verifier-noeud-partenaire",
-      "anchor": "vérification croisée systématique",
-      "context": "rituel sécurité"
-    },
-    {
-      "slug": "noeud-cabestan-relais",
-      "anchor": "cabestan sur mousqueton à vis",
-      "context": "jonction relais"
+      "anchor": "le répertoire complet des nœuds",
+      "context": "pilier nœuds, premier lien interne"
     },
     {
       "slug": "noeud-chaise-alpinisme",
-      "anchor": "chaise utilisé en alpinisme",
-      "context": "comparaison nœud alternatif"
+      "anchor": "de chaise utilisé en alpinisme",
+      "context": "même cocon, comparaison nœud alternatif"
     },
     {
       "slug": "retenir-noeuds-escalade-methode",
-      "anchor": "mémorisation du tracé",
-      "context": "apprentissage"
+      "anchor": "La mémorisation du tracé",
+      "context": "même cocon, apprentissage"
+    },
+    {
+      "slug": "verifier-noeud-partenaire",
+      "anchor": "L'inspection mutuelle de l'encordement",
+      "context": "même cocon, rituel sécurité"
+    },
+    {
+      "slug": "noeud-cabestan-relais",
+      "anchor": "un cabestan sur mousqueton à vis",
+      "context": "même cocon, jonction relais grande voie"
     }
   ],
   "scheduled_at": "2026-10-01T09:00:00+02:00"
