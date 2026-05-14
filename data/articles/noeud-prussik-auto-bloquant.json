@@ -29,7 +29,7 @@
     },
     {
       "type": "p",
-      "html": "Parmi les <a href=\"/blog/noeuds-escalade-utiles-guide\">nœuds utiles en escalade</a>, le prussik occupe une place à part : c'est le seul vrai nœud d'auto-blocage classique, dont dérivent toutes les variantes modernes comme le Machard, le Bachmann ou le Kreuzklemm. Sa famille des auto-bloquants compte aujourd'hui une demi-douzaine de variantes, chacune optimisée pour un usage spécifique. Le prussik reste la référence."
+      "html": "Parmi <a href=\"/blog/noeuds-escalade-utiles-guide\">les nœuds utiles en escalade</a>, le prussik occupe une place à part : c'est le seul vrai nœud d'auto-blocage classique, dont dérivent toutes les variantes modernes comme le Machard, le Bachmann ou le Kreuzklemm. Sa famille des auto-bloquants compte aujourd'hui une demi-douzaine de variantes, chacune optimisée pour un usage spécifique. Le prussik reste la référence."
     },
     {
       "type": "h2",
@@ -45,7 +45,7 @@
     },
     {
       "type": "p",
-      "html": "Une <strong>boucle prussik prête à l'emploi</strong> se confectionne avec environ 1,30 à 1,50 mètre de cordelette, refermée par un <a href=\"/blog/noeud-pecheur-double-rappel\">double-pêcheur soigneusement serré</a>. La longueur de boucle finale, après nouage, est de 50 à 60 cm environ, suffisante pour faire trois tours autour d'une corde Ø 10 mm et laisser dépasser une longe utile."
+      "html": "Une <strong>boucle prussik prête à l'emploi</strong> se confectionne avec environ 1,30 à 1,50 mètre de cordelette, refermée par <a href=\"/blog/noeud-pecheur-double-rappel\">un double-pêcheur soigneusement serré</a>. La longueur de boucle finale, après nouage, est de 50 à 60 cm environ, suffisante pour faire trois tours autour d'une corde Ø 10 mm et laisser dépasser une longe utile."
     },
     {
       "type": "h2",
@@ -176,7 +176,7 @@
     },
     {
       "type": "p",
-      "html": "Le prussik a donné naissance à plusieurs variantes optimisées pour des usages spécifiques. Le <a href=\"/blog/noeud-machard-comparatif\">Machard tubulaire</a> se desserre plus facilement après charge, ce qui le rend pratique en rappel pour les utilisateurs qui répètent l'opération. Le Bachmann utilise un mousqueton dans la boucle pour faciliter le déblocage, au prix d'une fiabilité légèrement inférieure. Le Kreuzklemm, ou prussik symétrique, optimise le serrage progressif sur corde lisse."
+      "html": "Le prussik a donné naissance à plusieurs variantes optimisées pour des usages spécifiques. <a href=\"/blog/noeud-machard-comparatif\">Le Machard tubulaire</a> se desserre plus facilement après charge, ce qui le rend pratique en rappel pour les utilisateurs qui répètent l'opération. Le Bachmann utilise un mousqueton dans la boucle pour faciliter le déblocage, au prix d'une fiabilité légèrement inférieure. Le Kreuzklemm, ou prussik symétrique, optimise le serrage progressif sur corde lisse."
     },
     {
       "type": "p",
@@ -210,7 +210,7 @@
     },
     {
       "type": "p",
-      "html": "Une exception notable concerne le rappel hivernal en alpinisme, où la corde gelée perturbe le fonctionnement des systèmes mécaniques. Le prussik, monté en variante Machard quatre tours, reste alors une option de sécurité. Cette pratique fait partie du bagage technique transmis dans les formations alpinisme avancées, et n'est pas nécessaire en escalade sportive standard. Combiné à un <a href=\"/blog/nettoyer-relais-rappel-securite\">contrôle systématique du relais avant rappel</a>, le prussik en sécurité passive ferme la chaîne de fiabilité du grimpeur."
+      "html": "Une exception notable concerne le rappel hivernal en alpinisme, où la corde gelée perturbe le fonctionnement des systèmes mécaniques. Le prussik, monté en variante Machard quatre tours, reste alors une option de sécurité. Cette pratique fait partie du bagage technique transmis dans les formations alpinisme avancées, et n'est pas nécessaire en escalade sportive standard. Combiné <a href=\"/blog/nettoyer-relais-rappel-securite\">à un contrôle systématique du relais avant rappel</a>, le prussik en sécurité passive ferme la chaîne de fiabilité du grimpeur."
     }
   ],
   "faq": [

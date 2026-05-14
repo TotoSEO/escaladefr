@@ -68,7 +68,7 @@
     },
     {
       "type": "p",
-      "html": "L'exécution prend une vingtaine de secondes après quelques séances d'entraînement. La difficulté principale tient à mémoriser la manipulation de la boucle centrale, qui semble contre-intuitive au début. La <a href=\"/blog/retenir-noeuds-escalade-methode\">mémorisation du geste</a> passe par la répétition d'une dizaine de tracés successifs, jusqu'à ce que le mouvement devienne fluide. Une fois la séquence acquise, elle reste durablement disponible même après plusieurs mois sans pratique."
+      "html": "L'exécution prend une vingtaine de secondes après quelques séances d'entraînement. La difficulté principale tient à mémoriser la manipulation de la boucle centrale, qui semble contre-intuitive au début. <a href=\"/blog/retenir-noeuds-escalade-methode\">La mémorisation du geste</a> passe par la répétition d'une dizaine de tracés successifs, jusqu'à ce que le mouvement devienne fluide. Une fois la séquence acquise, elle reste durablement disponible même après plusieurs mois sans pratique."
     },
     {
       "type": "h2",
@@ -114,7 +114,7 @@
     },
     {
       "type": "p",
-      "html": "Sous charge dynamique répétée, le papillon a tendance à se serrer légèrement mais reste facile à défaire. C'est l'un des nœuds qui pardonne le mieux les cycles de tension répétés, ce qui le rend préférable au nœud d'alouette pour les usages en cordée prolongée. La <a href=\"/blog/noeud-tete-alouette-sangle\">tête d'alouette sur sangle</a>, à ne pas confondre avec le nœud d'alouette sur corde, ne convient pas à ce type d'usage médian."
+      "html": "Sous charge dynamique répétée, le papillon a tendance à se serrer légèrement mais reste facile à défaire. C'est l'un des nœuds qui pardonne le mieux les cycles de tension répétés, ce qui le rend préférable au nœud d'alouette pour les usages en cordée prolongée. <a href=\"/blog/noeud-tete-alouette-sangle\">La tête d'alouette sur sangle</a>, à ne pas confondre avec le nœud d'alouette sur corde, ne convient pas à ce type d'usage médian."
     },
     {
       "type": "table",
@@ -192,7 +192,7 @@
     },
     {
       "type": "p",
-      "html": "En complément, intègre le papillon aux exercices de manipulation de corde courants : autosauvetage, mouflage, transformation de moulinette en rappel. Cette utilisation contextuelle ancre le nœud dans des situations réelles, plus pédagogique que le simple tracé à blanc. Le <a href=\"/blog/nettoyer-relais-rappel-securite\">nettoyage de relais avec rappel</a> peut intégrer un papillon de sécurité en cas de besoin."
+      "html": "En complément, intègre le papillon aux exercices de manipulation de corde courants : autosauvetage, mouflage, transformation de moulinette en rappel. Cette utilisation contextuelle ancre le nœud dans des situations réelles, plus pédagogique que le simple tracé à blanc. <a href=\"/blog/nettoyer-relais-rappel-securite\">Le nettoyage de relais avec rappel</a> peut intégrer un papillon de sécurité en cas de besoin."
     }
   ],
   "faq": [

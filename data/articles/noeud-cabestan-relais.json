@@ -25,11 +25,11 @@
     },
     {
       "type": "p",
-      "html": "Avant l'adoption généralisée du cabestan dans les années 1990, l'auto-vachage se faisait avec une longe en sangle et un mousqueton à vis indépendant. Cette méthode obligeait à porter en permanence une longe dédiée, à régler sa longueur par des nœuds intermédiaires, et à dupliquer le matériel. Le cabestan sur la corde elle-même résout ces trois inconvénients d'un coup : pas de longe supplémentaire, longueur ajustable au centimètre, matériel minimal. Parmi les <a href=\"/blog/noeuds-escalade-utiles-guide\">nœuds utiles en escalade</a>, le cabestan occupe la position centrale dans la famille des nœuds de jonction."
+      "html": "Avant l'adoption généralisée du cabestan dans les années 1990, l'auto-vachage se faisait avec une longe en sangle et un mousqueton à vis indépendant. Cette méthode obligeait à porter en permanence une longe dédiée, à régler sa longueur par des nœuds intermédiaires, et à dupliquer le matériel. Le cabestan sur la corde elle-même résout ces trois inconvénients d'un coup : pas de longe supplémentaire, longueur ajustable au centimètre, matériel minimal. Parmi <a href=\"/blog/noeuds-escalade-utiles-guide\">les nœuds utiles en escalade</a>, le cabestan occupe la position centrale dans la famille des nœuds de jonction."
     },
     {
       "type": "p",
-      "html": "Comparé au <a href=\"/blog/noeud-huit-encordement\">huit en double utilisé pour l'encordement</a>, le cabestan a une vocation entièrement différente. Le huit reste permanent sur toute la course, le cabestan se met et se défait à chaque relais. Les deux nœuds coexistent sur la même corde sans interférence : huit au pontet pour relier le grimpeur à sa corde, cabestan sur mousqueton à vis pour relier la corde à l'ancrage."
+      "html": "Comparé <a href=\"/blog/noeud-huit-encordement\">au huit en double utilisé pour l'encordement</a>, le cabestan a une vocation entièrement différente. Le huit reste permanent sur toute la course, le cabestan se met et se défait à chaque relais. Les deux nœuds coexistent sur la même corde sans interférence : huit au pontet pour relier le grimpeur à sa corde, cabestan sur mousqueton à vis pour relier la corde à l'ancrage."
     },
     {
       "type": "h2",
@@ -76,7 +76,7 @@
     },
     {
       "type": "p",
-      "html": "La fermeture à vis est obligatoire pour empêcher l'ouverture accidentelle du doigt sous l'effet d'une vibration ou d'un contact contre le rocher. Les mousquetons à doigt simple, même renforcés, sont à éviter pour cet usage. Les modèles à fermeture automatique de type ball-lock ou twist-lock fonctionnent aussi, mais la vis manuelle reste le standard pour son contrôle visuel immédiat. La <a href=\"/blog/verifier-noeud-partenaire\">vérification croisée du relais</a> inclut systématiquement la fermeture de la vis."
+      "html": "La fermeture à vis est obligatoire pour empêcher l'ouverture accidentelle du doigt sous l'effet d'une vibration ou d'un contact contre le rocher. Les mousquetons à doigt simple, même renforcés, sont à éviter pour cet usage. Les modèles à fermeture automatique de type ball-lock ou twist-lock fonctionnent aussi, mais la vis manuelle reste le standard pour son contrôle visuel immédiat. <a href=\"/blog/verifier-noeud-partenaire\">La vérification croisée du relais</a> inclut systématiquement la fermeture de la vis."
     },
     {
       "type": "p",
@@ -178,7 +178,7 @@
     },
     {
       "type": "p",
-      "html": "En cas de mouflage improvisé, le cabestan tient le brin chargé pendant que tu mets en place le système de démultiplication. Cette polyvalence en fait le nœud de manipulation le plus utilisé au relais après l'auto-vachage initial. Combiné avec un <a href=\"/blog/noeud-mule-bloquant-corde\">nœud de mule pour bloquer la corde</a>, il permet la plupart des manœuvres de secours improvisé avec un minimum de matériel."
+      "html": "En cas de mouflage improvisé, le cabestan tient le brin chargé pendant que tu mets en place le système de démultiplication. Cette polyvalence en fait le nœud de manipulation le plus utilisé au relais après l'auto-vachage initial. Combiné <a href=\"/blog/noeud-mule-bloquant-corde\">avec un nœud de mule pour bloquer la corde</a>, il permet la plupart des manœuvres de secours improvisé avec un minimum de matériel."
     },
     {
       "type": "h2",
@@ -186,7 +186,7 @@
     },
     {
       "type": "p",
-      "html": "Le cabestan n'est pas universel. Trois situations justifient un autre choix. Première situation, l'encordement permanent : pour relier le grimpeur à sa corde, le huit en double reste largement supérieur en termes de résistance et de stabilité. Deuxième situation, le rappel double brin où tu joins deux cordes : on utilise alors un <a href=\"/blog/noeud-pecheur-double-rappel\">double-pêcheur ou un nœud en huit jonction</a>, le cabestan n'étant pas conçu pour relier deux cordes."
+      "html": "Le cabestan n'est pas universel. Trois situations justifient un autre choix. Première situation, l'encordement permanent : pour relier le grimpeur à sa corde, le huit en double reste largement supérieur en termes de résistance et de stabilité. Deuxième situation, le rappel double brin où tu joins deux cordes : on utilise alors <a href=\"/blog/noeud-pecheur-double-rappel\">un double-pêcheur ou un nœud en huit jonction</a>, le cabestan n'étant pas conçu pour relier deux cordes."
     },
     {
       "type": "p",

@@ -64,7 +64,7 @@
     },
     {
       "type": "p",
-      "html": "L'exécution prend cinq à dix secondes même pour un débutant. La simplicité du geste explique sa popularité en formation initiation, où il rassure les apprentis qui peinent encore sur les nœuds plus complexes. La <a href=\"/blog/retenir-noeuds-escalade-methode\">mémorisation du geste</a> est immédiate, ce qui n'est pas le cas du papillon ou du cabestan."
+      "html": "L'exécution prend cinq à dix secondes même pour un débutant. La simplicité du geste explique sa popularité en formation initiation, où il rassure les apprentis qui peinent encore sur les nœuds plus complexes. <a href=\"/blog/retenir-noeuds-escalade-methode\">La mémorisation du geste</a> est immédiate, ce qui n'est pas le cas du papillon ou du cabestan."
     },
     {
       "type": "h2",
@@ -126,7 +126,7 @@
     },
     {
       "type": "p",
-      "html": "Deuxième alternative, le <a href=\"/blog/noeud-cabestan-relais\">nœud de cabestan sur mousqueton à vis</a>, plus rapide à tracer et qui se règle finement en longueur. Le cabestan reste exclusivement utilisable sur corde dynamique, pas sur sangle. Troisième alternative, le double passage de la sangle autour du point pour augmenter la surface de contact, technique utile sur becquets ou arbres très étroits."
+      "html": "Deuxième alternative, <a href=\"/blog/noeud-cabestan-relais\">le nœud de cabestan sur mousqueton à vis</a>, plus rapide à tracer et qui se règle finement en longueur. Le cabestan reste exclusivement utilisable sur corde dynamique, pas sur sangle. Troisième alternative, le double passage de la sangle autour du point pour augmenter la surface de contact, technique utile sur becquets ou arbres très étroits."
     },
     {
       "type": "table",
@@ -186,7 +186,7 @@
     },
     {
       "type": "p",
-      "html": "Pour cet usage, la sollicitation reste essentiellement statique, équivalente au poids du grimpeur, soit 0,8 à 1 kN. La résistance résiduelle de 15 kN après tête d'alouette reste donc largement suffisante. Le seul risque concerne le scénario de chute en facteur 2 directement sur la longe, situation rarissime que la <a href=\"/blog/verifier-noeud-partenaire\">vérification des points d'ancrage</a> doit prévenir en amont."
+      "html": "Pour cet usage, la sollicitation reste essentiellement statique, équivalente au poids du grimpeur, soit 0,8 à 1 kN. La résistance résiduelle de 15 kN après tête d'alouette reste donc largement suffisante. Le seul risque concerne le scénario de chute en facteur 2 directement sur la longe, situation rarissime que <a href=\"/blog/verifier-noeud-partenaire\">la vérification des points d'ancrage</a> doit prévenir en amont."
     },
     {
       "type": "quote",
