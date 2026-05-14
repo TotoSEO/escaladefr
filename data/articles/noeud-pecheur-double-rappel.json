@@ -29,7 +29,7 @@
     },
     {
       "type": "p",
-      "html": "J'ai appris le pêcheur double en mars 2024 au club d'escalade de Colmar, lors du module de formation rappel. Le moniteur l'a présenté comme la jonction de rappel à apprendre en premier, avant le <a href=\"/blog/noeud-mickey-rappel\">Mickey</a>, parce qu'il pardonne davantage les erreurs de dimensionnement et qu'il convient à toutes les situations sans exception. C'est aussi le nœud que je continue de tracer pour confectionner les anneaux de cordelette des prussiks."
+      "html": "J'ai appris le pêcheur double en mars 2024 au club d'escalade de Colmar, lors du module de formation rappel. Le moniteur l'a présenté comme la jonction de rappel à apprendre en premier, <a href=\"/blog/noeud-mickey-rappel\">avant le Mickey</a>, parce qu'il pardonne davantage les erreurs de dimensionnement et qu'il convient à toutes les situations sans exception. C'est aussi le nœud que je continue de tracer pour confectionner les anneaux de cordelette des prussiks."
     },
     {
       "type": "h2",
@@ -80,7 +80,7 @@
     },
     {
       "type": "p",
-      "html": "Le pêcheur double conserve <strong>75 à 80 %</strong> de la charge de rupture de la corde, soit une résistance résiduelle de 16 à 22 kN sur une corde dynamique conforme à la norme EN 892. Aucun cas de glissement ou de retournement sous charge n'a été documenté à ce jour dans les conditions réalistes d'usage <a href=\"/blog/nettoyer-relais-rappel-securite\">en rappel</a>. Les essais en laboratoire sur cordes neuves rompent la corde elle-même bien avant que le nœud ne montre des signes de défaillance."
+      "html": "Le pêcheur double conserve <strong>75 à 80 %</strong> de la charge de rupture de la corde, soit une résistance résiduelle de 16 à 22 kN sur une corde dynamique conforme à la norme EN 892. Aucun cas de glissement ou de retournement sous charge n'a été documenté à ce jour dans les conditions réalistes d'<a href=\"/blog/nettoyer-relais-rappel-securite\">usage en rappel</a>. Les essais en laboratoire sur cordes neuves rompent la corde elle-même bien avant que le nœud ne montre des signes de défaillance."
     },
     {
       "type": "p",
@@ -162,7 +162,7 @@
     },
     {
       "type": "p",
-      "html": "Au-delà de la jonction de rappel, le pêcheur double sert principalement à confectionner les <strong>anneaux fermés de cordelette</strong> utilisés pour les nœuds auto-bloquants comme le <a href=\"/blog/noeud-prussik-auto-bloquant\">prussik</a> ou le machard. Tu prends une longueur d'un mètre vingt à un mètre cinquante de cordelette de 6 ou 7 mm, tu joins les deux bouts par un pêcheur double bien serré, et tu obtiens un anneau fermé prêt à servir."
+      "html": "Au-delà de la jonction de rappel, le pêcheur double sert principalement à confectionner les <strong>anneaux fermés de cordelette</strong> utilisés pour les nœ<a href=\"/blog/noeud-prussik-auto-bloquant\">uds auto-bloquants comme le prussik</a> ou le machard. Tu prends une longueur d'un mètre vingt à un mètre cinquante de cordelette de 6 ou 7 mm, tu joins les deux bouts par un pêcheur double bien serré, et tu obtiens un anneau fermé prêt à servir."
     },
     {
       "type": "p",
@@ -196,7 +196,7 @@
     },
     {
       "type": "p",
-      "html": "Pour la première utilisation en falaise, demande la validation d'un grimpeur expérimenté avant chaque rappel. Cette double vérification prend dix secondes et élimine les erreurs résiduelles. Au bout de cinq sorties, le geste devient fiable et la vérification autonome suffit. La <a href=\"/blog/verifier-noeud-partenaire\">vérification croisée systématique</a> reste cependant une bonne pratique permanente sur tous les nœuds critiques."
+      "html": "Pour la première utilisation en falaise, demande la validation d'un grimpeur expérimenté avant chaque rappel. Cette double vérification prend dix secondes et élimine les erreurs résiduelles. Au bout de cinq sorties, le geste devient fiable et la vérification autonome suffit. <a href=\"/blog/verifier-noeud-partenaire\">La vérification croisée systématique</a> reste cependant une bonne pratique permanente sur tous les nœuds critiques."
     }
   ],
   "faq": [

@@ -51,7 +51,7 @@
     },
     {
       "type": "p",
-      "html": "Le cabestan permet de se vacher directement sur un mousqueton à vis du relais, sans matériel supplémentaire. Il se monte en deux boucles superposées qu'on glisse sur le mousqueton, et il se règle ensuite à la longueur voulue en tirant simplement sur le brin. <strong>Le demi-cabestan</strong> sert d'assurage de secours quand on n'a plus d'appareil d'assurage, ou en grande voie pour assurer le second. Tu trouveras les détails dans <a href=\"/blog/noeud-cabestan-relais\">le cabestan</a>."
+      "html": "Le cabestan permet de se vacher directement sur un mousqueton à vis du relais, sans matériel supplémentaire. Il se monte en deux boucles superposées qu'on glisse sur le mousqueton, et il se règle ensuite à la longueur voulue en tirant simplement sur le brin. <strong>Le demi-cabestan</strong> sert d'assurage de secours quand on n'a plus d'appareil d'assurage, ou en grande voie pour assurer le second. Tu trouveras <a href=\"/blog/noeud-cabestan-relais\">les détails dans le cabestan</a>."
     },
     {
       "type": "p",
@@ -106,7 +106,7 @@
     },
     {
       "type": "p",
-      "html": "Le diamètre de la cordelette est crucial : un prussik en 7 mm sur une corde 9.5 mm glisse, un prussik en 5 mm sur une corde 11 mm fond sous la friction. La règle empirique reste 6 mm de cordelette pour une corde 9 à 10.5 mm. Compare les deux nœuds en détail dans le <a href=\"/blog/noeud-machard-comparatif\">match prussik contre machard</a>."
+      "html": "Le diamètre de la cordelette est crucial : un prussik en 7 mm sur une corde 9.5 mm glisse, un prussik en 5 mm sur une corde 11 mm fond sous la friction. La règle empirique reste 6 mm de cordelette pour une corde 9 à 10.5 mm. Compare les deux nœuds en détail <a href=\"/blog/noeud-machard-comparatif\">dans le match prussik contre machard</a>."
     },
     {
       "type": "h2",
@@ -114,11 +114,11 @@
     },
     {
       "type": "p",
-      "html": "Pour un rappel long, deux cordes de 50 mètres jointes valent mieux qu'une corde de 60 mètres pliée en deux. Le <a href=\"/blog/noeud-pecheur-double-rappel\">pêcheur double en jonction de rappel</a>, parfois appelé nœud d'écoute double, joint solidement les deux brins et passe sans accroc dans le maillon du relais. Il faut laisser <strong>30 cm de queue minimum</strong> de chaque côté et serrer fortement chaque demi-nœud avant de descendre. En alpinisme et en grande voie, on lui préfère parfois le nœud plat doublé, qui glisse mieux sur le rocher et limite le risque de coincement au rappel sur des reliefs irréguliers."
+      "html": "Pour un rappel long, deux cordes de 50 mètres jointes valent mieux qu'une corde de 60 mètres pliée en deux. <a href=\"/blog/noeud-pecheur-double-rappel\">Le pêcheur double en jonction de rappel</a>, parfois appelé nœud d'écoute double, joint solidement les deux brins et passe sans accroc dans le maillon du relais. Il faut laisser <strong>30 cm de queue minimum</strong> de chaque côté et serrer fortement chaque demi-nœud avant de descendre. En alpinisme et en grande voie, on lui préfère parfois le nœud plat doublé, qui glisse mieux sur le rocher et limite le risque de coincement au rappel sur des reliefs irréguliers."
     },
     {
       "type": "p",
-      "html": "Le <a href=\"/blog/noeud-mickey-rappel\">nœud mickey en bout de corde de rappel</a> s'installe à 1 à 2 mètres du bout de chaque brin. Il empêche le mousqueton de la descente de passer. Une statistique grimaçante : la majorité des accidents en rappel en France sont liés à l'absence de nœud d'arrêt en bout de corde. Un grimpeur déconcentré, une nuit qui tombe, une corde trop courte et c'est l'accident évitable. L'habitude de fermer chaque extrémité avant le premier rappel doit devenir un réflexe systématique, comme attacher sa ceinture."
+      "html": "<a href=\"/blog/noeud-mickey-rappel\">Le nœud mickey en bout de corde de rappel</a> s'installe à 1 à 2 mètres du bout de chaque brin. Il empêche le mousqueton de la descente de passer. Une statistique grimaçante : la majorité des accidents en rappel en France sont liés à l'absence de nœud d'arrêt en bout de corde. Un grimpeur déconcentré, une nuit qui tombe, une corde trop courte et c'est l'accident évitable. L'habitude de fermer chaque extrémité avant le premier rappel doit devenir un réflexe systématique, comme attacher sa ceinture."
     },
     {
       "type": "table",
@@ -181,7 +181,7 @@
     },
     {
       "type": "p",
-      "html": "La <a href=\"/blog/retenir-noeuds-escalade-methode\">mémorisation des nœuds d'escalade</a> repose sur des exercices d'auto-évaluation à répéter. Ce qui compte ensuite, c'est la révision régulière. Avant chaque sortie, fait deux ou trois nœuds à blanc dans la voiture ou sur le parking. Ça prend 30 secondes et ça maintient la maîtrise."
+      "html": "<a href=\"/blog/retenir-noeuds-escalade-methode\">La mémorisation des nœuds d'escalade</a> repose sur des exercices d'auto-évaluation à répéter. Ce qui compte ensuite, c'est la révision régulière. Avant chaque sortie, fait deux ou trois nœuds à blanc dans la voiture ou sur le parking. Ça prend 30 secondes et ça maintient la maîtrise."
     },
     {
       "type": "image_text",
@@ -197,7 +197,7 @@
     },
     {
       "type": "p",
-      "html": "Avant chaque ascension, le grimpeur et l'assureur se <a href=\"/blog/verifier-noeud-partenaire\">vérifient mutuellement le nœud et le baudrier</a>. Le grimpeur contrôle son nœud (présence du double, queue suffisante, passage dans le pontet et pas dans une boucle de sangle), son baudrier (boucles doublées) et l'absence de matériel mal fixé. L'assureur vérifie son appareil d'assurage, le sens de passage de la corde et son propre baudrier. Au relais, la <a href=\"/blog/nettoyer-relais-rappel-securite\">manœuvre de nettoyage du relais avant rappel</a> demande la même rigueur visuelle."
+      "html": "Avant chaque ascension, le grimpeur et l'assureur se <a href=\"/blog/verifier-noeud-partenaire\">vérifient mutuellement le nœud et le baudrier</a>. Le grimpeur contrôle son nœud (présence du double, queue suffisante, passage dans le pontet et pas dans une boucle de sangle), son baudrier (boucles doublées) et l'absence de matériel mal fixé. L'assureur vérifie son appareil d'assurage, le sens de passage de la corde et son propre baudrier. Au relais, <a href=\"/blog/nettoyer-relais-rappel-securite\">la manœuvre de nettoyage du relais avant rappel</a> demande la même rigueur visuelle."
     },
     {
       "type": "quote",
@@ -227,11 +227,11 @@
     },
     {
       "type": "p",
-      "html": "Au-delà des huit nœuds essentiels, certains profils gagnent à enrichir leur répertoire. Le <a href=\"/blog/noeud-chaise-alpinisme\">nœud de chaise comme encordement d'alpinisme</a> reste apprécié des alpinistes anglo-saxons pour s'encorder, mais il glisse plus que le huit sans contrenœud. Le <a href=\"/blog/noeud-papillon-corde-endommagee\">papillon pour isoler une zone de corde endommagée</a> crée une boucle au milieu d'une corde, utile pour assurer trois personnes en alpinisme."
+      "html": "Au-delà des huit nœuds essentiels, certains profils gagnent à enrichir leur répertoire. <a href=\"/blog/noeud-chaise-alpinisme\">Le nœud de chaise comme encordement d'alpinisme</a> reste apprécié des alpinistes anglo-saxons pour s'encorder, mais il glisse plus que le huit sans contrenœud. <a href=\"/blog/noeud-papillon-corde-endommagee\">Le papillon pour isoler une zone de corde endommagée</a> crée une boucle au milieu d'une corde, utile pour assurer trois personnes en alpinisme."
     },
     {
       "type": "p",
-      "html": "Le <a href=\"/blog/noeud-mule-bloquant-corde\">mule bloquant sur le demi-cabestan</a> te sauve quand tu dois lâcher la corde en cours d'assurage : il libère les mains. C'est le geste de base pour aller sécuriser un grimpeur en difficulté ou installer un mouflage. À connaître avant toute sortie en grande voie engagée. La <a href=\"/blog/noeud-tete-alouette-sangle\">tête d'alouette sur sangle ou becquet</a>, plus simple, sert à passer une sangle sur une lunule ou un becquet. En assurage d'appoint sans matériel, le <a href=\"/blog/noeud-italien-improvise\">nœud italien improvisé</a> dépanne quand l'appareil d'assurage est tombé. Et avant toute manœuvre, le <a href=\"/blog/noeud-demi-cabestan-assurance\">demi-cabestan d'assurage de secours</a> mérite ses cinq minutes d'entraînement sur la table de la cuisine."
+      "html": "<a href=\"/blog/noeud-mule-bloquant-corde\">Le mule bloquant sur le demi-cabestan</a> te sauve quand tu dois lâcher la corde en cours d'assurage : il libère les mains. C'est le geste de base pour aller sécuriser un grimpeur en difficulté ou installer un mouflage. À connaître avant toute sortie en grande voie engagée. <a href=\"/blog/noeud-tete-alouette-sangle\">La tête d'alouette sur sangle ou becquet</a>, plus simple, sert à passer une sangle sur une lunule ou un becquet. En assurage d'appoint sans matériel, <a href=\"/blog/noeud-italien-improvise\">le nœud italien improvisé</a> dépanne quand l'appareil d'assurage est tombé. Et avant toute manœuvre, <a href=\"/blog/noeud-demi-cabestan-assurance\">le demi-cabestan d'assurage de secours</a> mérite ses cinq minutes d'entraînement sur la table de la cuisine."
     }
   ],
   "faq": [

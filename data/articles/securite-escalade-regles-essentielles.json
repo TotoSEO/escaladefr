@@ -37,7 +37,7 @@
     },
     {
       "type": "p",
-      "html": "Une <a href=\"/blog/check-list-avant-grimper\">check-list complète avant de grimper</a> peut s'imprimer ou se mémoriser. Le grimpeur méthodique s'y tient à chaque sortie, qu'il soit débutant ou expérimenté. La routine sauve."
+      "html": "<a href=\"/blog/check-list-avant-grimper\">Une check-list complète avant de grimper</a> peut s'imprimer ou se mémoriser. Le grimpeur méthodique s'y tient à chaque sortie, qu'il soit débutant ou expérimenté. La routine sauve."
     },
     {
       "type": "list",
@@ -80,7 +80,7 @@
     },
     {
       "type": "p",
-      "html": "L'assureur attentif laisse fuser ou amortit selon la position de la chute. Trop dur, et le grimpeur claque contre le mur. Trop mou, et il touche le sol. Le réglage demande des heures de pratique en salle. La <a href=\"/blog/chute-en-tete-facteurs\">chute en tête et ses facteurs</a> détaillent la physique et la gestuelle d'assurage. Travaille la chute volontaire en salle dès tes premières montées en tête pour vaincre l'appréhension."
+      "html": "L'assureur attentif laisse fuser ou amortit selon la position de la chute. Trop dur, et le grimpeur claque contre le mur. Trop mou, et il touche le sol. Le réglage demande des heures de pratique en salle. <a href=\"/blog/chute-en-tete-facteurs\">La chute en tête et ses facteurs</a> détaillent la physique et la gestuelle d'assurage. Travaille la chute volontaire en salle dès tes premières montées en tête pour vaincre l'appréhension."
     },
     {
       "type": "h2",
@@ -88,7 +88,7 @@
     },
     {
       "type": "p",
-      "html": "Statistiquement, le rappel concentre une part disproportionnée des accidents mortels en escalade. Trois causes principales : passer le bout de la corde (sans nœud d'arrêt), maladresse La <a href=\"/blog/rappel-securite-procedure\">procédure de rappel en sécurité</a> passe par cinq étapes : <strong>nœuds d'arrêt aux deux brins</strong>, vérification de l'ancrage, autobloquant installé, descente progressive, sortie de la corde au sol."
+      "html": "Statistiquement, le rappel concentre une part disproportionnée des accidents mortels en escalade. Trois causes principales : passer le bout de la corde (sans nœud d'arrêt), maladresse <a href=\"/blog/rappel-securite-procedure\">La procédure de rappel en sécurité</a> passe par cinq étapes : <strong>nœuds d'arrêt aux deux brins</strong>, vérification de l'ancrage, autobloquant installé, descente progressive, sortie de la corde au sol."
     },
     {
       "type": "p",
@@ -145,7 +145,7 @@
     },
     {
       "type": "p",
-      "html": "Garde dans ton téléphone l'application gpgendarmerie ou similaires qui transmettent automatiquement ta position. La <a href=\"/blog/alerter-secours-falaise\">procédure d'alerte aux secours</a> et <a href=\"/blog/premiers-secours-escalade\">les premiers gestes</a> couvrent les procédures à connaître. Une formation PSC1 ou IFAC en complément ne coûte que 60 euros pour une vie."
+      "html": "Garde dans ton téléphone l'application gpgendarmerie ou similaires qui transmettent automatiquement ta position. <a href=\"/blog/alerter-secours-falaise\">La procédure d'alerte aux secours</a> et <a href=\"/blog/premiers-secours-escalade\">les premiers gestes</a> couvrent les procédures à connaître. Une formation PSC1 ou IFAC en complément ne coûte que 60 euros pour une vie."
     },
     {
       "type": "h2",
@@ -191,7 +191,7 @@
     },
     {
       "type": "p",
-      "html": "Si l'évacuation se fait en hélicoptère, le détail de l'<a href=\"/blog/helitreuillage-evacuation\">hélitreuillage et signaux d'évacuation</a> mérite d'être connu avant la sortie engagée. Tu signales par les bras croisés en V (Yes, j'ai besoin) ou en N (No, tout va bien) à l'approche du pilote. Tu sécurises tout matériel sur la paroi (rappel ou point fixe), tu te recroquevilles à l'approche du vent généré par les pales, tu laisses l'équipe SAF te guider sans initiative personnelle."
+      "html": "Si l'évacuation se fait en hélicoptère, le détail <a href=\"/blog/helitreuillage-evacuation\">de l'hélitreuillage et signaux d'évacuation</a> mérite d'être connu avant la sortie engagée. Tu signales par les bras croisés en V (Yes, j'ai besoin) ou en N (No, tout va bien) à l'approche du pilote. Tu sécurises tout matériel sur la paroi (rappel ou point fixe), tu te recroquevilles à l'approche du vent généré par les pales, tu laisses l'équipe SAF te guider sans initiative personnelle."
     },
     {
       "type": "p",
@@ -203,7 +203,7 @@
     },
     {
       "type": "p",
-      "html": "L'escalade reste l'un des sports outdoor les moins accidentogènes en France quand on regarde les heures de pratique. Les <a href=\"/blog/accidents-escalade-statistiques\">statistiques d'accidents en escalade en France</a> montrent un ratio accident grave par 1 000 heures inférieur à celui du ski alpin, du VTT ou de l'équitation. Pourtant chaque année, une vingtaine de décès et plusieurs centaines de blessures graves marquent la communauté."
+      "html": "L'escalade reste l'un des sports outdoor les moins accidentogènes en France quand on regarde les heures de pratique. <a href=\"/blog/accidents-escalade-statistiques\">Les statistiques d'accidents en escalade en France</a> montrent un ratio accident grave par 1 000 heures inférieur à celui du ski alpin, du VTT ou de l'équitation. Pourtant chaque année, une vingtaine de décès et plusieurs centaines de blessures graves marquent la communauté."
     },
     {
       "type": "p",

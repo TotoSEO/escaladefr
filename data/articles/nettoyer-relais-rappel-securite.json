@@ -41,7 +41,7 @@
     },
     {
       "type": "p",
-      "html": "Il faut également deux à trois mousquetons à vis disponibles, idéalement de type HMS qui acceptent tous <a href=\"/blog/noeuds-escalade-utiles-guide\">les nœuds</a> courants. Et bien sûr le baudrier, la corde dynamique double ou simple selon le rappel, et les chaussons gardés au pied pour ne pas glisser à la station verticale. Le casque reste fortement recommandé pour toute manipulation en hauteur, particulièrement sur sites où la chute de pierres reste possible."
+      "html": "Il faut également deux à trois mousquetons à vis disponibles, idéalement de type HMS <a href=\"/blog/noeuds-escalade-utiles-guide\">qui acceptent tous les nœuds</a> courants. Et bien sûr le baudrier, la corde dynamique double ou simple selon le rappel, et les chaussons gardés au pied pour ne pas glisser à la station verticale. Le casque reste fortement recommandé pour toute manipulation en hauteur, particulièrement sur sites où la chute de pierres reste possible."
     },
     {
       "type": "list",
@@ -106,7 +106,7 @@
     },
     {
       "type": "p",
-      "html": "Cette procédure remplace l'ancienne méthode qui consistait à se vacher uniquement sur la corde reliée à l'assureur, sans nœud d'arrêt. Plusieurs accidents documentés ont impliqué une chute de corde au sol dans cette configuration, le grimpeur se retrouvant suspendu uniquement à sa longe sans corde pour redescendre. Le <a href=\"/blog/noeud-huit-encordement\">nœud de huit</a> doit être refait et vérifié dans le pontet avant tout démontage de la longe."
+      "html": "Cette procédure remplace l'ancienne méthode qui consistait à se vacher uniquement sur la corde reliée à l'assureur, sans nœud d'arrêt. Plusieurs accidents documentés ont impliqué une chute de corde au sol dans cette configuration, le grimpeur se retrouvant suspendu uniquement à sa longe sans corde pour redescendre. <a href=\"/blog/noeud-huit-encordement\">Le nœud de huit</a> doit être refait et vérifié dans le pontet avant tout démontage de la longe."
     },
     {
       "type": "h2",
@@ -118,7 +118,7 @@
     },
     {
       "type": "p",
-      "html": "Ensuite tu installes le descendeur. Tu passes les deux brins de corde dans le tube du descendeur, tu connectes le descendeur au pontet du baudrier avec un mousqueton à vis. Tu poses l'<a href=\"/blog/noeud-prussik-auto-bloquant\">autobloquant</a> sous le descendeur, généralement un machard ou un prussik en cordelette de 5 mm sur les deux brins. L'autobloquant se connecte à une boucle de matériel du baudrier ou à une autre attache dédiée."
+      "html": "Ensuite tu installes le descendeur. Tu passes les deux brins de corde dans le tube du descendeur, tu connectes le descendeur au pontet du baudrier avec un mousqueton à vis. Tu poses <a href=\"/blog/noeud-prussik-auto-bloquant\">l'autobloquant</a> sous le descendeur, généralement un machard ou un prussik en cordelette de 5 mm sur les deux brins. L'autobloquant se connecte à une boucle de matériel du baudrier ou à une autre attache dédiée."
     },
     {
       "type": "p",
@@ -179,7 +179,7 @@
     },
     {
       "type": "p",
-      "html": "Tu récupères les dégaines en cours de descente, en redescendant ligne par ligne le long de la voie originale. Chaque dégaine se décroche du point puis se range au baudrier. Le <a href=\"/blog/rappel-en-double-techniques\">rappel en double</a> reste la procédure technique de référence détaillée plus précisément pour les configurations engagées."
+      "html": "Tu récupères les dégaines en cours de descente, en redescendant ligne par ligne le long de la voie originale. Chaque dégaine se décroche du point puis se range au baudrier. <a href=\"/blog/rappel-en-double-techniques\">Le rappel en double</a> reste la procédure technique de référence détaillée plus précisément pour les configurations engagées."
     },
     {
       "type": "h2",
@@ -225,7 +225,7 @@
     },
     {
       "type": "p",
-      "html": "Deuxième erreur, libérer la longe <a href=\"/blog/verifier-noeud-partenaire\">avant de vérifier</a> le système de rappel. Le grimpeur installe son descendeur, défait sa longe pour gagner du mou, mais réalise alors qu'il a oublié l'autobloquant ou que le mousqueton est mal vissé. Difficile de revenir en arrière une fois la longe rangée. La parade est la vérification systématique avant tout démontage."
+      "html": "Deuxième erreur, <a href=\"/blog/verifier-noeud-partenaire\">libérer la longe avant de vérifier</a> le système de rappel. Le grimpeur installe son descendeur, défait sa longe pour gagner du mou, mais réalise alors qu'il a oublié l'autobloquant ou que le mousqueton est mal vissé. Difficile de revenir en arrière une fois la longe rangée. La parade est la vérification systématique avant tout démontage."
     },
     {
       "type": "p",
@@ -251,7 +251,7 @@
     },
     {
       "type": "p",
-      "html": "Une fois la procédure maîtrisée au sol, le passage en situation réelle se fait sur une voie courte avec relais bas, idéalement de 15 à 20 mètres. La première sortie en autonomie reste accompagnée par un grimpeur expérimenté qui vérifie chaque étape par observation. Compte trois à six sorties accompagnées avant de prétendre à l'autonomie complète. La <a href=\"/blog/retenir-noeuds-escalade-methode\">méthode pour retenir les nœuds</a> s'applique également à la séquence du nettoyage de relais, par répétition et visualisation mentale."
+      "html": "Une fois la procédure maîtrisée au sol, le passage en situation réelle se fait sur une voie courte avec relais bas, idéalement de 15 à 20 mètres. La première sortie en autonomie reste accompagnée par un grimpeur expérimenté qui vérifie chaque étape par observation. Compte trois à six sorties accompagnées avant de prétendre à l'autonomie complète. <a href=\"/blog/retenir-noeuds-escalade-methode\">La méthode pour retenir les nœuds</a> s'applique également à la séquence du nettoyage de relais, par répétition et visualisation mentale."
     }
   ],
   "faq": [
