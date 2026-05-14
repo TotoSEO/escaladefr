@@ -254,28 +254,28 @@
   "internal_links": [
     {
       "slug": "noeuds-escalade-utiles-guide",
-      "anchor": "panorama des nœuds utiles en escalade",
-      "context": "pilier cocon"
-    },
-    {
-      "slug": "noeud-demi-cabestan-assurance",
-      "anchor": "demi-cabestan en assurage",
-      "context": "manipulations détaillées"
-    },
-    {
-      "slug": "noeud-mule-bloquant-corde",
-      "anchor": "nœud de mule",
-      "context": "combinaison technique"
+      "anchor": "les nœuds à connaître absolument",
+      "context": "pilier nœuds, premier lien interne"
     },
     {
       "slug": "noeud-cabestan-relais",
-      "anchor": "cabestan classique",
-      "context": "nœud parent"
+      "anchor": "du nœud de cabestan utilisé au relais",
+      "context": "même cocon, complément relais"
+    },
+    {
+      "slug": "noeud-demi-cabestan-assurance",
+      "anchor": "Le demi-cabestan en assurage",
+      "context": "même cocon, manipulations détaillées"
+    },
+    {
+      "slug": "noeud-mule-bloquant-corde",
+      "anchor": "avec un nœud de mule",
+      "context": "même cocon, blocage de corde"
     },
     {
       "slug": "retenir-noeuds-escalade-methode",
-      "anchor": "méthode pour retenir les nœuds",
-      "context": "apprentissage"
+      "anchor": "la méthode pour retenir les nœuds d'escalade",
+      "context": "même cocon, automatisme"
     }
   ],
   "scheduled_at": "2026-10-24T09:00:00+02:00"
