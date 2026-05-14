@@ -235,28 +235,28 @@
   "internal_links": [
     {
       "slug": "securite-escalade-regles-essentielles",
-      "anchor": "les règles essentielles de la sécurité en escalade",
-      "context": "Pilier du cocon"
+      "anchor": "des piliers de la sécurité du grimpeur",
+      "context": "pilier sécurité, premier lien interne"
     },
     {
       "slug": "alerter-secours-falaise",
-      "anchor": "notre procédure d'alerte aux secours en falaise",
-      "context": "Article frère du cocon"
+      "anchor": "appel d'alerte aux secours en falaise",
+      "context": "même cocon, discipline collective"
     },
     {
       "slug": "premiers-secours-escalade",
-      "anchor": "notre guide des premiers secours en escalade",
-      "context": "Article frère du cocon"
+      "anchor": "les bons gestes de premiers secours",
+      "context": "même cocon, cas sans héliportage"
     },
     {
       "slug": "check-list-avant-grimper",
-      "anchor": "notre check list avant de grimper",
-      "context": "Article frère du cocon"
+      "anchor": "La check-list de sécurité avant de grimper",
+      "context": "même cocon, amont du dispositif"
     },
     {
       "slug": "meteo-falaise-decider-renoncer",
-      "anchor": "notre guide sur la décision de partir ou renoncer en falaise",
-      "context": "Article frère du cocon"
+      "anchor": "la lecture météo pour partir ou renoncer",
+      "context": "même cocon, amont du dispositif"
     }
   ],
   "scheduled_at": "2026-03-25T09:00:00+01:00"
