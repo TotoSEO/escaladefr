@@ -21,11 +21,11 @@
     },
     {
       "type": "p",
-      "html": "Le **<strong>112</strong>** est le numéro universel d'urgence en Europe. Tu peux l'appeler depuis n'importe quel téléphone, même sans abonnement, même sans réseau de ton opérateur tant qu'un autre opérateur est capté. C'est le réflexe par défaut en falaise. Le régulateur du 112 te bascule vers le service compétent, généralement le <strong>SAMU</strong> pour le médical ou la gendarmerie pour la coordination."
+      "html": "Le 112 est le numéro universel d'urgence en Europe. Tu peux l'appeler depuis n'importe quel téléphone, même sans abonnement, même sans réseau de ton opérateur tant qu'un autre opérateur est capté. C'est le réflexe par défaut en falaise. Le régulateur du 112 te bascule vers le service compétent, généralement le SAMU pour le médical ou la gendarmerie pour la coordination."
     },
     {
       "type": "p",
-      "html": "En **montagne et en falaise**, les unités spécialisées sont le **<strong>PGHM</strong>** (Peloton de Gendarmerie de Haute Montagne) et les **<strong>CRS Montagne</strong>**. Selon le département, l'un ou l'autre couvre la zone. Tu n'as pas besoin de savoir qui appeler exactement, le 112 fait l'aiguillage. Dans certaines régions, un numéro local secours montagne existe (Chamonix par exemple), mais le 112 fonctionne partout."
+      "html": "En montagne et en falaise, les unités spécialisées sont le PGHM (Peloton de Gendarmerie de Haute Montagne) et les CRS Montagne. Selon le département, l'un ou l'autre couvre la zone. Tu n'as pas besoin de savoir qui appeler exactement, le 112 fait l'aiguillage. Dans certaines régions, un numéro local secours montagne existe (Chamonix par exemple), mais le 112 fonctionne partout."
     },
     {
       "type": "list",
@@ -56,7 +56,7 @@
     },
     {
       "type": "p",
-      "html": "Quand tu appelles, le régulateur attend des informations précises dans un ordre logique. Tu commences par te présenter, puis tu donnes la **localisation précise** (commune, lieu dit, secteur de la falaise, coordonnées GPS si possible). Ensuite, tu décris le **nombre de victimes** et leur état (consciente, respire, saigne). Tu termines par les **circonstances** rapides de l'accident."
+      "html": "Quand tu appelles, le régulateur attend des informations précises dans un ordre logique. Tu commences par te présenter, puis tu donnes la localisation précise (commune, lieu dit, secteur de la falaise, coordonnées GPS si possible). Ensuite, tu décris le nombre de victimes et leur état (consciente, respire, saigne). Tu termines par les circonstances rapides de l'accident."
     },
     {
       "type": "p",
@@ -68,11 +68,11 @@
     },
     {
       "type": "p",
-      "html": "Les **coordonnées GPS** sont l'information la plus précieuse en falaise. Ton smartphone t'affiche les coordonnées via plusieurs applications : **Géoportail IGN** (référence en France), Maps me, Google Maps, ou simplement l'application Boussole d'iPhone. Tu lis les coordonnées au régulateur dans le format de l'application. Sur iPhone, les coordonnées s'affichent en degrés décimaux (par exemple 45.1234 N, 5.6789 E)."
+      "html": "Les coordonnées GPS sont l'information la plus précieuse en falaise. Ton smartphone t'affiche les coordonnées via plusieurs applications : Géoportail IGN (référence en France), Maps me, Google Maps, ou simplement l'application Boussole d'iPhone. Tu Sur iPhone, les coordonnées s'affichent en degrés décimaux (par exemple 45.1234 N, 5.6789 E)."
     },
     {
       "type": "p",
-      "html": "Si tu connais le nom du **secteur d'escalade** (par exemple Buoux secteur Bistrot, Céüse secteur Les Sangliers), tu le précises. Les unités de secours connaissent les sites majeurs et peuvent géolocaliser sans coordonnées. Sur les sites confidentiels ou peu fréquentés, les coordonnées GPS deviennent indispensables. Tu peux toujours envoyer ta position par SMS si le régulateur te le demande, c'est plus précis qu'une transmission orale."
+      "html": "Si tu connais le nom du secteur d'escalade (par exemple Buoux secteur Bistrot, Céüse secteur Les Sangliers), tu le précises. Les unités de secours connaissent les sites majeurs et peuvent géolocaliser sans coordonnées. Sur les sites confidentiels ou peu fréquentés, les coordonnées GPS deviennent indispensables. Tu peux toujours envoyer ta position par SMS si le régulateur te le demande, c'est plus précis qu'une transmission orale."
     },
     {
       "type": "tip",
@@ -86,11 +86,11 @@
     },
     {
       "type": "p",
-      "html": "Les secours veulent savoir comment arriver à toi. Tu précises l'**accessibilité du site** : distance depuis la route, dénivelé, type de sentier (large, escarpé, technique), présence d'un parking, possibilité de poser un hélicoptère, conditions météo locales. Cette information détermine si l'intervention se fait en hélicoptère, en véhicule terrestre ou en équipe pédestre."
+      "html": "Les secours veulent savoir comment arriver à toi. Tu précises l'accessibilité du site : distance depuis la route, dénivelé, type de sentier (large, escarpé, technique), présence d'un parking, possibilité de poser un hélicoptère, conditions météo locales. Cette information détermine si l'intervention se fait en hélicoptère, en véhicule terrestre ou en équipe pédestre."
     },
     {
       "type": "p",
-      "html": "Si tu es au pied d'une grande falaise isolée comme **Céüse, Verdon, Annot**, l'hélicoptère est la solution standard. Si tu es sur une falaise école accessible en cinq minutes depuis le parking, une équipe terrestre suffit. Tu transmets aussi la **météo locale** (vent, pluie, brouillard) qui peut empêcher un treuillage. Tu peux consulter <a href=\"/blog/helitreuillage-evacuation\">notre fiche sur l'hélitreuillage et l'évacuation</a> pour comprendre la suite."
+      "html": "Si tu es au pied d'une grande falaise isolée comme <strong>Céüse, Verdon, Annot</strong>, l'hélicoptère est la solution standard. Si tu es sur une falaise école accessible en cinq minutes depuis le parking, une équipe terrestre suffit. Tu transmets aussi la <strong>météo locale</strong> (vent, pluie, brouillard) qui peut empêcher un treuillage."
     },
     {
       "type": "h2",
@@ -98,7 +98,7 @@
     },
     {
       "type": "p",
-      "html": "Une fois l'alerte transmise, tu **ne raccroches pas**. Le régulateur peut te rappeler pour préciser des points, ajuster l'intervention, demander une évolution de l'état du blessé. Tu maintiens un contact actif tant qu'il ne te libère pas. Si la batterie de ton téléphone est faible, tu le précises immédiatement et tu désactives tout ce qui consomme (notifications, applications en arrière plan)."
+      "html": "Une fois l'alerte transmise, tu <strong>ne raccroches pas</strong>. Le régulateur peut te rappeler pour préciser des points, ajuster l'intervention, demander une évolution de l'état du blessé. Tu maintiens un contact actif tant qu'il ne te libère pas. Si la batterie de ton téléphone est faible, tu le précises immédiatement et tu désactives tout ce qui consomme (notifications, applications en arrière plan)."
     },
     {
       "type": "p",
@@ -140,11 +140,11 @@
     },
     {
       "type": "p",
-      "html": "Certains sites de falaise ne captent aucun réseau. Avant d'aller grimper en zone reculée, repère sur ta sortie le point le plus proche où tu retrouves du signal (parfois une crête à dix minutes de marche). En cas d'accident, **un grimpeur reste avec la victime**, un autre court vers le point de réseau pour appeler. Ne laisse jamais un blessé inconscient seul, sauf urgence absolue."
+      "html": "Certains sites de falaise ne captent aucun réseau. Avant d'aller grimper en zone reculée, repère sur ta sortie le point le plus proche où tu retrouves du signal (parfois une crête à dix minutes de marche). En cas d'accident, <strong>un grimpeur reste avec la victime</strong>, un autre court vers le point de réseau pour appeler. Ne laisse jamais un blessé inconscient seul, sauf urgence absolue."
     },
     {
       "type": "p",
-      "html": "Le **SMS au 114** fonctionne parfois là où la voix ne passe pas, parce qu'il demande moins de bande passante. Tu peux aussi envoyer un message via une balise satellite type Garmin inReach, devenu de plus en plus accessible. Pour la falaise française métropolitaine, c'est rarement nécessaire, mais en haute montagne ou en grande voie isolée, ça change la donne."
+      "html": "Le <strong>SMS au 114</strong> fonctionne parfois là où la voix ne passe pas, parce qu'il demande moins de bande passante. Tu peux aussi envoyer un message via une balise satellite type Garmin inReach, devenu de plus en plus accessible. Pour la falaise française métropolitaine, c'est rarement nécessaire, mais en haute montagne ou en grande voie isolée, ça change la donne."
     },
     {
       "type": "tip",
@@ -158,11 +158,11 @@
     },
     {
       "type": "p",
-      "html": "Quand l'accident arrive à plusieurs grimpeurs, la coordination compte autant que les gestes. Le **grimpeur expérimenté** s'occupe du bilan victime. Un autre appelle le 112 et reste en ligne. Un troisième prépare l'arrivée des secours (guidage sur sentier, sécurisation de la zone d'atterrissage). Chacun sait ce qu'il a à faire, on évite la dispersion et la perte de temps."
+      "html": "Quand l'accident arrive à plusieurs grimpeurs, la coordination compte autant que les gestes. Le <strong>grimpeur expérimenté</strong> s'occupe du bilan victime. Un autre appelle le 112 et reste en ligne. Un troisième prépare l'arrivée des secours (guidage sur sentier, sécurisation de la zone d'atterrissage). Chacun sait ce qu'il a à faire, on évite la dispersion et la perte de temps."
     },
     {
       "type": "p",
-      "html": "Si tu es seul avec le blessé, tu fais tout dans l'ordre PAS : protéger, alerter, secourir. Tu adaptes en fonction de l'état de la victime. Tu peux compléter avec <a href=\"/blog/partenaire-grimpe-confiance\">notre article sur le choix d'un partenaire de grimpe</a>, parce qu'un bon partenaire saura agir correctement en situation d'urgence."
+      "html": "Si tu es seul avec le blessé, tu fais tout dans l'ordre PAS : protéger, alerter, secourir. Tu adaptes en fonction de l'état de la victime."
     },
     {
       "type": "h2",
@@ -174,7 +174,7 @@
     },
     {
       "type": "p",
-      "html": "Ce que j'ai retenu : le régulateur reste calme et professionnel, il te guide. Tu n'as pas à improviser, tu réponds simplement à ses questions. Ta préparation préalable, c'est connaître les coordonnées de ton site, avoir le téléphone chargé, et savoir que **l'hélitreuillage** est la procédure habituelle en falaise. Le reste vient naturellement."
+      "html": "Ce que j'ai retenu : le régulateur reste calme et professionnel, il te guide. Tu n'as pas à improviser, tu réponds simplement à ses questions. Ta préparation préalable, c'est connaître les coordonnées de ton site, avoir le téléphone chargé, et savoir que <strong>l'hélitreuillage</strong> est la procédure habituelle en falaise. Le reste vient naturellement."
     },
     {
       "type": "quote",
@@ -188,7 +188,7 @@
     },
     {
       "type": "p",
-      "html": "Une fois la victime prise en charge, ton rôle ne s'arrête pas tout à fait. Si tu es témoin de l'accident, on peut te demander un témoignage pour le dossier de la gendarmerie. Tu notes ce que tu as vu, l'heure, les circonstances, sans interprétation. Tu informes éventuellement la **FFME** si le grimpeur était licencié, pour la déclaration de sinistre."
+      "html": "Une fois la victime prise en charge, ton rôle ne s'arrête pas tout à fait. Si tu es témoin de l'accident, on peut te demander un témoignage pour le dossier de la gendarmerie. Tu notes ce que tu as vu, l'heure, les circonstances, sans interprétation. Tu informes éventuellement la <strong>FFME</strong> si le grimpeur était licencié, pour la déclaration de sinistre."
     },
     {
       "type": "p",

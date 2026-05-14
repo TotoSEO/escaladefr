@@ -25,7 +25,7 @@
     },
     {
       "type": "p",
-      "html": "Edlinger ouvre des dizaines de voies majeures dans le Verdon, à Buoux et dans le Luberon. Ses années de gloire compétition, victorieux au Sportroccia 1985 puis aux premiers Masters de Bardonecchia, le posent comme premier champion populaire d'une discipline encore confidentielle. Décédé en 2012, il reste l'image que toute une génération associe à l'escalade. Lis notre <a href=\"/blog/patrick-edlinger-vie-falaise\">portrait complet de Patrick Edlinger</a>."
+      "html": "Edlinger ouvre des dizaines de voies majeures dans le Verdon, à Buoux et dans le Luberon. Ses années de gloire compétition, victorieux au Sportroccia 1985 puis aux premiers Masters de Bardonecchia, le posent comme premier champion populaire d'une discipline encore confidentielle. Décédé en 2012, il reste l'image que toute une génération associe à l'escalade."
     },
     {
       "type": "h2",
@@ -92,19 +92,47 @@
     },
     {
       "type": "p",
-      "html": "Au-delà du palmarès, Garnbret incarne une élégance gestuelle, une lecture parfaite de la voie et une régularité mentale rare. Elle a aussi élevé la barre en falaise avec plusieurs 9a féminins. Lis notre <a href=\"/blog/janja-garnbret-domination\">portrait de Janja Garnbret</a>."
+      "html": "Au-delà du palmarès, Garnbret incarne une élégance gestuelle, une lecture parfaite de la voie et une régularité mentale rare. Elle a aussi élevé la barre en falaise avec plusieurs 9a féminins."
     },
     {
       "type": "table",
       "caption": "Quelques performances historiques marquantes",
-      "headers": ["Grimpeur", "Performance", "Année"],
+      "headers": [
+        "Grimpeur",
+        "Performance",
+        "Année"
+      ],
       "rows": [
-        ["Lynn Hill", "First free ascent The Nose", "1993"],
-        ["Chris Sharma", "Realization 9a+ Céüse", "2001"],
-        ["Adam Ondra", "Silence 9c Norvège", "2017"],
-        ["Alex Honnold", "Free Solo El Capitan", "2017"],
-        ["Janja Garnbret", "Or olympique Tokyo", "2021"],
-        ["Alex Megos", "Bibliographie 9b+ Céüse", "2020"]
+        [
+          "Lynn Hill",
+          "First free ascent The Nose",
+          "1993"
+        ],
+        [
+          "Chris Sharma",
+          "Realization 9a+ Céüse",
+          "2001"
+        ],
+        [
+          "Adam Ondra",
+          "Silence 9c Norvège",
+          "2017"
+        ],
+        [
+          "Alex Honnold",
+          "Free Solo El Capitan",
+          "2017"
+        ],
+        [
+          "Janja Garnbret",
+          "Or olympique Tokyo",
+          "2021"
+        ],
+        [
+          "Alex Megos",
+          "Bibliographie 9b+ Céüse",
+          "2020"
+        ]
       ]
     },
     {
@@ -129,7 +157,7 @@
     },
     {
       "type": "p",
-      "html": "Côté français, Charlotte Durif domine la difficulté féminine depuis dix ans avec plusieurs 9a et des résultats internationaux. La regrettée Luce Douady, partie en 2020, incarnait l'espoir féminin tricolore avec des résultats remarquables à 16 ans. Le tissu compétition français continue de produire des talents que tu retrouveras aux Jeux Olympiques 2024 de Paris. Lis notre <a href=\"/blog/francaises-jeux-olympiques-2024\">dossier sur les Françaises aux JO 2024</a>."
+      "html": "Côté français, Charlotte Durif domine la difficulté féminine depuis dix ans avec plusieurs 9a et des résultats internationaux. La regrettée Luce Douady, partie en 2020, incarnait l'espoir féminin tricolore avec des résultats remarquables à 16 ans. Le tissu compétition français continue de produire des talents que tu retrouveras aux Jeux Olympiques 2024 de Paris."
     },
     {
       "type": "image_text",
@@ -149,7 +177,7 @@
     },
     {
       "type": "p",
-      "html": "Cette activité bénévole pèse en moyenne 100 à 300 heures par voie ouverte, du repérage au nettoyage en passant par l'achat du matériel (1 goujon à 4 euros, 10 à 15 par voie). Le réseau FFME structure ces engagements. Lis notre <a href=\"/blog/ouvreurs-voies-celebres-france\">dossier sur les grands ouvreurs français</a> pour découvrir cette face cachée du sport. Les ouvreurs jeunes générations comme Edu Marin ou Yann Ghesquiers prolongent ce travail discret, parfois nettoyé sur plusieurs jours, qui transforme un caillou anonyme en voie qu'on grimpe pendant des décennies."
+      "html": "Cette activité bénévole pèse en moyenne 100 à 300 heures par voie ouverte, du repérage au nettoyage en passant par l'achat du matériel (1 goujon à 4 euros, 10 à 15 par voie). Le réseau FFME structure ces engagements. Les ouvreurs jeunes générations comme Edu Marin ou Yann Ghesquiers prolongent ce travail discret, parfois nettoyé sur plusieurs jours, qui transforme un caillou anonyme en voie qu'on grimpe pendant des décennies."
     },
     {
       "type": "p",
@@ -173,7 +201,7 @@
     },
     {
       "type": "p",
-      "html": "Wolfgang Gullich a ouvert Action Directe en 1991, première voie cotée 9a au monde, dans le Frankenjura allemand. Cette voie de 13 mètres a longtemps représenté le sommet absolu de la difficulté. Chris Sharma a marqué la décennie 2000 avec Realization à Céüse (9a+, 2001), première ascension confirmée de ce niveau. Reinhold Messner a redéfini l'alpinisme avec ses ascensions des 14 sommets de plus de 8 000 mètres sans oxygène. Lis notre <a href=\"/blog/chris-sharma-pionnier\">portrait de Chris Sharma</a> et <a href=\"/blog/reinhold-messner-himalaya\">le parcours de Messner en Himalaya</a> pour comprendre leur empreinte."
+      "html": "Wolfgang Gullich a ouvert Action Directe en 1991, première voie cotée 9a au monde, dans le Frankenjura allemand. Cette voie de 13 mètres a longtemps représenté le sommet absolu de la difficulté. Chris Sharma a marqué la décennie 2000 avec Realization à Céüse (9a+, 2001), première ascension confirmée de ce niveau. Reinhold Messner a redéfini l'alpinisme avec ses ascensions des 14 sommets de plus de 8 000 mètres sans oxygène."
     },
     {
       "type": "p",

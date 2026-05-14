@@ -214,6 +214,39 @@ export function articleHref(slug: string): string {
   return `/blog/${slug}`;
 }
 
+export function coconHref(c: Cocon): string {
+  return `/blog/cocon/${COCON_SLUG[c]}`;
+}
+
+/** Trouve le cocon depuis son slug d'URL (inverse de COCON_SLUG). */
+export function coconFromSlug(slug: string): Cocon | null {
+  for (const [k, v] of Object.entries(COCON_SLUG)) {
+    if (v === slug) return k as Cocon;
+  }
+  return null;
+}
+
+export const COCON_DESCRIPTION: Record<Cocon, string> = {
+  techniques:
+    "Tout pour progresser en escalade : techniques de pied, lecture de voie, dyno, crochets de talon, gestion du dévers, mental, transition salle vers falaise.",
+  materiel:
+    "Chaussons, baudriers, cordes, casques, dégaines, systèmes d'assurage : panorama complet du matériel d'escalade en 2026, avec tests et entretien.",
+  noeuds:
+    "Les nœuds essentiels en escalade : huit, cabestan, demi-cabestan, prussik, machard, jonctions de rappel et auto-bloquants en grande voie.",
+  sites:
+    "Les sites d'escalade emblématiques de France : Verdon, Céüse, Bleau, Calanques, Sainte-Victoire, Buoux, Annot, Corse et confidentiels.",
+  personnalites:
+    "Portraits des grimpeurs et grimpeuses qui ont marqué l'histoire de l'escalade : Edlinger, Destivelle, Ondra, Garnbret, Honnold, Messner et autres.",
+  preparation:
+    "Préparation physique et mentale du grimpeur : musculation, hangboard, gainage, endurance, étirements, alimentation, sommeil, gestion du stress.",
+  securite:
+    "Sécurité en escalade : triple vérification, gestion de la chute, facteurs de chute, premiers secours, alerte des secours, hélitreuillage, météo.",
+  environnement:
+    "Grimper en respectant les sites : nidification, arrêtés préfectoraux, conventions départementales, parcs nationaux, magnésie, rocher fragile.",
+  culture:
+    "Histoire et culture de l'escalade : JO de Paris 2024, Fontainebleau, vie des grimpeurs pros, films cultes, livres de référence.",
+};
+
 const FR_MONTH_FULL = [
   "janvier", "février", "mars", "avril", "mai", "juin",
   "juillet", "août", "septembre", "octobre", "novembre", "décembre",

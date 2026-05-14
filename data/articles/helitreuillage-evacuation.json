@@ -21,11 +21,11 @@
     },
     {
       "type": "p",
-      "html": "L'**hélitreuillage** est utilisé quand l'évacuation par voie terrestre est impossible (paroi verticale, blessé inaccessible) ou trop longue pour la gravité de la blessure. C'est le régulateur du <strong>112</strong>, en lien avec le <strong>PGHM</strong> ou les <strong>CRS Montagne</strong>, qui prend la décision selon les informations transmises lors de l'appel. Le facteur déterminant reste la position du blessé : suspendu sur une voie en grande paroi, hélitreuillage. Allongé au pied d'une voie école accessible en quinze minutes de marche, équipe terrestre."
+      "html": "L'hélitreuillage est utilisé quand l'évacuation par voie terrestre est impossible (paroi verticale, blessé inaccessible) ou trop longue pour la gravité de la blessure. C'est le régulateur du 112, en lien avec le PGHM ou les CRS Montagne, qui prend la décision selon les informations transmises lors de l'appel. Le facteur déterminant reste la position du blessé : suspendu sur une voie en grande paroi, hélitreuillage. Allongé au pied d'une voie école accessible en quinze minutes de marche, équipe terrestre."
     },
     {
       "type": "p",
-      "html": "La météo joue aussi. Le **vent supérieur à 50 km/h**, le brouillard épais, la neige soufflée peuvent empêcher l'intervention héliportée. Dans ce cas, l'équipe terrestre arrive à pied, parfois en plusieurs heures selon le terrain. Tu peux relire <a href=\"/blog/alerter-secours-falaise\">notre procédure d'alerte aux secours en falaise</a> qui détaille les informations à transmettre pour préparer cette décision."
+      "html": "La météo joue aussi. Le vent supérieur à 50 km/h, le brouillard épais, la neige soufflée peuvent empêcher l'intervention héliportée. Dans ce cas, l'équipe terrestre arrive à pied, parfois en plusieurs heures selon le terrain. Tu peux relire <a href=\"/blog/alerter-secours-falaise\">notre procédure d'alerte aux secours en falaise</a> qui détaille les informations à transmettre pour préparer cette décision."
     },
     {
       "type": "h2",
@@ -33,11 +33,11 @@
     },
     {
       "type": "p",
-      "html": "Une fois l'hélitreuillage confirmé, tu prépares la **zone d'arrivée**. Tu cherches un endroit dégagé d'au moins quinze à vingt mètres de diamètre, à distance de la falaise (effet de turbulence), sans arbres trop proches, sans câbles, sans pylônes. Le pilote choisira en final entre poser au sol, faire du surplace (stationnaire) ou treuiller à distance selon le terrain. Tu ne décides pas pour lui, tu signales simplement la zone disponible."
+      "html": "Une fois l'hélitreuillage confirmé, tu prépares la zone d'arrivée. Tu cherches un endroit dégagé d'au moins quinze à vingt mètres de diamètre, à distance de la falaise (effet de turbulence), sans arbres trop proches, sans câbles, sans pylônes. Le pilote choisira en final entre poser au sol, faire du surplace (stationnaire) ou treuiller à distance selon le terrain. Tu ne décides pas pour lui, tu signales simplement la zone disponible."
     },
     {
       "type": "p",
-      "html": "Tu **ranges tout ce qui peut s'envoler** : sacs légers, vestes, cordes lovées, <strong>magnésie</strong>, casquettes. Le souffle du rotor (downwash) projette tout ce qui n'est pas plombé à plusieurs mètres. Une corde non rangée peut remonter dans le rotor et provoquer un accident grave. Les chiens en laisse ou tenus fermement, les enfants éloignés de la zone, les autres grimpeurs informés et stoppés dans leur progression."
+      "html": "Tu ranges tout ce qui peut s'envoler : sacs légers, vestes, cordes lovées, magnésie, casquettes. Le souffle du rotor (downwash) projette tout ce qui n'est pas plombé à plusieurs mètres. Une corde non rangée peut remonter dans le rotor et provoquer un accident grave. Les chiens en laisse ou tenus fermement, les enfants éloignés de la zone, les autres grimpeurs informés et stoppés dans leur progression."
     },
     {
       "type": "list",
@@ -72,11 +72,11 @@
     },
     {
       "type": "p",
-      "html": "À l'approche de l'hélicoptère, tu utilises les **signaux internationaux** reconnus par tous les services de secours. Le bras en V au dessus de la tête signifie OUI, besoin d'aide. Le bras gauche en haut et le bras droit en bas signifient NON, situation maîtrisée ou pas besoin d'aide. Tu te tiens debout, bien visible, dos au soleil si possible pour que ton image soit nette."
+      "html": "À l'approche de l'hélicoptère, tu utilises les signaux internationaux reconnus par tous les services de secours. Le bras en V au dessus de la tête signifie OUI, besoin d'aide. Le bras gauche en haut et le bras droit en bas signifient NON, situation maîtrisée ou pas besoin d'aide. Tu te tiens debout, bien visible, dos au soleil si possible pour que ton image soit nette."
     },
     {
       "type": "p",
-      "html": "Si tu as plusieurs blessés, tu lèves les bras autant de fois que de personnes à évacuer. Si la victime est en danger immédiat, tu peux ajouter un drap rouge au sol près d'elle. Les pilotes de la **Sécurité Civile** ou de la gendarmerie sont formés à lire ces signaux en vol, parfois depuis plusieurs centaines de mètres."
+      "html": "Si tu as plusieurs blessés, tu lèves les bras autant de fois que de personnes à évacuer. Si la victime est en danger immédiat, tu peux ajouter un drap rouge au sol près d'elle. Les pilotes de la <strong>Sécurité Civile</strong> ou de la gendarmerie sont formés à lire ces signaux en vol, parfois depuis plusieurs centaines de mètres."
     },
     {
       "type": "tip",
@@ -90,11 +90,11 @@
     },
     {
       "type": "p",
-      "html": "L'hélicoptère arrive en survol stationnaire, généralement face au vent. Le bruit du rotor et le souffle sont intenses, tu te tiens accroupi dos à l'appareil, mains au sol pour rester stable. Tu **ne cours jamais sous l'hélicoptère** sans autorisation. Le treuilliste descend en premier, c'est lui qui prend la direction des opérations. Tu obéis strictement à ses instructions, même contre intuitives."
+      "html": "L'hélicoptère arrive en survol stationnaire, généralement face au vent. Le bruit du rotor et le souffle sont intenses, tu te tiens accroupi dos à l'appareil, mains au sol pour rester stable. Tu <strong>ne cours jamais sous l'hélicoptère</strong> sans autorisation. Le treuilliste descend en premier, c'est lui qui prend la direction des opérations. Tu obéis strictement à ses instructions, même contre intuitives."
     },
     {
       "type": "p",
-      "html": "Si le pilote choisit de poser, l'hélicoptère se pose face au vent, les pales tournent toujours. Tu approches uniquement quand le treuilliste te fait signe, **toujours par l'avant** de l'appareil, jamais par l'arrière où se trouve le rotor de queue. Le rotor de queue est invisible en rotation et reste la cause principale d'accidents au sol autour des hélicoptères."
+      "html": "Si le pilote choisit de poser, l'hélicoptère se pose face au vent, les pales tournent toujours. Tu approches uniquement quand le treuilliste te fait signe, <strong>toujours par l'avant</strong> de l'appareil, jamais par l'arrière où se trouve le rotor de queue. Le rotor de queue est invisible en rotation et reste la cause principale d'accidents au sol autour des hélicoptères."
     },
     {
       "type": "h2",
@@ -102,7 +102,7 @@
     },
     {
       "type": "p",
-      "html": "Pour un blessé suspendu en paroi ou inaccessible, le treuilliste descend en bout de câble, accroche le blessé avec un **harnais de treuillage** ou une civière, et remonte avec lui dans l'appareil. L'opération dure quelques minutes selon la complexité. Tu n'as rien à faire pendant ce moment, tu restes éloigné, dos au vent, tu ne perds pas de vue les autres membres de ta cordée."
+      "html": "Pour un blessé suspendu en paroi ou inaccessible, le treuilliste descend en bout de câble, accroche le blessé avec un <strong>harnais de treuillage</strong> ou une civière, et remonte avec lui dans l'appareil. L'opération dure quelques minutes selon la complexité. Tu n'as rien à faire pendant ce moment, tu restes éloigné, dos au vent, tu ne perds pas de vue les autres membres de ta cordée."
     },
     {
       "type": "p",
@@ -150,11 +150,11 @@
     },
     {
       "type": "p",
-      "html": "Quand le blessé est suspendu en pleine paroi à plusieurs longueurs du sol, l'intervention devient technique. Le treuilliste descend en câble long, parfois sur **30 à 60 mètres**, pour atteindre le grimpeur. La cordée au sol n'a pas grand chose à faire si ce n'est tenir la position, signaler clairement et ne pas gêner. L'opération peut prendre 15 à 30 minutes selon les conditions."
+      "html": "Quand le blessé est suspendu en pleine paroi à plusieurs longueurs du sol, l'intervention devient technique. Le treuilliste descend en câble long, parfois sur <strong>30 à 60 mètres</strong>, pour atteindre le grimpeur. La cordée au sol n'a pas grand chose à faire si ce n'est tenir la position, signaler clairement et ne pas gêner. L'opération peut prendre 15 à 30 minutes selon les conditions."
     },
     {
       "type": "p",
-      "html": "Si tu es le partenaire encordé avec le blessé, tu restes accroché au relais. Le treuilliste va te demander de **désencorder la victime** au signal pour qu'il puisse l'extraire seul. Tu lâches la corde de la victime dans un nœud sécurisé, tu gardes ta propre vie suspendue au relais. Tu peux ensuite être évacué dans un deuxième temps ou redescendre par tes propres moyens si tu en es capable."
+      "html": "Si tu es le partenaire encordé avec le blessé, tu restes accroché au relais. Le treuilliste va te demander de <strong>désencorder la victime</strong> au signal pour qu'il puisse l'extraire seul. Tu lâches la corde de la victime dans un nœud sécurisé, tu gardes ta propre vie suspendue au relais. Tu peux ensuite être évacué dans un deuxième temps ou redescendre par tes propres moyens si tu en es capable."
     },
     {
       "type": "tip",
@@ -180,11 +180,11 @@
     },
     {
       "type": "p",
-      "html": "Une fois l'hélicoptère reparti, tu redescends au calme, tu rassembles le matériel du blessé (sa corde, ses chaussons, ses affaires personnelles). Tu informes les proches via leur téléphone s'ils en ont laissé l'accès, sinon tu attends que les secours s'en chargent. Tu rentres au parking, tu notes tout ce que tu as vu pour un éventuel témoignage administratif. Tu peux aussi consulter <a href=\"/blog/accidents-escalade-statistiques\">notre dossier sur les statistiques d'accidents en escalade</a> pour replacer ton vécu dans le contexte global."
+      "html": "Une fois l'hélicoptère reparti, tu redescends au calme, tu rassembles le matériel du blessé (sa corde, ses chaussons, ses affaires personnelles). Tu informes les proches via leur téléphone s'ils en ont laissé l'accès, sinon tu attends que les secours s'en chargent. Tu rentres au parking, tu notes tout ce que tu as vu pour un éventuel témoignage administratif."
     },
     {
       "type": "p",
-      "html": "Côté assurance, l'intervention héliportée est gratuite en France via les services publics, mais les frais médicaux à l'hôpital restent à la charge du blessé. La **licence FFME** et l'assurance personnelle prennent le relais selon les contrats. À l'étranger, l'hélitreuillage peut être facturé plusieurs milliers d'euros, une assurance rapatriement type Europ Assistance ou Mondial Assistance devient indispensable."
+      "html": "Côté assurance, l'intervention héliportée est gratuite en France via les services publics, mais les frais médicaux à l'hôpital restent à la charge du blessé. La <strong>licence FFME</strong> et l'assurance personnelle prennent le relais selon les contrats. À l'étranger, l'hélitreuillage peut être facturé plusieurs milliers d'euros, une assurance rapatriement type Europ Assistance ou Mondial Assistance devient indispensable."
     },
     {
       "type": "quote",
@@ -198,11 +198,11 @@
     },
     {
       "type": "p",
-      "html": "L'hélitreuillage reste un événement rare dans la vie d'un grimpeur, mais sa connaissance change la donne quand il arrive. La majorité des accidents de falaise se règlent sans intervention héliportée, par des cordées qui appliquent les bons gestes de premiers secours. Pour compléter ta formation, tu peux suivre un **stage premiers secours** spécifique escalade proposé par certains comités départementaux de la FFME."
+      "html": "L'hélitreuillage reste un événement rare dans la vie d'un grimpeur, mais sa connaissance change la donne quand il arrive. La majorité des accidents de falaise se règlent sans intervention héliportée, par des cordées qui appliquent les bons gestes de premiers secours."
     },
     {
       "type": "p",
-      "html": "Tu peux aussi prolonger ta lecture avec <a href=\"/blog/check-list-avant-grimper\">notre check list avant de grimper</a> et <a href=\"/blog/meteo-falaise-decider-renoncer\">notre guide sur la décision de partir ou renoncer en falaise</a>. La meilleure évacuation, c'est celle qui n'a pas lieu parce que l'accident a été évité."
+      "html": "Tu peux aussi prolonger ta lecture avec <a href=\"/blog/check-list-avant-grimper\">notre check list avant de grimper</a> et <a href=\"/blog/meteo-falaise-decider-renoncer\"> La meilleure évacuation, c'est celle qui n'a pas lieu parce que l'accident a été évité."
     }
   ],
   "faq": [

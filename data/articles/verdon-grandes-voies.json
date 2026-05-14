@@ -21,7 +21,7 @@
     },
     {
       "type": "p",
-      "html": "Le Verdon, c'est avant tout un lieu. La rivière a creusé des gorges profondes de 700 mètres dans le calcaire de haute Provence, dévoilant des parois compactes que les premiers grimpeurs ont commencé à explorer dans les années 1960. Quand tu arrives au-dessus du belvédère de la Maline pour la première fois, le vertige précède la grimpe. Tu regardes en bas, tu vois la rivière en filaments turquoise, et tu te dis que tu vas descendre là, en rappel, pour remonter par le rocher. Cette inversion est unique en France."
+      "html": "Le Verdon, c'est avant tout un lieu. La rivière a creusé des gorges profondes de 700 mètres dans le calcaire de haute Provence, dévoilant des parois compactes que les premiers grimpeurs ont commencé à explorer dans les années 1960. Quand tu arrives au-dessus du belvédère de la Maline pour la première fois, le vertige précède la grimpe. Tu regardes en bas, tu Cette inversion est unique en France."
     },
     {
       "type": "p",
@@ -42,16 +42,43 @@
     {
       "type": "table",
       "caption": "Fiche d'identité du site",
-      "headers": ["Critère", "Détail"],
+      "headers": [
+        "Critère",
+        "Détail"
+      ],
       "rows": [
-        ["Type de rocher", "Calcaire jurassique compact, panneaux et dalles"],
-        ["Discipline", "Grandes voies sportives, quelques voies trad"],
-        ["Cotations", "Du 5c au 9a, majorité entre 6b et 7b"],
-        ["Longueur des voies", "De 50 à 400 mètres, jusqu'à 12 longueurs"],
-        ["Période idéale", "Mai à octobre, l'été reste chaud sur certains secteurs"],
-        ["Accès", "La Palud-sur-Verdon, Aiguines, Castellane à proximité"],
-        ["Hébergement", "Gîtes à La Palud, camping municipal, refuges Bauchet et Mayreste"],
-        ["Topo", "Topo Sébastien Bohin, application La Pal grimpe"]
+        [
+          "Type de rocher",
+          "Calcaire jurassique compact, panneaux et dalles"
+        ],
+        [
+          "Discipline",
+          "Grandes voies sportives, quelques voies trad"
+        ],
+        [
+          "Cotations",
+          "Du 5c au 9a, majorité entre 6b et 7b"
+        ],
+        [
+          "Longueur des voies",
+          "De 50 à 400 mètres, jusqu'à 12 longueurs"
+        ],
+        [
+          "Période idéale",
+          "Mai à octobre, l'été reste chaud sur certains secteurs"
+        ],
+        [
+          "Accès",
+          "La Palud-sur-Verdon, Aiguines, Castellane à proximité"
+        ],
+        [
+          "Hébergement",
+          "Gîtes à La Palud, camping municipal, refuges Bauchet et Mayreste"
+        ],
+        [
+          "Topo",
+          "Topo Sébastien Bohin, application La Pal grimpe"
+        ]
       ]
     },
     {
@@ -64,7 +91,7 @@
     },
     {
       "type": "p",
-      "html": "<strong>La Demande</strong>, ouverte en 1968 par Joël Coqueugniot et François Guillot, reste la voie symbolique du Verdon. Six longueurs en 6a max, sur un calcaire parfait, dans une ligne pure. Tu descends en rappel jusqu'au relais d'attaque, tu te poses, tu lèves les yeux et tu vois la suite. Six longueurs plus tard, tu retrouves le plateau, épuisé et conquis. C'est la voie d'introduction parfaite au Verdon, accessible aux grimpeurs solides du 6a."
+      "html": "<strong>La Demande</strong>, ouverte en 1968 par Joël Coqueugniot et François Guillot, reste la voie symbolique du Verdon. Six longueurs en 6a max, sur un calcaire parfait, dans une ligne pure. Tu descends en rappel jusqu'au relais d'attaque, tu te poses, tu lèves les yeux et tu Six longueurs plus tard, tu retrouves le plateau, épuisé et conquis. C'est la voie d'introduction parfaite au Verdon, accessible aux grimpeurs solides du 6a."
     },
     {
       "type": "p",
@@ -138,7 +165,7 @@
     },
     {
       "type": "p",
-      "html": "Pour aller plus loin, consulte notre guide <a href=\"/blog/verdon-secteurs-rappel-acces\">accéder par rappel ou pédestre au Verdon</a>. Pour découvrir d'autres terrains, regarde notre <a href=\"/blog/sites-escalade-emblematiques-france\">tour des sites emblématiques de France</a> ou plonge dans <a href=\"/blog/fontainebleau-bloc-foret\">Fontainebleau, capitale mondiale du bloc</a> pour changer d'univers."
+      "html": "Pour découvrir d'autres terrains, regarde notre <a href=\"/blog/sites-escalade-emblematiques-france\">tour des sites emblématiques de France</a> ou plonge dans <a href=\"/blog/fontainebleau-bloc-foret\">Fontainebleau, capitale mondiale du bloc</a> pour changer d'univers."
     }
   ],
   "faq": [
@@ -169,10 +196,26 @@
   ],
   "cover_alt": "Grimpeur dans une grande voie du Verdon au-dessus des gorges et de la rivière turquoise",
   "internal_links": [
-    {"slug": "verdon-secteurs-rappel-acces", "anchor": "accéder par rappel ou pédestre au Verdon", "context": "Suite logique sur l'accès"},
-    {"slug": "sites-escalade-emblematiques-france", "anchor": "tour des sites emblématiques de France", "context": "Pilier du cocon"},
-    {"slug": "fontainebleau-bloc-foret", "anchor": "Fontainebleau, capitale mondiale du bloc", "context": "Comparaison avec l'autre site mythique"},
-    {"slug": "ceuse-cathedrale-calcaire", "anchor": "Céüse, cathédrale du calcaire", "context": "Autre site calcaire emblématique"}
+    {
+      "slug": "verdon-secteurs-rappel-acces",
+      "anchor": "accéder par rappel ou pédestre au Verdon",
+      "context": "Suite logique sur l'accès"
+    },
+    {
+      "slug": "sites-escalade-emblematiques-france",
+      "anchor": "tour des sites emblématiques de France",
+      "context": "Pilier du cocon"
+    },
+    {
+      "slug": "fontainebleau-bloc-foret",
+      "anchor": "Fontainebleau, capitale mondiale du bloc",
+      "context": "Comparaison avec l'autre site mythique"
+    },
+    {
+      "slug": "ceuse-cathedrale-calcaire",
+      "anchor": "Céüse, cathédrale du calcaire",
+      "context": "Autre site calcaire emblématique"
+    }
   ],
   "scheduled_at": "2026-11-12T09:00:00+01:00"
 }

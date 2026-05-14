@@ -42,14 +42,15 @@ export function SiteFooter() {
         {/* Mega signature */}
         <div className="grid grid-cols-12 items-end gap-8">
           <div className="col-span-12 lg:col-span-8">
-            <h2
+            <p
               className="font-display font-medium leading-[0.92] tracking-[-0.03em] text-balance"
               style={{ fontSize: "clamp(2.5rem, 9vw, 7rem)" }}
+              role="presentation"
             >
               On grimpe{" "}
               <span className="italic text-primary glow-ice-text">tous</span>{" "}
               ici.
-            </h2>
+            </p>
           </div>
 
           <div className="col-span-12 flex flex-col gap-3 lg:col-span-4 lg:items-end lg:text-right">
@@ -70,9 +71,9 @@ export function SiteFooter() {
         <div className="mt-20 grid grid-cols-12 gap-x-4 gap-y-12 border-t border-white/10 pt-12 sm:gap-x-8 sm:pt-16">
           {COLUMNS.map((col) => (
             <div key={col.title} className="col-span-6 sm:col-span-4 lg:col-span-3">
-              <h3 className="font-mono text-[10px] uppercase tracking-[0.28em] text-primary">
+              <p className="font-mono text-[10px] uppercase tracking-[0.28em] text-primary">
                 {col.title}
-              </h3>
+              </p>
               <ul className="mt-5 space-y-3">
                 {col.links.map((link) => (
                   <li key={link.href}>
@@ -90,9 +91,9 @@ export function SiteFooter() {
           ))}
 
           <div className="col-span-12 lg:col-span-3">
-            <h3 className="font-mono text-[10px] uppercase tracking-[0.28em] text-primary">
+            <p className="font-mono text-[10px] uppercase tracking-[0.28em] text-primary">
               Données
-            </h3>
+            </p>
             <p className="mt-5 text-sm leading-relaxed text-muted-foreground">
               Sites naturels issus du recensement public officiel. Salles
               indoor en cours de collecte. Mises à jour mensuelles, base de

@@ -21,11 +21,11 @@
     },
     {
       "type": "p",
-      "html": "Le **<strong>facteur de chute</strong>** se calcule par une formule : hauteur totale de chute divisée par longueur de corde déployée. Si tu chutes de deux mètres au dessus du dernier point avec dix mètres de corde sortie, tu tombes quatre mètres au total (deux mètres au dessus, deux mètres au dessous du point). Tu fais 4 divisé par 10, soit un facteur de chute de 0,4. C'est confortable, la corde absorbe largement."
+      "html": "Le facteur de chute se calcule par une formule : hauteur totale de chute divisée par longueur de corde déployée. Si tu chutes de deux mètres au dessus du dernier point avec dix mètres de corde sortie, tu tombes quatre mètres au total (deux mètres au dessus, deux mètres au dessous du point). Tu fais 4 divisé par 10, soit un facteur de chute de 0,4. C'est confortable, la corde absorbe largement."
     },
     {
       "type": "p",
-      "html": "Le maximum théorique est le **<strong>facteur de chute</strong> 2**. Tu l'atteins quand tu chutes au dessus de ton assureur sans aucun point intermédiaire. La corde n'a alors aucun mou utile pour amortir, et tout le choc passe sur le grimpeur, sur l'assureur, sur l'ancrage. C'est le cas extrême qu'on rencontre en <strong>grande voie</strong> au départ d'une longueur, juste après le relais. C'est aussi le cas qu'il faut absolument éviter."
+      "html": "Le maximum théorique est le facteur de chute 2. Tu l'atteins quand tu chutes au dessus de ton assureur sans aucun point intermédiaire. La corde n'a alors aucun mou utile pour amortir, et tout le choc passe sur le grimpeur, sur l'assureur, sur l'ancrage. C'est le cas extrême qu'on rencontre en grande voie au départ d'une longueur, juste après le relais. C'est aussi le cas qu'il faut absolument éviter."
     },
     {
       "type": "list",
@@ -52,11 +52,11 @@
     },
     {
       "type": "p",
-      "html": "Les forces qui s'exercent sur le grimpeur en chute se mesurent en **kilonewtons (kN)**. Un kilonewton équivaut à environ cent kilogrammes pesés à terre. Sur une chute de facteur 0,5 à 1, le grimpeur encaisse en général entre 3 et 5 kN. C'est l'équivalent de trois à cinq fois son poids. Désagréable mais sans conséquence sur un grimpeur sain."
+      "html": "Les forces qui s'exercent sur le grimpeur en chute se mesurent en kilonewtons (kN). Un kilonewton équivaut à environ cent kilogrammes pesés à terre. Sur une chute de facteur 0,5 à 1, le grimpeur encaisse en général entre 3 et 5 kN. C'est l'équivalent de trois à cinq fois son poids. Désagréable mais sans conséquence sur un grimpeur sain."
     },
     {
       "type": "p",
-      "html": "Sur un <strong>facteur de chute</strong> 1,7 à 2, les **forces de choc** peuvent dépasser 6 voire 8 kN selon la corde, l'assureur et la position. La norme **EN 892** impose qu'une corde simple dynamique ne transmette pas plus de 12 kN au grimpeur sur une chute test de facteur 1,77 avec 80 kg de masse. Au delà, le corps humain commence à encaisser des lésions internes. Le baudrier homologué EN 12277 supporte largement plus, donc le maillon faible reste bien le grimpeur."
+      "html": "Sur un facteur de chute 1,7 à 2, les forces de choc peuvent dépasser 6 voire 8 kN selon la corde, l'assureur et la position. La norme EN 892 impose qu'une corde simple dynamique ne transmette pas plus de 12 kN au grimpeur sur une chute test de facteur 1,77 avec 80 kg de masse. Au delà, le corps humain commence à encaisser des lésions internes. Le baudrier homologué EN 12277 supporte largement plus, donc le maillon faible reste bien le grimpeur."
     },
     {
       "type": "table",
@@ -95,11 +95,11 @@
     },
     {
       "type": "p",
-      "html": "La **corde dynamique** d'escalade s'étire au moment du choc, de **30 à 40% de sa longueur**. Cet étirement absorbe une grande partie de l'énergie, l'autre partie étant absorbée par le mouvement de l'assureur et la friction sur les dégaines. Une corde statique ne s'étire pas, elle te casserait littéralement le dos sur une chute de facteur supérieur à 0,3. C'est pour ça que la corde statique ne sert jamais à l'assurage en tête."
+      "html": "La <strong>corde dynamique</strong> d'escalade s'étire au moment du choc, de <strong>30 à 40% de sa longueur</strong>. Cet étirement absorbe une grande partie de l'énergie, l'autre partie étant absorbée par le mouvement de l'assureur et la friction sur les dégaines. Une corde statique ne s'étire pas, elle te casserait littéralement le dos sur une chute de facteur supérieur à 0,3. C'est pour ça que la corde statique ne sert jamais à l'assurage en tête."
     },
     {
       "type": "p",
-      "html": "Les modèles **Beal Joker, Mammut Infinity, Edelrid Boa, Petzl Volta** couvrent tous l'usage sport. Les fiches techniques précisent la force de choc nominale, généralement entre 7,5 et 9 kN sur un test EN 892. Plus la corde est dynamique, plus elle absorbe, mais plus l'allongement est important sous charge. Sur une grande voie, tu privilégies une corde aux performances équilibrées. Tu peux consulter <a href=\"/blog/securite-escalade-regles-essentielles\">notre pilier sur les règles essentielles de sécurité</a> pour comprendre comment ces normes s'inscrivent dans la pratique."
+      "html": "Les modèles <strong>Beal Joker, Mammut Infinity, Edelrid Boa, Petzl Volta</strong> couvrent tous l'usage sport. Les fiches techniques précisent la force de choc nominale, généralement entre 7,5 et 9 kN sur un test EN 892. Plus la corde est dynamique, plus elle absorbe, mais plus l'allongement est important sous charge. Sur une grande voie, tu privilégies une corde aux performances équilibrées."
     },
     {
       "type": "tip",
@@ -113,11 +113,11 @@
     },
     {
       "type": "p",
-      "html": "L'**assureur dynamique** se laisse soulever par le choc au moment de la chute. Sur les dix premiers points, c'est essentiel : un assureur qui bloque pied à terre transmet tout le choc sur le grimpeur et sur le point. Tu sautes légèrement vers le mur, tu absorbes deux à trois mètres de mou supplémentaires, tu divises la force de choc par deux. C'est une compétence qui s'apprend en stage et qui sépare l'assureur correct du très bon assureur."
+      "html": "L'<strong>assureur dynamique</strong> se laisse soulever par le choc au moment de la chute. Sur les dix premiers points, c'est essentiel : un assureur qui bloque pied à terre transmet tout le choc sur le grimpeur et sur le point. Tu sautes légèrement vers le mur, tu absorbes deux à trois mètres de mou supplémentaires, tu divises la force de choc par deux. C'est une compétence qui s'apprend en stage et qui sépare l'assureur correct du très bon assureur."
     },
     {
       "type": "p",
-      "html": "Au dessus du dixième point, en revanche, tu reviens à un assurage plus ferme : la longueur de corde sortie dilue déjà naturellement le choc, l'étirement absorbe la majeure partie. Sur le **GriGri Petzl**, l'assureur garde toujours une main sur le brin libre, c'est la règle constructeur. Tu peux relire <a href=\"/blog/partenaire-grimpe-confiance\">notre article sur le choix d'un partenaire de confiance</a>, parce que la qualité de l'assurage repose intégralement sur la personne au sol."
+      "html": "Au dessus du dixième point, en revanche, tu reviens à un assurage plus ferme : la longueur de corde sortie dilue déjà naturellement le choc, l'étirement absorbe la majeure partie. Sur le <strong>GriGri Petzl</strong>, l'assureur garde toujours une main sur le brin libre, c'est la règle constructeur. Tu peux relire <a href=\"/blog/partenaire-grimpe-confiance\">"
     },
     {
       "type": "h2",
@@ -125,11 +125,11 @@
     },
     {
       "type": "p",
-      "html": "Le **facteur de chute 2** arrive principalement en grande voie, au démarrage d'une longueur, quand le grimpeur sort du relais sans avoir clippé un point intermédiaire au dessus. S'il chute à ce moment, il tombe en pendule sur le relais, et la corde n'a presque rien à absorber. Le choc remonte directement vers le relais et l'assureur. Le risque concret : rupture d'un piton, désolidarisation d'un coinceur, choc grave sur l'assureur, lésion vertébrale du grimpeur."
+      "html": "Le <strong>facteur de chute 2</strong> arrive principalement en grande voie, au démarrage d'une longueur, quand le grimpeur sort du relais sans avoir clippé un point intermédiaire au dessus. S'il chute à ce moment, il tombe en pendule sur le relais, et la corde n'a presque rien à absorber. Le choc remonte directement vers le relais et l'assureur. Le risque concret : rupture d'un piton, désolidarisation d'un coinceur, choc grave sur l'assureur, lésion vertébrale du grimpeur."
     },
     {
       "type": "p",
-      "html": "La parade s'apprend dès le passage en grande voie : on installe un **renvoi sur le relais** dès la première sortie. Une dégaine longue sur le point haut du relais, le grimpeur clippe immédiatement avant de partir vers le haut. Si chute, le facteur retombe à un maximum de 1,5 voire moins selon la position. Le risque devient gérable, le matériel et le corps encaissent sans drame. C'est l'une des premières choses qu'on enseigne en formation FFME initiation grande voie."
+      "html": "La parade s'apprend dès le passage en grande voie : on installe un <strong>renvoi sur le relais</strong> dès la première sortie. Une dégaine longue sur le point haut du relais, le grimpeur clippe immédiatement avant de partir vers le haut. Si chute, le facteur retombe à un maximum de 1,5 voire moins selon la position. Le risque devient gérable, le matériel et le corps encaissent sans drame. C'est l'une des premières choses qu'on enseigne en formation FFME initiation grande voie."
     },
     {
       "type": "tip",
@@ -143,7 +143,7 @@
     },
     {
       "type": "p",
-      "html": "La chute en tête, ça s'apprend. Premier réflexe : tu pousses légèrement vers le mur en pliant les jambes, tu absorbes le contact avec le pied, jamais avec la main. Tu gardes la corde **devant ta jambe**, pas derrière le mollet, sinon tu chutes tête en bas avec un risque de retournement. Tu regardes vers le bas pour anticiper la zone d'arrivée, sans crisper le corps."
+      "html": "La chute en tête, ça s'apprend. Premier réflexe : tu pousses légèrement vers le mur en pliant les jambes, tu absorbes le contact avec le pied, jamais avec la main. Tu gardes la corde <strong>devant ta jambe</strong>, pas derrière le mollet, sinon tu chutes tête en bas avec un risque de retournement. Tu regardes vers le bas pour anticiper la zone d'arrivée, sans crisper le corps."
     },
     {
       "type": "p",
@@ -165,7 +165,7 @@
     },
     {
       "type": "p",
-      "html": "Pour aller plus loin, tu peux compléter avec <a href=\"/blog/rappel-securite-procedure\">notre guide sur la procédure de rappel sécurisé</a> et <a href=\"/blog/check-list-avant-grimper\">la check list à appliquer avant de grimper</a>. La sécurité, c'est l'accumulation de petits gestes maîtrisés, pas un super pouvoir."
+      "html": "Pour aller plus loin, La sécurité, c'est l'accumulation de petits gestes maîtrisés, pas un super pouvoir."
     }
   ],
   "faq": [

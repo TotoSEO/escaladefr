@@ -50,15 +50,39 @@
     {
       "type": "table",
       "caption": "Fiche d'identité du site",
-      "headers": ["Critère", "Détail"],
+      "headers": [
+        "Critère",
+        "Détail"
+      ],
       "rows": [
-        ["Type de rocher", "Grès stampien, blocs et boules de 2 à 15 mètres"],
-        ["Discipline", "Bloc, quelques voies courtes dans certains secteurs"],
-        ["Cotations", "Du 3 au 9A, échelle Font qui sert de référence mondiale"],
-        ["Période idéale", "Octobre à mars, conditions sèches et fraîches"],
-        ["Accès", "Train depuis Paris, gare de Fontainebleau-Avon, puis bus ou vélo"],
-        ["Hébergement", "Camping La Musardière, gîtes d'Arbonne, hôtels à Fontainebleau ville"],
-        ["Topo", "Bleau.info, topos 7+8 et 5+6 de Bart van Raaij, application Boolder"]
+        [
+          "Type de rocher",
+          "Grès stampien, blocs et boules de 2 à 15 mètres"
+        ],
+        [
+          "Discipline",
+          "Bloc, quelques voies courtes dans certains secteurs"
+        ],
+        [
+          "Cotations",
+          "Du 3 au 9A, échelle Font qui sert de référence mondiale"
+        ],
+        [
+          "Période idéale",
+          "Octobre à mars, conditions sèches et fraîches"
+        ],
+        [
+          "Accès",
+          "Train depuis Paris, gare de Fontainebleau-Avon, puis bus ou vélo"
+        ],
+        [
+          "Hébergement",
+          "Camping La Musardière, gîtes d'Arbonne, hôtels à Fontainebleau ville"
+        ],
+        [
+          "Topo",
+          "Bleau.info, topos 7+8 et 5+6 de Bart van Raaij, application Boolder"
+        ]
       ]
     },
     {
@@ -86,12 +110,30 @@
       "variant": "bullets",
       "title": "Les principales couleurs et leur niveau",
       "items": [
-        {"title": "Jaune (PD)", "body": "Pour les premières fois, parfait pour les enfants et les débutants adultes. Cotations 2 et 3."},
-        {"title": "Orange (AD)", "body": "Initiation sérieuse, niveau 3 et 4. Permet de se faire les bras sans se mettre en danger."},
-        {"title": "Bleu (D)", "body": "Le cœur de cible des intermédiaires, niveau 4 à 5 selon les sites."},
-        {"title": "Rouge (TD)", "body": "Niveau 5 à 6A, à partir de là il faut du physique et de la technique."},
-        {"title": "Noir (ED)", "body": "Niveau 6 à 7. Des classiques mythiques comme le noir du Bas Cuvier."},
-        {"title": "Blanc (ED+)", "body": "Réservé aux fortes. Niveau 7 et plus, blocs durs et engagés sur les hauts."}
+        {
+          "title": "Jaune (PD)",
+          "body": "Pour les premières fois, parfait pour les enfants et les débutants adultes. Cotations 2 et 3."
+        },
+        {
+          "title": "Orange (AD)",
+          "body": "Initiation sérieuse, niveau 3 et 4. Permet de se faire les bras sans se mettre en danger."
+        },
+        {
+          "title": "Bleu (D)",
+          "body": "Le cœur de cible des intermédiaires, niveau 4 à 5 selon les sites."
+        },
+        {
+          "title": "Rouge (TD)",
+          "body": "Niveau 5 à 6A, à partir de là il faut du physique et de la technique."
+        },
+        {
+          "title": "Noir (ED)",
+          "body": "Niveau 6 à 7. Des classiques mythiques comme le noir du Bas Cuvier."
+        },
+        {
+          "title": "Blanc (ED+)",
+          "body": "Réservé aux fortes. Niveau 7 et plus, blocs durs et engagés sur les hauts."
+        }
       ]
     },
     {
@@ -150,7 +192,7 @@
     },
     {
       "type": "p",
-      "html": "Tu peux approfondir avec les guides <a href=\"/blog/bleau-circuits-debutant\">circuits de Bleau pour débuter</a> et <a href=\"/blog/bleau-secteurs-incontournables\">secteurs incontournables de Bleau</a>. Pour comparer avec d'autres sites majeurs, va voir notre <a href=\"/blog/sites-escalade-emblematiques-france\">tour des sites emblématiques de France</a> ou plonge dans les <a href=\"/blog/verdon-grandes-voies\">grandes voies du Verdon</a>."
+      "html": "Pour comparer avec d'autres sites majeurs, va voir notre <a href=\"/blog/sites-escalade-emblematiques-france\">tour des sites emblématiques de France</a> ou plonge dans les <a href=\"/blog/verdon-grandes-voies\">grandes voies du Verdon</a>."
     }
   ],
   "faq": [
@@ -181,10 +223,26 @@
   ],
   "cover_alt": "Grimpeur sur un bloc de grès dans la forêt de Fontainebleau à l'automne",
   "internal_links": [
-    {"slug": "bleau-circuits-debutant", "anchor": "circuits de Bleau pour débuter", "context": "Suite logique sur les circuits"},
-    {"slug": "bleau-secteurs-incontournables", "anchor": "secteurs incontournables de Bleau", "context": "Approfondissement par secteur"},
-    {"slug": "sites-escalade-emblematiques-france", "anchor": "tour des sites emblématiques de France", "context": "Pilier du cocon"},
-    {"slug": "verdon-grandes-voies", "anchor": "grandes voies du Verdon", "context": "Lien vers l'autre site mythique"}
+    {
+      "slug": "bleau-circuits-debutant",
+      "anchor": "circuits de Bleau pour débuter",
+      "context": "Suite logique sur les circuits"
+    },
+    {
+      "slug": "bleau-secteurs-incontournables",
+      "anchor": "secteurs incontournables de Bleau",
+      "context": "Approfondissement par secteur"
+    },
+    {
+      "slug": "sites-escalade-emblematiques-france",
+      "anchor": "tour des sites emblématiques de France",
+      "context": "Pilier du cocon"
+    },
+    {
+      "slug": "verdon-grandes-voies",
+      "anchor": "grandes voies du Verdon",
+      "context": "Lien vers l'autre site mythique"
+    }
   ],
   "scheduled_at": "2026-11-05T09:00:00+01:00"
 }

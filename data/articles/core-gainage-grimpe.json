@@ -15,60 +15,225 @@
     "Trois minutes par séance suffisent si tu varies les angles."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Pourquoi le core est central en grimpe"},
-    {"type": "p", "html": "Quand tu grimpes un dévers à 30 degrés, ton bassin tend à tomber en arrière à chaque mouvement. Sans <strong>transverse</strong> et <strong>obliques</strong> activés, tu perds le contact pieds-mur en deux secondes. Tu te retrouves à tirer comme un bourrin sur des prises qui auraient dû tenir facile. Le gainage prévient cette chute du bassin et transmet la force entre la chaîne supérieure et la chaîne inférieure."},
-    {"type": "p", "html": "J'ai grimpé deux ans en pensant que la force venait des bras. Mon coach Pascal m'a fait essayer un 7a en surplomb à Stetten, j'ai pompé en quatre mouvements. Il m'a fait travailler le hollow body et la planche dynamique pendant trois mois. Le même 7a est passé sans pomper. Le gainage débloque les niveaux."},
-    {"type": "h2", "text": "Anatomie du core appliquée à la grimpe"},
-    {"type": "p", "html": "Le core ne se limite pas aux grands droits visibles en six packs. Il englobe le <strong>transverse de l'abdomen</strong>, les obliques interne et externe, les muscles érecteurs du rachis et le plancher pelvien. C'est l'ensemble de ces muscles qui stabilise la colonne et permet le transfert de force. Bosser uniquement les crunchs développe le grand droit sans toucher au transverse, qui est le muscle clé pour la grimpe."},
-    {"type": "p", "html": "Le <strong>front lever</strong>, posture gymnique horizontale, mobilise massivement le transverse et les fixateurs scapulaires. C'est l'exercice ultime du gainage de grimpeur, mais il demande deux ans de travail régulier pour être tenu propre. Vise plutôt les régressions : tuck front lever, advanced tuck, single leg, full. Tu progresses étape par étape."},
-    {"type": "h2", "text": "Les exercices de base à maîtriser"},
-    {"type": "list", "variant": "numbered", "title": "Routine gainage 10 minutes par séance", "items": [
-      {"title": "Hollow body 30 secondes", "body": "Allongé sur le dos, bas du dos plaqué au sol, bras tendus au-dessus, jambes tendues à 15 centimètres du sol. Trois séries."},
-      {"title": "Planche frontale 45 secondes", "body": "Coudes sous les épaules, corps aligné, pas de cassure de bassin. Trois séries."},
-      {"title": "Planche latérale 30 secondes par côté", "body": "Coude sous l'épaule, hanche haute, corps en ligne. Deux séries par côté."},
-      {"title": "Mountain climbers 30 secondes", "body": "Position planche, tu ramènes alternativement les genoux vers la poitrine en rythme rapide."},
-      {"title": "Russian twists lestés 20 répétitions", "body": "Assis, jambes décollées, tu touches le sol à gauche puis à droite avec une charge de 5 kilos."}
-    ]},
-    {"type": "h2", "text": "Le gainage dynamique versus statique"},
-    {"type": "p", "html": "Le gainage statique, la planche tenue 5 minutes, a longtemps été le standard. Mais la grimpe n'est pas un sport statique. En dévers, ton bassin se déplace en permanence, ton transverse travaille dynamiquement. Privilégie donc les exercices dynamiques : <strong>hollow body to superman</strong>, planche avec passages d'épaules, dragon flag régressé, mountain climbers."},
-    {"type": "p", "html": "Une étude du Lattice Training de 2021 a montré que les grimpeurs de haut niveau passaient 70 pour cent de leur temps de core sur des exercices dynamiques. Le statique reste utile en finition de séance, mais c'est le dynamique qui débloque la perf en falaise. Mon programme actuel : 80 pour cent dynamique, 20 pour cent statique."},
-    {"type": "tip", "title": "Erreur classique", "body": "Faire de la planche tenue 5 minutes en pensant que c'est utile. Le résultat est de mieux tenir une planche, point. Sans transfert vers la grimpe, tu gagnes peu en falaise. Le gainage doit ressembler à ce que tu fais sur le mur : court, intense, varié, avec coordination bras-tronc-jambes.", "tone": "erreur"},
-    {"type": "h2", "text": "Le front lever : objectif d'un an"},
-    {"type": "p", "html": "Le front lever est ce moment où tu te tiens horizontal sous une barre, bras tendus, corps parfaitement aligné. Il demande une force de gainage exceptionnelle. La progression standard passe par cinq étapes : skin the cat, tuck hold, advanced tuck, single leg, full front lever. Chaque palier prend deux à six mois selon ton niveau."},
-    {"type": "table", "caption": "Progression front lever par étapes", "headers": ["Étape", "Durée moyenne", "Temps cible", "Difficulté"],
-    "rows": [
-      ["Skin the cat", "1 à 2 mois", "5 répétitions", "Accessible"],
-      ["Tuck hold", "2 à 3 mois", "20 secondes", "Modérée"],
-      ["Advanced tuck", "3 à 4 mois", "15 secondes", "Difficile"],
-      ["Single leg", "4 à 6 mois", "10 secondes par jambe", "Très difficile"],
-      ["Full front lever", "6 à 12 mois", "5 secondes", "Expert"]
-    ]},
-    {"type": "h2", "text": "Le core en falaise et en bloc"},
-    {"type": "p", "html": "Sur un bloc à fort dévers, type Hueco Tanks ou Fontainebleau Bas Cuvier, le core sert à maintenir la tension entre les mains et les pieds. Tu sentiras la différence dès la première fente lourde. Sur falaise sportive en surplomb continu, le core sert à conserver la position pieds-mur sur la longueur. Deux logiques différentes mais même outil de fond."},
-    {"type": "p", "html": "Mon expérience à Buoux sur le secteur Bout du Monde : avant trois mois de core dédié, je sortais en 25 minutes avec deux repos sols sur une 7a+. Après, même voie en 12 minutes sans repos. La grimpe en surplomb ne s'apprend pas seulement sur le mur, elle se construit en partie au sol avec des exercices ciblés."},
-    {"type": "h2", "text": "Intégrer le core dans la semaine"},
-    {"type": "p", "html": "Compte trois à quatre séances de core par semaine, 10 minutes chacune. Tu peux les caler en fin de séance d'<a href=\"/blog/musculation-grimpeur-base\">entraînement musculation</a>, ou en début de matinée à jeun. Le core récupère vite, tu peux en faire presque tous les jours. Évite simplement le core lourd la veille d'une grosse séance projet."},
-    {"type": "p", "html": "Mes meilleurs résultats sont venus d'un bloc de huit semaines à quatre séances par semaine de 10 minutes, suivies d'une semaine de décharge. Sur deux ans, ce protocole m'a permis de tenir un front lever single leg 8 secondes, et de passer mon premier 8a dévers à Saint Léger du Ventoux."},
-    {"type": "h2", "text": "Mon erreur des deux premières années"},
-    {"type": "p", "html": "Je faisais 60 crunchs par séance en pensant muscler mon core. Erreur. Le crunch travaille le grand droit visible, pas le transverse profond. J'avais des abdos jolis mais pas de transfert vers la grimpe. Le déclic est venu quand un préparateur physique m'a montré le hollow body. Trois mois plus tard, mes voies déversées sont devenues plus fluides."},
-    {"type": "quote", "text": "Tes abdos ne servent à rien si ton transverse ne s'active pas pendant le mouvement de traction. La grimpe ne récompense pas le visible, elle récompense le fonctionnel.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
-    {"type": "p", "html": "Pour compléter ton entraînement, lis <a href=\"/blog/endurance-continuite-grimpe\">travailler l'endurance et la continuité</a> et <a href=\"/blog/preparer-corps-tete-grimpe\">la préparation physique et mentale du grimpeur</a>. La progression demande de la patience et un protocole solide."}
+    {
+      "type": "h2",
+      "text": "Pourquoi le core est central en grimpe"
+    },
+    {
+      "type": "p",
+      "html": "Quand tu grimpes un dévers à 30 degrés, ton bassin tend à tomber en arrière à chaque mouvement. Sans <strong>transverse</strong> et <strong>obliques</strong> activés, tu perds le contact pieds-mur en deux secondes. Tu te retrouves à tirer comme un bourrin sur des prises qui auraient dû tenir facile. Le gainage prévient cette chute du bassin et transmet la force entre la chaîne supérieure et la chaîne inférieure."
+    },
+    {
+      "type": "p",
+      "html": "J'ai grimpé deux ans en pensant que la force venait des bras. Mon coach Pascal m'a fait essayer un 7a en surplomb à Stetten, j'ai pompé en quatre mouvements. Il m'a fait travailler le hollow body et la planche dynamique pendant trois mois. Le même 7a est passé sans pomper. Le gainage débloque les niveaux."
+    },
+    {
+      "type": "h2",
+      "text": "Anatomie du core appliquée à la grimpe"
+    },
+    {
+      "type": "p",
+      "html": "Le core ne se limite pas aux grands droits visibles en six packs. Il englobe le <strong>transverse de l'abdomen</strong>, les obliques interne et externe, les muscles érecteurs du rachis et le plancher pelvien. C'est l'ensemble de ces muscles qui stabilise la colonne et permet le transfert de force. Bosser uniquement les crunchs développe le grand droit sans toucher au transverse, qui est le muscle clé pour la grimpe."
+    },
+    {
+      "type": "p",
+      "html": "Le <strong>front lever</strong>, posture gymnique horizontale, mobilise massivement le transverse et les fixateurs scapulaires. C'est l'exercice ultime du gainage de grimpeur, mais il demande deux ans de travail régulier pour être tenu propre. Vise plutôt les régressions : tuck front lever, advanced tuck, single leg, full. Tu progresses étape par étape."
+    },
+    {
+      "type": "h2",
+      "text": "Les exercices de base à maîtriser"
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Routine gainage 10 minutes par séance",
+      "items": [
+        {
+          "title": "Hollow body 30 secondes",
+          "body": "Allongé sur le dos, bas du dos plaqué au sol, bras tendus au-dessus, jambes tendues à 15 centimètres du sol. Trois séries."
+        },
+        {
+          "title": "Planche frontale 45 secondes",
+          "body": "Coudes sous les épaules, corps aligné, pas de cassure de bassin. Trois séries."
+        },
+        {
+          "title": "Planche latérale 30 secondes par côté",
+          "body": "Coude sous l'épaule, hanche haute, corps en ligne. Deux séries par côté."
+        },
+        {
+          "title": "Mountain climbers 30 secondes",
+          "body": "Position planche, tu ramènes alternativement les genoux vers la poitrine en rythme rapide."
+        },
+        {
+          "title": "Russian twists lestés 20 répétitions",
+          "body": "Assis, jambes décollées, tu touches le sol à gauche puis à droite avec une charge de 5 kilos."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Le gainage dynamique versus statique"
+    },
+    {
+      "type": "p",
+      "html": "Le gainage statique, la planche tenue 5 minutes, a longtemps été le standard. Mais la grimpe n'est pas un sport statique. En dévers, ton bassin se déplace en permanence, ton transverse travaille dynamiquement. Privilégie donc les exercices dynamiques : <strong>hollow body to superman</strong>, planche avec passages d'épaules, dragon flag régressé, mountain climbers."
+    },
+    {
+      "type": "p",
+      "html": "Une étude du Lattice Training de 2021 a montré que les grimpeurs de haut niveau passaient 70 pour cent de leur temps de core sur des exercices dynamiques. Le statique reste utile en finition de séance, mais c'est le dynamique qui débloque la perf en falaise. Mon programme actuel : 80 pour cent dynamique, 20 pour cent statique."
+    },
+    {
+      "type": "tip",
+      "title": "Erreur classique",
+      "body": "Faire de la planche tenue 5 minutes en pensant que c'est utile. Le résultat est de mieux tenir une planche, point. Sans transfert vers la grimpe, tu gagnes peu en falaise. Le gainage doit ressembler à ce que tu fais sur le mur : court, intense, varié, avec coordination bras-tronc-jambes.",
+      "tone": "erreur"
+    },
+    {
+      "type": "h2",
+      "text": "Le front lever : objectif d'un an"
+    },
+    {
+      "type": "p",
+      "html": "Le front lever est ce moment où tu te tiens horizontal sous une barre, bras tendus, corps parfaitement aligné. Il demande une force de gainage exceptionnelle. La progression standard passe par cinq étapes : skin the cat, tuck hold, advanced tuck, single leg, full front lever. Chaque palier prend deux à six mois selon ton niveau."
+    },
+    {
+      "type": "table",
+      "caption": "Progression front lever par étapes",
+      "headers": [
+        "Étape",
+        "Durée moyenne",
+        "Temps cible",
+        "Difficulté"
+      ],
+      "rows": [
+        [
+          "Skin the cat",
+          "1 à 2 mois",
+          "5 répétitions",
+          "Accessible"
+        ],
+        [
+          "Tuck hold",
+          "2 à 3 mois",
+          "20 secondes",
+          "Modérée"
+        ],
+        [
+          "Advanced tuck",
+          "3 à 4 mois",
+          "15 secondes",
+          "Difficile"
+        ],
+        [
+          "Single leg",
+          "4 à 6 mois",
+          "10 secondes par jambe",
+          "Très difficile"
+        ],
+        [
+          "Full front lever",
+          "6 à 12 mois",
+          "5 secondes",
+          "Expert"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Le core en falaise et en bloc"
+    },
+    {
+      "type": "p",
+      "html": "Sur un bloc à fort dévers, type Hueco Tanks ou Fontainebleau Bas Cuvier, le core sert à maintenir la tension entre les mains et les pieds. Tu sentiras la différence dès la première fente lourde. Sur falaise sportive en surplomb continu, le core sert à conserver la position pieds-mur sur la longueur. Deux logiques différentes mais même outil de fond."
+    },
+    {
+      "type": "p",
+      "html": "Mon expérience à Buoux sur le secteur Bout du Monde : avant trois mois de core dédié, je sortais en 25 minutes avec deux repos sols sur une 7a+. Après, même voie en 12 minutes sans repos. La grimpe en surplomb ne s'apprend pas seulement sur le mur, elle se construit en partie au sol avec des exercices ciblés."
+    },
+    {
+      "type": "h2",
+      "text": "Intégrer le core dans la semaine"
+    },
+    {
+      "type": "p",
+      "html": "Compte trois à quatre séances de core par semaine, 10 minutes chacune. Tu peux les caler en fin de séance d'<a href=\"/blog/musculation-grimpeur-base\">entraînement musculation</a>, ou en début de matinée à jeun. Le core récupère vite, tu peux en faire presque tous les jours. Évite simplement le core lourd la veille d'une grosse séance projet."
+    },
+    {
+      "type": "p",
+      "html": "Mes meilleurs résultats sont venus d'un bloc de huit semaines à quatre séances par semaine de 10 minutes, suivies d'une semaine de décharge. Sur deux ans, ce protocole m'a permis de tenir un front lever single leg 8 secondes, et de passer mon premier 8a dévers à Saint Léger du Ventoux."
+    },
+    {
+      "type": "h2",
+      "text": "Mon erreur des deux premières années"
+    },
+    {
+      "type": "p",
+      "html": "Je faisais 60 crunchs par séance en pensant muscler mon core. Erreur. Le crunch travaille le grand droit visible, pas le transverse profond. J'avais des abdos jolis mais pas de transfert vers la grimpe. Le déclic est venu quand un préparateur physique m'a montré le hollow body. Trois mois plus tard, mes voies déversées sont devenues plus fluides."
+    },
+    {
+      "type": "quote",
+      "text": "Tes abdos ne servent à rien si ton transverse ne s'active pas pendant le mouvement de traction. La grimpe ne récompense pas le visible, elle récompense le fonctionnel.",
+      "author": "Antoine",
+      "role": "Rédacteur escalade-france.fr"
+    },
+    {
+      "type": "p",
+      "html": "La progression demande de la patience et un protocole solide."
+    }
   ],
   "faq": [
-    {"q": "Combien de temps pour voir les résultats du gainage en grimpe ?", "a": "Compte six à huit semaines pour les premières adaptations, douze semaines pour un transfert net en falaise. Tu sentiras d'abord une meilleure stabilité du bassin en dévers, puis une diminution de la pompe sur les voies surplombantes, et enfin une coordination plus fine entre bras et pieds."},
-    {"q": "Faut-il faire des crunchs pour la grimpe ?", "a": "Pas en priorité. Le crunch travaille le grand droit, muscle peu fonctionnel pour la grimpe. Préfère hollow body, planches dynamiques, front lever régressé. Ces exercices mobilisent le transverse, qui est le muscle clé du transfert de force entre bras et pieds en dévers."},
-    {"q": "Peut-on faire le gainage tous les jours ?", "a": "Oui pour le gainage modéré 5 à 10 minutes. Le core récupère vite, tu peux le solliciter quotidiennement. Évite simplement les séances très intenses de 30 minutes plus de trois fois par semaine. La récupération musculaire reste nécessaire pour les progrès neuraux."},
-    {"q": "Le front lever est-il obligatoire pour le 8a ?", "a": "Non, mais une régression solide aide vraiment. Beaucoup de 8a francs n'ont pas le front lever full, mais tous tiennent un advanced tuck propre 10 secondes. Vise cette régression plutôt que la perf gymnique pure. La grimpe demande du gainage spécifique, pas de la perf isolée."},
-    {"q": "Combien de minutes de core par séance ?", "a": "Vise 10 minutes de core ciblé par séance, trois à quatre fois par semaine. Plus, tu accumules de la fatigue sans gain proportionnel. Moins, tu progresses lentement. Concentre-toi sur la qualité du mouvement et la variété des angles plutôt que sur la durée."},
-    {"q": "Le yoga peut-il remplacer le gainage pour la grimpe ?", "a": "Pas complètement. Le yoga apporte mobilité et conscience corporelle, mais peu de gainage dynamique spécifique. Tu peux combiner yoga deux fois par semaine et core grimpe deux fois par semaine. C'est complémentaire, pas substituable. Le yoga n'aura pas le même effet sur la perf dévers."}
+    {
+      "q": "Combien de temps pour voir les résultats du gainage en grimpe ?",
+      "a": "Compte six à huit semaines pour les premières adaptations, douze semaines pour un transfert net en falaise. Tu sentiras d'abord une meilleure stabilité du bassin en dévers, puis une diminution de la pompe sur les voies surplombantes, et enfin une coordination plus fine entre bras et pieds."
+    },
+    {
+      "q": "Faut-il faire des crunchs pour la grimpe ?",
+      "a": "Pas en priorité. Le crunch travaille le grand droit, muscle peu fonctionnel pour la grimpe. Préfère hollow body, planches dynamiques, front lever régressé. Ces exercices mobilisent le transverse, qui est le muscle clé du transfert de force entre bras et pieds en dévers."
+    },
+    {
+      "q": "Peut-on faire le gainage tous les jours ?",
+      "a": "Oui pour le gainage modéré 5 à 10 minutes. Le core récupère vite, tu peux le solliciter quotidiennement. Évite simplement les séances très intenses de 30 minutes plus de trois fois par semaine. La récupération musculaire reste nécessaire pour les progrès neuraux."
+    },
+    {
+      "q": "Le front lever est-il obligatoire pour le 8a ?",
+      "a": "Non, mais une régression solide aide vraiment. Beaucoup de 8a francs n'ont pas le front lever full, mais tous tiennent un advanced tuck propre 10 secondes. Vise cette régression plutôt que la perf gymnique pure. La grimpe demande du gainage spécifique, pas de la perf isolée."
+    },
+    {
+      "q": "Combien de minutes de core par séance ?",
+      "a": "Vise 10 minutes de core ciblé par séance, trois à quatre fois par semaine. Plus, tu accumules de la fatigue sans gain proportionnel. Moins, tu progresses lentement. Concentre-toi sur la qualité du mouvement et la variété des angles plutôt que sur la durée."
+    },
+    {
+      "q": "Le yoga peut-il remplacer le gainage pour la grimpe ?",
+      "a": "Pas complètement. Le yoga apporte mobilité et conscience corporelle, mais peu de gainage dynamique spécifique. Tu peux combiner yoga deux fois par semaine et core grimpe deux fois par semaine. C'est complémentaire, pas substituable. Le yoga n'aura pas le même effet sur la perf dévers."
+    }
   ],
   "cover_alt": "Grimpeur en position hollow body au sol, bras tendus au-dessus de la tête, jambes décollées",
   "internal_links": [
-    {"slug": "preparer-corps-tete-grimpe", "anchor": "la préparation physique et mentale du grimpeur", "context": "Pilier préparation"},
-    {"slug": "musculation-grimpeur-base", "anchor": "entraînement musculation", "context": "Force complémentaire"},
-    {"slug": "endurance-continuite-grimpe", "anchor": "travailler l'endurance et la continuité", "context": "Endurance"},
-    {"slug": "grip-strength-poutre-pan", "anchor": "travailler les doigts à la poutre", "context": "Force doigts"},
-    {"slug": "echauffement-grimpe-routine", "anchor": "routine d'échauffement avant la grimpe", "context": "Préparation séance"}
+    {
+      "slug": "preparer-corps-tete-grimpe",
+      "anchor": "la préparation physique et mentale du grimpeur",
+      "context": "Pilier préparation"
+    },
+    {
+      "slug": "musculation-grimpeur-base",
+      "anchor": "entraînement musculation",
+      "context": "Force complémentaire"
+    },
+    {
+      "slug": "endurance-continuite-grimpe",
+      "anchor": "travailler l'endurance et la continuité",
+      "context": "Endurance"
+    },
+    {
+      "slug": "grip-strength-poutre-pan",
+      "anchor": "travailler les doigts à la poutre",
+      "context": "Force doigts"
+    },
+    {
+      "slug": "echauffement-grimpe-routine",
+      "anchor": "routine d'échauffement avant la grimpe",
+      "context": "Préparation séance"
+    }
   ],
   "scheduled_at": "2027-02-13T09:00:00+01:00"
 }
