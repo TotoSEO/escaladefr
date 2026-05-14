@@ -33,14 +33,16 @@ export function WhoIsBehind() {
 
           <div className="col-span-12 sm:col-span-8 lg:col-span-9">
             <article className="grid grid-cols-1 gap-8 rounded-3xl border border-white/10 bg-coal-900/60 p-7 sm:p-10 lg:grid-cols-[auto_1fr] lg:gap-12 lg:p-12">
-              {/* Visuel typographique */}
-              <div className="flex h-32 w-32 shrink-0 items-center justify-center self-start rounded-3xl bg-primary/15 font-display italic text-primary sm:h-40 sm:w-40">
-                <span
-                  className="font-medium leading-none"
-                  style={{ fontSize: "clamp(3rem, 6vw, 5rem)" }}
-                >
-                  A
-                </span>
+              {/* Photo d'Antoine */}
+              <div className="relative h-32 w-32 shrink-0 self-start overflow-hidden rounded-3xl ring-1 ring-white/10 sm:h-40 sm:w-40">
+                <Image
+                  src="/blog/antoine-escalade-france.webp"
+                  alt="Antoine, rédacteur d'escalade-france.fr, en train de grimper en salle"
+                  fill
+                  sizes="(min-width: 640px) 160px, 128px"
+                  className="object-cover"
+                  priority={false}
+                />
               </div>
 
               <div>

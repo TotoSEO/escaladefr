@@ -207,6 +207,38 @@ def validate_article(art: dict, slug: str) -> list[str]:
     return errors
 
 
+def _content_signature(art: dict) -> str:
+    """Empreinte stable de ce qui doit déclencher dateModified : body + liens + meta."""
+    import hashlib, json as _json
+    payload = {
+        "body_blocks": art["body_blocks"],
+        "internal_links": art.get("internal_links"),
+        "h1": art["h1"],
+        "title": art["title"],
+        "description": art["description"],
+        "chapo": art["chapo"],
+        "takeaways": art["takeaways"],
+        "faq": art.get("faq"),
+    }
+    return hashlib.sha256(
+        _json.dumps(payload, ensure_ascii=False, sort_keys=True).encode("utf-8")
+    ).hexdigest()
+
+
+def _fetch_existing(slug: str) -> dict | None:
+    r = requests.get(
+        f"{SUPABASE_URL}/rest/v1/blog_articles",
+        headers=SB_HEADERS,
+        params={"select": "body_blocks,internal_links,h1,title,description,chapo,takeaways,faq,updated_at",
+                "slug": f"eq.{slug}"},
+        timeout=20,
+    )
+    if r.status_code != 200:
+        return None
+    rows = r.json()
+    return rows[0] if rows else None
+
+
 def upsert(art: dict, slug: str, force_publish: bool = False) -> bool:
     scheduled_at = dt.datetime.fromisoformat(art["scheduled_at"])
     now = dt.datetime.now(dt.timezone.utc)
@@ -215,6 +247,30 @@ def upsert(art: dict, slug: str, force_publish: bool = False) -> bool:
     is_due = scheduled_at <= now
     status = "published" if (is_due or force_publish) else "scheduled"
     published_at = scheduled_at.isoformat() if status == "published" else None
+
+    # updated_at : ne bumper QUE si le contenu sémantique a réellement changé
+    # (body, liens internes, meta). Sinon on conserve l'ancien updated_at.
+    new_sig = _content_signature(art)
+    existing = _fetch_existing(slug)
+    if existing is None:
+        # première insertion
+        updated_at = now.isoformat()
+    else:
+        old_sig = _content_signature({
+            "body_blocks": existing.get("body_blocks"),
+            "internal_links": existing.get("internal_links"),
+            "h1": existing.get("h1"),
+            "title": existing.get("title"),
+            "description": existing.get("description"),
+            "chapo": existing.get("chapo"),
+            "takeaways": existing.get("takeaways"),
+            "faq": existing.get("faq"),
+        })
+        if old_sig == new_sig:
+            # contenu identique → on garde l'ancien updated_at
+            updated_at = existing.get("updated_at") or now.isoformat()
+        else:
+            updated_at = now.isoformat()
 
     payload = {
         "slug": slug,
@@ -237,7 +293,7 @@ def upsert(art: dict, slug: str, force_publish: bool = False) -> bool:
         "status": status,
         "author_name": art.get("author_name", "Antoine"),
         "author_url": art.get("author_url", "/a-propos"),
-        "updated_at": dt.datetime.now(dt.timezone.utc).isoformat(),
+        "updated_at": updated_at,
     }
 
     r = requests.post(
