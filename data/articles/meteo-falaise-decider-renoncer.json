@@ -21,7 +21,7 @@
     },
     {
       "type": "p",
-      "html": "Pour lire la météo en falaise, tu croises plusieurs sources de prévision. Météo France reste la référence officielle, avec des bulletins de massif détaillés pour les zones de montagne. Windy offre une visualisation cartographique des vents et précipitations très lisible. Météo Blue donne des prévisions à 10 jours plus locales que Météo France. Aucune source seule n'est infaillible, le croisement reste le meilleur indicateur."
+      "html": "Pour lire la météo en falaise, tu croises plusieurs sources de prévision. Nous proposons aussi <a href=\"/outils/meteo\">notre bulletin météo escalade par site</a> pour croiser rapidement orientation, ensoleillement et bulletin par site. Météo France reste la référence officielle, avec des bulletins de massif détaillés pour les zones de montagne. Windy offre une visualisation cartographique des vents et précipitations très lisible. Météo Blue donne des prévisions à 10 jours plus locales que Météo France. Aucune source seule n'est infaillible, le croisement reste le meilleur indicateur."
     },
     {
       "type": "p",
