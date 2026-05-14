@@ -1,0 +1,265 @@
+{
+  "slug": "noeud-mule-bloquant-corde",
+  "cocon": "noeuds",
+  "type_article": "astuce",
+  "numero": 156,
+  "title": "Nœud de mule : bloquer la corde sans matériel mécanique",
+  "h1": "Le nœud de mule pour bloquer la corde, technique de relais autonome",
+  "description": "Nœud de mule : tracé, application sur italien, libération sous charge, usage en secours grande voie. Le nœud qui libère les mains de l'assureur.",
+  "chapo": "Le nœud de mule transforme un assurage sous tension en relais stable sans intervention manuelle. Cette compétence reste indispensable en grande voie quand l'assureur doit libérer ses mains pour une manipulation, gérer un secours ou simplement souffler. J'ai découvert son utilité réelle pendant un stage UCPA dans les Calanques où mon partenaire est resté suspendu vingt minutes en charge. Décryptage du tracé et des usages.",
+  "takeaways": [
+    "Le nœud de mule se monte sur un demi-cabestan italien chargé, sans démonter le système d'assurage en place.",
+    "Le tracé en boucle bloquée par une queue de vache crée un verrouillage qui résiste à plusieurs centaines de kilos sans se défaire.",
+    "La libération sous charge se fait par traction simple sur le brin libre, ce qui rétablit le défilement de l'italien.",
+    "Le nœud reste enseigné en formation FFME et UIAGM comme compétence de relais autonome et secours.",
+    "L'usage typique concerne les manipulations de relais en grande voie quand l'assureur doit avoir les deux mains libres."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Ce qu'est le nœud de mule et son rôle"
+    },
+    {
+      "type": "p",
+      "html": "Le <strong>nœud de mule</strong> est un nœud de blocage qui se monte sur un système d'assurage chargé pour le verrouiller sans pression manuelle. Son nom vient probablement de l'usage ancien en muletage, où le nœud servait à bloquer la corde de chargement sur une mule de bât. En escalade moderne, il se monte presque exclusivement sur un demi-cabestan italien, plus rarement sur un tube en configuration de plaquette."
+    },
+    {
+      "type": "p",
+      "html": "Le rôle du nœud de mule consiste à libérer l'assureur de la pression manuelle continue sur le brin libre. Quand un grimpeur reste suspendu en charge à la corde, l'assureur doit normalement maintenir le freinage par compression du brin libre. Cette tension manuelle devient pénible au-delà de quelques minutes et empêche l'assureur d'utiliser ses mains pour autre chose. Le nœud de mule verrouille le système et permet à l'assureur de relâcher complètement la corde."
+    },
+    {
+      "type": "p",
+      "html": "Cette compétence intervient dans plusieurs configurations concrètes. La manipulation au relais en grande voie, le passage de matériel entre partenaires, l'assistance à un grimpeur bloqué dans une voie, la gestion d'un secours léger. Le <a href=\"/blog/noeuds-escalade-utiles-guide\">panorama des nœuds utiles</a> classe la mule dans la catégorie des nœuds avancés, enseignés au-delà de l'initiation pour les pratiquants engagés en autonomie."
+    },
+    {
+      "type": "h2",
+      "text": "La configuration de départ avec un italien chargé"
+    },
+    {
+      "type": "p",
+      "html": "Le nœud de mule se monte sur un <a href=\"/blog/noeud-italien-improvise\">nœud italien</a> déjà en place et déjà chargé. La configuration typique commence par un assureur qui retient un grimpeur en charge sur la corde, soit après une chute en moulinette, soit après une suspension volontaire pour repos, soit en gestion de secours. La main de freinage tient le brin libre en position de blocage maximal, c'est-à-dire ramené du même côté que le brin tendu."
+    },
+    {
+      "type": "p",
+      "html": "La main libre est alors disponible pour tracer le nœud de mule. La main de freinage reste en place pendant toute la manipulation, sans relâcher la tension. Cette redondance protège contre une erreur de tracé qui libérerait le système prématurément. Une fois le nœud de mule terminé et vérifié, la main de freinage peut se relâcher progressivement, en testant que le blocage est effectif."
+    },
+    {
+      "type": "p",
+      "html": "Le nœud se trace exclusivement avec le brin libre, jamais avec le brin tendu qui reste connecté au grimpeur en charge. Cette règle absolue garantit la continuité du système d'assurage pendant la manipulation. Toute action sur le brin tendu en charge présenterait un risque inacceptable."
+    },
+    {
+      "type": "h2",
+      "text": "Le tracé du nœud de mule étape par étape"
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Les cinq étapes du tracé de la mule sur italien",
+      "items": [
+        {
+          "title": "Former la boucle de blocage",
+          "body": "Tu prends une portion du brin libre à environ vingt centimètres du nœud italien. Tu formes une boucle simple en passant cette portion par-dessus le brin libre lui-même, en créant un nœud demi-fait."
+        },
+        {
+          "title": "Passer la boucle dans le brin tendu",
+          "body": "Tu passes la boucle ainsi formée par-dessus le brin tendu connecté au grimpeur, sans jamais toucher ce brin tendu lui-même. La boucle entoure simplement le brin tendu sans le bouger."
+        },
+        {
+          "title": "Tirer la boucle pour serrer la mule",
+          "body": "Tu tires la boucle vers l'arrière, ce qui serre le nœud sur lui-même autour du brin tendu. Le serrage doit être ferme mais pas écrasant. La mule prend sa forme caractéristique avec une boucle externe pendante."
+        },
+        {
+          "title": "Sécuriser par une queue de vache",
+          "body": "Tu sécurises le nœud en passant le brin libre dans la boucle pendante de la mule, en formant une queue de vache. Cette sécurité empêche le nœud de se défaire spontanément sous vibration ou friction."
+        },
+        {
+          "title": "Vérifier et relâcher",
+          "body": "Tu vérifies visuellement le tracé complet, la mule serrée sur le brin tendu et la queue de vache sécurisée. Tu relâches progressivement la main de freinage en testant que le système tient la charge sans glissement."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "html": "La vérification finale repose sur deux critères visuels. Premièrement, la mule doit serrer fermement le brin tendu, sans laisser de jeu apparent. Deuxièmement, la queue de vache de sécurité doit être nettement engagée dans la boucle pendante, avec un brin libre dépassant d'au moins dix centimètres après la queue de vache. Si l'un des deux critères n'est pas rempli, refais le nœud depuis le début."
+    },
+    {
+      "type": "h2",
+      "text": "La libération du nœud sous charge"
+    },
+    {
+      "type": "p",
+      "html": "La libération du nœud de mule reste l'opération la plus délicate, parce qu'elle s'effectue alors que la charge est toujours présente. La méthode standard suit deux temps. Premier temps, tu reprends la main de freinage en compression sur le brin libre du même côté que le brin tendu, pour rétablir le freinage manuel avant de défaire la mule. Sans cette préparation, le système se libère brutalement et le grimpeur descend en chute libre."
+    },
+    {
+      "type": "p",
+      "html": "Deuxième temps, tu défais la queue de vache de sécurité en tirant simplement sur le brin libre dans le sens du défilement. La queue se libère facilement. Puis tu tires plus fortement, ce qui défait la mule progressivement. Le système italien reprend son fonctionnement normal, sous le contrôle de la main de freinage que tu as maintenue en position. Tu peux alors descendre le grimpeur ou reprendre la manipulation."
+    },
+    {
+      "type": "tip",
+      "title": "Tester la mule sans charge réelle",
+      "body": "Avant d'utiliser la mule en situation engagée, exerce-toi avec un partenaire suspendu en moulinette en salle ou en bas de falaise. Tu installes l'italien, tu fais charger le partenaire, tu poses la mule, tu relâches les mains, tu reprends et tu défais la mule. Répète cet enchaînement dix à vingt fois jusqu'à ce que les gestes deviennent fluides. Le jour où la situation se présente en grande voie, tu agis sans hésitation.",
+      "tone": "astuce"
+    },
+    {
+      "type": "p",
+      "html": "Une variante courante du tracé permet la libération sans rétablir la main de freinage préalable. La <strong>mule en double tour</strong> ajoute une boucle supplémentaire qui crée un freinage résiduel même pendant la libération. Cette variante reste enseignée dans les stages avancés FFME pour les situations de secours où l'assureur ne peut pas garder les deux mains disponibles. Pour un usage standard, la mule simple suffit largement."
+    },
+    {
+      "type": "h2",
+      "text": "Les situations d'usage en pratique réelle"
+    },
+    {
+      "type": "p",
+      "html": "Premier usage typique, la <strong>manipulation au relais en grande voie</strong>. Le grimpeur de tête arrive au relais, fait charger son second en lui demandant de se vacher. Le grimpeur de tête a besoin de manipuler son matériel, ranger les dégaines, préparer la longueur suivante. Il pose un italien sur son baudrier, assure le second, bloque par une mule pour libérer ses mains. Cette procédure reste classique en grande voie de plusieurs longueurs."
+    },
+    {
+      "type": "p",
+      "html": "Deuxième usage, l'<strong>assistance à un grimpeur bloqué</strong>. Le grimpeur de tête tombe et se retrouve suspendu dans une section qu'il ne parvient pas à passer. L'assureur en bas bloque la corde sur une mule, ce qui lui permet de monter au pied de la voie pour parler au grimpeur, ou d'agir sur le matériel sans tension permanente du brin de freinage."
+    },
+    {
+      "type": "p",
+      "html": "Troisième usage, le <strong>secours léger en cordée</strong>. Le partenaire blessé reste suspendu en charge, l'autre membre de la cordée doit gérer une alerte par téléphone, préparer une descente, ou simplement attendre les secours. Le nœud de mule libère les mains pour ces opérations sans relâcher l'assurage du blessé."
+    },
+    {
+      "type": "table",
+      "caption": "Les configurations d'usage de la mule en escalade",
+      "headers": [
+        "Situation",
+        "Système d'assurage",
+        "Durée typique",
+        "Niveau de pratique"
+      ],
+      "rows": [
+        [
+          "Relais grande voie",
+          "Italien sur HMS",
+          "5 à 20 minutes",
+          "Avancé autonome"
+        ],
+        [
+          "Repos grimpeur tête",
+          "Italien sur baudrier",
+          "1 à 5 minutes",
+          "Intermédiaire"
+        ],
+        [
+          "Secours léger",
+          "Italien sur relais",
+          "10 à 60 minutes",
+          "Expert"
+        ],
+        [
+          "Manipulation matériel",
+          "Italien chargé",
+          "2 à 5 minutes",
+          "Avancé"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Le nœud de mule sur autre système que l'italien"
+    },
+    {
+      "type": "p",
+      "html": "La mule reste théoriquement applicable sur d'autres systèmes d'assurage que l'italien, mais la pratique courante limite son usage à ce nœud spécifique. Sur un tube standard type Reverso, la configuration géométrique du tube en position de freinage permet d'attacher un nœud de blocage similaire à la mule, mais la procédure devient plus complexe et moins enseignée. Le Grigri possède son propre mécanisme de blocage qui rend la mule superflue."
+    },
+    {
+      "type": "p",
+      "html": "Sur les plaquettes type Plaquette ou Reverso en mode guide, le blocage automatique du dispositif sous charge dispense également de la mule. Le grimpeur peut donc relâcher les mains sans manipulation supplémentaire. Cette propriété rend les plaquettes particulièrement appréciées en grande voie pour l'assurage du second, où la gestion des mains libres devient un confort important."
+    },
+    {
+      "type": "p",
+      "html": "L'italien plus la mule conserve néanmoins son intérêt unique pour les configurations de dépannage, quand l'assureur n'a qu'un mousqueton HMS disponible. La combinaison reste l'outil polyvalent par excellence du grimpeur autonome en autonomie engagée."
+    },
+    {
+      "type": "h2",
+      "text": "Les erreurs courantes du tracé"
+    },
+    {
+      "type": "p",
+      "html": "Première erreur, oublier la queue de vache de sécurité. Sans cette sécurité, la mule peut se défaire spontanément sous vibration ou friction, surtout si le brin libre est tiré accidentellement. Le nœud doit toujours être sécurisé par une queue de vache, sans exception. La <a href=\"/blog/verifier-noeud-partenaire\">vérification systématique du tracé</a> doit inclure ce point."
+    },
+    {
+      "type": "p",
+      "html": "Deuxième erreur, serrer la mule trop fort, ce qui rend la libération difficile sous charge. La mule doit être serrée ferme mais sans excès, juste assez pour bloquer le défilement de l'italien. Un serrage excessif crée un nœud qui demande une force importante pour se libérer, ce qui peut être problématique en cas de secours rapide."
+    },
+    {
+      "type": "p",
+      "html": "Troisième erreur, tracer la mule sans maintien préalable du freinage manuel. Si l'assureur lâche le brin libre pendant le tracé, le grimpeur en charge chute. La main de freinage reste systématiquement engagée sur le brin libre pendant toute la manipulation, sans exception. Cette règle absolue s'enseigne dès la première démonstration de la mule en stage."
+    },
+    {
+      "type": "quote",
+      "text": "La mule, c'est le nœud qui te rend autonome en grande voie. Sans elle, tu restes prisonnier de la corde tendue, mains crispées. Avec elle, tu gagnes une vraie liberté de manipulation au relais. Ça change tout sur les longues courses.",
+      "author": "Antoine",
+      "role": "grimpeur 8a, formé au lycée Camille Sée Colmar"
+    },
+    {
+      "type": "h2",
+      "text": "L'apprentissage en stage et l'entretien de la compétence"
+    },
+    {
+      "type": "p",
+      "html": "Le nœud de mule s'apprend dans les stages de perfectionnement FFME, niveau initiateur ou animateur, et dans les stages grande voie organisés par les guides UIAGM. Le programme inclut généralement une journée dédiée aux nœuds de manipulation de relais, avec mule, italien combiné, balancier de secours et systèmes de mouflage léger."
+    },
+    {
+      "type": "p",
+      "html": "L'entretien de la compétence demande une pratique régulière en simulation. Tu peux travailler chez toi avec une cordelette et un mousqueton, en suspendant un poids modeste type bouteille d'eau de cinq litres, pour reproduire la sensation de charge. Cette pratique en chambre permet de maintenir l'automatisme du tracé sans nécessiter une sortie en grande voie."
+    },
+    {
+      "type": "p",
+      "html": "La <a href=\"/blog/retenir-noeuds-escalade-methode\">méthode pour retenir les nœuds</a> s'applique également à la mule, par répétition espacée et visualisation mentale. Tu peux ainsi conserver la compétence active pendant des mois sans pratique réelle, à condition de réviser mentalement les étapes une fois par mois environ."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Le nœud de mule est-il homologué par les normes de sécurité ?",
+      "a": "Le nœud de mule ne fait pas l'objet d'une norme spécifique, parce qu'il ne s'agit pas d'un équipement mais d'une technique de blocage temporaire. Son usage reste enseigné par la FFME et les guides UIAGM comme compétence de relais autonome. La résistance pratique du nœud dépasse largement les charges générées en escalade, à condition d'un tracé correct et d'une sécurisation par queue de vache."
+    },
+    {
+      "q": "Peut-on faire confiance à la mule pour suspendre un grimpeur indéfiniment ?",
+      "a": "Oui, à condition d'un tracé correct et sécurisé par queue de vache. La mule peut tenir un grimpeur suspendu plusieurs heures sans glissement, ce qui suffit pour toutes les manipulations de secours léger. Pour les attentes très prolongées de plusieurs heures, le confort du grimpeur suspendu reste un facteur limitant plus que la fiabilité du nœud. L'évacuation reste à organiser le plus rapidement possible."
+    },
+    {
+      "q": "Comment libérer un nœud de mule fortement chargé ?",
+      "a": "Premièrement, tu rétablis la main de freinage en compression sur le brin libre. Deuxièmement, tu défais la queue de vache de sécurité en tirant sur le brin libre. Troisièmement, tu tires plus fortement pour défaire la mule elle-même. Le système italien reprend son fonctionnement normal sous contrôle de la main de freinage. Si le nœud est très serré, une légère torsion du brin facilite le démarrage de la libération."
+    },
+    {
+      "q": "Faut-il connaître la mule pour pratiquer la salle d'escalade ?",
+      "a": "Non, pour la pratique exclusive en salle, la mule n'a aucune utilité réelle. Les systèmes d'assurage modernes en salle, principalement Grigri et tubes, suffisent à toutes les situations rencontrées. La mule devient utile dès qu'on pratique la grande voie, l'alpinisme ou la falaise en autonomie engagée. Pour le grimpeur de salle exclusif, l'investissement dans cet apprentissage n'est pas prioritaire."
+    },
+    {
+      "q": "Quelle différence entre la mule et le nœud d'arrêt ?",
+      "a": "Le nœud d'arrêt empêche simplement la corde de sortir d'un système, comme à l'extrémité d'une corde de rappel. La mule bloque activement un système d'assurage chargé, en verrouillant le défilement sous tension. Les deux nœuds répondent à des problèmes différents. Le nœud d'arrêt est passif et préventif, la mule est active et de manipulation. Leur usage combiné en grande voie reste fréquent."
+    }
+  ],
+  "cover_alt": "Détail d'un nœud de mule tracé sur un nœud italien chargé, mousqueton à vis HMS en aluminium, corde dynamique bleue avec boucle de blocage et queue de vache visible, fond rocheux flou",
+  "internal_links": [
+    {
+      "slug": "noeuds-escalade-utiles-guide",
+      "anchor": "panorama des nœuds utiles",
+      "context": "pilier cocon"
+    },
+    {
+      "slug": "noeud-italien-improvise",
+      "anchor": "nœud italien",
+      "context": "système support"
+    },
+    {
+      "slug": "verifier-noeud-partenaire",
+      "anchor": "vérification systématique du tracé",
+      "context": "sécurité"
+    },
+    {
+      "slug": "retenir-noeuds-escalade-methode",
+      "anchor": "méthode pour retenir les nœuds",
+      "context": "apprentissage"
+    },
+    {
+      "slug": "noeud-demi-cabestan-assurance",
+      "anchor": "demi-cabestan",
+      "context": "nœud apparenté"
+    }
+  ],
+  "scheduled_at": "2026-11-03T09:00:00+01:00"
+}

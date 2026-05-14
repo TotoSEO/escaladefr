@@ -64,7 +64,7 @@
     },
     {
       "type": "p",
-      "html": "Le secteur des Deux Aiguilles, au-dessus du parking du Saut du Cabri sur la route Cézanne, concentre les grandes voies les plus connues du massif. On y compte une cinquantaine d'itinéraires de 100 à 250 mètres, du 5a au 7c. La Voie des Plaques, ouverte dans les années 60 et rééquipée depuis, reste l'une des classiques absolues du sud de la France. Trois cents mètres en 5c maxi, sur un calcaire patiné par les générations de grimpeurs."
+      "html": "Le secteur des Deux Aiguilles, au-dessus du parking du Saut du Cabri sur la route Cézanne, concentre les grandes voies les plus connues du massif. On y compte une cinquantaine d'itinéraires de 100 à 250 mètres, du 5a au 7c. La <strong>Voie des Plaques</strong>, ouverte dans les années 60 et rééquipée depuis, reste l'une des classiques absolues du sud de la France. Trois cents mètres en 5c maxi, sur un calcaire patiné par les générations de grimpeurs."
     },
     {
       "type": "p",
@@ -80,7 +80,7 @@
     },
     {
       "type": "p",
-      "html": "Le Bau Rouge, situé sur le versant sud près de Saint-Antonin-sur-Bayon, abrite les voies les plus difficiles du massif. Mur compact, légèrement déversant, hauteur de 30 à 60 mètres. Une vingtaine de voies dans le 7 et le 8, ouvertes principalement par les locaux dans les années 2000 et 2010. La voie phare du secteur, Le Sang des Tropiques, cotée 8a, demande une lecture fine et un sens de la résistance qu'on retrouve rarement sur des longueurs si courtes."
+      "html": "Le Bau Rouge, situé sur le versant sud près de Saint-Antonin-sur-Bayon, abrite les voies les plus difficiles du massif. Mur compact, légèrement déversant, hauteur de 30 à 60 mètres. Une vingtaine de voies dans le 7 et le 8, ouvertes principalement par les locaux dans les années 2000 et 2010. La voie phare du secteur, <strong>Le Sang des Tropiques</strong>, cotée 8a, demande une lecture fine et un sens de la résistance qu'on retrouve rarement sur des longueurs si courtes."
     },
     {
       "type": "p",
@@ -120,6 +120,18 @@
     {
       "type": "p",
       "html": "Sur la route Cézanne D17, plusieurs parkings intermédiaires donnent un accès direct à des secteurs précis : le Saut du Cabri pour les Deux Aiguilles, les Cabassols pour le Refuge, Saint-Antonin-sur-Bayon pour le Bau Rouge. Ces parkings sont fermés par barrière pendant les périodes de risque incendie élevé, de juillet à septembre généralement. La consultation du site de la <strong>Préfecture des Bouches-du-Rhône</strong> reste obligatoire avant chaque sortie estivale."
+    },
+    {
+      "type": "h2",
+      "text": "L'histoire de l'escalade au massif"
+    },
+    {
+      "type": "p",
+      "html": "Les premières ascensions documentées de la Sainte-Victoire remontent à la fin du XIXe siècle, dans la lignée de l'alpinisme provençal naissant. Les voies actuelles se sont équipées principalement à partir des années 60, sous l'impulsion du Club Alpin Français d'Aix-Marseille et des grimpeurs locaux. Les noms qui reviennent sont ceux de Georges Livanos pour l'esprit aventure, et de générations successives de Provençaux qui ont enrichi le topo décennie après décennie."
+    },
+    {
+      "type": "p",
+      "html": "Les années 80 voient l'arrivée de l'équipement spit moderne sur les Deux Aiguilles, qui devient un terrain d'apprentissage pour les Aixois. Les années 2000 et 2010 marquent une seconde vague avec l'ouverture des voies dures du Bau Rouge par les locaux. Aujourd'hui, le massif continue de bouger, quelques nouvelles voies sortent chaque année, le rééquipement progresse sur les classiques. Le site reste vivant, ce qui n'est pas le cas de tous les massifs historiques."
     },
     {
       "type": "h2",

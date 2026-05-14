@@ -1,0 +1,226 @@
+{
+  "slug": "tendinite-epaule-coude-grimpe",
+  "cocon": "preparation",
+  "type_article": "guide",
+  "numero": 134,
+  "title": "Tendinites épaule et coude du grimpeur | comprendre et soigner",
+  "h1": "Tendinites épaule et coude, ce que tout grimpeur doit savoir",
+  "description": "Épicondylite, tendinopathie de la coiffe des rotateurs, golfer's elbow. Causes, prévention et rééducation pour le grimpeur affecté.",
+  "chapo": "L'épaule et le coude du grimpeur portent des contraintes spécifiques. Tractions répétées, blocages bras tendu, mouvements dynamiques sur dévers. Avec le temps, les tendons protestent. Antoine a vécu une tendinite de coude à 22 ans qui l'a tenu trois mois loin du mur. Il te partage ce qu'il a compris depuis, avec les apports des kinés du sport et des chercheurs comme Tyler Nelson ou Lattice Training. Tu vas voir ce qu'il faut faire et ne pas faire.",
+  "takeaways": [
+    "La tendinopathie de la coiffe des rotateurs touche l'épaule du grimpeur en dévers et grands mouvements.",
+    "L'épicondylite latérale ou tennis elbow concerne le coude externe, fréquente chez les grimpeurs de bloc.",
+    "L'épitrochléite ou golfer's elbow touche le coude interne, classique chez les grimpeurs intensifs.",
+    "Les protocoles excentriques type Alfredson ont une efficacité bien documentée scientifiquement.",
+    "La reprise se fait progressivement avec mouvements doux d'abord, jamais de dévers pur en début de retour."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Pourquoi les tendons de l'épaule et du coude souffrent en grimpe"
+    },
+    {
+      "type": "p",
+      "html": "Les tendons sont des structures relativement peu vascularisées qui s'adaptent lentement à la charge. Une augmentation brutale du volume d'entraînement ou un changement d'intensité dépasse leur capacité d'adaptation et provoque une tendinopathie. Le mécanisme combine micro-lésions répétées et inflammation chronique."
+    },
+    {
+      "type": "p",
+      "html": "En grimpe, plusieurs gestes sollicitent particulièrement les tendons de l'épaule et du coude. Les tractions explosives en dévers sollicitent la <strong>coiffe des rotateurs</strong> et le tendon du biceps. Les blocages bras tendu sur grosses prises sollicitent l'attache tendineuse au coude. Les mouvements de croisé ou de gros écart sollicitent les structures profondes de l'épaule."
+    },
+    {
+      "type": "p",
+      "html": "Le grimpeur intermédiaire qui passe du 6 au 7 voit son volume d'arquée augmenter et son nombre de séances par semaine grandir. C'est exactement la zone où apparaissent les premières tendinites. La phase 18 mois à 4 ans de pratique régulière est statistiquement la plus exposée selon les études cliniques."
+    },
+    {
+      "type": "h2",
+      "text": "L'épaule du grimpeur, coiffe des rotateurs"
+    },
+    {
+      "type": "p",
+      "html": "La <strong>coiffe des rotateurs</strong> est un ensemble de quatre muscles : sus-épineux, sous-épineux, petit rond et sous-scapulaire. Ces muscles maintiennent la tête humérale dans la cavité glénoïde et permettent la rotation interne et externe. La tendinopathie de la coiffe est la pathologie d'épaule la plus fréquente en grimpe."
+    },
+    {
+      "type": "p",
+      "html": "Les signes typiques : douleur sourde sur le dessus de l'épaule, gêne sur les mouvements bras au-dessus de la tête, faiblesse à la rotation externe. La douleur s'installe progressivement, sans événement déclenchant clair. Elle empire après une séance et peut réveiller la nuit en cas de lésion installée."
+    },
+    {
+      "type": "p",
+      "html": "Le diagnostic se confirme par échographie ou IRM. Une rupture partielle ou totale d'un tendon de la coiffe est possible, surtout chez les grimpeurs après 35-40 ans. La majorité des cas restent des tendinopathies sans rupture, traitées par rééducation kiné et reprise progressive. La chirurgie est réservée aux ruptures avec déficit fonctionnel installé."
+    },
+    {
+      "type": "h2",
+      "text": "Le coude externe, épicondylite latérale"
+    },
+    {
+      "type": "p",
+      "html": "L'<strong>épicondylite latérale</strong>, surnommée tennis elbow, touche les tendons des muscles extenseurs du poignet qui s'attachent sur l'épicondyle externe du coude. Chez le grimpeur, elle apparaît typiquement après des séances intensives de bloc, sur préhensions inversées ou pinces fortes."
+    },
+    {
+      "type": "p",
+      "html": "Les signes : douleur sur la face externe du coude, parfois irradiante vers l'avant-bras, sensible à la palpation. La douleur augmente en serrant fort une prise ou en portant un objet à bout de bras. La gêne peut devenir handicapante dans la vie quotidienne, à l'ouverture d'une porte ou au port d'un sac."
+    },
+    {
+      "type": "p",
+      "html": "Le diagnostic est principalement clinique. L'échographie confirme parfois en cas de doute. Le traitement combine repos relatif, kinésithérapie avec protocole excentrique de type <strong>Tyler twist</strong> ou Alfredson, et reprise progressive. La récupération demande 6 à 12 semaines selon l'ancienneté de la lésion."
+    },
+    {
+      "type": "h2",
+      "text": "Le coude interne, épitrochléite ou golfer's elbow"
+    },
+    {
+      "type": "p",
+      "html": "L'<strong>épitrochléite</strong>, ou golfer's elbow, est la pathologie miroir touchant les tendons des fléchisseurs du poignet sur l'épitrochlée. Elle est très fréquente chez les grimpeurs intensifs et particulièrement chez ceux qui pratiquent beaucoup l'arquée ou le hangboard."
+    },
+    {
+      "type": "p",
+      "html": "Les signes : douleur sur la face interne du coude, sensible à la palpation et à la flexion résistée du poignet. Elle apparaît souvent après une augmentation de volume hangboard ou une période d'intensité élevée. C'est l'une des blessures les plus fréquentes chez les grimpeurs qui dépassent le niveau 7a."
+    },
+    {
+      "type": "p",
+      "html": "Le traitement suit la même logique que l'épicondylite. Repos relatif sans arrêt complet, exercices excentriques ciblés sur les fléchisseurs, retour progressif à la grimpe avec évitement initial des positions arquée et des séances hangboard. Le protocole structuré demande 8 à 16 semaines selon l'ampleur de la lésion."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Trois tendinopathies fréquentes chez le grimpeur",
+      "items": [
+        {
+          "title": "Coiffe des rotateurs, épaule",
+          "body": "Douleur sourde sur le dessus de l'épaule, gêne mouvements au-dessus de la tête. Cause typique : dévers répétés, mouvements explosifs avec rotation. Récupération 8 à 16 semaines. Diagnostic échographie ou IRM."
+        },
+        {
+          "title": "Épicondylite latérale, coude externe",
+          "body": "Douleur face externe du coude, sensible à la pression et à la pince. Cause typique : bloc intensif, inversées, pinces fortes. Récupération 6 à 12 semaines. Protocole excentrique type Tyler twist."
+        },
+        {
+          "title": "Épitrochléite, coude interne",
+          "body": "Douleur face interne du coude, sensible à la flexion résistée. Cause typique : arquée intensive, hangboard mal dosé. Récupération 8 à 16 semaines. Protocole excentrique fléchisseurs."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Les protocoles de rééducation par excentrique"
+    },
+    {
+      "type": "p",
+      "html": "L'approche moderne de la tendinopathie repose sur le travail <strong>excentrique</strong>, c'est-à-dire le freinage contrôlé d'une charge. Les études d'Alfredson dans les années 1990 ont posé le cadre. Depuis, les protocoles ont été affinés pour chaque localisation tendineuse."
+    },
+    {
+      "type": "p",
+      "html": "Pour l'épicondylite, le protocole Tyler twist utilise un FlexBar, accessoire en caoutchouc de la marque TheraBand. L'exercice consiste à tordre le bar avec les deux mains puis à le détordre lentement avec le bras douloureux. Trois séries de 15 répétitions, une à deux fois par jour. Pour la coiffe, des exercices excentriques en rotation externe avec élastique sont utilisés."
+    },
+    {
+      "type": "p",
+      "html": "Ces protocoles demandent de la patience. La douleur diminue progressivement sur 6 à 12 semaines. Sur les forums de grimpeurs, beaucoup abandonnent au bout de 2 ou 3 semaines pensant que ça ne marche pas. C'est l'erreur classique. Tiens 8 semaines pleines avant d'évaluer l'efficacité d'un protocole excentrique."
+    },
+    {
+      "type": "tip",
+      "title": "Le FlexBar TheraBand, accessoire utile",
+      "body": "Un outil de rééducation à 20-30 € très utile pour les tendinopathies de coude. Existe en quatre couleurs selon la rigidité. La version rouge convient à la majorité des grimpeurs débutant un protocole. Les versions verte et bleue pour la progression. Le protocole Tyler twist est démontré dans des vidéos pédagogiques de l'IFSC Medical Commission et de plusieurs kinés du sport spécialisés grimpe.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "La prévention au quotidien"
+    },
+    {
+      "type": "p",
+      "html": "La prévention repose sur quatre principes. Premier principe, l'<strong>échauffement progressif</strong> de l'épaule et du coude avant chaque séance. Rotations contrôlées, élévation des bras, traction sur élastique. 5 à 10 minutes minimum, particulièrement par temps frais."
+    },
+    {
+      "type": "p",
+      "html": "Deuxième principe, le <strong>renforcement antagoniste</strong>. Les muscles fléchisseurs et les rotateurs internes sont sur-sollicités en grimpe. Les antagonistes, extenseurs et rotateurs externes, sont sous-utilisés. Cet déséquilibre favorise les tendinopathies. Une à deux séances par semaine de renforcement antagoniste avec élastiques équilibrent les chaînes."
+    },
+    {
+      "type": "p",
+      "html": "Troisième principe, la <strong>progression contrôlée du volume</strong>. La règle des 10% par semaine est largement admise : augmenter le volume hebdomadaire de pas plus de 10% par rapport à la semaine précédente. Les bonds brutaux de volume sont la cause principale des tendinites du grimpeur."
+    },
+    {
+      "type": "p",
+      "html": "Quatrième principe, l'<strong>écoute des signaux précoces</strong>. Une raideur matinale, une légère gêne en début de séance qui disparaît à l'échauffement, sont des signaux à prendre au sérieux. Diminuer l'intensité pendant une à deux semaines à ce stade évite généralement une tendinite installée. Continuer comme si de rien n'était est l'erreur classique."
+    },
+    {
+      "type": "quote",
+      "text": "Ma tendinite de coude à 22 ans est arrivée pendant une période où je faisais 4 séances par semaine au lieu de 2-3 habituellement. Le coude m'a alerté pendant 3 semaines avant le blocage. J'ai ignoré les signaux. Coût final : 3 mois sans grimper.",
+      "author": "Antoine",
+      "role": "grimpeur, 13 ans de pratique"
+    },
+    {
+      "type": "h2",
+      "text": "Le retour à la grimpe après tendinite"
+    },
+    {
+      "type": "p",
+      "html": "Le retour ne se précipite pas. Une fois la phase aiguë passée et le protocole excentrique en cours depuis 4 à 6 semaines, on réintroduit doucement la grimpe. Phase 1 : voies faciles, profils verticaux, pas de dévers, pas d'arquée, durée totale 30 minutes maximum. Cette phase dure 2 à 4 semaines."
+    },
+    {
+      "type": "p",
+      "html": "Phase 2 : voies de niveau modéré, réintroduction de l'arquée tendue, pas encore d'arquée stricte. Durée de séance progressive de 30 à 60 minutes. Une à deux séances par semaine maximum. Cette phase dure 3 à 5 semaines."
+    },
+    {
+      "type": "p",
+      "html": "Phase 3 : retour au niveau normal, réintroduction du hangboard et du dévers. Trois séances par semaine si l'évolution est favorable. À ce stade, la tendinite est généralement résolue mais le tissu reste fragile pendant encore deux à trois mois. Évite les pics d'intensité pendant cette période."
+    },
+    {
+      "type": "p",
+      "html": "Si la douleur réapparaît à l'une des phases, recule d'une phase et consolide. La récidive précoce est l'écueil principal. La patience paye largement : un retour propre en 4 mois est beaucoup plus efficace qu'un retour précipité qui se solde par une rechute à 6 mois."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Combien de temps dure une tendinite de coude chez un grimpeur ?",
+      "a": "Avec un protocole bien suivi, comptez 6 à 12 semaines pour une épicondylite, 8 à 16 semaines pour une épitrochléite. Sans protocole structuré, la tendinite peut durer 6 mois ou plus et se chroniciser. Le facteur clé est la régularité du travail excentrique sur 8 semaines minimum, sans interruption. Beaucoup de grimpeurs sous-estiment le temps réel de récupération et reprennent trop tôt, ce qui prolonge le délai global."
+    },
+    {
+      "q": "Faut-il arrêter complètement de grimper avec une tendinite ?",
+      "a": "Pas obligatoirement, sauf phase aiguë. L'approche moderne privilégie le repos relatif : on diminue le volume et l'intensité plutôt qu'on arrête tout. Pendant les 2 à 3 premières semaines, mieux vaut suspendre la grimpe pour laisser baisser l'inflammation. Ensuite, des séances très douces sur profils faciles peuvent reprendre en parallèle du protocole excentrique. L'arrêt total prolongé n'aide pas la récupération tendineuse, car le tendon a besoin de charge progressive pour cicatriser."
+    },
+    {
+      "q": "L'épaule du grimpeur, c'est plutôt la coiffe ou autre chose ?",
+      "a": "Dans la majorité des cas chez l'adulte grimpeur, c'est une tendinopathie de la coiffe des rotateurs, principalement du sus-épineux. Chez les jeunes grimpeurs intensifs, des problèmes de labrum ou d'instabilité antérieure existent aussi. Chez les grimpeurs après 40 ans, les ruptures partielles de coiffe sont plus fréquentes. Le diagnostic précis demande examen clinique, échographie et parfois IRM. Une douleur d'épaule qui dure plus de 4 semaines justifie une consultation médicale."
+    },
+    {
+      "q": "Le FlexBar fonctionne-t-il vraiment pour le coude ?",
+      "a": "Oui, le protocole Tyler twist avec FlexBar a une efficacité documentée pour l'épicondylite. Plusieurs études cliniques montrent un taux d'amélioration supérieur à 70% à 8 semaines, comparable voire supérieur aux infiltrations cortisoniques. Le FlexBar coûte 20 à 30 euros, c'est l'un des meilleurs ratios qualité-prix en rééducation tendineuse. L'efficacité dépend de la rigueur d'exécution et de la durée du protocole, minimum 6 à 8 semaines."
+    },
+    {
+      "q": "Doit-on faire des infiltrations en cas de tendinite chronique ?",
+      "a": "L'infiltration cortisonique a une efficacité à court terme bien documentée mais ses effets à long terme sont décevants, voire négatifs sur la qualité du tendon. L'approche actuelle privilégie le protocole excentrique en première intention. Les infiltrations PRP, plasma riche en plaquettes, ont des résultats meilleurs en chronique selon les études récentes. À discuter avec un médecin du sport spécialisé. Pas une solution magique, à intégrer dans une prise en charge globale."
+    }
+  ],
+  "cover_alt": "Grimpeur en plein effort de traction sur prise en dévers, épaule et bras en tension visible, gros plan sur la mécanique articulaire, ambiance lumineuse de salle d'escalade",
+  "internal_links": [
+    {
+      "slug": "preparer-corps-tete-grimpe",
+      "anchor": "préparer son corps et sa tête à la grimpe",
+      "context": "pilier preparation"
+    },
+    {
+      "slug": "blessures-doigts-grimpeur",
+      "anchor": "blessures de doigts du grimpeur",
+      "context": "pathologies grimpe connexes"
+    },
+    {
+      "slug": "musculation-grimpeur-base",
+      "anchor": "musculation et renforcement",
+      "context": "renforcement antagoniste"
+    },
+    {
+      "slug": "echauffement-grimpe-routine",
+      "anchor": "routine d'échauffement",
+      "context": "prévention"
+    },
+    {
+      "slug": "recuperation-active-jours-off",
+      "anchor": "récupération active",
+      "context": "gestion charge tendineuse"
+    },
+    {
+      "slug": "etirements-grimpeur-souplesse",
+      "anchor": "étirements grimpeur",
+      "context": "complément mobilité"
+    }
+  ],
+  "scheduled_at": "2027-03-11T09:00:00+01:00"
+}

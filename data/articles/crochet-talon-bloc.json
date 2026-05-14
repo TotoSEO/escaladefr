@@ -15,241 +15,63 @@
     "Le ripage du talon vient presque toujours d'un défaut de rotation de hanche, pas d'un défaut de force."
   ],
   "body_blocks": [
-    {
-      "type": "h2",
-      "text": "À quoi sert vraiment le crochet de talon"
-    },
-    {
-      "type": "p",
-      "html": "Le <strong>crochet de talon</strong> intervient principalement en dévers, c'est-à-dire sur les murs déversants où la gravité tire le corps loin de la paroi. La jambe sert alors à compenser cette traction en accrochant une prise haute avec l'arrière du chausson. Concrètement, tu poses ton talon sur une prise située à hauteur de hanche ou au-dessus, et tu utilises la rotation de la cuisse pour tirer le corps vers le mur. C'est l'équivalent d'un troisième point d'appui qui décharge les bras."
-    },
-    {
-      "type": "p",
-      "html": "Dans le <a href=\"/blog/bloc-techniques-base\">vocabulaire technique du bloc</a>, le crochet de talon appartient à la même famille que la lolotte et le drapeau, c'est-à-dire les techniques qui jouent sur la géométrie du corps plutôt que sur la force brute. Sa différence majeure, c'est qu'il transforme la jambe en élément actif de traction. Une fois le talon engagé, tu peux relâcher partiellement les bras pour reprendre une prise plus loin sans tomber. La technique est devenue centrale dans le bloc moderne, particulièrement en compétition où les ouvreurs multiplient les sections en <a href=\"/blog/devers-techniques-puissance\">dévers prononcé</a>."
-    },
-    {
-      "type": "p",
-      "html": "L'efficacité du crochet dépend de trois facteurs combinés. La géométrie de la prise saisie par le talon, qui doit présenter une arête, un volume ou une jugs accrochable. La rigidité de la gomme de l'arrière du chausson, qui détermine la qualité de l'accroche. Et la tension musculaire active dans la chaîne postérieure de la jambe, qui maintient le talon plaqué malgré la traction inverse du corps."
-    },
-    {
-      "type": "h2",
-      "text": "Le placement précis du talon sur la prise"
-    },
-    {
-      "type": "p",
-      "html": "Premier point souvent négligé par les débutants, c'est <strong>la zone du talon qui doit accrocher</strong>. Tu ne poses pas la zone médiane du chausson sur la prise, tu poses précisément la pointe arrière, là où la gomme renforcée du talon enveloppe le calcanéum. Cette zone offre la rigidité maximale et accroche les arêtes les plus fines. Un placement en zone médiane crée un appui mou qui glisse dès que la traction commence."
-    },
-    {
-      "type": "p",
-      "html": "Deuxième point, l'angle d'attaque. Le talon ne se pose pas perpendiculairement à la paroi, il se pose en oblique. Tu engages le pied avec une légère rotation interne de la hanche pour orienter la pointe arrière vers le bas et vers l'extérieur. Cette rotation crée une opposition mécanique qui verrouille le talon sur la prise. Sans rotation, le talon repose simplement sur la prise et glisse à la première traction."
-    },
-    {
-      "type": "p",
-      "html": "Troisième point, le contrôle visuel. Tu regardes ton talon se poser, tu valides le placement, puis seulement tu engages la traction. Beaucoup de grimpeurs cherchent le talon à l'aveugle et finissent par le poser deux centimètres trop bas. Sur une jugs ou un volume, deux centimètres font la différence entre un crochet solide et un ripage immédiat. Le <a href=\"/blog/poser-pieds-escalade-placement\">placement précis du pied</a> reste valable pour le talon comme pour la pointe."
-    },
-    {
-      "type": "h2",
-      "text": "La tension active qui maintient le crochet"
-    },
-    {
-      "type": "p",
-      "html": "Un crochet posé n'est rien sans la tension qui le maintient. La tension vient de trois zones musculaires combinées. Les ischio-jambiers tirent le talon vers le bassin, ce qui plaque le pied contre la prise. Les fessiers stabilisent la hanche en rotation externe. Le gainage du tronc, abdominaux et lombaires, transmet la traction du talon jusqu'aux mains qui peuvent alors se relâcher partiellement."
-    },
-    {
-      "type": "tip",
-      "title": "Le test du relâchement de bras",
-      "body": "Pour vérifier que ton crochet est solide, essaie de retirer une main de la prise saisie. Si tu tombes immédiatement, ton talon ne fait pas son travail. Si tu tiens deux à trois secondes, le crochet absorbe une partie réelle du poids. C'est l'exercice qui m'a fait comprendre la technique pendant mes années lycée à Camille Sée Colmar, sur la petite salle municipale où j'ai construit mes bases.",
-      "tone": "astuce"
-    },
-    {
-      "type": "p",
-      "html": "La tension doit s'installer progressivement, pas brutalement. Une contraction trop brutale tire le talon vers le haut et le décolle de la prise. Tu engages la traction par paliers, en sentant le talon mordre la prise, puis tu intensifies seulement si l'accroche tient. Cette montée progressive en tension est ce qui distingue un crochet maîtrisé d'un crochet hasardeux."
-    },
-    {
-      "type": "h2",
-      "text": "Le choix du chausson pour optimiser le crochet"
-    },
-    {
-      "type": "p",
-      "html": "Tous les chaussons n'accrochent pas de la même façon en talon. Les modèles <strong>asymétriques cambrés</strong> avec talon renforcé sont conçus pour cette technique. La Sportiva Solution, Scarpa Drago, Five Ten Hiangle Pro et Tenaya Mastia partagent une architecture de talon rigide avec gomme épaisse à l'arrière, qui maximise l'accroche sur les arêtes fines."
-    },
-    {
-      "type": "p",
-      "html": "À l'inverse, les chaussons souples plats type La Sportiva Mythos ou les modèles d'initiation à talon mou perdent une partie du potentiel. La gomme s'écrase, le talon se déforme sous la traction, l'accroche se dissout. C'est pour cette raison que la plupart des bouldeurs de niveau 7a et au-delà investissent dans un second chausson dédié au dévers."
-    },
-    {
-      "type": "table",
-      "caption": "Comparaison des chaussons pour le crochet de talon",
-      "headers": [
-        "Modèle",
-        "Architecture",
-        "Talon",
-        "Niveau cible"
-      ],
-      "rows": [
-        [
-          "La Sportiva Solution",
-          "Asymétrique cambré",
-          "Vibram XS Grip2 renforcé",
-          "6c bloc et plus"
-        ],
-        [
-          "Scarpa Drago",
-          "Très asymétrique",
-          "Talon mince ultra accrochant",
-          "7a bloc et plus"
-        ],
-        [
-          "Five Ten Hiangle Pro",
-          "Asymétrique modéré",
-          "Stealth C4 large",
-          "6b à 7a bloc"
-        ],
-        [
-          "Tenaya Mastia",
-          "Asymétrique cambré",
-          "Vibram XS Grip arrière",
-          "6c bloc et plus"
-        ],
-        [
-          "La Sportiva Mythos",
-          "Plat polyvalent",
-          "Souple, gomme standard",
-          "Pas adapté"
-        ]
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Les trois erreurs qui font ripper le talon"
-    },
-    {
-      "type": "p",
-      "html": "Première erreur, la pose en zone médiane du chausson. Tu accroches le talon avec la voûte plantaire au lieu de la pointe arrière. La gomme y est plus souple, l'accroche dissoute. Pour corriger, regarde précisément où ton talon entre en contact avec la prise et vise systématiquement la zone la plus reculée du chausson."
-    },
-    {
-      "type": "p",
-      "html": "Deuxième erreur, l'absence de rotation de hanche. Tu poses le talon perpendiculaire à la paroi, sans aucune rotation interne. La pointe arrière repose à plat sur la prise et glisse dès que la traction commence. La <a href=\"/blog/rotation-pivot-escalade\">rotation des hanches</a> est la clé qui verrouille le talon. Engage la cuisse en rotation, le talon descend en oblique, la mécanique se met en place."
-    },
-    {
-      "type": "p",
-      "html": "Troisième erreur, le ripage par contraction brutale. Tu sens le talon mordre, tu tires d'un coup, le talon décolle. La traction doit monter progressivement, jamais en saccade. Un crochet de talon ressemble à un parking délicat, tu engages la gomme par petites pressions successives, pas en arrachant."
-    },
-    {
-      "type": "h2",
-      "text": "Quand engager un crochet et quand y renoncer"
-    },
-    {
-      "type": "p",
-      "html": "Le crochet n'est pas la solution universelle. Sur certaines configurations, il coûte plus d'énergie qu'il n'en économise. Tu engages un crochet quand trois conditions sont réunies. Une prise accrochable à hauteur correcte, c'est-à-dire entre la hanche et l'épaule. Un dévers suffisant pour que la gravité menace de décoller les pieds. Une distance entre la prise des mains et la prochaine prise qui justifie le coût énergétique de l'installation du crochet."
-    },
-    {
-      "type": "p",
-      "html": "À l'inverse, tu renonces au crochet sur les murs verticaux ou en dalle, où le pied droit ou la lolotte font le travail à moindre coût. Tu renonces aussi sur les prises trop basses, sous la hanche, où le crochet devient un mouvement de contorsion improductif. Et tu renonces sur les prises trop éloignées latéralement, qui demandent un écart de hanche supérieur à ta souplesse réelle."
-    },
-    {
-      "type": "list",
-      "variant": "checks",
-      "title": "Les configurations idéales pour le crochet de talon",
-      "items": [
-        {
-          "title": "Dévers à 30 ou 40 degrés",
-          "body": "Le crochet décharge significativement les bras et permet une reprise de main lointaine. C'est la configuration reine."
-        },
-        {
-          "title": "Toit horizontal",
-          "body": "Le crochet sur jugs en milieu de toit permet de souffler quelques secondes. Combiné au talon plus pointe sur la prise opposée, il crée un verrouillage complet."
-        },
-        {
-          "title": "Sortie de bloc en dévers",
-          "body": "Le crochet sur la prise sommitale stabilise le corps pendant que la main libre cherche le top. Mouvement signature du bloc indoor moderne."
-        },
-        {
-          "title": "Volume géométrique",
-          "body": "Les volumes en salle offrent souvent des arêtes parfaites pour le crochet. L'opposition entre la pointe et le talon crée une compression utile."
-        }
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Travailler le crochet en salle puis l'emmener en falaise"
-    },
-    {
-      "type": "p",
-      "html": "L'apprentissage du crochet passe par la salle, parce que les ouvreurs placent souvent des prises spécifiquement conçues pour cette technique. En falaise, les configurations sont plus rares mais plus exigeantes. Tu peux dédier une séance par semaine à des blocs en dévers qui imposent un crochet pour passer. Cherche les blocs où la séquence évidente force le talon, et répète jusqu'à ce que la pose devienne automatique."
-    },
-    {
-      "type": "p",
-      "html": "Pour la transposition en falaise, attend d'avoir consolidé la technique en salle pendant trois à six mois avant de la mobiliser sur rocher. Le grès de Fontainebleau, les blocs du Cuvier Rempart et certains secteurs de Bleau présentent des configurations naturelles parfaites pour le crochet. La salle reste la meilleure école parce qu'elle reproduit la configuration mille fois sans risque, là où la falaise impose un coût énergétique élevé pour chaque essai."
-    },
-    {
-      "type": "quote",
-      "text": "Le jour où tu sens ton talon bloquer une jugs sans que tu doives forcer avec les bras, tu as gagné un demi-grade. La technique du crochet vaut autant que la moitié d'un cycle de force.",
-      "author": "Antoine",
-      "role": "grimpeur 8a falaise, 13 ans de pratique"
-    },
-    {
-      "type": "h2",
-      "text": "Le crochet de talon dans la progression globale"
-    },
-    {
-      "type": "p",
-      "html": "Le crochet s'intègre dans un répertoire technique plus large. Tu le combines avec le crochet de pointe, son cousin proche, et avec la lolotte pour gérer les dévers complexes. Un grimpeur 7a bloc maîtrise ces trois techniques et sait alterner selon la configuration de la prise. La progression suit un ordre logique. D'abord le placement de pied précis sur prises franches, puis le drapeau et la lolotte sur dalle et léger dévers, ensuite le crochet de talon sur dévers prononcé, enfin les combinaisons crochet plus lolotte sur toits complets."
-    },
-    {
-      "type": "p",
-      "html": "À chaque palier, la technique économise de l'énergie qui aurait été dépensée en force pure. C'est ce qui permet de passer du 6c au 7b bloc sans gain spectaculaire de force des doigts, simplement en raffinant le placement. Beaucoup de grimpeurs forts plafonnent en 7a parce qu'ils n'investissent pas dans le crochet et restent dépendants de leur traction."
-    }
+    {"type": "h2", "text": "À quoi sert vraiment le crochet de talon"},
+    {"type": "p", "html": "Le <strong>crochet de talon</strong> intervient principalement en dévers, c'est-à-dire sur les murs déversants où la gravité tire le corps loin de la paroi. La jambe sert alors à compenser cette traction en accrochant une prise haute avec l'arrière du chausson. Concrètement, tu poses ton talon sur une prise située à hauteur de hanche ou au-dessus, et tu utilises la rotation de la cuisse pour tirer le corps vers le mur. C'est l'équivalent d'un troisième point d'appui qui décharge les bras."},
+    {"type": "p", "html": "Dans le <a href=\"/blog/bloc-techniques-base\">vocabulaire technique du bloc</a>, le crochet de talon appartient à la même famille que la lolotte et le drapeau, c'est-à-dire les techniques qui jouent sur la géométrie du corps plutôt que sur la force brute. Sa différence majeure, c'est qu'il transforme la jambe en élément actif de traction. Une fois le talon engagé, tu peux relâcher partiellement les bras pour reprendre une prise plus loin sans tomber. La technique est devenue centrale dans le bloc moderne, particulièrement en compétition où les ouvreurs multiplient les sections en <a href=\"/blog/devers-techniques-puissance\">dévers prononcé</a>."},
+    {"type": "p", "html": "L'efficacité du crochet dépend de trois facteurs combinés. La géométrie de la prise saisie par le talon, qui doit présenter une arête, un volume ou une jugs accrochable. La rigidité de la gomme de l'arrière du chausson, qui détermine la qualité de l'accroche. Et la tension musculaire active dans la chaîne postérieure de la jambe, qui maintient le talon plaqué malgré la traction inverse du corps."},
+    {"type": "h2", "text": "Le placement précis du talon sur la prise"},
+    {"type": "p", "html": "Premier point souvent négligé par les débutants, c'est <strong>la zone du talon qui doit accrocher</strong>. Tu ne poses pas la zone médiane du chausson sur la prise, tu poses précisément la pointe arrière, là où la gomme renforcée du talon enveloppe le calcanéum. Cette zone offre la rigidité maximale et accroche les arêtes les plus fines. Un placement en zone médiane crée un appui mou qui glisse dès que la traction commence."},
+    {"type": "p", "html": "Deuxième point, l'angle d'attaque. Le talon ne se pose pas perpendiculairement à la paroi, il se pose en oblique. Tu engages le pied avec une légère rotation interne de la hanche pour orienter la pointe arrière vers le bas et vers l'extérieur. Cette rotation crée une opposition mécanique qui verrouille le talon sur la prise. Sans rotation, le talon repose simplement sur la prise et glisse à la première traction."},
+    {"type": "p", "html": "Troisième point, le contrôle visuel. Tu regardes ton talon se poser, tu valides le placement, puis seulement tu engages la traction. Beaucoup de grimpeurs cherchent le talon à l'aveugle et finissent par le poser deux centimètres trop bas. Sur une jugs ou un volume, deux centimètres font la différence entre un crochet solide et un ripage immédiat. Le <a href=\"/blog/poser-pieds-escalade-placement\">placement précis du pied</a> reste valable pour le talon comme pour la pointe."},
+    {"type": "h2", "text": "La tension active qui maintient le crochet"},
+    {"type": "p", "html": "Un crochet posé n'est rien sans la tension qui le maintient. La tension vient de trois zones musculaires combinées. Les ischio-jambiers tirent le talon vers le bassin, ce qui plaque le pied contre la prise. Les fessiers stabilisent la hanche en rotation externe. Le gainage du tronc, abdominaux et lombaires, transmet la traction du talon jusqu'aux mains qui peuvent alors se relâcher partiellement."},
+    {"type": "tip", "title": "Le test du relâchement de bras", "body": "Pour vérifier que ton crochet est solide, essaie de retirer une main de la prise saisie. Si tu tombes immédiatement, ton talon ne fait pas son travail. Si tu tiens deux à trois secondes, le crochet absorbe une partie réelle du poids. C'est l'exercice qui m'a fait comprendre la technique pendant mes années lycée à Camille Sée Colmar, sur la petite salle municipale où j'ai construit mes bases.", "tone": "astuce"},
+    {"type": "p", "html": "La tension doit s'installer progressivement, pas brutalement. Une contraction trop brutale tire le talon vers le haut et le décolle de la prise. Tu engages la traction par paliers, en sentant le talon mordre la prise, puis tu intensifies seulement si l'accroche tient. Cette montée progressive en tension est ce qui distingue un crochet maîtrisé d'un crochet hasardeux."},
+    {"type": "h2", "text": "Le choix du chausson pour optimiser le crochet"},
+    {"type": "p", "html": "Tous les chaussons n'accrochent pas de la même façon en talon. Les modèles <strong>asymétriques cambrés</strong> avec talon renforcé sont conçus pour cette technique. La Sportiva Solution, Scarpa Drago, Five Ten Hiangle Pro et Tenaya Mastia partagent une architecture de talon rigide avec gomme épaisse à l'arrière, qui maximise l'accroche sur les arêtes fines."},
+    {"type": "p", "html": "À l'inverse, les chaussons souples plats type La Sportiva Mythos ou les modèles d'initiation à talon mou perdent une partie du potentiel. La gomme s'écrase, le talon se déforme sous la traction, l'accroche se dissout. C'est pour cette raison que la plupart des bouldeurs de niveau 7a et au-delà investissent dans un second chausson dédié au dévers."},
+    {"type": "table", "caption": "Comparaison des chaussons pour le crochet de talon", "headers": ["Modèle", "Architecture", "Talon", "Niveau cible"], "rows": [
+      ["La Sportiva Solution", "Asymétrique cambré", "Vibram XS Grip2 renforcé", "6c bloc et plus"],
+      ["Scarpa Drago", "Très asymétrique", "Talon mince ultra accrochant", "7a bloc et plus"],
+      ["Five Ten Hiangle Pro", "Asymétrique modéré", "Stealth C4 large", "6b à 7a bloc"],
+      ["Tenaya Mastia", "Asymétrique cambré", "Vibram XS Grip arrière", "6c bloc et plus"],
+      ["La Sportiva Mythos", "Plat polyvalent", "Souple, gomme standard", "Pas adapté"]
+    ]},
+    {"type": "h2", "text": "Les trois erreurs qui font ripper le talon"},
+    {"type": "p", "html": "Première erreur, la pose en zone médiane du chausson. Tu accroches le talon avec la voûte plantaire au lieu de la pointe arrière. La gomme y est plus souple, l'accroche dissoute. Pour corriger, regarde précisément où ton talon entre en contact avec la prise et vise systématiquement la zone la plus reculée du chausson."},
+    {"type": "p", "html": "Deuxième erreur, l'absence de rotation de hanche. Tu poses le talon perpendiculaire à la paroi, sans aucune rotation interne. La pointe arrière repose à plat sur la prise et glisse dès que la traction commence. La <a href=\"/blog/rotation-pivot-escalade\">rotation des hanches</a> est la clé qui verrouille le talon. Engage la cuisse en rotation, le talon descend en oblique, la mécanique se met en place."},
+    {"type": "p", "html": "Troisième erreur, le ripage par contraction brutale. Tu sens le talon mordre, tu tires d'un coup, le talon décolle. La traction doit monter progressivement, jamais en saccade. Un crochet de talon ressemble à un parking délicat, tu engages la gomme par petites pressions successives, pas en arrachant."},
+    {"type": "h2", "text": "Quand engager un crochet et quand y renoncer"},
+    {"type": "p", "html": "Le crochet n'est pas la solution universelle. Sur certaines configurations, il coûte plus d'énergie qu'il n'en économise. Tu engages un crochet quand trois conditions sont réunies. Une prise accrochable à hauteur correcte, c'est-à-dire entre la hanche et l'épaule. Un dévers suffisant pour que la gravité menace de décoller les pieds. Une distance entre la prise des mains et la prochaine prise qui justifie le coût énergétique de l'installation du crochet."},
+    {"type": "p", "html": "À l'inverse, tu renonces au crochet sur les murs verticaux ou en dalle, où le pied droit ou la lolotte font le travail à moindre coût. Tu renonces aussi sur les prises trop basses, sous la hanche, où le crochet devient un mouvement de contorsion improductif. Et tu renonces sur les prises trop éloignées latéralement, qui demandent un écart de hanche supérieur à ta souplesse réelle."},
+    {"type": "list", "variant": "checks", "title": "Les configurations idéales pour le crochet de talon", "items": [
+      {"title": "Dévers à 30 ou 40 degrés", "body": "Le crochet décharge significativement les bras et permet une reprise de main lointaine. C'est la configuration reine."},
+      {"title": "Toit horizontal", "body": "Le crochet sur jugs en milieu de toit permet de souffler quelques secondes. Combiné au talon plus pointe sur la prise opposée, il crée un verrouillage complet."},
+      {"title": "Sortie de bloc en dévers", "body": "Le crochet sur la prise sommitale stabilise le corps pendant que la main libre cherche le top. Mouvement signature du bloc indoor moderne."},
+      {"title": "Volume géométrique", "body": "Les volumes en salle offrent souvent des arêtes parfaites pour le crochet. L'opposition entre la pointe et le talon crée une compression utile."}
+    ]},
+    {"type": "h2", "text": "Travailler le crochet en salle puis l'emmener en falaise"},
+    {"type": "p", "html": "L'apprentissage du crochet passe par la salle, parce que les ouvreurs placent souvent des prises spécifiquement conçues pour cette technique. En falaise, les configurations sont plus rares mais plus exigeantes. Tu peux dédier une séance par semaine à des blocs en dévers qui imposent un crochet pour passer. Cherche les blocs où la séquence évidente force le talon, et répète jusqu'à ce que la pose devienne automatique."},
+    {"type": "p", "html": "Pour la transposition en falaise, attend d'avoir consolidé la technique en salle pendant trois à six mois avant de la mobiliser sur rocher. Le grès de Fontainebleau, les blocs du Cuvier Rempart et certains secteurs de Bleau présentent des configurations naturelles parfaites pour le crochet. La salle reste la meilleure école parce qu'elle reproduit la configuration mille fois sans risque, là où la falaise impose un coût énergétique élevé pour chaque essai."},
+    {"type": "quote", "text": "Le jour où tu sens ton talon bloquer une jugs sans que tu doives forcer avec les bras, tu as gagné un demi-grade. La technique du crochet vaut autant que la moitié d'un cycle de force.", "author": "Antoine", "role": "grimpeur 8a falaise, 13 ans de pratique"},
+    {"type": "h2", "text": "Le crochet de talon dans la progression globale"},
+    {"type": "p", "html": "Le crochet s'intègre dans un répertoire technique plus large. Tu le combines avec le crochet de pointe, son cousin proche, et avec la lolotte pour gérer les dévers complexes. Un grimpeur 7a bloc maîtrise ces trois techniques et sait alterner selon la configuration de la prise. La progression suit un ordre logique. D'abord le placement de pied précis sur prises franches, puis le drapeau et la lolotte sur dalle et léger dévers, ensuite le crochet de talon sur dévers prononcé, enfin les combinaisons crochet plus lolotte sur toits complets."},
+    {"type": "p", "html": "À chaque palier, la technique économise de l'énergie qui aurait été dépensée en force pure. C'est ce qui permet de passer du 6c au 7b bloc sans gain spectaculaire de force des doigts, simplement en raffinant le placement. Beaucoup de grimpeurs forts plafonnent en 7a parce qu'ils n'investissent pas dans le crochet et restent dépendants de leur traction."}
   ],
   "faq": [
-    {
-      "q": "À partir de quel niveau le crochet de talon devient indispensable ?",
-      "a": "Le crochet devient rentable dès le 6c bloc en salle, quand les ouvreurs commencent à proposer des configurations en dévers exigeant une décharge des bras. Il devient indispensable à partir du 7a bloc, où la plupart des sorties en dévers ne passent qu'avec un crochet correctement engagé. En falaise, le seuil se situe vers le 7a en voie sportive sur profils déversants."
-    },
-    {
-      "q": "Faut-il un chausson dédié pour le crochet de talon ?",
-      "a": "Pas obligatoire au début. Un chausson polyvalent type La Sportiva Katana Lace ou Scarpa Instinct VS permet d'apprendre la technique correctement. Au-delà du 7a bloc, un second chausson asymétrique cambré dédié au dévers devient un investissement rentable. La Solution, le Drago ou la Mastia sont les références du marché en 2026."
-    },
-    {
-      "q": "Pourquoi mon talon glisse systématiquement même sur une bonne prise ?",
-      "a": "Trois causes principales. Premièrement, tu poses la zone médiane du chausson au lieu de la pointe arrière. Deuxièmement, tu n'engages pas la rotation interne de la hanche qui verrouille le pied. Troisièmement, tu contractes brutalement au lieu d'installer la tension progressivement. Corrige ces trois points dans l'ordre et le glissement disparaît dans la majorité des cas."
-    },
-    {
-      "q": "Le crochet de talon peut-il provoquer des blessures ?",
-      "a": "Oui, principalement à l'ischio-jambier et au tendon d'Achille en cas de contraction brutale ou de mauvaise position de la hanche. Les blessures arrivent surtout chez les grimpeurs qui forcent un crochet trop éloigné sans souplesse suffisante. Échauffement systématique du bassin et étirement régulier de la chaîne postérieure préviennent la majorité des cas. En cas de douleur aiguë au talon ou à l'arrière de la cuisse, repos immédiat."
-    },
-    {
-      "q": "Comment travailler la souplesse nécessaire au crochet ?",
-      "a": "Le crochet exige une rotation externe de hanche et une souplesse correcte des ischio-jambiers. Travail régulier d'étirements ciblés, deux à trois fois par semaine, avec position du pigeon, étirement papillon, et flexion en avant jambes tendues. Le yoga adapté grimpeur est une excellente piste, certaines salles proposent des cours dédiés. Compte trois à six mois pour gagner une souplesse réellement utile en grimpe."
-    }
+    {"q": "À partir de quel niveau le crochet de talon devient indispensable ?", "a": "Le crochet devient rentable dès le 6c bloc en salle, quand les ouvreurs commencent à proposer des configurations en dévers exigeant une décharge des bras. Il devient indispensable à partir du 7a bloc, où la plupart des sorties en dévers ne passent qu'avec un crochet correctement engagé. En falaise, le seuil se situe vers le 7a en voie sportive sur profils déversants."},
+    {"q": "Faut-il un chausson dédié pour le crochet de talon ?", "a": "Pas obligatoire au début. Un chausson polyvalent type La Sportiva Katana Lace ou Scarpa Instinct VS permet d'apprendre la technique correctement. Au-delà du 7a bloc, un second chausson asymétrique cambré dédié au dévers devient un investissement rentable. La Solution, le Drago ou la Mastia sont les références du marché en 2026."},
+    {"q": "Pourquoi mon talon glisse systématiquement même sur une bonne prise ?", "a": "Trois causes principales. Premièrement, tu poses la zone médiane du chausson au lieu de la pointe arrière. Deuxièmement, tu n'engages pas la rotation interne de la hanche qui verrouille le pied. Troisièmement, tu contractes brutalement au lieu d'installer la tension progressivement. Corrige ces trois points dans l'ordre et le glissement disparaît dans la majorité des cas."},
+    {"q": "Le crochet de talon peut-il provoquer des blessures ?", "a": "Oui, principalement à l'ischio-jambier et au tendon d'Achille en cas de contraction brutale ou de mauvaise position de la hanche. Les blessures arrivent surtout chez les grimpeurs qui forcent un crochet trop éloigné sans souplesse suffisante. Échauffement systématique du bassin et étirement régulier de la chaîne postérieure préviennent la majorité des cas. En cas de douleur aiguë au talon ou à l'arrière de la cuisse, repos immédiat."},
+    {"q": "Comment travailler la souplesse nécessaire au crochet ?", "a": "Le crochet exige une rotation externe de hanche et une souplesse correcte des ischio-jambiers. Travail régulier d'étirements ciblés, deux à trois fois par semaine, avec position du pigeon, étirement papillon, et flexion en avant jambes tendues. Le yoga adapté grimpeur est une excellente piste, certaines salles proposent des cours dédiés. Compte trois à six mois pour gagner une souplesse réellement utile en grimpe."}
   ],
   "cover_alt": "Grimpeur en dévers prononcé dans une salle de bloc, talon droit accroché sur une jugs orange, main gauche tendue vers la prise suivante, gomme noire du chausson visible sur la prise, ambiance lumineuse latérale",
   "internal_links": [
-    {
-      "slug": "bloc-techniques-base",
-      "anchor": "vocabulaire technique du bloc",
-      "context": "famille technique"
-    },
-    {
-      "slug": "devers-techniques-puissance",
-      "anchor": "dévers prononcé",
-      "context": "contexte d'usage"
-    },
-    {
-      "slug": "rotation-pivot-escalade",
-      "anchor": "rotation des hanches",
-      "context": "mécanique clé"
-    },
-    {
-      "slug": "poser-pieds-escalade-placement",
-      "anchor": "placement précis du pied",
-      "context": "fondamentaux"
-    },
-    {
-      "slug": "apprendre-escalade-debutant-2026",
-      "anchor": "progression en escalade",
-      "context": "pilier cocon"
-    }
+    {"slug": "bloc-techniques-base", "anchor": "vocabulaire technique du bloc", "context": "famille technique"},
+    {"slug": "devers-techniques-puissance", "anchor": "dévers prononcé", "context": "contexte d'usage"},
+    {"slug": "rotation-pivot-escalade", "anchor": "rotation des hanches", "context": "mécanique clé"},
+    {"slug": "poser-pieds-escalade-placement", "anchor": "placement précis du pied", "context": "fondamentaux"},
+    {"slug": "apprendre-escalade-debutant-2026", "anchor": "progression en escalade", "context": "pilier cocon"}
   ],
   "scheduled_at": "2026-07-02T09:00:00+02:00"
 }

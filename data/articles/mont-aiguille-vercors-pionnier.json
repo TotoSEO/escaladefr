@@ -1,0 +1,198 @@
+{
+  "slug": "mont-aiguille-vercors-pionnier",
+  "cocon": "sites",
+  "type_article": "guide",
+  "numero": 17,
+  "title": "Mont Aiguille | grimper le sommet fondateur de l'alpinisme",
+  "h1": "Mont Aiguille, premier sommet escaladé de l'histoire en 1492",
+  "description": "Voies, voie normale, histoire, accès. Grimper le Mont Aiguille dans le Vercors, sommet fondateur de l'alpinisme français, calcaire et 2086 mètres.",
+  "chapo": "Le Mont Aiguille est plus qu'un sommet. C'est le point zéro de l'alpinisme français. Le 26 juin 1492, Domp Julien et son équipe l'escaladent sur ordre du roi Charles VIII, et écrivent sans le savoir la première page de l'histoire de la montagne européenne. Aujourd'hui, ses 2086 mètres se gravissent par une voie normale en 3 et 4, dans une ambiance qui mêle escalade facile et patrimoine historique unique.",
+  "takeaways": [
+    "Le Mont Aiguille culmine à 2086 mètres dans le Vercors méridional, département de l'Isère.",
+    "Première ascension le 26 juin 1492 par Domp Julien sur ordre du roi Charles VIII, acte fondateur de l'alpinisme.",
+    "Voie normale en 3 et 4 environ, 250 mètres, accessible à un grimpeur autonome qui maîtrise les manœuvres.",
+    "Calcaire urgonien, voies sur toutes les faces, du 3 à plus de 7, ouvertes principalement aux 20e et 21e siècles.",
+    "Période idéale de juin à septembre, accès depuis Chichilianne, refuge possible en pied de voie."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Une silhouette qui marque l'horizon du Vercors"
+    },
+    {
+      "type": "p",
+      "html": "Je me souviens de la première fois que j'ai vu le Mont Aiguille, depuis la route qui descend du col de la Croix-Haute. La forme est si étrange qu'on doute de ses yeux. Un cube de calcaire posé sur la prairie, parois verticales sur les quatre côtés, plateau sommital herbu visible d'en bas. Ça ne ressemble à aucun autre sommet français. On comprend immédiatement pourquoi les habitants du Trièves l'ont longtemps regardé comme une montagne magique, peuplée d'esprits, inaccessible."
+    },
+    {
+      "type": "p",
+      "html": "Le sommet culmine à <strong>2086 mètres</strong>, dans le Vercors méridional, commune de Chichilianne, département de l'Isère. Géologiquement, c'est un môle de calcaire urgonien isolé du reste du massif par l'érosion. Les parois mesurent 200 à 300 mètres sur la quasi-totalité de la circonférence. Le plateau sommital fait environ 30 hectares, herbu, parcouru de moutons en été. C'est une falaise qui ne ressemble à aucune autre : on grimpe pour atteindre un pré."
+    },
+    {
+      "type": "p",
+      "html": "Pour le grimpeur d'aujourd'hui, le Mont Aiguille reste une course de référence du Vercors, à la fois facile techniquement et chargée historiquement. Tu pars du parking de la Richardière, tu marches deux heures, tu grimpes la voie normale en quelques heures, tu pique-niques au sommet, tu redescends en rappel. Mais en posant le pied sur la voie, tu reproduis le geste de Domp Julien il y a plus de cinq siècles. Ce n'est pas anodin."
+    },
+    {
+      "type": "h2",
+      "text": "1492, Charles VIII et la naissance de l'alpinisme"
+    },
+    {
+      "type": "p",
+      "html": "L'histoire est documentée par les chroniques royales. <strong>Charles VIII</strong>, lors de son voyage de retour d'Italie en 1490, traverse le Trièves et aperçoit le Mont Aiguille, qu'on appelait alors le Mont Inaccessible. Frappé par la singularité du sommet, il ordonne à son chambellan Antoine de Ville d'organiser une ascension pour prouver que rien n'est inaccessible au pouvoir royal. La mission est confiée à <strong>Domp Julien</strong>, sergent de l'armée et tailleur de pierre, expert en travaux de cordage."
+    },
+    {
+      "type": "p",
+      "html": "L'ascension a lieu le 26 juin 1492, deux mois avant que Christophe Colomb ne touche les Antilles. L'équipe est d'environ dix hommes, équipés d'échelles, de cordes, de crochets de fer. Ils empruntent vraisemblablement la cheminée qui deviendra plus tard la voie normale, sur la face nord-est. L'ascension dure plusieurs jours, ils restent au sommet une semaine, célèbrent une messe sur le plateau, plantent des croix. Le procès-verbal est dressé sur place et envoyé au roi."
+    },
+    {
+      "type": "p",
+      "html": "Cette ascension est considérée comme l'acte de naissance officiel de l'alpinisme. Avant 1492, les sommets sont gravis pour des raisons utilitaires : chasse, cueillette, refuge. Le Mont Aiguille est le premier sommet attaqué pour la seule raison de son inaccessibilité, dans une logique de prouesse pure. Cette intention nouvelle, gratuite, fonde une pratique. C'est ce que rappelle <a href=\"/blog/histoire-escalade-france-alpes-salle\">l'histoire de l'escalade en France</a> : tout commence ici, dans le Vercors, sous Louis XII enfant."
+    },
+    {
+      "type": "table",
+      "caption": "Fiche d'identité du Mont Aiguille",
+      "headers": ["Critère", "Détail"],
+      "rows": [
+        ["Localisation", "Isère, commune de Chichilianne, Vercors méridional"],
+        ["Altitude sommet", "2086 mètres"],
+        ["Hauteur des parois", "200 à 300 mètres"],
+        ["Roche", "Calcaire urgonien du Crétacé inférieur"],
+        ["Première ascension", "26 juin 1492 par Domp Julien"],
+        ["Voie normale", "Face nord-est, 3 et 4, 250 mètres"],
+        ["Cotations toutes voies", "3 à 7c selon les faces"],
+        ["Période idéale", "Juin à septembre"]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "La voie normale, classique des grandes voies faciles"
+    },
+    {
+      "type": "p",
+      "html": "La voie normale du Mont Aiguille suit grossièrement le tracé de l'ascension de 1492. Elle se développe sur la face nord-est, dans une combinaison de cheminée, dièdre et vires herbeuses. La cotation moyenne tourne autour du 3 et du 4 en escalade libre, avec quelques courts passages de 4c selon les variantes. La hauteur totale est de 250 mètres environ, soit 7 à 8 longueurs de corde."
+    },
+    {
+      "type": "p",
+      "html": "L'équipement est sommaire et hétérogène. Pas d'équipement sportif moderne, on trouve quelques spits anciens, des pitons rouillés, des sangles laissées par les générations précédentes. C'est de la grande voie d'aventure légère, à mi-chemin entre l'escalade et l'alpinisme rocheux. La cordée doit savoir poser quelques coinceurs ou friends pour compléter les protections fixes, et maîtriser les manœuvres de relais sur ancrages rustiques."
+    },
+    {
+      "type": "p",
+      "html": "Compte 3 à 5 heures pour l'ascension elle-même, à partir du pied de voie. La marche d'approche depuis le parking de la Richardière prend 2 à 2h30 par le sentier du Pas de l'Aiguille. Le retour se fait par rappels dans la voie elle-même, environ 6 à 7 rappels de 50 mètres. Compte une journée complète de 8 à 10 heures du véhicule au véhicule, plus si la cordée découvre la voie ou si la file d'attente est conséquente en haute saison."
+    },
+    {
+      "type": "h2",
+      "text": "Les autres voies, du facile au très dur"
+    },
+    {
+      "type": "p",
+      "html": "Le Mont Aiguille propose des dizaines de voies sur ses quatre faces, du 3 au 7c+. La face sud, exposée au soleil et sèche, abrite la majorité des voies modernes en libre. La voie Le Grand Roi, ouverte par Pierre Vidailhet dans les années 80, propose 250 mètres en 6c sur un calcaire excellent. La face ouest, plus austère, conserve quelques voies historiques peu fréquentées. La face nord, fraîche et humide, reste réservée aux conditions estivales sèches."
+    },
+    {
+      "type": "p",
+      "html": "Pour les grimpeurs qui veulent dépasser la voie normale, je recommande la voie de la Bouverie sur la face sud, cotée 5c maxi, 220 mètres, équipement plus moderne que la voie normale. Elle offre une grimpe plus continue et plus agréable, dans un calcaire compact à coulées d'eau caractéristique du Vercors. Elle se fait dans une journée confortable et donne un goût plus sportif que la voie historique."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Trois voies à connaître au Mont Aiguille",
+      "items": [
+        {
+          "title": "Voie normale (3-4, 250 m)",
+          "body": "La course historique, voie de Domp Julien en 1492. Face nord-est, 7 longueurs, équipement hétérogène. Demande la maîtrise des manœuvres de grande voie. Compte une journée complète depuis Chichilianne."
+        },
+        {
+          "title": "Voie de la Bouverie (5c, 220 m)",
+          "body": "Face sud, calcaire ensoleillé, 6 longueurs en libre soutenu. Équipement plus récent que la voie normale. Idéal pour un grimpeur autonome au 5c qui veut découvrir le Mont Aiguille sportivement."
+        },
+        {
+          "title": "Le Grand Roi (6c, 250 m)",
+          "body": "Voie de référence de la face sud, ouverte par Pierre Vidailhet dans les années 80. Calcaire de qualité, passages variés, ambiance haute falaise. Demande un grimpeur autonome au 6c en grande voie."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "L'accès depuis Chichilianne et le refuge"
+    },
+    {
+      "type": "p",
+      "html": "L'accès se fait depuis le village de Chichilianne, en Isère, dans le Trièves. Depuis Grenoble, compte une heure de route par la N75 puis la D7. À Chichilianne, suivre la direction du hameau de la Richardière où se trouve le parking principal, gratuit, environ 50 places. Aux pics de fréquentation en juillet et août, le parking sature dès 8 heures du matin, mieux vaut partir tôt ou prévoir un hébergement sur place."
+    },
+    {
+      "type": "p",
+      "html": "Le sentier du Pas de l'Aiguille démarre du parking et monte par paliers dans la forêt puis dans les pâturages. Compte 2 à 2h30 pour atteindre le pied de voie nord-est, environ 600 mètres de dénivelé positif. Le sentier est balisé GR93, bien tracé, sans difficulté technique. Le pied de voie offre quelques zones plates pour s'équiper, mais pas de pied de voie large pour bivouaquer confortablement."
+    },
+    {
+      "type": "p",
+      "html": "Pour qui veut rallonger l'expérience, le refuge des Tonneaux, à 1750 mètres d'altitude, propose une dizaine de couchages en gestion libre. Il se trouve à 30 minutes du pied de voie. C'est une option pour faire la course en deux jours avec bivouac, ou pour partir très tôt sur les voies sud le lendemain matin. Réservation auprès du CAF de l'Isère obligatoire en haute saison."
+    },
+    {
+      "type": "h2",
+      "text": "Quand grimper et pour qui"
+    },
+    {
+      "type": "p",
+      "html": "La période idéale s'étend de juin à fin septembre. Juin offre des conditions fraîches, mais la voie normale peut conserver des plaques d'herbe humide en début de mois. Juillet et août donnent les conditions les plus stables, avec parfois une foule conséquente sur la voie normale, départ très matinal recommandé. Septembre reste très bon, fréquentation plus calme, températures agréables au sommet. À partir d'octobre, les premières neiges peuvent rendre la voie normale délicate."
+    },
+    {
+      "type": "p",
+      "html": "Le Mont Aiguille s'adresse à des grimpeurs de tous niveaux, à condition d'être autonomes en grande voie. La voie normale convient à un grimpeur du 4 en falaise qui maîtrise les manœuvres et les rappels. Les voies sud demandent un niveau 5c à 7 selon les choix. Ce n'est pas un site d'initiation à la grande voie, mieux vaut avoir fait quelques courses du Vercors ou des Préalpes avant. Comparable en niveau d'engagement à <a href=\"/blog/dent-crolles-chartreuse\">la Dent de Crolles en Chartreuse</a>."
+    },
+    {
+      "type": "tip",
+      "title": "Préparer l'ascension du Mont Aiguille",
+      "body": "Topo papier obligatoire, les téléphones perdent souvent du signal au pied de voie. Casque indispensable, des chutes de pierres se produisent depuis le plateau sommital. 2 litres d'eau minimum, pas de point d'eau sur le parcours. Le pique-nique au sommet est l'un des grands moments, on se trouve sur un pré herbu à 2086 mètres avec vue sur tout le Trièves. Prends le temps, c'est le but de la course autant que l'ascension.",
+      "tone": "info"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Qui a fait la première ascension du Mont Aiguille ?",
+      "a": "Domp Julien, sergent de l'armée et tailleur de pierre, accompagné d'une équipe d'environ dix hommes, a réalisé la première ascension le 26 juin 1492 sur ordre du roi Charles VIII. L'opération avait été commandée par Antoine de Ville, chambellan du roi. Cette ascension est documentée par procès-verbal et constitue le premier témoignage écrit d'une ascension réalisée pour la seule prouesse, sans motif utilitaire. Elle est considérée comme l'acte fondateur de l'alpinisme moderne."
+    },
+    {
+      "q": "Quel niveau faut-il pour faire la voie normale ?",
+      "a": "Un grimpeur autonome au niveau 4 en falaise peut envisager la voie normale. La difficulté technique est modérée, autour du 3 et 4 avec quelques passages de 4c. Ce qui compte vraiment, c'est la maîtrise des manœuvres de grande voie : relais sur ancrages rustiques, gestion de la corde, rappels multiples. Mieux vaut avoir fait deux ou trois courses dans le Vercors ou la Chartreuse avant d'attaquer le Mont Aiguille, c'est une voie d'aventure légère qui n'a rien à voir avec une couenne en falaise sportive."
+    },
+    {
+      "q": "Combien de temps prévoir pour la course complète ?",
+      "a": "Compte une journée complète, 8 à 10 heures du parking au parking pour une cordée à l'aise. Marche d'approche 2h à 2h30, ascension 3 à 5h selon la file d'attente, repas au sommet 30 minutes, rappels 1h30 à 2h, descente 1h30. Ajoute 1 à 2 heures de marge si vous découvrez la voie. Départ avant 6h en haute saison est très conseillé pour éviter la file d'attente sur les premières longueurs."
+    },
+    {
+      "q": "Peut-on bivouaquer au sommet ?",
+      "a": "Techniquement oui, le plateau sommital est plat, herbu, parfait pour un bivouac. Le bivouac y est toléré dans le cadre du Parc naturel régional du Vercors, sans feu et avec respect des règles. Plusieurs cordées le font chaque été, c'est une expérience marquante. Attention au vent qui peut être violent au sommet, et à l'humidité matinale. Sortie en rappels dès l'aube le lendemain. Le refuge des Tonneaux à 1750 mètres reste une option intermédiaire plus confortable."
+    },
+    {
+      "q": "Y a-t-il un guide qui propose la course en accompagnement ?",
+      "a": "Oui, plusieurs guides de haute montagne basés à Grenoble, à Gresse-en-Vercors ou à Chichilianne proposent l'ascension du Mont Aiguille en accompagnement encadré. Compte 300 à 450 euros la journée pour une cordée de deux clients avec un guide. C'est une option recommandée pour qui découvre la grande voie d'aventure et veut profiter du Mont Aiguille sans gérer la logistique technique. Le bureau des guides du Vercors est la première adresse à consulter."
+    }
+  ],
+  "cover_alt": "Le Mont Aiguille vu depuis le Trièves au lever du soleil, sommet calcaire isolé de 2086 mètres dressé sur la prairie, parois verticales sur toutes les faces, ciel clair de juillet",
+  "internal_links": [
+    {
+      "slug": "histoire-escalade-france-alpes-salle",
+      "anchor": "l'histoire de l'escalade en France",
+      "context": "racines historiques"
+    },
+    {
+      "slug": "dent-crolles-chartreuse",
+      "anchor": "la Dent de Crolles en Chartreuse",
+      "context": "site préalpin comparable"
+    },
+    {
+      "slug": "claudes-romans-isere-classique",
+      "anchor": "Presles dans le Vercors",
+      "context": "autre site du massif"
+    },
+    {
+      "slug": "sites-escalade-emblematiques-france",
+      "anchor": "panorama des sites français",
+      "context": "panorama national"
+    },
+    {
+      "slug": "aiguille-midi-chamonix-haute",
+      "anchor": "l'Aiguille du Midi en haute altitude",
+      "context": "autre sommet emblématique"
+    }
+  ],
+  "scheduled_at": "2026-12-22T09:00:00+01:00"
+}

@@ -1,0 +1,213 @@
+{
+  "slug": "journal-entrainement-progression",
+  "cocon": "preparation",
+  "type_article": "astuce",
+  "numero": 132,
+  "title": "Tenir un journal d'entraînement en escalade | méthode pratique",
+  "h1": "Tenir un journal d'entraînement, l'outil qui change la progression du grimpeur",
+  "description": "Journal d'entraînement papier ou numérique, quoi noter pour progresser, exemple de fiche type. Méthode complète pour le grimpeur sérieux.",
+  "chapo": "Tenir un journal d'entraînement reste l'un des outils les plus sous-utilisés du grimpeur amateur. Cinq minutes par séance pour noter le ressenti, le contenu et les charges. Plusieurs mois plus tard, une mine de données qui permet de comprendre ce qui marche et ce qui ne marche pas. Antoine te livre la méthode qu'il utilise depuis ses débuts à Camille Sée Colmar. Tu vas voir, ça transforme la pratique sérieuse.",
+  "takeaways": [
+    "Un journal d'entraînement consigne séances, ressenti, charges et progression sur la durée.",
+    "Format papier carnet Moleskine ou application comme Stronglifts, Crimpd ou Notion, peu importe le support.",
+    "Cinq champs minimaux : date, contenu, intensité, ressenti corps et tête, point d'attention pour la suite.",
+    "Une relecture mensuelle des séances révèle les patterns de progression et les freins récurrents.",
+    "Le journal aide à prévenir les blessures en repérant tôt les signaux faibles de surentraînement."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Pourquoi tenir un journal d'entraînement"
+    },
+    {
+      "type": "p",
+      "html": "Sans journal, la mémoire des séances s'efface en quelques semaines. Tu te souviens des grosses séances et des grosses voies, pas du quotidien. Or la progression se construit sur le quotidien, sur l'accumulation des petites séances et les ajustements progressifs. Le journal capture ce que la mémoire perd."
+    },
+    {
+      "type": "p",
+      "html": "Plusieurs bénéfices se cumulent. Tu identifies plus vite ce qui marche pour ton corps : les exercices qui te font progresser, les rythmes qui te conviennent, les phases où tu réponds mieux à l'intensité. Tu repères les signaux faibles de surentraînement avant qu'ils ne deviennent une blessure. Tu construis un dossier sur lequel un coach pourra s'appuyer si tu choisis un accompagnement."
+    },
+    {
+      "type": "p",
+      "html": "Sur le plan motivationnel, le journal joue aussi son rôle. Relire ses notes d'il y a un an quand on stagne donne de la perspective. Beaucoup de grimpeurs sous-estiment leur progression réelle parce qu'ils oublient leur point de départ. Le journal te ramène à la réalité du chemin parcouru."
+    },
+    {
+      "type": "h2",
+      "text": "Papier ou numérique, quel support choisir"
+    },
+    {
+      "type": "p",
+      "html": "Le débat est secondaire mais récurrent. Le papier offre une expérience tactile, une distance avec les écrans qui plait à beaucoup de grimpeurs. Un simple carnet petit format avec une page par séance suffit. Compte 10 à 20 € pour un carnet de qualité comme Leuchtturm ou Moleskine."
+    },
+    {
+      "type": "p",
+      "html": "Le numérique facilite l'analyse rétroactive et le partage avec un coach. Plusieurs applications spécialisées existent : <strong>Crimpd</strong> pour la grimpe, <strong>Lattice Training</strong> pour les protocoles structurés, ou des outils généraux comme Notion ou Apple Notes. Crimpd intègre un suivi des séances poutre et bloc avec timer intégré, c'est pratique pour les protocoles complexes."
+    },
+    {
+      "type": "p",
+      "html": "Mon choix personnel mélange les deux. Un carnet papier pour le ressenti et les notes qualitatives, une feuille Notion pour les données chiffrées sur le hangboard et les voies enchaînées. Cette double approche prend cinq minutes par séance et offre le meilleur des deux mondes. Choisis ce qui te correspond, le pire choix serait de ne rien noter."
+    },
+    {
+      "type": "h2",
+      "text": "Les cinq champs essentiels à consigner"
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Les cinq champs d'une fiche d'entraînement utile",
+      "items": [
+        {
+          "title": "Date et durée totale",
+          "body": "Date complète avec jour de la semaine, durée totale de la séance hors trajet, lieu pratiqué. Ces données structurent le suivi sur la durée et révèlent la régularité réelle."
+        },
+        {
+          "title": "Contenu détaillé",
+          "body": "Échauffement, voies tentées et enchaînées avec leur cotation et leur style, exercices spécifiques avec charges si poutre ou musculation. Précision compte : 6a flash, 6b travail réussi 3e essai, hangboard 10 mm 5x7 secondes."
+        },
+        {
+          "title": "Intensité globale sur 10",
+          "body": "Une note subjective de l'intensité ressentie, de 1 pour facile à 10 pour épuisant. Cette note croisée avec le contenu révèle comment tu encaisses les séances similaires à différents moments."
+        },
+        {
+          "title": "Ressenti corps et tête",
+          "body": "Une à trois phrases sur l'état physique et mental. Tendinite débutante coude droit, motivation moyenne, stress avant essai. C'est le champ le plus précieux pour la prévention des blessures."
+        },
+        {
+          "title": "Point d'attention pour la suite",
+          "body": "Une à deux phrases sur ce qu'il faut surveiller la prochaine fois : repos doigts deux jours, retravailler croisé sur dévers, refaire échauffement plus long. Cette projection consolide l'apprentissage."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Exemple concret de fiche pour une séance falaise"
+    },
+    {
+      "type": "p",
+      "html": "Voici à quoi ressemble une fiche type pour une séance falaise à Buoux. Date samedi 12 avril, lieu Buoux secteur Bout du Monde, durée 4 heures hors trajet, météo 18 degrés vent léger."
+    },
+    {
+      "type": "p",
+      "html": "Contenu : échauffement progressif 30 minutes sur deux 5b et un 6a flash. Travail principal essai 6c+ Magic Wood, tombé sur 3e clipper deux fois, enchaîné au 3e essai. Tentative 7a Diamant Noir, repérage relais 1, repère séquence départ. Fin de séance 6b descente facile pour mobilité."
+    },
+    {
+      "type": "p",
+      "html": "Intensité 7 sur 10, jambes ok, avant-bras gonflés en fin de séance. Ressenti psychologique : prise de plaisir sur Magic Wood, légère appréhension sur Diamant Noir qui se débloque après le repérage. Coude droit un peu tendu en fin, à surveiller."
+    },
+    {
+      "type": "p",
+      "html": "Point d'attention pour la suite : repos doigts dimanche complet, refaire échauffement plus progressif la prochaine fois car premier 6a un peu tendu, retravailler la lecture du relais 1 sur Diamant Noir avant prochain essai. En cinq minutes la fiche est faite, l'information capturée."
+    },
+    {
+      "type": "tip",
+      "title": "Le journal hebdomadaire, complément utile",
+      "body": "En complément du journal par séance, une note hebdomadaire en 5 lignes synthétise la semaine. Nombre de séances, charge totale ressentie, voies majeures travaillées, point physique global, intention pour la semaine suivante. Cette synthèse hebdo facilite la relecture mensuelle et révèle les patterns plus globaux que la séance unique ne montre pas.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "La relecture, étape la plus négligée"
+    },
+    {
+      "type": "p",
+      "html": "Noter ne sert à rien si tu ne relis jamais. La relecture mensuelle d'une heure transforme le journal en outil de pilotage. Tu fais le bilan du mois écoulé, tu identifies les patterns qui reviennent, tu ajustes le plan du mois suivant."
+    },
+    {
+      "type": "p",
+      "html": "Lors de cette relecture, je cherche trois choses. Les exercices qui ont produit du gain, ceux dont le ressenti devient meilleur séance après séance. Les exercices qui n'apportent rien, ceux où je stagne ou régresse. Les signaux faibles de blessure, comme une mention récurrente de tendinite débutante ou de fatigue persistante."
+    },
+    {
+      "type": "p",
+      "html": "Cette relecture mensuelle prend une heure. Si tu sautes cette étape, ton journal devient une corvée sans bénéfice. Inversement, c'est le retour sur investissement qui rend le rituel d'écriture acceptable sur la durée. Programme la relecture dans ton agenda, comme une séance d'entraînement."
+    },
+    {
+      "type": "quote",
+      "text": "Mes premières tendinites de coude à 17 ans étaient annoncées dans mon journal trois semaines avant. Sauf que je n'ouvrais pas le journal. Depuis, je relis tous les premiers du mois. Une heure qui sauve potentiellement plusieurs mois d'arrêt.",
+      "author": "Antoine",
+      "role": "grimpeur, 13 ans de pratique"
+    },
+    {
+      "type": "h2",
+      "text": "Suivre les objectifs et les voies projet"
+    },
+    {
+      "type": "p",
+      "html": "Au-delà de la fiche par séance, le journal devient utile pour suivre les projets. Une section dédiée par voie projet, avec date d'essai, séquences clés notées, conditions favorables identifiées, échec et leurs causes. Cette section devient le manuel de la voie."
+    },
+    {
+      "type": "p",
+      "html": "Sur un projet à plusieurs séances, ce suivi accélère sensiblement la résolution. Tu ne refais pas les mêmes erreurs, tu reviens directement à la séquence qui marchait, tu gardes en tête les détails techniques. Pour les voies au-dessus du 7b, ce type de suivi devient quasi nécessaire."
+    },
+    {
+      "type": "p",
+      "html": "Côté objectifs annuels, je note en début d'année trois ou quatre cibles concrètes. Pas des grands souhaits flous, mais des objectifs précis : enchaîner mon premier 7c falaise, passer l'examen initiateur FFME, tenir 8 secondes sur 10 mm. Cette précision rend la progression mesurable et le journal devient le tableau de bord de ces objectifs."
+    },
+    {
+      "type": "h2",
+      "text": "Quand le journal devient contre-productif"
+    },
+    {
+      "type": "p",
+      "html": "Le journal peut devenir une source de stress chez certains grimpeurs perfectionnistes. Si chaque séance non notée devient une culpabilité, si la performance objective remplace le plaisir, alors l'outil se retourne contre toi. Sois vigilant à garder un usage souple, sans dogmatisme."
+    },
+    {
+      "type": "p",
+      "html": "Mon conseil : pendant les phases d'entraînement structuré ou de projet précis, le journal devient quotidien. Pendant les phases de plaisir pur, vacances grimpe ou découverte d'un nouveau site, mets le journal de côté. La grimpe n'est pas un audit permanent. C'est un sport et un plaisir d'abord."
+    },
+    {
+      "type": "p",
+      "html": "Le bon journal est celui que tu tiens avec plaisir, sur les sujets qui te font progresser. Pas celui que tu tiens par devoir parce qu'un coach ou un article t'a dit qu'il le fallait. Adapte le rituel à ton mode de pratique, pas l'inverse."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Faut-il vraiment tenir un journal pour progresser en grimpe ?",
+      "a": "Non, pas obligatoirement. Beaucoup de grimpeurs progressent sans journal pendant des années. Mais l'outil devient très utile à partir du moment où tu cherches une progression structurée, où tu travailles un projet précis, ou où tu veux prévenir les blessures. À haut niveau, quasiment tous les grimpeurs sérieux tiennent une forme de suivi. Pour le loisir pur, c'est optionnel."
+    },
+    {
+      "q": "Quelle application est la plus adaptée à la grimpe ?",
+      "a": "Crimpd est l'application la plus populaire pour la grimpe spécifiquement, avec une bibliothèque d'exercices et un timer hangboard intégré. Lattice Training propose des protocoles structurés pour les grimpeurs sérieux. Pour le suivi général sans entrer dans la grimpe technique, Notion ou Apple Notes restent flexibles. Strava et Garmin Connect ne sont pas adaptés à l'escalade. Teste deux ou trois outils sur quelques semaines avant de t'engager."
+    },
+    {
+      "q": "Combien de temps faut-il consacrer à son journal ?",
+      "a": "Cinq minutes par séance pour la fiche complète, deux à trois minutes pour une fiche allégée. Une heure par mois pour la relecture et le bilan. Total environ 30 à 40 minutes par mois si tu fais deux séances par semaine. C'est un investissement raisonnable au regard du temps total consacré à la pratique. Si ça dépasse 10 minutes par séance, c'est probablement trop détaillé pour être tenu durablement."
+    },
+    {
+      "q": "Quelles informations ne pas oublier de noter ?",
+      "a": "Cinq champs minimaux. Date et durée. Contenu détaillé avec cotations et style. Intensité globale sur 10. Ressenti physique et mental. Point d'attention pour la suite. Sans ces cinq champs, le journal perd sa valeur d'analyse. Tu peux ajouter le sommeil de la nuit précédente, la dernière alimentation, la météo si tu grimpes en falaise. Ces éléments enrichissent l'analyse à la marge."
+    },
+    {
+      "q": "Comment éviter que le journal devienne une corvée ?",
+      "a": "Trois leviers. Garde le format simple et stable, ne rajoute pas de champs en permanence. Programme la relecture mensuelle pour avoir un retour sur investissement visible. Accepte de sauter des séances de notation sans culpabilité, surtout quand tu grimpes pour le plaisir pur. Si le journal devient une source de stress, prends une pause de deux semaines. La pratique repart ensuite avec plus d'envie et le journal redevient utile."
+    }
+  ],
+  "cover_alt": "Carnet d'entraînement ouvert avec stylo et notes manuscrites, chaussons d'escalade et sac de magnésie posés à côté, lumière douce d'une fin de séance",
+  "internal_links": [
+    {
+      "slug": "preparer-corps-tete-grimpe",
+      "anchor": "préparer son corps et sa tête à la grimpe",
+      "context": "pilier preparation"
+    },
+    {
+      "slug": "visualisation-mental-escalade",
+      "anchor": "visualisation et préparation mentale",
+      "context": "outil complémentaire"
+    },
+    {
+      "slug": "musculation-grimpeur-base",
+      "anchor": "musculation pour grimpeur",
+      "context": "suivi des charges"
+    },
+    {
+      "slug": "grip-strength-poutre-pan",
+      "anchor": "force des doigts à la poutre",
+      "context": "données chiffrées hangboard"
+    },
+    {
+      "slug": "blessures-doigts-grimpeur",
+      "anchor": "prévention des blessures de doigts",
+      "context": "détection précoce"
+    }
+  ],
+  "scheduled_at": "2027-03-06T09:00:00+01:00"
+}

@@ -1,0 +1,222 @@
+{
+  "slug": "blessures-doigts-grimpeur",
+  "cocon": "preparation",
+  "type_article": "guide",
+  "numero": 133,
+  "title": "Blessures de doigts du grimpeur | guide prévention et soin",
+  "h1": "Blessures de doigts du grimpeur, comprendre, prévenir et soigner",
+  "description": "Rupture de poulie A2 A4, tendinopathie de doigt, kyste synovial. Prévention, signes d'alerte et prise en charge médicale pour le grimpeur.",
+  "chapo": "Les doigts du grimpeur subissent des contraintes uniques dans le monde du sport. Poulies A2 et A4, tendons fléchisseurs profonds, capsules articulaires. Toute cette mécanique se blesse avec des signaux parfois discrets. Antoine te partage les connaissances accumulées en treize ans de pratique et plusieurs micro-blessures, plus les retours des kinés et médecins du sport spécialisés. Tu vas comprendre comment éviter le pire et réagir si ça arrive.",
+  "takeaways": [
+    "La poulie A2 du doigt est la plus exposée chez le grimpeur, surtout en arquée et sur monodoigt.",
+    "Une douleur brève avec craquement audible suggère une rupture de poulie, urgence médicale.",
+    "L'échographie est l'examen de référence pour diagnostiquer une lésion de poulie ou de tendon.",
+    "Le repos seul ne suffit pas : la rééducation active progressive accélère la récupération.",
+    "L'usage du strapping de doigt ne remplace pas le traitement mais limite la récidive en phase de retour."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "L'anatomie du doigt sous contrainte d'escalade"
+    },
+    {
+      "type": "p",
+      "html": "Le doigt comporte trois phalanges reliées par deux articulations interphalangiennes. Les <strong>tendons fléchisseurs</strong> circulent le long du doigt depuis l'avant-bras jusqu'à l'extrémité, maintenus contre l'os par cinq poulies annulaires nommées <strong>A1, A2, A3, A4, A5</strong>. La poulie A2 est la plus grosse et la plus sollicitée."
+    },
+    {
+      "type": "p",
+      "html": "En position arquée, le tendon fléchisseur tire sur la poulie A2 avec une force qui peut atteindre trois fois le poids du corps suspendu à un doigt. Cette force dépasse la résistance du tissu en cas de mouvement explosif sur petite prise, et la poulie peut céder partiellement ou totalement. C'est la classique rupture de poulie A2."
+    },
+    {
+      "type": "p",
+      "html": "À côté des poulies, d'autres structures sont exposées. Les tendons fléchisseurs eux-mêmes peuvent développer des tendinopathies. Les capsules articulaires gonflent en cas de trauma répété. Les kystes synoviaux apparaissent parfois sur le dos du doigt après contraintes prolongées. Chaque structure réagit différemment et appelle un diagnostic précis."
+    },
+    {
+      "type": "h2",
+      "text": "Reconnaître les signes d'une rupture de poulie"
+    },
+    {
+      "type": "p",
+      "html": "La <strong>rupture de poulie A2</strong> survient typiquement sur un mouvement explosif en position arquée, souvent en monodoigt ou bidoigt. Le signe pathognomonique est un <strong>craquement audible</strong> ou ressenti dans le doigt, suivi d'une douleur vive à la base du doigt côté paume."
+    },
+    {
+      "type": "p",
+      "html": "Dans les heures qui suivent, le doigt gonfle, devient sensible au toucher à la base. Si tu plies le doigt activement, le tendon peut faire saillie sous la peau, c'est ce qu'on appelle le bowstringing. Ce signe visible suggère une rupture complète et non un simple déchirement. Une consultation rapide s'impose, idéalement chez un médecin du sport ou un chirurgien de la main spécialisé."
+    },
+    {
+      "type": "p",
+      "html": "Le diagnostic se confirme par <strong>échographie</strong> ou <strong>IRM</strong>. L'échographie est plus accessible, moins chère, et suffit dans 90% des cas. L'IRM est réservée aux situations complexes ou aux doutes diagnostiques. Le médecin classe la lésion selon une échelle de gravité de I à IV qui détermine la prise en charge."
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Classification des ruptures de poulie",
+      "items": [
+        {
+          "title": "Grade I, étirement sans rupture",
+          "body": "Microlésions sans rupture franche. Douleur modérée, pas de bowstringing. Repos relatif 3 à 6 semaines, rééducation active dès que la douleur diminue. Reprise progressive à 6-8 semaines."
+        },
+        {
+          "title": "Grade II, rupture partielle d'une poulie",
+          "body": "Rupture partielle de la poulie A2 ou A4. Douleur nette, gonflement marqué. Strapping conseillé, repos 6 à 8 semaines, rééducation kiné spécialisée. Reprise progressive à 10-12 semaines."
+        },
+        {
+          "title": "Grade III, rupture complète d'une poulie",
+          "body": "Rupture totale d'une poulie. Bowstringing visible, perte de force, douleur sévère. Traitement conservateur dans la majorité des cas, immobilisation et strapping prolongé. Reprise à 3 mois minimum."
+        },
+        {
+          "title": "Grade IV, ruptures multiples",
+          "body": "Rupture de plusieurs poulies sur le même doigt. Chirurgie reconstructrice fréquente. Arrêt prolongé 6 mois et plus. Suivi orthopédique étroit."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Les autres pathologies fréquentes du doigt"
+    },
+    {
+      "type": "p",
+      "html": "La <strong>tendinopathie</strong> du fléchisseur est la deuxième pathologie courante. Elle se manifeste par une douleur progressive, sans craquement, qui s'installe au fil des séances. Elle traduit une surcharge répétée plus qu'un trauma unique. La prise en charge combine repos relatif, rééducation excentrique et reprise progressive."
+    },
+    {
+      "type": "p",
+      "html": "Le kyste synovial apparaît sur le dos du doigt sous forme d'une boule molle, indolore au repos, parfois sensible à la palpation. Il vient d'une hernie de la capsule articulaire sous contrainte chronique. Il peut régresser spontanément. La ponction par un chirurgien est possible si gêne fonctionnelle, sans urgence."
+    },
+    {
+      "type": "p",
+      "html": "L'arthrose précoce du doigt touche les grimpeurs après plusieurs décennies de pratique intensive. Les articulations interphalangiennes proximales gonflent, deviennent raides au réveil. La prévention passe par l'échauffement complet et l'évitement des positions extrêmes sur prises minuscules quand on vieillit. L'arthrose installée se gère médicalement, sans solution miracle."
+    },
+    {
+      "type": "h2",
+      "text": "La prévention des blessures de doigt"
+    },
+    {
+      "type": "p",
+      "html": "La prévention combine plusieurs leviers. Premier levier, l'<strong>échauffement complet</strong> avant chaque séance. Cinq à dix minutes de montée progressive sur grosses prises avant de toucher aux réglettes. Les doigts froids sont beaucoup plus exposés que les doigts chauds. Un échauffement bâclé multiplie le risque par deux."
+    },
+    {
+      "type": "p",
+      "html": "Deuxième levier, la <strong>charge progressive sur hangboard</strong>. Le travail sur poutre est efficace pour développer la force des doigts, mais il doit être progressif. Les recommandations d'<strong>Eva Lopez</strong>, kiné espagnole spécialiste du sujet, structurent la majorité des protocoles modernes. Trois mois d'adaptation tissulaire avant les charges lourdes, jamais d'arquée sur 6 mm avant deux ans de pratique régulière."
+    },
+    {
+      "type": "p",
+      "html": "Troisième levier, l'<strong>équilibre arquée/tendue</strong>. La position arquée concentre la charge sur la poulie A2. La position tendue distribue la charge sur d'autres structures. Alterner les deux positions limite les blessures. Beaucoup de grimpeurs grimpent essentiellement en arquée par habitude et augmentent leur risque sans le savoir."
+    },
+    {
+      "type": "tip",
+      "title": "Le protocole No Hang d'Eva Lopez",
+      "body": "Une innovation utile pour les grimpeurs convalescents ou les débutants. Le travail se fait avec un dispositif posé au sol type kit Tindeq ou simple sangle, pas en suspension. Le risque articulaire est nul, la progression de force est documentée. C'est l'entrée standard pour les jeunes en formation et pour les retours après blessure de poulie. Protocole disponible sur les ressources Eva Lopez et Lattice Training.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "La rééducation après une blessure"
+    },
+    {
+      "type": "p",
+      "html": "Une fois le diagnostic posé et la phase aiguë passée, la rééducation active devient prioritaire. Le repos total prolongé est délétère : les tendons et les poulies s'adaptent à la charge, pas à l'absence de charge. La règle moderne est de remettre une charge progressive le plus tôt possible, sous contrôle d'un kiné formé à la grimpe."
+    },
+    {
+      "type": "p",
+      "html": "Plusieurs cabinets en France se sont spécialisés. Les protocoles utilisés s'inspirent des travaux de Volker Schöffl en Allemagne et d'<strong>Eva Lopez</strong> en Espagne. Compte 8 à 15 séances de rééducation pour une blessure de grade II, plus un suivi de retour à la grimpe de 4 à 6 semaines."
+    },
+    {
+      "type": "p",
+      "html": "Le retour à la grimpe se fait en trois phases. Phase 1, mouvements sans charge maximale, profils faciles, pas d'arquée. Phase 2, réintroduction de l'arquée tendue avec contrôle de la douleur. Phase 3, retour au niveau normal et travail sur poutre progressif. Précipiter une phase reproduit la blessure dans 30 à 50% des cas selon les études."
+    },
+    {
+      "type": "quote",
+      "text": "Ma première grosse alerte poulie A2 à 19 ans m'a fait perdre 4 mois. La deuxième à 24 ans, j'ai réagi en 48h avec consultation et strapping, j'ai perdu 6 semaines. La différence : avoir un kiné référent identifié à l'avance.",
+      "author": "Antoine",
+      "role": "grimpeur, 13 ans de pratique"
+    },
+    {
+      "type": "h2",
+      "text": "Le strapping de doigt, usage et limites"
+    },
+    {
+      "type": "p",
+      "html": "Le strapping consiste à entourer le doigt d'un sparadrap rigide ou semi-rigide pour décharger une poulie en convalescence. La technique varie selon le doigt et la blessure. Le strapping H, en croix sur la zone de la poulie A2, est le plus utilisé. Plusieurs vidéos pédagogiques de l'<strong>IFSC Medical Commission</strong> détaillent la technique correcte."
+    },
+    {
+      "type": "p",
+      "html": "Le strapping n'est pas un substitut au traitement médical. Il accompagne la reprise et limite le risque de récidive. Utilisé en prévention sur une poulie saine, son effet est marginal voire psychologique. Réservé aux phases de retour après blessure ou aux séances très intenses sur prises monodoigt."
+    },
+    {
+      "type": "p",
+      "html": "Le matériel coûte 5 à 15 euros le rouleau de tape rigide de qualité. Compte un rouleau pour 4 à 6 séances strappées. Les marques Mueller, Leukotape ou Beal Tape sont des standards éprouvés. Évite les tapes élastiques type kinesio qui ne décharge pas la poulie comme attendu."
+    },
+    {
+      "type": "h2",
+      "text": "Quand consulter et qui consulter"
+    },
+    {
+      "type": "p",
+      "html": "Une consultation médicale s'impose dans plusieurs cas. Douleur aiguë avec craquement audible. Gonflement marqué à la base du doigt. Perte de force notable persistant plus de 48 heures. Douleur qui s'aggrave malgré 5 à 7 jours de repos. Présence de bowstringing visible à la flexion."
+    },
+    {
+      "type": "p",
+      "html": "Le bon interlocuteur de première ligne est un <strong>médecin du sport</strong> ou un chirurgien de la main spécialisé. La fédération française du sport adapté et la FFME tiennent des annuaires de praticiens connaissant l'escalade. L'examen comprend palpation, tests fonctionnels, échographie le plus souvent."
+    },
+    {
+      "type": "p",
+      "html": "Une fois le diagnostic posé, un kiné formé à la grimpe prend le relais. Plusieurs réseaux existent : ClimbingPhysio, Lattice Training, Eva Lopez consultancy. Pour la France, certains cabinets en région parisienne, lyonnaise, marseillaise et grenobloise se sont structurés autour de cette spécialité. Un échange avec ta ligue régionale FFME pourra t'orienter."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Combien de temps faut-il pour récupérer d'une rupture de poulie ?",
+      "a": "Le délai dépend du grade. Pour une rupture grade I, 6 à 8 semaines de récupération complète. Pour un grade II, 10 à 12 semaines. Pour un grade III, 3 à 4 mois minimum. Pour un grade IV avec chirurgie, 6 mois et plus. Ces délais incluent la rééducation et le retour progressif à la grimpe. Précipiter le retour multiplie le risque de récidive par deux ou trois selon les études récentes."
+    },
+    {
+      "q": "Est-il dangereux de continuer à grimper avec une douleur de doigt ?",
+      "a": "Oui, le risque est de transformer une lésion bénigne en lésion durable. Toute douleur persistant plus de 48 heures sur un doigt doit faire diminuer fortement l'intensité de la pratique. Si tu identifies un mouvement précis qui déclenche la douleur, évite-le. Une consultation médicale s'impose si la douleur dure plus d'une semaine ou s'aggrave. Continuer à grimper sur un signal d'alarme est l'erreur la plus fréquente des grimpeurs."
+    },
+    {
+      "q": "Le strapping prévient-il les blessures ?",
+      "a": "Marginalement seulement. Utilisé en prévention sur une poulie saine, l'effet est faible voire principalement psychologique. Le strapping a un vrai intérêt en phase de retour après blessure pour décharger la zone fragilisée. La meilleure prévention reste l'échauffement complet, la progressivité des charges sur poutre et l'alternance des positions arquée et tendue dans la pratique."
+    },
+    {
+      "q": "Faut-il faire une échographie systématique après un craquement ?",
+      "a": "Oui, dans la mesure du possible. L'échographie est rapide, peu coûteuse, et permet de confirmer ou d'écarter une rupture de poulie. Le diagnostic clinique seul est moins fiable. Beaucoup de grimpeurs minimisent leur blessure faute de diagnostic précis et reprennent trop vite. L'examen prend 15 minutes en cabinet de radiologie, demandé par un médecin du sport."
+    },
+    {
+      "q": "Le hangboard est-il dangereux pour les doigts ?",
+      "a": "Bien utilisé, le hangboard renforce les tendons et réduit le risque de blessure. Mal utilisé, c'est l'une des principales sources de blessures de doigts du grimpeur. Les règles : pas de hangboard avant 18 mois à 2 ans de pratique régulière, jamais d'arquée stricte au début, progression lente sur plusieurs mois. Les protocoles d'Eva Lopez et de Lattice Training donnent un cadre fiable. L'idéal est de suivre un programme structuré plutôt que d'improviser."
+    }
+  ],
+  "cover_alt": "Main de grimpeur en position arquée sur petite réglette, doigts crispés sur la prise, lumière directe qui révèle la tension des phalanges et des articulations",
+  "internal_links": [
+    {
+      "slug": "preparer-corps-tete-grimpe",
+      "anchor": "préparer son corps et sa tête à la grimpe",
+      "context": "pilier preparation"
+    },
+    {
+      "slug": "grip-strength-poutre-pan",
+      "anchor": "travailler la force des doigts à la poutre",
+      "context": "hangboard sécurisé"
+    },
+    {
+      "slug": "tendinite-epaule-coude-grimpe",
+      "anchor": "tendinites épaule et coude",
+      "context": "autres pathologies grimpe"
+    },
+    {
+      "slug": "doigts-prises-petites",
+      "anchor": "techniques sur petites prises",
+      "context": "gestes à risque"
+    },
+    {
+      "slug": "echauffement-grimpe-routine",
+      "anchor": "routine d'échauffement",
+      "context": "prévention"
+    },
+    {
+      "slug": "recuperation-active-jours-off",
+      "anchor": "récupération active",
+      "context": "gestion charge"
+    }
+  ],
+  "scheduled_at": "2027-03-09T09:00:00+01:00"
+}
