@@ -197,7 +197,7 @@
     },
     {
       "type": "p",
-      "html": "Cette personnalisation s'articule avec <a href=\"/blog/securite-escalade-regles-essentielles\">l'ensemble des règles essentielles de sécurité en escalade</a> pour donner une vision globale. La check list est un outil, pas une religion. Elle s'adapte à ta pratique tout en gardant son cœur de discipline."
+      "html": "Cette personnalisation s'articule avec l'ensemble des règles essentielles de sécurité pour donner une vision globale. La check-list est un outil, pas une religion. Elle s'adapte à ta pratique tout en gardant son cœur de discipline."
     }
   ],
   "faq": [
@@ -226,33 +226,33 @@
   "internal_links": [
     {
       "slug": "securite-escalade-regles-essentielles",
-      "anchor": "notre pilier sur les règles essentielles de sécurité",
-      "context": "Pilier du cocon"
-    },
-    {
-      "slug": "verification-baudrier-corde-noeud",
-      "anchor": "notre fiche détaillée sur la triple vérification",
-      "context": "Article frère du cocon"
-    },
-    {
-      "slug": "meteo-falaise-decider-renoncer",
-      "anchor": "notre guide sur la décision de partir ou renoncer en falaise",
-      "context": "Article frère du cocon"
-    },
-    {
-      "slug": "partenaire-grimpe-confiance",
-      "anchor": "notre article sur le choix d'un partenaire de grimpe",
-      "context": "Article frère du cocon"
+      "anchor": "les règles essentielles de sécurité en escalade",
+      "context": "pilier sécurité, premier lien interne"
     },
     {
       "slug": "rappel-securite-procedure",
-      "anchor": "notre guide sur la procédure de rappel sécurisé",
-      "context": "Article frère du cocon"
+      "anchor": "la descente en rappel sécurisée",
+      "context": "même cocon, matériel grande voie"
+    },
+    {
+      "slug": "meteo-falaise-decider-renoncer",
+      "anchor": "consultes la météo de la falaise pour décider de partir ou renoncer",
+      "context": "même cocon, bloc 2 météo"
+    },
+    {
+      "slug": "partenaire-grimpe-confiance",
+      "anchor": "Le choix d'un partenaire de confiance",
+      "context": "même cocon, bloc 4 communication"
+    },
+    {
+      "slug": "verification-baudrier-corde-noeud",
+      "anchor": "le contrôle triple baudrier corde nœud",
+      "context": "même cocon, bloc 5 vérification"
     },
     {
       "slug": "accidents-escalade-statistiques",
-      "anchor": "notre dossier sur les statistiques d'accidents en escalade",
-      "context": "Article frère du cocon"
+      "anchor": "Beaucoup d'accidents en falaise recensés dans les statistiques",
+      "context": "même cocon, sortie de voie"
     }
   ],
   "scheduled_at": "2026-03-30T09:00:00+02:00"
