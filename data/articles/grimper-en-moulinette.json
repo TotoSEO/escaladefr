@@ -15,59 +15,218 @@
     "À la descente, on s'assied dans le baudrier, pieds à plat sur le mur, jamais en pendule."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Ce qu'est exactement la moulinette"},
-    {"type": "p", "html": "La moulinette désigne une configuration précise : la corde est déjà installée en haut de la voie, elle passe par le relais ou les deux maillons sommitaux, et redescend de l'autre côté. L'un des deux grimpeurs est encordé au sol, l'autre tient l'autre brin avec un système d'assurage. Quand celui qui grimpe monte d'un mètre, le mou se résorbe via le système. Quand il chute, il est arrêté quasiment sans vol. C'est l'inverse de la grimpe en tête, où tu clippes au fur et à mesure."},
-    {"type": "p", "html": "En salle, les voies de moulinette sont signalées par une corde déjà en place, l'autre extrémité accrochée par un sac à corde au pied du mur. En falaise, tu installes la moulinette en grimpant d'abord en tête (ou via un grimpeur déjà passé). C'est la pratique de référence pour <a href=\"/blog/premiere-fois-salle-escalade\">débuter en salle d'escalade</a> sur des voies de plus de quatre mètres, parce qu'elle laisse zéro vol en cas d'erreur."},
-    {"type": "h2", "text": "Le nœud de huit, double, sans alternative"},
-    {"type": "p", "html": "L'encordement de référence en moulinette comme en tête, c'est le <strong>nœud de huit double</strong>. Tu fais un huit simple sur le brin, tu passes l'extrémité dans les deux anneaux d'encordement de ton baudrier (le pontet ventral et la sangle de cuisses), puis tu repasses le brin dans le huit en double pour le retraverser. Tu serres les quatre brins, et tu laisses 15 à 20 centimètres de queue. Ne fais pas un nœud d'arrêt en plus, le huit suffit à condition d'être bien serré."},
-    {"type": "tip", "title": "Le piège du huit mal serré", "body": "Une queue trop courte est dangereuse, une queue trop longue est inutile. Vise 10 à 15 centimètres. Et serre tes quatre brins un par un, pas tous ensemble. Un huit lâche peut migrer et créer un faux mou de plusieurs centimètres en pleine voie.", "tone": "attention"},
-    {"type": "p", "html": "L'erreur typique du débutant, c'est de passer la corde seulement dans le pontet, pas dans les deux anneaux. Ça tient quand même grâce à la force du nœud, mais la charge n'est pas répartie sur le baudrier et tu peux te basculer la tête en bas. La règle : la corde traverse les deux anneaux que ton fabricant a marqué d'un dessin (Petzl les souligne en orange, Black Diamond en gris). Personne d'autre, jamais."},
-    {"type": "h2", "text": "Côté assureur : la posture et le système"},
-    {"type": "p", "html": "Trois systèmes équipent 95 % des cordées en moulinette : le <strong>Grigri</strong> de Petzl (assurage assisté), le Reverso de Petzl et l'ATC de Black Diamond (assurage classique en plaquette). Le Grigri verrouille tout seul en cas de chute, les autres demandent une main de freinage active. Pour une première fois, beaucoup de salles imposent le Grigri parce qu'il pardonne l'inattention. C'est aussi pour ça qu'il a remplacé les autres dans 80 % des sacs des grimpeurs sportifs."},
-    {"type": "p", "html": "La posture : pieds en quinconce, un pas en avant, un pas en retrait, légère flexion des genoux. Tu te places à un mètre du mur, jamais collé. Tu regardes le grimpeur en permanence, pas tes pieds ni ton téléphone. Et surtout, ta <strong>main de freinage</strong> reste sous le système, en permanence. Si elle quitte le brin de freinage ne serait-ce qu'une demi-seconde sur un Reverso, tu lâches potentiellement ton partenaire en pleine chute. Ce n'est pas une figure de style, c'est une statistique d'accidents en salle. Pendant mes premières années au club FFME de Colmar, j'ai vu deux fois des assureurs distraits lever la main de freinage pour discuter, j'ai pris depuis l'habitude de demander un check à voix haute avant chaque départ."},
-    {"type": "list", "variant": "numbered", "title": "Les cinq erreurs d'assureur qui reviennent chaque semaine", "items": [
-      {"title": "Main de freinage qui lâche", "body": "Pour mieux donner du mou, beaucoup remontent la main au-dessus du Grigri. Faux geste, le système ne verrouille plus correctement. Geste correct : pince-coulisse."},
-      {"title": "Distance excessive du mur", "body": "Si tu te places à trois mètres, tu seras projeté vers le mur à la moindre chute. Tiens-toi à un mètre, prêt à amortir."},
-      {"title": "Mou exagéré", "body": "On voit régulièrement un mètre de corde par terre. C'est dangereux en cas de chute longue, et inutile en moulinette."},
-      {"title": "Communication absente", "body": "Sans 'prêt' ni 'sec', le grimpeur ne sait pas si tu suis. Réponds toujours à voix haute, même si tu te connais."},
-      {"title": "Lâcher la corde à la descente", "body": "Beaucoup retirent une main dès que le grimpeur arrive en bas. Garde les deux mains jusqu'à ce qu'il soit au sol et décordé."}
-    ]},
-    {"type": "h2", "text": "Les trois commandes vocales qui suffisent"},
-    {"type": "p", "html": "Pas besoin de jargon. Trois mots couvrent 90 % des situations. <strong>Prêt</strong> : le grimpeur demande si l'assureur est prêt, l'assureur répond 'prêt' avant que le grimpeur quitte le sol. <strong>Sec</strong> : le grimpeur arrive en haut et veut être tenu, l'assureur tend la corde pour que le grimpeur puisse s'asseoir dans le baudrier. <strong>Descends</strong> : le grimpeur est prêt à redescendre, l'assureur lâche du mou de manière contrôlée."},
-    {"type": "p", "html": "En falaise, ajoute 'caillou' si tu vois une pierre tomber, et 'libre' quand tu as fini de grimper pour libérer la voie. Évite les conversations parasites pendant la voie, surtout sur les passages durs. Le grimpeur a besoin de concentration, pas d'encouragements continus. Un seul 'allez' au bon moment vaut mieux que vingt commentaires."},
-    {"type": "h2", "text": "La descente : la partie qu'on bâcle"},
-    {"type": "p", "html": "Une fois en haut, le grimpeur dit 'sec', s'assied dans le baudrier et lâche les prises. L'assureur le tient, puis sur 'descends', laisse filer la corde à vitesse moyenne. Le grimpeur garde les <strong>pieds écartés à plat sur le mur</strong>, jambes légèrement fléchies, dos droit. Il marche en arrière pendant que la corde déroule. C'est ce qui empêche le pendule et le retour brutal contre le mur."},
-    {"type": "quote", "text": "À la descente, un grimpeur en pendule signale toujours un défaut d'assurage ou un défaut de posture. Jamais une fatalité.", "author": "Antoine", "role": "auteur, ancien top 200 jeunes FFME"},
-    {"type": "p", "html": "Si la voie est en dévers ou si la corde n'arrive pas tout à fait à la verticale, le pendule est inévitable. Dans ce cas, le grimpeur tend les bras vers le bas, garde le corps tonique, et amortit avec les pieds quand il revient contre le mur. Beaucoup de débutants se prennent le mur de face parce qu'ils tendent leurs jambes au mauvais moment. À voir une fois pour comprendre, l'expérience fait le reste."},
-    {"type": "h2", "text": "Moulinette en falaise : ce qui change"},
-    {"type": "table", "caption": "Différences entre moulinette en salle et en falaise", "headers": ["Critère", "En salle", "En falaise"], "rows": [
-      ["Installation", "Corde déjà en place, voie balisée", "Tu installes en grimpant en tête d'abord"],
-      ["Relais", "Dégaine double scellée en haut", "Deux pitons reliés par chaîne, ou maillon rapide"],
-      ["Risque mou", "Faible, mur lisse", "Plus élevé sur fissure ou dévers"],
-      ["Fin de voie", "Demi-tour, descente directe", "Récupération de la corde au sol après descente"]
-    ]},
-    {"type": "p", "html": "En falaise, tu poseras la moulinette en grimpant en tête sur le secteur, ou en récupérant celle laissée par un grimpeur précédent. La règle : ne jamais redescendre directement sur les seuls maillons rapides de quelqu'un d'autre. Tu installes les tiens, tu les vérifies, tu redescends en moulinette propre. Sinon tu uses le matos d'un inconnu et tu te mets en risque sur une installation que tu n'as pas inspectée. Pour anticiper ce passage, lis <a href=\"/blog/grimper-en-tete-premiere-fois\">comment franchir le cap de la tête</a> avant d'aller sur rocher."},
-    {"type": "h2", "text": "Quand la moulinette ne suffit plus"},
-    {"type": "p", "html": "Tu vas vite vouloir grimper en tête, parce que la moulinette devient routine et limite ton autonomie. La transition s'effectue généralement après deux à trois mois de pratique régulière, quand tu enchaînes du 5c en moulinette les yeux fermés. Tu peux alors travailler <a href=\"/blog/clipper-degaine-tete\">le geste de clippage</a> et <a href=\"/blog/chuter-en-grimpe-apprentissage\">apprendre à chuter</a> en tête, deux compétences indispensables avant de basculer sur des voies engagées."},
-    {"type": "h2", "text": "Vérifier son partenaire : la checklist en dix secondes"},
-    {"type": "p", "html": "Avant chaque montée, on vérifie quatre points sur son partenaire : son nœud (huit double serré, queue à 15 cm), son baudrier (bouclé, sangle de cuisses pas vrillée), le système d'assurage (corde dans le bon sens, mousqueton verrouillé) et le brin (passe bien par les deux maillons en moulinette). Tu peux faire ça en pointant chaque élément à voix haute. Ça prend dix secondes et ça évite la moitié des accidents en salle. La majorité des chutes au sol en moulinette viennent d'un défaut sur l'un de ces quatre points."},
-    {"type": "p", "html": "Sur la voie, l'assureur prête attention à trois signaux. Le rythme du grimpeur, qui ralentit avant une chute. La position du brin, qui ne doit jamais frotter contre une arête vive. Et le ton de voix, qui change quand le grimpeur s'inquiète. Cette lecture s'apprend après quelques séances et fait passer un assureur de correct à bon. C'est aussi ce qui rend la moulinette si formatrice pour le couple grimpeur-assureur, avant de passer à des situations plus engagées en grande voie."}
+    {
+      "type": "h2",
+      "text": "Ce qu'est exactement la moulinette"
+    },
+    {
+      "type": "p",
+      "html": "La moulinette désigne une configuration précise : la corde est déjà installée en haut de la voie, elle passe par le relais ou les deux maillons sommitaux, et redescend de l'autre côté. L'un des deux grimpeurs est encordé au sol, l'autre tient l'autre brin avec un système d'assurage. Quand celui qui grimpe monte d'un mètre, le mou se résorbe via le système. Quand il chute, il est arrêté quasiment sans vol. C'est l'inverse de la grimpe en tête, où tu clippes au fur et à mesure."
+    },
+    {
+      "type": "p",
+      "html": "En salle, les voies de moulinette sont signalées par une corde déjà en place, l'autre extrémité accrochée par un sac à corde au pied du mur. En falaise, tu installes la moulinette en grimpant d'abord en tête (ou via un grimpeur déjà passé). C'est la pratique de référence pour <a href=\"/blog/premiere-fois-salle-escalade\">débuter en salle d'escalade</a> sur des voies de plus de quatre mètres, parce qu'elle laisse zéro vol en cas d'erreur."
+    },
+    {
+      "type": "h2",
+      "text": "Le nœud de huit, double, sans alternative"
+    },
+    {
+      "type": "p",
+      "html": "L'encordement de référence en moulinette comme en tête, c'est le <strong>nœud de huit double</strong>. Tu fais un huit simple sur le brin, tu passes l'extrémité dans les deux anneaux d'encordement de ton baudrier (le pontet ventral et la sangle de cuisses), puis tu repasses le brin dans le huit en double pour le retraverser. Tu serres les quatre brins, et tu laisses 15 à 20 centimètres de queue. Ne fais pas un nœud d'arrêt en plus, le huit suffit à condition d'être bien serré."
+    },
+    {
+      "type": "tip",
+      "title": "Le piège du huit mal serré",
+      "body": "Une queue trop courte est dangereuse, une queue trop longue est inutile. Vise 10 à 15 centimètres. Et serre tes quatre brins un par un, pas tous ensemble. Un huit lâche peut migrer et créer un faux mou de plusieurs centimètres en pleine voie.",
+      "tone": "attention"
+    },
+    {
+      "type": "p",
+      "html": "L'erreur typique du débutant, c'est de passer la corde seulement dans le pontet, pas dans les deux anneaux. Ça tient quand même grâce à la force du nœud, mais la charge n'est pas répartie sur le baudrier et tu peux te basculer la tête en bas. La règle : la corde traverse les deux anneaux que ton fabricant a marqué d'un dessin (Petzl les souligne en orange, Black Diamond en gris). Personne d'autre, jamais."
+    },
+    {
+      "type": "h2",
+      "text": "Côté assureur : la posture et le système"
+    },
+    {
+      "type": "p",
+      "html": "Trois systèmes équipent 95 % des cordées en moulinette : le <strong>Grigri</strong> de Petzl (assurage assisté), le Reverso de Petzl et l'ATC de Black Diamond (assurage classique en plaquette). Le Grigri verrouille tout seul en cas de chute, les autres demandent une main de freinage active. Pour une première fois, beaucoup de salles imposent le Grigri parce qu'il pardonne l'inattention. C'est aussi pour ça qu'il a remplacé les autres dans 80 % des sacs des grimpeurs sportifs."
+    },
+    {
+      "type": "p",
+      "html": "La posture : pieds en quinconce, un pas en avant, un pas en retrait, légère flexion des genoux. Tu te places à un mètre du mur, jamais collé. Tu regardes le grimpeur en permanence, pas tes pieds ni ton téléphone. Et surtout, ta <strong>main de freinage</strong> reste sous le système, en permanence. Si elle quitte le brin de freinage ne serait-ce qu'une demi-seconde sur un Reverso, tu lâches potentiellement ton partenaire en pleine chute. Ce n'est pas une figure de style, c'est une statistique d'accidents en salle. Pendant mes premières années au club FFME de Colmar, j'ai vu deux fois des assureurs distraits lever la main de freinage pour discuter, j'ai pris depuis l'habitude de demander un check à voix haute avant chaque départ."
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Les cinq erreurs d'assureur qui reviennent chaque semaine",
+      "items": [
+        {
+          "title": "Main de freinage qui lâche",
+          "body": "Pour mieux donner du mou, beaucoup remontent la main au-dessus du Grigri. Faux geste, le système ne verrouille plus correctement. Geste correct : pince-coulisse."
+        },
+        {
+          "title": "Distance excessive du mur",
+          "body": "Si tu te places à trois mètres, tu seras projeté vers le mur à la moindre chute. Tiens-toi à un mètre, prêt à amortir."
+        },
+        {
+          "title": "Mou exagéré",
+          "body": "On voit régulièrement un mètre de corde par terre. C'est dangereux en cas de chute longue, et inutile en moulinette."
+        },
+        {
+          "title": "Communication absente",
+          "body": "Sans 'prêt' ni 'sec', le grimpeur ne sait pas si tu suis. Réponds toujours à voix haute, même si tu te connais."
+        },
+        {
+          "title": "Lâcher la corde à la descente",
+          "body": "Beaucoup retirent une main dès que le grimpeur arrive en bas. Garde les deux mains jusqu'à ce qu'il soit au sol et décordé."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Les trois commandes vocales qui suffisent"
+    },
+    {
+      "type": "p",
+      "html": "Pas besoin de jargon. Trois mots couvrent 90 % des situations. <strong>Prêt</strong> : le grimpeur demande si l'assureur est prêt, l'assureur répond 'prêt' avant que le grimpeur quitte le sol. <strong>Sec</strong> : le grimpeur arrive en haut et veut être tenu, l'assureur tend la corde pour que le grimpeur puisse s'asseoir dans le baudrier. <strong>Descends</strong> : le grimpeur est prêt à redescendre, l'assureur lâche du mou de manière contrôlée."
+    },
+    {
+      "type": "p",
+      "html": "En falaise, ajoute 'caillou' si tu vois une pierre tomber, et 'libre' quand tu as fini de grimper pour libérer la voie. Évite les conversations parasites pendant la voie, surtout sur les passages durs. Le grimpeur a besoin de concentration, pas d'encouragements continus. Un seul 'allez' au bon moment vaut mieux que vingt commentaires."
+    },
+    {
+      "type": "h2",
+      "text": "La descente : la partie qu'on bâcle"
+    },
+    {
+      "type": "p",
+      "html": "Une fois en haut, le grimpeur dit 'sec', s'assied dans le baudrier et lâche les prises. L'assureur le tient, puis sur 'descends', laisse filer la corde à vitesse moyenne. Le grimpeur garde les <strong>pieds écartés à plat sur le mur</strong>, jambes légèrement fléchies, dos droit. Il marche en arrière pendant que la corde déroule. C'est ce qui empêche le pendule et le retour brutal contre le mur."
+    },
+    {
+      "type": "quote",
+      "text": "À la descente, un grimpeur en pendule signale toujours un défaut d'assurage ou un défaut de posture. Jamais une fatalité.",
+      "author": "Antoine",
+      "role": "auteur, ancien top 200 jeunes FFME"
+    },
+    {
+      "type": "p",
+      "html": "Si la voie est en dévers ou si la corde n'arrive pas tout à fait à la verticale, le pendule est inévitable. Dans ce cas, le grimpeur tend les bras vers le bas, garde le corps tonique, et amortit avec les pieds quand il revient contre le mur. Beaucoup de débutants se prennent le mur de face parce qu'ils tendent leurs jambes au mauvais moment. À voir une fois pour comprendre, l'expérience fait le reste."
+    },
+    {
+      "type": "h2",
+      "text": "Moulinette en falaise : ce qui change"
+    },
+    {
+      "type": "table",
+      "caption": "Différences entre moulinette en salle et en falaise",
+      "headers": [
+        "Critère",
+        "En salle",
+        "En falaise"
+      ],
+      "rows": [
+        [
+          "Installation",
+          "Corde déjà en place, voie balisée",
+          "Tu installes en grimpant en tête d'abord"
+        ],
+        [
+          "Relais",
+          "Dégaine double scellée en haut",
+          "Deux pitons reliés par chaîne, ou maillon rapide"
+        ],
+        [
+          "Risque mou",
+          "Faible, mur lisse",
+          "Plus élevé sur fissure ou dévers"
+        ],
+        [
+          "Fin de voie",
+          "Demi-tour, descente directe",
+          "Récupération de la corde au sol après descente"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "html": "En falaise, tu poseras la moulinette en grimpant en tête sur le secteur, ou en récupérant celle laissée par un grimpeur précédent. La règle : ne jamais redescendre directement sur les seuls maillons rapides de quelqu'un d'autre. Tu installes les tiens, tu les vérifies, tu redescends en moulinette propre. Sinon tu uses le matos d'un inconnu et tu te mets en risque sur une installation que tu n'as pas inspectée. Pour anticiper ce passage, lis <a href=\"/blog/grimper-en-tete-premiere-fois\">comment franchir le cap de la tête</a> avant d'aller sur rocher."
+    },
+    {
+      "type": "h2",
+      "text": "Quand la moulinette ne suffit plus"
+    },
+    {
+      "type": "p",
+      "html": "Tu vas vite vouloir grimper en tête, parce que la moulinette devient routine et limite ton autonomie. La transition s'effectue généralement après deux à trois mois de pratique régulière, quand tu enchaînes du 5c en moulinette les yeux fermés. Tu peux alors travailler <a href=\"/blog/clipper-degaine-tete\">le geste de clippage</a> et <a href=\"/blog/chuter-en-grimpe-apprentissage\">apprendre à chuter</a> en tête, deux compétences indispensables avant de basculer sur des voies engagées."
+    },
+    {
+      "type": "h2",
+      "text": "Vérifier son partenaire : la checklist en dix secondes"
+    },
+    {
+      "type": "p",
+      "html": "Avant chaque montée, on vérifie quatre points sur son partenaire : son nœud (huit double serré, queue à 15 cm), son baudrier (bouclé, sangle de cuisses pas vrillée), le système d'assurage (corde dans le bon sens, mousqueton verrouillé) et le brin (passe bien par les deux maillons en moulinette). Tu peux faire ça en pointant chaque élément à voix haute. Ça prend dix secondes et ça évite la moitié des accidents en salle. La majorité des chutes au sol en moulinette viennent d'un défaut sur l'un de ces quatre points."
+    },
+    {
+      "type": "p",
+      "html": "Sur la voie, l'assureur prête attention à trois signaux. Le rythme du grimpeur, qui ralentit avant une chute. La position du brin, qui ne doit jamais frotter contre une arête vive. Et le ton de voix, qui change quand le grimpeur s'inquiète. Cette lecture s'apprend après quelques séances et fait passer un assureur de correct à bon. C'est aussi ce qui rend la moulinette si formatrice pour le couple grimpeur-assureur, avant de passer à des situations plus engagées en grande voie."
+    }
   ],
   "faq": [
-    {"q": "Peut-on grimper en moulinette tout seul avec un autobelay ?", "a": "L'autobelay est techniquement de la moulinette automatisée, oui. Tu n'as pas besoin de partenaire, l'enrouleur fait le travail. Vérifie quand même le clip à ton baudrier avant chaque montée, c'est l'erreur typique des solos pressés."},
-    {"q": "Le Grigri est-il vraiment plus sûr que le Reverso ?", "a": "Plus tolérant à l'erreur, oui. Plus sûr, c'est plus nuancé. Un Reverso bien utilisé reste très fiable. Le Grigri pardonne plus aux distractions, ce qui explique sa domination en salle. Pour la moulinette débutant, Grigri sans hésitation."},
-    {"q": "Faut-il toujours faire un nœud d'arrêt après le huit ?", "a": "Non. Le huit double bien serré est suffisant pour l'encordement principal. L'usage du nœud d'arrêt vient de l'alpinisme historique, mais sur du sport en salle ou falaise il alourdit le baudrier sans gain de sécurité réel."},
-    {"q": "Que faire si l'assureur perd la corde ?", "a": "Un système d'assurage assisté type Grigri verrouille tout seul même si l'assureur lâche. Sur un Reverso, le grimpeur tombe au sol si l'assureur lâche le brin de freinage. C'est pour ça qu'on n'assure jamais sans concentration en plaquette manuelle."},
-    {"q": "Combien de chutes une corde de moulinette supporte-t-elle ?", "a": "Une corde dynamique standard supporte plusieurs centaines de chutes de facteur faible en moulinette. C'est bien plus que ses 5 à 12 chutes UIAA testées en facteur 2. La durée de vie réelle dépend de l'usure et du grippage, pas du nombre de chutes."},
-    {"q": "Peut-on assurer un grimpeur plus lourd que soi ?", "a": "Oui, avec un Grigri jusqu'à 25-30 kg de différence sans problème. Au-delà, prends un sac lesté ou un ancrage au sol. En plaquette, la marge est plus mince, et c'est le frottement avec le mousqueton qui te sauve."}
+    {
+      "q": "Peut-on grimper en moulinette tout seul avec un autobelay ?",
+      "a": "L'autobelay est techniquement de la moulinette automatisée, oui. Tu n'as pas besoin de partenaire, l'enrouleur fait le travail. Vérifie quand même le clip à ton baudrier avant chaque montée, c'est l'erreur typique des solos pressés."
+    },
+    {
+      "q": "Le Grigri est-il vraiment plus sûr que le Reverso ?",
+      "a": "Plus tolérant à l'erreur, oui. Plus sûr, c'est plus nuancé. Un Reverso bien utilisé reste très fiable. Le Grigri pardonne plus aux distractions, ce qui explique sa domination en salle. Pour la moulinette débutant, Grigri sans hésitation."
+    },
+    {
+      "q": "Faut-il toujours faire un nœud d'arrêt après le huit ?",
+      "a": "Non. Le huit double bien serré est suffisant pour l'encordement principal. L'usage du nœud d'arrêt vient de l'alpinisme historique, mais sur du sport en salle ou falaise il alourdit le baudrier sans gain de sécurité réel."
+    },
+    {
+      "q": "Que faire si l'assureur perd la corde ?",
+      "a": "Un système d'assurage assisté type Grigri verrouille tout seul même si l'assureur lâche. Sur un Reverso, le grimpeur tombe au sol si l'assureur lâche le brin de freinage. C'est pour ça qu'on n'assure jamais sans concentration en plaquette manuelle."
+    },
+    {
+      "q": "Combien de chutes une corde de moulinette supporte-t-elle ?",
+      "a": "Une corde dynamique standard supporte plusieurs centaines de chutes de facteur faible en moulinette. C'est bien plus que ses 5 à 12 chutes UIAA testées en facteur 2. La durée de vie réelle dépend de l'usure et du grippage, pas du nombre de chutes."
+    },
+    {
+      "q": "Peut-on assurer un grimpeur plus lourd que soi ?",
+      "a": "Oui, avec un Grigri jusqu'à 25-30 kg de différence sans problème. Au-delà, prends un sac lesté ou un ancrage au sol. En plaquette, la marge est plus mince, et c'est le frottement avec le mousqueton qui te sauve."
+    }
   ],
   "cover_alt": "Un grimpeur progresse en moulinette sur une voie verte d'une salle d'escalade, corde tendue vers le haut, assureur au sol vêtu de noir tenant un Grigri",
   "internal_links": [
-    {"slug": "apprendre-escalade-debutant-2026", "anchor": "apprendre l'escalade", "context": "Pilier du cocon"},
-    {"slug": "premiere-fois-salle-escalade", "anchor": "débuter en salle d'escalade", "context": "Article précédent dans le paquet"},
-    {"slug": "grimper-en-tete-premiere-fois", "anchor": "franchir le cap de la tête", "context": "Étape suivante"},
-    {"slug": "chuter-en-grimpe-apprentissage", "anchor": "apprendre à chuter", "context": "Compétence avant tête"},
-    {"slug": "clipper-degaine-tete", "anchor": "le geste de clippage", "context": "Geste à apprendre"}
+    {
+      "slug": "apprendre-escalade-debutant",
+      "anchor": "apprendre l'escalade",
+      "context": "Pilier du cocon"
+    },
+    {
+      "slug": "premiere-fois-salle-escalade",
+      "anchor": "débuter en salle d'escalade",
+      "context": "Article précédent dans le paquet"
+    },
+    {
+      "slug": "grimper-en-tete-premiere-fois",
+      "anchor": "franchir le cap de la tête",
+      "context": "Étape suivante"
+    },
+    {
+      "slug": "chuter-en-grimpe-apprentissage",
+      "anchor": "apprendre à chuter",
+      "context": "Compétence avant tête"
+    },
+    {
+      "slug": "clipper-degaine-tete",
+      "anchor": "le geste de clippage",
+      "context": "Geste à apprendre"
+    }
   ],
   "scheduled_at": "2026-05-28T09:00:00+02:00"
 }

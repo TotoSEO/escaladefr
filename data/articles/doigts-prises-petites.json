@@ -21,7 +21,7 @@
     },
     {
       "type": "p",
-      "html": "En grimpe, tu disposes de trois prehensions principales sur les petites prises. L'<strong>arquee ferme</strong>, ou tu plies les doigts a 90 degres et tu rabats le pouce sur l'index. C'est la prise la plus puissante, mais la plus risquee pour les poulies des doigts. La <strong>demi arquee</strong>, ou tu plies les doigts a 60 degres sans pouce. Compromis force/securite. Le <strong>tendu</strong>, ou tu laisses les doigts pendre sans plier. Force pulpe maximum, securite maximum. Le cadre général reste <a href=\"/blog/apprendre-escalade-debutant-2026\">le panorama des techniques d'escalade</a>."
+      "html": "En grimpe, tu disposes de trois prehensions principales sur les petites prises. L'<strong>arquee ferme</strong>, ou tu plies les doigts a 90 degres et tu rabats le pouce sur l'index. C'est la prise la plus puissante, mais la plus risquee pour les poulies des doigts. La <strong>demi arquee</strong>, ou tu plies les doigts a 60 degres sans pouce. Compromis force/securite. Le <strong>tendu</strong>, ou tu laisses les doigts pendre sans plier. Force pulpe maximum, securite maximum. Le cadre général reste <a href=\"/blog/apprendre-escalade-debutant\">le panorama des techniques d'escalade</a>."
     },
     {
       "type": "p",
@@ -179,7 +179,7 @@
   "cover_alt": "Plan rapproche de quatre doigts en demi arquee sur une reglette calcaire grise de 1 cm, magnesie blanche aux doigts, tendons saillants sur le dos de la main",
   "internal_links": [
     {
-      "slug": "apprendre-escalade-debutant-2026",
+      "slug": "apprendre-escalade-debutant",
       "anchor": "apprendre l'escalade en 2026",
       "context": "Pilier general"
     },
