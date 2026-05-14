@@ -263,33 +263,78 @@
   "internal_links": [
     {
       "slug": "echauffement-grimpe-routine",
-      "anchor": "routine d'échauffement détaillée",
-      "context": "Article enfant cocon preparation"
+      "anchor": "La routine d'échauffement du grimpeur",
+      "context": "enfant cocon préparation"
     },
     {
       "slug": "grip-strength-poutre-pan",
-      "anchor": "guide poutre et pan",
-      "context": "Article enfant cocon preparation"
+      "anchor": "la poutre et le pan moon pour la force des doigts",
+      "context": "enfant cocon préparation"
+    },
+    {
+      "slug": "blessures-doigts-grimpeur",
+      "anchor": "des blessures de doigts chez le grimpeur",
+      "context": "enfant cocon préparation"
+    },
+    {
+      "slug": "musculation-grimpeur-base",
+      "anchor": "la musculation de base du grimpeur",
+      "context": "enfant cocon préparation"
     },
     {
       "slug": "endurance-continuite-grimpe",
-      "anchor": "guide endurance et continuité",
-      "context": "Article enfant cocon preparation"
+      "anchor": "d'endurance et de continuité",
+      "context": "enfant cocon préparation"
     },
     {
       "slug": "core-gainage-grimpe",
-      "anchor": "protocole de gainage pour grimpeur",
-      "context": "Article enfant cocon preparation"
+      "anchor": "Un circuit de gainage pour grimpeur",
+      "context": "enfant cocon préparation"
+    },
+    {
+      "slug": "etirements-grimpeur-souplesse",
+      "anchor": "Les étirements ciblés pour grimpeur",
+      "context": "enfant cocon préparation"
+    },
+    {
+      "slug": "hydratation-effort-falaise",
+      "anchor": "d'hydratation à l'effort en falaise",
+      "context": "enfant cocon préparation"
     },
     {
       "slug": "alimentation-grimpeur-essentiel",
-      "anchor": "guide alimentation grimpeur",
-      "context": "Article enfant cocon preparation"
+      "anchor": "alimentation du grimpeur au quotidien",
+      "context": "enfant cocon préparation"
+    },
+    {
+      "slug": "sommeil-performance-grimpe",
+      "anchor": "Sept à neuf heures de sommeil de qualité pour la performance en grimpe",
+      "context": "enfant cocon préparation"
+    },
+    {
+      "slug": "recuperation-active-jours-off",
+      "anchor": "le dossier récupération active",
+      "context": "enfant cocon préparation"
     },
     {
       "slug": "visualisation-mental-escalade",
-      "anchor": "guide visualisation et mental",
-      "context": "Article enfant cocon preparation"
+      "anchor": "La visualisation mentale appliquée à l'escalade",
+      "context": "enfant cocon préparation"
+    },
+    {
+      "slug": "gestion-stress-engagement",
+      "anchor": "La gestion du stress et de l'engagement en falaise",
+      "context": "enfant cocon préparation"
+    },
+    {
+      "slug": "journal-entrainement-progression",
+      "anchor": "Un journal d'entraînement bien tenu",
+      "context": "enfant cocon préparation"
+    },
+    {
+      "slug": "tendinite-epaule-coude-grimpe",
+      "anchor": "la tendinite à l'épaule et au coude chez le grimpeur",
+      "context": "enfant cocon préparation"
     }
   ],
   "scheduled_at": "2026-05-23T09:00:00+02:00"
