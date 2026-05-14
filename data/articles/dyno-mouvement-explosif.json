@@ -1,0 +1,276 @@
+{
+  "slug": "dyno-mouvement-explosif",
+  "cocon": "techniques",
+  "type_article": "astuce",
+  "numero": 151,
+  "title": "Dyno en escalade : maîtriser le mouvement explosif aérien",
+  "h1": "Le dyno en escalade, mouvement explosif et phase aérienne contrôlée",
+  "description": "Dyno en escalade : armé du corps, déclenchement par les jambes, réception de la prise cible, peur du vide. Méthode complète pour apprendre le mouvement.",
+  "chapo": "Le dyno effraie autant qu'il fascine. Cette phase aérienne où le grimpeur quitte le mur pour atterrir sur une prise plus haute reste l'un des mouvements les plus spectaculaires du bloc moderne. J'ai mis trois ans à oser mon premier vrai dyno en falaise, et autant à comprendre que la puissance ne fait pas la moitié du travail. Voici la méthode qui m'a débloqué.",
+  "takeaways": [
+    "Le dyno se construit sur la chaîne d'impulsion jambes plus tronc, jamais sur la traction des bras seuls.",
+    "L'armé du corps en phase basse pré-tend les muscles avant la détente explosive, comme un ressort qu'on comprime avant de libérer.",
+    "La main qui saisit la prise cible doit fermer la pince au moment exact du point culminant, ni avant ni après.",
+    "Le travail en salle sur dyno dédié construit la technique plus vite qu'en falaise où l'engagement freine l'apprentissage.",
+    "La peur du vide se traite par paliers, en commençant par des dynos courts sur tapis avant les sauts engagés."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Ce qu'est vraiment un dyno"
+    },
+    {
+      "type": "p",
+      "html": "Le <strong>dyno</strong> désigne un mouvement dynamique avec phase aérienne, où le grimpeur quitte temporairement tout contact avec la paroi pour atterrir sur une prise située au-delà de sa portée statique. Le mot vient de l'anglais dynamic move, raccourci en dyno dans le jargon international. La distinction avec un simple mouvement enchaîné, c'est précisément la phase de vol. Tes deux pieds et tes deux mains quittent le mur, ne serait-ce qu'une fraction de seconde, avant que la main saisisseuse atteigne la prise cible."
+    },
+    {
+      "type": "p",
+      "html": "Le dyno appartient au répertoire moderne du bloc indoor. Les ouvreurs de salle multiplient les configurations en dyno depuis les années 2000, particulièrement dans les compétitions Coupe du monde IFSC où les mouvements aériens sont devenus signature. En falaise, le dyno reste plus rare parce que les ouvreurs de site préfèrent les séquences statiques. Mais certaines voies historiques de Fontainebleau ou de la Calanque imposent un dyno engagé pour passer un mur compact."
+    },
+    {
+      "type": "p",
+      "html": "Trois grandes familles de dynos existent. Le dyno vertical, où la prise cible est directement au-dessus de la prise de départ. Le dyno latéral, où la prise cible est décalée à gauche ou à droite. Le dyno croisé, plus complexe, où la main saisisseuse est l'opposée de la main d'appui. Le <a href=\"/blog/bloc-techniques-base\">répertoire technique du bloc</a> décrit ces variantes dans la grille générale du mouvement dynamique."
+    },
+    {
+      "type": "h2",
+      "text": "La chaîne d'impulsion, jambes et tronc avant les bras"
+    },
+    {
+      "type": "p",
+      "html": "Première vérité contre-intuitive du dyno, l'impulsion ne vient pas des bras. La chaîne de force qui propulse le corps vers le haut démarre dans les jambes, transite par le bassin, traverse le tronc, et se prolonge dans les bras qui guident plus qu'ils ne tirent. Un dyno bien exécuté ressemble à un saut vertical légèrement modifié, avec une trajectoire orientée par la position initiale des appuis."
+    },
+    {
+      "type": "p",
+      "html": "Les jambes fournissent 70 % de l'énergie cinétique. Tu pousses sur tes appuis comme tu pousses au départ d'un sprint, en extension explosive des chevilles, des genoux et des hanches. Le tronc transmet cette énergie en se redressant brusquement. Les bras se déplient en suivant, et la main saisisseuse arrive sur la prise cible avec la vitesse résiduelle de la chaîne complète. Tirer avec les bras avant que les jambes aient fini leur travail coupe la transmission de force et ruine le dyno."
+    },
+    {
+      "type": "p",
+      "html": "L'idée du <a href=\"/blog/tirer-bras-jambes-grimpe\">recours aux jambes plutôt qu'aux bras</a> vaut pour la grimpe statique, mais devient absolument déterminante en dyno. Un grimpeur qui n'a pas intégré cette hiérarchie échoue systématiquement sur les dynos longs, parce que les bras seuls n'envoient pas le corps assez loin."
+    },
+    {
+      "type": "h2",
+      "text": "L'armé du corps avant la détente"
+    },
+    {
+      "type": "p",
+      "html": "L'<strong>armé</strong> désigne la phase de flexion préalable qui pré-tend les muscles avant la détente explosive. Tu fléchis genoux et hanches, tu rapproches le bassin du mur, tu compresses la chaîne musculaire postérieure comme un ressort. Cet armé stocke l'énergie élastique que la détente va libérer. Sans armé, la détente démarre à froid et perd 30 à 40 % de sa puissance maximale."
+    },
+    {
+      "type": "p",
+      "html": "La profondeur de l'armé varie selon la distance du dyno. Sur un dyno court de 30 cm, un armé léger suffit. Sur un dyno long d'un mètre ou plus, tu fléchis profondément, parfois jusqu'à plier complètement les genoux. Le piège, c'est l'armé excessif qui fait tomber les pieds des prises de départ avant la détente. Tu cherches le compromis entre profondeur maximale et stabilité des appuis."
+    },
+    {
+      "type": "tip",
+      "title": "Le rythme respiratoire du dyno",
+      "body": "Inspire profondément pendant l'armé, expire brutalement au moment de la détente. Cette synchronisation engage le diaphragme dans la chaîne d'impulsion et augmente la puissance disponible. Beaucoup de bouldeurs émettent un cri court au moment du dyno, c'est l'expression naturelle de cette expulsion d'air. Pas de tabou, le bruit du dyno n'a rien de gênant en salle.",
+      "tone": "astuce"
+    },
+    {
+      "type": "p",
+      "html": "Le timing de la détente est crucial. Tu déclenches le mouvement explosif au moment où l'armé atteint sa profondeur maximale, ni avant ni après. Une détente prématurée part avant que le ressort ne soit complet. Une détente tardive laisse échapper l'énergie élastique stockée. Le rythme s'apprend par répétition, sur des dynos identiques répétés cinquante fois en salle."
+    },
+    {
+      "type": "h2",
+      "text": "La saisie de la prise cible au point culminant"
+    },
+    {
+      "type": "p",
+      "html": "La main saisisseuse doit fermer la pince <strong>au moment précis du point culminant</strong> de la trajectoire. Trop tôt, tu freines ta course avant la prise et tu manques le contact. Trop tard, tu commences à redescendre et la prise t'échappe entre les doigts. Le timing parfait, c'est l'instant zéro de la vitesse verticale, quand le corps cesse de monter mais n'a pas encore commencé à descendre."
+    },
+    {
+      "type": "p",
+      "html": "Pour optimiser la saisie, tu regardes la prise cible pendant toute la phase aérienne, jamais la prise de départ. L'œil guide la main, et la main suit instinctivement la trajectoire visuelle. Beaucoup de grimpeurs ratent leur dyno en quittant la prise cible du regard une fraction de seconde avant le contact. La concentration visuelle est l'élément le plus négligé et le plus déterminant du dyno réussi."
+    },
+    {
+      "type": "p",
+      "html": "Une fois le contact établi, la main doit fermer la pince instantanément. Tu ne te laisses pas le luxe d'ajuster en cours de saisie, tu accroches avec la position de main préparée pendant la trajectoire. Sur les jugs, la saisie est large et tolérante. Sur les pinces ou les slopers, la saisie est étroite et exige une précision millimétrique."
+    },
+    {
+      "type": "h2",
+      "text": "Les trois types de dynos et leur logique"
+    },
+    {
+      "type": "table",
+      "caption": "Les configurations de dyno selon la position de la prise cible",
+      "headers": [
+        "Type de dyno",
+        "Position cible",
+        "Difficulté technique",
+        "Niveau d'apparition"
+      ],
+      "rows": [
+        [
+          "Vertical court",
+          "Directement au-dessus",
+          "Faible, intuitif",
+          "Dès 5c bloc"
+        ],
+        [
+          "Vertical long",
+          "Au-dessus, plus d'un mètre",
+          "Modérée",
+          "6b bloc"
+        ],
+        [
+          "Latéral",
+          "Décalé à gauche ou droite",
+          "Élevée, rotation",
+          "6c bloc"
+        ],
+        [
+          "Croisé",
+          "Main opposée d'appui",
+          "Très élevée",
+          "7a bloc"
+        ],
+        [
+          "Double dyno",
+          "Les deux mains saisissent",
+          "Maximale, engagement",
+          "7b bloc"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "html": "Le dyno vertical reste le plus simple parce que la trajectoire est rectiligne et la coordination minimale. Le dyno latéral exige une composante de rotation du tronc pour orienter le corps vers la prise cible, ce qui complique l'armé. Le dyno croisé impose un mouvement de la main saisisseuse à travers le corps, ce qui demande une grande coordination intermembre. Le double dyno, ou les deux mains saisissent simultanément la prise cible, reste réservé aux niveaux confirmés."
+    },
+    {
+      "type": "h2",
+      "text": "La peur du vide et la gestion mentale"
+    },
+    {
+      "type": "p",
+      "html": "Le frein numéro un du dyno chez l'apprenant, c'est la <strong>peur de la chute incontrôlée</strong>. Quand tes pieds quittent le mur, tu acceptes momentanément de perdre le contrôle de ta position dans l'espace. Cette acceptation est un acte mental, pas physique. Beaucoup de grimpeurs forts plafonnent en dyno parce que leur tête freine le mouvement à la dernière seconde."
+    },
+    {
+      "type": "p",
+      "html": "La méthode pour traiter cette peur procède par paliers. Tu commences par des dynos courts de 20 à 30 cm sur tapis épais, où la chute en cas de raté reste sans conséquence. Tu répètes mille fois, jusqu'à ce que la phase aérienne devienne familière. Puis tu augmentes progressivement la distance, jusqu'à des dynos d'un mètre ou plus. Le <a href=\"/blog/mental-grimpe-blocage\">travail mental du grimpeur</a> traite ces blocages par exposition progressive."
+    },
+    {
+      "type": "p",
+      "html": "L'autre piste, c'est la chute volontaire. Tu fais le dyno en sachant que tu vas rater, juste pour t'habituer à la sensation de chute aérienne. Cinq à dix ratés volontaires par séance dédramatisent rapidement la phase de vol. La <a href=\"/blog/chuter-en-grimpe-apprentissage\">technique de chute en bloc</a> s'applique intégralement au dyno, avec réception jambes pliées et roulement éventuel en arrière."
+    },
+    {
+      "type": "h2",
+      "text": "Travailler le dyno en salle, méthode efficace"
+    },
+    {
+      "type": "p",
+      "html": "La salle reste le terrain d'apprentissage privilégié parce que les ouvreurs placent régulièrement des passages en dyno dans les blocs de niveau intermédiaire et confirmé. Tu cherches ces blocs dans ta salle, tu les identifies, et tu y reviens systématiquement à chaque séance. La répétition forge la technique."
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Méthode de travail en cinq étapes",
+      "items": [
+        {
+          "title": "Phase 1, dyno court sur tapis",
+          "body": "Dynos verticaux de 30 à 50 cm sur prises franches. Cinquante répétitions par séance pendant un mois. Tu construis la chaîne d'impulsion sans risque."
+        },
+        {
+          "title": "Phase 2, augmenter la distance",
+          "body": "Dynos verticaux longs jusqu'à un mètre. Tu apprends à doser l'armé en fonction de la distance, et à maintenir la précision malgré la course plus longue."
+        },
+        {
+          "title": "Phase 3, introduire le latéral",
+          "body": "Dynos décalés sur le côté. Tu travailles la rotation du tronc et la coordination du regard. Les premiers ratés sont fréquents, persiste."
+        },
+        {
+          "title": "Phase 4, le croisé",
+          "body": "Dynos main opposée. La main saisisseuse traverse le corps, ce qui demande une coordination supérieure. Réserve cette phase aux grimpeurs déjà à l'aise sur les phases 1 à 3."
+        },
+        {
+          "title": "Phase 5, transposer en falaise",
+          "body": "Après six mois à un an de salle, tu cherches des voies extérieures avec un dyno noté. Engagement supérieur, marge d'erreur réduite, mais technique éprouvée."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Quand renoncer au dyno"
+    },
+    {
+      "type": "p",
+      "html": "Tous les passages n'imposent pas un dyno. Tu renonces dès que tu identifies une solution statique équivalente, parce qu'un mouvement statique reste toujours moins risqué et moins coûteux en énergie. La <a href=\"/blog/lecture-voie-strategie\">lecture de voie</a> consiste précisément à identifier la séquence qui économise le maximum d'effort, et le dyno fait rarement partie des options les plus économiques."
+    },
+    {
+      "type": "p",
+      "html": "Tu renonces aussi quand la prise cible est trop incertaine. Saisir une jugs en plein vol est une chose, saisir un sloper précis en est une autre. Si la prise cible exige une finesse de saisie qui ne pardonne aucune approximation, l'investissement énergétique du dyno devient déraisonnable. Préfère alors la séquence statique même si elle est plus exigeante musculairement."
+    },
+    {
+      "type": "quote",
+      "text": "Le dyno, c'est de la confiance autant que de la puissance. Les bouldeurs qui sautent loin sont ceux qui acceptent de voler. Les autres restent collés au mur même quand leurs jambes peuvent les envoyer plus haut.",
+      "author": "Antoine",
+      "role": "grimpeur 8a, formé au lycée Camille Sée Colmar"
+    },
+    {
+      "type": "h2",
+      "text": "Le dyno dans la progression générale"
+    },
+    {
+      "type": "p",
+      "html": "Le dyno reste une technique de bouldeur avant tout, mais il déborde progressivement vers la falaise et la voie. Un grimpeur 7a bloc maîtrise les dynos verticaux et latéraux, et engage les croisés sans paniquer. Un grimpeur 7b bloc considère le dyno comme un outil parmi d'autres, ni redouté ni privilégié. Au-delà, le dyno devient un automatisme intégré au répertoire complet du mouvement dynamique."
+    },
+    {
+      "type": "p",
+      "html": "Pour progresser globalement, alterne séances de dyno et séances statiques. Une séance par semaine dédiée au dynamique pendant trois mois construit une compétence solide. Au-delà, la répartition se règle selon les objectifs personnels et les voies projetées. Un grimpeur orienté falaise sportive longue durée a moins besoin du dyno qu'un bouldeur indoor."
+    }
+  ],
+  "faq": [
+    {
+      "q": "À partir de quel niveau peut-on commencer à travailler le dyno ?",
+      "a": "Dès le 5c bloc tu rencontres des dynos courts, accessibles avec une technique élémentaire. Le travail méthodique du dyno devient pertinent à partir du 6b bloc, quand les configurations en dyno long apparaissent régulièrement. Avant ce niveau, mieux vaut consolider les bases techniques statiques avant d'investir dans le dynamique."
+    },
+    {
+      "q": "Faut-il être fort en jambes pour faire un bon dyno ?",
+      "a": "La force des jambes aide mais ne fait pas tout. Un grimpeur moyennement musclé qui maîtrise la chaîne d'impulsion complète saute plus loin qu'un costaud désorganisé. Le travail spécifique de pliométrie, sauts verticaux et boîtes, améliore la détente en quelques semaines. Mais la technique de coordination reste plus rentable que la force pure pour la majorité des grimpeurs."
+    },
+    {
+      "q": "Le dyno est-il dangereux pour les tendons ou les articulations ?",
+      "a": "Modérément, à condition de bien gérer la réception. La main saisisseuse subit un choc en arrivant sur la prise cible, ce qui sollicite les poulies des doigts et l'épaule. Échauffement systématique des doigts et de la coiffe des rotateurs, ainsi que progression mesurée du volume de dynos, préviennent les blessures. En cas de douleur au coude ou à l'épaule, repos immédiat et avis d'un kiné spécialisé grimpe."
+    },
+    {
+      "q": "Comment travailler le dyno quand on n'a pas de prises adaptées en salle ?",
+      "a": "Toutes les salles modernes proposent des blocs avec dyno, mais si ce n'est pas le cas, parle aux ouvreurs. Les enseignes Climb Up, Arkose et Vertical'Art renouvellent leurs blocs toutes les six à huit semaines et acceptent les suggestions de configuration. À défaut, travaille à la maison sur barre de traction avec des sauts verticaux entre deux barres, ce qui reproduit partiellement la mécanique du dyno."
+    },
+    {
+      "q": "Le dyno croisé est-il vraiment beaucoup plus difficile que le latéral ?",
+      "a": "Oui, parce qu'il demande une coordination intermembre supérieure. La main saisisseuse traverse le corps pour atteindre une prise située du côté opposé à l'épaule de départ. Cette traversée perturbe l'équilibre aérien et complique le timing. Compte plusieurs mois de pratique régulière pour intégrer le croisé après avoir consolidé le latéral. C'est l'un des mouvements signatures du bloc 7a et au-delà."
+    }
+  ],
+  "cover_alt": "Grimpeur en pleine phase aérienne d'un dyno dans une salle de bloc, corps tendu en extension complète, mains tendues vers une jugs verte au-dessus, deux pieds décollés du mur, lumière latérale dramatique",
+  "internal_links": [
+    {
+      "slug": "bloc-techniques-base",
+      "anchor": "répertoire technique du bloc",
+      "context": "famille technique"
+    },
+    {
+      "slug": "tirer-bras-jambes-grimpe",
+      "anchor": "recours aux jambes plutôt qu'aux bras",
+      "context": "principe biomécanique"
+    },
+    {
+      "slug": "mental-grimpe-blocage",
+      "anchor": "travail mental du grimpeur",
+      "context": "gestion peur"
+    },
+    {
+      "slug": "chuter-en-grimpe-apprentissage",
+      "anchor": "technique de chute en bloc",
+      "context": "sécurité réception"
+    },
+    {
+      "slug": "lecture-voie-strategie",
+      "anchor": "lecture de voie",
+      "context": "décision tactique"
+    },
+    {
+      "slug": "apprendre-escalade-debutant-2026",
+      "anchor": "progresser en escalade",
+      "context": "pilier cocon"
+    }
+  ],
+  "scheduled_at": "2026-06-30T09:00:00+02:00"
+}
