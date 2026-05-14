@@ -6,7 +6,7 @@
   "title": "Livres escalade, les références à lire pour comprendre la grimpe",
   "h1": "Livres de référence sur l'escalade, la bibliothèque à constituer en douze ouvrages",
   "description": "Premier de cordée, L'Annapurna, Sept ans au Tibet, Les Conquérants de l'Inutile : la sélection des livres essentiels sur l'escalade et l'alpinisme.",
-  "chapo": "La littérature d'escalade et d'alpinisme est l'une des plus riches du sport. Antoine partage la bibliothèque qu'il a constituée depuis ses débuts au lycée à Colmar, douze ouvrages qui couvrent un siècle d'aventure et de pensée sur la grimpe. Des classiques absolus comme Premier de cordée aux essais modernes, ces livres transmettent autant la technique que l'âme de la discipline. À lire et à offrir sans hésiter.",
+  "chapo": "La littérature d'escalade et d'alpinisme est l'une des plus riches du sport. Antoine partage la bibliothèque qu'il a constituée au fil de ses années de pratique, douze ouvrages qui couvrent un siècle d'aventure et de pensée sur la grimpe. Des classiques absolus comme Premier de cordée aux essais modernes, ces livres transmettent autant la technique que l'âme de la discipline. À lire et à offrir sans hésiter.",
   "takeaways": [
     "L'Annapurna premier 8000 de Maurice Herzog reste le best-seller mondial de l'alpinisme avec 15 millions d'exemplaires vendus.",
     "Premier de cordée de Roger Frison-Roche, paru en 1941, a initié des générations de Français à l'alpinisme.",
@@ -25,7 +25,7 @@
     },
     {
       "type": "p",
-      "html": "La sélection qui suit privilégie les ouvrages disponibles en français, traduits ou nativement. Treize ans de pratique, c'est aussi treize ans de bouquins lus et relus, certains plusieurs fois. Antoine a commencé par Premier de cordée à 14 ans, offert par son père, lecture qui a profondément marqué sa première année de pratique au club FFME de Colmar."
+      "html": "La sélection qui suit privilégie les ouvrages disponibles en français, traduits ou nativement. Treize ans de pratique, c'est aussi treize ans de bouquins lus et relus, certains plusieurs fois. Antoine a commencé par Premier de cordée à 14 ans, offert par son père, lecture qui a profondément marqué sa première année de pratique en club."
     },
     {
       "type": "p",
@@ -116,7 +116,7 @@
     },
     {
       "type": "p",
-      "html": "The Rock Climber's Training Manual des frères Anderson, traduit en français en 2017, est devenu la référence moderne de l'entraînement pour grimpeurs. Le livre propose un programme structuré de plusieurs cycles d'entraînement, fondé sur les principes de périodisation appliqués à l'escalade. Beaucoup de grimpeurs de niveau 7 et 8 s'y réfèrent. Antoine l'a utilisé pour structurer son préparation"
+      "html": "The Rock Climber's Training Manual des frères Anderson, traduit en français en 2017, est devenu la référence moderne de l'entraînement pour grimpeurs. Le livre propose un programme structuré de plusieurs cycles d'entraînement, fondé sur les principes de périodisation appliqués à l'escalade. Beaucoup de grimpeurs de niveau 7 et 8 s'y réfèrent. Antoine l'a utilisé pour structurer sa préparation hivernale, avec une vraie efficacité sur l'endurance des doigts."
     },
     {
       "type": "p",
@@ -128,11 +128,11 @@
     },
     {
       "type": "p",
-      "html": "Edlinger, l'Iguane bleu de Jean-Michel Asselin, publié en 2014, retrace la trajectoire de Patrick Edlinger. Le livre paru deux ans après sa disparition mêle archives, témoignages et analyse critique. La star médiatique des années 1980, qui a fait ses gammes sur les blocs racontés dans <a href=\"/blog/histoire-bleau-bloc\">l'histoire du bloc à Fontainebleau</a>, émerge dans toute sa complexité, ni icône simpliste ni personnage déchu. Lecture passionnante pour comprendre l'âge d'or <a href=\"/blog/grimpeurs-grimpeuses-histoire-france\">médiatique de l'escalade française</a>."
+      "html": "Edlinger, l'Iguane bleu de Jean-Michel Asselin, publié en 2014, retrace la trajectoire de Patrick Edlinger. Le livre paru deux ans après sa disparition mêle archives, témoignages et analyse critique. La star médiatique des années 1980, qui a forgé son style sur les blocs détaillés dans <a href=\"/blog/histoire-bleau-bloc\">l'histoire du bloc à Fontainebleau</a>, émerge dans toute sa complexité, ni icône simpliste ni personnage déchu. Lecture passionnante pour saisir cette époque où <a href=\"/blog/grimpeurs-grimpeuses-histoire-france\">l'escalade française est entrée dans la lumière médiatique</a>."
     },
     {
       "type": "p",
-      "html": "Destivelle, l'ascension d'une femme raconte la trajectoire de <a href=\"/blog/catherine-destivelle-grimpeuse\">Catherine Destivelle, première grimpeuse française reconnue mondialement</a>, ouvreuse au Drus, alpiniste polaire, créatrice d'école d'escalade. Son parcours symbolise l'irruption des femmes dans le haut niveau international à partir des années 1980. Une lecture qui éclaire les questions de genre dans la grimpe contemporaine."
+      "html": "Destivelle, l'ascension d'une femme raconte la trajectoire de <a href=\"/blog/catherine-destivelle-grimpeuse\">Catherine Destivelle, du Verdon aux ouvertures alpines</a>, ouvreuse au Drus, alpiniste polaire, créatrice d'école d'escalade. Son parcours symbolise l'irruption des femmes dans le haut niveau international à partir des années 1980. Une lecture qui éclaire les questions de genre dans la grimpe contemporaine."
     },
     {
       "type": "p",
@@ -198,29 +198,29 @@
   "cover_alt": "Pile de livres d'escalade et d'alpinisme classiques sur une table en bois, couvertures visibles de Premier de cordée, L'Annapurna et Les Conquérants de l'Inutile, tasse de thé en arrière-plan, ambiance feutrée de bibliothèque",
   "internal_links": [
     {
-      "slug": "films-escalade-meilleurs",
-      "anchor": "films à voir absolument",
-      "context": "complément culturel"
-    },
-    {
       "slug": "histoire-escalade-france-alpes-salle",
-      "anchor": "histoire de l'escalade en France",
-      "context": "pilier culture"
-    },
-    {
-      "slug": "grimpeurs-grimpeuses-histoire-france",
-      "anchor": "figures historiques de la grimpe française",
-      "context": "biographies"
-    },
-    {
-      "slug": "catherine-destivelle-grimpeuse",
-      "anchor": "portrait de Catherine Destivelle",
-      "context": "biographie référencée"
+      "anchor": "l'évolution de la discipline en France",
+      "context": "pilier culture, premier lien interne"
     },
     {
       "slug": "histoire-bleau-bloc",
-      "anchor": "histoire du bloc à Fontainebleau",
-      "context": "histoire spécifique"
+      "anchor": "l'histoire du bloc à Fontainebleau",
+      "context": "blocs où Edlinger a forgé son style"
+    },
+    {
+      "slug": "grimpeurs-grimpeuses-histoire-france",
+      "anchor": "l'escalade française est entrée dans la lumière médiatique",
+      "context": "hub personnalités, âge d'or médiatique"
+    },
+    {
+      "slug": "catherine-destivelle-grimpeuse",
+      "anchor": "Catherine Destivelle, du Verdon aux ouvertures alpines",
+      "context": "biographie référencée, cross-cocon personnalités"
+    },
+    {
+      "slug": "films-escalade-meilleurs",
+      "anchor": "films d'escalade incontournables",
+      "context": "complément culturel, conclusion"
     }
   ],
   "scheduled_at": "2027-05-08T09:00:00+02:00"
