@@ -5,7 +5,7 @@
   "numero": 91,
   "title": "Calanques : escalade face à la Méditerranée à Marseille",
   "h1": "Calanques, escalade face à la Méditerranée",
-  "description": "Découvre les Calanques entre Marseille et Cassis : En-Vau, Morgiou, Sormiou, Devenson, calcaire blanc, quotas Sugiton et restrictions estivales du Parc...",
+  "description": "les Calanques entre Marseille et Cassis : En-Vau, Morgiou, Sormiou, Devenson, calcaire blanc, quotas Sugiton et restrictions estivales du Parc...",
   "chapo": "Les Calanques, c'est un terrain de jeu unique en Europe. Soixante kilomètres de littoral entre Marseille et Cassis, des falaises blanches plongeant dans une mer turquoise, des grandes voies maritimes, des couennes sportives. Je te raconte ce massif sauvage, ses secteurs mythiques d'En-Vau à Sormiou, les contraintes du Parc national, les quotas Sugiton et la magie de grimper le matin avec les pieds dans la Méditerranée.",
   "takeaways": [
     "Les Calanques s'étendent sur 60 kilomètres entre Marseille et Cassis, en Parc national.",
@@ -25,7 +25,7 @@
     },
     {
       "type": "p",
-      "html": "Le massif des Calanques s'étend sur soixante kilomètres entre Marseille et <strong>Cassis</strong>, classé Parc national depuis 2012. Plus de 3000 voies équipées se répartissent sur des dizaines de secteurs, allant de la couenne sportive à la grande voie de 300 mètres. Le calcaire urgonien blanc, sculpté par le vent et la mer, offre des préhensions très variées, des bacs francs aux réglettes fines. C'est un terrain de jeu unique, mêlant escalade, montagne et littoral."
+      "html": "Le massif des Calanques s'étend sur soixante kilomètres entre Marseille et <strong>Cassis</strong>, classé Parc national depuis 2012. Plus de 3000 voies équipées se répartissent sur des dizaines de secteurs, allant de la couenne sportive à la grande voie de 300 mètres. Le calcaire urgonien blanc, sculpté par le vent et la mer, offre des préhensions très variées, des bacs francs aux réglettes fines. C'est un terrain de jeu unique, <a href=\"/blog/saint-leger-du-ventoux-escalade\">mêlant escalade</a>, montagne et littoral."
     },
     {
       "type": "p",
@@ -160,7 +160,7 @@
     },
     {
       "type": "p",
-      "html": "Les Calanques se grimpent d'octobre à mai, avec un creux estival imposé par le risque incendie et la chaleur. Les meilleurs mois sont novembre, décembre, mars et avril. L'air est doux autour de 15 à 20 degrés, le rocher est sec, et le massif est moins fréquenté. En hiver, les jours ensoleillés permettent de grimper en t-shirt face à la mer. Le mistral peut souffler fort, parfois jusqu'à 100 km/h, rendant la grimpe inconfortable mais maintenant le rocher en condition optimale."
+      "html": "Les Calanques se grimpent d'octobre à mai, avec un creux estival imposé par le risque incendie et la chaleur. Les meilleurs mois sont novembre, décembre, mars et avril. L'air est doux autour de 15 à 20 degrés, le rocher est sec, et le massif est moins fréquenté. En hiver, les jours ensoleillés <a href=\"/blog/sainte-victoire-paul-cezanne\">permettent de grimper</a> en t-shirt face à la mer. Le mistral peut souffler fort, parfois jusqu'à 100 km/h, rendant la grimpe inconfortable mais maintenant le rocher en condition optimale."
     },
     {
       "type": "p",
@@ -176,7 +176,7 @@
     },
     {
       "type": "p",
-      "html": "Pour comparer avec d'autres sites méditerranéens, Pour les falaises voisines, va voir Buoux dans le Luberon. Pour une vision d'ensemble des sites français, le pilier sur les <a href=\"/blog/sites-escalade-emblematiques-france\">sites d'escalade emblématiques de France</a> donne le panorama complet."
+      "html": "Pour comparer avec d'autres sites méditerranéens, Pour les falaises voisines, <a href=\"/blog/buoux-luberon-historique\">va voir Buoux</a> dans le Luberon. Pour une vision d'ensemble des sites français, le pilier sur les <a href=\"/blog/sites-escalade-emblematiques-france\">sites d'escalade emblématiques de France</a> donne le panorama complet."
     }
   ],
   "faq": [

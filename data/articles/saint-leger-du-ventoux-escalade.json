@@ -5,7 +5,7 @@
   "numero": 89,
   "title": "Saint-Léger-du-Ventoux, escalader face au Géant de Provence",
   "h1": "Saint-Léger-du-Ventoux, escalade face au Géant",
-  "description": "Découvre Saint-Léger-du-Ventoux, falaise de dalles compactes du Vaucluse : La Source, voies techniques au pied du Mont Ventoux, secteurs et saison...",
+  "description": "Saint-Léger-du-Ventoux, falaise de dalles compactes du Vaucluse : La Source, voies techniques au pied du Mont Ventoux, secteurs et saison...",
   "chapo": "Saint-Léger-du-Ventoux, c'est une falaise discrète mais redoutable, posée dans la vallée du Toulourenc, face au Mont Ventoux. Calcaire compact, dalles techniques, voies à la lecture exigeante, ambiance sauvage. Je te raconte ce site vauclusien encore préservé, ses lignes phares comme La Source, ses petites tailles et la sensation particulière de grimper sous le regard du Géant de Provence.",
   "takeaways": [
     "Saint-Léger-du-Ventoux se trouve dans le Vaucluse, vallée du Toulourenc.",
@@ -21,11 +21,11 @@
     },
     {
       "type": "p",
-      "html": "La première fois que j'ai grimpé à Saint-Léger-du-Ventoux, c'était un week-end de Toussaint, et j'enchaînais après une semaine à Buoux. Le contraste m'avait surpris. Là où Buoux fourmillait de monde, Saint-Léger semblait quasi désert. Quelques <strong>cordée</strong>s sur le mur principal, le silence du Toulourenc en contrebas, et au loin le Mont Ventoux qui dominait tout. C'est un site qui ne ressemble à aucun autre du Vaucluse. Discret, presque secret, et pourtant magnifique."
+      "html": "La première fois que j'ai grimpé à Saint-Léger-du-Ventoux, c'était un week-end de Toussaint, et j'enchaînais après <a href=\"/blog/buoux-luberon-historique\">une semaine à Buoux</a>. Le contraste m'avait surpris. Là où Buoux fourmillait de monde, Saint-Léger semblait quasi désert. Quelques <strong>cordée</strong>s sur le mur principal, le silence du Toulourenc en contrebas, et au loin le Mont Ventoux qui dominait tout. C'est un site qui ne ressemble à aucun autre du Vaucluse. Discret, presque secret, et pourtant magnifique."
     },
     {
       "type": "p",
-      "html": "Le village de Saint-Léger-du-Ventoux compte une cinquantaine d'habitants, posé dans la vallée du Toulourenc, entre Sault et Malaucène. La falaise se dresse à quelques minutes de marche du centre, exposée sud-est, dominant la rivière et offrant un <strong>pan</strong>orama dégagé sur le versant nord du Ventoux. Une centaine de voies équipées se répartissent sur plusieurs secteurs, du 5c au <strong>8b</strong>. C'est moins dense que les grands <a href=\"/blog/sites-escalade-emblematiques-france\">sites</a>, mais la qualité y compense la quantité."
+      "html": "Le village de Saint-Léger-du-Ventoux compte une cinquantaine d'habitants, posé dans la vallée du Toulourenc, entre Sault et Malaucène. La falaise se dresse à quelques minutes de marche du centre, exposée sud-est, dominant la rivière et offrant un <strong>pan</strong>orama dégagé sur le versant nord du Ventoux. Une centaine de voies équipées se répartissent sur plusieurs secteurs, du 5c au <strong>8b</strong>. C'est moins dense que les grands <a href=\"/blog/sites-escalade-emblematiques-france\">panorama des sites d'escalade français</a>, mais la qualité y compense la quantité."
     },
     {
       "type": "p",
@@ -160,7 +160,7 @@
     },
     {
       "type": "p",
-      "html": "Pour explorer d'autres sites du Vaucluse, Pour d'autres falaises de dalles techniques, va voir <a href=\"/blog/aiglun-prealpes-azur\">Aiglun dans les Préalpes d'Azur</a>. Pour les amateurs de grands sites du sud, comparons avec <a href=\"/blog/ceuse-cathedrale-calcaire\">Céüse</a>, autre cathédrale du calcaire."
+      "html": "Pour explorer d'autres sites du Vaucluse, Pour d'autres falaises de dalles techniques, va voir <a href=\"/blog/aiglun-prealpes-azur\">Aiglun dans les Préalpes d'Azur</a>. Pour les amateurs de grands sites du sud, comparons avec <a href=\"/blog/ceuse-cathedrale-calcaire\">la cathédrale calcaire de Céüse</a>, autre cathédrale du calcaire."
     }
   ],
   "faq": [

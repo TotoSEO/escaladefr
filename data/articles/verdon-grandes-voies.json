@@ -5,7 +5,7 @@
   "numero": 83,
   "title": "Verdon | Royaume des grandes voies en calcaire de haute Provence",
   "h1": "Le Verdon, royaume des grandes voies",
-  "description": "Découvre le Verdon, ses gorges, ses grandes voies en calcaire et ses classiques comme Demande ou Pichenibule. Tout sur la grimpe en falaise dans le sud.",
+  "description": "le Verdon, ses gorges, ses grandes voies en calcaire et ses classiques comme Demande ou Pichenibule. Tout sur la grimpe en falaise dans le sud.",
   "chapo": "Le Verdon, c'est une autre planète. Quatre cents mètres de calcaire vertical au-dessus d'une rivière turquoise, des voies historiques ouvertes dans les années 1970, une ambiance qui marque à vie. C'est là que la grande voie sportive est née en France. Je te raconte ce qu'il faut savoir avant de t'engager sur ces falaises mythiques, des classiques abordables aux monuments d'engagement.",
   "takeaways": [
     "Le Verdon abrite plus de 1500 voies réparties sur les rives nord et sud des gorges.",
@@ -21,7 +21,7 @@
     },
     {
       "type": "p",
-      "html": "Le Verdon, c'est avant tout un lieu. La rivière a creusé des gorges profondes de 700 mètres dans le calcaire de haute Provence, dévoilant des parois compactes que les premiers grimpeurs ont commencé à explorer dans les années 1960. Quand tu arrives au-dessus du belvédère de la Maline pour la première fois, le vertige précède la grimpe. Tu regardes en bas, tu Cette inversion est unique en France."
+      "html": "<a href=\"/blog/verdon-secteurs-rappel-acces\">Le Verdon</a>, c'est avant tout un lieu. La rivière a creusé des gorges profondes de 700 mètres <a href=\"/blog/ceuse-cathedrale-calcaire\">dans le calcaire</a> de haute Provence, dévoilant des parois compactes que les premiers grimpeurs ont commencé à explorer dans les années 1960. Quand tu arrives au-dessus du belvédère de la Maline pour la première fois, le vertige précède la grimpe. Tu regardes en bas, tu Cette inversion est unique en France."
     },
     {
       "type": "p",
@@ -165,7 +165,7 @@
     },
     {
       "type": "p",
-      "html": "Pour découvrir d'autres terrains, regarde notre <a href=\"/blog/sites-escalade-emblematiques-france\">tour des sites emblématiques de France</a> ou plonge dans <a href=\"/blog/fontainebleau-bloc-foret\">Fontainebleau, capitale mondiale du bloc</a> pour changer d'univers."
+      "html": "Pour découvrir d'autres terrains, parcours les <a href=\"/blog/sites-escalade-emblematiques-france\">sites d'escalade emblématiques de France</a> ou plonge dans <a href=\"/blog/fontainebleau-bloc-foret\">Fontainebleau, capitale mondiale du bloc</a> pour changer d'univers."
     }
   ],
   "faq": [

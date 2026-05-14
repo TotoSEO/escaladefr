@@ -98,7 +98,7 @@
     },
     {
       "type": "p",
-      "html": "Une fois l'alerte transmise, tu <strong>ne raccroches pas</strong>. Le régulateur peut te rappeler pour préciser des points, ajuster l'intervention, demander une évolution de l'état du blessé. Tu maintiens un contact actif tant qu'il ne te libère pas. Si la batterie de ton téléphone est faible, tu le précises immédiatement et tu désactives tout ce qui consomme (notifications, applications en arrière plan)."
+      "html": "Une fois l'alerte transmise, tu <strong>ne raccroches pas</strong>. Le régulateur peut te rappeler pour préciser des points, ajuster l'intervention, demander une évolution de l'état du blessé. Tu maintiens un contact <a href=\"/blog/helitreuillage-evacuation\">actif tant qu'il</a> ne te libère pas. Si la batterie de ton téléphone est faible, tu le précises immédiatement et tu désactives tout ce qui consomme (notifications, applications en arrière plan)."
     },
     {
       "type": "p",

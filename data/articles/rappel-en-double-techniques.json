@@ -21,7 +21,7 @@
     },
     {
       "type": "p",
-      "html": "Le rappel concentre toutes les conditions d'accident. Tu es fatigue apres une grande voie de 6 heures, ta vigilance baisse, tu enchaines plusieurs manoeuvres sans pause. Tu desinstalles ton autoassurance pour te recharger, tu inverses la corde, tu te suspends dans le vide. La moindre erreur de procedure ou de materiel se paie tres cher. Statistiquement, environ 20 accidents graves par an en France sur rappel, dont une dizaine de deces."
+      "html": "Le rappel concentre toutes les conditions d'accident. Tu es fatigue <a href=\"/blog/recuperer-relais-grande-voie\">apres une grande voie</a> de 6 heures, ta vigilance baisse, tu enchaines plusieurs manoeuvres sans pause. Tu desinstalles ton autoassurance pour te recharger, tu inverses la corde, tu te suspends dans le vide. La moindre erreur de procedure ou de materiel se paie tres cher. Statistiquement, environ 20 accidents graves par an en France sur rappel, dont une dizaine de deces."
     },
     {
       "type": "p",
@@ -33,7 +33,7 @@
     },
     {
       "type": "p",
-      "html": "Rappel en double signifie qu'on descend sur deux brins de corde, par opposition au rappel sur corde simple (rarement utilise en escalade). Tu passes la corde dans un point d'ancrage (anneau, maillon, plaquette), les deux brins descendent vers le sol ou vers le relais suivant. Tu descends sur les deux brins en utilisant un descendeur (reverso, ATC, huit, micro tracteur). Une fois en bas, tu tires sur un brin pour recuperer la corde."
+      "html": "Rappel en double signifie qu'on descend sur deux brins de corde, par opposition au rappel sur corde simple (rarement utilise en escalade). Tu passes la corde dans un point d'ancrage (anneau, maillon, plaquette), les deux brins descendent vers le sol ou vers le relais suivant. Tu descends sur les deux brins en utilisant un descendeur (reverso, ATC, <a href=\"/blog/noeud-huit-encordement\">nœud de huit d'encordement</a>, micro tracteur). Une fois en bas, tu tires sur un brin pour recuperer la corde."
     },
     {
       "type": "p",

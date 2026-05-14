@@ -37,7 +37,7 @@
     },
     {
       "type": "p",
-      "html": "Tu vérifies aussi le matériel collectif de la cordée : nombre de dégaines (au moins 12 pour une voie sport), sangles, longes, autobloquant, anneaux cousus pour les rappels. Tu n'oublies pas le casque obligatoire en falaise, la couverture de survie, la trousse de premiers secours, le téléphone chargé. Une corde de rappel si tu sors en grande voie."
+      "html": "Tu vérifies aussi le matériel collectif de la cordée : nombre de dégaines (au moins 12 pour une voie sport), sangles, longes, autobloquant, anneaux cousus pour les rappels. Tu n'oublies pas le casque obligatoire en falaise, la couverture de survie, la trousse de premiers secours, le téléphone chargé. <a href=\"/blog/rappel-securite-procedure\">Une corde de rappel</a> si tu sors en grande voie."
     },
     {
       "type": "list",
@@ -68,11 +68,11 @@
     },
     {
       "type": "p",
-      "html": "Tu consultes la météo locale la veille et le matin du départ. Sites recommandés : Météo France, Windy, Météo Blue. Tu regardes vent, température, probabilité de pluie, point de rosée. Une falaise au nord en hiver sera glaciale à 9h, parfaite à 14h. Une falaise sud en été deviendra invivable à partir de 11h. Le timing fait souvent la différence entre une bonne et une mauvaise journée."
+      "html": "Tu <a href=\"/blog/meteo-falaise-decider-renoncer\">consultes la météo</a> locale la veille et le matin du départ. Sites recommandés : Météo France, Windy, Météo Blue. Tu regardes vent, température, probabilité de pluie, point de rosée. Une falaise au nord en hiver sera glaciale à 9h, parfaite à 14h. Une falaise sud en été deviendra invivable à partir de 11h. Le timing fait souvent la différence entre une bonne et une mauvaise journée."
     },
     {
       "type": "p",
-      "html": "Tu pré Si tu sors une grande voie longue, tu pars tôt pour éviter la nuit. Une heure de retard sur le timing planifié peut transformer une sortie agréable en cauchemar."
+      "html": "Tu prévois ton créneau en tenant compte de l'orientation et du soleil sur la falaise. Si tu sors une grande voie longue, tu pars tôt pour éviter la nuit. Une heure de retard sur le timing planifié peut transformer une sortie agréable en cauchemar."
     },
     {
       "type": "h2",
@@ -80,7 +80,7 @@
     },
     {
       "type": "p",
-      "html": "Avant d'engager une voie, tu la regardes du sol. Tu Tu repères les éventuels échappatoires si tu dois redescendre en cours de voie."
+      "html": "Avant d'engager une voie, tu la regardes du sol. Tu visualises la ligne, tu cales les sections clés et tu repères les éventuels échappatoires si tu dois redescendre en cours de voie."
     },
     {
       "type": "p",
@@ -98,11 +98,11 @@
     },
     {
       "type": "p",
-      "html": "Tu te cales avec ton partenaire avant de partir. Vous échangez sur le déroulement : qui grimpe en tête, qui assure, qui prépare la corde, qui range, qui filme. Vous fixez le vocabulaire commun : sec pour tendre la corde, mou pour donner du mou, du bas pour redescendre, vache pour vacher au relais. Ce sont les mots standards utilisés partout en France. Pas de surprise possible en cours de voie."
+      "html": "Tu te cales avec ton partenaire avant de partir. Vous échangez sur le déroulement à deux : qui grimpe en tête, qui assure, qui prépare la corde, qui range, qui filme. Vous fixez ensemble le vocabulaire commun : sec pour tendre la corde, mou pour donner du mou, du bas pour redescendre, vache pour vacher au relais. Ce sont les mots standards utilisés partout en France. Pas de surprise possible en cours de voie."
     },
     {
       "type": "p",
-      "html": "Tu confirmes aussi le niveau d'assurage de ton partenaire : utilise t il un GriGri Petzl, un tube ATC, un Click Up Climbing Technology ? Sait il assurer dynamiquement ? A t il un badge passeport assurage validé ? S'il a peu d'expérience, tu adaptes ton engagement, tu clippes plus haut, tu ne tentes pas le pas à risque. Tu peux relire <a href=\"/blog/partenaire-grimpe-confiance\">"
+      "html": "Tu confirmes aussi le niveau d'assurage de ton partenaire : utilise-t-il un GriGri Petzl, un tube ATC, un Click Up Climbing Technology ? Sait-il assurer dynamiquement ? A-t-il un badge passeport assurage validé ? S'il a peu d'expérience, tu adaptes ton engagement, tu clippes plus haut, tu ne tentes pas le pas à risque. <a href=\"/blog/partenaire-grimpe-confiance\">Le choix d'un partenaire de confiance</a> reste le socle de toute sortie sereine."
     },
     {
       "type": "h2",
@@ -110,7 +110,7 @@
     },
     {
       "type": "p",
-      "html": "Avant que le grimpeur ne pose la main sur la première prise, tu déroules la triple vérification : baudrier bouclé sangle rabattue, nœud d'encordement en huit suivi avec nœud d'arrêt, système d'assurage monté correctement. Vérification individuelle plus contrôle croisé. Tu prends le temps."
+      "html": "Avant que le grimpeur ne pose la main sur la première prise, tu <a href=\"/blog/verification-baudrier-corde-noeud\">déroules la triple vérification</a> : baudrier bouclé sangle rabattue, nœud d'encordement en huit suivi avec nœud d'arrêt, système d'assurage monté correctement. Vérification individuelle plus contrôle croisé. Tu prends le temps."
     },
     {
       "type": "p",
@@ -122,7 +122,7 @@
     },
     {
       "type": "p",
-      "html": "Avant même de monter, tu anticipes la fin de voie. Tu sais si le relais est en chaîne avec maillon, en anneau de descente ou en plaquette sans relais. Tu sais si tu vas redescendre en moulinette directe ou si tu vas devoir installer un rappel. En cas de doute, tu prends le topo en photo sur ton téléphone pour le relire au sommet. Beaucoup d'accidents en falaise arrivent en sortie de voie, parce que le grimpeur a improvisé une manœuvre inhabituelle."
+      "html": "Avant même de monter, tu anticipes la fin de voie. Tu sais si le relais est en chaîne avec maillon, en anneau de descente ou en plaquette sans relais. Tu sais si tu vas redescendre en moulinette directe ou si tu vas devoir installer un rappel. En cas de doute, tu prends le topo en photo sur ton téléphone pour le relire au sommet. Beaucoup d'<a href=\"/blog/accidents-escalade-statistiques\">accidents</a> en falaise arrivent en sortie de voie, parce que le grimpeur a improvisé une manœuvre inhabituelle."
     },
     {
       "type": "p",
@@ -197,7 +197,7 @@
     },
     {
       "type": "p",
-      "html": "Et avec <a href=\"/blog/securite-escalade-regles-essentielles\">notre pilier sur les règles essentielles de sécurité</a> pour la vision d'ensemble. La check list est un outil, pas une religion. Elle s'adapte à ta pratique tout en gardant son cœur de discipline."
+      "html": "Et avec les <a href=\"/blog/securite-escalade-regles-essentielles\">règles essentielles de sécurité en escalade</a> pour la vision d'ensemble. La check list est un outil, pas une religion. Elle s'adapte à ta pratique tout en gardant son cœur de discipline."
     }
   ],
   "faq": [

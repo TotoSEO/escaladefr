@@ -25,7 +25,7 @@
     },
     {
       "type": "p",
-      "html": "Ce qui distingue le bloc de la voie : l'intensite. Sur une voie 6b, tu enchaines 40 mouvements moderes. Sur un bloc 6b, tu fais 6 mouvements au maximum. L'effort est concentre, la lecture est cruciale, la force a court terme aussi. Mais comme on va voir, la technique reste largement determinante. Beaucoup de grimpeurs forts plafonnent en 6c bloc parce qu'ils n'ont pas integre les techniques de base."
+      "html": "Ce qui distingue le bloc de la voie : l'intensite. Sur une voie 6b, tu enchaines 40 mouvements moderes. Sur un bloc 6b, tu fais 6 mouvements au maximum. L'effort est concentre, <a href=\"/blog/lecture-voie-strategie\">la lecture</a> est cruciale, la force a court terme aussi. Mais comme on va voir, la technique reste largement determinante. Beaucoup de grimpeurs forts plafonnent en 6c bloc parce qu'ils n'ont pas integre les techniques de base."
     },
     {
       "type": "h2",
@@ -132,15 +132,15 @@
     },
     {
       "type": "p",
-      "html": "Premiere technique : le placement de pieds precis. En bloc, chaque centimetre compte. Tu vises un point precis sur la prise, tu poses, tu ne bouges plus. Pas d'ajustement en cours de pose, c'est ce qui te fait ripper. La precision du pied est plus determinante en bloc qu'en voie, parce que les marges sont reduites."
+      "html": "Premiere technique : <a href=\"/blog/placement-corps-equilibre\">le placement</a> de pieds precis. En bloc, chaque centimetre compte. Tu vises un point precis sur la prise, tu poses, tu ne bouges plus. Pas d'ajustement en cours de pose, c'est ce qui te fait ripper. La precision du pied est plus determinante en bloc qu'en voie, parce que les marges sont reduites."
     },
     {
       "type": "p",
-      "html": "Deuxieme technique : le drapeau. Tu poses une jambe en oblique pour equilibrer le corps quand tu n'as qu'un seul pied porteur. Le drapeau interieur (jambe sous le corps) et le drapeau exterieur (jambe sur le cote oppose) sont les deux variantes. Cette technique permet d'eviter l'effet de portail (rotation incontrolee du corps). Indispensable des le bloc 5+."
+      "html": "Deuxieme technique : le drapeau. Tu poses une jambe en oblique pour equilibrer le corps quand tu n'as qu'un seul pied porteur. Le drapeau interieur (jambe sous le corps) et le drapeau exterieur (jambe sur le cote oppose) sont les deux variantes. Cette technique permet d'eviter l'effet de portail (<a href=\"/blog/rotation-pivot-escalade\">rotation</a> incontrolee du corps). Indispensable des le bloc 5+."
     },
     {
       "type": "p",
-      "html": "Troisieme technique : la lolotte. Rotation de hanche pour coller le bassin au mur en devers. Le pied opposite, la hanche tourne, le bras suit. Cette technique permet de grimper en devers sans force pure, juste en utilisant la geometrie. La grammaire des hanches detaille la lolotte et ses variantes."
+      "html": "Troisieme technique : la lolotte. Rotation de hanche pour coller le bassin au mur en devers. Le pied opposite, la hanche tourne, le bras suit. Cette technique permet de grimper en devers sans force pure, juste en utilisant la geometrie. La grammaire des hanches detaille <a href=\"/blog/poser-pieds-escalade-placement\">la lolotte et ses</a> variantes."
     },
     {
       "type": "h2",
@@ -160,7 +160,7 @@
     },
     {
       "type": "p",
-      "html": "En bloc, la chute est <strong>frequente et incontournable</strong>. Tu tombes a chaque essai rate, parfois 10 fois sur un meme probleme. La cle, c'est de chuter sans se blesser. <strong>Plie les jambes en arrivant au sol, jamais en jambes droites</strong>. Les fesses absorbent mieux que les talons. Roule en arriere si la chute est haute. Sur Fontainebleau, pre"
+      "html": "En bloc, la chute est <strong>frequente et incontournable</strong>. Tu tombes a chaque essai rate, parfois 10 fois sur un meme probleme. La cle, c'<a href=\"/blog/chuter-en-grimpe-apprentissage\">est de chuter</a> sans se blesser. <strong>Plie les jambes en arrivant au sol, jamais en jambes droites</strong>. Les fesses absorbent mieux que les talons. Roule en arriere si la chute est haute. Sur Fontainebleau, pre"
     },
     {
       "type": "tip",
@@ -170,7 +170,7 @@
     },
     {
       "type": "p",
-      "html": "L'apprentissage de la chute est traite dans notre guide sur la chute. Le principe est le meme en bloc qu'en voie, mais la frequence est plus elevee. Tu apprends a tomber comme tu apprends a saisir une prise. Pas de chance, c'est une competence en soi. Travaille-la des le debut."
+      "html": "L'apprentissage de la chute est traite dans la chute. Le principe est le meme en bloc qu'en voie, mais la frequence est plus elevee. Tu apprends a tomber comme tu apprends a saisir une prise. Pas de chance, c'est une competence en soi. Travaille-la des le debut."
     },
     {
       "type": "h2",
@@ -217,7 +217,7 @@
     },
     {
       "type": "p",
-      "html": "La difference principale : <strong>les prises ne sont pas marquees</strong>. Tu La gomme du chausson differe : sur le gres bleausard, ca colle differemment. La chute est plus exigeante : tu te poses sur des feuilles ou des racines, pas sur un tapis epais. Prevois ta premiere sortie a Bleau avec un grimpeur experimente qui connait les secteurs, ou en stage avec un guide local. C'est aussi traite dans les premieres sorties rocher."
+      "html": "La difference principale : <strong>les prises ne sont pas marquees</strong>. Tu La gomme du chausson differe : sur le gres bleausard, ca colle differemment. La chute est plus exigeante : tu te poses sur des feuilles ou des racines, pas sur un tapis epais. <a href=\"/blog/sortie-rocher-debutant\">Prevois ta premiere sortie</a> a Bleau avec un grimpeur experimente qui connait les secteurs, ou en stage avec un guide local. C'est aussi traite dans les premieres sorties rocher."
     },
     {
       "type": "h2",
@@ -225,7 +225,7 @@
     },
     {
       "type": "p",
-      "html": "Pour progresser, varie les styles de blocs. <strong>Une seance type</strong> : 15 min d'echauffement, 45 min de blocs dans ton niveau (3 a 5 essais par bloc), 30 min de projets a la limite (5 a 8 essais), 15 min de blocs faciles cool down. Total 1h45. Plus, tu fatigues. Moins, tu n'as pas progresse. La cle, c'est la regularite : <strong>3 seances par semaine</strong> pendant 3 mois, c'est plus efficace que 5 seances par semaine pendant 2 semaines puis arret 2 mois."
+      "html": "<a href=\"/blog/progresser-niveau-escalade\">Pour progresser</a>, varie les styles de blocs. <strong>Une seance type</strong> : 15 min d'echauffement, 45 min de blocs dans ton niveau (3 a 5 essais par bloc), 30 min de projets a la limite (5 a 8 essais), 15 min de blocs faciles cool down. Total 1h45. Plus, tu fatigues. Moins, tu n'as pas progresse. La cle, c'est la regularite : <strong>3 seances par semaine</strong> pendant 3 mois, c'est plus efficace que 5 seances par semaine pendant 2 semaines puis arret 2 mois."
     },
     {
       "type": "quote",
