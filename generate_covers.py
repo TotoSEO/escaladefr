@@ -346,7 +346,7 @@ def build_xmp(slug: str, title_full: str, description: str) -> bytes:
 
 UNIQUE_PROMPTS: dict[str, str] = {
     # ───── Piliers hub ─────
-    "apprendre-escalade-debutant-2026": "un grimpeur débutant en salle indoor face à un mur de couleurs vives, regard concentré sur sa prochaine prise, vue de trois quarts dos, ambiance lumineuse de fin de journée filtrant par une baie vitrée, prises rouges jaunes bleues nettes en arrière-plan flou",
+    "apprendre-escalade-debutant": "un grimpeur débutant en salle indoor face à un mur de couleurs vives, regard concentré sur sa prochaine prise, vue de trois quarts dos, ambiance lumineuse de fin de journée filtrant par une baie vitrée, prises rouges jaunes bleues nettes en arrière-plan flou",
     "materiel-escalade-essentiel": "un étalage à plat vu du dessus de matériel d'escalade essentiel sur un sol en bois clair : baudrier, chaussons, casque, corde lovée, mousquetons, dégaines, sac, magnésie, composition graphique flat-lay parfaitement organisée, lumière douce du nord",
     "noeuds-escalade-utiles-guide": "deux mains nouant un nœud de huit sur une corde dynamique orange et bleue, plan macro, fond sombre flou, la corde texturée visible en détail, lumière latérale qui sculpte les fibres",
     "sites-escalade-emblematiques-france": "vue aérienne grand angle des Gorges du Verdon, calcaire ocre et eaux turquoise, falaises plongeantes, deux silhouettes de grimpeurs minuscules sur une voie, ciel d'été pur",
@@ -468,7 +468,7 @@ UNIQUE_PROMPTS: dict[str, str] = {
     "wolfgang-gullich-action-directe": "macro d'un grimpeur en plein dyno sur un toit calcaire allemand, expression d'effort intense, ambiance Frankenjura sombre",
     "luce-douady-tribute": "silhouette de jeune grimpeuse rayonnante sur une voie en falaise française, lumière dorée d'hommage, ambiance émouvante",
     "charlotte-durif-multiple-disciplines": "grimpeuse polyvalente alternant disciplines, montage de plusieurs ambiances grimpe en multi-exposition artistique",
-    "francaises-jeux-olympiques-2024": "vue large de la grande arène de compétition olympique d'escalade à Paris 2024, projecteurs, athlètes minuscules sur murs gigantesques",
+    "francaises-jeux-olympiques-paris": "vue large de la grande arène de compétition olympique d'escalade à Paris 2024, projecteurs, athlètes minuscules sur murs gigantesques",
     "ouvreurs-voies-celebres-france": "ouvreur de voies en plein équipement d'une nouvelle ligne, perceuse à la ceinture, scellement chimique en cours, ambiance falaise vierge",
     # ───── Cocon PRÉPARATION ─────
     "echauffement-grimpe-routine": "grimpeur effectuant des rotations d'épaules au pied d'une falaise, plan en pied, lumière matinale",
@@ -622,17 +622,34 @@ def main() -> None:
                     help="Skip la confirmation interactive.")
     args = ap.parse_args()
 
-    slugs = [args.slug] if args.slug else list(UNIQUE_PROMPTS.keys())
-    if args.limit:
-        slugs = slugs[: args.limit]
+    # Garde-fou : vérifie que tous les slugs de UNIQUE_PROMPTS existent vraiment
+    # dans data/articles. Évite de cramer du crédit sur un slug obsolète.
+    import glob
+    real_slugs = {
+        os.path.basename(p).replace(".json", "")
+        for p in glob.glob(str(Path(__file__).parent / "data/articles/*.json"))
+    }
+    stale = [s for s in UNIQUE_PROMPTS if s not in real_slugs]
+    if stale:
+        sys.exit(
+            "✗ Slugs obsolètes dans UNIQUE_PROMPTS (renommés ou supprimés côté data/articles) :\n"
+            + "\n".join(f"  - {s}" for s in stale)
+            + "\nMets à jour generate_covers.py avant de lancer."
+        )
 
-    # Filtre direct : tout slug avec un .webp existant et pas de --redo est zappé tout de suite.
+    slugs = [args.slug] if args.slug else list(UNIQUE_PROMPTS.keys())
+
+    # Filtre d'abord les manquants, PUIS applique --limit. Sinon, si les N
+    # premiers slugs sont déjà générés, on ne fait rien.
     missing = []
     for slug in slugs:
         out = OUT_DIR / f"{slug}.webp"
         if out.exists() and not args.redo:
             continue
         missing.append(slug)
+
+    if args.limit:
+        missing = missing[: args.limit]
 
     if not missing:
         print(f"Aucune image à générer ({len(slugs)} déjà présentes).")
