@@ -15,283 +15,73 @@
     "La souplesse de hanche limite plus de grimpeurs que la force des doigts entre le 6a et le 7a en falaise."
   ],
   "body_blocks": [
-    {
-      "type": "h2",
-      "text": "Pourquoi la hanche compte plus que les bras"
-    },
-    {
-      "type": "p",
-      "html": "La hanche est le pivot central du corps en grimpe. Tout ce qui se passe entre le pied porteur et la main saisisseuse transite par le bassin. Si la hanche grimpe en position neutre, c'est-à-dire de face contre la paroi, les épaules restent éloignées du mur et les bras travaillent en traction pure. Le coût énergétique est élevé, l'autonomie sur la voie courte. Si la hanche pivote, le bassin se rapproche de la paroi, les épaules suivent, les bras se déchargent."
-    },
-    {
-      "type": "p",
-      "html": "Cette différence n'apparaît pas en dalle légère où la gravité aide à plaquer le corps. Elle devient déterminante en vertical pur et explose en dévers, où chaque centimètre d'éloignement entre le bassin et la paroi multiplie le bras de levier que les bras doivent compenser. Sur un dévers à 30 degrés, une hanche correctement pivotée économise 40 à 60 % de la traction nécessaire en position neutre."
-    },
-    {
-      "type": "p",
-      "html": "Le travail de la hanche s'apprend en deux temps. D'abord la prise de conscience du mouvement, qui passe par des exercices au sol et des répétitions lentes sur mur vertical. Ensuite l'automatisation, qui exige plusieurs mois de pratique répétée jusqu'à ce que le pivot devienne réflexe. Le <a href=\"/blog/placement-corps-equilibre\">placement du corps en équilibre</a> repose largement sur cette compétence de hanche."
-    },
-    {
-      "type": "h2",
-      "text": "Les deux rotations fondamentales du fémur"
-    },
-    {
-      "type": "p",
-      "html": "Anatomiquement, le fémur tourne dans la cavité cotyloïde du bassin selon deux axes principaux. La <strong>rotation interne</strong> oriente le genou vers l'intérieur du corps, comme quand tu tournes ta jambe pour la coller contre l'autre. La <strong>rotation externe</strong> oriente le genou vers l'extérieur, comme dans la position du lotus en yoga. Ces deux rotations s'exploitent différemment en grimpe."
-    },
-    {
-      "type": "p",
-      "html": "La rotation interne du fémur sert la <strong>lolotte</strong>. Tu poses le pied opposé sur la prise, tu tournes la cuisse vers l'intérieur, le genou descend en oblique, le bassin pivote pour se coller à la paroi. Cette posture rapproche le centre de gravité du mur et décharge les bras. C'est le mouvement signature du grimpeur de dévers, exploité depuis les années 1980 par les pionniers de la falaise française."
-    },
-    {
-      "type": "p",
-      "html": "La rotation externe du fémur sert le <strong>drapeau</strong>. Tu poses un pied en équilibre principal, l'autre jambe s'étend en oblique vers le côté opposé, en rotation externe pour orienter le pied à plat contre le mur. Cette jambe drapeau stabilise le corps en empêchant la rotation parasite autour de l'axe vertical. Le drapeau interne et le drapeau externe sont les deux variantes, selon que la jambe libre passe sous ou par-dessus la jambe porteuse."
-    },
-    {
-      "type": "h2",
-      "text": "La mécanique précise de la lolotte"
-    },
-    {
-      "type": "p",
-      "html": "La lolotte se construit en quatre temps coordonnés. Premier temps, tu poses le pied opposé à la main saisisseuse. Si tu veux saisir avec la main droite, le pied porteur est le pied gauche. Deuxième temps, tu engages la rotation interne du fémur de la jambe porteuse. Le genou descend en oblique vers la paroi, presque vers le sol. Troisième temps, le bassin suit la rotation, la hanche du côté de la main saisisseuse s'avance vers le mur. Quatrième temps, la main libre s'étend pour saisir la prise cible, le corps tendu en oblique le long de la paroi."
-    },
-    {
-      "type": "tip",
-      "title": "Le test du papier glissé",
-      "body": "Pour valider une lolotte bien exécutée, imagine qu'une feuille de papier glissée entre ta hanche extérieure et la paroi ne devrait pas tomber. La hanche extérieure se colle au mur, ce qui prouve que le bassin a vraiment pivoté. Beaucoup de grimpeurs croient lolotter alors qu'ils gardent une distance de 20 cm entre la hanche et le mur, ce qui ruine tout l'intérêt mécanique de la posture.",
-      "tone": "astuce"
-    },
-    {
-      "type": "p",
-      "html": "La <a href=\"/blog/bloc-techniques-base\">lolotte en bloc</a> apparaît dès les niveaux 6a et devient indispensable à partir du 6c. En voie sportive, elle s'installe vers le 6b et structure la grimpe en dévers jusqu'aux plus hauts niveaux. Beaucoup de plafonds de progression entre le 6a et le 7a viennent d'une lolotte mal exécutée plutôt que d'un manque de force des doigts."
-    },
-    {
-      "type": "h2",
-      "text": "Le drapeau et la stabilisation du tronc"
-    },
-    {
-      "type": "p",
-      "html": "Le drapeau résout un problème géométrique précis, l'effet de portail. Quand tu n'as qu'un seul pied porteur et que tu cherches une prise haute avec une main, ton corps tend à tourner autour de l'axe vertical passant par le pied porteur, comme une porte qui s'ouvre. Cette rotation parasite décolle l'autre pied du mur et fait perdre l'équilibre. Le drapeau bloque cette rotation en utilisant la jambe libre comme contrepoids."
-    },
-    {
-      "type": "p",
-      "html": "Le <strong>drapeau interne</strong> passe la jambe libre sous la jambe porteuse, en croisant les deux jambes. Le pied libre s'appuie sur la paroi en rotation externe. Cette configuration convient quand la main saisisseuse est du même côté que le pied porteur. Le <strong>drapeau externe</strong> passe la jambe libre par-dessus, sans croisement. Le pied libre s'écarte du corps en rotation externe maximale. Cette configuration convient quand la main saisisseuse est du côté opposé au pied porteur."
-    },
-    {
-      "type": "p",
-      "html": "L'efficacité du drapeau dépend de la pression exercée par le pied libre contre la paroi. Plus tu pousses, plus le contrepoids est efficace, mais plus tu sollicites la chaîne musculaire interne de la cuisse. Le drapeau n'est jamais gratuit énergétiquement, c'est un investissement de gainage qui rapporte sur la décharge des bras. Au-delà de 30 secondes, il devient fatigant."
-    },
-    {
-      "type": "h2",
-      "text": "Ouverture et fermeture du bassin selon la configuration"
-    },
-    {
-      "type": "table",
-      "caption": "Choix entre bassin ouvert et bassin fermé selon le terrain",
-      "headers": [
-        "Configuration",
-        "Position bassin",
-        "Rotation principale",
-        "Profil de mur"
-      ],
-      "rows": [
-        [
-          "Saisie main droite, prise haute",
-          "Hanche droite avancée",
-          "Lolotte gauche, rotation interne",
-          "Dévers et vertical"
-        ],
-        [
-          "Saisie main droite, prise basse",
-          "Hanche neutre",
-          "Position de face",
-          "Dalle et vertical"
-        ],
-        [
-          "Saisie main droite, prise latérale opposée",
-          "Hanche tournée, drapeau",
-          "Rotation externe jambe libre",
-          "Vertical et dalle"
-        ],
-        [
-          "Saisie main droite, prise lointaine haute",
-          "Hanche avancée plus drapeau",
-          "Combinaison double",
-          "Dévers prononcé"
-        ],
-        [
-          "Repos sur prise franche",
-          "Hanche neutre, bassin fermé",
-          "Détente musculaire",
-          "Toute configuration"
-        ]
-      ]
-    },
-    {
-      "type": "p",
-      "html": "Le bassin fermé, c'est-à-dire en position neutre face à la paroi, s'utilise sur les profils où la gravité plaque naturellement le corps. Dalle et vertical légèrement positif acceptent cette position sans pénalité énergétique. Dès que la paroi se redresse vers le vertical pur ou bascule en dévers, le bassin doit s'ouvrir ou pivoter pour maintenir l'efficacité du mouvement."
-    },
-    {
-      "type": "h2",
-      "text": "Le gainage qui transmet la rotation"
-    },
-    {
-      "type": "p",
-      "html": "Une rotation de hanche reste théorique sans <strong>gainage du tronc</strong> pour la transmettre jusqu'à l'épaule. Le tronc agit comme une poutre rigide entre le bassin et la ceinture scapulaire. Si la poutre se déforme, la rotation se dissipe en chemin et n'atteint jamais l'épaule. Beaucoup de grimpeurs débutants tournent leur hanche correctement mais perdent toute la rotation dans un tronc flasque."
-    },
-    {
-      "type": "p",
-      "html": "Le gainage utile à la grimpe n'est pas le gainage de force pure type planche statique de cinq minutes. C'est un gainage <strong>dynamique en rotation</strong>, qui résiste aux contraintes obliques imposées par les positions de bassin pivoté. Les exercices type planche latérale en rotation, mouvement du chasseur d'ours, ou rotations contrôlées en posture debout, développent précisément cette compétence."
-    },
-    {
-      "type": "p",
-      "html": "Le <a href=\"/blog/tirer-bras-jambes-grimpe\">recours aux jambes</a> en grimpe passe par cette chaîne complète, jambes plus bassin plus tronc plus bras. Le maillon faible détermine la performance générale. Pour le grimpeur intermédiaire, le maillon faible est presque toujours le gainage rotatif du tronc, rarement la force des bras."
-    },
-    {
-      "type": "h2",
-      "text": "Travailler la souplesse de hanche au sol"
-    },
-    {
-      "type": "p",
-      "html": "La rotation de hanche dépend mécaniquement de l'amplitude articulaire disponible. Une hanche raide ne pivote pas, quel que soit le talent technique du grimpeur. Le travail de souplesse au sol précède donc le travail technique sur mur. Trois positions clés à intégrer dans la routine hebdomadaire."
-    },
-    {
-      "type": "list",
-      "variant": "numbered",
-      "title": "Trois positions au sol pour libérer la hanche",
-      "items": [
-        {
-          "title": "Position du pigeon",
-          "body": "Genou avant fléchi en rotation externe, jambe arrière tendue. Maintien 60 à 90 secondes par côté. Mobilise le piriforme et les rotateurs externes. Position fondamentale pour le drapeau."
-        },
-        {
-          "title": "Position du papillon",
-          "body": "Assis, plantes de pied collées, genoux écartés. Pression douce des coudes sur les genoux. Mobilise les adducteurs et la rotation externe maximale. Indispensable pour la lolotte profonde."
-        },
-        {
-          "title": "Position 90-90",
-          "body": "Assis, jambe avant à 90 degrés vers l'avant en rotation externe, jambe arrière à 90 degrés sur le côté en rotation interne. Travail combiné des deux rotations. Position avancée."
-        },
-        {
-          "title": "Étirement du psoas",
-          "body": "Fente avant profonde, genou arrière au sol, bassin avancé vers l'avant. Libère le fléchisseur de hanche, souvent raide chez les grimpeurs sédentaires en dehors des séances."
-        }
-      ]
-    },
-    {
-      "type": "p",
-      "html": "Cette routine prend dix à quinze minutes deux à trois fois par semaine. Les gains apparaissent en trois à six mois pour une personne adulte non entraînée à la souplesse. Au-delà, la souplesse stabilise et se conserve facilement. Beaucoup de grimpeurs négligent ce travail et finissent par plafonner techniquement, faute d'amplitude de hanche disponible."
-    },
-    {
-      "type": "h2",
-      "text": "Les erreurs courantes de pivot"
-    },
-    {
-      "type": "p",
-      "html": "Première erreur, la hanche qui pivote sans engagement du tronc. Tu tournes la jambe mais le bassin reste face au mur, ce qui ruine l'intérêt mécanique. La correction passe par la conscience du transfert, tu sens la hanche extérieure s'approcher du mur, pas seulement le genou descendre. Si la hanche extérieure ne touche pas la paroi, le pivot n'a pas eu lieu."
-    },
-    {
-      "type": "p",
-      "html": "Deuxième erreur, le pivot avec retard. Tu engages la rotation seulement après avoir lâché la prise précédente, ce qui te fait perdre une fraction de seconde décisive. Le pivot doit s'amorcer pendant que les deux mains sont encore en contact, comme une anticipation préparatoire. C'est ce qui rend le mouvement fluide plutôt que saccadé."
-    },
-    {
-      "type": "p",
-      "html": "Troisième erreur, le pivot excessif. Tu tournes la hanche au-delà de l'amplitude utile, ce qui décolle le pied porteur de sa prise. Le pivot maximal n'est pas toujours le pivot optimal. Tu cherches le degré de rotation qui rapproche suffisamment le bassin du mur sans déstabiliser le pied porteur. La <a href=\"/blog/poser-pieds-escalade-placement\">précision du pied porteur</a> conditionne toute la mécanique du pivot."
-    },
-    {
-      "type": "h2",
-      "text": "Le pivot dans la lecture de voie"
-    },
-    {
-      "type": "p",
-      "html": "Lire une voie avec le pivot en tête change la perception des séquences. Sur chaque mouvement, tu te demandes quelle hanche s'avance, quelle rotation se met en place, quel pied porteur supporte le transfert. Cette lecture en termes de bassin remplace progressivement la lecture en termes de prises de main, qui reste l'approche dominante du grimpeur débutant."
-    },
-    {
-      "type": "p",
-      "html": "Pour entraîner cette lecture, observe les grimpeurs forts dans ta salle. Regarde leurs hanches plus que leurs bras. Tu remarques que chaque mouvement engage une rotation, parfois subtile, parfois marquée. Les meilleurs grimpeurs vivent dans la rotation permanente du bassin, jamais en position neutre prolongée. La <a href=\"/blog/lecture-voie-strategie\">lecture stratégique de voie</a> intègre cette dimension dès qu'on la pratique consciemment."
-    },
-    {
-      "type": "quote",
-      "text": "Mon coach FFME m'a dit un jour, tes mains finissent juste le travail que tes hanches ont commencé. Cette phrase a changé ma grimpe. Avant je tirais avec les bras, après je faisais tourner mon bassin et les bras suivaient.",
-      "author": "Antoine",
-      "role": "grimpeur 8a, formé au lycée Camille Sée Colmar"
-    },
-    {
-      "type": "h2",
-      "text": "Quand la rotation atteint ses limites"
-    },
-    {
-      "type": "p",
-      "html": "La rotation de hanche reste un outil puissant mais pas universel. Sur certaines configurations, le pivot ne sert à rien voire dégrade la situation. En dalle pure sans dévers, la position neutre face au mur fonctionne parfaitement et le pivot perd son intérêt. Sur les prises de pied minuscules qui n'autorisent aucune force latérale, le pivot fait riper le pied porteur."
-    },
-    {
-      "type": "p",
-      "html": "Sur les passages en toit horizontal, la rotation classique cède la place à des techniques spécifiques type crochet de talon ou crochet de pointe, où la jambe travaille en flexion plutôt qu'en rotation. Le <a href=\"/blog/toit-escalade-engagement\">toit en escalade</a> redéfinit complètement la grammaire du mouvement et impose un répertoire technique distinct."
-    },
-    {
-      "type": "p",
-      "html": "Enfin, la rotation suppose une amplitude articulaire disponible. Un grimpeur à hanche structurellement raide, suite à une chirurgie ou une pathologie, doit développer des stratégies de compensation. Le pivot reste alors un outil parmi d'autres plutôt que la solution dominante. La grimpe accepte cette diversité de morphologies et permet à chacun de construire son répertoire personnel."
-    }
+    {"type": "h2", "text": "Pourquoi la hanche compte plus que les bras"},
+    {"type": "p", "html": "La hanche est le pivot central du corps en grimpe. Tout ce qui se passe entre le pied porteur et la main saisisseuse transite par le bassin. Si la hanche grimpe en position neutre, c'est-à-dire de face contre la paroi, les épaules restent éloignées du mur et les bras travaillent en traction pure. Le coût énergétique est élevé, l'autonomie sur la voie courte. Si la hanche pivote, le bassin se rapproche de la paroi, les épaules suivent, les bras se déchargent."},
+    {"type": "p", "html": "Cette différence n'apparaît pas en dalle légère où la gravité aide à plaquer le corps. Elle devient déterminante en vertical pur et explose en dévers, où chaque centimètre d'éloignement entre le bassin et la paroi multiplie le bras de levier que les bras doivent compenser. Sur un dévers à 30 degrés, une hanche correctement pivotée économise 40 à 60 % de la traction nécessaire en position neutre."},
+    {"type": "p", "html": "Le travail de la hanche s'apprend en deux temps. D'abord la prise de conscience du mouvement, qui passe par des exercices au sol et des répétitions lentes sur mur vertical. Ensuite l'automatisation, qui exige plusieurs mois de pratique répétée jusqu'à ce que le pivot devienne réflexe. Le <a href=\"/blog/placement-corps-equilibre\">placement du corps en équilibre</a> repose largement sur cette compétence de hanche."},
+    {"type": "h2", "text": "Les deux rotations fondamentales du fémur"},
+    {"type": "p", "html": "Anatomiquement, le fémur tourne dans la cavité cotyloïde du bassin selon deux axes principaux. La <strong>rotation interne</strong> oriente le genou vers l'intérieur du corps, comme quand tu tournes ta jambe pour la coller contre l'autre. La <strong>rotation externe</strong> oriente le genou vers l'extérieur, comme dans la position du lotus en yoga. Ces deux rotations s'exploitent différemment en grimpe."},
+    {"type": "p", "html": "La rotation interne du fémur sert la <strong>lolotte</strong>. Tu poses le pied opposé sur la prise, tu tournes la cuisse vers l'intérieur, le genou descend en oblique, le bassin pivote pour se coller à la paroi. Cette posture rapproche le centre de gravité du mur et décharge les bras. C'est le mouvement signature du grimpeur de dévers, exploité depuis les années 1980 par les pionniers de la falaise française."},
+    {"type": "p", "html": "La rotation externe du fémur sert le <strong>drapeau</strong>. Tu poses un pied en équilibre principal, l'autre jambe s'étend en oblique vers le côté opposé, en rotation externe pour orienter le pied à plat contre le mur. Cette jambe drapeau stabilise le corps en empêchant la rotation parasite autour de l'axe vertical. Le drapeau interne et le drapeau externe sont les deux variantes, selon que la jambe libre passe sous ou par-dessus la jambe porteuse."},
+    {"type": "h2", "text": "La mécanique précise de la lolotte"},
+    {"type": "p", "html": "La lolotte se construit en quatre temps coordonnés. Premier temps, tu poses le pied opposé à la main saisisseuse. Si tu veux saisir avec la main droite, le pied porteur est le pied gauche. Deuxième temps, tu engages la rotation interne du fémur de la jambe porteuse. Le genou descend en oblique vers la paroi, presque vers le sol. Troisième temps, le bassin suit la rotation, la hanche du côté de la main saisisseuse s'avance vers le mur. Quatrième temps, la main libre s'étend pour saisir la prise cible, le corps tendu en oblique le long de la paroi."},
+    {"type": "tip", "title": "Le test du papier glissé", "body": "Pour valider une lolotte bien exécutée, imagine qu'une feuille de papier glissée entre ta hanche extérieure et la paroi ne devrait pas tomber. La hanche extérieure se colle au mur, ce qui prouve que le bassin a vraiment pivoté. Beaucoup de grimpeurs croient lolotter alors qu'ils gardent une distance de 20 cm entre la hanche et le mur, ce qui ruine tout l'intérêt mécanique de la posture.", "tone": "astuce"},
+    {"type": "p", "html": "La <a href=\"/blog/bloc-techniques-base\">lolotte en bloc</a> apparaît dès les niveaux 6a et devient indispensable à partir du 6c. En voie sportive, elle s'installe vers le 6b et structure la grimpe en dévers jusqu'aux plus hauts niveaux. Beaucoup de plafonds de progression entre le 6a et le 7a viennent d'une lolotte mal exécutée plutôt que d'un manque de force des doigts."},
+    {"type": "h2", "text": "Le drapeau et la stabilisation du tronc"},
+    {"type": "p", "html": "Le drapeau résout un problème géométrique précis, l'effet de portail. Quand tu n'as qu'un seul pied porteur et que tu cherches une prise haute avec une main, ton corps tend à tourner autour de l'axe vertical passant par le pied porteur, comme une porte qui s'ouvre. Cette rotation parasite décolle l'autre pied du mur et fait perdre l'équilibre. Le drapeau bloque cette rotation en utilisant la jambe libre comme contrepoids."},
+    {"type": "p", "html": "Le <strong>drapeau interne</strong> passe la jambe libre sous la jambe porteuse, en croisant les deux jambes. Le pied libre s'appuie sur la paroi en rotation externe. Cette configuration convient quand la main saisisseuse est du même côté que le pied porteur. Le <strong>drapeau externe</strong> passe la jambe libre par-dessus, sans croisement. Le pied libre s'écarte du corps en rotation externe maximale. Cette configuration convient quand la main saisisseuse est du côté opposé au pied porteur."},
+    {"type": "p", "html": "L'efficacité du drapeau dépend de la pression exercée par le pied libre contre la paroi. Plus tu pousses, plus le contrepoids est efficace, mais plus tu sollicites la chaîne musculaire interne de la cuisse. Le drapeau n'est jamais gratuit énergétiquement, c'est un investissement de gainage qui rapporte sur la décharge des bras. Au-delà de 30 secondes, il devient fatigant."},
+    {"type": "h2", "text": "Ouverture et fermeture du bassin selon la configuration"},
+    {"type": "table", "caption": "Choix entre bassin ouvert et bassin fermé selon le terrain", "headers": ["Configuration", "Position bassin", "Rotation principale", "Profil de mur"], "rows": [
+      ["Saisie main droite, prise haute", "Hanche droite avancée", "Lolotte gauche, rotation interne", "Dévers et vertical"],
+      ["Saisie main droite, prise basse", "Hanche neutre", "Position de face", "Dalle et vertical"],
+      ["Saisie main droite, prise latérale opposée", "Hanche tournée, drapeau", "Rotation externe jambe libre", "Vertical et dalle"],
+      ["Saisie main droite, prise lointaine haute", "Hanche avancée plus drapeau", "Combinaison double", "Dévers prononcé"],
+      ["Repos sur prise franche", "Hanche neutre, bassin fermé", "Détente musculaire", "Toute configuration"]
+    ]},
+    {"type": "p", "html": "Le bassin fermé, c'est-à-dire en position neutre face à la paroi, s'utilise sur les profils où la gravité plaque naturellement le corps. Dalle et vertical légèrement positif acceptent cette position sans pénalité énergétique. Dès que la paroi se redresse vers le vertical pur ou bascule en dévers, le bassin doit s'ouvrir ou pivoter pour maintenir l'efficacité du mouvement."},
+    {"type": "h2", "text": "Le gainage qui transmet la rotation"},
+    {"type": "p", "html": "Une rotation de hanche reste théorique sans <strong>gainage du tronc</strong> pour la transmettre jusqu'à l'épaule. Le tronc agit comme une poutre rigide entre le bassin et la ceinture scapulaire. Si la poutre se déforme, la rotation se dissipe en chemin et n'atteint jamais l'épaule. Beaucoup de grimpeurs débutants tournent leur hanche correctement mais perdent toute la rotation dans un tronc flasque."},
+    {"type": "p", "html": "Le gainage utile à la grimpe n'est pas le gainage de force pure type planche statique de cinq minutes. C'est un gainage <strong>dynamique en rotation</strong>, qui résiste aux contraintes obliques imposées par les positions de bassin pivoté. Les exercices type planche latérale en rotation, mouvement du chasseur d'ours, ou rotations contrôlées en posture debout, développent précisément cette compétence."},
+    {"type": "p", "html": "Le <a href=\"/blog/tirer-bras-jambes-grimpe\">recours aux jambes</a> en grimpe passe par cette chaîne complète, jambes plus bassin plus tronc plus bras. Le maillon faible détermine la performance générale. Pour le grimpeur intermédiaire, le maillon faible est presque toujours le gainage rotatif du tronc, rarement la force des bras."},
+    {"type": "h2", "text": "Travailler la souplesse de hanche au sol"},
+    {"type": "p", "html": "La rotation de hanche dépend mécaniquement de l'amplitude articulaire disponible. Une hanche raide ne pivote pas, quel que soit le talent technique du grimpeur. Le travail de souplesse au sol précède donc le travail technique sur mur. Trois positions clés à intégrer dans la routine hebdomadaire."},
+    {"type": "list", "variant": "numbered", "title": "Trois positions au sol pour libérer la hanche", "items": [
+      {"title": "Position du pigeon", "body": "Genou avant fléchi en rotation externe, jambe arrière tendue. Maintien 60 à 90 secondes par côté. Mobilise le piriforme et les rotateurs externes. Position fondamentale pour le drapeau."},
+      {"title": "Position du papillon", "body": "Assis, plantes de pied collées, genoux écartés. Pression douce des coudes sur les genoux. Mobilise les adducteurs et la rotation externe maximale. Indispensable pour la lolotte profonde."},
+      {"title": "Position 90-90", "body": "Assis, jambe avant à 90 degrés vers l'avant en rotation externe, jambe arrière à 90 degrés sur le côté en rotation interne. Travail combiné des deux rotations. Position avancée."},
+      {"title": "Étirement du psoas", "body": "Fente avant profonde, genou arrière au sol, bassin avancé vers l'avant. Libère le fléchisseur de hanche, souvent raide chez les grimpeurs sédentaires en dehors des séances."}
+    ]},
+    {"type": "p", "html": "Cette routine prend dix à quinze minutes deux à trois fois par semaine. Les gains apparaissent en trois à six mois pour une personne adulte non entraînée à la souplesse. Au-delà, la souplesse stabilise et se conserve facilement. Beaucoup de grimpeurs négligent ce travail et finissent par plafonner techniquement, faute d'amplitude de hanche disponible."},
+    {"type": "h2", "text": "Les erreurs courantes de pivot"},
+    {"type": "p", "html": "Première erreur, la hanche qui pivote sans engagement du tronc. Tu tournes la jambe mais le bassin reste face au mur, ce qui ruine l'intérêt mécanique. La correction passe par la conscience du transfert, tu sens la hanche extérieure s'approcher du mur, pas seulement le genou descendre. Si la hanche extérieure ne touche pas la paroi, le pivot n'a pas eu lieu."},
+    {"type": "p", "html": "Deuxième erreur, le pivot avec retard. Tu engages la rotation seulement après avoir lâché la prise précédente, ce qui te fait perdre une fraction de seconde décisive. Le pivot doit s'amorcer pendant que les deux mains sont encore en contact, comme une anticipation préparatoire. C'est ce qui rend le mouvement fluide plutôt que saccadé."},
+    {"type": "p", "html": "Troisième erreur, le pivot excessif. Tu tournes la hanche au-delà de l'amplitude utile, ce qui décolle le pied porteur de sa prise. Le pivot maximal n'est pas toujours le pivot optimal. Tu cherches le degré de rotation qui rapproche suffisamment le bassin du mur sans déstabiliser le pied porteur. La <a href=\"/blog/poser-pieds-escalade-placement\">précision du pied porteur</a> conditionne toute la mécanique du pivot."},
+    {"type": "h2", "text": "Le pivot dans la lecture de voie"},
+    {"type": "p", "html": "Lire une voie avec le pivot en tête change la perception des séquences. Sur chaque mouvement, tu te demandes quelle hanche s'avance, quelle rotation se met en place, quel pied porteur supporte le transfert. Cette lecture en termes de bassin remplace progressivement la lecture en termes de prises de main, qui reste l'approche dominante du grimpeur débutant."},
+    {"type": "p", "html": "Pour entraîner cette lecture, observe les grimpeurs forts dans ta salle. Regarde leurs hanches plus que leurs bras. Tu remarques que chaque mouvement engage une rotation, parfois subtile, parfois marquée. Les meilleurs grimpeurs vivent dans la rotation permanente du bassin, jamais en position neutre prolongée. La <a href=\"/blog/lecture-voie-strategie\">lecture stratégique de voie</a> intègre cette dimension dès qu'on la pratique consciemment."},
+    {"type": "quote", "text": "Mon coach FFME m'a dit un jour, tes mains finissent juste le travail que tes hanches ont commencé. Cette phrase a changé ma grimpe. Avant je tirais avec les bras, après je faisais tourner mon bassin et les bras suivaient.", "author": "Antoine", "role": "grimpeur 8a, formé au lycée Camille Sée Colmar"},
+    {"type": "h2", "text": "Quand la rotation atteint ses limites"},
+    {"type": "p", "html": "La rotation de hanche reste un outil puissant mais pas universel. Sur certaines configurations, le pivot ne sert à rien voire dégrade la situation. En dalle pure sans dévers, la position neutre face au mur fonctionne parfaitement et le pivot perd son intérêt. Sur les prises de pied minuscules qui n'autorisent aucune force latérale, le pivot fait riper le pied porteur."},
+    {"type": "p", "html": "Sur les passages en toit horizontal, la rotation classique cède la place à des techniques spécifiques type crochet de talon ou crochet de pointe, où la jambe travaille en flexion plutôt qu'en rotation. Le <a href=\"/blog/toit-escalade-engagement\">toit en escalade</a> redéfinit complètement la grammaire du mouvement et impose un répertoire technique distinct."},
+    {"type": "p", "html": "Enfin, la rotation suppose une amplitude articulaire disponible. Un grimpeur à hanche structurellement raide, suite à une chirurgie ou une pathologie, doit développer des stratégies de compensation. Le pivot reste alors un outil parmi d'autres plutôt que la solution dominante. La grimpe accepte cette diversité de morphologies et permet à chacun de construire son répertoire personnel."}
   ],
   "faq": [
-    {
-      "q": "Pourquoi je n'arrive pas à coller ma hanche au mur en lolotte ?",
-      "a": "Trois causes principales. Premièrement, le manque d'amplitude de rotation interne de la hanche, qui se travaille au sol avec position du papillon et du pigeon. Deuxièmement, l'absence de gainage rotatif du tronc, qui empêche la transmission de la rotation jusqu'à l'épaule. Troisièmement, un pied porteur mal posé qui ne supporte pas le transfert de charge nécessaire au pivot. Les trois axes se travaillent en parallèle, comptez trois à six mois pour un changement visible."
-    },
-    {
-      "q": "Le pivot est-il vraiment important en dalle ?",
-      "a": "Modérément. La dalle pure accepte la position neutre face au mur parce que la gravité plaque naturellement le corps contre la paroi. Le pivot devient utile sur les dalles techniques qui imposent des transferts latéraux ou des prises lointaines. Pour la dalle facile en moulinette, position neutre suffit. Pour la dalle exigeante au-delà du 6b, le pivot redevient un outil utile pour économiser les bras et atteindre les prises éloignées."
-    },
-    {
-      "q": "Faut-il être souple pour bien tourner ses hanches ?",
-      "a": "Oui, partiellement. Une amplitude minimale de rotation interne et externe de hanche est nécessaire pour exécuter correctement lolotte et drapeau. Cette amplitude se travaille au sol avec étirements réguliers, comptez trois à six mois pour des gains significatifs chez un adulte non entraîné. Au-delà d'un seuil de base, la souplesse supérieure aide marginalement mais cesse d'être limitante. Le travail technique devient alors plus rentable que le travail de souplesse supplémentaire."
-    },
-    {
-      "q": "Quelle différence entre drapeau interne et drapeau externe ?",
-      "a": "Le drapeau interne croise la jambe libre sous la jambe porteuse, le pied libre s'appuie sur la paroi avec rotation externe modérée. S'utilise quand la main saisisseuse est du même côté que le pied porteur. Le drapeau externe passe la jambe libre par-dessus, sans croisement, avec rotation externe maximale. S'utilise quand la main saisisseuse est du côté opposé au pied porteur. Les deux variantes résolvent l'effet de portail mais s'appliquent dans des configurations différentes."
-    },
-    {
-      "q": "Quel est l'exercice le plus rentable pour améliorer la rotation de hanche ?",
-      "a": "Position du pigeon en yoga, maintenue 60 à 90 secondes par côté, trois fois par semaine. Cet étirement mobilise les rotateurs externes, le piriforme et les fessiers, qui conditionnent la majorité des mouvements de rotation utiles en grimpe. À combiner avec un travail dynamique sur mur en répétition consciente de lolottes lentes sur configuration facile. La combinaison souplesse passive plus geste actif donne les meilleurs résultats sur trois à six mois."
-    }
+    {"q": "Pourquoi je n'arrive pas à coller ma hanche au mur en lolotte ?", "a": "Trois causes principales. Premièrement, le manque d'amplitude de rotation interne de la hanche, qui se travaille au sol avec position du papillon et du pigeon. Deuxièmement, l'absence de gainage rotatif du tronc, qui empêche la transmission de la rotation jusqu'à l'épaule. Troisièmement, un pied porteur mal posé qui ne supporte pas le transfert de charge nécessaire au pivot. Les trois axes se travaillent en parallèle, comptez trois à six mois pour un changement visible."},
+    {"q": "Le pivot est-il vraiment important en dalle ?", "a": "Modérément. La dalle pure accepte la position neutre face au mur parce que la gravité plaque naturellement le corps contre la paroi. Le pivot devient utile sur les dalles techniques qui imposent des transferts latéraux ou des prises lointaines. Pour la dalle facile en moulinette, position neutre suffit. Pour la dalle exigeante au-delà du 6b, le pivot redevient un outil utile pour économiser les bras et atteindre les prises éloignées."},
+    {"q": "Faut-il être souple pour bien tourner ses hanches ?", "a": "Oui, partiellement. Une amplitude minimale de rotation interne et externe de hanche est nécessaire pour exécuter correctement lolotte et drapeau. Cette amplitude se travaille au sol avec étirements réguliers, comptez trois à six mois pour des gains significatifs chez un adulte non entraîné. Au-delà d'un seuil de base, la souplesse supérieure aide marginalement mais cesse d'être limitante. Le travail technique devient alors plus rentable que le travail de souplesse supplémentaire."},
+    {"q": "Quelle différence entre drapeau interne et drapeau externe ?", "a": "Le drapeau interne croise la jambe libre sous la jambe porteuse, le pied libre s'appuie sur la paroi avec rotation externe modérée. S'utilise quand la main saisisseuse est du même côté que le pied porteur. Le drapeau externe passe la jambe libre par-dessus, sans croisement, avec rotation externe maximale. S'utilise quand la main saisisseuse est du côté opposé au pied porteur. Les deux variantes résolvent l'effet de portail mais s'appliquent dans des configurations différentes."},
+    {"q": "Quel est l'exercice le plus rentable pour améliorer la rotation de hanche ?", "a": "Position du pigeon en yoga, maintenue 60 à 90 secondes par côté, trois fois par semaine. Cet étirement mobilise les rotateurs externes, le piriforme et les fessiers, qui conditionnent la majorité des mouvements de rotation utiles en grimpe. À combiner avec un travail dynamique sur mur en répétition consciente de lolottes lentes sur configuration facile. La combinaison souplesse passive plus geste actif donne les meilleurs résultats sur trois à six mois."}
   ],
   "cover_alt": "Grimpeur en position de lolotte sur un dévers en salle, hanche droite collée contre la paroi, genou gauche orienté en oblique vers le bas, main droite tendue vers une prise jaune en hauteur, lumière latérale",
   "internal_links": [
-    {
-      "slug": "placement-corps-equilibre",
-      "anchor": "placement du corps en équilibre",
-      "context": "fondamentaux"
-    },
-    {
-      "slug": "bloc-techniques-base",
-      "anchor": "lolotte en bloc",
-      "context": "application bloc"
-    },
-    {
-      "slug": "tirer-bras-jambes-grimpe",
-      "anchor": "recours aux jambes",
-      "context": "chaîne biomécanique"
-    },
-    {
-      "slug": "poser-pieds-escalade-placement",
-      "anchor": "précision du pied porteur",
-      "context": "base du pivot"
-    },
-    {
-      "slug": "lecture-voie-strategie",
-      "anchor": "lecture stratégique de voie",
-      "context": "tactique"
-    },
-    {
-      "slug": "toit-escalade-engagement",
-      "anchor": "toit en escalade",
-      "context": "limite technique"
-    },
-    {
-      "slug": "apprendre-escalade-debutant-2026",
-      "anchor": "progresser en escalade",
-      "context": "pilier cocon"
-    }
+    {"slug": "placement-corps-equilibre", "anchor": "placement du corps en équilibre", "context": "fondamentaux"},
+    {"slug": "bloc-techniques-base", "anchor": "lolotte en bloc", "context": "application bloc"},
+    {"slug": "tirer-bras-jambes-grimpe", "anchor": "recours aux jambes", "context": "chaîne biomécanique"},
+    {"slug": "poser-pieds-escalade-placement", "anchor": "précision du pied porteur", "context": "base du pivot"},
+    {"slug": "lecture-voie-strategie", "anchor": "lecture stratégique de voie", "context": "tactique"},
+    {"slug": "toit-escalade-engagement", "anchor": "toit en escalade", "context": "limite technique"},
+    {"slug": "apprendre-escalade-debutant-2026", "anchor": "progresser en escalade", "context": "pilier cocon"}
   ],
   "scheduled_at": "2026-07-04T09:00:00+02:00"
 }

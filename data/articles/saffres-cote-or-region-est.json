@@ -68,7 +68,7 @@
     },
     {
       "type": "p",
-      "html": "Le secteur de la Miraude est le plus connu et le plus fréquenté de Saffres. Une cinquantaine de voies du 5a au 7b, hauteur moyenne 20 mètres, exposition sud-ouest qui donne du soleil à partir du début d'après-midi. Le rocher y est particulièrement compact, les prises bien nettes, l'équipement récent. La voie phare, simplement nommée La Miraude et cotée 6c, attaque sur une dalle à coulées avant de basculer sur un mur vertical où il faut savoir doser ses appuis."
+      "html": "Le secteur de la Miraude est le plus connu et le plus fréquenté de Saffres. Une cinquantaine de voies du 5a au 7b, hauteur moyenne 20 mètres, exposition sud-ouest qui donne du soleil à partir du début d'après-midi. Le rocher y est particulièrement compact, les prises bien nettes, l'équipement récent. La voie phare, simplement nommée <strong>La Miraude</strong> et cotée 6c, attaque sur une dalle à coulées avant de basculer sur un mur vertical où il faut savoir doser ses appuis."
     },
     {
       "type": "p",
@@ -88,7 +88,7 @@
     },
     {
       "type": "p",
-      "html": "Une dizaine de voies de niveau 7 et 8 ont été ouvertes ici dans les années 2000 et 2010 par les forts locaux, notamment dans le secteur du Pendule. La voie Pendule du Diable, cotée 8a, reste l'une des plus belles lignes du site, avec un passage en dévers court mais intense qui demande puissance et lecture. Le rocher y est plus marqué par les coulées, l'adhérence parfaite si le rocher est sec."
+      "html": "Une dizaine de voies de niveau 7 et 8 ont été ouvertes ici dans les années 2000 et 2010 par les forts locaux, notamment dans le secteur du Pendule. La voie <strong>Pendule du Diable</strong>, cotée 8a, reste l'une des plus belles lignes du site, avec un passage en dévers court mais intense qui demande puissance et lecture. Le rocher y est plus marqué par les coulées, l'adhérence parfaite si le rocher est sec."
     },
     {
       "type": "list",
@@ -136,6 +136,10 @@
     {
       "type": "p",
       "html": "Saffres est avant tout un site de niveau intermédiaire. Le débutant qui sort de salle y trouvera ses premiers 5a et 5b en falaise dans des conditions très favorables. Le grimpeur autonome cherchant à consolider son 6 y trouvera des dizaines de voies tendues mais accessibles. Le grimpeur fort y trouvera quelques 7 et 8 corrects mais ce n'est pas la destination pour ce profil. Compare avec <a href=\"/blog/saussois-yonne-bourgogne\">le Saussois dans l'Yonne</a> pour un autre site bourguignon plus orienté grimpeurs confirmés."
+    },
+    {
+      "type": "p",
+      "html": "L'autre force de Saffres tient à sa communauté grimpeuse. Le club CAF de Dijon organise des sorties hebdomadaires d'avril à octobre, le club FFME de Beaune monte régulièrement, et plusieurs grimpeurs indépendants entretiennent les voies bénévolement. Cette densité humaine garantit la qualité de l'équipement et la transmission du savoir entre générations. Quand tu grimpes à Saffres un dimanche matin, tu croises souvent les mêmes têtes depuis vingt ans, ce qui donne une chaleur particulière au site."
     },
     {
       "type": "tip",

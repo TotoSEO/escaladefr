@@ -1,0 +1,215 @@
+{
+  "slug": "matos-trad-escalade-debutant",
+  "cocon": "materiel",
+  "type_article": "guide",
+  "numero": 61,
+  "title": "Matériel trad escalade : le guide pour s'initier sans se ruiner",
+  "h1": "Matériel pour s'initier à l'escalade traditionnelle, par où commencer",
+  "description": "Friends, coinceurs, stoppers, Tricams : le guide pour comprendre et acheter son premier set de matériel trad, budget, marques et progression.",
+  "chapo": "Le trad fascine beaucoup de grimpeurs mais le matériel intimide souvent au point qu'on n'ose pas franchir le cap. Friends, coinceurs passifs, Tricams, sangles longues, tampons, l'inventaire semble énorme. La vérité, c'est qu'un set d'initiation à 400-500 € suffit à grimper en autonomie sur des voies adaptées. Ce guide explique quoi acheter, dans quel ordre et chez quelle marque.",
+  "takeaways": [
+    "Un set trad d'initiation coûte 400 à 600 €, à comparer aux 200 € d'un set sportif équivalent.",
+    "Le coinceur mécanique (cam ou friend) est l'élément principal du set moderne, en 5 ou 6 tailles.",
+    "Black Diamond Camalot et Wild Country Friend dominent le marché, DMM Dragon comme alternative haut de gamme.",
+    "Les coinceurs passifs type stoppers complètent en tailles fines (1 à 6) et Tricams pour les fissures parallèles.",
+    "L'initiation passe obligatoirement par un encadrement, en stage ou avec un grimpeur expérimenté."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Comprendre la logique du matériel trad"
+    },
+    {
+      "type": "p",
+      "html": "L'escalade traditionnelle, ou trad, consiste à grimper sur des voies non équipées en plaçant soi-même les protections au fur et à mesure de la progression. Le grimpeur retire les protections au passage du second, le rocher reste vierge. Cette pratique demande un matériel spécifique : les <strong>protections amovibles</strong>, conçues pour se coincer dans les fissures et résister à une chute, puis se retirer sans abîmer le rocher."
+    },
+    {
+      "type": "p",
+      "html": "Deux grandes familles de protections coexistent. Les <strong>coinceurs mécaniques</strong>, appelés cams en anglais, friends en français, sont des dispositifs à cames articulées qui s'écartent dans la fissure quand on tire dessus. Les <strong>coinceurs passifs</strong>, type stoppers, hexcentriques ou Tricams, sont des pièces de métal massif qu'on coince dans un rétrécissement de fissure. Les deux familles se complètent et un set trad complet en contient des deux types."
+    },
+    {
+      "type": "p",
+      "html": "Ma première sortie trad, c'était à Annot avec un pote de club qui avait déjà 5 ans de trad au compteur. On a fait une voie 4c en deux longueurs où il plaçait toutes les protections, je suivais en les retirant. Cette première sortie en mode 'second pédagogique' m'a appris plus que trois livres sur le sujet. Le geste, le bruit du cam qui claque, le glissement du stopper, tout ça s'apprend en faisant."
+    },
+    {
+      "type": "h2",
+      "text": "Les coinceurs mécaniques, coeur du set trad moderne"
+    },
+    {
+      "type": "p",
+      "html": "Le coinceur mécanique a révolutionné le trad dans les années 70 avec l'invention du Friend par Ray Jardine. Le principe : quatre cames sur un axe central, ressorts qui les écartent par défaut, gâchette qui les referme pour l'insertion dans la fissure. Une fois la gâchette relâchée, les cames se réouvrent et coincent l'engin dans la roche. À la traction, l'angle des cames augmente la pression contre les parois, ce qui multiplie la résistance."
+    },
+    {
+      "type": "p",
+      "html": "Le marché actuel est dominé par trois grandes marques. Black Diamond avec sa gamme <strong>Camalot Z4</strong> (les petites tailles) et Camalot C4 (les moyennes et grandes tailles), Wild Country avec ses Friends 4e génération, DMM Dragon en alternative haut de gamme britannique. Un cam coûte entre 60 et 90 € pièce, le set de base couvre les tailles 0,3 à 3 (environ 5 unités) pour un budget de 350 à 450 €."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Trois gammes de friends à connaître",
+      "items": [
+        {
+          "title": "Black Diamond Camalot Z4 / C4",
+          "body": "Référence mondiale, marquage couleur intuitif (rouge, jaune, bleu, etc.), gâchette ergonomique. Z4 pour les petites tailles, C4 pour les standards. Compte 70-85 € pièce."
+        },
+        {
+          "title": "Wild Country Friend 4e gen",
+          "body": "Marque historique fondatrice du concept, version actuelle avec extension de tige flexible. Léger, ergonomique. Légère préférence chez certains grimpeurs européens. 65-80 € pièce."
+        },
+        {
+          "title": "DMM Dragon",
+          "body": "Cams britanniques haut de gamme, design distinctif avec tête courte et tige longue. Excellents pour fissures profondes. Plus chers, 75-90 € pièce."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Les coinceurs passifs en complément"
+    },
+    {
+      "type": "p",
+      "html": "Les <strong>stoppers</strong> ou nuts sont des pièces de métal en forme de trapèze ou de coin, montées sur câble fin terminé par une boucle pour le mousqueton. On les coince dans un rétrécissement de fissure verticale en les plaçant par le haut puis en les tirant vers le bas. Très solides, ultra-légers, peu chers (12-18 € pièce), ils complètent le set en tailles fines (1 à 6 selon les fabricants Black Diamond ou DMM) où les cams ne descendent pas."
+    },
+    {
+      "type": "p",
+      "html": "Les <strong>Tricams</strong> sont des protections passives à trois points d'appui qui se placent dans des fissures parallèles ou des trous où un cam classique a du mal à fonctionner. Inventés dans les années 80 par CAMP, ils restent moins utilisés que les cams modernes mais demeurent précieux dans des contextes spécifiques (poches, fissures de calcaire, trous). Compte 25-35 € pièce, en 4 ou 5 tailles essentielles."
+    },
+    {
+      "type": "p",
+      "html": "Les hexcentriques sont des coinceurs passifs hexagonaux, ancêtres des cams. Ils ont quasiment disparu des sets modernes au profit des friends, sauf dans les très grandes tailles où ils restent économiques. À considérer pour économiser sur les tailles 4 et 5 où un Camalot coûte 90 € contre 40 € pour un hex DMM Torque."
+    },
+    {
+      "type": "h2",
+      "text": "Sangles, dégaines et mousquetons spécifiques au trad"
+    },
+    {
+      "type": "p",
+      "html": "Le trad demande davantage de sangles longues que le sportif. Une fissure trad zigzague souvent, les points sont rarement alignés, et le tirage de corde tue la progression si tu ne prolonges pas les protections avec des sangles. Compte 6 à 8 anneaux de 60 cm en Dyneema (160-200 €) et 2 à 4 anneaux de 120 cm. Ces sangles se transforment en dégaines en y ajoutant deux mousquetons légers."
+    },
+    {
+      "type": "p",
+      "html": "Côté mousquetons, le trad consomme beaucoup. Compte 20 à 25 mousquetons à doigt clean (sans crochet pour ne pas accrocher dans les fissures) type Petzl Spirit Wire ou DMM Phantom Wire. Ces mousquetons en fil de métal sont plus légers et glissent mieux dans les fissures. Budget mousquetons : 200-300 €."
+    },
+    {
+      "type": "h2",
+      "text": "Apprendre à placer ses protections"
+    },
+    {
+      "type": "p",
+      "html": "Acheter le matériel est la partie facile. Apprendre à le placer correctement demande des mois de pratique encadrée. Une protection mal posée tient à vue mais cède à la première chute, ce qui est l'inverse du résultat recherché. Le placement de cam demande de reconnaître les fissures parallèles, les rétrécissements, les angles. Le placement de stopper exige de trouver le rétrécissement géométrique exact où il s'imbrique sans choix."
+    },
+    {
+      "type": "p",
+      "html": "Le chemin recommandé : commencer comme second pédagogique avec un grimpeur expérimenté qui pose les protections, puis basculer en tête sur des voies très basses (3, 4a) avec un système de fil rouge où chaque protection est vérifiée par le grimpeur expérimenté avant d'engager. Compte 6 à 12 mois pour devenir autonome en trad sur des voies faciles."
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Les étapes d'apprentissage du trad",
+      "items": [
+        {
+          "title": "Phase observation",
+          "body": "3 à 5 sorties comme second pédagogique où tu retires les protections placées par ton mentor. Tu apprends à reconnaître les bons placements, les angles corrects, le bruit du cam qui se met en place."
+        },
+        {
+          "title": "Phase pose au sol",
+          "body": "Avec ton propre set, tu poses des protections au sol dans des blocs fissurés. Ton mentor commente chaque placement : qualité, orientation, fiabilité. C'est l'étape qui fait progresser le plus vite."
+        },
+        {
+          "title": "Phase tête débutant",
+          "body": "Voies en 3 et 4a très courtes, avec ton mentor qui suit et vérifie chaque placement avant que tu n'avances. Le stress est élevé mais l'apprentissage est rapide."
+        },
+        {
+          "title": "Phase autonomie progressive",
+          "body": "Voies en 4 puis 5a en tête sans supervision directe, mais avec un partenaire expérimenté qui peut intervenir en cas de doute. Tu construis ton vocabulaire de placements et ta confiance."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Où pratiquer le trad en France"
+    },
+    {
+      "type": "p",
+      "html": "La France compte peu de sites trad purs comparé au Royaume-Uni ou aux États-Unis, mais quelques spots restent excellents pour l'apprentissage. Annot dans les Préalpes-Maritimes offre des grès rouges avec fissures parfaites pour les cams. La forêt de <strong>Roches-Saint-Paul</strong> en Loiret propose un terrain d'initiation accessible. Le Verdon a ses voies trad historiques mais elles sont engagées. Les Calanques de Cassis et la Sainte-Victoire conservent des itinéraires non équipés."
+    },
+    {
+      "type": "p",
+      "html": "Pour une vraie immersion trad, beaucoup de Français traversent la Manche pour le Peak District ou le Pembrokeshire au Royaume-Uni, où le trad est la culture dominante. Compte une semaine de découverte avec un guide ou un grimpeur local expérimenté pour passer un cap réel."
+    },
+    {
+      "type": "h2",
+      "text": "Budget réel et progression d'achat"
+    },
+    {
+      "type": "p",
+      "html": "Pour démarrer, n'achète pas tout d'un coup. Le set minimum pour grimper en autonomie sur du 4-5 c'est : 5 cams (Camalot Z4 et C4 tailles 0,3 à 2), un jeu de 8 stoppers, 8 sangles de 60 cm avec leurs mousquetons, 4 sangles de 120 cm, 8 dégaines extensibles, 4 mousquetons HMS. Budget total réaliste : 450 à 700 € selon les marques choisies."
+    },
+    {
+      "type": "p",
+      "html": "L'occasion via Le Bon Coin ou Vinted Sport permet d'économiser 30 à 50% sur les cams, à condition de vérifier l'état des ressorts (les cames doivent claquer franchement), des cames (pas de méplats d'usure marqués), des tiges (pas de torsion). Pour les sangles et cordelettes, l'occasion est déconseillée parce qu'on ne connaît pas l'historique des chutes encaissées."
+    },
+    {
+      "type": "tip",
+      "title": "Le mémo des codes couleur Camalot",
+      "body": "Black Diamond a standardisé un code couleur intuitif pour ses Camalot. Rouge = 0,5, jaune = 0,75, bleu = 1, gris = 2, violet = 0,4. Connaître ces couleurs permet de saisir la bonne taille d'un coup d'oeil sur le baudrier. Si tu démarres en trad, mémorise les correspondances couleur-taille avant la première sortie, ça gagne beaucoup de temps en posant ses points.",
+      "tone": "astuce"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on apprendre le trad seul, sans encadrement ?",
+      "a": "C'est techniquement possible mais fortement déconseillé. Le trad est une discipline où chaque erreur de placement peut coûter cher. Un cam mal orienté qui se déplace en chute, un stopper qui saute parce qu'il était mal coincé, c'est un facteur de chute important sur la protection suivante. Le minimum recommandé reste 5 à 10 sorties avec un grimpeur expérimenté avant de partir en tête en autonomie sur du trad."
+    },
+    {
+      "q": "Quelle différence entre Camalot Z4 et C4 ?",
+      "a": "Les deux gammes de Black Diamond couvrent des tailles complémentaires. Le Z4 est conçu pour les petites tailles (0,1 à 0,75), avec une tige plus rigide et un design optimisé pour les fissures fines de calcaire et de granit. Le C4 couvre les tailles moyennes et grandes (0,5 à 6), avec une tige flexible classique. Pour un set complet, on mélange souvent Z4 dans les petits formats et C4 dans les grands."
+    },
+    {
+      "q": "Faut-il un casque en trad ?",
+      "a": "Indispensable. Le trad se pratique sur des voies souvent peu fréquentées, le rocher peut être délité, les chutes de pierre déclenchées par le grimpeur de tête sont une réalité quotidienne. De plus, en cas de chute sur protection passive douteuse, l'inversion en tête est possible et le casque peut sauver une vie. Aucun grimpeur trad sérieux ne grimpe sans casque."
+    },
+    {
+      "q": "Combien de temps pour devenir autonome en trad ?",
+      "a": "Cela dépend totalement du rythme de pratique et de la qualité de l'encadrement. À raison d'une à deux sorties par mois avec un mentor, compte 12 à 18 mois pour grimper sereinement en autonomie sur du 5 trad. Pour viser du 6a en tête confortable, multiplie par deux. Le trad demande davantage de patience que l'escalade sportive, c'est une école de progression lente mais gratifiante."
+    },
+    {
+      "q": "Le trad est-il plus dangereux que l'escalade sportive ?",
+      "a": "Statistiquement, le trad présente un risque accidentel plus élevé que l'escalade sur voies équipées, principalement à cause des protections placées par le grimpeur qui peuvent céder en cas de mauvais placement. Cela dit, un trad pratiqué dans de bonnes conditions, sur du terrain adapté au niveau, avec des protections multiples et bien posées, reste raisonnablement sûr. Le danger augmente quand on engage des cotations limites avec peu de placements possibles."
+    }
+  ],
+  "cover_alt": "Set de friends Black Diamond Camalot accroché à un baudrier de trad, cinq tailles aux couleurs rouge jaune bleu gris violet, fond de fissure de granit en arrière-plan, lumière de matin",
+  "internal_links": [
+    {
+      "slug": "materiel-escalade-essentiel",
+      "anchor": "matériel essentiel d'escalade",
+      "context": "pilier matériel"
+    },
+    {
+      "slug": "sangles-anneaux-cousus-usage",
+      "anchor": "sangles et anneaux cousus",
+      "context": "matériel associé"
+    },
+    {
+      "slug": "mousquetons-escalade-types",
+      "anchor": "types de mousquetons",
+      "context": "matériel associé"
+    },
+    {
+      "slug": "matos-grande-voie-checklist",
+      "anchor": "checklist grande voie",
+      "context": "format de pratique proche"
+    },
+    {
+      "slug": "matos-occasion-acheter",
+      "anchor": "acheter du matos d'occasion",
+      "context": "économie matériel"
+    },
+    {
+      "slug": "choisir-casque-escalade",
+      "anchor": "choix du casque",
+      "context": "sécurité"
+    }
+  ],
+  "scheduled_at": "2026-09-24T09:00:00+02:00"
+}

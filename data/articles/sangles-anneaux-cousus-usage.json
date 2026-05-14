@@ -15,164 +15,75 @@
     "Une sangle vieillit même non utilisée : durée de vie maximale 10 ans, à raccourcir selon usage et UV."
   ],
   "body_blocks": [
-    {
-      "type": "h2",
-      "text": "Ce qu'est une sangle cousue, normes et résistance"
-    },
-    {
-      "type": "p",
-      "html": "Une sangle cousue est une bande de tissu plate, refermée en anneau par une couture renforcée. La norme <strong>EN 566</strong> impose une résistance minimale de 22 kN, soit l'équivalent de 2,2 tonnes en traction statique. Cette norme garantit que toutes les sangles d'escalade vendues en Europe tiennent largement une chute de grimpeur, avec un facteur de sécurité confortable."
-    },
-    {
-      "type": "p",
-      "html": "La couture est l'élément critique. Une sangle abîmée à la couture perd l'essentiel de sa résistance. Tu reconnais une bonne sangle à la couture régulière, à fils contrastés (généralement rouge ou orange) qui permettent de détecter visuellement l'usure. Les marques Petzl, Mammut, Beal et DMM produisent des sangles fiables et homologuées."
-    },
-    {
-      "type": "p",
-      "html": "Mes premières sangles, je les ai prises chez Decathlon à 5 € pièce. Elles font le boulot en initiation. Pour la grande voie sérieuse j'ai migré vers du Mammut et du Petzl, durabilité incomparable et coutures qui inspirent confiance après trois saisons."
-    },
-    {
-      "type": "h2",
-      "text": "Polyester ou Dyneema, deux philosophies de sangle"
-    },
-    {
-      "type": "p",
-      "html": "Les sangles en <strong>polyester</strong> classique font 16 à 25 mm de large, sont plus souples sous la main et coûtent moins cher (4-8 € en 60 cm). Le polyester encaisse bien l'abrasion sur le rocher, résiste correctement aux UV et reste très durable. Inconvénient : poids élevé et volume important quand on transporte un set complet."
-    },
-    {
-      "type": "p",
-      "html": "Les sangles en <strong>Dyneema</strong> font 8 à 14 mm de large, sont nettement plus fines et légères, coûtent plus cher (8-15 € en 60 cm). La fibre Dyneema résiste mieux aux UV, ne prend pas l'eau, garde une résistance constante dans le temps. Inconvénient majeur : point de fusion plus bas que le polyester (autour de 145°C contre 250°C), donc danger en cas de friction corde-sangle prolongée."
-    },
+    {"type": "h2", "text": "Ce qu'est une sangle cousue, normes et résistance"},
+    {"type": "p", "html": "Une sangle cousue est une bande de tissu plate, refermée en anneau par une couture renforcée. La norme <strong>EN 566</strong> impose une résistance minimale de 22 kN, soit l'équivalent de 2,2 tonnes en traction statique. Cette norme garantit que toutes les sangles d'escalade vendues en Europe tiennent largement une chute de grimpeur, avec un facteur de sécurité confortable."},
+    {"type": "p", "html": "La couture est l'élément critique. Une sangle abîmée à la couture perd l'essentiel de sa résistance. Tu reconnais une bonne sangle à la couture régulière, à fils contrastés (généralement rouge ou orange) qui permettent de détecter visuellement l'usure. Les marques Petzl, Mammut, Beal et DMM produisent des sangles fiables et homologuées."},
+    {"type": "p", "html": "Mes premières sangles, je les ai prises chez Decathlon à 5 € pièce. Elles font le boulot en initiation. Pour la grande voie sérieuse j'ai migré vers du Mammut et du Petzl, durabilité incomparable et coutures qui inspirent confiance après trois saisons."},
+    {"type": "h2", "text": "Polyester ou Dyneema, deux philosophies de sangle"},
+    {"type": "p", "html": "Les sangles en <strong>polyester</strong> classique font 16 à 25 mm de large, sont plus souples sous la main et coûtent moins cher (4-8 € en 60 cm). Le polyester encaisse bien l'abrasion sur le rocher, résiste correctement aux UV et reste très durable. Inconvénient : poids élevé et volume important quand on transporte un set complet."},
+    {"type": "p", "html": "Les sangles en <strong>Dyneema</strong> font 8 à 14 mm de large, sont nettement plus fines et légères, coûtent plus cher (8-15 € en 60 cm). La fibre Dyneema résiste mieux aux UV, ne prend pas l'eau, garde une résistance constante dans le temps. Inconvénient majeur : point de fusion plus bas que le polyester (autour de 145°C contre 250°C), donc danger en cas de friction corde-sangle prolongée."},
     {
       "type": "list",
       "variant": "cards",
       "title": "Trois matériaux à connaître pour bien choisir",
       "items": [
-        {
-          "title": "Polyester pur",
-          "body": "Sangle classique tressée, 16-25 mm de large. Durable, économique, robuste à l'abrasion. Idéale pour la salle, l'initiation et les anneaux d'usage intensif. Référence : Beal Webbing 25 mm à 6 €."
-        },
-        {
-          "title": "Dyneema",
-          "body": "Polyéthylène haute densité tressé, 8-14 mm de large. Léger, anti-UV, peu absorbant. Préféré pour grande voie longue et trad. Référence : Mammut Contact Sling 8 mm à 12 €."
-        },
-        {
-          "title": "Mixte Dyneema/polyester",
-          "body": "Tissage combiné qui équilibre poids et durabilité. Bon compromis pour le grimpeur polyvalent. Référence : Petzl Pur'Anneau à 9 €. Souvent vendu avec sangles bicolores pour différencier les longueurs."
-        }
+        {"title": "Polyester pur", "body": "Sangle classique tressée, 16-25 mm de large. Durable, économique, robuste à l'abrasion. Idéale pour la salle, l'initiation et les anneaux d'usage intensif. Référence : Beal Webbing 25 mm à 6 €."},
+        {"title": "Dyneema", "body": "Polyéthylène haute densité tressé, 8-14 mm de large. Léger, anti-UV, peu absorbant. Préféré pour grande voie longue et trad. Référence : Mammut Contact Sling 8 mm à 12 €."},
+        {"title": "Mixte Dyneema/polyester", "body": "Tissage combiné qui équilibre poids et durabilité. Bon compromis pour le grimpeur polyvalent. Référence : Petzl Pur'Anneau à 9 €. Souvent vendu avec sangles bicolores pour différencier les longueurs."}
       ]
     },
-    {
-      "type": "h2",
-      "text": "Les longueurs standards et leurs usages"
-    },
-    {
-      "type": "p",
-      "html": "Quatre longueurs couvrent 95% des situations en escalade sportive et grande voie."
-    },
+    {"type": "h2", "text": "Les longueurs standards et leurs usages"},
+    {"type": "p", "html": "Quatre longueurs couvrent 95% des situations en escalade sportive et grande voie."},
     {
       "type": "list",
       "variant": "numbered",
       "title": "Les quatre longueurs d'anneaux à connaître",
       "items": [
-        {
-          "title": "Anneau de 25 cm (express)",
-          "body": "Utilisé sur les dégaines pour relier les deux mousquetons. Vendu généralement avec la dégaine montée. Permet la flexion lors du clipage. Ne se manipule pas séparément en pratique courante."
-        },
-        {
-          "title": "Anneau de 60 cm",
-          "body": "Polyvalent pour rallonger une dégaine, créer un relais simple sur un seul point, faire une longe d'urgence courte. Format le plus présent au baudrier en grande voie. Trois ou quatre exemplaires dans le set type."
-        },
-        {
-          "title": "Anneau de 120 cm",
-          "body": "Crée un triangle de force sur deux points de relais, sert de prolongateur sur point bas en trad, fait office de sangle de poitrine sur réchappe. Format intermédiaire indispensable. Deux exemplaires au baudrier."
-        },
-        {
-          "title": "Anneau de 180 ou 240 cm",
-          "body": "Indispensable pour relais complexes à trois points, lacets autour d'un becquet rocheux, équipement de gros arbres en voie alpine. Un ou deux exemplaires selon le type de course visé."
-        }
+        {"title": "Anneau de 25 cm (express)", "body": "Utilisé sur les dégaines pour relier les deux mousquetons. Vendu généralement avec la dégaine montée. Permet la flexion lors du clipage. Ne se manipule pas séparément en pratique courante."},
+        {"title": "Anneau de 60 cm", "body": "Polyvalent pour rallonger une dégaine, créer un relais simple sur un seul point, faire une longe d'urgence courte. Format le plus présent au baudrier en grande voie. Trois ou quatre exemplaires dans le set type."},
+        {"title": "Anneau de 120 cm", "body": "Crée un triangle de force sur deux points de relais, sert de prolongateur sur point bas en trad, fait office de sangle de poitrine sur réchappe. Format intermédiaire indispensable. Deux exemplaires au baudrier."},
+        {"title": "Anneau de 180 ou 240 cm", "body": "Indispensable pour relais complexes à trois points, lacets autour d'un becquet rocheux, équipement de gros arbres en voie alpine. Un ou deux exemplaires selon le type de course visé."}
       ]
     },
-    {
-      "type": "h2",
-      "text": "La longe ajustable, accessoire devenu incontournable"
-    },
-    {
-      "type": "p",
-      "html": "La longe ajustable a remplacé la vieille technique de la double-sangle au baudrier sur la majorité des relais modernes. Le système le plus diffusé est la <strong>Petzl Connect Adjust</strong>, une longe en dynamique avec mécanisme de réglage rapide qui permet d'ajuster la distance au relais d'une main. Compte 35-45 € pour le modèle de base."
-    },
-    {
-      "type": "p",
-      "html": "Avantages : ajustement précis sans manœuvre complexe, longueur dynamique qui amortit un éventuel choc, simplicité d'usage en grande voie longue. L'usage de la longe a transformé la gestion des relais et raccourci le temps perdu à chaque arrêt. Alternative non ajustable : la longe Beal Dynaloop, plus simple et économique."
-    },
-    {
-      "type": "h2",
-      "text": "Vérifier, ranger, remplacer ses sangles"
-    },
-    {
-      "type": "p",
-      "html": "Une sangle se vérifie après chaque sortie. Tu passes l'anneau entre les doigts en cherchant les zones rapeuses, les fils qui dépassent, les marques de fusion (zones brillantes ou collantes), les déchirures de couture. Une sangle abîmée part à la poubelle, ou se garde pour l'atelier sans usage en grimpe."
-    },
-    {
-      "type": "p",
-      "html": "Durée de vie maximale d'une sangle, neuve ou pas, jamais utilisée ou intensivement employée : 10 ans à partir de la date de fabrication imprimée sur l'étiquette. C'est la règle <strong>EPI</strong> qui s'applique à tout équipement de protection individuelle de l'escalade. Une sangle stockée 12 ans dans son sachet d'origine est officiellement déclassée."
-    },
-    {
-      "type": "tip",
-      "title": "Coder ses sangles par longueur",
-      "body": "Beaucoup de marques vendent leurs sangles avec un code couleur fixe par longueur (60 cm bleu, 120 cm rouge, 240 cm violet). C'est précieux en grande voie pour saisir la bonne sangle d'un coup d'oeil au relais sans devoir déplier pour mesurer. Si tu achètes en vrac, marque-les toi-même au marqueur indélébile sur la couture.",
-      "tone": "astuce"
-    }
+    {"type": "h2", "text": "La longe ajustable, accessoire devenu incontournable"},
+    {"type": "p", "html": "La longe ajustable a remplacé la vieille technique de la double-sangle au baudrier sur la majorité des relais modernes. Le système le plus diffusé est la <strong>Petzl Connect Adjust</strong>, une longe en dynamique avec mécanisme de réglage rapide qui permet d'ajuster la distance au relais d'une main. Compte 35-45 € pour le modèle de base."},
+    {"type": "p", "html": "Avantages : ajustement précis sans manœuvre complexe, longueur dynamique qui amortit un éventuel choc, simplicité d'usage en grande voie longue. L'usage de la longe a transformé la gestion des relais et raccourci le temps perdu à chaque arrêt. Alternative non ajustable : la longe Beal Dynaloop, plus simple et économique."},
+    {"type": "h2", "text": "Vérifier, ranger, remplacer ses sangles"},
+    {"type": "p", "html": "Une sangle se vérifie après chaque sortie. Tu passes l'anneau entre les doigts en cherchant les zones rapeuses, les fils qui dépassent, les marques de fusion (zones brillantes ou collantes), les déchirures de couture. Une sangle abîmée part à la poubelle, ou se garde pour l'atelier sans usage en grimpe."},
+    {"type": "p", "html": "Durée de vie maximale d'une sangle, neuve ou pas, jamais utilisée ou intensivement employée : 10 ans à partir de la date de fabrication imprimée sur l'étiquette. C'est la règle <strong>EPI</strong> qui s'applique à tout équipement de protection individuelle de l'escalade. Une sangle stockée 12 ans dans son sachet d'origine est officiellement déclassée."},
+    {"type": "tip", "title": "Coder ses sangles par longueur", "body": "Beaucoup de marques vendent leurs sangles avec un code couleur fixe par longueur (60 cm bleu, 120 cm rouge, 240 cm violet). C'est précieux en grande voie pour saisir la bonne sangle d'un coup d'oeil au relais sans devoir déplier pour mesurer. Si tu achètes en vrac, marque-les toi-même au marqueur indélébile sur la couture.", "tone": "astuce"},
+    {"type": "h2", "text": "Le triangle de force, montage de relais classique"},
+    {"type": "p", "html": "Le triangle de force est la méthode universelle pour relier deux ou trois points d'ancrage en relais. Tu passes un anneau de 120 cm dans les deux points, tu tires les deux brins vers le bas en formant un Y, tu ajoutes un demi-tour sur chaque brin pour sécuriser en cas de rupture d'un point, et tu connectes l'ensemble avec un mousqueton HMS. Le résultat répartit la charge entre les deux points et reste fonctionnel même en cas de défaillance de l'un d'eux."},
+    {"type": "p", "html": "L'angle critique du triangle se situe sous les 60 degrés au sommet. Au-delà, la force exercée sur chaque point augmente exponentiellement par rapport à la charge réelle. À 90 degrés, chaque point reçoit 70% de la force totale ; à 120 degrés, presque 100% chacun, ce qui annule le bénéfice du partage. La distance entre les deux points doit donc être réfléchie."},
+    {"type": "h2", "text": "Les pièges classiques à éviter"},
+    {"type": "p", "html": "Premier piège : la <strong>tête d'alouette sur Dyneema</strong>. Beaucoup de débutants fixent leur longe au pontet du baudrier par tête d'alouette directe. C'est légal techniquement, mais la friction crée un point de fatigue accélérée au niveau du noeud. Pour la longe ajustable Petzl Connect Adjust, le constructeur autorise et recommande la tête d'alouette parce que le matériau supporte. Sur des anneaux Dyneema fins de 8 mm, mieux vaut un noeud de pêcheur ou un mousqueton intermédiaire."},
+    {"type": "p", "html": "Deuxième piège : la sangle qui passe sur une arête vive. En grande voie, le frottement d'un anneau Dyneema sur une lame de calcaire affilée peut le sectionner en quelques minutes de tension active. La parade : prolonger systématiquement les protections situées sur arêtes avec une sangle plus longue, et passer le brin tendu sur la zone propre du rocher."},
+    {"type": "h2", "text": "Combien de sangles emporter selon le type de course"},
+    {"type": "p", "html": "Le set de sangles à emporter varie selon le type de course. Pour une grande voie sportive bien équipée de 6 à 8 longueurs, un set de base couvre tous les usages : 4 anneaux de 60 cm, 2 anneaux de 120 cm, 1 anneau de 240 cm, 1 longe ajustable. Compte un set total de 7 anneaux pour environ 300-400 g."},
+    {"type": "p", "html": "Pour une voie trad ou semi-équipée, double le set : 8 anneaux de 60 cm, 4 anneaux de 120 cm, 2 anneaux de 240 cm. Le poids monte à 600-800 g. Cette augmentation s'explique par le besoin de prolonger plus de points et de gérer des relais sur becquets ou arbres. En alpinisme, un set encore plus large peut être nécessaire."},
+    {"type": "h2", "text": "Stocker et transporter ses sangles"},
+    {"type": "p", "html": "Le rangement des sangles influence directement leur durabilité. Au baudrier, ne mélange jamais sangles et système d'assurage métallique : le contact provoque une usure prématurée par friction. Réserve un porte-matériel dédié aux sangles, avec un système de pliage qui évite les emmêlements."},
+    {"type": "p", "html": "Hors usage, range les sangles dans un endroit sec, à l'abri du soleil direct et loin des produits chimiques. La lumière UV est l'ennemi numéro un du polyester et du Dyneema : six mois exposé à la fenêtre suffisent à dégrader la résistance d'une sangle de 20%. Un sac dédié dans un placard fermé est la solution standard."},
+    {"type": "h2", "text": "Sangle plate ou cordelette, quand préférer chaque format"},
+    {"type": "p", "html": "La cordelette de 6 ou 7 mm de diamètre fait souvent partie du set du grimpeur de grande voie, à côté des sangles plates. La cordelette présente une section ronde, ce qui lui permet de mieux supporter les noeuds que la sangle plate (un noeud sur cordelette réduit la résistance de 20-30%, contre 30-50% pour une sangle Dyneema). Elle est aussi plus économique à l'achat et plus polyvalente pour les usages secondaires (autobloquant, fixation d'urgence)."},
+    {"type": "p", "html": "Inconvénients : la cordelette est plus lourde et plus volumineuse à poids équivalent de résistance. Pour les usages standard de relais et de prolongation, la sangle plate Dyneema reste préférable. Pour les usages d'urgence et de secours (mouflage, autobloquant Prusik, attache de fortune), la cordelette s'impose. Un set équilibré combine les deux."},
+    {"type": "h2", "text": "Les marques fiables et leurs spécificités"},
+    {"type": "p", "html": "Trois marques dominent le marché des sangles d'escalade en France. Petzl propose la gamme Pur'Anneau et Anneau Dyneema, avec un code couleur fixe et un rapport qualité-prix excellent. Mammut avec sa série Contact Sling fait référence pour la finesse et la durabilité en Dyneema pur. DMM, marque britannique, propose des sangles en polyester ultra-robustes pour le trad et l'alpinisme. Pour démarrer, mixer les marques selon le format et l'usage donne le meilleur résultat à budget équivalent."}
   ],
   "faq": [
-    {
-      "q": "Peut-on faire un noeud dans une sangle Dyneema ?",
-      "a": "Techniquement oui, mais c'est déconseillé. Le Dyneema glisse plus que le polyester et les noeuds y tiennent mal. Surtout, un noeud peut réduire la résistance de la sangle de 30 à 50%. Pour les usages standards comme le triangle de force ou la longe, utilise des anneaux cousus de la bonne longueur, jamais des noeuds. Le seul noeud admis dans certains contextes est le noeud de pêcheur sur sangle plate, et encore avec précautions."
-    },
-    {
-      "q": "Quelle différence entre sangle d'escalade et sangle d'alpinisme ?",
-      "a": "Les deux respectent la norme EN 566. La sangle d'alpinisme est souvent plus large (25 mm) en polyester épais pour résister à l'abrasion sur rocher dur et à l'usage sous neige. La sangle d'escalade sportive privilégie la finesse et la légèreté en Dyneema. Pour la grande voie classique, les modèles polyvalents type Petzl Anneau ou Mammut Contact Sling conviennent aux deux usages."
-    },
-    {
-      "q": "Comment monter une longe en grande voie ?",
-      "a": "Le standard moderne, c'est une longe ajustable type Petzl Connect Adjust passée en tête d'alouette dans le pontet du baudrier. Le mousqueton de connexion au relais reste un HMS à vis ou à verrouillage automatique. La double-sangle traditionnelle (deux anneaux de 60 cm) reste valide mais demande plus de manipulation et offre moins de précision d'ajustement."
-    },
-    {
-      "q": "Faut-il une sangle de pied séparée pour le ramonage ?",
-      "a": "Pas obligatoire. Une sangle de 60 cm classique peut servir d'étrier en cas d'aide ponctuelle. Pour l'usage régulier en grande voie ou en trad, les sangles à boucle ajustable type Yates Step Loop ou Black Diamond Etrier sont plus pratiques. Compte 25-35 € pour un modèle dédié. À ne pas confondre avec les escabeaux à plusieurs étages utilisés en artif pur."
-    },
-    {
-      "q": "Une sangle tombée au sol est-elle toujours sûre ?",
-      "a": "Une chute de sangle depuis un relais ne la met pas hors d'usage. Inspecte simplement la zone d'impact pour repérer une éventuelle abrasion. En revanche, une sangle qui a subi un choc majeur (chute de pierre, tension brutale lors d'une retenue de chute) doit être déclassée même si elle paraît intacte. Dans le doute, la règle reste : si tu hésites, tu jettes. Une sangle neuve coûte 8 €, ta vie en vaut plus."
-    }
+    {"q": "Peut-on faire un noeud dans une sangle Dyneema ?", "a": "Techniquement oui, mais c'est déconseillé. Le Dyneema glisse plus que le polyester et les noeuds y tiennent mal. Surtout, un noeud peut réduire la résistance de la sangle de 30 à 50%. Pour les usages standards comme le triangle de force ou la longe, utilise des anneaux cousus de la bonne longueur, jamais des noeuds. Le seul noeud admis dans certains contextes est le noeud de pêcheur sur sangle plate, et encore avec précautions."},
+    {"q": "Quelle différence entre sangle d'escalade et sangle d'alpinisme ?", "a": "Les deux respectent la norme EN 566. La sangle d'alpinisme est souvent plus large (25 mm) en polyester épais pour résister à l'abrasion sur rocher dur et à l'usage sous neige. La sangle d'escalade sportive privilégie la finesse et la légèreté en Dyneema. Pour la grande voie classique, les modèles polyvalents type Petzl Anneau ou Mammut Contact Sling conviennent aux deux usages."},
+    {"q": "Comment monter une longe en grande voie ?", "a": "Le standard moderne, c'est une longe ajustable type Petzl Connect Adjust passée en tête d'alouette dans le pontet du baudrier. Le mousqueton de connexion au relais reste un HMS à vis ou à verrouillage automatique. La double-sangle traditionnelle (deux anneaux de 60 cm) reste valide mais demande plus de manipulation et offre moins de précision d'ajustement."},
+    {"q": "Faut-il une sangle de pied séparée pour le ramonage ?", "a": "Pas obligatoire. Une sangle de 60 cm classique peut servir d'étrier en cas d'aide ponctuelle. Pour l'usage régulier en grande voie ou en trad, les sangles à boucle ajustable type Yates Step Loop ou Black Diamond Etrier sont plus pratiques. Compte 25-35 € pour un modèle dédié. À ne pas confondre avec les escabeaux à plusieurs étages utilisés en artif pur."},
+    {"q": "Une sangle tombée au sol est-elle toujours sûre ?", "a": "Une chute de sangle depuis un relais ne la met pas hors d'usage. Inspecte simplement la zone d'impact pour repérer une éventuelle abrasion. En revanche, une sangle qui a subi un choc majeur (chute de pierre, tension brutale lors d'une retenue de chute) doit être déclassée même si elle paraît intacte. Dans le doute, la règle reste : si tu hésites, tu jettes. Une sangle neuve coûte 8 €, ta vie en vaut plus."}
   ],
   "cover_alt": "Set de sangles cousues de différentes longueurs accroché à un porte-matériel de baudrier, anneaux de 60 et 120 cm en Dyneema bleu et rouge, mousquetons à vis visibles, fond de calcaire à Buoux",
   "internal_links": [
-    {
-      "slug": "materiel-escalade-essentiel",
-      "anchor": "matériel essentiel d'escalade",
-      "context": "pilier matériel"
-    },
-    {
-      "slug": "matos-grande-voie-checklist",
-      "anchor": "checklist matériel grande voie",
-      "context": "usage typique sangles"
-    },
-    {
-      "slug": "mousquetons-escalade-types",
-      "anchor": "types de mousquetons",
-      "context": "matériel associé"
-    },
-    {
-      "slug": "degaines-escalade-choix",
-      "anchor": "choix des dégaines",
-      "context": "matériel associé"
-    },
-    {
-      "slug": "matos-trad-escalade-debutant",
-      "anchor": "initiation au trad",
-      "context": "usage avancé sangles"
-    }
+    {"slug": "materiel-escalade-essentiel", "anchor": "matériel essentiel d'escalade", "context": "pilier matériel"},
+    {"slug": "matos-grande-voie-checklist", "anchor": "checklist matériel grande voie", "context": "usage typique sangles"},
+    {"slug": "mousquetons-escalade-types", "anchor": "types de mousquetons", "context": "matériel associé"},
+    {"slug": "degaines-escalade-choix", "anchor": "choix des dégaines", "context": "matériel associé"},
+    {"slug": "matos-trad-escalade-debutant", "anchor": "initiation au trad", "context": "usage avancé sangles"}
   ],
   "scheduled_at": "2026-09-17T09:00:00+02:00"
 }

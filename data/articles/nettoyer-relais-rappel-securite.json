@@ -15,303 +15,79 @@
     "Le rappel en double sur deux brins équivalents reste la configuration standard pour la redescente de voie sportive."
   ],
   "body_blocks": [
-    {
-      "type": "h2",
-      "text": "Ce qu'on appelle nettoyer un relais"
-    },
-    {
-      "type": "p",
-      "html": "Nettoyer un relais désigne l'opération par laquelle le grimpeur arrivé en haut d'une voie sportive récupère sa corde et son matériel pour redescendre, en laissant le relais propre et intact pour les grimpeurs suivants. Cette manœuvre concerne principalement la falaise sportive, où chaque voie se termine sur un relais équipé de deux points scellés et d'un maillon rapide central, parfois d'une chaîne ou d'un anneau soudé. Le grimpeur passe sa corde dans le maillon, redescend en rappel ou en moulinette, et récupère ses dégaines en cours de descente."
-    },
-    {
-      "type": "p",
-      "html": "L'enjeu de cette manœuvre n'est pas technique au sens des gestes individuels, qui restent simples. L'enjeu est l'enchaînement sans omission de cinq à sept étapes successives, chacune dépendante de la précédente. Une seule étape oubliée et le grimpeur tombe au sol. Les accidents documentés en falaise française impliquent quasi systématiquement une erreur de nettoyage de relais, jamais une défaillance matérielle. Le <a href=\"/blog/verifier-noeud-partenaire\">contrôle systématique du partenaire</a> ne suffit pas, car la manœuvre se fait seul au relais, en hauteur, parfois fatigué."
-    },
-    {
-      "type": "p",
-      "html": "Cette page détaille la procédure standard du nettoyage avec descente en rappel double, qui reste la configuration la plus universelle en falaise sportive française. La descente en moulinette présente une procédure légèrement différente, traitée en complément pour les configurations où elle reste possible."
-    },
-    {
-      "type": "h2",
-      "text": "Le matériel nécessaire au nettoyage"
-    },
-    {
-      "type": "p",
-      "html": "Le matériel pour nettoyer un relais reste minimaliste mais doit être au baudrier avant le départ. La <strong>longe en sangle ou en corde dynamique</strong>, un à deux brins équipés de mousquetons à vis aux extrémités libres. Le <strong>descendeur</strong>, généralement un tube type Reverso ou un dispositif à plaquettes, ou exceptionnellement un Grigri qui complique la manœuvre. Un <strong>autobloquant prussik</strong> ou un machard de 60 cm, qui sert de sécurité indépendante sous le descendeur."
-    },
-    {
-      "type": "p",
-      "html": "Il faut également deux à trois mousquetons à vis disponibles, idéalement de type HMS qui acceptent tous les nœuds courants. Et bien sûr le baudrier, la corde dynamique double ou simple selon le rappel, et les chaussons gardés au pied pour ne pas glisser à la station verticale. Le casque reste fortement recommandé pour toute manipulation en hauteur, particulièrement sur sites où la chute de pierres reste possible."
-    },
-    {
-      "type": "list",
-      "variant": "checks",
-      "title": "Le matériel à vérifier au pied de la voie",
-      "items": [
-        {
-          "title": "Longe double avec mousquetons à vis",
-          "body": "Deux brins indépendants permettent de se vacher sur les deux points du relais. Une longe simple suffit en pratique mais doit être doublée mentalement par un mousqueton clé sur le second point."
-        },
-        {
-          "title": "Descendeur en tube ou plaquettes",
-          "body": "Reverso, ATC ou équivalent. Le Grigri reste utilisable mais complique le rappel en double. Préfère le tube simple pour cette manœuvre."
-        },
-        {
-          "title": "Autobloquant prussik ou machard",
-          "body": "Cordelette de 5 à 7 mm en boucle fermée par un pêcheur double. Longueur 60 cm environ. Sert de freinage de secours indépendant du descendeur."
-        },
-        {
-          "title": "Mousquetons à vis HMS",
-          "body": "Deux à trois unités pour les différentes connexions. Vérification visuelle de la fermeture systématique avant chaque manipulation."
-        },
-        {
-          "title": "Corde dynamique adaptée",
-          "body": "Simple en 9.5 à 10 mm pour la voie sportive courte. Double 8 mm pour les grandes voies. Diamètre compatible avec le descendeur utilisé."
-        }
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Première étape, se vacher au relais"
-    },
-    {
-      "type": "p",
-      "html": "Le grimpeur arrive au relais en tête, accroche sa dernière dégaine sur le premier point du relais. Il se vache immédiatement sur le relais avec sa longe, en passant le mousqueton à vis dans le maillon rapide ou dans l'un des points scellés. La règle absolue, c'est de ne <strong>jamais lâcher la corde principale</strong> avant d'être vaché sur deux points indépendants."
-    },
-    {
-      "type": "p",
-      "html": "Le vachage idéal mobilise deux points distincts. Premier mousqueton à vis dans le point gauche, second mousqueton à vis dans le point droit, ou alternativement un mousqueton dans le maillon central et un mousqueton dans l'un des points scellés. Cette redondance protège contre la défaillance improbable d'un point unique. Le mousqueton à vis se ferme intégralement et la vis se serre à fond avant de relâcher la tension de la corde principale."
-    },
-    {
-      "type": "p",
-      "html": "Une fois vaché, le grimpeur teste son vachage en se laissant tomber dans la longe avec contrôle. Cette mise en charge volontaire valide la solidité du système et soulage les bras avant la suite. C'est aussi le moment de communiquer avec l'assureur en bas, par voix ou par geste, pour confirmer l'arrivée au relais et la prise en main de la manœuvre."
-    },
-    {
-      "type": "tip",
-      "title": "Communiquer clairement avec l'assureur",
-      "body": "Annonce à voix haute, vaché. Ton assureur répond, ok. Tu lui demandes du mou pour pouvoir manipuler la corde. Il donne du mou en gardant l'assurage actif tant que tu n'as pas annoncé sec, c'est-à-dire prêt à descendre en moulinette ou en rappel selon la procédure. Cette communication codifiée prévient les ratés de coordination dans la phase la plus dangereuse de la voie.",
-      "tone": "attention"
-    },
-    {
-      "type": "h2",
-      "text": "Deuxième étape, passer la corde dans le maillon"
-    },
-    {
-      "type": "p",
-      "html": "Cette étape est la plus délicate parce qu'elle implique un moment où la corde est temporairement déconnectée du baudrier. Plusieurs procédures coexistent, mais la plus sûre reste la méthode dite du nœud d'arrêt préventif. Tu fais un nœud d'arrêt sur la corde, environ un mètre sous le nœud de huit principal. Ce nœud agit comme garde-fou qui empêche la corde de s'échapper si elle glisse."
-    },
-    {
-      "type": "p",
-      "html": "Ensuite, tu défais le huit principal du baudrier, tu tires la corde libérée et tu la passes dans le maillon rapide du relais. Tu refais immédiatement un huit sur le brin sorti du maillon, et tu le rencordes dans le pontet du baudrier. Une fois ce nouvel encordement validé visuellement, tu peux défaire le nœud d'arrêt préventif. À aucun moment la corde n'a pu te quitter intégralement."
-    },
-    {
-      "type": "p",
-      "html": "Cette procédure remplace l'ancienne méthode qui consistait à se vacher uniquement sur la corde reliée à l'assureur, sans nœud d'arrêt. Plusieurs accidents documentés ont impliqué une chute de corde au sol dans cette configuration, le grimpeur se retrouvant suspendu uniquement à sa longe sans corde pour redescendre. Le <a href=\"/blog/noeud-huit-encordement\">nœud de huit</a> doit être refait et vérifié dans le pontet avant tout démontage de la longe."
-    },
-    {
-      "type": "h2",
-      "text": "Troisième étape, monter le rappel"
-    },
-    {
-      "type": "p",
-      "html": "Pour la descente en rappel double, tu tires la corde dans le maillon jusqu'à ce que les deux brins soient égaux des deux côtés. Tu vérifies que les deux bouts touchent le sol, ou qu'ils dépassent largement la longueur nécessaire pour atteindre le relais intermédiaire suivant. Tu fais un <strong>nœud d'arrêt sur chacun des deux bouts</strong> de corde au sol, ce qui empêche de descendre au-delà de la corde disponible."
-    },
-    {
-      "type": "p",
-      "html": "Ensuite tu installes le descendeur. Tu passes les deux brins de corde dans le tube du descendeur, tu connectes le descendeur au pontet du baudrier avec un mousqueton à vis. Tu poses l'autobloquant sous le descendeur, généralement un machard ou un prussik en cordelette de 5 mm sur les deux brins. L'autobloquant se connecte à une boucle de matériel du baudrier ou à une autre attache dédiée."
-    },
-    {
-      "type": "p",
-      "html": "La vérification finale précède la libération de la longe. Tu vérifies visuellement les deux brins passés dans le maillon du relais, sans torsade ni coincement. Tu vérifies la fermeture du mousqueton du descendeur. Tu vérifies que l'autobloquant glisse librement quand tu le pousses vers le bas, et bloque quand tu le lâches. Tu vérifies les nœuds d'arrêt aux deux bouts au sol. Si tout est conforme, tu peux défaire la longe et engager la descente."
-    },
-    {
-      "type": "table",
-      "caption": "Les vérifications successives avant de libérer la longe",
-      "headers": [
-        "Vérification",
-        "Que regarder",
-        "Risque si oubli"
-      ],
-      "rows": [
-        [
-          "Corde dans le maillon",
-          "Deux brins parallèles sans torsade",
-          "Coincement de la corde au rappel"
-        ],
-        [
-          "Longueur des brins",
-          "Égalité des deux côtés au sol",
-          "Descente courte d'un côté"
-        ],
-        [
-          "Nœuds d'arrêt aux bouts",
-          "Présence et serrage",
-          "Sortie de la corde du descendeur"
-        ],
-        [
-          "Descendeur installé",
-          "Corde dans le tube, mousqueton vissé",
-          "Chute libre immédiate"
-        ],
-        [
-          "Autobloquant fonctionnel",
-          "Glisse et bloque alternativement",
-          "Pas de freinage de secours"
-        ],
-        [
-          "Encordement éventuel",
-          "Si maintien d'un huit, pontet validé",
-          "Détachement involontaire"
-        ]
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Quatrième étape, la descente contrôlée"
-    },
-    {
-      "type": "p",
-      "html": "La descente démarre par une mise en charge progressive du descendeur. Tu engages le freinage main droite ou main dominante sur les brins sous le tube, tu pousses l'autobloquant vers le bas pour qu'il glisse, et tu descends lentement. La main dominante régule la vitesse par pression sur les brins. La main faible accompagne l'autobloquant pour qu'il ne se bloque pas en permanence."
-    },
-    {
-      "type": "p",
-      "html": "Le rythme normal de descente est de cinquante centimètres par seconde environ, ni précipité ni trop lent. Sur les voies surplombantes, la descente peut se transformer en pendule si tu lâches la paroi, ce qui reste sans danger tant que la corde et le descendeur sont propres. En cas de problème, tu lâches simplement la corde, l'autobloquant bloque automatiquement, tu te retrouves suspendu en attendant de résoudre le problème."
-    },
-    {
-      "type": "p",
-      "html": "Tu récupères les dégaines en cours de descente, en redescendant ligne par ligne le long de la voie originale. Chaque dégaine se décroche du point puis se range au baudrier. Le <a href=\"/blog/rappel-en-double-techniques\">rappel en double</a> reste la procédure technique de référence détaillée plus précisément pour les configurations engagées."
-    },
-    {
-      "type": "h2",
-      "text": "Cinquième étape, le rappel de la corde au sol"
-    },
-    {
-      "type": "p",
-      "html": "Une fois au sol, tu démontes le descendeur et l'autobloquant. Tu tires sur l'un des deux brins, n'importe lequel, pour rappeler la corde. La corde glisse dans le maillon rapide et descend en fil unique. Le grimpeur doit s'écarter de la zone d'arrivée parce que la corde tombe parfois avec inertie et peut emporter de petites pierres."
-    },
-    {
-      "type": "p",
-      "html": "Le rappel de la corde échoue parfois si la corde se coince dans le maillon ou s'enroule autour d'une saillie rocheuse. La parade consiste à tirer sur l'autre brin, à secouer la corde, ou en dernier ressort à remonter en moulinette sur l'un des brins pour libérer le coincement. La prévention passe par une corde propre, sans torsade, et par une descente qui maintient les deux brins parallèles tout au long du trajet."
-    },
-    {
-      "type": "p",
-      "html": "Une fois la corde au sol, tu vérifies visuellement les deux bouts et la longueur totale. Tu lover la corde pour le rangement ou pour la voie suivante. La manœuvre de nettoyage est terminée, le relais reste intact pour les grimpeurs suivants."
-    },
-    {
-      "type": "h2",
-      "text": "Variante en moulinette si le relais le permet"
-    },
-    {
-      "type": "p",
-      "html": "Certains relais en falaise sportive disposent d'un anneau dédié à la moulinette directe, soit un anneau en acier soudé soit un maillon vis dimensionné pour le passage répété d'une corde sous charge. Sur ces relais, le nettoyage simplifie en procédure de moulinette. Tu te vaches, tu passes la corde dans l'anneau, tu cries sec à l'assureur en bas qui reprend la corde, tu défais ta longe et l'assureur te redescend en moulinette."
-    },
-    {
-      "type": "p",
-      "html": "Cette procédure évite le montage du rappel et le démontage des dégaines en autonomie, mais consomme l'anneau du relais. Tous les relais ne sont pas équipés pour cette utilisation, et la pratique reste controversée sur les sites équipés exclusivement de maillons rapides classiques. La <strong>FFME</strong> recommande la descente en rappel comme procédure de référence sur la majorité des voies sportives, et la moulinette uniquement sur les relais dédiés."
-    },
-    {
-      "type": "tip",
-      "title": "Reconnaître un relais adapté à la moulinette directe",
-      "body": "L'anneau de moulinette se reconnaît à son diamètre épais, environ 10 à 12 mm, et à sa forme arrondie sans angle vif. Il est souvent identifié par un marquage spécifique ou une couleur d'identification. Un maillon vis ordinaire de 8 à 10 mm n'est pas conçu pour la moulinette répétée et s'use prématurément sous la friction de la corde en charge. En cas de doute, descends en rappel.",
-      "tone": "info"
-    },
-    {
-      "type": "h2",
-      "text": "Les erreurs critiques à éviter absolument"
-    },
-    {
-      "type": "p",
-      "html": "Première erreur, défaire le huit sans nœud d'arrêt préventif. Le grimpeur sort du baudrier, tire la corde pour la passer dans le maillon, mais la corde s'échappe au sol. Il se retrouve suspendu uniquement à sa longe. La parade est le nœud d'arrêt systématique avant tout démontage du nœud principal."
-    },
-    {
-      "type": "p",
-      "html": "Deuxième erreur, libérer la longe avant de vérifier le système de rappel. Le grimpeur installe son descendeur, défait sa longe pour gagner du mou, mais réalise alors qu'il a oublié l'autobloquant ou que le mousqueton est mal vissé. Difficile de revenir en arrière une fois la longe rangée. La parade est la vérification systématique avant tout démontage."
-    },
-    {
-      "type": "p",
-      "html": "Troisième erreur, descendre sur une corde dont l'un des bouts est plus court que la voie. Le grimpeur arrive au bout de la corde côté court avant d'atteindre le sol et le brin sort du descendeur, chute libre. La parade est le nœud d'arrêt sur les deux bouts au sol, qui empêche cette sortie. Cette précaution reste valable sur toutes les descentes en rappel sans exception."
-    },
-    {
-      "type": "p",
-      "html": "Quatrième erreur, le mousqueton du descendeur mal vissé. La vis n'est pas complètement serrée, le grimpeur descend, la vis se desserre par vibrations, le mousqueton s'ouvre et la corde s'échappe. La parade est la vérification visuelle et tactile du serrage de chaque mousqueton à vis. Le <a href=\"/blog/verifier-noeud-partenaire\">contrôle des mousquetons</a> fait partie de la routine de sécurité globale."
-    },
-    {
-      "type": "quote",
-      "text": "Le nettoyage de relais, c'est dix étapes à enchaîner sans faute. Tu peux faire neuf parfaitement, mais si tu oublies la dixième, tu tombes au sol. C'est pour ça que je récite mentalement la check-list à voix basse, même après treize ans de pratique.",
-      "author": "Antoine",
-      "role": "grimpeur 8a, formé au lycée Camille Sée Colmar"
-    },
-    {
-      "type": "h2",
-      "text": "L'apprentissage progressif de la manœuvre"
-    },
-    {
-      "type": "p",
-      "html": "Cette manœuvre ne s'apprend pas en lisant un article. Elle se pratique sous supervision d'un encadrant qualifié, en répétition sur un relais d'apprentissage situé à hauteur d'homme, sans risque de chute. Tu répètes la procédure complète vingt à trente fois en variant les configurations, jusqu'à ce que chaque étape devienne automatique. Beaucoup de clubs FFME et de structures professionnelles proposent des stages dédiés à cette compétence, généralement sur un week-end intensif."
-    },
-    {
-      "type": "p",
-      "html": "Une fois la procédure maîtrisée au sol, le passage en situation réelle se fait sur une voie courte avec relais bas, idéalement de 15 à 20 mètres. La première sortie en autonomie reste accompagnée par un grimpeur expérimenté qui vérifie chaque étape par observation. Compte trois à six sorties accompagnées avant de prétendre à l'autonomie complète. La <a href=\"/blog/retenir-noeuds-escalade-methode\">méthode pour retenir les nœuds</a> s'applique également à la séquence du nettoyage de relais, par répétition et visualisation mentale."
-    }
+    {"type": "h2", "text": "Ce qu'on appelle nettoyer un relais"},
+    {"type": "p", "html": "Nettoyer un relais désigne l'opération par laquelle le grimpeur arrivé en haut d'une voie sportive récupère sa corde et son matériel pour redescendre, en laissant le relais propre et intact pour les grimpeurs suivants. Cette manœuvre concerne principalement la falaise sportive, où chaque voie se termine sur un relais équipé de deux points scellés et d'un maillon rapide central, parfois d'une chaîne ou d'un anneau soudé. Le grimpeur passe sa corde dans le maillon, redescend en rappel ou en moulinette, et récupère ses dégaines en cours de descente."},
+    {"type": "p", "html": "L'enjeu de cette manœuvre n'est pas technique au sens des gestes individuels, qui restent simples. L'enjeu est l'enchaînement sans omission de cinq à sept étapes successives, chacune dépendante de la précédente. Une seule étape oubliée et le grimpeur tombe au sol. Les accidents documentés en falaise française impliquent quasi systématiquement une erreur de nettoyage de relais, jamais une défaillance matérielle. Le <a href=\"/blog/verifier-noeud-partenaire\">contrôle systématique du partenaire</a> ne suffit pas, car la manœuvre se fait seul au relais, en hauteur, parfois fatigué."},
+    {"type": "p", "html": "Cette page détaille la procédure standard du nettoyage avec descente en rappel double, qui reste la configuration la plus universelle en falaise sportive française. La descente en moulinette présente une procédure légèrement différente, traitée en complément pour les configurations où elle reste possible."},
+    {"type": "h2", "text": "Le matériel nécessaire au nettoyage"},
+    {"type": "p", "html": "Le matériel pour nettoyer un relais reste minimaliste mais doit être au baudrier avant le départ. La <strong>longe en sangle ou en corde dynamique</strong>, un à deux brins équipés de mousquetons à vis aux extrémités libres. Le <strong>descendeur</strong>, généralement un tube type Reverso ou un dispositif à plaquettes, ou exceptionnellement un Grigri qui complique la manœuvre. Un <strong>autobloquant prussik</strong> ou un machard de 60 cm, qui sert de sécurité indépendante sous le descendeur."},
+    {"type": "p", "html": "Il faut également deux à trois mousquetons à vis disponibles, idéalement de type HMS qui acceptent tous les nœuds courants. Et bien sûr le baudrier, la corde dynamique double ou simple selon le rappel, et les chaussons gardés au pied pour ne pas glisser à la station verticale. Le casque reste fortement recommandé pour toute manipulation en hauteur, particulièrement sur sites où la chute de pierres reste possible."},
+    {"type": "list", "variant": "checks", "title": "Le matériel à vérifier au pied de la voie", "items": [
+      {"title": "Longe double avec mousquetons à vis", "body": "Deux brins indépendants permettent de se vacher sur les deux points du relais. Une longe simple suffit en pratique mais doit être doublée mentalement par un mousqueton clé sur le second point."},
+      {"title": "Descendeur en tube ou plaquettes", "body": "Reverso, ATC ou équivalent. Le Grigri reste utilisable mais complique le rappel en double. Préfère le tube simple pour cette manœuvre."},
+      {"title": "Autobloquant prussik ou machard", "body": "Cordelette de 5 à 7 mm en boucle fermée par un pêcheur double. Longueur 60 cm environ. Sert de freinage de secours indépendant du descendeur."},
+      {"title": "Mousquetons à vis HMS", "body": "Deux à trois unités pour les différentes connexions. Vérification visuelle de la fermeture systématique avant chaque manipulation."},
+      {"title": "Corde dynamique adaptée", "body": "Simple en 9.5 à 10 mm pour la voie sportive courte. Double 8 mm pour les grandes voies. Diamètre compatible avec le descendeur utilisé."}
+    ]},
+    {"type": "h2", "text": "Première étape, se vacher au relais"},
+    {"type": "p", "html": "Le grimpeur arrive au relais en tête, accroche sa dernière dégaine sur le premier point du relais. Il se vache immédiatement sur le relais avec sa longe, en passant le mousqueton à vis dans le maillon rapide ou dans l'un des points scellés. La règle absolue, c'est de ne <strong>jamais lâcher la corde principale</strong> avant d'être vaché sur deux points indépendants."},
+    {"type": "p", "html": "Le vachage idéal mobilise deux points distincts. Premier mousqueton à vis dans le point gauche, second mousqueton à vis dans le point droit, ou alternativement un mousqueton dans le maillon central et un mousqueton dans l'un des points scellés. Cette redondance protège contre la défaillance improbable d'un point unique. Le mousqueton à vis se ferme intégralement et la vis se serre à fond avant de relâcher la tension de la corde principale."},
+    {"type": "p", "html": "Une fois vaché, le grimpeur teste son vachage en se laissant tomber dans la longe avec contrôle. Cette mise en charge volontaire valide la solidité du système et soulage les bras avant la suite. C'est aussi le moment de communiquer avec l'assureur en bas, par voix ou par geste, pour confirmer l'arrivée au relais et la prise en main de la manœuvre."},
+    {"type": "tip", "title": "Communiquer clairement avec l'assureur", "body": "Annonce à voix haute, vaché. Ton assureur répond, ok. Tu lui demandes du mou pour pouvoir manipuler la corde. Il donne du mou en gardant l'assurage actif tant que tu n'as pas annoncé sec, c'est-à-dire prêt à descendre en moulinette ou en rappel selon la procédure. Cette communication codifiée prévient les ratés de coordination dans la phase la plus dangereuse de la voie.", "tone": "attention"},
+    {"type": "h2", "text": "Deuxième étape, passer la corde dans le maillon"},
+    {"type": "p", "html": "Cette étape est la plus délicate parce qu'elle implique un moment où la corde est temporairement déconnectée du baudrier. Plusieurs procédures coexistent, mais la plus sûre reste la méthode dite du nœud d'arrêt préventif. Tu fais un nœud d'arrêt sur la corde, environ un mètre sous le nœud de huit principal. Ce nœud agit comme garde-fou qui empêche la corde de s'échapper si elle glisse."},
+    {"type": "p", "html": "Ensuite, tu défais le huit principal du baudrier, tu tires la corde libérée et tu la passes dans le maillon rapide du relais. Tu refais immédiatement un huit sur le brin sorti du maillon, et tu le rencordes dans le pontet du baudrier. Une fois ce nouvel encordement validé visuellement, tu peux défaire le nœud d'arrêt préventif. À aucun moment la corde n'a pu te quitter intégralement."},
+    {"type": "p", "html": "Cette procédure remplace l'ancienne méthode qui consistait à se vacher uniquement sur la corde reliée à l'assureur, sans nœud d'arrêt. Plusieurs accidents documentés ont impliqué une chute de corde au sol dans cette configuration, le grimpeur se retrouvant suspendu uniquement à sa longe sans corde pour redescendre. Le <a href=\"/blog/noeud-huit-encordement\">nœud de huit</a> doit être refait et vérifié dans le pontet avant tout démontage de la longe."},
+    {"type": "h2", "text": "Troisième étape, monter le rappel"},
+    {"type": "p", "html": "Pour la descente en rappel double, tu tires la corde dans le maillon jusqu'à ce que les deux brins soient égaux des deux côtés. Tu vérifies que les deux bouts touchent le sol, ou qu'ils dépassent largement la longueur nécessaire pour atteindre le relais intermédiaire suivant. Tu fais un <strong>nœud d'arrêt sur chacun des deux bouts</strong> de corde au sol, ce qui empêche de descendre au-delà de la corde disponible."},
+    {"type": "p", "html": "Ensuite tu installes le descendeur. Tu passes les deux brins de corde dans le tube du descendeur, tu connectes le descendeur au pontet du baudrier avec un mousqueton à vis. Tu poses l'autobloquant sous le descendeur, généralement un machard ou un prussik en cordelette de 5 mm sur les deux brins. L'autobloquant se connecte à une boucle de matériel du baudrier ou à une autre attache dédiée."},
+    {"type": "p", "html": "La vérification finale précède la libération de la longe. Tu vérifies visuellement les deux brins passés dans le maillon du relais, sans torsade ni coincement. Tu vérifies la fermeture du mousqueton du descendeur. Tu vérifies que l'autobloquant glisse librement quand tu le pousses vers le bas, et bloque quand tu le lâches. Tu vérifies les nœuds d'arrêt aux deux bouts au sol. Si tout est conforme, tu peux défaire la longe et engager la descente."},
+    {"type": "table", "caption": "Les vérifications successives avant de libérer la longe", "headers": ["Vérification", "Que regarder", "Risque si oubli"], "rows": [
+      ["Corde dans le maillon", "Deux brins parallèles sans torsade", "Coincement de la corde au rappel"],
+      ["Longueur des brins", "Égalité des deux côtés au sol", "Descente courte d'un côté"],
+      ["Nœuds d'arrêt aux bouts", "Présence et serrage", "Sortie de la corde du descendeur"],
+      ["Descendeur installé", "Corde dans le tube, mousqueton vissé", "Chute libre immédiate"],
+      ["Autobloquant fonctionnel", "Glisse et bloque alternativement", "Pas de freinage de secours"],
+      ["Encordement éventuel", "Si maintien d'un huit, pontet validé", "Détachement involontaire"]
+    ]},
+    {"type": "h2", "text": "Quatrième étape, la descente contrôlée"},
+    {"type": "p", "html": "La descente démarre par une mise en charge progressive du descendeur. Tu engages le freinage main droite ou main dominante sur les brins sous le tube, tu pousses l'autobloquant vers le bas pour qu'il glisse, et tu descends lentement. La main dominante régule la vitesse par pression sur les brins. La main faible accompagne l'autobloquant pour qu'il ne se bloque pas en permanence."},
+    {"type": "p", "html": "Le rythme normal de descente est de cinquante centimètres par seconde environ, ni précipité ni trop lent. Sur les voies surplombantes, la descente peut se transformer en pendule si tu lâches la paroi, ce qui reste sans danger tant que la corde et le descendeur sont propres. En cas de problème, tu lâches simplement la corde, l'autobloquant bloque automatiquement, tu te retrouves suspendu en attendant de résoudre le problème."},
+    {"type": "p", "html": "Tu récupères les dégaines en cours de descente, en redescendant ligne par ligne le long de la voie originale. Chaque dégaine se décroche du point puis se range au baudrier. Le <a href=\"/blog/rappel-en-double-techniques\">rappel en double</a> reste la procédure technique de référence détaillée plus précisément pour les configurations engagées."},
+    {"type": "h2", "text": "Cinquième étape, le rappel de la corde au sol"},
+    {"type": "p", "html": "Une fois au sol, tu démontes le descendeur et l'autobloquant. Tu tires sur l'un des deux brins, n'importe lequel, pour rappeler la corde. La corde glisse dans le maillon rapide et descend en fil unique. Le grimpeur doit s'écarter de la zone d'arrivée parce que la corde tombe parfois avec inertie et peut emporter de petites pierres."},
+    {"type": "p", "html": "Le rappel de la corde échoue parfois si la corde se coince dans le maillon ou s'enroule autour d'une saillie rocheuse. La parade consiste à tirer sur l'autre brin, à secouer la corde, ou en dernier ressort à remonter en moulinette sur l'un des brins pour libérer le coincement. La prévention passe par une corde propre, sans torsade, et par une descente qui maintient les deux brins parallèles tout au long du trajet."},
+    {"type": "p", "html": "Une fois la corde au sol, tu vérifies visuellement les deux bouts et la longueur totale. Tu lover la corde pour le rangement ou pour la voie suivante. La manœuvre de nettoyage est terminée, le relais reste intact pour les grimpeurs suivants."},
+    {"type": "h2", "text": "Variante en moulinette si le relais le permet"},
+    {"type": "p", "html": "Certains relais en falaise sportive disposent d'un anneau dédié à la moulinette directe, soit un anneau en acier soudé soit un maillon vis dimensionné pour le passage répété d'une corde sous charge. Sur ces relais, le nettoyage simplifie en procédure de moulinette. Tu te vaches, tu passes la corde dans l'anneau, tu cries sec à l'assureur en bas qui reprend la corde, tu défais ta longe et l'assureur te redescend en moulinette."},
+    {"type": "p", "html": "Cette procédure évite le montage du rappel et le démontage des dégaines en autonomie, mais consomme l'anneau du relais. Tous les relais ne sont pas équipés pour cette utilisation, et la pratique reste controversée sur les sites équipés exclusivement de maillons rapides classiques. La <strong>FFME</strong> recommande la descente en rappel comme procédure de référence sur la majorité des voies sportives, et la moulinette uniquement sur les relais dédiés."},
+    {"type": "tip", "title": "Reconnaître un relais adapté à la moulinette directe", "body": "L'anneau de moulinette se reconnaît à son diamètre épais, environ 10 à 12 mm, et à sa forme arrondie sans angle vif. Il est souvent identifié par un marquage spécifique ou une couleur d'identification. Un maillon vis ordinaire de 8 à 10 mm n'est pas conçu pour la moulinette répétée et s'use prématurément sous la friction de la corde en charge. En cas de doute, descends en rappel.", "tone": "info"},
+    {"type": "h2", "text": "Les erreurs critiques à éviter absolument"},
+    {"type": "p", "html": "Première erreur, défaire le huit sans nœud d'arrêt préventif. Le grimpeur sort du baudrier, tire la corde pour la passer dans le maillon, mais la corde s'échappe au sol. Il se retrouve suspendu uniquement à sa longe. La parade est le nœud d'arrêt systématique avant tout démontage du nœud principal."},
+    {"type": "p", "html": "Deuxième erreur, libérer la longe avant de vérifier le système de rappel. Le grimpeur installe son descendeur, défait sa longe pour gagner du mou, mais réalise alors qu'il a oublié l'autobloquant ou que le mousqueton est mal vissé. Difficile de revenir en arrière une fois la longe rangée. La parade est la vérification systématique avant tout démontage."},
+    {"type": "p", "html": "Troisième erreur, descendre sur une corde dont l'un des bouts est plus court que la voie. Le grimpeur arrive au bout de la corde côté court avant d'atteindre le sol et le brin sort du descendeur, chute libre. La parade est le nœud d'arrêt sur les deux bouts au sol, qui empêche cette sortie. Cette précaution reste valable sur toutes les descentes en rappel sans exception."},
+    {"type": "p", "html": "Quatrième erreur, le mousqueton du descendeur mal vissé. La vis n'est pas complètement serrée, le grimpeur descend, la vis se desserre par vibrations, le mousqueton s'ouvre et la corde s'échappe. La parade est la vérification visuelle et tactile du serrage de chaque mousqueton à vis. Le <a href=\"/blog/verifier-noeud-partenaire\">contrôle des mousquetons</a> fait partie de la routine de sécurité globale."},
+    {"type": "quote", "text": "Le nettoyage de relais, c'est dix étapes à enchaîner sans faute. Tu peux faire neuf parfaitement, mais si tu oublies la dixième, tu tombes au sol. C'est pour ça que je récite mentalement la check-list à voix basse, même après treize ans de pratique.", "author": "Antoine", "role": "grimpeur 8a, formé au lycée Camille Sée Colmar"},
+    {"type": "h2", "text": "L'apprentissage progressif de la manœuvre"},
+    {"type": "p", "html": "Cette manœuvre ne s'apprend pas en lisant un article. Elle se pratique sous supervision d'un encadrant qualifié, en répétition sur un relais d'apprentissage situé à hauteur d'homme, sans risque de chute. Tu répètes la procédure complète vingt à trente fois en variant les configurations, jusqu'à ce que chaque étape devienne automatique. Beaucoup de clubs FFME et de structures professionnelles proposent des stages dédiés à cette compétence, généralement sur un week-end intensif."},
+    {"type": "p", "html": "Une fois la procédure maîtrisée au sol, le passage en situation réelle se fait sur une voie courte avec relais bas, idéalement de 15 à 20 mètres. La première sortie en autonomie reste accompagnée par un grimpeur expérimenté qui vérifie chaque étape par observation. Compte trois à six sorties accompagnées avant de prétendre à l'autonomie complète. La <a href=\"/blog/retenir-noeuds-escalade-methode\">méthode pour retenir les nœuds</a> s'applique également à la séquence du nettoyage de relais, par répétition et visualisation mentale."}
   ],
   "faq": [
-    {
-      "q": "Faut-il toujours redescendre en rappel ou la moulinette est-elle acceptable ?",
-      "a": "La descente en rappel reste la procédure de référence sur la grande majorité des relais en falaise sportive française. La moulinette directe sur le relais use prématurément les maillons et reste réservée aux relais équipés d'un anneau dédié à cet usage. En cas de doute sur le type de relais, descends systématiquement en rappel. Cette règle protège à la fois le grimpeur et les équipements collectifs."
-    },
-    {
-      "q": "Combien de points faut-il pour se vacher au relais ?",
-      "a": "Deux points indépendants, idéalement les deux points scellés du relais ou alternativement le maillon central plus un point scellé. Cette redondance protège contre la défaillance improbable d'un point unique, qui reste exceptionnellement documentée sur des équipements anciens ou dégradés. La règle s'applique sur tous les relais sans exception, indépendamment de l'état apparent de l'équipement."
-    },
-    {
-      "q": "L'autobloquant est-il vraiment indispensable en rappel ?",
-      "a": "Oui, dans la pratique moderne en falaise. L'autobloquant agit comme freinage de secours indépendant du descendeur, qui prend le relais en cas de lâcher prise involontaire suite à chute de pierre, malaise ou imprévu. La FFME et les écoles d'escalade le recommandent systématiquement depuis les années 2000. Quelques rares pratiquants expérimentés s'en passent en environnement très contrôlé, mais cette pratique reste minoritaire et non recommandée."
-    },
-    {
-      "q": "Quelle longueur de corde pour le rappel double sur falaise sportive ?",
-      "a": "La corde doit mesurer au moins le double de la longueur de la voie. Pour une voie de 30 mètres, une corde de 60 mètres minimum, idéalement 70 mètres pour la marge. La vérification de la longueur effective avant le départ en bas de voie reste essentielle. Les nœuds d'arrêt aux deux bouts au sol garantissent que le grimpeur ne sortira pas de la corde même si elle s'avère plus courte que prévu."
-    },
-    {
-      "q": "Peut-on nettoyer un relais sans expérience préalable ?",
-      "a": "Non. La manœuvre exige un apprentissage en stage encadré avec répétitions au sol, puis sortie accompagnée par un grimpeur expérimenté. L'autonomie ne s'acquiert qu'après vingt à trente répétitions sur relais d'apprentissage, suivies de trois à six sorties supervisées en situation réelle. Tenter le nettoyage en autonomie sans cet apprentissage reste l'une des principales causes d'accidents en falaise sportive."
-    },
-    {
-      "q": "Que faire si la corde se coince au rappel après la descente ?",
-      "a": "Plusieurs options dans l'ordre. Premièrement, tirer sur l'autre brin pour libérer l'enroulement. Deuxièmement, secouer la corde par à-coups pour décrocher les coincements. Troisièmement, en dernier recours, remonter sur l'un des brins en jumar ou en autobloquant pour aller libérer manuellement la corde au relais. La prévention reste préférable, par une descente avec brins parallèles et propres sans torsade."
-    }
+    {"q": "Faut-il toujours redescendre en rappel ou la moulinette est-elle acceptable ?", "a": "La descente en rappel reste la procédure de référence sur la grande majorité des relais en falaise sportive française. La moulinette directe sur le relais use prématurément les maillons et reste réservée aux relais équipés d'un anneau dédié à cet usage. En cas de doute sur le type de relais, descends systématiquement en rappel. Cette règle protège à la fois le grimpeur et les équipements collectifs."},
+    {"q": "Combien de points faut-il pour se vacher au relais ?", "a": "Deux points indépendants, idéalement les deux points scellés du relais ou alternativement le maillon central plus un point scellé. Cette redondance protège contre la défaillance improbable d'un point unique, qui reste exceptionnellement documentée sur des équipements anciens ou dégradés. La règle s'applique sur tous les relais sans exception, indépendamment de l'état apparent de l'équipement."},
+    {"q": "L'autobloquant est-il vraiment indispensable en rappel ?", "a": "Oui, dans la pratique moderne en falaise. L'autobloquant agit comme freinage de secours indépendant du descendeur, qui prend le relais en cas de lâcher prise involontaire suite à chute de pierre, malaise ou imprévu. La FFME et les écoles d'escalade le recommandent systématiquement depuis les années 2000. Quelques rares pratiquants expérimentés s'en passent en environnement très contrôlé, mais cette pratique reste minoritaire et non recommandée."},
+    {"q": "Quelle longueur de corde pour le rappel double sur falaise sportive ?", "a": "La corde doit mesurer au moins le double de la longueur de la voie. Pour une voie de 30 mètres, une corde de 60 mètres minimum, idéalement 70 mètres pour la marge. La vérification de la longueur effective avant le départ en bas de voie reste essentielle. Les nœuds d'arrêt aux deux bouts au sol garantissent que le grimpeur ne sortira pas de la corde même si elle s'avère plus courte que prévu."},
+    {"q": "Peut-on nettoyer un relais sans expérience préalable ?", "a": "Non. La manœuvre exige un apprentissage en stage encadré avec répétitions au sol, puis sortie accompagnée par un grimpeur expérimenté. L'autonomie ne s'acquiert qu'après vingt à trente répétitions sur relais d'apprentissage, suivies de trois à six sorties supervisées en situation réelle. Tenter le nettoyage en autonomie sans cet apprentissage reste l'une des principales causes d'accidents en falaise sportive."},
+    {"q": "Que faire si la corde se coince au rappel après la descente ?", "a": "Plusieurs options dans l'ordre. Premièrement, tirer sur l'autre brin pour libérer l'enroulement. Deuxièmement, secouer la corde par à-coups pour décrocher les coincements. Troisièmement, en dernier recours, remonter sur l'un des brins en jumar ou en autobloquant pour aller libérer manuellement la corde au relais. La prévention reste préférable, par une descente avec brins parallèles et propres sans torsade."}
   ],
   "cover_alt": "Grimpeur vaché à un relais de falaise sportive en train de manipuler une corde rouge dans un maillon rapide en acier, baudrier orange visible, dégaine clipée au point gauche, rocher calcaire ensoleillé",
   "internal_links": [
-    {
-      "slug": "noeuds-escalade-utiles-guide",
-      "anchor": "panorama des nœuds utiles",
-      "context": "pilier cocon"
-    },
-    {
-      "slug": "noeud-huit-encordement",
-      "anchor": "nœud de huit",
-      "context": "encordement principal"
-    },
-    {
-      "slug": "verifier-noeud-partenaire",
-      "anchor": "contrôle systématique du partenaire",
-      "context": "sécurité globale"
-    },
-    {
-      "slug": "rappel-en-double-techniques",
-      "anchor": "rappel en double",
-      "context": "procédure technique"
-    },
-    {
-      "slug": "retenir-noeuds-escalade-methode",
-      "anchor": "méthode pour retenir les nœuds",
-      "context": "apprentissage"
-    },
-    {
-      "slug": "noeud-prussik-auto-bloquant",
-      "anchor": "autobloquant prussik",
-      "context": "matériel sécurité"
-    }
+    {"slug": "noeuds-escalade-utiles-guide", "anchor": "panorama des nœuds utiles", "context": "pilier cocon"},
+    {"slug": "noeud-huit-encordement", "anchor": "nœud de huit", "context": "encordement principal"},
+    {"slug": "verifier-noeud-partenaire", "anchor": "contrôle systématique du partenaire", "context": "sécurité globale"},
+    {"slug": "rappel-en-double-techniques", "anchor": "rappel en double", "context": "procédure technique"},
+    {"slug": "retenir-noeuds-escalade-methode", "anchor": "méthode pour retenir les nœuds", "context": "apprentissage"},
+    {"slug": "noeud-prussik-auto-bloquant", "anchor": "autobloquant prussik", "context": "matériel sécurité"}
   ],
   "scheduled_at": "2026-10-31T09:00:00+01:00"
 }
