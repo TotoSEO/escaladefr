@@ -265,27 +265,77 @@
     {
       "slug": "noeud-huit-encordement",
       "anchor": "le guide détaillé du nœud de huit",
-      "context": "Article enfant cocon noeuds"
+      "context": "enfant cocon nœuds"
     },
     {
       "slug": "noeud-cabestan-relais",
-      "anchor": "notre guide cabestan",
-      "context": "Article enfant cocon noeuds"
+      "anchor": "les détails dans le cabestan",
+      "context": "enfant cocon nœuds"
+    },
+    {
+      "slug": "noeud-prussik-auto-bloquant",
+      "anchor": "Le prussik comme auto-bloquant de référence",
+      "context": "enfant cocon nœuds"
     },
     {
       "slug": "noeud-machard-comparatif",
-      "anchor": "notre comparatif prussik / machard",
-      "context": "Article enfant cocon noeuds"
+      "anchor": "dans le match prussik contre machard",
+      "context": "enfant cocon nœuds"
+    },
+    {
+      "slug": "noeud-pecheur-double-rappel",
+      "anchor": "Le pêcheur double en jonction de rappel",
+      "context": "enfant cocon nœuds"
+    },
+    {
+      "slug": "noeud-mickey-rappel",
+      "anchor": "Le nœud mickey en bout de corde de rappel",
+      "context": "enfant cocon nœuds"
     },
     {
       "slug": "retenir-noeuds-escalade-methode",
-      "anchor": "méthode complète pour mémoriser les nœuds",
-      "context": "Article enfant cocon noeuds"
+      "anchor": "La mémorisation des nœuds d'escalade",
+      "context": "enfant cocon nœuds"
     },
     {
       "slug": "verifier-noeud-partenaire",
-      "anchor": "notre protocole de vérification du partenaire",
-      "context": "Article enfant cocon noeuds"
+      "anchor": "vérifient mutuellement le nœud et le baudrier",
+      "context": "enfant cocon nœuds"
+    },
+    {
+      "slug": "nettoyer-relais-rappel-securite",
+      "anchor": "la manœuvre de nettoyage du relais avant rappel",
+      "context": "enfant cocon nœuds"
+    },
+    {
+      "slug": "noeud-chaise-alpinisme",
+      "anchor": "Le nœud de chaise comme encordement d'alpinisme",
+      "context": "enfant cocon nœuds"
+    },
+    {
+      "slug": "noeud-papillon-corde-endommagee",
+      "anchor": "Le papillon pour isoler une zone de corde endommagée",
+      "context": "enfant cocon nœuds"
+    },
+    {
+      "slug": "noeud-mule-bloquant-corde",
+      "anchor": "Le mule bloquant sur le demi-cabestan",
+      "context": "enfant cocon nœuds"
+    },
+    {
+      "slug": "noeud-tete-alouette-sangle",
+      "anchor": "La tête d'alouette sur sangle ou becquet",
+      "context": "enfant cocon nœuds"
+    },
+    {
+      "slug": "noeud-italien-improvise",
+      "anchor": "le nœud italien improvisé",
+      "context": "enfant cocon nœuds"
+    },
+    {
+      "slug": "noeud-demi-cabestan-assurance",
+      "anchor": "le demi-cabestan d'assurage de secours",
+      "context": "enfant cocon nœuds"
     }
   ],
   "scheduled_at": "2026-05-21T09:00:00+02:00"
