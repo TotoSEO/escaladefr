@@ -15,51 +15,157 @@
     "À Fontainebleau, la magnésie est tolérée mais le brossage systématique des prises est attendu."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Ce que c'est vraiment, la magnésie d'escalade"},
-    {"type": "p", "html": "La magnésie utilisée en grimpe est du <strong>carbonate de magnésium</strong>, formule chimique MgCO3, parfois additionné d'agents de séchage comme la silice ou le bicarbonate. Rien à voir avec la magnésie laxative vendue en pharmacie. Le rôle du carbonate est simple : il absorbe la sueur des mains, neutralise l'humidité de la peau et augmente le coefficient de friction entre les doigts et la prise."},
-    {"type": "p", "html": "Toutes les magnésies ne se valent pas. Les produits bon marché de salle contiennent souvent beaucoup de charges minérales inertes qui sèchent mal et laissent une couche blanche peu adhérente. Les marques premium comme <strong>Friction Labs</strong> commercialisent du carbonate très pur, avec une granulométrie travaillée pour maximiser la surface d'absorption. La différence se sent à la deuxième prise."},
-    {"type": "p", "html": "Personnellement j'ai longtemps grimpé avec n'importe quelle poudre du club, jusqu'à ce qu'un copain me prête un sachet de Friction Labs Unicorn Dust en bloc à Bleau. Le grip change de catégorie sur du grès humide, c'est flagrant. Depuis je n'achète plus que ça pour les sorties extérieures."},
-    {"type": "h2", "text": "Le bloc compact, format classique en falaise"},
-    {"type": "p", "html": "Le bloc de magnésie pèse entre 50 et 60 grammes, se présente sous forme d'un cube ou d'un parallélépipède compressé. On le casse à la main en morceaux plus petits qu'on glisse dans son sac à magnésie. Le bloc se transporte sans dégât, ne se renverse pas, dégage moins de poussière dans le sac à dos. C'est le format préféré des falaisistes qui font de longues sessions où le risque de renverser le sac est élevé."},
-    {"type": "p", "html": "Côté usage, le bloc s'effrite naturellement au contact des doigts dans le sachet. Tu plonges la main, tu frottes contre le morceau, tu ressors avec la dose adaptée. L'effritement progressif évite le sur-dosage automatique de la poudre libre. Compte 4 à 8 € le bloc selon la marque, durée de vie environ deux à trois mois pour un grimpeur régulier."},
-    {"type": "h2", "text": "La poudre libre, standard en salle"},
-    {"type": "p", "html": "La poudre se vend en sachets refermables de 100, 200 ou 500 grammes. Granulométrie fine, parfois additionnée d'arômes ou de séchants spécifiques. C'est le format dominant en salle parce qu'il se ressert vite et que le geste est rapide entre deux essais. La poudre libre encrasse plus le sac, vole davantage, mais offre le meilleur compromis prix-disponibilité."},
+    {
+      "type": "h2",
+      "text": "Ce que c'est vraiment, la magnésie d'escalade"
+    },
+    {
+      "type": "p",
+      "html": "La magnésie utilisée en <a href=\"/blog/sac-escalade-emporter\">grimpe</a> est du <strong>carbonate de magnésium</strong>, formule chimique MgCO3, parfois additionné d'agents de séchage comme la silice ou le bicarbonate. Rien à voir avec la magnésie laxative vendue en pharmacie. Le rôle du carbonate est simple : il absorbe la sueur des mains, neutralise l'humidité de la peau et augmente le coefficient de friction entre les doigts et la prise."
+    },
+    {
+      "type": "p",
+      "html": "Toutes les magnésies ne se valent pas. Les produits bon marché de salle contiennent souvent beaucoup de charges minérales inertes qui sèchent mal et laissent une couche blanche peu adhérente. Les marques premium comme <strong>Friction Labs</strong> commercialisent du carbonate très pur, avec une granulométrie travaillée pour maximiser la surface d'absorption. La différence se sent à la deuxième prise."
+    },
+    {
+      "type": "p",
+      "html": "Personnellement j'ai longtemps grimpé avec n'importe quelle poudre du club, jusqu'à ce qu'un copain me prête un sachet de Friction Labs Unicorn Dust en bloc à Bleau. Le grip change de catégorie sur du grès humide, c'est flagrant. Depuis je n'achète plus que ça pour les sorties extérieures."
+    },
+    {
+      "type": "h2",
+      "text": "Le bloc compact, format classique en falaise"
+    },
+    {
+      "type": "p",
+      "html": "Le bloc de magnésie pèse entre 50 et 60 grammes, se présente sous forme d'un cube ou d'un parallélépipède compressé. On le casse à la main en morceaux plus petits qu'on glisse dans son sac à magnésie. Le bloc se transporte sans dégât, ne se renverse pas, dégage moins de poussière dans le sac à dos. C'est le format préféré des falaisistes qui font de longues sessions où le risque de renverser le sac est élevé."
+    },
+    {
+      "type": "p",
+      "html": "Côté usage, le bloc s'effrite naturellement au contact des doigts dans le sachet. Tu plonges la main, tu frottes contre le morceau, tu ressors avec la dose adaptée. L'effritement progressif évite le sur-dosage automatique de la poudre libre. Compte 4 à 8 € le bloc selon la marque, durée de vie environ deux à trois mois pour un grimpeur régulier."
+    },
+    {
+      "type": "h2",
+      "text": "La poudre libre, standard en salle"
+    },
+    {
+      "type": "p",
+      "html": "La poudre se vend en sachets refermables de 100, 200 ou 500 grammes. Granulométrie fine, parfois additionnée d'arômes ou de séchants spécifiques. C'est le format dominant en salle parce qu'il se ressert vite et que le geste est rapide entre deux essais. La poudre libre encrasse plus le sac, vole davantage, mais offre le meilleur compromis prix-disponibilité."
+    },
     {
       "type": "list",
       "variant": "cards",
       "title": "Trois poudres de référence selon le budget",
       "items": [
-        {"title": "Black Diamond White Gold", "body": "Standard fiable à 12-15 € les 300 g, granulométrie moyenne, disponible partout en France. Bon rapport qualité-prix pour la grimpe régulière en salle, sans chercher la performance ultime."},
-        {"title": "Mammut Pure Chalk", "body": "Carbonate sans additifs, finition légèrement plus crémeuse, autour de 14 € les 300 g. Marque suisse historique, qualité constante d'un lot à l'autre, choix sûr pour qui veut éviter les surprises."},
-        {"title": "Friction Labs Unicorn Dust", "body": "Référence premium à 18-22 € les 170 g. Particules ultra-fines, absorption supérieure validée par les compétiteurs, indispensable sur grès humide ou granit froid. Cher mais efficace."}
+        {
+          "title": "Black Diamond White Gold",
+          "body": "Standard fiable à 12-15 € les 300 g, granulométrie moyenne, disponible partout en France. Bon rapport qualité-prix pour la grimpe régulière en salle, sans chercher la performance ultime."
+        },
+        {
+          "title": "Mammut Pure Chalk",
+          "body": "Carbonate sans additifs, finition légèrement plus crémeuse, autour de 14 € les 300 g. Marque suisse historique, qualité constante d'un lot à l'autre, choix sûr pour qui veut éviter les surprises."
+        },
+        {
+          "title": "Friction Labs Unicorn Dust",
+          "body": "Référence premium à 18-22 € les 170 g. Particules ultra-fines, absorption supérieure validée par les compétiteurs, indispensable sur grès humide ou granit froid. Cher mais efficace."
+        }
       ]
     },
-    {"type": "h2", "text": "La magnésie liquide, propre et tolérée partout"},
-    {"type": "p", "html": "La <strong>magnésie liquide</strong> est un mélange de carbonate de magnésium et d'alcool isopropylique, parfois avec des résines de séchage. Tu déposes une noisette dans la paume, tu frottes, l'alcool s'évapore en quelques secondes et laisse un film blanc collé à la peau. Très peu volatile, presque invisible sur la roche après usage, elle est tolérée sur la majorité des sites où la poudre fait débat."},
-    {"type": "p", "html": "Les avantages sont nets : zéro poussière dans le sac à dos, pas de marques blanches qui restent sur les prises, application uniforme sans excès. Les inconvénients existent : l'alcool dessèche fort la peau en cas d'usage intensif, la couche initiale s'épuise au bout de trois ou quatre voies si tu ne complètes pas avec de la poudre, le format gel à 12-20 € les 200 ml revient cher au gramme de produit utile."},
-    {"type": "p", "html": "Mon usage perso : une couche de liquide en début de séance, des recharges en poudre pendant l'effort. La combinaison donne la meilleure tenue sans surconsommation, et limite la quantité projetée dans l'air ambiant en salle."},
-    {"type": "h2", "text": "La ball, propre mais limitée"},
-    {"type": "p", "html": "La ball est un sachet en tissu fin rempli de poudre. Tu presses la balle, la poudre traverse le tissu et te poudre la main sans avoir à plonger les doigts dans le réservoir. C'est le format le plus propre, recommandé dans certaines salles soucieuses de la qualité de l'air et obligatoire dans quelques structures comme certaines salles parisiennes ou japonaises."},
-    {"type": "p", "html": "Limite principale : le dosage est faible. Tu obtiens une fine couche, suffisante pour un mouvement, insuffisante pour une voie engagée où tu transpires beaucoup. Les balls se vendent rechargeables, autour de 8 à 12 € l'unité initiale, recharge avec n'importe quelle poudre fine. C'est un complément utile, pas une solution principale."},
-    {"type": "h2", "text": "Magnésie et éthique de site, ce qu'il faut savoir"},
-    {"type": "p", "html": "Sur certaines falaises françaises, la magnésie est restreinte voire interdite. La raison est esthétique (traces blanches visibles à distance) et écologique (modification de la flore sur grès et calcaire). À Fontainebleau, le carbonate reste toléré mais la <strong>FFME</strong> recommande explicitement le brossage des prises après usage et le passage à la magnésie de couleur ocre adaptée à la teinte du grès."},
-    {"type": "p", "html": "Sur des sites comme la forêt de Bouvante ou certains secteurs de l'Arbois, des restrictions locales s'appliquent. Renseigne-toi sur le topo ou auprès du club local avant de poser ton sac à magnésie. Le respect de ces consignes conditionne l'accès à long terme de la communauté grimpe sur ces spots, déjà fragilisée par des conflits récurrents avec les propriétaires fonciers."},
-    {"type": "tip", "title": "Doser sa magnésie, le réflexe à apprendre vite", "body": "Beaucoup de débutants mettent trois fois trop de magnésie. La main blanche jusqu'au poignet ne sert à rien, l'excédent tombe au sol ou pollue les prises. Un demi-trempage, frotter les paumes l'une contre l'autre pour répartir, taper sec contre la cuisse pour évacuer le surplus. Tu obtiens une couche fine et efficace, et ton sac dure trois fois plus longtemps.", "tone": "astuce"}
+    {
+      "type": "h2",
+      "text": "La magnésie liquide, propre et tolérée partout"
+    },
+    {
+      "type": "p",
+      "html": "La <strong>magnésie liquide</strong> est un mélange de carbonate de magnésium et d'alcool isopropylique, parfois avec des résines de séchage. Tu déposes une noisette dans la paume, tu frottes, l'alcool s'évapore en quelques secondes et laisse un film blanc collé à la peau. Très peu volatile, presque invisible sur la roche après usage, elle est tolérée sur la majorité des sites où la poudre fait débat."
+    },
+    {
+      "type": "p",
+      "html": "Les avantages sont nets : zéro poussière dans le sac à dos, pas de marques blanches qui restent sur les prises, application uniforme sans excès. Les inconvénients existent : l'alcool dessèche fort la peau en cas d'usage intensif, la couche initiale s'épuise au bout de trois ou quatre voies si tu ne complètes pas avec de la poudre, le format gel à 12-20 € les 200 ml revient cher au gramme de produit utile."
+    },
+    {
+      "type": "p",
+      "html": "Mon usage perso : une couche de liquide en début de séance, des recharges en poudre pendant l'effort. La combinaison donne la meilleure tenue sans surconsommation, et limite la quantité projetée dans l'air ambiant en salle."
+    },
+    {
+      "type": "h2",
+      "text": "La ball, propre mais limitée"
+    },
+    {
+      "type": "p",
+      "html": "La ball est un sachet en tissu fin rempli de poudre. Tu presses la balle, la poudre traverse le tissu et te poudre la main sans avoir à plonger les doigts dans le réservoir. C'est le format le plus propre, recommandé dans certaines salles soucieuses de la qualité de l'air et obligatoire dans quelques structures comme certaines salles parisiennes ou japonaises."
+    },
+    {
+      "type": "p",
+      "html": "Limite principale : le dosage est faible. Tu obtiens une fine couche, suffisante pour un mouvement, insuffisante pour une voie engagée où tu transpires beaucoup. Les balls se vendent rechargeables, autour de 8 à 12 € l'unité initiale, recharge avec n'importe quelle poudre fine. C'est un complément utile, pas une solution principale."
+    },
+    {
+      "type": "h2",
+      "text": "Magnésie et éthique de site, ce qu'il faut savoir"
+    },
+    {
+      "type": "p",
+      "html": "Sur certaines falaises françaises, la magnésie est restreinte voire interdite. La raison est esthétique (traces blanches visibles à distance) et écologique (modification de la flore sur grès et calcaire). À Fontainebleau, le carbonate reste toléré mais la <strong>FFME</strong> recommande explicitement le brossage des prises après usage et le passage à la magnésie de couleur ocre adaptée à la teinte du grès."
+    },
+    {
+      "type": "p",
+      "html": "Sur des sites comme la forêt de Bouvante ou certains secteurs de l'Arbois, des restrictions locales s'appliquent. Renseigne-toi sur le topo ou auprès du club local avant de poser ton sac à magnésie. Le respect de ces consignes conditionne l'accès à long terme de la communauté grimpe sur ces spots, déjà fragilisée par des conflits récurrents avec les propriétaires fonciers."
+    },
+    {
+      "type": "tip",
+      "title": "Doser sa magnésie, le réflexe à apprendre vite",
+      "body": "Beaucoup de débutants mettent trois fois trop de magnésie. La main blanche jusqu'au poignet ne sert à rien, l'excédent tombe au sol ou pollue les prises. Un demi-trempage, frotter les paumes l'une contre l'autre pour répartir, taper sec contre la cuisse pour évacuer le surplus. Tu obtiens une couche fine et efficace, et ton sac dure trois fois plus longtemps.",
+      "tone": "astuce"
+    }
   ],
   "faq": [
-    {"q": "Magnésie liquide ou poudre, laquelle choisir pour démarrer ?", "a": "Pour démarrer en salle, la poudre suffit largement. Elle coûte moins cher au gramme, se recharge facilement, et c'est le format que tu retrouveras dans tous les sacs autour de toi. La magnésie liquide devient pertinente quand tu commences à sortir en falaise, à projeter ou à fréquenter des sites où la propreté visuelle compte. Beaucoup de grimpeurs combinent les deux à terme."},
-    {"q": "La magnésie abîme-t-elle la peau ?", "a": "Elle dessèche la peau, c'est certain, en absorbant aussi le sébum naturel. Sur plusieurs séances par semaine, les doigts peuvent fissurer aux articulations. La parade : crème nourrissante de récupération comme la Climb On ou la Joshua Tree après chaque session, ponçage léger des callosités, hydratation interne. La magnésie liquide accentue le phénomène à cause de l'alcool."},
-    {"q": "Peut-on grimper sans magnésie du tout ?", "a": "Oui, certains grimpeurs s'en passent par choix éthique ou parce qu'ils transpirent peu. Sur du calcaire sec et frais, la magnésie n'apporte pas grand-chose. Sur du grès, du granit ou en intérieur tempéré, elle reste un confort réel. La question se pose surtout pour la pratique haut niveau en bloc dur, où la marge de friction compte vraiment."},
-    {"q": "Faut-il une magnésie spéciale pour le bloc en extérieur ?", "a": "Pas spécifiquement, mais les marques premium type Friction Labs ou Eight Bplus Pure Chalk montrent un vrai gain sur les sessions de projet en bloc, là où chaque essai compte. Sur grès de Bleau, certains pratiquants préfèrent les versions colorées ocre qui disparaissent visuellement dans la roche après brossage. C'est un détail mais ça aide à préserver l'esthétique du site."},
-    {"q": "Combien de temps dure un sac de magnésie ?", "a": "Un sachet de 300 grammes de poudre dure entre deux et quatre mois pour un grimpeur qui pratique deux à trois fois par semaine. Le bloc de 56 grammes tient environ six semaines. La magnésie liquide en flacon de 200 ml couvre vingt à trente séances selon ton dosage. Au-delà, c'est que tu en mets trop."}
+    {
+      "q": "Magnésie liquide ou poudre, laquelle choisir pour démarrer ?",
+      "a": "Pour démarrer en salle, la poudre suffit largement. Elle coûte moins cher au gramme, se recharge facilement, et c'est le format que tu retrouveras dans tous les sacs autour de toi. La magnésie liquide devient pertinente quand tu commences à sortir en falaise, à projeter ou à fréquenter des sites où la propreté visuelle compte. Beaucoup de grimpeurs combinent les deux à terme."
+    },
+    {
+      "q": "La magnésie abîme-t-elle la peau ?",
+      "a": "Elle dessèche la peau, c'est certain, en absorbant aussi le sébum naturel. Sur plusieurs séances par semaine, les doigts peuvent fissurer aux articulations. La parade : crème nourrissante de récupération comme la Climb On ou la Joshua Tree après chaque session, ponçage léger des callosités, hydratation interne. La magnésie liquide accentue le phénomène à cause de l'alcool."
+    },
+    {
+      "q": "Peut-on grimper sans magnésie du tout ?",
+      "a": "Oui, certains grimpeurs s'en passent par choix éthique ou parce qu'ils transpirent peu. Sur du calcaire sec et frais, la magnésie n'apporte pas grand-chose. Sur du grès, du granit ou en intérieur tempéré, elle reste un confort réel. La question se pose surtout pour la pratique haut niveau en bloc dur, où la marge de friction compte vraiment."
+    },
+    {
+      "q": "Faut-il une magnésie spéciale pour le bloc en extérieur ?",
+      "a": "Pas spécifiquement, mais les marques premium type Friction Labs ou Eight Bplus Pure Chalk montrent un vrai gain sur les sessions de projet en bloc, là où chaque essai compte. Sur grès de Bleau, certains pratiquants préfèrent les versions colorées ocre qui disparaissent visuellement dans la roche après brossage. C'est un détail mais ça aide à préserver l'esthétique du site."
+    },
+    {
+      "q": "Combien de temps dure un sac de magnésie ?",
+      "a": "Un sachet de 300 grammes de poudre dure entre deux et quatre mois pour un grimpeur qui pratique deux à trois fois par semaine. Le bloc de 56 grammes tient environ six semaines. La magnésie liquide en flacon de 200 ml couvre vingt à trente séances selon ton dosage. Au-delà, c'est que tu en mets trop."
+    }
   ],
   "cover_alt": "Sac à magnésie ouvert posé sur une dalle de grès à Fontainebleau, poudre blanche visible à l'intérieur, mains poudrées d'un grimpeur en arrière-plan flou, lumière dorée de fin d'après-midi",
   "internal_links": [
-    {"slug": "materiel-escalade-essentiel", "anchor": "matériel d'escalade essentiel", "context": "pilier matériel"},
-    {"slug": "brosse-grimpe-entretien-prises", "anchor": "brosser les prises après usage", "context": "éthique site"},
-    {"slug": "bleau-circuits-debutant", "anchor": "circuits débutants de Bleau", "context": "exemple grès"},
-    {"slug": "matos-bloc-checklist", "anchor": "checklist matériel bloc", "context": "préparer sac"},
-    {"slug": "sac-escalade-emporter", "anchor": "sac de grimpe à emporter", "context": "rangement magnésie"}
+    {
+      "slug": "materiel-escalade-essentiel",
+      "anchor": "matériel d'escalade essentiel",
+      "context": "pilier matériel"
+    },
+    {
+      "slug": "brosse-grimpe-entretien-prises",
+      "anchor": "brosser les prises après usage",
+      "context": "éthique site"
+    },
+    {
+      "slug": "bleau-circuits-debutant",
+      "anchor": "circuits débutants de Bleau",
+      "context": "exemple grès"
+    },
+    {
+      "slug": "matos-bloc-checklist",
+      "anchor": "checklist matériel bloc",
+      "context": "préparer sac"
+    },
+    {
+      "slug": "sac-escalade-emporter",
+      "anchor": "sac de grimpe à emporter",
+      "context": "rangement magnésie"
+    }
   ],
   "scheduled_at": "2026-09-10T09:00:00+02:00"
 }

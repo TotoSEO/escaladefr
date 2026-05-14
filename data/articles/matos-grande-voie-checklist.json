@@ -15,82 +15,271 @@
     "La vérification croisée du matériel se fait à deux au pied de la voie, pas dans le sac."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Le matériel d'escalade pur, le coeur du sac"},
-    {"type": "p", "html": "Le bloc essentiel comprend tout ce qui assure la progression et la sécurité technique sur la voie. La <strong>corde simple</strong> en 9,5 à 10,2 mm reste le standard pour la grande voie en falaise française classique, longueur 60 ou 70 m selon le terrain. Pour la haute montagne ou les voies à rappels longs, deux brins en corde à double 8 mm changent la donne mais alourdissent le sac."},
-    {"type": "p", "html": "Les dégaines : 12 unités constituent la base d'une grande voie sportive en France. Certaines voies équipées récemment demandent jusqu'à 15 ou 16 dégaines par longueur, regarde le topo. Pour le trad on remplace partiellement par des coinceurs et des friends. Mélange recommandé : 6 dégaines courtes (15 cm) pour les passages directs, 6 dégaines longues (25 cm) pour limiter le tirage de corde sur traversées."},
+    {
+      "type": "h2",
+      "text": "Le matériel d'escalade pur, le coeur du sac"
+    },
+    {
+      "type": "p",
+      "html": "Le bloc essentiel comprend tout ce qui assure la progression et la sécurité technique sur la voie. La <strong>corde simple</strong> en 9,5 à 10,2 mm reste le standard pour la grande voie en falaise française classique, longueur 60 ou 70 m selon le terrain. Pour la haute montagne ou les voies à rappels longs, deux brins en corde à double 8 mm changent la donne mais alourdissent le sac."
+    },
+    {
+      "type": "p",
+      "html": "Les dégaines : 12 unités constituent la base d'une grande voie sportive en France. Certaines voies équipées récemment demandent jusqu'à 15 ou 16 dégaines par longueur, regarde le topo. Pour le trad on remplace partiellement par des coinceurs et des friends. Mélange recommandé : 6 dégaines courtes (15 cm) pour les passages directs, 6 dégaines longues (25 cm) pour limiter le tirage de corde sur traversées."
+    },
     {
       "type": "list",
       "variant": "numbered",
       "title": "Inventaire complet du matériel technique",
       "items": [
-        {"title": "Corde", "body": "1 corde simple 60-70 m en 9,5-10 mm, ou 2 brins 50-60 m en double 7,5-8 mm pour les voies à rappels. Poids 3,5 à 4,5 kg selon le choix."},
-        {"title": "Dégaines et mousquetons", "body": "12 dégaines mixtes (6 courtes + 6 longues), 4 mousquetons HMS à vis pour les relais et manœuvres, 2 mousquetons de service à vis pour l'assurage. Poids cumulé 1,2-1,5 kg."},
-        {"title": "Sangles et anneaux", "body": "4 anneaux de 60 cm en Dyneema ou polyester, 2 anneaux de 120 cm, 1 anneau de 240 cm pour relais sur becquet. Poids 250-350 g."},
-        {"title": "Longes", "body": "1 longe ajustable type Petzl Connect Adjust par grimpeur, ou alternative double-sangle si tu pratiques la méthode classique. Poids 130-180 g."},
-        {"title": "Système d'assurage", "body": "1 plaquette type Petzl Reverso ou Black Diamond ATC Guide pour assurer du second en mode auto-bloquant. Poids 70-90 g."},
-        {"title": "Casque", "body": "1 casque par grimpeur, indispensable en grande voie pour les chutes de pierres et les chocs au relais. Poids 200-350 g pièce."}
+        {
+          "title": "Corde",
+          "body": "1 corde simple 60-70 m en 9,5-10 mm, ou 2 brins 50-60 m en double 7,5-8 mm pour les voies à rappels. Poids 3,5 à 4,5 kg selon le choix."
+        },
+        {
+          "title": "Dégaines et mousquetons",
+          "body": "12 dégaines mixtes (6 courtes + 6 longues), 4 mousquetons HMS à vis pour les relais et manœuvres, 2 mousquetons de service à vis pour l'assurage. Poids cumulé 1,2-1,5 kg."
+        },
+        {
+          "title": "Sangles et anneaux",
+          "body": "4 anneaux de 60 cm en Dyneema ou polyester, 2 anneaux de 120 cm, 1 anneau de 240 cm pour relais sur becquet. Poids 250-350 g."
+        },
+        {
+          "title": "Longes",
+          "body": "1 longe ajustable type Petzl Connect Adjust par grimpeur, ou alternative double-sangle si tu pratiques la méthode classique. Poids 130-180 g."
+        },
+        {
+          "title": "Système d'assurage",
+          "body": "1 plaquette type Petzl Reverso ou Black Diamond ATC Guide pour assurer du second en mode auto-bloquant. Poids 70-90 g."
+        },
+        {
+          "title": "Casque",
+          "body": "1 casque par grimpeur, indispensable en grande voie pour les chutes de pierres et les chocs au relais. Poids 200-350 g pièce."
+        }
       ]
     },
-    {"type": "h2", "text": "Le kit de secours, à toujours emporter"},
-    {"type": "p", "html": "Le kit de secours ne sert quasiment jamais, mais quand il sert c'est crucial. Le minimum vital tient dans une poche du sac : un sifflet de détresse type Fox 40, une couverture de survie format poche, 2 cordelettes 6 mm en 1,50 m pour mouflage et autobloquant, 2 mousquetons à vis supplémentaires, un couteau ou cisaille capable de couper une corde tendue en urgence."},
-    {"type": "p", "html": "Le téléphone portable rentre dans cette catégorie pour appeler le <strong>112</strong> en cas d'accident. Garde-le dans une poche étanche fermée, batterie chargée à 100% au départ. Sur les grandes voies isolées, une lampe frontale légère type Petzl Tikkina permet de finir la descente si le timing dérape."},
-    {"type": "h2", "text": "L'alimentation et l'hydratation, à ne pas sous-estimer"},
-    {"type": "p", "html": "Une grande voie de 6 longueurs représente facilement 4 à 6 heures d'effort intermittent. La déshydratation arrive vite, surtout en été ou sur des falaises exposées sud. Compte 1 litre d'eau par personne en demi-journée, 1,5 à 2 litres si la voie dépasse les 10 longueurs ou si la chaleur dépasse 25°C. Une bouteille type Camelbak Eddy ou une poche à eau souple type Hydrapak rentre facilement dans le sac."},
-    {"type": "p", "html": "Côté nourriture : des sucres rapides accessibles au baudrier (pâtes de fruits, barres de céréales emballées) pour les longueurs longues, et un en-cas plus substantiel au sommet ou à mi-parcours (sandwich, fruits secs, fromage). Évite les aliments qui font soif comme les biscuits salés ou les bonbons collants. Une banane et 50 g d'amandes constituent le snack idéal pour ce type de sortie."},
-    {"type": "h2", "text": "Vêtements et accessoires hors grimpe"},
-    {"type": "p", "html": "Le vêtement dépend totalement de l'orientation, de la météo et de la saison. En base, prévois toujours une couche supplémentaire dans le sac même par beau temps : un coupe-vent fin type doudoune Patagonia Nano Puff ou similaire pèse 250 g et peut sauver une fin de journée si le temps tourne. Une casquette ou un buff protège du soleil et du vent."},
-    {"type": "p", "html": "Les <strong>chaussures d'approche</strong> à remettre au sommet sont parfois oubliées dans le sac. Si la descente se fait par un autre versant à pied, tu ne peux pas redescendre en chaussons de grimpe. Un petit sac repliable type sac musette suffit à porter les chaussons au sommet quand l'approche se fait en chaussures."},
-    {"type": "h2", "text": "Comment équilibrer le poids du sac entre les deux"},
-    {"type": "p", "html": "Le poids total du matériel technique d'une cordée tourne autour de 8 kg. Le partage classique entre les deux grimpeurs distingue le matériel d'usage individuel (baudrier, chaussons, casque, magnésie) du matériel commun à répartir."},
+    {
+      "type": "h2",
+      "text": "Le kit de secours, à toujours emporter"
+    },
+    {
+      "type": "p",
+      "html": "Le kit de secours ne sert quasiment jamais, mais quand il sert c'est crucial. Le minimum vital tient dans une poche du sac : un sifflet de détresse type Fox 40, une couverture de survie format poche, 2 cordelettes 6 mm en 1,50 m pour mouflage et autobloquant, 2 mousquetons à vis supplémentaires, un couteau ou cisaille capable de couper une corde tendue en urgence."
+    },
+    {
+      "type": "p",
+      "html": "Le téléphone portable rentre dans cette catégorie pour appeler le <strong>112</strong> en cas d'accident. Garde-le dans une poche étanche fermée, batterie chargée à 100% au départ. Sur les grandes voies isolées, une lampe frontale légère type Petzl Tikkina permet de finir la descente si le timing dérape."
+    },
+    {
+      "type": "h2",
+      "text": "L'alimentation et l'hydratation, à ne pas sous-estimer"
+    },
+    {
+      "type": "p",
+      "html": "Une grande voie de 6 longueurs représente facilement 4 à 6 heures d'effort intermittent. La déshydratation arrive vite, surtout en été ou sur des falaises exposées sud. Compte 1 litre d'eau par personne en demi-journée, 1,5 à 2 litres si la voie dépasse les 10 longueurs ou si la chaleur dépasse 25°C. Une bouteille type Camelbak Eddy ou une poche à eau souple type Hydrapak rentre facilement dans le sac."
+    },
+    {
+      "type": "p",
+      "html": "Côté nourriture : des sucres rapides accessibles au baudrier (pâtes de fruits, barres de céréales emballées) pour les longueurs longues, et un en-cas plus substantiel au sommet ou à mi-parcours (sandwich, fruits secs, fromage). Évite les aliments qui font soif comme les biscuits salés ou les bonbons collants. Une banane et 50 g d'amandes constituent le snack idéal pour ce type de sortie."
+    },
+    {
+      "type": "h2",
+      "text": "Vêtements et accessoires hors grimpe"
+    },
+    {
+      "type": "p",
+      "html": "Le vêtement dépend totalement de l'orientation, de la météo et de la saison. En base, prévois toujours une couche supplémentaire dans le sac même par beau temps : un coupe-vent fin type doudoune Patagonia Nano Puff ou similaire pèse 250 g et peut sauver une fin de journée si le temps tourne. Une casquette ou un buff protège du soleil et du vent."
+    },
+    {
+      "type": "p",
+      "html": "Les <strong>chaussures d'approche</strong> à remettre au sommet sont parfois oubliées dans le sac. Si la descente se fait par un autre versant à pied, tu ne peux pas redescendre en chaussons de grimpe. Un petit sac repliable type sac musette suffit à porter les chaussons au sommet quand l'approche se fait en chaussures."
+    },
+    {
+      "type": "h2",
+      "text": "Comment équilibrer le poids du sac entre les deux"
+    },
+    {
+      "type": "p",
+      "html": "Le poids total du <a href=\"/blog/materiel-escalade-essentiel\">matériel</a> technique d'une cordée tourne autour de 8 kg. Le partage classique entre les deux grimpeurs distingue le matériel d'usage individuel (baudrier, chaussons, casque, magnésie) du matériel commun à répartir."
+    },
     {
       "type": "table",
       "caption": "Répartition type du matériel commun en cordée de deux",
-      "headers": ["Élément", "Poids", "Porté par"],
+      "headers": [
+        "Élément",
+        "Poids",
+        "Porté par"
+      ],
       "rows": [
-        ["Corde 70 m (10 mm)", "4,2 kg", "Celui qui ouvre la première longueur"],
-        ["Set de dégaines (12)", "1,4 kg", "Celui qui ouvre"],
-        ["Sangles et anneaux", "0,4 kg", "Réparti, 200g chacun"],
-        ["Kit secours + cordelettes", "0,5 kg", "Le second"],
-        ["Eau commune 2 L", "2,0 kg", "Le second"],
-        ["Nourriture + vêtements", "1,5 kg", "Réparti, 0,75 kg chacun"]
+        [
+          "Corde 70 m (10 mm)",
+          "4,2 kg",
+          "Celui qui ouvre la première longueur"
+        ],
+        [
+          "Set de dégaines (12)",
+          "1,4 kg",
+          "Celui qui ouvre"
+        ],
+        [
+          "Sangles et anneaux",
+          "0,4 kg",
+          "Réparti, 200g chacun"
+        ],
+        [
+          "Kit secours + cordelettes",
+          "0,5 kg",
+          "Le second"
+        ],
+        [
+          "Eau commune 2 L",
+          "2,0 kg",
+          "Le second"
+        ],
+        [
+          "Nourriture + vêtements",
+          "1,5 kg",
+          "Réparti, 0,75 kg chacun"
+        ]
       ]
     },
-    {"type": "h2", "text": "La vérification au pied de la voie"},
-    {"type": "p", "html": "La vérification finale se fait debout, sac ouvert, à deux, avant de s'encorder. Tu cites les éléments à voix haute, ton partenaire confirme la présence. Cette vérification croisée évite les oublis classiques : casque resté à la maison, longe au fond du sac de transport, gants oubliés en voiture, batterie de téléphone à 15%. Un check d'une minute évite parfois la galère qui ruine la journée."},
-    {"type": "tip", "title": "Le sac de grande voie idéal", "body": "Pour une journée standard, un sac de 28-35 L type Petzl Bug ou Black Diamond Speed 30 offre le bon volume. Trop petit, tu n'arrives pas à fermer. Trop grand, tu charges inutilement. Privilégie un modèle léger en tissu rip-stop avec un seul compartiment principal et une poche extérieure pour la trousse de secours et l'eau. Les sangles à cordes intégrées sont un vrai plus.", "tone": "astuce"},
-    {"type": "h2", "text": "Adapter la checklist au type de voie"},
-    {"type": "p", "html": "Une grande voie sportive équipée au Verdon n'a pas les mêmes contraintes qu'une voie alpine en Oisans. La checklist générique doit s'ajuster au contexte. En voie sportive bien équipée, tu peux alléger sur les sangles longues et les cordelettes de mouflage. En voie alpine ou semi-équipée, tu charges davantage en sangles, en friends d'appoint, et en système de réchappe."},
-    {"type": "p", "html": "Pour une voie nord en haute altitude, ajoute des gants chauds, une seconde couche isolante, des lunettes de soleil de catégorie 4. Pour une voie de calcaire sud en été, focus sur l'hydratation supplémentaire et la protection solaire (casquette, manches longues fines, crème solaire SPF 50). Le matériel s'adapte, le coeur de la checklist reste."},
-    {"type": "h2", "text": "Le partage du matériel selon l'expérience"},
-    {"type": "p", "html": "En cordée équilibrée, le partage du matériel doit refléter le rôle de chacun. Celui qui ouvre la première longueur porte la corde, ce qui équilibre la difficulté de portage avec l'avantage de grimper en tête frais. Celui qui assure en bas porte l'eau et les vêtements de rechange, charges plus faciles à transporter en seconde."},
-    {"type": "p", "html": "En cordée pédagogique, le grimpeur expérimenté assume plus de charge collective parce que le débutant doit pouvoir se concentrer sur sa progression sans gestion logistique. La répartition n'est pas un dogme, c'est un outil au service de la cordée."},
-    {"type": "h2", "text": "Le topo et la préparation avant la sortie"},
-    {"type": "p", "html": "La préparation se fait la veille, jamais le matin. Tu relis attentivement le topo pour identifier la longueur de la voie, les cotations longueur par longueur, le nombre de points par longueur, le mode de descente (rappels ou pied), la longueur de corde minimale exigée. Une voie de 8 longueurs avec rappels de 30 m demande une corde de 60 m minimum, sinon tu te coinces sur un relais intermédiaire."},
-    {"type": "p", "html": "Vérifie aussi l'orientation et la fréquentation prévisible. Une voie sud en juillet à 14h, c'est une fournaise. Une voie nord en avril après une semaine de pluie, le rocher peut suinter pendant trois jours. La météo fait partie du matériel virtuel à embarquer dans la tête avant la sortie."},
-    {"type": "h2", "text": "L'organisation du matériel sur le baudrier"},
-    {"type": "p", "html": "Une fois au pied de la voie, le matériel s'organise sur les porte-matériels du baudrier dans un ordre précis. Côté droit : dégaines courtes en avant, dégaines longues en arrière. Côté gauche : sangles longues, mousquetons HMS, plaquette d'assurage. Ce rangement systématique permet de saisir l'élément voulu sans regarder, ce qui fait gagner plusieurs secondes par clipage et limite l'épuisement en tête."},
-    {"type": "p", "html": "Sur les voies longues, certains grimpeurs équilibrent le poids gauche-droite pour éviter de pencher en tête, ce qui fatigue inutilement les hanches. Un grimpeur droitier place souvent un peu plus de poids à gauche pour compenser le port naturel."},
-    {"type": "h2", "text": "Le matériel d'urgence à connaître par coeur"},
-    {"type": "p", "html": "Au-delà du sifflet et de la couverture de survie, certains éléments du kit secours méritent une mention spéciale. Les cordelettes de 6 mm en 1,50 m permettent de réaliser un autobloquant Prusik en cas de blocage en rappel, ou un mouflage simple pour remonter sur la corde tendue. Connaître les noeuds de base (Prusik, Machard, demi-cabestan) fait partie de la formation indispensable avant de partir en grande voie autonome."},
-    {"type": "p", "html": "Le téléphone portable bien chargé reste l'outil de secours le plus efficace. En 2026, la couverture réseau couvre la majorité des falaises françaises classiques, et le 112 fonctionne sans abonnement. Pour les zones blanches, certains pratiquants embarquent une balise satellite type Garmin inReach Mini qui permet l'envoi d'un SOS géolocalisé sans réseau cellulaire. Compte 350 € pour le matériel plus 15 €/mois d'abonnement."},
-    {"type": "h2", "text": "Ce qu'on n'emporte jamais en grande voie sportive"},
-    {"type": "p", "html": "Quelques éléments font partie de la liste à exclure pour ne pas s'encombrer. Le set complet de friends et coinceurs n'a aucun intérêt sur une grande voie sportive bien équipée : poids mort qui sert à rien. Les vêtements de rechange complets sont inutiles, une seule couche supplémentaire suffit. Les téléphones secondaires, lecteurs MP3 et autres accessoires électroniques alourdissent sans bénéfice. La règle d'or : pour une grande voie, chaque gramme transporté doit servir."}
+    {
+      "type": "h2",
+      "text": "La vérification au pied de la voie"
+    },
+    {
+      "type": "p",
+      "html": "La vérification finale se fait debout, sac ouvert, à deux, avant de s'encorder. Tu cites les éléments à voix haute, ton partenaire confirme la présence. Cette vérification croisée évite les oublis classiques : casque resté à la maison, longe au fond du sac de transport, <a href=\"/blog/gants-assurage-escalade\">gants</a> oubliés en voiture, batterie de téléphone à 15%. Un check d'une minute évite parfois la galère qui ruine la journée."
+    },
+    {
+      "type": "tip",
+      "title": "Le sac de grande voie idéal",
+      "body": "Pour une journée standard, un sac de 28-35 L type Petzl Bug ou Black Diamond Speed 30 offre le bon volume. Trop petit, tu n'arrives pas à fermer. Trop grand, tu charges inutilement. Privilégie un modèle léger en tissu rip-stop avec un seul compartiment principal et une poche extérieure pour la trousse de secours et l'eau. Les sangles à cordes intégrées sont un vrai plus.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Adapter la checklist au type de voie"
+    },
+    {
+      "type": "p",
+      "html": "Une grande voie sportive équipée au Verdon n'a pas les mêmes contraintes qu'une voie alpine en Oisans. La checklist générique doit s'ajuster au contexte. En voie sportive bien équipée, tu peux alléger sur les <a href=\"/blog/sangles-anneaux-cousus-usage\">sangles</a> longues et les cordelettes de mouflage. En voie alpine ou semi-équipée, tu charges davantage en sangles, en friends d'appoint, et en système de réchappe."
+    },
+    {
+      "type": "p",
+      "html": "Pour une voie nord en haute altitude, ajoute des gants chauds, une seconde couche isolante, des lunettes de soleil de catégorie 4. Pour une voie de calcaire sud en été, focus sur l'hydratation supplémentaire et la protection solaire (casquette, manches longues fines, crème solaire SPF 50). Le matériel s'adapte, le coeur de la checklist reste."
+    },
+    {
+      "type": "h2",
+      "text": "Le partage du matériel selon l'expérience"
+    },
+    {
+      "type": "p",
+      "html": "En cordée équilibrée, le partage du matériel doit refléter le rôle de chacun. Celui qui ouvre la première longueur porte la corde, ce qui équilibre la difficulté de portage avec l'avantage de grimper en tête frais. Celui qui assure en bas porte l'eau et les vêtements de rechange, charges plus faciles à transporter en seconde."
+    },
+    {
+      "type": "p",
+      "html": "En cordée pédagogique, le grimpeur expérimenté assume plus de charge collective parce que le débutant doit pouvoir se concentrer sur sa progression sans gestion logistique. La répartition n'est pas un dogme, c'est un outil au service de la cordée."
+    },
+    {
+      "type": "h2",
+      "text": "Le topo et la préparation avant la sortie"
+    },
+    {
+      "type": "p",
+      "html": "La préparation se fait la veille, jamais le matin. Tu relis attentivement le topo pour identifier la longueur de la voie, les cotations longueur par longueur, le nombre de points par longueur, le mode de descente (rappels ou pied), la longueur de corde minimale exigée. Une voie de 8 longueurs avec rappels de 30 m demande une corde de 60 m minimum, sinon tu te coinces sur un relais intermédiaire."
+    },
+    {
+      "type": "p",
+      "html": "Vérifie aussi l'orientation et la fréquentation prévisible. Une voie sud en juillet à 14h, c'est une fournaise. Une voie nord en avril après une semaine de pluie, le rocher peut suinter pendant trois jours. La météo fait partie du matériel virtuel à embarquer dans la tête avant la sortie."
+    },
+    {
+      "type": "h2",
+      "text": "L'organisation du matériel sur le baudrier"
+    },
+    {
+      "type": "p",
+      "html": "Une fois au pied de la voie, le matériel s'organise sur les porte-matériels du baudrier dans un ordre précis. Côté droit : dégaines courtes en avant, dégaines longues en arrière. Côté gauche : sangles longues, mousquetons HMS, plaquette d'assurage. Ce rangement systématique permet de saisir l'élément voulu sans regarder, ce qui fait gagner plusieurs secondes par clipage et limite l'épuisement en tête."
+    },
+    {
+      "type": "p",
+      "html": "Sur les voies longues, certains grimpeurs équilibrent le poids gauche-droite pour éviter de pencher en tête, ce qui fatigue inutilement les hanches. Un grimpeur droitier place souvent un peu plus de poids à gauche pour compenser le port naturel."
+    },
+    {
+      "type": "h2",
+      "text": "Le matériel d'urgence à connaître par coeur"
+    },
+    {
+      "type": "p",
+      "html": "Au-delà du sifflet et de la couverture de survie, certains éléments du kit secours méritent une mention spéciale. Les cordelettes de 6 mm en 1,50 m permettent de réaliser un autobloquant Prusik en cas de blocage en rappel, ou un mouflage simple pour remonter sur la corde tendue. Connaître les noeuds de base (Prusik, Machard, demi-cabestan) fait partie de la formation indispensable avant de partir en grande voie autonome."
+    },
+    {
+      "type": "p",
+      "html": "Le téléphone portable bien chargé reste l'outil de secours le plus efficace. En 2026, la couverture réseau couvre la majorité des falaises françaises classiques, et le 112 fonctionne sans abonnement. Pour les zones blanches, certains pratiquants embarquent une balise satellite type Garmin inReach Mini qui permet l'envoi d'un SOS géolocalisé sans réseau cellulaire. Compte 350 € pour le matériel plus 15 €/mois d'abonnement."
+    },
+    {
+      "type": "h2",
+      "text": "Ce qu'on n'emporte jamais en grande voie sportive"
+    },
+    {
+      "type": "p",
+      "html": "Quelques éléments font partie de la liste à exclure pour ne pas s'encombrer. Le set complet de friends et coinceurs n'a aucun intérêt sur une grande voie sportive bien équipée : poids mort qui sert à rien. Les vêtements de rechange complets sont inutiles, une seule couche supplémentaire suffit. Les téléphones secondaires, lecteurs MP3 et autres accessoires électroniques alourdissent sans bénéfice. La règle d'or : pour une grande voie, chaque gramme transporté doit servir."
+    }
   ],
   "faq": [
-    {"q": "Combien de dégaines pour une grande voie de 6 longueurs ?", "a": "Compte 12 dégaines de base, ce qui permet de gérer la plupart des longueurs équipées en France entre le 5c et le 7a. Pour une voie engagée à équipement espacé ou avec longueurs de 35 mètres, monte à 15 ou 16. Le topo donne souvent le nombre indicatif de points par longueur, ajoute 2 à 3 dégaines de marge pour les relais et les manœuvres imprévues."},
-    {"q": "Faut-il deux brins ou un seul brin en grande voie ?", "a": "Un brin simple en 9,5-10 mm convient pour la majorité des grandes voies sportives françaises avec descente en rappel mono-brin sur cordelette de fortune ou par un autre chemin. Deux brins en double 8 mm deviennent indispensables si la descente impose des rappels de 50 mètres sur le même versant ou si tu pratiques en haute montagne. Le double augmente la sécurité et la flexibilité, au prix d'un sac plus lourd et de manipulations plus complexes."},
-    {"q": "Que faire si on oublie un élément essentiel en bas de la voie ?", "a": "Cela dépend de l'élément. Casque oublié : tu retournes le chercher, pas de discussion. Une dégaine en moins : tu adaptes, ça passe. Système d'assurage oublié : impossible de poursuivre, retour obligatoire. La règle générale : tout ce qui touche à la sécurité ne se négocie pas, tout ce qui touche au confort ou à la facilité se discute. Un sac avec une checklist écrite permet d'éviter ces oublis."},
-    {"q": "Quelle taille de sac pour la grande voie ?", "a": "Pour une journée sportive jusqu'à 8 longueurs, un sac de 28-35 litres suffit largement. Pour une grande voie alpine sur la journée avec descente longue à pied, monte à 35-40 litres pour intégrer chaussures et vêtements supplémentaires. Pour les big walls et bivouacs, on parle de 50-70 litres en sac de portage type haul bag, c'est une autre catégorie d'équipement."},
-    {"q": "Doit-on emporter un guide ou un topo papier ?", "a": "Toujours un support de l'itinéraire, oui. Le topo papier dans une pochette plastique reste la solution la plus fiable parce qu'il ne dépend pas de la batterie. Beaucoup de pratiquants utilisent aussi une photo du topo en téléphone, mais en backup uniquement. Sur les grandes voies complexes, une description écrite avec les longueurs, les cotations et les points de relais reste précieuse pour ne pas s'égarer."}
+    {
+      "q": "Combien de dégaines pour une grande voie de 6 longueurs ?",
+      "a": "Compte 12 dégaines de base, ce qui permet de gérer la plupart des longueurs équipées en France entre le 5c et le 7a. Pour une voie engagée à équipement espacé ou avec longueurs de 35 mètres, monte à 15 ou 16. Le topo donne souvent le nombre indicatif de points par longueur, ajoute 2 à 3 dégaines de marge pour les relais et les manœuvres imprévues."
+    },
+    {
+      "q": "Faut-il deux brins ou un seul brin en grande voie ?",
+      "a": "Un brin simple en 9,5-10 mm convient pour la majorité des grandes voies sportives françaises avec descente en rappel mono-brin sur cordelette de fortune ou par un autre chemin. Deux brins en double 8 mm deviennent indispensables si la descente impose des rappels de 50 mètres sur le même versant ou si tu pratiques en haute montagne. Le double augmente la sécurité et la flexibilité, au prix d'un sac plus lourd et de manipulations plus complexes."
+    },
+    {
+      "q": "Que faire si on oublie un élément essentiel en bas de la voie ?",
+      "a": "Cela dépend de l'élément. Casque oublié : tu retournes le chercher, pas de discussion. Une dégaine en moins : tu adaptes, ça passe. Système d'assurage oublié : impossible de poursuivre, retour obligatoire. La règle générale : tout ce qui touche à la sécurité ne se négocie pas, tout ce qui touche au confort ou à la facilité se discute. Un sac avec une checklist écrite permet d'éviter ces oublis."
+    },
+    {
+      "q": "Quelle taille de sac pour la grande voie ?",
+      "a": "Pour une journée sportive jusqu'à 8 longueurs, un sac de 28-35 litres suffit largement. Pour une grande voie alpine sur la journée avec descente longue à pied, monte à 35-40 litres pour intégrer chaussures et vêtements supplémentaires. Pour les big walls et bivouacs, on parle de 50-70 litres en sac de portage type haul bag, c'est une autre catégorie d'équipement."
+    },
+    {
+      "q": "Doit-on emporter un guide ou un topo papier ?",
+      "a": "Toujours un support de l'itinéraire, oui. Le topo papier dans une pochette plastique reste la solution la plus fiable parce qu'il ne dépend pas de la batterie. Beaucoup de pratiquants utilisent aussi une photo du topo en téléphone, mais en backup uniquement. Sur les grandes voies complexes, une description écrite avec les longueurs, les cotations et les points de relais reste précieuse pour ne pas s'égarer."
+    }
   ],
   "cover_alt": "Sac d'escalade ouvert au sol au pied d'une falaise calcaire, matériel étalé sur un rocher : corde 70 m enroulée, dégaines colorées alignées, casque rouge, sangles Dyneema, lumière matinale dorée",
   "internal_links": [
-    {"slug": "materiel-escalade-essentiel", "anchor": "matériel essentiel d'escalade", "context": "pilier matériel"},
-    {"slug": "sangles-anneaux-cousus-usage", "anchor": "sangles et anneaux cousus", "context": "matériel détaillé"},
-    {"slug": "degaines-escalade-choix", "anchor": "choix des dégaines", "context": "matériel grimpe"},
-    {"slug": "choisir-corde-escalade", "anchor": "choix de la corde", "context": "élément central"},
-    {"slug": "gants-assurage-escalade", "anchor": "gants d'assurage", "context": "accessoire associé"},
-    {"slug": "sac-escalade-emporter", "anchor": "sac à emporter", "context": "contenant matériel"}
+    {
+      "slug": "materiel-escalade-essentiel",
+      "anchor": "matériel essentiel d'escalade",
+      "context": "pilier matériel"
+    },
+    {
+      "slug": "sangles-anneaux-cousus-usage",
+      "anchor": "sangles et anneaux cousus",
+      "context": "matériel détaillé"
+    },
+    {
+      "slug": "degaines-escalade-choix",
+      "anchor": "choix des dégaines",
+      "context": "matériel grimpe"
+    },
+    {
+      "slug": "choisir-corde-escalade",
+      "anchor": "choix de la corde",
+      "context": "élément central"
+    },
+    {
+      "slug": "gants-assurage-escalade",
+      "anchor": "gants d'assurage",
+      "context": "accessoire associé"
+    },
+    {
+      "slug": "sac-escalade-emporter",
+      "anchor": "sac à emporter",
+      "context": "contenant matériel"
+    }
   ],
   "scheduled_at": "2026-09-19T09:00:00+02:00"
 }
