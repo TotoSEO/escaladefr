@@ -609,8 +609,13 @@ def to_webp(png_bytes: bytes, output: Path, slug: str) -> bool:
         return False
 
 
-# Estimation $ par image gpt-image-2 high 1536x1024 (constatée mai 2026 : ~0.55 USD)
-COST_PER_IMAGE_USD = 0.55
+# Estimation $ par image gpt-image-2 1536x1024 (mesurée mai 2026 via usage API)
+COST_PER_IMAGE_BY_QUALITY = {
+    "low": 0.011,
+    "medium": 0.042,
+    "high": 0.55,
+}
+COST_PER_IMAGE_USD = COST_PER_IMAGE_BY_QUALITY["high"]
 
 
 def main() -> None:
@@ -626,6 +631,9 @@ def main() -> None:
                     choices=["low", "medium", "high"],
                     help="Qualité gpt-image-2 (impact direct sur le coût).")
     args = ap.parse_args()
+
+    global COST_PER_IMAGE_USD
+    COST_PER_IMAGE_USD = COST_PER_IMAGE_BY_QUALITY[args.quality]
 
     # Garde-fou : vérifie que tous les slugs de UNIQUE_PROMPTS existent vraiment
     # dans data/articles. Évite de cramer du crédit sur un slug obsolète.
