@@ -176,7 +176,7 @@
     },
     {
       "type": "p",
-      "html": "Le prussik a donné naissance à plusieurs variantes optimisées pour des usages spécifiques. <a href=\"/blog/noeud-machard-comparatif\">Le Machard tubulaire</a> se desserre plus facilement après charge, ce qui le rend pratique en rappel pour les utilisateurs qui répètent l'opération. Le Bachmann utilise un mousqueton dans la boucle pour faciliter le déblocage, au prix d'une fiabilité légèrement inférieure. Le Kreuzklemm, ou prussik symétrique, optimise le serrage progressif sur corde lisse."
+      "html": "Le prussik a donné naissance à plusieurs variantes optimisées pour des usages spécifiques. <a href=\"/blog/noeud-machard-comparatif\">Le Machard tubulaire et ses variantes</a> se desserrent plus facilement après charge, ce qui les rendent pratiques en rappel pour les utilisateurs qui répètent l'opération. Le Bachmann utilise un mousqueton dans la boucle pour faciliter le déblocage, au prix d'une fiabilité légèrement inférieure. Le Kreuzklemm, ou prussik symétrique, optimise le serrage progressif sur corde lisse."
     },
     {
       "type": "p",
@@ -239,23 +239,23 @@
   "internal_links": [
     {
       "slug": "noeuds-escalade-utiles-guide",
-      "anchor": "panorama des nœuds utiles en escalade",
-      "context": "pilier cocon"
+      "anchor": "les nœuds essentiels du pratiquant",
+      "context": "pilier nœuds, premier lien interne"
     },
     {
       "slug": "noeud-pecheur-double-rappel",
-      "anchor": "double-pêcheur soigneusement serré",
-      "context": "fermeture cordelette"
+      "anchor": "un double-pêcheur soigneusement serré",
+      "context": "même cocon, fermeture cordelette"
     },
     {
       "slug": "noeud-machard-comparatif",
-      "anchor": "Machard tubulaire",
-      "context": "variante moderne"
+      "anchor": "Le Machard tubulaire et ses variantes",
+      "context": "même cocon, variantes modernes"
     },
     {
       "slug": "nettoyer-relais-rappel-securite",
-      "anchor": "contrôle systématique du relais avant rappel",
-      "context": "chaîne sécurité"
+      "anchor": "à un contrôle systématique du relais avant rappel",
+      "context": "même cocon, chaîne sécurité rappel"
     }
   ],
   "scheduled_at": "2026-10-08T09:00:00+02:00"
