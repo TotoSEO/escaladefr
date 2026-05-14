@@ -11,6 +11,7 @@ export const revalidate = 3600;
 type Stats = {
   total: number | null;
   avecGps: number | null;
+  totalDepartements: number;
   topDepartements: {
     departement: string;
     code_departement: string | null;
@@ -21,7 +22,7 @@ type Stats = {
 async function getStats(): Promise<Stats> {
   const supabase = getSupabase();
   if (!supabase) {
-    return { total: null, avecGps: null, topDepartements: [] };
+    return { total: null, avecGps: null, totalDepartements: 0, topDepartements: [] };
   }
   try {
     const [totalRes, gpsRes, deps] = await Promise.all([
@@ -35,10 +36,11 @@ async function getStats(): Promise<Stats> {
     return {
       total: totalRes.count,
       avecGps: gpsRes.count,
+      totalDepartements: deps.length,
       topDepartements: deps.slice(0, 8),
     };
   } catch {
-    return { total: null, avecGps: null, topDepartements: [] };
+    return { total: null, avecGps: null, totalDepartements: 0, topDepartements: [] };
   }
 }
 
@@ -129,7 +131,7 @@ export default async function Home() {
       <Manifesto
         total={stats.total}
         avecGps={stats.avecGps}
-        departements={stats.topDepartements.length || null}
+        departements={stats.totalDepartements || null}
       />
       <TopDepartements items={stats.topDepartements} />
       <Missions />
