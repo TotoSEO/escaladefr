@@ -3,17 +3,17 @@
   "cocon": "environnement",
   "type_article": "astuce",
   "numero": 148,
-  "title": "Dechets et bivouac en falaise, le minimum syndical pour grimper",
-  "h1": "Dechets et bivouac en falaise, comment ne pas laisser de trace",
-  "description": "Gerer ses dechets, son papier toilette, sa bouffe et son bivouac au pied des falaises. Les regles simples pour preserver les sites et les acces.",
-  "chapo": "Tu finis ta voie, tu redescends et tu trouves un papier toilette derriere le buisson, une banane oubliee au pied de la voie. Personne n'aime, et personne ne s'en attribue la responsabilite. Le minimum syndical en matiere de dechets, c'est emporter tout ce qu'on amene. Antoine partage ses regles, l'organisation du bivouac propre et les pieges classiques en falaise.",
+  "title": "Déchets et bivouac en falaise, le minimum syndical pour grimper",
+  "h1": "Déchets et bivouac en falaise, comment ne pas laisser de trace",
+  "description": "Gérer ses déchets, son papier toilette, sa bouffe et son bivouac au pied des falaises. Les règles simples pour préserver les sites et les accès.",
+  "chapo": "Tu finis ta voie, tu redescends et tu trouves un papier toilette derrière le buisson, une banane oubliée au pied de la voie. Personne n'aime, et personne ne s'en attribue la responsabilité. Le minimum syndical en matière de déchets, c'est emporter tout ce qu'on amène. Antoine partage ses règles, l'organisation du bivouac propre et les pièges classiques en falaise.",
   "takeaways": [
-    "Tout ce qui rentre dans le sac doit en ressortir, y compris les pelures et les megots.",
-    "Le papier toilette doit etre emporte dans un sachet ferme, jamais brule en falaise.",
-    "Le bivouac sauvage est tolere mais reglemente selon les massifs, souvent une seule nuit.",
-    "Eteindre completement un feu reste la regle, idealement pas de feu du tout en zone forestiere.",
-    "Les dechets organiques se decomposent en plusieurs annees, pas en quelques semaines comme on l'imagine.",
-    "Les sacs poubelle au pied des voies sont une fausse bonne idee, ils attirent les nuisibles."
+    "Tout ce qui rentre dans le sac doit en ressortir, y compris les pelures et les mégots.",
+    "Le papier toilette doit être emporté dans un sachet fermé, jamais brûlé en falaise.",
+    "Le bivouac sauvage est toléré mais réglementé selon les massifs, souvent une seule nuit.",
+    "Éteindre complètement un feu reste la règle, idéalement pas de feu du tout en zone forestière.",
+    "Les déchets organiques se décomposent en plusieurs années, pas en quelques semaines comme on l'imagine.",
+    "Les sacs poubelle au pied des voies sont une fausse bonne idée, ils attirent les nuisibles."
   ],
   "body_blocks": [
     {
@@ -22,15 +22,15 @@
     },
     {
       "type": "p",
-      "html": "La regle de base du grimpeur propre tient en une phrase. Tout ce qui rentre dans ton sac à l'arrivée doit ressortir dans ton sac au départ. Emballages, peaux de fruits, mouchoirs, sparadraps usagés, megots, capsules de bière. Le tout dans un sac plastique dédié, fermé, que tu ramènes à la voiture. Cette discipline simple suffit à éliminer 90 pour cent des déchets retrouvés sur les sites."
+      "html": "La règle de base du grimpeur propre tient en une phrase. Tout ce qui rentre dans ton sac à l'arrivée doit ressortir dans ton sac au départ. Emballages, peaux de fruits, mouchoirs, sparadraps usagés, mégots, capsules de bière. Le tout dans un sac plastique dédié, fermé, que tu ramènes à la voiture. Cette discipline simple suffit à éliminer 90 pour cent des déchets retrouvés sur les sites, et constitue le socle pratique de <a href=\"/blog/grimper-respect-sites-faune\">la grimpe respectueuse des milieux naturels</a> que défendent les gestionnaires de falaise."
     },
     {
       "type": "p",
-      "html": "Beaucoup pensent que les pelures de banane ou les trognons de pomme se décomposent en quelques semaines. C'est faux. Une peau de banane met deux ans à disparaître en milieu sec, un trognon de pomme un an. Pendant ce temps, ils restent visibles, attirent les insectes et les rongeurs, dégagent des odeurs. Sur un site frequenté, l'accumulation rend rapidement la zone répugnante. La premiere fois que j'ai vu un pied de voie jonché de déchets organiques au <strong>Verdon</strong>, j'ai compris pourquoi les gestionnaires deviennent rigoureux sur ces points."
+      "html": "Beaucoup pensent que les pelures de banane ou les trognons de pomme se décomposent en quelques semaines. C'est faux. Une peau de banane met deux ans à disparaître en milieu sec, un trognon de pomme un an. Pendant ce temps, ils restent visibles, attirent les insectes et les rongeurs, dégagent des odeurs. Sur un site fréquenté, l'accumulation rend rapidement la zone répugnante. La première fois que j'ai vu un pied de voie jonché de déchets organiques au <strong>Verdon</strong>, j'ai compris pourquoi les gestionnaires deviennent rigoureux sur ces points."
     },
     {
       "type": "p",
-      "html": "Le coût visuel n'est pas le seul. Les emballages plastiques, sachets de chips, papiers gras se fragmentent en microparticules sous l'action UV et la pluie. Ces fragments se retrouvent dans les sols et finissent dans les cours d'eau. Sur les sites de bord de mer comme les <strong>Calanques</strong>, cette dégradation accélère la pollution du milieu marin. Le grimpeur n'est pas le premier responsable mais il contribue, et chaque cordée propre fait reculer ce gros total."
+      "html": "Le coût visuel n'est pas le seul. Les emballages plastiques, sachets de chips, papiers gras se fragmentent en microparticules sous l'action UV et la pluie. Ces fragments se retrouvent dans les sols et finissent dans les cours d'eau. Sur les sites de bord de mer comme les <strong>Calanques</strong>, cette dégradation accélère la pollution du milieu marin. Le grimpeur n'est pas le premier responsable mais il contribue, et chaque cordée propre fait reculer ce total."
     },
     {
       "type": "h2",
@@ -38,15 +38,15 @@
     },
     {
       "type": "p",
-      "html": "Ce réflexe complète la démarche <a href=\"/blog/grimper-respect-sites-faune\">l'éthique du grimpeur en falaise</a>. Le papier toilette est le déchet le plus fréquent sur les sites d'escalade, y compris ceux où <a href=\"/blog/parc-national-escalade-regles\">le cadre légal des parcs en escalade</a> imposent un cadre encore plus strict. Beaucoup de grimpeurs s'imaginent qu'il se decompose vite. En realite, le papier toilette met 2 a 6 mois a disparaître en climat tempéré humide, plusieurs annees en climat sec. Pire, il reste blanc, visible, immangeable pour la faune locale. Sur les sites mediterranéens secs comme Buoux ou les Calanques, des papiers de l'année précédente sont régulièrement retrouvés au printemps."
+      "html": "Le papier toilette est le déchet le plus fréquent sur les sites d'escalade. Beaucoup de grimpeurs s'imaginent qu'il se décompose vite. En réalité, le papier toilette met 2 à 6 mois à disparaître en climat tempéré humide, plusieurs années en climat sec. Pire, il reste blanc, visible, immangeable pour la faune locale. Sur les sites méditerranéens secs comme Buoux ou les Calanques, des papiers de l'année précédente sont régulièrement retrouvés au printemps. <a href=\"/blog/parc-national-escalade-regles\">Dans les parcs nationaux, le cadre légal impose des règles encore plus strictes</a> sur ces points."
     },
     {
       "type": "p",
-      "html": "La solution propre tient en deux gestes. Tu fais ton besoin a 50 metres minimum d'un cours d'eau, dans un endroit à l'écart du sentier. Tu emportes le papier dans un petit sachet zippé que tu jettes en rentrant. Pour les besoins solides, certains creusent un petit trou de 15 cm de profondeur et le rebouchent. Sur les sites tres fréquentés, cette méthode arrive aux limites. Plusieurs gestionnaires recommandent désormais de tout emporter, y compris les solides, dans des sacs spéciaux type WAG bag utilisés en parcs nationaux."
+      "html": "La solution propre tient en deux gestes. Tu fais ton besoin à 50 mètres minimum d'un cours d'eau, dans un endroit à l'écart du sentier. Tu emportes le papier dans un petit sachet zippé que tu jettes en rentrant. Pour les besoins solides, certains creusent un petit trou de 15 cm de profondeur et le rebouchent. Sur les sites très fréquentés, cette méthode arrive à ses limites. Plusieurs gestionnaires recommandent désormais de tout emporter, y compris les solides, dans des sacs spéciaux type WAG bag utilisés en parcs nationaux."
     },
     {
       "type": "p",
-      "html": "Les Calanques, certains parkings du Vercors, plusieurs zones de bivouac officielles disposent d'installations. Elles sont entretenues par les gestionnaires et coûtent à la collectivité. Les ignorer pour aller dans les buissons à coté est un gaspillage de l'investissement public. Les toilettes au depart du sentier de Présiles, du parking de Vauvenargues ou du site de Pourcieux fonctionnent très bien."
+      "html": "Les Calanques, certains parkings du Vercors, plusieurs zones de bivouac officielles disposent d'installations. Elles sont entretenues par les gestionnaires et coûtent à la collectivité. Les ignorer pour aller dans les buissons à côté est un gaspillage de l'investissement public. Les toilettes au départ du sentier de Présiles, du parking de Vauvenargues ou du site de Pourcieux fonctionnent très bien."
     },
     {
       "type": "list",
@@ -54,7 +54,7 @@
       "title": "La trousse propre du grimpeur",
       "items": [
         {
-          "title": "Petit sachet zippe",
+          "title": "Petit sachet zippé",
           "body": "Pour le papier toilette usagé et les déchets sensibles. Reste dans le sac jusqu'à la poubelle."
         },
         {
@@ -70,14 +70,14 @@
           "body": "Sac en tissu doublé qui sert de poubelle au bivouac, vide et lavable en rentrant."
         },
         {
-          "title": "Recipient pour megots",
-          "body": "Petite boite en metal qui evite que les megots tombent au sol."
+          "title": "Récipient pour mégots",
+          "body": "Petite boîte en métal qui évite que les mégots tombent au sol."
         }
       ]
     },
     {
       "type": "h2",
-      "text": "Le bivouac, regles et tolerances"
+      "text": "Le bivouac, règles et tolérances"
     },
     {
       "type": "p",
@@ -85,11 +85,11 @@
     },
     {
       "type": "p",
-      "html": "Dans la pratique, la tolérance du bivouac sauvage repose sur la discrétion. Une tente discrète, posée tard, levée tôt, sans feu, sans bruit, ne pose généralement pas problème. Une dizaine de tentes alignées au pied d'une falaise avec barbecue et enceinte Bluetooth provoque rapidement une intervention de la gendarmerie ou des agents de l'ONF. La distinction entre ces deux pratiques tient à la disponibilité et à l'attitude du groupe."
+      "html": "Dans la pratique, la tolérance du bivouac sauvage repose sur la discrétion. Une tente discrète, posée tard, levée tôt, sans feu, sans bruit, ne pose généralement pas problème. Une dizaine de tentes alignées au pied d'une falaise avec barbecue et enceinte Bluetooth provoque rapidement une intervention de la gendarmerie ou des agents de l'ONF. La distinction entre ces deux pratiques tient à la discrétion et à l'attitude du groupe."
     },
     {
       "type": "p",
-      "html": "Si tu fais le choix du bivouac dans une zone autorisée, applique les règles simples. Tu plantes la tente sur un sol déjà tassé pour ne pas creer une nouvelle empreinte. Tu ne creuses pas de tranchée autour de la tente. Tu emportes tous tes déchets le matin. Tu démontes la tente sans laisser de marques durables. Et surtout, tu évites toute interaction avec la faune, ne nourris pas les animaux qui s'approchent, ne laisse pas de nourriture accessible la nuit."
+      "html": "Si tu fais le choix du bivouac dans une zone autorisée, applique les règles simples. Tu plantes la tente sur un sol déjà tassé pour ne pas créer une nouvelle empreinte. Tu ne creuses pas de tranchée autour de la tente. Tu emportes tous tes déchets le matin. Tu démontes la tente sans laisser de marques durables. Et surtout, tu évites toute interaction avec la faune, ne nourris pas les animaux qui s'approchent, ne laisse pas de nourriture accessible la nuit."
     },
     {
       "type": "h2",
@@ -97,50 +97,50 @@
     },
     {
       "type": "p",
-      "html": "Le feu en falaise est le plus souvent interdit, surtout en été dans les zones méditerranéennes. Le risque d'incendie reste majeur dans le sud-est, où les arretes préfectoraux interdisent toute flamme nue, y compris cigarettes, du 1er juin au 30 septembre selon les départements. Le <strong>massif des Calanques peut etre completement ferme en ete selon le risque incendie</strong>, avec la carte Envie de Balade qui publie l'état du jour."
+      "html": "Le feu en falaise est le plus souvent interdit, surtout en été dans les zones méditerranéennes. Le risque d'incendie reste majeur dans le sud-est, où les arrêtés préfectoraux interdisent toute flamme nue, y compris cigarettes, du 1er juin au 30 septembre selon les départements. Le <strong>massif des Calanques peut être complètement fermé en été selon le risque incendie</strong>, avec la carte Envie de Balade qui publie l'état du jour."
     },
     {
       "type": "p",
-      "html": "Hors zones méditerranéennes, le feu reste possible avec précautions. Tu allumes sur un emplacement déjà existant, jamais sur sol vierge. Tu utilises du bois mort tombé, jamais des branches d'arbres vivants. Tu n'allumes pas en cas de vent. Tu éteins totalement à l'eau, jusqu'a ce que tu puisses toucher les cendres à main nue. Une braise mal éteinte peut reprendre 48 heures après le départ. Sur les sites de bord de mer ou de forêt, l'idéal reste de ne pas faire de feu du tout."
+      "html": "Hors zones méditerranéennes, le feu reste possible avec précautions. Tu allumes sur un emplacement déjà existant, jamais sur sol vierge. Tu utilises du bois mort tombé, jamais des branches d'arbres vivants. Tu n'allumes pas en cas de vent. Tu éteins totalement à l'eau, jusqu'à ce que tu puisses toucher les cendres à main nue. Une braise mal éteinte peut reprendre 48 heures après le départ. Sur les sites de bord de mer ou de forêt, l'idéal reste de ne pas faire de feu du tout."
     },
     {
       "type": "tip",
-      "title": "L'erreur la plus frequente du grimpeur en bivouac",
-      "body": "Laisser un sac poubelle au pied de la voie en pensant le récupérer au retour. Tu reviens deux heures après, le sac est éventré par les renards ou les sangliers, le contenu dispersé sur 30 metres. Garde tes déchets sur toi pendant la sortie, ou suspends-les en hauteur loin de la faune. Jamais au sol.",
+      "title": "L'erreur la plus fréquente du grimpeur en bivouac",
+      "body": "Laisser un sac poubelle au pied de la voie en pensant le récupérer au retour. Tu reviens deux heures après, le sac est éventré par les renards ou les sangliers, le contenu dispersé sur 30 mètres. Garde tes déchets sur toi pendant la sortie, ou suspends-les en hauteur loin de la faune. Jamais au sol.",
       "tone": "astuce"
     },
     {
       "type": "h2",
-      "text": "Les megots et la cigarette"
+      "text": "Les mégots et la cigarette"
     },
     {
       "type": "p",
-      "html": "Le mégot est un des déchets les plus polluants. Une seule cigarette éteinte au sol pollue jusqu'a 500 litres d'eau via les substances chimiques contenues dans le filtre. Le filtre acetate de cellulose met 12 ans a se decomposer, pendant lesquels il libere ses toxines. Sur les sites de bord de falaise, les mégots roulent souvent en bas et finissent dans les cours d'eau ou la mer."
+      "html": "Le mégot est un des déchets les plus polluants. Une seule cigarette éteinte au sol pollue jusqu'à 500 litres d'eau via les substances chimiques contenues dans le filtre. Le filtre acétate de cellulose met 12 ans à se décomposer, pendant lesquels il libère ses toxines. Sur les sites de bord de falaise, les mégots roulent souvent en bas et finissent dans les cours d'eau ou la mer."
     },
     {
       "type": "p",
-      "html": "La règle du grimpeur fumeur est simple. Tu portes un cendrier de poche, petite boite en métal ou tube réutilisable. Tu y mets tous tes mégots sans exception. Tu vides à la poubelle en rentrant. Cette discipline ne coute rien, ne change rien à ton plaisir de fumer, et évite une pollution majeure des sites. Si tu fumes en falaise, c'est la moindre des choses."
+      "html": "La règle du grimpeur fumeur est simple. Tu portes un cendrier de poche, petite boîte en métal ou tube réutilisable. Tu y mets tous tes mégots sans exception. Tu vides à la poubelle en rentrant. Cette discipline ne coûte rien, ne change rien à ton plaisir de fumer, et évite une pollution majeure des sites. Si tu fumes en falaise, c'est la moindre des choses."
     },
     {
       "type": "h2",
-      "text": "L'effet collectif et l'exemplarite"
+      "text": "L'effet collectif et l'exemplarité"
     },
     {
       "type": "p",
-      "html": "Le respect du site ne se joue pas qu'au niveau individuel. C'est une dynamique collective. Quand tu vois un déchet qui n'est pas le tien, tu le ramasses. Ce geste simple change la psychologie du site. Un site propre incite chacun a rester propre, un site sale incite a laisser un peu plus. Cette logique est documentée par les psychologues sociaux sous le nom de théorie des fenêtres brisées."
+      "html": "Le respect du site ne se joue pas qu'au niveau individuel, c'est une dynamique collective. Quand tu vois un déchet qui n'est pas le tien, tu le ramasses. Ce geste simple change la psychologie du site. Un site propre incite chacun à rester propre, un site sale incite à laisser un peu plus. Cette logique est documentée par les psychologues sociaux sous le nom de théorie des fenêtres brisées. <a href=\"/blog/sentier-approche-erosion\">L'usure des sentiers d'approche par les passages répétés</a> obéit à la même mécanique de seuil collectif."
     },
     {
       "type": "p",
-      "html": "Sur les sites les plus fréquentés, les associations organisent des journées de ramassage. La FFME propose des opérations Roches Vertes, le COSIROC organise des chantiers a Bleau, plusieurs comités départementaux montent leurs propres événements. C'est une excellente occasion de rencontrer la communauté locale et de prendre conscience de la quantité de déchets accumulée même sur des sites a priori propres."
+      "html": "Sur les sites les plus fréquentés, les associations organisent des journées de ramassage. La FFME propose des opérations Roches Vertes, le COSIROC organise des chantiers à Bleau, plusieurs comités départementaux montent leurs propres événements. C'est une excellente occasion de rencontrer la communauté locale et de prendre conscience de la quantité de déchets accumulée même sur des sites a priori propres. Cette discipline collective rejoint <a href=\"/blog/parking-respect-locaux\">le respect du parking et des riverains à l'arrivée au site</a>, première étape de la journée de grimpe."
     },
     {
       "type": "p",
-      "html": "Pour compléter ce tableau du grimpeur exemplaire, regarde <a href=\"/blog/grimper-respect-sites-faune\">l'attitude responsable du grimpeur outdoor</a>, <a href=\"/blog/sentier-approche-erosion\">les bonnes pratiques sur les sentiers d'approche</a>, et <a href=\"/blog/parking-respect-locaux\">le respect du parking et des locaux</a>. Ces trois articles forment avec celui-ci la base concrète du comportement quotidien en site naturel."
+      "html": "Le grimpeur exemplaire ne laisse rien, ramasse parfois ce qui n'est pas à lui, et participe une fois par an à un chantier collectif. Ces trois gestes suffisent à inverser la pente d'usure d'un site."
     }
   ],
   "faq": [
     {
-      "q": "Le bivouac est-il autorise au pied des falaises ?",
+      "q": "Le bivouac est-il autorisé au pied des falaises ?",
       "a": "Le bivouac est généralement toléré une seule nuit, entre 19h et 9h, hors zones protégées. Dans les parcs nationaux des Écrins ou du Mercantour, il est autorisé à plus d'une heure de marche d'un accès routier. Dans les Calanques et le Parc national des Calanques, il est totalement interdit toute l'année."
     },
     {
@@ -148,39 +148,39 @@
       "a": "Tu l'emportes dans un petit sachet zippé que tu jettes en rentrant à la poubelle. Ne le brûle pas, risque d'incendie. Ne l'enterre pas sur les sites secs, le papier ne se décompose pas. Pour les besoins solides, tu creuses un trou de 15 cm minimum, à 50 mètres d'un cours d'eau, et tu rebouches proprement."
     },
     {
-      "q": "Combien de temps mettent les dechets organiques a se decomposer ?",
-      "a": "Bien plus longtemps qu'on l'imagine. Peau de banane 2 ans, trognon de pomme 1 an, mégot de cigarette 12 ans, papier toilette 2 à 6 mois, plastique 100 à 400 ans. Ces durees valent en milieu tempere humide, elles s'allongent en climat sec comme dans le sud de la France."
+      "q": "Combien de temps mettent les déchets organiques à se décomposer ?",
+      "a": "Bien plus longtemps qu'on l'imagine. Peau de banane 2 ans, trognon de pomme 1 an, mégot de cigarette 12 ans, papier toilette 2 à 6 mois, plastique 100 à 400 ans. Ces durées valent en milieu tempéré humide, elles s'allongent en climat sec comme dans le sud de la France."
     },
     {
       "q": "Peut-on faire un feu en falaise ?",
-      "a": "Le plus souvent non, surtout dans les zones mediterranéennes du 1er juin au 30 septembre. Hors zones a risque, le feu reste possible sur emplacement existant, avec bois mort, sans vent et eteint totalement à l'eau. Vérifie l'arrêté préfectoral de ton département et la carte des risques incendie en cours."
+      "a": "Le plus souvent non, surtout dans les zones méditerranéennes du 1er juin au 30 septembre. Hors zones à risque, le feu reste possible sur emplacement existant, avec bois mort, sans vent et éteint totalement à l'eau. Vérifie l'arrêté préfectoral de ton département et la carte des risques incendie en cours."
     },
     {
       "q": "Pourquoi ne pas laisser un sac poubelle au pied de la voie ?",
       "a": "Les renards, sangliers, oiseaux corvidés éventrent rapidement les sacs et dispersent le contenu sur plusieurs mètres. La faune sauvage s'habitue à s'alimenter sur les déchets humains, ce qui altère son comportement naturel. Garde tes déchets sur toi pendant la sortie, ou suspends-les en hauteur loin de la faune."
     }
   ],
-  "cover_alt": "Sac poubelle reutilisable et bouteille en aluminium poses au pied d'une falaise avec materiel d'escalade propre",
+  "cover_alt": "Sac poubelle réutilisable et bouteille en aluminium posés au pied d'une falaise avec matériel d'escalade propre",
   "internal_links": [
     {
       "slug": "grimper-respect-sites-faune",
-      "anchor": "la vue d'ensemble du respect des sites",
-      "context": "Pilier du cocon"
-    },
-    {
-      "slug": "sentier-approche-erosion",
-      "anchor": "les bonnes pratiques sur les sentiers d'approche",
-      "context": "Complement gestes terrain"
-    },
-    {
-      "slug": "parking-respect-locaux",
-      "anchor": "le respect du parking et des locaux",
-      "context": "Bons gestes complementaires"
+      "anchor": "la grimpe respectueuse des milieux naturels",
+      "context": "pilier environnement, premier lien interne"
     },
     {
       "slug": "parc-national-escalade-regles",
-      "anchor": "regles specifiques des parcs nationaux",
-      "context": "Cadre legal du bivouac"
+      "anchor": "Dans les parcs nationaux, le cadre légal impose des règles encore plus strictes",
+      "context": "règles renforcées sur les déchets, même cocon"
+    },
+    {
+      "slug": "sentier-approche-erosion",
+      "anchor": "L'usure des sentiers d'approche par les passages répétés",
+      "context": "même mécanique de seuil collectif, même cocon"
+    },
+    {
+      "slug": "parking-respect-locaux",
+      "anchor": "le respect du parking et des riverains à l'arrivée au site",
+      "context": "première étape de la journée, même cocon"
     }
   ],
   "scheduled_at": "2027-04-13T09:00:00+02:00"
