@@ -1,0 +1,223 @@
+{
+  "slug": "histoire-escalade-france-alpes-salle",
+  "cocon": "culture",
+  "type_article": "hub",
+  "numero": 200,
+  "title": "Histoire de l'escalade en France | des Alpes aux salles modernes",
+  "h1": "L'histoire de l'escalade en France, des Alpes aux salles modernes",
+  "description": "Des premières ascensions alpines à l'escalade olympique : deux siècles d'histoire de la grimpe française, ses figures, ses lieux, ses ruptures.",
+  "chapo": "L'escalade française n'a pas commencé en salle ni à Fontainebleau. Elle naît dans les Alpes au XIXe siècle, mûrit à Bleau dans l'entre-deux-guerres, explose au Verdon dans les années 70, puis bascule dans la sphère sportive avec Bardonecchia 1985 et la médaille olympique de Tokyo. Je te raconte deux siècles d'histoire vue par un grimpeur de 2026.",
+  "takeaways": [
+    "L'escalade française naît dans les Alpes avec les premières ascensions du XIXe siècle, le Cervin gravi par Whymper en 1865 marque une bascule symbolique.",
+    "Pierre Allain et les Bleausards inventent dans les années 1930 la pratique du bloc et la chaussure d'escalade moderne.",
+    "Patrick Edlinger ouvre le Verdon dans les années 70 et popularise l'escalade libre par le film La Vie au bout des doigts en 1982.",
+    "Le Festival de Bardonecchia 1985 fonde la compétition d'escalade sportive moderne, prélude à l'olympisation.",
+    "L'escalade entre aux Jeux Olympiques à Tokyo 2020, Bassa Mawem et Janja Garnbret marquent la première édition.",
+    "La France compte plus de 800 salles indoor en 2026, héritage d'un sport longtemps vécu en falaise."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Les origines alpines, du Mont Aiguille au Cervin"
+    },
+    {
+      "type": "p",
+      "html": "On situe souvent l'origine officielle de l'alpinisme français à une date précise : <strong>26 juin 1492</strong>. Ce jour-là, Domp Julien et son équipe escaladent le Mont Aiguille dans le Vercors, sur ordre du roi Charles VIII. C'est la première ascension documentée d'un sommet réputé inaccessible, et le geste fondateur d'une longue lignée. À l'époque, il s'agit de prouver que rien n'est impossible quand le pouvoir royal commande. Trois siècles plus tard, l'esprit aura changé."
+    },
+    {
+      "type": "p",
+      "html": "Le XIXe siècle voit l'alpinisme prendre forme comme pratique sportive. Les guides de Chamonix accompagnent les premiers touristes scientifiques sur le Mont Blanc, gravi pour la première fois en 1786 par Jacques Balmat et Michel Paccard. Ces ascensions ne se considèrent pas encore comme de l'escalade au sens moderne, elles relèvent plus de l'aventure haute-montagne. Le matériel se limite au piolet, à la corde de chanvre, aux clous de montagne. La technique se transmet de bouche à bouche dans les vallées."
+    },
+    {
+      "type": "p",
+      "html": "L'ascension du Cervin par Edward Whymper en 1865, côté suisse mais avec une dimension européenne forte, marque la fin de la conquête des grands sommets alpins. Le drame de la redescente, qui tue quatre membres de la cordée, donne à la montagne sa dimension tragique. L'alpinisme va alors chercher la difficulté pure plutôt que l'inédit. C'est dans cette mutation que va naître l'escalade comme discipline propre."
+    },
+    {
+      "type": "h2",
+      "text": "Pierre Allain et l'invention du bloc à Fontainebleau"
+    },
+    {
+      "type": "p",
+      "html": "Dans les années 1930, un groupe de jeunes alpinistes parisiens prend l'habitude de s'entraîner dans la forêt de Fontainebleau le week-end. <strong>Pierre Allain</strong> est leur figure de proue. Sur les rochers de grès du massif, ils inventent une pratique sans corde, sur des passages courts mais difficiles, à des hauteurs de saut acceptables. Le bloc moderne est en train de naître, dans un terrain que personne n'avait pensé pour ça."
+    },
+    {
+      "type": "p",
+      "html": "Allain ne se contente pas de grimper. Il invente. En 1947, il dépose le brevet du PA, premier chausson d'escalade à semelle adhérente, qui révolutionne la pratique. Il publie aussi des manuels, dont Alpinisme et compétition, qui théorisent la transposition des techniques alpines en milieu d'entraînement. Les Bleausards forgent une culture spécifique : circuits balisés en couleurs par René Ferlet à partir de 1947, ascensions répétées du même bloc, esthétique du mouvement. Ce qui se passe à Bleau va influencer toute l'escalade européenne."
+    },
+    {
+      "type": "p",
+      "html": "À Bleau se croisent dans les années 50 des grimpeurs majeurs : <strong>Lucien Bérardini</strong>, Robert Paragot, Pierre Mazeaud. Ils mêlent entraînement à Fontainebleau et grandes courses dans les Alpes. La cordée Bérardini-Paragot signe en 1954 la face ouest du Dru, considérée à l'époque comme l'une des voies les plus difficiles d'Europe. Le lien entre bloc parisien et grand alpinisme se forge dans cette génération, il ne se défera jamais."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Trois figures qui ont fait l'escalade française",
+      "items": [
+        {
+          "title": "Pierre Allain (1904-2000)",
+          "body": "Bleausard fondateur, inventeur du chausson PA en 1947, théoricien du bloc et de l'entraînement. Il a aussi signé la première traversée intégrale des arêtes du Grépon. Sans lui, l'escalade moderne n'a pas le visage qu'on lui connaît."
+        },
+        {
+          "title": "Patrick Edlinger (1960-2012)",
+          "body": "Le Blond, icône absolue de l'escalade libre des années 80. Sa silhouette en short blanc sur les dalles du Verdon a porté la discipline auprès du grand public. La Vie au bout des doigts de Jean-Paul Janssen, 1982, reste le film qui a changé le regard de la France sur les grimpeurs."
+        },
+        {
+          "title": "Catherine Destivelle (née en 1960)",
+          "body": "Première grimpeuse française à atteindre une notoriété mondiale, vainqueure de Bardonecchia 1986, première solo intégral hivernal de la face nord de l'Eiger en 1992. Elle a ouvert l'imaginaire à l'idée d'une grande dame de la montagne, au-delà des stéréotypes de genre du sport de l'époque."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Le Verdon, naissance de l'escalade libre française"
+    },
+    {
+      "type": "p",
+      "html": "Au début des années 70, les Gorges du Verdon dorment encore. La descente en rappel pour atteindre les pieds des voies effraie. Et pourtant, c'est ici que va se jouer la révolution suivante. <strong>Patrick Berhault</strong> et Patrick Edlinger ouvrent ensemble la falaise. Ils inventent une grimpe nouvelle : longues voies en libre, équipement spit, descente en rappel comme passage obligé. Le Verdon devient le laboratoire de l'escalade libre française."
+    },
+    {
+      "type": "p",
+      "html": "L'ouverture de voies historiques comme la Demande, Pichenibule ou Triomphe d'Eros marque le tournant. La cotation grimpe vers le 7c puis le 8a. Les grimpeurs viennent de toute l'Europe pour s'y mesurer. La pratique s'éloigne de l'alpinisme classique, elle devient un sport en soi, avec ses gestes, son esthétique, ses fictions. Le Verdon est à l'escalade ce que Bleau était à l'entraînement quarante ans plus tôt : un lieu de naissance d'un style."
+    },
+    {
+      "type": "p",
+      "html": "Le film de Jean-Paul Janssen, La Vie au bout des doigts, sorti en 1982, fait basculer l'image. Edlinger en solo intégral sur les dalles du Verdon, image floue de cinéma, voix off contemplative. Pour la première fois, la grimpe devient un objet médiatique grand public en France. Les inscriptions en club explosent. Les vocations naissent par milliers. C'est l'effet déclencheur d'une popularité qui ne s'est jamais démentie depuis."
+    },
+    {
+      "type": "h2",
+      "text": "Bardonecchia 1985 et l'invention de la compétition"
+    },
+    {
+      "type": "p",
+      "html": "Jusqu'en 1985, l'idée de compétition d'escalade est mal vue par les puristes. La montagne se grimpe en cordée, pas contre un chrono. Cette année-là, le Sportroccia de Bardonecchia, en Italie, change tout. Premier vrai festival international de compétition d'escalade, il rassemble les meilleurs grimpeurs du moment sur des voies notées par un jury. La <strong>Fédération française de la montagne</strong>, qui deviendra FFME en 1985, soutient le mouvement après débat interne."
+    },
+    {
+      "type": "p",
+      "html": "La compétition migre vite vers les structures artificielles. La première Coupe du monde se tient en 1989, l'année où la FFME structure officiellement la discipline en France. Les premières SAE (structures artificielles d'escalade) sortent de terre dans les gymnases. La grimpe quitte progressivement la falaise pour le mur, sans pour autant abandonner ses racines. Les deux pratiques cohabitent, parfois en tension."
+    },
+    {
+      "type": "quote",
+      "text": "Il y avait deux écoles : ceux qui voulaient garder l'esprit montagne et ceux qui voyaient un sport olympique. On s'est engueulés pendant dix ans. Et puis l'histoire a tranché.",
+      "author": "Témoignage anonyme",
+      "role": "ancien cadre fédéral, recueilli en 2020"
+    },
+    {
+      "type": "h2",
+      "text": "La FFME, l'EFM et l'institutionnalisation"
+    },
+    {
+      "type": "p",
+      "html": "La <strong>Fédération française de la montagne et de l'escalade</strong>, créée en 1985 par fusion de la Fédération française de la montagne et de la Fédération française d'escalade, encadre la pratique en France. Elle gère les compétitions, la formation des cadres, le conventionnement des sites naturels avec les propriétaires. Sans la FFME, l'accès à des falaises comme Buoux, Céüse ou la majorité des Calanques serait beaucoup plus précaire."
+    },
+    {
+      "type": "p",
+      "html": "L'École française de montagne, basée à Chamonix, forme les guides de haute montagne et les moniteurs depuis 1948. Elle reste la référence européenne pour la formation professionnelle des métiers de la montagne. Beaucoup de figures de l'escalade française y sont passées comme élèves ou comme formateurs : Roger Frison-Roche, Lionel Terray, René Desmaison. L'institution porte une tradition continue, du piolet à la voie sportive."
+    },
+    {
+      "type": "p",
+      "html": "Dans les années 90 et 2000, la pratique se massifie. Les <a href=\"/blog/sites-escalade-emblematiques-france\">sites emblématiques français</a> se structurent, des topos sortent par dizaines, le matériel devient grand public. Les ouvertures de salles commerciales suivent : Antrebloc, MurMur, puis Climb Up, Vertical'Art, Arkose dans les années 2010. La grimpe entre dans la ville, ce qui change profondément son sociotype."
+    },
+    {
+      "type": "h2",
+      "text": "L'arrivée olympique et la génération Tokyo"
+    },
+    {
+      "type": "p",
+      "html": "L'escalade entre aux Jeux Olympiques à Tokyo en 2020, événement décalé à 2021 pour cause de pandémie. Le format combiné, qui rassemble bloc, difficulté et vitesse, fait débat parmi les grimpeurs purs. Mais l'effet médiatique est massif. Janja Garnbret remporte l'or chez les femmes, Alberto Ginés Lopez chez les hommes. Pour la France, Bassa Mawem se qualifie pour la finale avant de se blesser, son frère Mickaël Mawem termine cinquième."
+    },
+    {
+      "type": "p",
+      "html": "Paris 2024 confirme l'élan : <a href=\"/blog/escalade-jeux-olympiques-paris\">l'escalade aux JO de Paris</a> sépare la vitesse du combiné bloc-difficulté. Bassa Mawem se classe en finale de vitesse. Côté féminin, Oriane Bertone porte les espoirs français en bloc-difficulté. La discipline gagne en visibilité, le grand public découvre les salles, les inscriptions en club explosent une nouvelle fois. C'est l'effet Edlinger de 1982, mais cette fois la salle est le récepteur principal."
+    },
+    {
+      "type": "h2",
+      "text": "Bleau toujours, le mythe fondateur qui ne meurt pas"
+    },
+    {
+      "type": "p",
+      "html": "Au milieu de toutes ces évolutions, <a href=\"/blog/histoire-bleau-bloc\">Fontainebleau reste le centre symbolique</a> de l'escalade française. Le massif accueille toutes les générations, de Pierre Allain à Alex Megos qui y vient régulièrement pour ses traversées. Les circuits historiques tracés à partir des années 40, le bleu, le rouge, le noir, le blanc, structurent encore aujourd'hui la pratique de centaines de milliers de grimpeurs."
+    },
+    {
+      "type": "p",
+      "html": "Bleau a aussi inventé la sociabilité grimpe : se retrouver le dimanche, partager les pads, faire la pause pique-nique sur les rochers. Ce modèle a essaimé partout en France, dans les <a href=\"/blog/grimpeurs-vivent-cailloux\">communautés de grimpeurs locales</a>. Les <a href=\"/blog/bleau-circuits-debutant\">circuits débutants</a> initient encore chaque année des milliers de jeunes à la lecture du rocher. Le passé continue à former l'avenir."
+    },
+    {
+      "type": "h2",
+      "text": "L'escalade française aujourd'hui, héritages et tensions"
+    },
+    {
+      "type": "p",
+      "html": "En 2026, la France compte plus de 800 salles d'escalade indoor, environ 100 000 licenciés FFME, et un nombre total de pratiquants estimé à plus d'un million. La majorité d'entre eux ne grimpent jamais en falaise. C'est une rupture historique : pendant deux siècles, l'escalade impliquait nécessairement le rocher. Aujourd'hui, on peut être grimpeur sans avoir jamais touché un caillou."
+    },
+    {
+      "type": "p",
+      "html": "Cette mutation interroge les pratiquants engagés. Les anciens, dans la tradition d'Edlinger ou de Destivelle, voient la salle comme un entraînement vers la falaise. Les nouveaux, formés en salle, considèrent souvent la falaise comme un terrain d'aventure intimidant. Les deux mondes communiquent, parfois mal. Les <a href=\"/blog/films-escalade-meilleurs\">films d'escalade contemporains</a> et les <a href=\"/blog/livres-escalade-references\">livres de référence</a> tentent de garder vivante cette mémoire commune, indispensable à la culture de la discipline."
+    },
+    {
+      "type": "tip",
+      "title": "Comprendre l'escalade française en quatre dates",
+      "body": "1492 Mont Aiguille, naissance symbolique de l'alpinisme. 1947 chausson PA et premiers circuits Bleau, naissance du bloc. 1982 La Vie au bout des doigts d'Edlinger, popularisation. 2021 Tokyo, entrée olympique. Quatre ruptures qui dessinent une trajectoire continue d'élargissement, du sommet inaccessible au sport de masse.",
+      "tone": "info"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Qui a fait la première ascension du Mont Blanc ?",
+      "a": "Jacques Balmat et Michel Paccard ont gravi le Mont Blanc le 8 août 1786, sur incitation du naturaliste genevois Horace-Bénédict de Saussure. Cette ascension est considérée comme l'acte de naissance de l'alpinisme moderne. Saussure lui-même atteindra le sommet l'année suivante, en 1787, marquant la dimension scientifique et sportive d'un même geste."
+    },
+    {
+      "q": "Pourquoi Patrick Edlinger est-il si important dans l'histoire de l'escalade ?",
+      "a": "Edlinger a popularisé l'escalade libre auprès du grand public français grâce au film La Vie au bout des doigts de Jean-Paul Janssen en 1982. Sa silhouette en solo intégral dans les Gorges du Verdon a marqué une génération. Il a aussi ouvert des voies historiques au Verdon et à Buoux, et incarné un style d'escalade fluide, contemplatif, esthétique, qui a influencé toute la pratique européenne des années 80 et 90."
+    },
+    {
+      "q": "Quelle est la différence entre la FFME et le CAF ?",
+      "a": "La FFME, Fédération française de la montagne et de l'escalade, gère prioritairement les compétitions, la formation des cadres et l'équipement des sites naturels conventionnés. Le CAF, Club Alpin Français, est une fédération multisport historique fondée en 1874, qui propose des sorties collectives, des stages d'alpinisme, et entretient des refuges. Les deux structures coexistent, beaucoup de pratiquants sont licenciés dans les deux."
+    },
+    {
+      "q": "Quand l'escalade est-elle devenue un sport olympique ?",
+      "a": "L'escalade fait son entrée aux Jeux Olympiques à Tokyo 2020, décalés à 2021 pour cause de pandémie, dans un format combiné bloc-difficulté-vitesse. À Paris 2024, la vitesse a été séparée du combiné bloc-difficulté, ce qui correspond mieux à la pratique réelle des athlètes. Cette olympisation a multiplié la visibilité médiatique et accéléré l'inscription en salle dans tous les pays."
+    },
+    {
+      "q": "Pourquoi Fontainebleau est-il considéré comme le berceau du bloc ?",
+      "a": "Parce que Pierre Allain et son cercle y ont inventé la pratique moderne du bloc dans les années 1930. Ils ont posé les principes de l'escalade sans corde sur des passages courts mais techniques, des circuits balisés par couleurs, et même conçu le premier chausson adhérent en 1947. Les circuits historiques de Fontainebleau structurent encore la pratique mondiale du bloc et restent une référence culturelle absolue de la discipline."
+    },
+    {
+      "q": "Quelles sont les grandes figures féminines de l'escalade française ?",
+      "a": "Catherine Destivelle reste la pionnière, vainqueure de Bardonecchia 1986 puis grande alpiniste solitaire dans les années 90. Plus récemment, Liv Sansoz a marqué la compétition mondiale dans les années 2000, Mélissa Le Nevé a brillé en coupe du monde de bloc, Oriane Bertone porte la nouvelle génération à partir de Paris 2024. Le décollage des féminines suit la massification générale de la pratique en France."
+    }
+  ],
+  "cover_alt": "Mosaïque évocatrice de l'histoire de l'escalade française, grimpeur en solo sur dalle calcaire du Verdon, lumière chaude de fin d'après-midi, ambiance contemplative",
+  "internal_links": [
+    {
+      "slug": "sites-escalade-emblematiques-france",
+      "anchor": "sites emblématiques français",
+      "context": "panorama des falaises"
+    },
+    {
+      "slug": "histoire-bleau-bloc",
+      "anchor": "Fontainebleau reste le centre symbolique",
+      "context": "racines du bloc"
+    },
+    {
+      "slug": "escalade-jeux-olympiques-paris",
+      "anchor": "l'escalade aux JO de Paris",
+      "context": "olympisation"
+    },
+    {
+      "slug": "films-escalade-meilleurs",
+      "anchor": "films d'escalade contemporains",
+      "context": "transmission culturelle"
+    },
+    {
+      "slug": "livres-escalade-references",
+      "anchor": "livres de référence",
+      "context": "mémoire écrite"
+    },
+    {
+      "slug": "grimpeurs-vivent-cailloux",
+      "anchor": "communautés de grimpeurs locales",
+      "context": "sociabilité"
+    }
+  ],
+  "scheduled_at": "2026-05-23T09:00:00+02:00"
+}

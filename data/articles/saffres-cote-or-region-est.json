@@ -1,0 +1,198 @@
+{
+  "slug": "saffres-cote-or-region-est",
+  "cocon": "sites",
+  "type_article": "guide",
+  "numero": 15,
+  "title": "Saffres escalade | guide du site bourguignon de Côte-d'Or",
+  "h1": "Saffres, le site école de Côte-d'Or et ses voies sur tuffeau",
+  "description": "Voies, secteurs, accès, période. Le guide complet pour grimper à Saffres en Bourgogne, calcaire à grain, Miraude, école de l'Est de la France.",
+  "chapo": "Saffres, c'est l'école de l'Est. Une falaise discrète plantée dans la campagne de Côte-d'Or, à vingt minutes au sud-ouest de Dijon. Pour beaucoup de grimpeurs bourguignons, c'est le premier rocher qu'ils ont touché. Calcaire à grain rugueux, voies courtes mais variées, ambiance familiale. Je te raconte un site qui mérite mieux que sa réputation modeste, et qui forme des générations de grimpeurs depuis les années 70.",
+  "takeaways": [
+    "Saffres se situe en Côte-d'Or, à 25 kilomètres au sud-ouest de Dijon, près du village de Saffres.",
+    "Plus de 200 voies équipées du 4a au 8a, dominante 5c-6c, hauteur 15 à 30 mètres.",
+    "Calcaire à grain de type tuffeau bourguignon, adhérence remarquable, prises variées.",
+    "Site école historique de la Bourgogne, équipé dès les années 70, repris par la FFME et le CAF Dijon.",
+    "Période de grimpe d'avril à novembre, exposition variée selon les secteurs."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Saffres, le site qui forme la Bourgogne grimpeuse"
+    },
+    {
+      "type": "p",
+      "html": "J'ai découvert Saffres assez tard pour un grimpeur français, autour de mes vingt ans. Je venais d'enchaîner deux saisons à Bleau et dans les Calanques, et je m'étais convaincu que les sites de l'Est de la France ne valaient pas le voyage. Erreur. La première fois que j'ai garé la voiture sur le parking du Bel Air, j'ai compris pourquoi tous les grimpeurs dijonnais en parlaient avec affection. C'est un site humble, sans démesure, mais d'une qualité d'apprentissage rare."
+    },
+    {
+      "type": "p",
+      "html": "La falaise s'étire sur environ un kilomètre, entre 250 et 350 mètres d'altitude, dans un paysage de bocage et de forêts qui ne ressemble pas à l'idée qu'on se fait d'un site d'escalade. Pas d'aiguilles spectaculaires, pas de gorges profondes, juste une barre rocheuse qui émerge des bois. Environ 200 voies équipées sur plusieurs secteurs : Bel Air, La Mémé, La Miraude, L'Aiguille. Du 4a au 8a, avec une concentration majeure dans le 5c-6c. Le terrain de formation parfait."
+    },
+    {
+      "type": "p",
+      "html": "Le site a été équipé à partir du début des années 70 par les grimpeurs du Club Alpin Français de Dijon, dans une logique d'école de cordée. Les premières voies sont passées en libre dans des cotations modestes, l'équipement s'est densifié dans les années 80 avec l'arrivée du spit, puis a été repris dans les années 2000 par la <strong>FFME Côte-d'Or</strong> en convention avec les propriétaires forestiers et la commune. Aujourd'hui l'équipement est en broches inox sur la majorité des voies."
+    },
+    {
+      "type": "h2",
+      "text": "Un calcaire bourguignon à grain et à coulées"
+    },
+    {
+      "type": "p",
+      "html": "Le rocher de Saffres est un calcaire du Jurassique moyen, daté d'environ 165 millions d'années. C'est un calcaire à grain, qu'on appelle parfois tuffeau bourguignon dans le langage courant des grimpeurs locaux, même si le terme géologique exact se rapporte plutôt aux calcaires détritiques. La caractéristique principale, c'est l'adhérence remarquable du rocher. Tu poses le pied, ça tient. Les semelles accrochent sans effort. C'est l'inverse du calcaire poli de Buoux ou des Calanques."
+    },
+    {
+      "type": "p",
+      "html": "La falaise propose des profils variés : dalles à coulées d'eau ondulées, murs verticaux avec petites réglettes, quelques dévers à grosses prises. Pas de gros toits, pas de cheminées, peu de fissures. La grimpe reste sportive et physique sans devenir trop technique. C'est un excellent terrain pour <a href=\"/blog/sites-escalade-emblematiques-france\">apprendre à enchaîner du 6 sportif</a> avant de se confronter à des sites plus exigeants techniquement."
+    },
+    {
+      "type": "p",
+      "html": "L'altitude modeste, autour de 300 mètres, et la situation géographique au nord-est de la France donnent au site un climat continental tempéré. Les conditions sont rarement parfaites, mais rarement catastrophiques non plus. L'humidité matinale peut rendre les premières voies glissantes, on attend que le rocher sèche, généralement avant 11 heures en plein été ou en début d'après-midi en mi-saison."
+    },
+    {
+      "type": "table",
+      "caption": "Fiche d'identité de Saffres",
+      "headers": ["Critère", "Détail"],
+      "rows": [
+        ["Localisation", "Côte-d'Or, commune de Saffres, 21 km sud-ouest de Dijon"],
+        ["Altitude", "250 à 350 mètres"],
+        ["Roche", "Calcaire jurassique à grain (tuffeau bourguignon)"],
+        ["Nombre de voies", "Environ 200 équipées"],
+        ["Cotations", "4a à 8a, dominante 5c-6c"],
+        ["Hauteur", "15 à 30 mètres"],
+        ["Orientation", "Variable selon secteurs, majoritairement sud et ouest"],
+        ["Période idéale", "Avril à novembre"]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Le secteur de la Miraude, classique des Bourguignons"
+    },
+    {
+      "type": "p",
+      "html": "Le secteur de la Miraude est le plus connu et le plus fréquenté de Saffres. Une cinquantaine de voies du 5a au 7b, hauteur moyenne 20 mètres, exposition sud-ouest qui donne du soleil à partir du début d'après-midi. Le rocher y est particulièrement compact, les prises bien nettes, l'équipement récent. La voie phare, simplement nommée La Miraude et cotée 6c, attaque sur une dalle à coulées avant de basculer sur un mur vertical où il faut savoir doser ses appuis."
+    },
+    {
+      "type": "p",
+      "html": "Pour qui débute en falaise, la Miraude offre une vingtaine de voies dans le 4c et le 5b, accessibles à un grimpeur sortant de la salle. Les longueurs sont courtes, l'équipement rapproché, les sorties faciles à atteindre en moulinette. C'est le secteur typique où les clubs de Dijon, Beaune et Chalon-sur-Saône organisent leurs sorties d'initiation depuis quarante ans. Le dimanche en mai, il y a parfois foule, mieux vaut prévoir un horaire matinal."
+    },
+    {
+      "type": "p",
+      "html": "L'approche depuis le parking du Bel Air prend une dizaine de minutes par un sentier balisé qui descend dans la forêt. Le pied de voie est plat, confortable, on peut laisser les sacs sans risque. La sortie au sommet de la falaise donne sur un plateau cultivé d'où on aperçoit la campagne bourguignonne et, par temps clair, le Morvan au loin. C'est un site où on prend le temps."
+    },
+    {
+      "type": "h2",
+      "text": "L'Aiguille et les voies plus engagées"
+    },
+    {
+      "type": "p",
+      "html": "Le secteur de l'Aiguille, à l'extrémité ouest de la falaise, offre un caractère plus alpin que le reste du site. La barre rocheuse forme ici une vraie pointe, environ 30 mètres de hauteur, qui domine la vallée. Les voies sont plus exigeantes, avec quelques passages en 6c et 7a tendus, et un caractère un peu plus engagé même si l'équipement reste sportif. C'est le secteur préféré des grimpeurs locaux qui cherchent un peu plus que de l'école."
+    },
+    {
+      "type": "p",
+      "html": "Une dizaine de voies de niveau 7 et 8 ont été ouvertes ici dans les années 2000 et 2010 par les forts locaux, notamment dans le secteur du Pendule. La voie Pendule du Diable, cotée 8a, reste l'une des plus belles lignes du site, avec un passage en dévers court mais intense qui demande puissance et lecture. Le rocher y est plus marqué par les coulées, l'adhérence parfaite si le rocher est sec."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Trois secteurs phares de Saffres",
+      "items": [
+        {
+          "title": "La Miraude",
+          "body": "Le secteur école par excellence. Une cinquantaine de voies du 5a au 7b, exposition sud-ouest, approche 10 minutes depuis le parking du Bel Air. Idéal pour l'initiation et la consolidation du 6."
+        },
+        {
+          "title": "L'Aiguille",
+          "body": "Secteur plus engagé à l'extrémité ouest. Voies de 25 à 30 mètres dans le 6c-8a, ambiance plus alpine. Approche 15 minutes, exposition variable. Préféré des forts locaux."
+        },
+        {
+          "title": "Le Bel Air",
+          "body": "Secteur d'initiation juste au-dessus du parking. Voies courtes du 4 au 5c, parfait pour les enfants et les sorties club. Pied de voie plat, ombre intermittente."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "L'accès, le parking et les conventions de pratique"
+    },
+    {
+      "type": "p",
+      "html": "L'accès se fait depuis la D905 entre Dijon et Vitteaux. À la sortie du village de Saffres en direction de Pasques, un panneau indique le parking du Bel Air sur la droite. Le parking est gratuit, une vingtaine de places, en terre battue. Aux heures de pointe en mai et septembre, il peut être plein, mieux vaut prévoir une option de stationnement de secours dans le village. Pas de transports en commun, l'accès reste exclusivement en voiture."
+    },
+    {
+      "type": "p",
+      "html": "Le site fait l'objet d'une <strong>convention FFME</strong> avec les propriétaires forestiers privés. Cette convention garantit l'accès libre à la grimpe en contrepartie d'un entretien régulier par les bénévoles fédéraux. Les règles sont simples : pas de chiens en pied de voie, pas de musique, ramasser ses déchets, respecter les fermetures temporaires en période de nidification. Le respect de ces règles conditionne le maintien du conventionnement."
+    },
+    {
+      "type": "p",
+      "html": "Quelques voies ferment chaque printemps, généralement de mars à mai, pour cause de nidification du <a href=\"/blog/faucon-pelerin-falaise\">faucon pèlerin</a> qui niche dans certaines anfractuosités. Les panneaux d'information à l'entrée des secteurs précisent les fermetures en cours. Cette cohabitation entre grimpeurs et faune sauvage fonctionne bien à Saffres depuis la signature de la convention en 2003."
+    },
+    {
+      "type": "h2",
+      "text": "Quand grimper à Saffres et pour quel niveau"
+    },
+    {
+      "type": "p",
+      "html": "La meilleure période s'étend d'avril à novembre. Le printemps offre les conditions les plus agréables, rocher sec, température 15 à 20 degrés, lumière douce sur la forêt. L'été reste grimpable même les jours chauds grâce à l'altitude modérée et aux secteurs partiellement ombragés. L'automne donne des conditions magnifiques avec les couleurs de la forêt bourguignonne. L'hiver reste possible les jours secs et lumineux, mais le rocher humide rend la pratique aléatoire."
+    },
+    {
+      "type": "p",
+      "html": "Saffres est avant tout un site de niveau intermédiaire. Le débutant qui sort de salle y trouvera ses premiers 5a et 5b en falaise dans des conditions très favorables. Le grimpeur autonome cherchant à consolider son 6 y trouvera des dizaines de voies tendues mais accessibles. Le grimpeur fort y trouvera quelques 7 et 8 corrects mais ce n'est pas la destination pour ce profil. Compare avec <a href=\"/blog/saussois-yonne-bourgogne\">le Saussois dans l'Yonne</a> pour un autre site bourguignon plus orienté grimpeurs confirmés."
+    },
+    {
+      "type": "tip",
+      "title": "Le rituel du dimanche à Saffres",
+      "body": "Café au village avant de monter, achat du pain à la boulangerie du centre, montée tranquille au parking pour 9 heures. Sortie de fin de matinée vers 12h30, repas en bord de falaise sous les arbres si le temps le permet. Reprise en début d'après-midi, fin de session vers 17 heures. Retour par le bar du village pour un coup à boire avec les locaux. Le grimpeur bourguignon ne se précipite pas, il habite son site.",
+      "tone": "astuce"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Saffres est-il adapté à un grimpeur qui sort de salle ?",
+      "a": "Oui, c'est même l'un des meilleurs sites pour cette transition en France de l'Est. Le secteur du Bel Air et la partie facile de la Miraude proposent une vingtaine de voies du 4 au 5c idéales pour découvrir la falaise. Équipement récent, pied de voie plat, longueurs courtes, sorties faciles à atteindre en moulinette. Beaucoup de clubs FFME de Bourgogne y emmènent leurs initiés au moins une fois dans la saison."
+    },
+    {
+      "q": "Quelle est la différence entre Saffres et le Saussois ?",
+      "a": "Saffres est plus orienté école et niveau intermédiaire, le Saussois est plus engagé et plus dur en moyenne. Saffres compte plus de voies faciles, le Saussois plus de voies dans le 7. Le rocher de Saffres a un grain plus rugueux, celui du Saussois est plus poli par les nombreuses répétitions. Les deux sites se complètent bien, beaucoup de Bourguignons les fréquentent en alternance selon le niveau de leurs partenaires."
+    },
+    {
+      "q": "Y a-t-il un topo à jour de Saffres ?",
+      "a": "Oui, le topo officiel de Saffres est édité par le CAF Côte-d'Or et la FFME, réédité tous les 5 à 7 ans avec mise à jour de l'équipement. La dernière édition date de 2023. On le trouve dans les magasins spécialisés à Dijon, à la maison de la montagne du CAF, ou en commande en ligne. Compte une quinzaine d'euros. Une partie des informations est disponible sur l'application Camptocamp pour les nouvelles voies non encore intégrées au topo papier."
+    },
+    {
+      "q": "Peut-on amener des enfants débutants à Saffres ?",
+      "a": "Oui, le secteur du Bel Air est parfaitement adapté. Une dizaine de voies du 4a au 5a accessibles depuis un pied de voie plat et large, à dix minutes du parking. Les sorties se gèrent facilement en moulinette pour des cordées en initiation. Plusieurs clubs FFME organisent des sorties enfants encadrées sur ce secteur. Évite les fortes chaleurs estivales, l'ombre est limitée et le risque de coup de chaleur réel."
+    },
+    {
+      "q": "Le site ferme-t-il en période de nidification ?",
+      "a": "Quelques secteurs précis ferment chaque année du 15 mars au 15 juin environ, en raison de la nidification du faucon pèlerin et de quelques autres rapaces. Les fermetures concernent rarement plus de 10 à 15 voies sur les 200 du site. Des panneaux à l'entrée de chaque secteur indiquent les fermetures en cours. La consultation préalable du site de la FFME Côte-d'Or reste utile en pleine saison de reproduction."
+    }
+  ],
+  "cover_alt": "Falaise calcaire de Saffres en Bourgogne, rocher beige à grain visible, grimpeur sur voie du secteur Miraude, forêt verte au pied, ciel clair de printemps",
+  "internal_links": [
+    {
+      "slug": "sites-escalade-emblematiques-france",
+      "anchor": "apprendre à enchaîner du 6 sportif",
+      "context": "panorama national"
+    },
+    {
+      "slug": "saussois-yonne-bourgogne",
+      "anchor": "le Saussois dans l'Yonne",
+      "context": "autre site bourguignon"
+    },
+    {
+      "slug": "faucon-pelerin-falaise",
+      "anchor": "faucon pèlerin",
+      "context": "biodiversité"
+    },
+    {
+      "slug": "sortie-rocher-debutant",
+      "anchor": "première sortie en falaise",
+      "context": "site pour débuter"
+    },
+    {
+      "slug": "sites-confidentiels-france",
+      "anchor": "sites confidentiels de France",
+      "context": "autres pépites"
+    }
+  ],
+  "scheduled_at": "2026-12-05T09:00:00+01:00"
+}

@@ -1,0 +1,192 @@
+{
+  "slug": "reinhold-messner-himalaya",
+  "cocon": "personnalites",
+  "type_article": "profil",
+  "numero": 114,
+  "title": "Reinhold Messner et les 14 huit mille | portrait d'une légende",
+  "h1": "Reinhold Messner, premier homme à gravir les 14 huit mille sans oxygène",
+  "description": "Reinhold Messner, alpiniste italien du Sud Tyrol, premier à enchaîner les 14 huit mille sans oxygène entre 1970 et 1986. Portrait d'une légende.",
+  "chapo": "Reinhold Messner reste la figure la plus marquante de l'alpinisme du vingtième siècle. Né en 1944 dans le Sud Tyrol italien, il a redéfini ce qu'un humain pouvait faire en haute altitude. Quatorze sommets de plus de 8000 mètres gravis sans oxygène, l'Everest en solitaire, des traversées polaires. Antoine te propose un portrait factuel d'un homme controversé et inégalé.",
+  "takeaways": [
+    "Reinhold Messner est le premier alpiniste à avoir gravi les 14 huit mille sans oxygène entre 1970 et 1986.",
+    "Il a réalisé la première ascension de l'Everest sans oxygène en 1978 avec Peter Habeler.",
+    "Son frère Günther Messner a péri au Nanga Parbat en 1970, drame qui a marqué toute sa carrière.",
+    "Messner a popularisé le style alpin en Himalaya, sans cordes fixes ni porteurs en altitude.",
+    "Il a fondé le Messner Mountain Museum, six sites dans le Sud Tyrol consacrés à la culture de la montagne."
+  ],
+  "body_blocks": [
+    {
+      "type": "h2",
+      "text": "Une enfance dans les Dolomites du Sud Tyrol"
+    },
+    {
+      "type": "p",
+      "html": "<strong>Reinhold Messner</strong> naît le 17 septembre 1944 à Brixen, dans la province autonome du Sud Tyrol, partie germanophone de l'Italie du Nord. Aîné d'une fratrie de neuf enfants, il grandit au village de Villnöss au pied des Dolomites. Son père Josef, instituteur passionné de montagne, l'emmène à cinq ans sur son premier sommet."
+    },
+    {
+      "type": "p",
+      "html": "Avec son frère <strong>Günther Messner</strong>, son cadet d'un an, Reinhold parcourt les parois calcaires des Geisler et des Sella dès l'adolescence. À vingt ans il enchaîne déjà les grandes voies des Dolomites en libre intégral, puis attaque les faces nord des Alpes. Son style austère, sa rapidité, sa capacité à grimper en libre des passages que d'autres tirent à l'artificiel le démarquent rapidement de la génération précédente."
+    },
+    {
+      "type": "p",
+      "html": "Cette formation dolomitique, dure et minimaliste, va structurer toute son approche de la haute altitude. Pas de matériel inutile, pas d'assistance superflue, primauté de la cordée légère. C'est l'ADN du futur conquérant des huit mille."
+    },
+    {
+      "type": "h2",
+      "text": "Le drame du Nanga Parbat en 1970"
+    },
+    {
+      "type": "p",
+      "html": "L'année 1970 marque Reinhold Messner pour le reste de sa vie. Avec son frère Günther, il participe à une expédition allemande au <strong>Nanga Parbat</strong> dirigée par Karl Maria Herrligkoffer. Les deux frères atteignent le sommet par la face Rupal, la plus haute paroi du monde, le 27 juin 1970. C'est la première ascension par cette face."
+    },
+    {
+      "type": "p",
+      "html": "La descente vire au drame. Épuisés, désorientés, ils choisissent de redescendre par la face Diamir, plus facile mais inconnue. Günther disparaît dans une avalanche au pied de la paroi. Reinhold rejoint la civilisation après plusieurs jours d'errance, gravement gelé. Il perd sept orteils. La controverse sur les choix tactiques de cette descente l'a poursuivi pendant des décennies, jusqu'à la découverte des restes de Günther en 2005 qui a confirmé sa version."
+    },
+    {
+      "type": "quote",
+      "text": "L'oxygène artificiel rabaisse la montagne au niveau de l'homme. Sans oxygène, c'est l'homme qui doit s'élever au niveau de la montagne.",
+      "author": "Reinhold Messner",
+      "role": "alpiniste italien"
+    },
+    {
+      "type": "h2",
+      "text": "Quatorze huit mille sans oxygène, de 1970 à 1986"
+    },
+    {
+      "type": "p",
+      "html": "Le Nanga Parbat 1970 ouvre la liste. Messner enchaîne ensuite les 14 sommets de plus de 8000 mètres en seize années, toujours sans oxygène artificiel, principe qu'il pose comme dogme. Sa philosophie : descendre la barre éthique en montant la barre physique. Pas de cordes fixes, pas de camps lourds, pas de porteurs au-delà du camp de base, ascensions rapides en style alpin."
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Les ascensions clés de Reinhold Messner",
+      "items": [
+        {
+          "title": "1970 Nanga Parbat (8126 m)",
+          "body": "Première par la face Rupal avec son frère Günther. Sommet atteint le 27 juin 1970. Drame en descente, Günther disparaît dans une avalanche."
+        },
+        {
+          "title": "1975 Gasherbrum I (8080 m)",
+          "body": "Avec Peter Habeler, première ascension en style alpin d'un huit mille. Un tournant historique pour l'alpinisme."
+        },
+        {
+          "title": "1978 Everest (8849 m)",
+          "body": "Première ascension du Mont Everest sans oxygène, avec Peter Habeler le 8 mai 1978. Beaucoup pensaient l'exploit impossible physiologiquement."
+        },
+        {
+          "title": "1978 Nanga Parbat solo (8126 m)",
+          "body": "Première ascension solitaire intégrale d'un huit mille, face Diamir. Trois mois après l'Everest."
+        },
+        {
+          "title": "1980 Everest solo (8849 m)",
+          "body": "Première ascension solitaire de l'Everest sans oxygène, par le col Nord, en pleine mousson. Considéré comme son chef-d'œuvre."
+        },
+        {
+          "title": "1986 Lhotse (8516 m)",
+          "body": "Quatorzième et dernier huit mille. Messner devient le premier homme à avoir gravi tous les sommets de plus de 8000 mètres."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "L'Everest 1978 avec Peter Habeler"
+    },
+    {
+      "type": "p",
+      "html": "Le 8 mai 1978, Reinhold Messner et l'autrichien Peter Habeler atteignent le sommet du <strong>Mont Everest</strong> sans utiliser d'oxygène artificiel. La communauté médicale considérait alors qu'au-dessus de 8500 mètres le cerveau humain ne pouvait plus fonctionner sans assistance. Plusieurs experts prédisaient des dommages neurologiques irréversibles voire la mort cérébrale."
+    },
+    {
+      "type": "p",
+      "html": "Les deux hommes prouvent l'inverse. Habeler descend en deux heures depuis le sommet, Messner met un peu plus. Aucune séquelle neurologique sérieuse. L'exploit redéfinit la physiologie de l'altitude et ouvre la voie à toute une génération d'alpinistes qui vont chercher à grimper plus pur, plus léger, plus vite."
+    },
+    {
+      "type": "h2",
+      "text": "L'Everest solo 1980, le chef-d'œuvre"
+    },
+    {
+      "type": "p",
+      "html": "Deux ans après son premier Everest, Messner retourne seul sur le toit du monde. Il choisit le versant tibétain, la face Nord, en pleine mousson, sans personne au camp de base à part sa compagne Nena Holguin. Il monte avec quinze kilos sur le dos, sans corde, sans assurage, sans oxygène. Trois jours pour atteindre le sommet le 20 août 1980."
+    },
+    {
+      "type": "p",
+      "html": "Cette ascension reste pour beaucoup d'historiens de l'alpinisme la plus pure jamais réalisée sur l'Everest. Aucun équipement fixe, aucune assistance, aucun témoin direct. Messner décrit dans son livre Le défi des solitaires l'expérience d'un alpinisme réduit à son essence : un homme et une montagne. Personne n'a renouvelé cet exploit dans des conditions équivalentes."
+    },
+    {
+      "type": "tip",
+      "title": "Le style alpin selon Messner",
+      "body": "Le style alpin consiste à grimper une grande paroi comme on enchaîne une face alpine : une cordée légère, peu de matériel, pas de cordes fixes, pas de retours au camp de base. C'est la doctrine que Messner et Habeler imposent en Himalaya à partir du Gasherbrum I 1975. Toute l'alpinisme moderne en découle, des Steck et Glowacz aux himalayistes actuels.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Au-delà des huit mille : pôles, déserts, politique"
+    },
+    {
+      "type": "p",
+      "html": "Après le Lhotse en 1986, Messner tourne la page de l'alpinisme extrême. Il enchaîne les traversées polaires : Antarctique en 1989-1990 avec Arved Fuchs, Groenland en 1993, désert de Gobi en 2004. Il s'engage en politique européenne comme député des Verts au Parlement européen entre 1999 et 2004. Il rentre dans son Sud Tyrol natal et y fonde un projet muséal d'envergure."
+    },
+    {
+      "type": "p",
+      "html": "Le Messner Mountain Museum regroupe six sites distincts dans les Dolomites et le Sud Tyrol, chacun consacré à un aspect de la culture montagnarde. Firmian au château Sigmundskron pour l'expérience générale de la montagne, Juval pour les mythes, Ortles pour la glace, Dolomites pour la roche, Ripa pour les peuples des montagnes du monde, Corones pour l'alpinisme traditionnel. Une œuvre culturelle qui complète l'œuvre alpine."
+    },
+    {
+      "type": "h2",
+      "text": "Polémiques et héritage"
+    },
+    {
+      "type": "p",
+      "html": "Messner reste un personnage clivant. Sa version du drame du Nanga Parbat 1970 a été contestée pendant 35 ans par d'anciens membres de l'expédition Herrligkoffer, qui l'accusaient d'avoir abandonné son frère. La découverte des restes de Günther en 2005 sur la face Diamir a confirmé la trajectoire que Messner avait toujours décrite. Plusieurs procès en diffamation ont suivi."
+    },
+    {
+      "type": "p",
+      "html": "Plus récemment, en 2023, le Guinness des records lui a retiré son titre de premier alpiniste à avoir gravi les 14 huit mille, au motif que le bilan d'une de ses ascensions, l'Annapurna en 1985, dont le sommet exact serait contestable selon une analyse de l'historien Eberhard Jurgalski, ne correspondrait pas à la définition stricte du sommet principal. La controverse continue, mais elle n'efface ni l'Everest 1978 ni l'Everest 1980, exploits qui restent intouchables dans leur principe."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Pourquoi Reinhold Messner est-il considéré comme le plus grand alpiniste de l'histoire ?",
+      "a": "Il combine plusieurs premières historiques : premier homme à gravir les 14 huit mille, première ascension de l'Everest sans oxygène avec Habeler en 1978, premier Everest solo en 1980, premier huit mille en style alpin avec le Gasherbrum I en 1975. Il a aussi posé une éthique de l'alpinisme léger qui a influencé toutes les générations suivantes. Aucun autre alpiniste ne cumule autant de premières structurantes."
+    },
+    {
+      "q": "Que s'est-il passé au Nanga Parbat en 1970 avec son frère Günther ?",
+      "a": "Les deux frères ont gravi la face Rupal le 27 juin 1970, mais Günther est mort dans une avalanche pendant la descente par la face Diamir. Reinhold a survécu après plusieurs jours d'errance avec sept orteils gelés à amputer. Les anciens membres de l'expédition ont contesté sa version pendant 35 ans, jusqu'à la découverte des restes de Günther sur la face Diamir en 2005."
+    },
+    {
+      "q": "Quelle est la différence entre grimper avec et sans oxygène en Himalaya ?",
+      "a": "Au-dessus de 7500 mètres, la pression atmosphérique réduit la quantité d'oxygène disponible dans le sang. Sans bouteille, le corps fonctionne en sous-régime sévère, lucidité réduite, risque d'œdème cérébral ou pulmonaire augmenté. L'oxygène artificiel permet de descendre l'altitude physiologique perçue de plusieurs centaines de mètres, ce qui transforme complètement la difficulté de l'ascension."
+    },
+    {
+      "q": "Reinhold Messner grimpe-t-il encore aujourd'hui ?",
+      "a": "À plus de 80 ans, il a arrêté l'alpinisme de haut niveau mais reste actif en montagne, en randonnée et en escalade modérée dans les Dolomites. Il consacre l'essentiel de son temps à ses musées, à l'écriture, plus de 80 livres publiés, et à des conférences. Sa famille vit toujours dans le Sud Tyrol où il a réhabilité plusieurs châteaux historiques."
+    },
+    {
+      "q": "Le record des 14 huit mille de Messner a-t-il été contesté ?",
+      "a": "Oui, en 2023, l'organisation Guinness s'appuyant sur les travaux de l'historien allemand Eberhard Jurgalski a soulevé un doute sur l'ascension précise du sommet principal de l'Annapurna en 1985. La controverse porte sur quelques mètres horizontaux entre le sommet principal et un point parfois confondu. La majorité de la communauté alpine maintient son statut de premier homme à avoir gravi les 14 huit mille."
+    }
+  ],
+  "cover_alt": "Portrait de Reinhold Messner en montagne, regard dirigé vers un sommet enneigé du Sud Tyrol, lumière froide de fin d'après-midi, barbe blanche et visage marqué par les expéditions",
+  "internal_links": [
+    {
+      "slug": "grimpeurs-grimpeuses-histoire-france",
+      "anchor": "grimpeurs qui ont marqué l'histoire",
+      "context": "pilier personnalites"
+    },
+    {
+      "slug": "alex-honnold-free-solo-el-cap",
+      "anchor": "Alex Honnold en solo intégral",
+      "context": "comparaison solo"
+    },
+    {
+      "slug": "wolfgang-gullich-action-directe",
+      "anchor": "Wolfgang Güllich et Action Directe",
+      "context": "alpiniste contemporain"
+    },
+    {
+      "slug": "patrick-edlinger-vie-falaise",
+      "anchor": "Patrick Edlinger en falaise",
+      "context": "génération années 80"
+    }
+  ],
+  "scheduled_at": "2027-01-23T09:00:00+01:00"
+}
