@@ -6,7 +6,7 @@
   "title": "Retenir les nœuds d'escalade, méthode pour ne plus oublier",
   "h1": "Méthode pour retenir les nœuds d'escalade et les garder disponibles longtemps",
   "description": "Méthode pour retenir les nœuds d'escalade : répétition espacée, visualisation, ancrage gestuel, hiérarchisation. Garder les nœuds disponibles longtemps.",
-  "chapo": "Apprendre les nœuds, c'est facile. Les garder disponibles six mois plus tard sans pratique, c'est l'autre problème. Beaucoup de grimpeurs revivent l'apprentissage initial à chaque saison parce qu'ils n'ont jamais intégré une méthode de mémorisation durable. J'ai construit ma propre routine pendant mes années lycée à Camille Sée Colmar, et elle me sert toujours treize ans plus tard. Voici ce qui fonctionne vraiment.",
+  "chapo": "Apprendre les nœuds, c'est facile. Les garder disponibles six mois plus tard sans pratique, c'est l'autre problème. Beaucoup de grimpeurs revivent l'apprentissage initial à chaque saison parce qu'ils n'ont jamais intégré une méthode de mémorisation durable. J'ai construit ma propre routine au fil de mes premières années de pratique, et elle me sert toujours treize ans plus tard. Voici ce qui fonctionne vraiment.",
   "takeaways": [
     "La répétition espacée à intervalles croissants reste la méthode la plus efficace pour ancrer un nœud dans la mémoire à long terme.",
     "L'ancrage gestuel par répétition physique surpasse largement la mémorisation visuelle ou théorique d'un schéma.",
@@ -235,7 +235,7 @@
       "type": "quote",
       "text": "Mon père m'a appris les nœuds avec une cordelette accrochée à la poignée de la cuisinière. Tous les soirs en attendant le dîner, je faisais cinq huits, cinq cabestans, cinq prussiks. Treize ans plus tard, je n'ai jamais oublié aucun de ces nœuds. La régularité bat le talent.",
       "author": "Antoine",
-      "role": "grimpeur 8a, formé au lycée Camille Sée Colmar"
+      "role": "rédacteur escalade-france.fr"
     },
     {
       "type": "h2",
@@ -280,28 +280,28 @@
   "internal_links": [
     {
       "slug": "noeuds-escalade-utiles-guide",
-      "anchor": "panorama des nœuds utiles",
-      "context": "pilier cocon"
+      "anchor": "des techniques de nouage à connaître",
+      "context": "pilier nœuds, premier lien interne"
     },
     {
       "slug": "noeud-huit-encordement",
-      "anchor": "nœud de huit",
-      "context": "nœud quotidien"
-    },
-    {
-      "slug": "verifier-noeud-partenaire",
-      "anchor": "vérification croisée avec le partenaire",
-      "context": "double validation"
-    },
-    {
-      "slug": "mental-grimpe-blocage",
-      "anchor": "préparation mentale du grimpeur",
-      "context": "visualisation"
+      "anchor": "le nœud de huit pour l'encordement",
+      "context": "même cocon, nœud quotidien"
     },
     {
       "slug": "noeud-prussik-auto-bloquant",
-      "anchor": "prussik",
-      "context": "nœud groupe 2"
+      "anchor": "prussik auto-bloquant",
+      "context": "même cocon, nœud groupe 2"
+    },
+    {
+      "slug": "mental-grimpe-blocage",
+      "anchor": "La préparation mentale du grimpeur",
+      "context": "cross-cocon techniques, visualisation"
+    },
+    {
+      "slug": "verifier-noeud-partenaire",
+      "anchor": "la vérification croisée avec le partenaire",
+      "context": "même cocon, double validation orale"
     }
   ],
   "scheduled_at": "2026-10-27T09:00:00+01:00"
