@@ -7,20 +7,20 @@ import { SiteFooter } from "@/components/site-footer";
 import "./globals.css";
 
 const manrope = Manrope({
-  subsets: ["latin"],
+  subsets: ["latin", "latin-ext"],
   variable: "--font-manrope",
   display: "swap",
 });
 
 const fraunces = Fraunces({
-  subsets: ["latin"],
+  subsets: ["latin", "latin-ext"],
   variable: "--font-fraunces",
   display: "swap",
   axes: ["opsz", "SOFT"],
 });
 
 const jetbrains = JetBrains_Mono({
-  subsets: ["latin"],
+  subsets: ["latin", "latin-ext"],
   variable: "--font-jetbrains",
   display: "swap",
 });

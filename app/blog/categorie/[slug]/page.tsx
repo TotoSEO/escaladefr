@@ -132,11 +132,25 @@ export default async function CoconPage(
               éditorial. Reviens d&apos;ici quelques semaines.
             </p>
           ) : (
-            <div className="grid grid-cols-1 gap-5 sm:gap-6 md:grid-cols-2 lg:grid-cols-3">
-              {articles.map((a) => (
-                <ArticleCard key={a.id} a={a} />
-              ))}
-            </div>
+            <>
+              {articles.filter((a) => a.type_article === "hub").length > 0 && (
+                <div className="mb-12">
+                  <p className="mb-5 font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+                    § Le guide essentiel — épinglé
+                  </p>
+                  <div className="grid grid-cols-1 gap-5 sm:gap-6">
+                    {articles.filter((a) => a.type_article === "hub").map((a) => (
+                      <ArticleCard key={a.id} a={a} pinned />
+                    ))}
+                  </div>
+                </div>
+              )}
+              <div className="grid grid-cols-1 gap-5 sm:gap-6 md:grid-cols-2 lg:grid-cols-3">
+                {articles.filter((a) => a.type_article !== "hub").map((a) => (
+                  <ArticleCard key={a.id} a={a} />
+                ))}
+              </div>
+            </>
           )}
         </div>
       </section>
@@ -144,12 +158,20 @@ export default async function CoconPage(
   );
 }
 
-function ArticleCard({ a }: { a: BlogArticleListItem }) {
+function ArticleCard({ a, pinned }: { a: BlogArticleListItem; pinned?: boolean }) {
   return (
     <Link
       href={articleHref(a.slug)}
-      className="group flex flex-col overflow-hidden rounded-2xl border border-white/10 bg-coal-900 transition-all hover:border-primary/40"
+      className={`group relative flex flex-col overflow-hidden rounded-2xl border bg-coal-900 transition-all ${
+        pinned ? "border-primary/40 hover:border-primary" : "border-white/10 hover:border-primary/40"
+      }`}
     >
+      {pinned && (
+        <span className="absolute right-3 top-3 z-10 inline-flex items-center gap-1.5 rounded-full bg-primary px-2.5 py-1 font-mono text-[9px] uppercase tracking-[0.22em] text-primary-foreground shadow-lg">
+          <span className="inline-block h-1.5 w-1.5 rounded-full bg-primary-foreground/70" />
+          Épinglé
+        </span>
+      )}
       <div className="relative aspect-[16/10] overflow-hidden">
         <Image
           src={a.cover_image}

@@ -25,7 +25,11 @@ export const metadata: Metadata = {
 export const revalidate = 3600;
 
 export default async function BlogPage() {
-  const articles = await fetchPublishedArticles(60);
+  const articles = await fetchPublishedArticles(200);
+  // Tri : piliers hubs en premier, puis les autres triés par date desc
+  const hubs = articles.filter((a) => a.type_article === "hub");
+  const others = articles.filter((a) => a.type_article !== "hub");
+  const orderedArticles = [...hubs, ...others];
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -129,11 +133,30 @@ export default async function BlogPage() {
                 </span>
               </div>
 
-              <div className="grid grid-cols-1 gap-5 sm:gap-6 md:grid-cols-2 lg:grid-cols-3">
-                {articles.map((a, i) => (
-                  <ArticleCard key={a.id} a={a} featured={i === 0} />
-                ))}
-              </div>
+              {hubs.length > 0 && (
+                <div className="mb-12">
+                  <p className="mb-5 font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+                    § Les guides essentiels — épinglés
+                  </p>
+                  <div className="grid grid-cols-1 gap-5 sm:gap-6 md:grid-cols-2 lg:grid-cols-3">
+                    {hubs.map((a, i) => (
+                      <ArticleCard key={a.id} a={a} featured={i === 0 && hubs.length >= 4} pinned />
+                    ))}
+                  </div>
+                </div>
+              )}
+              {others.length > 0 && (
+                <div>
+                  <p className="mb-5 font-mono text-[11px] uppercase tracking-[0.28em] text-muted-foreground">
+                    § Tous les autres articles
+                  </p>
+                  <div className="grid grid-cols-1 gap-5 sm:gap-6 md:grid-cols-2 lg:grid-cols-3">
+                    {others.map((a) => (
+                      <ArticleCard key={a.id} a={a} />
+                    ))}
+                  </div>
+                </div>
+              )}
             </>
           )}
         </div>
@@ -142,14 +165,22 @@ export default async function BlogPage() {
   );
 }
 
-function ArticleCard({ a, featured }: { a: BlogArticleListItem; featured?: boolean }) {
+function ArticleCard({ a, featured, pinned }: { a: BlogArticleListItem; featured?: boolean; pinned?: boolean }) {
   return (
     <Link
       href={articleHref(a.slug)}
-      className={`group flex flex-col overflow-hidden rounded-2xl border border-white/10 bg-coal-900 transition-all hover:border-primary/40 ${
+      className={`group relative flex flex-col overflow-hidden rounded-2xl border bg-coal-900 transition-all ${
+        pinned ? "border-primary/40 hover:border-primary" : "border-white/10 hover:border-primary/40"
+      } ${
         featured ? "md:col-span-2 lg:col-span-3 lg:grid lg:grid-cols-2 lg:gap-6" : ""
       }`}
     >
+      {pinned && (
+        <span className="absolute right-3 top-3 z-10 inline-flex items-center gap-1.5 rounded-full bg-primary px-2.5 py-1 font-mono text-[9px] uppercase tracking-[0.22em] text-primary-foreground shadow-lg">
+          <span className="inline-block h-1.5 w-1.5 rounded-full bg-primary-foreground/70" />
+          Épinglé
+        </span>
+      )}
       <div className={`relative aspect-[16/10] overflow-hidden ${featured ? "lg:aspect-auto" : ""}`}>
         <Image
           src={a.cover_image}
