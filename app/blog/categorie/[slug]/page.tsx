@@ -40,7 +40,7 @@ export async function generateMetadata(
   return {
     title: `Blog ${COCON_LABEL[cocon]} | articles sur l'escalade en France`,
     description: COCON_DESCRIPTION[cocon],
-    alternates: { canonical: `/blog/cocon/${slug}` },
+    alternates: { canonical: `/blog/categorie/${slug}` },
   };
 }
 
@@ -60,8 +60,8 @@ export default async function CoconPage(
     "@graph": [
       {
         "@type": "CollectionPage",
-        "@id": `https://escalade-france.fr/blog/cocon/${slug}`,
-        url: `https://escalade-france.fr/blog/cocon/${slug}`,
+        "@id": `https://escalade-france.fr/blog/categorie/${slug}`,
+        url: `https://escalade-france.fr/blog/categorie/${slug}`,
         name: `Blog ${label}`,
         description,
         isPartOf: { "@id": "https://escalade-france.fr/blog" },
@@ -71,7 +71,7 @@ export default async function CoconPage(
         itemListElement: [
           { "@type": "ListItem", position: 1, name: "Accueil", item: "https://escalade-france.fr" },
           { "@type": "ListItem", position: 2, name: "Blog", item: "https://escalade-france.fr/blog" },
-          { "@type": "ListItem", position: 3, name: label, item: `https://escalade-france.fr/blog/cocon/${slug}` },
+          { "@type": "ListItem", position: 3, name: label, item: `https://escalade-france.fr/blog/categorie/${slug}` },
         ],
       },
       ...(articles.length > 0
