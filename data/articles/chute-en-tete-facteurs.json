@@ -56,7 +56,7 @@
     },
     {
       "type": "p",
-      "html": "Sur un facteur de chute 1,7 à 2, les forces de choc peuvent dépasser 6 voire 8 kN selon la corde, l'assureur et la position. La norme EN 892 impose qu'une corde simple dynamique ne transmette pas plus de 12 kN au grimpeur sur une chute test de facteur 1,77 avec 80 kg de masse. Au delà, le corps humain commence à encaisser des lésions internes. <a href=\"/blog/verification-baudrier-corde-noeud\">Le baudrier</a> homologué EN 12277 supporte largement plus, donc le maillon faible reste bien le grimpeur."
+      "html": "Sur un facteur de chute 1,7 à 2, les forces de choc peuvent dépasser 6 voire 8 kN selon la corde, l'assureur et la position. La norme EN 892 impose qu'une corde simple dynamique ne transmette pas plus de 12 kN au grimpeur sur une chute test de facteur 1,77 avec 80 kg de masse. Au delà, le corps humain commence à encaisser des lésions internes. Le baudrier homologué EN 12277 supporte largement plus, donc le maillon faible reste bien le grimpeur, à condition que <a href=\"/blog/verification-baudrier-corde-noeud\">la triple vérification baudrier corde nœud</a> ait bien été faite avant le départ."
     },
     {
       "type": "table",
@@ -129,7 +129,7 @@
     },
     {
       "type": "p",
-      "html": "La parade s'apprend dès le passage en grande voie : on installe un <strong>renvoi sur le relais</strong> dès la première sortie. Une dégaine longue sur le point haut du relais, le grimpeur clippe immédiatement ce renvoi <a href=\"/blog/check-list-avant-grimper\">avant de partir vers le haut</a>, comme l'impose la check-list avant chaque longueur. Si chute, le facteur retombe à un maximum de 1,5 voire moins selon la position. Le risque devient gérable, le matériel et le corps encaissent sans drame. C'est l'une des premières choses qu'on enseigne en formation FFME initiation grande voie."
+      "html": "La parade s'apprend dès le passage en grande voie : on installe un <strong>renvoi sur le relais</strong> dès la première sortie. Une dégaine longue sur le point haut du relais, le grimpeur clippe immédiatement ce renvoi avant de partir vers le haut, comme l'impose <a href=\"/blog/check-list-avant-grimper\">la check-list avant chaque longueur</a>. Si chute, le facteur retombe à un maximum de 1,5 voire moins selon la position. Le risque devient gérable, le matériel et le corps encaissent sans drame. C'est l'une des premières choses qu'on enseigne en formation FFME initiation grande voie."
     },
     {
       "type": "tip",
@@ -161,7 +161,7 @@
     },
     {
       "type": "p",
-      "html": "Le facteur de chute reste un outil de compréhension, pas un calcul à faire en temps réel sur la voie, à l'instar d'une <a href=\"/blog/rappel-securite-procedure\">procédure de rappel maîtrisée</a>. Ce qui compte, c'est l'intuition que tu développes : plus tu es haut au dessus du dernier point, plus la chute sera longue, plus elle sera violente. Tu adaptes ton engagement à ce paramètre. Tu clippes dès que tu peux, tu ne tires pas la corde sur trois mètres au dessus d'un point pour finir un mouvement délicat."
+      "html": "Le facteur de chute reste un outil de compréhension, pas un calcul à faire en temps réel sur la voie. Ce qui compte, c'est l'intuition que tu développes : plus tu es haut au dessus du dernier point, plus la chute sera longue, plus elle sera violente. Tu adaptes ton engagement à ce paramètre. Tu clippes dès que tu peux, tu ne tires pas la corde sur trois mètres au dessus d'un point pour finir un mouvement délicat. Et en grande voie, tu maîtrises aussi <a href=\"/blog/rappel-securite-procedure\">la procédure de rappel en sécurité</a> pour rentrer proprement quand la montée n'est plus possible."
     }
   ],
   "faq": [
