@@ -250,33 +250,78 @@
   "internal_links": [
     {
       "slug": "patrick-edlinger-vie-falaise",
-      "anchor": "portrait complet de Patrick Edlinger",
-      "context": "Article enfant cocon personnalites"
-    },
-    {
-      "slug": "catherine-destivelle-grimpeuse",
-      "anchor": "son portrait détaillé",
-      "context": "Article enfant cocon personnalites"
+      "anchor": "La vie de Patrick Edlinger en falaise",
+      "context": "enfant cocon personnalités"
     },
     {
       "slug": "adam-ondra-9c-silence",
-      "anchor": "dossier complet sur Adam Ondra et Silence",
-      "context": "Article enfant cocon personnalites"
+      "anchor": "d'Adam Ondra dans Silence 9c",
+      "context": "enfant cocon personnalités"
     },
     {
       "slug": "janja-garnbret-domination",
-      "anchor": "portrait de Janja Garnbret",
-      "context": "Article enfant cocon personnalites"
-    },
-    {
-      "slug": "alex-honnold-free-solo-el-cap",
-      "anchor": "dossier Honnold",
-      "context": "Article enfant cocon personnalites"
+      "anchor": "la domination de Janja Garnbret en Coupe du Monde",
+      "context": "enfant cocon personnalités"
     },
     {
       "slug": "lynn-hill-nose-yosemite",
-      "anchor": "parcours sur The Nose",
-      "context": "Article enfant cocon personnalites"
+      "anchor": "Lynn Hill",
+      "context": "enfant cocon personnalités"
+    },
+    {
+      "slug": "alex-honnold-free-solo-el-cap",
+      "anchor": "Le free solo d'Alex Honnold sur El Capitan",
+      "context": "enfant cocon personnalités"
+    },
+    {
+      "slug": "alex-megos-perfecto-mundo",
+      "anchor": "Le parcours d'Alex Megos sur Perfecto Mundo",
+      "context": "enfant cocon personnalités"
+    },
+    {
+      "slug": "charlotte-durif-multiple-disciplines",
+      "anchor": "Charlotte Durif et ses disciplines multiples",
+      "context": "enfant cocon personnalités"
+    },
+    {
+      "slug": "luce-douady-tribute",
+      "anchor": "Luce Douady, talent disparu à 16 ans à Crolles",
+      "context": "enfant cocon personnalités"
+    },
+    {
+      "slug": "francois-legrand-competition",
+      "anchor": "François Legrand en compétition",
+      "context": "enfant cocon personnalités"
+    },
+    {
+      "slug": "francaises-jeux-olympiques-paris",
+      "anchor": "des Françaises aux Jeux Olympiques 2024",
+      "context": "enfant cocon personnalités"
+    },
+    {
+      "slug": "ouvreurs-voies-celebres-france",
+      "anchor": "des ouvreurs de voies célèbres en France",
+      "context": "enfant cocon personnalités"
+    },
+    {
+      "slug": "wolfgang-gullich-action-directe",
+      "anchor": "Wolfgang Gullich et l'ouverture d'Action Directe",
+      "context": "enfant cocon personnalités"
+    },
+    {
+      "slug": "chris-sharma-pionnier",
+      "anchor": "Chris Sharma pionnier de la décennie 2000",
+      "context": "enfant cocon personnalités"
+    },
+    {
+      "slug": "reinhold-messner-himalaya",
+      "anchor": "Reinhold Messner et l'Himalaya sans oxygène",
+      "context": "enfant cocon personnalités"
+    },
+    {
+      "slug": "catherine-destivelle-grimpeuse",
+      "anchor": "Destivelle",
+      "context": "enfant cocon personnalités"
     }
   ],
   "scheduled_at": "2026-05-23T09:00:00+02:00"
