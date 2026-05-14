@@ -517,8 +517,8 @@ UNIQUE_PROMPTS: dict[str, str] = {
 }
 
 
-def generate_image(prompt: str, max_retries: int = 3) -> Optional[bytes]:
-    """Génère une image et renvoie les bytes PNG.
+def generate_image(prompt: str, quality: str = QUALITY, max_retries: int = 3):
+    """Génère une image et renvoie (bytes PNG, usage dict).
 
     Retry avec backoff exponentiel (5s, 15s, 45s) sur timeout ou erreur 5xx.
     Timeout généreux à 300s, l'API gpt-image-2 peut prendre 60-120s en
@@ -529,20 +529,22 @@ def generate_image(prompt: str, max_retries: int = 3) -> Optional[bytes]:
         "prompt": prompt,
         "n": 1,
         "size": SIZE,
-        "quality": QUALITY,
+        "quality": quality,
     }
     for attempt in range(max_retries):
         try:
             r = requests.post(OPENAI_URL, headers=HEADERS, json=req, timeout=300)
             if r.status_code == 200:
                 data = r.json()
+                usage = data.get("usage", {})
                 item = data.get("data", [{}])[0]
+                png = None
                 if "b64_json" in item:
-                    return base64.b64decode(item["b64_json"])
-                if "url" in item:
+                    png = base64.b64decode(item["b64_json"])
+                elif "url" in item:
                     img_r = requests.get(item["url"], timeout=60)
-                    return img_r.content
-                return None
+                    png = img_r.content
+                return png, usage
             elif r.status_code >= 500 or r.status_code == 429:
                 # serveur ou rate-limit, on retry
                 wait = 5 * (3 ** attempt)
@@ -551,7 +553,7 @@ def generate_image(prompt: str, max_retries: int = 3) -> Optional[bytes]:
                 continue
             else:
                 print(f"  ! API {r.status_code}: {r.text[:200]}")
-                return None
+                return None, {}
         except (requests.Timeout, requests.ConnectionError) as e:
             wait = 5 * (3 ** attempt)
             print(f"    timeout/connexion ({type(e).__name__}) → retry dans {wait}s")
@@ -559,9 +561,9 @@ def generate_image(prompt: str, max_retries: int = 3) -> Optional[bytes]:
             continue
         except (requests.RequestException, ValueError, KeyError) as e:
             print(f"  ! Exception: {e}")
-            return None
+            return None, {}
     print(f"  ! Échec après {max_retries} tentatives")
-    return None
+    return None, {}
 
 
 def to_webp(png_bytes: bytes, output: Path, slug: str) -> bool:
@@ -620,6 +622,9 @@ def main() -> None:
                     help="Cap dur en USD (estimation). Arrêt si dépassé.")
     ap.add_argument("--yes", action="store_true",
                     help="Skip la confirmation interactive.")
+    ap.add_argument("--quality", type=str, default=QUALITY,
+                    choices=["low", "medium", "high"],
+                    help="Qualité gpt-image-2 (impact direct sur le coût).")
     args = ap.parse_args()
 
     # Garde-fou : vérifie que tous les slugs de UNIQUE_PROMPTS existent vraiment
@@ -677,14 +682,21 @@ def main() -> None:
         full_prompt = PROMPT_PREFIX + UNIQUE_PROMPTS[slug]
 
         # Étape 1 : appel API, attente complète (pas de parallélisme)
-        print(f"[{i}/{len(missing)}] {slug} · requête…", flush=True)
+        print(f"[{i}/{len(missing)}] {slug} · requête (quality={args.quality})…", flush=True)
         t0 = time.time()
-        png = generate_image(full_prompt)
+        png, usage = generate_image(full_prompt, quality=args.quality)
         elapsed = time.time() - t0
         if png is None:
             print(f"  ✗ pas d'image renvoyée ({elapsed:.1f}s)")
             errors += 1
             continue
+        if usage:
+            in_tok = usage.get("input_tokens", 0)
+            out_tok = usage.get("output_tokens", 0)
+            in_txt = usage.get("input_tokens_details", {}).get("text_tokens", 0)
+            in_img = usage.get("input_tokens_details", {}).get("image_tokens", 0)
+            real_cost = (in_txt * 5 + in_img * 8 + out_tok * 30) / 1_000_000
+            print(f"  usage: in={in_tok} (txt={in_txt}, img={in_img}) out={out_tok} → ~${real_cost:.4f}")
 
         # Étape 2 : conversion WebP + métadonnées EXIF/XMP
         ok = to_webp(png, out, slug)
