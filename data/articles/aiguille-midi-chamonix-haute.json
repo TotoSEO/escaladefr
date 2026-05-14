@@ -21,7 +21,7 @@
     },
     {
       "type": "p",
-      "html": "La première fois que tu sors du téléphérique de l'Aiguille du Midi, l'altitude te coupe le souffle au sens propre. Trois mille huit cents mètres pris en vingt minutes depuis le centre de Chamonix, c'est brutal. La galerie de béton qui mène à la plate-forme sommitale donne une impression irréelle, on dirait une station spatiale plantée dans la glace. Tu sors, et le panorama te met à genoux. Le Mont Blanc à droite, la vallée Blanche en bas, les drus à gauche. Tu comprends pourquoi c'est ici qu'on grimpe le toit de l'Europe."
+      "html": "La première fois que tu sors du téléphérique de l'<a href=\"/blog/mont-aiguille-vercors-pionnier\">Aiguille</a> du Midi, l'altitude te coupe le souffle au sens propre. Trois mille huit cents mètres pris en vingt minutes depuis le centre de Chamonix, c'est brutal. La galerie de béton qui mène à la plate-forme sommitale donne une impression irréelle, on dirait une station spatiale plantée dans la glace. Tu sors, et le panorama te met à genoux. Le Mont Blanc à droite, la vallée Blanche en bas, les drus à gauche. Tu comprends pourquoi c'est ici qu'on grimpe le toit de l'Europe."
     },
     {
       "type": "p",
@@ -50,16 +50,43 @@
     {
       "type": "table",
       "caption": "Fiche d'identité du secteur Aiguille du Midi",
-      "headers": ["Critère", "Détail"],
+      "headers": [
+        "Critère",
+        "Détail"
+      ],
       "rows": [
-        ["Localisation", "Haute-Savoie, massif du Mont Blanc, commune de Chamonix"],
-        ["Altitude", "3613 m (Cosmiques) à 4248 m (Tacul)"],
-        ["Accès", "Téléphérique Aiguille du Midi depuis Chamonix"],
-        ["Roche", "Granite protogine du Mont Blanc"],
-        ["Cotations", "4 à 8a en libre"],
-        ["Hauteurs", "100 à 600 mètres selon voies"],
-        ["Refuge", "Refuge des Cosmiques (3613 m)"],
-        ["Période idéale", "Juin à septembre"]
+        [
+          "Localisation",
+          "Haute-Savoie, massif du Mont Blanc, commune de Chamonix"
+        ],
+        [
+          "Altitude",
+          "3613 m (Cosmiques) à 4248 m (Tacul)"
+        ],
+        [
+          "Accès",
+          "Téléphérique Aiguille du Midi depuis Chamonix"
+        ],
+        [
+          "Roche",
+          "Granite protogine du Mont Blanc"
+        ],
+        [
+          "Cotations",
+          "4 à 8a en libre"
+        ],
+        [
+          "Hauteurs",
+          "100 à 600 mètres selon voies"
+        ],
+        [
+          "Refuge",
+          "Refuge des Cosmiques (3613 m)"
+        ],
+        [
+          "Période idéale",
+          "Juin à septembre"
+        ]
       ]
     },
     {

@@ -46,16 +46,43 @@
     {
       "type": "table",
       "caption": "Fiche d'identité du site",
-      "headers": ["Critère", "Détail"],
+      "headers": [
+        "Critère",
+        "Détail"
+      ],
       "rows": [
-        ["Localisation", "Bouches-du-Rhône, entre Aix-en-Provence et Vauvenargues"],
-        ["Altitude", "350 à 950 mètres selon les secteurs"],
-        ["Roche", "Calcaire urgonien du Crétacé inférieur"],
-        ["Nombre de voies", "Plus de 400 équipées"],
-        ["Cotations", "4a à 8a, dominante 5c-6c"],
-        ["Hauteur", "20 à 250 mètres selon secteur"],
-        ["Orientation", "Majoritairement sud et sud-ouest"],
-        ["Période idéale", "Octobre à mai, parfois fermé l'été"]
+        [
+          "Localisation",
+          "Bouches-du-Rhône, entre Aix-en-Provence et Vauvenargues"
+        ],
+        [
+          "Altitude",
+          "350 à 950 mètres selon les secteurs"
+        ],
+        [
+          "Roche",
+          "Calcaire urgonien du Crétacé inférieur"
+        ],
+        [
+          "Nombre de voies",
+          "Plus de 400 équipées"
+        ],
+        [
+          "Cotations",
+          "4a à 8a, dominante 5c-6c"
+        ],
+        [
+          "Hauteur",
+          "20 à 250 mètres selon secteur"
+        ],
+        [
+          "Orientation",
+          "Majoritairement sud et sud-ouest"
+        ],
+        [
+          "Période idéale",
+          "Octobre à mai, parfois fermé l'été"
+        ]
       ]
     },
     {
@@ -80,7 +107,7 @@
     },
     {
       "type": "p",
-      "html": "Le Bau Rouge, situé sur le versant sud près de Saint-Antonin-sur-Bayon, abrite les voies les plus difficiles du massif. Mur compact, légèrement déversant, hauteur de 30 à 60 mètres. Une vingtaine de voies dans le 7 et le 8, ouvertes principalement par les locaux dans les années 2000 et 2010. La voie phare du secteur, <strong>Le Sang des Tropiques</strong>, cotée 8a, demande une lecture fine et un sens de la résistance qu'on retrouve rarement sur des longueurs si courtes."
+      "html": "Le Bau Rouge, situé sur le versant sud près de <a href=\"/blog/saint-leger-du-ventoux-escalade\">Saint</a>-Antonin-sur-Bayon, abrite les voies les plus difficiles du massif. Mur compact, légèrement déversant, hauteur de 30 à 60 mètres. Une vingtaine de voies dans le 7 et le 8, ouvertes principalement par les locaux dans les années 2000 et 2010. La voie phare du secteur, <strong>Le Sang des Tropiques</strong>, cotée 8a, demande une lecture fine et un sens de la résistance qu'on retrouve rarement sur des longueurs si courtes."
     },
     {
       "type": "p",

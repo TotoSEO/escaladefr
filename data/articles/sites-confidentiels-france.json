@@ -21,7 +21,7 @@
     },
     {
       "type": "p",
-      "html": "Les grandes destinations médiatisées concentrent les fréquentations. Un samedi d'avril à Céüse, on peut faire la queue sur les classiques. À Buoux, certains week-ends, on attend 30 minutes pour partir dans une voie. Les sites confidentiels offrent l'inverse : tu y es souvent seul ou presque, le rocher est propre, le rythme se ralentit. Tu redécouvres une dimension de la grimpe qui se perd quand tout devient saturé. Et tu rencontres des locaux qui te racontent leur falaise."
+      "html": "Les grandes destinations médiatisées concentrent les fréquentations. Un samedi d'avril à Céüse, on peut faire la queue sur les classiques. À Buoux, certains week-ends, on attend 30 minutes pour partir dans une voie. Les sites confidentiels offrent l'inverse : tu y es souvent seul ou presque, le rocher est propre, le rythme se ralentit. Tu re Et tu rencontres des locaux qui te racontent leur falaise."
     },
     {
       "type": "p",
@@ -34,13 +34,43 @@
     {
       "type": "table",
       "caption": "Carte de tournée : sites confidentiels par grande région",
-      "headers": ["Région", "Nombre de sites cités", "Roche dominante", "Saison idéale"],
+      "headers": [
+        "Région",
+        "Nombre de sites cités",
+        "Roche dominante",
+        "Saison idéale"
+      ],
       "rows": [
-        ["Nord et Centre", "3", "Grès tendre, calcaire à coulées, granite", "Avril à octobre"],
-        ["Est et Massif Central", "5", "Calcaire urgonien, basalte, dolomies", "Avril à octobre"],
-        ["Sud-Est et Provence", "5", "Calcaire compact, gneiss", "Octobre à mai"],
-        ["Pyrénées et Ouest", "5", "Calcaire, granite, schistes", "Mai à octobre"],
-        ["Corse et outre-mer", "3", "Granite, schistes, basalte volcanique", "Variable"]
+        [
+          "Nord et Centre",
+          "3",
+          "Grès tendre, calcaire à coulées, granite",
+          "Avril à octobre"
+        ],
+        [
+          "Est et Massif Central",
+          "5",
+          "Calcaire urgonien, basalte, dolomies",
+          "Avril à octobre"
+        ],
+        [
+          "Sud-Est et Provence",
+          "5",
+          "Calcaire compact, gneiss",
+          "Octobre à mai"
+        ],
+        [
+          "Pyrénées et Ouest",
+          "5",
+          "Calcaire, granite, schistes",
+          "Mai à octobre"
+        ],
+        [
+          "Corse et outre-mer",
+          "3",
+          "Granite, schistes, basalte volcanique",
+          "Variable"
+        ]
       ]
     },
     {

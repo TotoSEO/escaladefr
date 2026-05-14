@@ -29,7 +29,7 @@
     },
     {
       "type": "p",
-      "html": "Le grimpeur de salle régulier qui pratique trois fois par semaine entretient automatiquement le <a href=\"/blog/noeud-huit-encordement\">nœud de huit</a> par usage quotidien. Mais les nœuds moins fréquents, cabestan, prussik, italien, mule, s'effacent progressivement sans pratique. Une saison hivernale d'arrêt de quatre mois suffit à effacer la majorité des nœuds non utilisés en routine, comme le constatent beaucoup de pratiquants au retour de printemps."
+      "html": "Le grimpeur de salle régulier qui pratique trois fois par semaine entretient automatiquement le <a href=\"/blog/noeud-huit-encordement\">nœud de huit</a> par usage quotidien. Mais les nœuds moins fréquents, cabestan, <a href=\"/blog/noeud-prussik-auto-bloquant\">prussik</a>, italien, mule, s'effacent progressivement sans pratique. Une saison hivernale d'arrêt de quatre mois suffit à effacer la majorité des nœuds non utilisés en routine, comme le constatent beaucoup de pratiquants au retour de printemps."
     },
     {
       "type": "h2",

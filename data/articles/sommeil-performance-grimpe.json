@@ -156,7 +156,7 @@
     },
     {
       "type": "p",
-      "html": "Une nuit de moins de 5 heures avant une compétition ou un projet est rédhibitoire. Tu pars avec un handicap mesurable. Si tu sais que la nuit a été mauvaise, ajuste tes attentes : pas d'essai à bloc sur un projet majeur, plutôt de la récupération active ou des voies en sous-régime. Mieux vaut perdre une journée que se blesser sur fatigue."
+      "html": "Une nuit de moins de 5 heures avant une compétition ou un projet est rédhibitoire. Tu pars avec un handicap mesurable. Si tu sais que la nuit a été mauvaise, ajuste tes attentes : pas d'essai à bloc sur un projet majeur, plutôt de la <a href=\"/blog/recuperation-active-jours-off\">récupération active</a> ou des voies en sous-régime. Mieux vaut perdre une journée que se blesser sur fatigue."
     },
     {
       "type": "h2",
@@ -186,7 +186,7 @@
     },
     {
       "type": "p",
-      "html": "Pour aller plus loin, vois <a href=\"/blog/recuperation-active-jours-off\">récupération active et jours off</a> et <a href=\"/blog/alimentation-grimpeur-essentiel\">alimentation du grimpeur</a>. La <a href=\"/blog/preparer-corps-tete-grimpe\">préparation physique et mentale du grimpeur</a> intègre le sommeil dans une vision globale."
+      "html": "La <a href=\"/blog/preparer-corps-tete-grimpe\">préparation physique et mentale du grimpeur</a> intègre le sommeil dans une vision globale."
     }
   ],
   "faq": [

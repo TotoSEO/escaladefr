@@ -52,7 +52,7 @@
     },
     {
       "type": "p",
-      "html": "Les forces qui s'exercent sur le grimpeur en chute se mesurent en kilonewtons (kN). Un kilonewton équivaut à environ cent kilogrammes pesés à terre. Sur une chute de facteur 0,5 à 1, le grimpeur encaisse en général entre 3 et 5 kN. C'est l'équivalent de trois à cinq fois son poids. Désagréable mais sans conséquence sur un grimpeur sain."
+      "html": "Les forces qui s'exercent sur le grimpeur en chute se mesurent en kilonewtons (kN). Un kilonewton équivaut à environ cent kilogrammes pesés à terre. Sur une chute de facteur 0,5 à 1, le grimpeur encaisse en général entre 3 et 5 kN. C'est l'équivalent de trois à cinq fois son poids. Désagréable mais sans conséquence sur un grimpeur sain. Pour replacer cela dans le panorama, <a href=\"/blog/securite-escalade-regles-essentielles\">les règles essentielles de sécurité</a>."
     },
     {
       "type": "p",
@@ -162,10 +162,6 @@
     {
       "type": "p",
       "html": "Le facteur de chute reste un outil de compréhension, pas un calcul à faire en temps réel sur la voie. Ce qui compte, c'est l'intuition que tu développes : plus tu es haut au dessus du dernier point, plus la chute sera longue, plus elle sera violente. Tu adaptes ton engagement à ce paramètre. Tu clippes dès que tu peux, tu ne tires pas la corde sur trois mètres au dessus d'un point pour finir un mouvement délicat."
-    },
-    {
-      "type": "p",
-      "html": "Pour aller plus loin, La sécurité, c'est l'accumulation de petits gestes maîtrisés, pas un super pouvoir."
     }
   ],
   "faq": [
