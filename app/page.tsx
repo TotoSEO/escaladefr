@@ -4,6 +4,7 @@ import { Hero } from "@/components/home/hero";
 import { Manifesto } from "@/components/home/manifesto";
 import { TopDepartements } from "@/components/home/top-departements";
 import { Missions } from "@/components/home/missions";
+import { WhoIsBehind } from "@/components/home/who-is-behind";
 
 export const revalidate = 3600;
 
@@ -132,6 +133,7 @@ export default async function Home() {
       />
       <TopDepartements items={stats.topDepartements} />
       <Missions />
+      <WhoIsBehind />
     </>
   );
 }
