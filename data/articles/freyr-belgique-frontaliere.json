@@ -6,7 +6,7 @@
   "title": "Freyr escalade | guide complet du site belge sur la Meuse",
   "h1": "Rochers de Freyr, le site frontalier de référence en Belgique",
   "description": "Voies, secteurs, accès, période. Le guide pour grimper aux Rochers de Freyr en Wallonie, calcaire de la Meuse, Mérinos, Tête de Lion, Anti-Atlas.",
-  "chapo": "Freyr, c'est l'escalade belge dans toute sa splendeur. Une longue falaise calcaire qui domine la Meuse au sud de Dinant, à quinze minutes de la frontière française. Les Belges en ont fait leur Verdon, les Français du Nord et du Grand Est l'ont adopté depuis les années 70. Mille deux cents voies, sept secteurs majeurs, des grands noms comme le Mérinos ou la Tête de Lion. Je te raconte un site qui mérite plus que sa réputation transfrontalière.",
+  "chapo": "Freyr, c'est l'escalade belge dans toute sa splendeur. Une longue falaise calcaire qui domine la Meuse au sud de Dinant, à quinze minutes de la frontière française. Les Belges en ont fait leur Verdon, les Français du Nord et du Grand Est l'ont adopté depuis les années 70. Mille deux cents voies, sept secteurs majeurs, des grands noms comme le Mérinos ou la Tête de Lion.",
   "takeaways": [
     "Les Rochers de Freyr se situent en province de Namur, sur la commune de Hastière, le long de la Meuse.",
     "Plus de 1200 voies équipées du 3 au 9a, hauteur de 30 à 120 mètres selon les secteurs.",
@@ -50,16 +50,43 @@
     {
       "type": "table",
       "caption": "Fiche d'identité de Freyr",
-      "headers": ["Critère", "Détail"],
+      "headers": [
+        "Critère",
+        "Détail"
+      ],
       "rows": [
-        ["Localisation", "Belgique, province de Namur, commune de Hastière"],
-        ["Altitude", "100 à 220 mètres"],
-        ["Roche", "Calcaire givétien du Dévonien moyen"],
-        ["Nombre de voies", "Plus de 1200 équipées"],
-        ["Cotations", "3 à 9a, dominante 6a-7c"],
-        ["Hauteur", "30 à 120 mètres"],
-        ["Orientation", "Sud à sud-est principalement"],
-        ["Période idéale", "Avril à octobre"]
+        [
+          "Localisation",
+          "Belgique, province de Namur, commune de Hastière"
+        ],
+        [
+          "Altitude",
+          "100 à 220 mètres"
+        ],
+        [
+          "Roche",
+          "Calcaire givétien du Dévonien moyen"
+        ],
+        [
+          "Nombre de voies",
+          "Plus de 1200 équipées"
+        ],
+        [
+          "Cotations",
+          "3 à 9a, dominante 6a-7c"
+        ],
+        [
+          "Hauteur",
+          "30 à 120 mètres"
+        ],
+        [
+          "Orientation",
+          "Sud à sud-est principalement"
+        ],
+        [
+          "Période idéale",
+          "Avril à octobre"
+        ]
       ]
     },
     {

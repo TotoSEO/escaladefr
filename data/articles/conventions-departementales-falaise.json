@@ -3,7 +3,7 @@
   "cocon": "environnement",
   "type_article": "guide",
   "numero": 154,
-  "title": "Conventions départementales falaise : comprendre l'accès aux sites",
+  "title": "Conventions départementales falaise : comprendre l'accès aux",
   "h1": "Conventions départementales d'accès aux falaises, comment elles marchent",
   "description": "Conseils départementaux, FFME, COSIROC, propriétaires privés. Le guide pour comprendre qui signe quoi et pourquoi tu peux grimper sur telle falaise.",
   "chapo": "Tu arrives au pied d'une falaise, tu grimpes sans réfléchir. Derrière ce geste banal, il y a souvent une convention signée entre un Conseil départemental, la FFME et un propriétaire privé. Ces accords conditionnent l'accès, l'équipement et l'entretien. Antoine décortique le mécanisme et explique pourquoi ces papiers protègent autant les sites que les grimpeurs.",
@@ -15,50 +15,173 @@
     "Les sites ENS Espaces Naturels Sensibles ont leur propre régime d'usage avec des règles parfois plus strictes que la convention classique."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Pourquoi les conventions existent"},
-    {"type": "p", "html": "L'escalade en falaise se pratique presque toujours sur un terrain qui appartient à quelqu'un. Commune, département, État, propriétaire privé, indivision familiale, parfois plusieurs à la fois sur une même falaise. Sans accord écrit, le propriétaire reste responsable d'un éventuel accident, même si le grimpeur a pris seul la décision de monter. Cette responsabilité dissuade beaucoup d'ouvrir leurs terres à la pratique."},
-    {"type": "p", "html": "La convention départementale règle ce problème. Elle transfère la responsabilité civile au Conseil départemental, qui souscrit une assurance globale couvrant l'ensemble des sites conventionnés du territoire. Le propriétaire conserve la propriété, autorise l'accès, mais ne porte plus les conséquences d'un éventuel accident d'escalade. C'est cette mécanique juridique simple qui maintient ouvertes plus de 80 pour cent des falaises françaises actuellement praticables."},
-    {"type": "p", "html": "La <strong>FFME</strong> a longtemps porté ces conventions au niveau national. Après plusieurs jugements défavorables dans les années 2010, notamment l'affaire de Vingrau dans l'Aude, la fédération a transféré une grande partie des conventions vers les Conseils départementaux et les communes. Ce changement a fragilisé certains sites pendant deux ou trois ans, le temps que les nouveaux signataires prennent le relais. Aujourd'hui le système départemental est devenu la norme dans la majorité des régions."},
-    {"type": "h2", "text": "Les acteurs et leurs rôles"},
-    {"type": "p", "html": "Une convention classique implique trois ou quatre parties. Le propriétaire foncier, qui autorise l'usage de son terrain pour l'escalade. Le Conseil départemental, qui porte la responsabilité civile et finance souvent l'entretien. Le Comité départemental de la FFME, le <strong>CDS</strong>, qui gère sur le terrain l'équipement, le rééquipement et la communication avec la communauté locale. Parfois la commune, propriétaire de chemins d'accès ou de parkings, signe aussi le document."},
-    {"type": "p", "html": "Le CDS joue un rôle souvent invisible mais central. Il recense les voies, organise les équipeurs bénévoles, achète le matériel, planifie les chantiers de rééquipement. Sur des sites comme Saffres en Côte-d'Or ou le Saussois dans l'Yonne, ce sont des bénévoles du CDS qui passent plusieurs week-ends par an à remplacer les scellements vieillissants. Sans ce travail discret, la majorité des falaises seraient devenues dangereuses au bout de quinze ou vingt ans."},
-    {"type": "list", "variant": "cards", "title": "Les signataires types d'une convention falaise", "items": [
-      {"title": "Propriétaire foncier", "body": "Personne physique, indivision, commune, ONF, parc régional. Il autorise l'accès et reste propriétaire du sol. La convention le décharge de la responsabilité civile pour la pratique de l'escalade."},
-      {"title": "Conseil départemental", "body": "Porte la responsabilité civile par son assurance globale. Finance souvent l'entretien et l'équipement. Peut classer le site en ENS pour renforcer la protection."},
-      {"title": "Comité départemental FFME", "body": "Gère le terrain, recrute et forme les équipeurs, organise le rééquipement, fait le lien avec la communauté locale et les autorités."},
-      {"title": "Commune", "body": "Souvent partie prenante pour les chemins d'accès, les parkings, la signalétique. Sans son accord, l'accès au pied de la falaise peut être bloqué."}
-    ]},
-    {"type": "h2", "text": "Ce que la convention autorise et ce qu'elle limite"},
-    {"type": "p", "html": "Une convention type définit le périmètre exact des voies autorisées. Elle peut exclure certaines zones, fixer des périodes de fermeture, imposer des restrictions saisonnières liées à la <strong>nidification</strong>. Sur les falaises avec couple de faucon pèlerin, les arrêtés de biotope croisent souvent la convention pour interdire l'accès du 1er février au 30 juin. Ces restrictions ne sont pas négociables et leur violation peut entraîner la dénonciation de la convention par le propriétaire."},
-    {"type": "p", "html": "La convention peut aussi limiter les modes d'équipement. Sur certains sites classés, les scellements amovibles ou les voies réversibles sont imposés pour limiter l'impact visuel. Dans le parc national des Calanques, l'équipement neuf doit respecter une charte précise validée par les agents du parc. Le rééquipement ne peut pas se faire sans accord préalable, ce qui ralentit parfois les travaux de plusieurs mois."},
-    {"type": "p", "html": "Le grimpeur lambda n'a pas besoin de connaître chaque article de la convention. Mais comprendre qu'elle existe permet d'éviter les comportements qui la mettent en péril. Un parking sauvage répété, des déchets accumulés, des incidents avec les riverains peuvent suffire à pousser un propriétaire à dénoncer l'accord. Plusieurs sites ont fermé pour ces raisons ces dernières années, dont certains très fréquentés comme Cuvier Rempart à Fontainebleau pendant plusieurs mois."},
-    {"type": "h2", "text": "Le cas particulier des ENS"},
-    {"type": "p", "html": "Les Espaces Naturels Sensibles sont des zones de protection foncière gérées par les Conseils départementaux. Le département acquiert ou loue des terrains à enjeu écologique pour les protéger durablement. Plusieurs sites d'escalade sont classés ENS, ce qui modifie leur régime d'usage. L'escalade peut y être autorisée mais sous conditions plus strictes, avec un plan de gestion validé par la commission départementale ENS."},
-    {"type": "p", "html": "Sur un ENS, les restrictions concernent souvent l'équipement, le balisage, la création de nouvelles voies. Le <strong>Code de l'Environnement L411-1</strong> protège les espèces et leurs habitats. Une falaise abritant une espèce protégée peut voir son accès limité ou interdit selon les périodes. Le département peut aussi imposer des comptages réguliers de fréquentation pour évaluer l'impact de la pratique."},
-    {"type": "p", "html": "Les ENS représentent une opportunité plutôt qu'une contrainte. Le classement protège juridiquement le site contre l'urbanisation, les coupes forestières abusives, les exploitations de carrière. Plusieurs falaises menacées de fermeture ont été sauvées par leur classement ENS, à l'image de certaines zones du Vercors ou des Préalpes du Sud. Le grimpeur a tout intérêt à soutenir ces classements."},
-    {"type": "h2", "text": "Quand la convention coince"},
-    {"type": "p", "html": "Toutes les falaises ne sont pas conventionnées. Certaines restent sur un statut informel, toléré sans cadre juridique. D'autres ont vu leur convention dénoncée et n'ont pas trouvé de nouveau signataire. Dans ces cas, la pratique se fait à risque, sans assurance collective, et peut être interdite à tout moment par le propriétaire. Tu reconnais ces sites à l'absence de topo officiel récent, à la dégradation visible de l'équipement, parfois à la pancarte d'interdiction."},
-    {"type": "p", "html": "Quand une convention est en discussion ou en renouvellement, le bouche-à-oreille local devient ta meilleure source. Le club FFME du coin, le gérant de la salle d'escalade voisine, le topo en ligne mis à jour par les bénévoles te donneront l'info à jour. Les <strong>conflits fonciers</strong> récents touchent surtout des sites populaires sur terrain privé, où le passage massif de grimpeurs finit par exaspérer un voisinage qui n'avait jamais été consulté."},
-    {"type": "tip", "title": "Comment vérifier qu'un site est bien conventionné", "body": "Consulte le topoguide officiel du département ou le site du CDS local. Les sites conventionnés sont systématiquement mentionnés avec la date de la convention et son terme. Si rien n'apparaît, contacte directement le comité départemental de la FFME. Le statut juridique change parfois sans que le bouche-à-oreille suive.", "tone": "astuce"},
-    {"type": "h2", "text": "Ce que tu peux faire pour soutenir le système"},
-    {"type": "p", "html": "La survie des conventions repose sur la confiance entre signataires. Quand un grimpeur respecte les règles affichées, garde un parking propre, salue les riverains, ramasse un déchet qui n'est pas le sien, il maintient cette confiance. À l'inverse, chaque comportement déplacé fait remonter une plainte au propriétaire et fragilise l'ensemble. La logique est collective, pas individuelle."},
-    {"type": "p", "html": "Adhérer à la FFME via un club local revient à financer directement ce travail conventionnel. Une licence à 60 ou 80 euros par an couvre l'assurance individuelle du grimpeur, finance les équipeurs, soutient les actions juridiques en cas de conflit. Le COSIROC en Île-de-France fonctionne sur le même principe avec une cotisation symbolique. Ces structures se battent en coulisse pour garder ouvertes les falaises où tu grimpes le week-end."},
-    {"type": "p", "html": "Pour aller plus loin dans la compréhension de l'accès aux sites, jette un œil à <a href=\"/blog/conflits-foncier-acces-prive\">la gestion des conflits sur les terrains privés</a>, à <a href=\"/blog/parking-respect-locaux\">l'enjeu du parking et du respect des locaux</a> et à <a href=\"/blog/grimper-respect-sites-faune\">la vue d'ensemble du respect des sites naturels</a>. Trois angles complémentaires sur le même sujet de fond."}
+    {
+      "type": "h2",
+      "text": "Pourquoi les conventions existent"
+    },
+    {
+      "type": "p",
+      "html": "L'escalade en falaise se pratique presque toujours sur un terrain qui appartient à quelqu'un. Commune, département, État, propriétaire privé, indivision familiale, parfois plusieurs à la fois sur une même falaise. Sans accord écrit, le propriétaire reste responsable d'un éventuel accident, même si le grimpeur a pris seul la décision de monter. Cette responsabilité dissuade beaucoup d'ouvrir leurs terres à la pratique."
+    },
+    {
+      "type": "p",
+      "html": "La convention départementale règle ce problème. Elle transfère la responsabilité civile au Conseil départemental, qui souscrit une assurance globale couvrant l'ensemble des sites conventionnés du territoire. Le propriétaire conserve la propriété, autorise l'accès, mais ne porte plus les conséquences d'un éventuel accident d'escalade. C'est cette mécanique juridique simple qui maintient ouvertes plus de 80 pour cent des falaises françaises actuellement praticables."
+    },
+    {
+      "type": "p",
+      "html": "La <strong>FFME</strong> a longtemps porté ces conventions au niveau national. Après plusieurs jugements défavorables dans les années 2010, notamment l'affaire de Vingrau dans l'Aude, la fédération a transféré une grande partie des conventions vers les Conseils départementaux et les communes. Ce changement a fragilisé certains sites pendant deux ou trois ans, le temps que les nouveaux signataires prennent le relais. Aujourd'hui le système départemental est devenu la norme dans la majorité des régions."
+    },
+    {
+      "type": "h2",
+      "text": "Les acteurs et leurs rôles"
+    },
+    {
+      "type": "p",
+      "html": "Une convention classique implique trois ou quatre parties. Le propriétaire foncier, qui autorise l'usage de son terrain pour l'escalade. Le Conseil départemental, qui porte la responsabilité civile et finance souvent l'entretien. Le Comité départemental de la FFME, le <strong>CDS</strong>, qui gère sur le terrain l'équipement, le rééquipement et la communication avec la communauté locale. Parfois la commune, propriétaire de chemins d'accès ou de parkings, signe aussi le document."
+    },
+    {
+      "type": "p",
+      "html": "Le CDS joue un rôle souvent invisible mais central. Il recense les voies, organise les équipeurs bénévoles, achète le matériel, planifie les chantiers de rééquipement. Sur des sites comme Saffres en Côte-d'Or ou le Saussois dans l'Yonne, ce sont des bénévoles du CDS qui passent plusieurs week-ends par an à remplacer les scellements vieillissants. Sans ce travail discret, la majorité des falaises seraient devenues dangereuses au bout de quinze ou vingt ans."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Les signataires types d'une convention falaise",
+      "items": [
+        {
+          "title": "Propriétaire foncier",
+          "body": "Personne physique, indivision, commune, ONF, parc régional. Il autorise l'accès et reste propriétaire du sol. La convention le décharge de la responsabilité civile pour la pratique de l'escalade."
+        },
+        {
+          "title": "Conseil départemental",
+          "body": "Porte la responsabilité civile par son assurance globale. Finance souvent l'entretien et l'équipement. Peut classer le site en ENS pour renforcer la protection."
+        },
+        {
+          "title": "Comité départemental FFME",
+          "body": "Gère le terrain, recrute et forme les équipeurs, organise le rééquipement, fait le lien avec la communauté locale et les autorités."
+        },
+        {
+          "title": "Commune",
+          "body": "Souvent partie prenante pour les chemins d'accès, les parkings, la signalétique. Sans son accord, l'accès au pied de la falaise peut être bloqué."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Ce que la convention autorise et ce qu'elle limite"
+    },
+    {
+      "type": "p",
+      "html": "Une convention type définit le périmètre exact des voies autorisées. Elle peut exclure certaines zones, fixer des périodes de fermeture, imposer des restrictions saisonnières liées à la <strong>nidification</strong>. Sur les falaises avec couple de faucon pèlerin, les arrêtés de biotope croisent souvent la convention pour interdire l'accès du 1er février au 30 juin. Ces restrictions ne sont pas négociables et leur violation peut entraîner la dénonciation de la convention par le propriétaire."
+    },
+    {
+      "type": "p",
+      "html": "La convention peut aussi limiter les modes d'équipement. Sur certains sites classés, les scellements amovibles ou les voies réversibles sont imposés pour limiter l'impact visuel. Dans le parc national des Calanques, l'équipement neuf doit respecter une charte précise validée par les agents du parc. Le rééquipement ne peut pas se faire sans accord préalable, ce qui ralentit parfois les travaux de plusieurs mois."
+    },
+    {
+      "type": "p",
+      "html": "Le grimpeur lambda n'a pas besoin de connaître chaque article de la convention. Mais comprendre qu'elle existe permet d'éviter les comportements qui la mettent en péril. Un parking sauvage répété, des déchets accumulés, des incidents avec les riverains peuvent suffire à pousser un propriétaire à dénoncer l'accord. Plusieurs sites ont fermé pour ces raisons ces dernières années, dont certains très fréquentés comme Cuvier Rempart à Fontainebleau pendant plusieurs mois."
+    },
+    {
+      "type": "h2",
+      "text": "Le cas particulier des ENS"
+    },
+    {
+      "type": "p",
+      "html": "Les Espaces Naturels Sensibles sont des zones de protection foncière gérées par les Conseils départementaux. Le département acquiert ou loue des terrains à enjeu écologique pour les protéger durablement. Plusieurs sites d'escalade sont classés ENS, ce qui modifie leur régime d'usage. L'escalade peut y être autorisée mais sous conditions plus strictes, avec un plan de gestion validé par la commission départementale ENS."
+    },
+    {
+      "type": "p",
+      "html": "Sur un ENS, les restrictions concernent souvent l'équipement, le balisage, la création de nouvelles voies. Le <strong>Code de l'Environnement L411-1</strong> protège les espèces et leurs habitats. Une falaise abritant une espèce protégée peut voir son accès limité ou interdit selon les périodes. Le département peut aussi imposer des comptages réguliers de fréquentation pour évaluer l'impact de la pratique."
+    },
+    {
+      "type": "p",
+      "html": "Les ENS représentent une opportunité plutôt qu'une contrainte. Le classement protège juridiquement le site contre l'urbanisation, les coupes forestières abusives, les exploitations de carrière. Plusieurs falaises menacées de fermeture ont été sauvées par leur classement ENS, à l'image de certaines zones du Vercors ou des Préalpes du Sud. Le grimpeur a tout intérêt à soutenir ces classements."
+    },
+    {
+      "type": "h2",
+      "text": "Quand la convention coince"
+    },
+    {
+      "type": "p",
+      "html": "Toutes les falaises ne sont pas conventionnées. Certaines restent sur un statut informel, toléré sans cadre juridique. D'autres ont vu leur convention dénoncée et n'ont pas trouvé de nouveau signataire. Dans ces cas, la pratique se fait à risque, sans assurance collective, et peut être interdite à tout moment par le propriétaire. Tu reconnais ces sites à l'absence de topo officiel récent, à la dégradation visible de l'équipement, parfois à la pancarte d'interdiction."
+    },
+    {
+      "type": "p",
+      "html": "Quand une convention est en discussion ou en renouvellement, le bouche-à-oreille local devient ta meilleure source. Le club FFME du coin, le gérant de la salle d'escalade voisine, le topo en ligne mis à jour par les bénévoles te donneront l'info à jour. Les <strong>conflits fonciers</strong> récents touchent surtout des sites populaires sur terrain privé, où le passage massif de grimpeurs finit par exaspérer un voisinage qui n'avait jamais été consulté."
+    },
+    {
+      "type": "tip",
+      "title": "Comment vérifier qu'un site est bien conventionné",
+      "body": "Consulte le topoguide officiel du département ou le site du CDS local. Les sites conventionnés sont systématiquement mentionnés avec la date de la convention et son terme. Si rien n'apparaît, contacte directement le comité départemental de la FFME. Le statut juridique change parfois sans que le bouche-à-oreille suive.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Ce que tu peux faire pour soutenir le système"
+    },
+    {
+      "type": "p",
+      "html": "La survie des conventions repose sur la confiance entre signataires. Quand un grimpeur respecte les règles affichées, garde un parking propre, salue les riverains, ramasse un déchet qui n'est pas le sien, il maintient cette confiance. À l'inverse, chaque comportement déplacé fait remonter une plainte au propriétaire et fragilise l'ensemble. La logique est collective, pas individuelle."
+    },
+    {
+      "type": "p",
+      "html": "Adhérer à la FFME via un club local revient à financer directement ce travail conventionnel. Une licence à 60 ou 80 euros par an couvre l'assurance individuelle du grimpeur, finance les équipeurs, soutient les actions juridiques en cas de conflit. Le COSIROC en Île-de-France fonctionne sur le même principe avec une cotisation symbolique. Ces structures se battent en coulisse pour garder ouvertes les falaises où tu grimpes le week-end."
+    },
+    {
+      "type": "p",
+      "html": "Pour aller plus loin dans la compréhension de l'accès aux sites, jette un œil à <a href=\"/blog/conflits-foncier-acces-prive\">la gestion des conflits sur les terrains privés</a>, à <a href=\"/blog/parking-respect-locaux\">l'enjeu du parking et du respect des locaux</a> et à <a href=\"/blog/grimper-respect-sites-faune\">la vue d'ensemble du respect des sites naturels</a>. Trois angles complémentaires sur le même sujet de fond."
+    }
   ],
   "faq": [
-    {"q": "Qui paie l'assurance d'une falaise conventionnée ?", "a": "Le Conseil départemental dans la grande majorité des cas, via une assurance globale qui couvre l'ensemble des sites du département. Le coût est intégré au budget sport ou environnement de la collectivité. Le propriétaire ne paie rien et la pratique reste gratuite pour le grimpeur. Cette mutualisation par le département permet d'assurer plusieurs dizaines de sites pour un coût annuel raisonnable."},
-    {"q": "Que se passe-t-il si une convention est dénoncée ?", "a": "Le propriétaire reprend la responsabilité civile et peut interdire l'accès du jour au lendemain. Dans la pratique, plusieurs mois s'écoulent souvent entre la dénonciation et l'interdiction effective, le temps de trouver un nouveau signataire ou de négocier. Plusieurs sites ont fermé définitivement pour cause d'absence de relais, d'autres ont été sauvés par l'intervention du département ou d'une association locale."},
-    {"q": "Peut-on grimper sur une falaise sans convention ?", "a": "Légalement non si le propriétaire ne l'autorise pas explicitement. Dans la réalité, beaucoup de falaises se grimpent sur un statut informel, parfois depuis des décennies, sans accord écrit. C'est toléré tant qu'il n'y a pas d'accident ou de plainte du voisinage. La pratique reste à risque pour le grimpeur en cas d'incident, son assurance personnelle pouvant être contestée."},
-    {"q": "Les conventions imposent-elles des restrictions à la pratique ?", "a": "Oui, dans la plupart des cas. Périodes de fermeture pour nidification, voies interdites pour fragilité du rocher, limites d'effectif, obligation de respecter un sentier d'accès balisé. Ces restrictions sont écrites dans la convention et reprises dans les topoguides. Les ignorer met en danger la pérennité du site bien plus que la sécurité individuelle du grimpeur."},
-    {"q": "Comment savoir si un nouveau site va être conventionné ?", "a": "Les négociations durent souvent un à trois ans entre les premiers contacts et la signature. Le CDS FFME local et le service Espaces Naturels du département sont les meilleures sources d'information. Les nouveaux sites sont rarement ouverts à la pratique avant la signature complète, sauf accord verbal du propriétaire qui reste juridiquement fragile."}
+    {
+      "q": "Qui paie l'assurance d'une falaise conventionnée ?",
+      "a": "Le Conseil départemental dans la grande majorité des cas, via une assurance globale qui couvre l'ensemble des sites du département. Le coût est intégré au budget sport ou environnement de la collectivité. Le propriétaire ne paie rien et la pratique reste gratuite pour le grimpeur. Cette mutualisation par le département permet d'assurer plusieurs dizaines de sites pour un coût annuel raisonnable."
+    },
+    {
+      "q": "Que se passe-t-il si une convention est dénoncée ?",
+      "a": "Le propriétaire reprend la responsabilité civile et peut interdire l'accès du jour au lendemain. Dans la pratique, plusieurs mois s'écoulent souvent entre la dénonciation et l'interdiction effective, le temps de trouver un nouveau signataire ou de négocier. Plusieurs sites ont fermé définitivement pour cause d'absence de relais, d'autres ont été sauvés par l'intervention du département ou d'une association locale."
+    },
+    {
+      "q": "Peut-on grimper sur une falaise sans convention ?",
+      "a": "Légalement non si le propriétaire ne l'autorise pas explicitement. Dans la réalité, beaucoup de falaises se grimpent sur un statut informel, parfois depuis des décennies, sans accord écrit. C'est toléré tant qu'il n'y a pas d'accident ou de plainte du voisinage. La pratique reste à risque pour le grimpeur en cas d'incident, son assurance personnelle pouvant être contestée."
+    },
+    {
+      "q": "Les conventions imposent-elles des restrictions à la pratique ?",
+      "a": "Oui, dans la plupart des cas. Périodes de fermeture pour nidification, voies interdites pour fragilité du rocher, limites d'effectif, obligation de respecter un sentier d'accès balisé. Ces restrictions sont écrites dans la convention et reprises dans les topoguides. Les ignorer met en danger la pérennité du site bien plus que la sécurité individuelle du grimpeur."
+    },
+    {
+      "q": "Comment savoir si un nouveau site va être conventionné ?",
+      "a": "Les négociations durent souvent un à trois ans entre les premiers contacts et la signature. Le CDS FFME local et le service Espaces Naturels du département sont les meilleures sources d'information. Les nouveaux sites sont rarement ouverts à la pratique avant la signature complète, sauf accord verbal du propriétaire qui reste juridiquement fragile."
+    }
   ],
   "cover_alt": "Pied d'une falaise calcaire avec panneau d'information FFME et Conseil départemental, sentier balisé en arrière-plan, début de matinée ensoleillée sur la roche grise",
   "internal_links": [
-    {"slug": "conflits-foncier-acces-prive", "anchor": "gestion des conflits sur les terrains privés", "context": "lien avec litiges"},
-    {"slug": "parking-respect-locaux", "anchor": "enjeu du parking et du respect des locaux", "context": "complément quotidien"},
-    {"slug": "grimper-respect-sites-faune", "anchor": "vue d'ensemble du respect des sites naturels", "context": "pilier cocon"},
-    {"slug": "nidification-falaise-arret", "anchor": "périodes de nidification et fermetures", "context": "biotope"},
-    {"slug": "parc-national-escalade-regles", "anchor": "règles spécifiques des parcs nationaux", "context": "cas particulier"}
+    {
+      "slug": "conflits-foncier-acces-prive",
+      "anchor": "gestion des conflits sur les terrains privés",
+      "context": "lien avec litiges"
+    },
+    {
+      "slug": "parking-respect-locaux",
+      "anchor": "enjeu du parking et du respect des locaux",
+      "context": "complément quotidien"
+    },
+    {
+      "slug": "grimper-respect-sites-faune",
+      "anchor": "vue d'ensemble du respect des sites naturels",
+      "context": "pilier cocon"
+    },
+    {
+      "slug": "nidification-falaise-arret",
+      "anchor": "périodes de nidification et fermetures",
+      "context": "biotope"
+    },
+    {
+      "slug": "parc-national-escalade-regles",
+      "anchor": "règles spécifiques des parcs nationaux",
+      "context": "cas particulier"
+    }
   ],
   "scheduled_at": "2027-04-17T09:00:00+02:00"
 }

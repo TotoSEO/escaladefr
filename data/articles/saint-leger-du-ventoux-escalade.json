@@ -5,7 +5,7 @@
   "numero": 89,
   "title": "Saint-Léger-du-Ventoux : escalader face au Géant de Provence",
   "h1": "Saint-Léger-du-Ventoux, escalade face au Géant",
-  "description": "Découvre Saint-Léger-du-Ventoux, falaise de dalles compactes du Vaucluse : La Source, voies techniques au pied du Mont Ventoux, secteurs et saison complète.",
+  "description": "Découvre Saint-Léger-du-Ventoux, falaise de dalles compactes du Vaucluse : La Source, voies techniques au pied du Mont Ventoux, secteurs et saison...",
   "chapo": "Saint-Léger-du-Ventoux, c'est une falaise discrète mais redoutable, posée dans la vallée du Toulourenc, face au Mont Ventoux. Calcaire compact, dalles techniques, voies à la lecture exigeante, ambiance sauvage. Je te raconte ce site vauclusien encore préservé, ses lignes phares comme La Source, ses petites tailles et la sensation particulière de grimper sous le regard du Géant de Provence.",
   "takeaways": [
     "Saint-Léger-du-Ventoux se trouve dans le Vaucluse, vallée du Toulourenc.",
@@ -21,11 +21,11 @@
     },
     {
       "type": "p",
-      "html": "La première fois que j'ai grimpé à Saint-Léger-du-Ventoux, c'était un week-end de Toussaint, et j'enchaînais après une semaine à Buoux. Le contraste m'avait surpris. Là où Buoux fourmillait de monde, Saint-Léger semblait quasi désert. Quelques cordées sur le mur principal, le silence du Toulourenc en contrebas, et au loin le Mont Ventoux qui dominait tout. C'est un site qui ne ressemble à aucun autre du Vaucluse. Discret, presque secret, et pourtant magnifique."
+      "html": "La première fois que j'ai grimpé à Saint-Léger-du-Ventoux, c'était un week-end de Toussaint, et j'enchaînais après une semaine à Buoux. Le contraste m'avait surpris. Là où Buoux fourmillait de monde, Saint-Léger semblait quasi désert. Quelques <strong>cordée</strong>s sur le mur principal, le silence du Toulourenc en contrebas, et au loin le Mont Ventoux qui dominait tout. C'est un site qui ne ressemble à aucun autre du Vaucluse. Discret, presque secret, et pourtant magnifique."
     },
     {
       "type": "p",
-      "html": "Le village de Saint-Léger-du-Ventoux compte une cinquantaine d'habitants, posé dans la vallée du Toulourenc, entre Sault et Malaucène. La falaise se dresse à quelques minutes de marche du centre, exposée sud-est, dominant la rivière et offrant un panorama dégagé sur le versant nord du Ventoux. Une centaine de voies équipées se répartissent sur plusieurs secteurs, du 5c au 8b. C'est moins dense que les grands sites, mais la qualité y compense la quantité."
+      "html": "Le village de Saint-Léger-du-Ventoux compte une cinquantaine d'habitants, posé dans la vallée du Toulourenc, entre Sault et Malaucène. La falaise se dresse à quelques minutes de marche du centre, exposée sud-est, dominant la rivière et offrant un <strong>pan</strong>orama dégagé sur le versant nord du Ventoux. Une centaine de voies équipées se répartissent sur plusieurs secteurs, du 5c au <strong>8b</strong>. C'est moins dense que les grands sites, mais la qualité y compense la quantité."
     },
     {
       "type": "p",
@@ -46,16 +46,43 @@
     {
       "type": "table",
       "caption": "Fiche d'identité du site",
-      "headers": ["Critère", "Détail"],
+      "headers": [
+        "Critère",
+        "Détail"
+      ],
       "rows": [
-        ["Type de rocher", "Calcaire urgonien compact, dalles et murs verticaux"],
-        ["Orientation", "Sud-est principalement, quelques secteurs ouest"],
-        ["Exposition", "Soleil le matin, ombre après-midi sur le mur principal"],
-        ["Cotation min/max", "Du 5c au 8b, majorité dans le 6b à 7c"],
-        ["Nombre de voies", "Environ 100 voies équipées sur 4 à 5 secteurs"],
-        ["Période favorable", "Octobre à mai, optimum en mars, avril, octobre, novembre"],
-        ["Accès", "Parking au village puis 5 à 15 min de marche selon secteur"],
-        ["Parking", "Aire au pied de la falaise, capacité limitée"]
+        [
+          "Type de rocher",
+          "Calcaire urgonien compact, dalles et murs verticaux"
+        ],
+        [
+          "Orientation",
+          "Sud-est principalement, quelques secteurs ouest"
+        ],
+        [
+          "Exposition",
+          "Soleil le matin, ombre après-midi sur le mur principal"
+        ],
+        [
+          "Cotation min/max",
+          "Du 5c au 8b, majorité dans le 6b à 7c"
+        ],
+        [
+          "Nombre de voies",
+          "Environ 100 voies équipées sur 4 à 5 secteurs"
+        ],
+        [
+          "Période favorable",
+          "Octobre à mai, optimum en mars, avril, octobre, novembre"
+        ],
+        [
+          "Accès",
+          "Parking au village puis 5 à 15 min de marche selon secteur"
+        ],
+        [
+          "Parking",
+          "Aire au pied de la falaise, capacité limitée"
+        ]
       ]
     },
     {
@@ -83,11 +110,26 @@
       "variant": "bullets",
       "title": "Les secteurs de Saint-Léger-du-Ventoux",
       "items": [
-        {"title": "Secteur École", "body": "Voies du 5c au 6b, bien équipées, idéal pour découvrir le rocher local."},
-        {"title": "Mur Central", "body": "Voies historiques dans le 7a à 8a, dont La Source 7c, classiques du site."},
-        {"title": "Pilier Sud", "body": "Lignes en dévers léger, voies dans le 7b à 8b, plus physiques."},
-        {"title": "Secteur Nord", "body": "Plus frais en été, voies dans le 6b à 7b, ambiance plus sauvage."},
-        {"title": "La Petite Dalle", "body": "Secteur d'initiation, hauteur réduite, parfait pour familles."}
+        {
+          "title": "Secteur École",
+          "body": "Voies du 5c au 6b, bien équipées, idéal pour découvrir le rocher local."
+        },
+        {
+          "title": "Mur Central",
+          "body": "Voies historiques dans le 7a à 8a, dont La Source 7c, classiques du site."
+        },
+        {
+          "title": "Pilier Sud",
+          "body": "Lignes en dévers léger, voies dans le 7b à 8b, plus physiques."
+        },
+        {
+          "title": "Secteur Nord",
+          "body": "Plus frais en été, voies dans le 6b à 7b, ambiance plus sauvage."
+        },
+        {
+          "title": "La Petite Dalle",
+          "body": "Secteur d'initiation, hauteur réduite, parfait pour familles."
+        }
       ]
     },
     {
@@ -149,10 +191,26 @@
   ],
   "cover_alt": "Falaise calcaire de Saint-Léger-du-Ventoux face au Mont Ventoux en Vaucluse",
   "internal_links": [
-    {"slug": "sites-escalade-emblematiques-france", "anchor": "sites d'escalade emblématiques de France", "context": "Pilier du cocon sites"},
-    {"slug": "buoux-luberon-historique", "anchor": "Buoux dans le Luberon", "context": "Autre falaise vauclusienne"},
-    {"slug": "aiglun-prealpes-azur", "anchor": "Aiglun dans les Préalpes d'Azur", "context": "Autre site de dalles techniques"},
-    {"slug": "ceuse-cathedrale-calcaire", "anchor": "Céüse", "context": "Autre cathédrale du calcaire"}
+    {
+      "slug": "sites-escalade-emblematiques-france",
+      "anchor": "sites d'escalade emblématiques de France",
+      "context": "Pilier du cocon sites"
+    },
+    {
+      "slug": "buoux-luberon-historique",
+      "anchor": "Buoux dans le Luberon",
+      "context": "Autre falaise vauclusienne"
+    },
+    {
+      "slug": "aiglun-prealpes-azur",
+      "anchor": "Aiglun dans les Préalpes d'Azur",
+      "context": "Autre site de dalles techniques"
+    },
+    {
+      "slug": "ceuse-cathedrale-calcaire",
+      "anchor": "Céüse",
+      "context": "Autre cathédrale du calcaire"
+    }
   ],
   "scheduled_at": "2026-11-26T09:00:00+01:00"
 }

@@ -15,64 +15,248 @@
     "L'organisation interne évite la galère de matos enchevêtré au pied de la voie."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Trois familles de sacs d'escalade"},
-    {"type": "p", "html": "On distingue trois types de sacs principaux. Le <strong>sac à corde simple</strong> avec bâche dépliable, dédié au transport de la corde et du matériel léger. Le <strong>sac à dos d'approche</strong> 30 à 45 L pour la falaise éloignée et la grande voie. Le <strong>sac haul bag</strong> de big wall en toile robuste pour les longues parois et l'expédition. Chaque famille a son usage précis."},
-    {"type": "p", "html": "Pour 90 % des grimpeurs français, le sac à corde 30 L type <strong>Petzl Kab, Beal Combi, Edelrid Caddy</strong> couvre tous les besoins. Il transporte la corde, le baudrier, les chaussons, les dégaines et la trousse de premiers secours. Compte 60 à 100 euros pour un modèle fiable. Pour les bases du matos, lis <a href=\"/blog/materiel-escalade-essentiel\">le matériel d'escalade essentiel</a>."},
-    {"type": "h2", "text": "Le sac à corde : la pièce de base"},
-    {"type": "p", "html": "Le sac à corde sert avant tout à protéger ta corde de l'environnement. La bâche intégrée se déroule au pied de la voie et garde la corde propre pendant toute la session. Pas de terre, pas d'épines, pas de graviers qui s'infiltrent dans l'âme. Tu trouves deux brins de fixation pour les extrémités de corde, marqueurs visuels rapides pour ne pas confondre."},
-    {"type": "p", "html": "Le <strong>Petzl Kab</strong> classique offre 30 L, une bâche 140 par 140 cm et deux poches latérales. Pratique et durable, c'est mon modèle depuis quatre ans. Le <strong>Beal Combi Pro</strong> propose 35 L avec compartiment séparé pour le matériel, idéal pour les sorties avec dégaines. Le <strong>Edelrid Caddy</strong> reste léger et compact, parfait pour les approches courtes."},
-    {"type": "h2", "text": "Le sac à dos d'approche : grande voie et falaise éloignée"},
-    {"type": "p", "html": "Quand l'approche dépasse 30 minutes ou que tu pars en grande voie, le sac à corde simple ne suffit plus. Tu as besoin d'un sac à dos d'approche avec dorsale rembourrée, sangle ventrale stabilisante et organisation interne plus poussée. Compte 35 à 45 L pour la grande voie classique, 50 à 60 L pour la grande voie engagée ou l'alpinisme léger."},
-    {"type": "p", "html": "Les références sont <strong>Petzl Bug, Black Diamond Speed 30, Camp Tech Sack, Mammut Trion Light</strong>. Cherche un compartiment principal large pour le matériel, des poches latérales pour gourde et casse-croûte, des sangles externes pour fixer crashpad ou raquettes. Le portage doit rester confortable sur 1 à 2 heures de marche avec 10 à 12 kg de chargement."},
-    {"type": "h2", "text": "Contenu type sortie falaise sport"},
-    {"type": "p", "html": "Pour une sortie sport falaise classique, voici ce que je mets systématiquement dans mon sac. Corde 70 m dans le compartiment principal. Baudrier et système d'assurage dans une poche dédiée. Casque fixé à l'extérieur ou en haut. 12 dégaines accrochées au porte matériel ou rangées séparément. Topo, gourde 1.5 L, casse-croûte, frontale, trousse de premiers secours."},
-    {"type": "p", "html": "Compléments utiles selon la météo. Doudoune compacte pour les pauses au relais. Coupe-vent contre les courants d'air en falaise abritée. Magnésie liquide pour les mains. Brosse à prises pour les voies fréquentées. Crème solaire et lunettes en été. Compte 8 à 12 kg total pour une journée complète, sac compris."},
-    {"type": "list", "variant": "cards", "title": "Trois sacs selon ta pratique", "items": [
-      {"title": "Sport falaise classique", "body": "Sac à corde 30 L type Petzl Kab. Bâche intégrée, deux poches latérales, fixation casque externe. Compte 70 à 100 euros."},
-      {"title": "Grande voie alpine", "body": "Sac à dos d'approche 35 à 45 L type Petzl Bug ou Black Diamond Speed 30. Dorsale ventilée, sangle ventrale, fixations externes. Compte 150 à 220 euros."},
-      {"title": "Bloc et hautblocs", "body": "Crashpad avec sangles et poches intégrées type Mad Rock Triple Mad Pad. Plus un petit sac à dos 15 L pour les chaussons et la magnésie."}
-    ]},
-    {"type": "h2", "text": "Contenu type grande voie"},
-    {"type": "p", "html": "En grande voie, le sac change radicalement. La corde est portée en bandoulière ou attachée à l'extérieur du sac. À l'intérieur, tu trouves les éléments suivants. Vivres pour 6 à 12 heures de course. Eau 2 à 3 L par grimpeur. Frontale et batteries de secours. Couverture de survie. Trousse de premiers secours étoffée. Topo et boussole ou GPS."},
-    {"type": "p", "html": "Matériel technique supplémentaire en grande voie. Assureur autobloquant type Reverso 4. Sangles 60 cm et 120 cm. Anneaux cousus 4 m pour les rappels. Cordelette prussik pour les autobloquants. Couteau et briquet pour les manœuvres de survie. Marteau et coinceurs si la voie le demande. Pour le détail, lis <a href=\"/blog/matos-grande-voie-checklist\">la checklist matériel grande voie</a>."},
-    {"type": "h2", "text": "Organisation interne : la clé du gain de temps"},
-    {"type": "p", "html": "Un sac mal organisé te fait perdre 10 minutes à chaque arrêt pour retrouver tes affaires. L'organisation pensée te fait gagner 30 minutes sur une journée. Le principe, c'est de répartir le matériel en quatre catégories distinctes. Le matériel technique au cœur du sac, accessible au relais. Les vivres et l'eau dans une poche dédiée. Les vêtements compactés en bas. Les accessoires de secours en haut."},
-    {"type": "p", "html": "Utilise des pochettes en tissu type sacs à comprimer pour grouper les petits items. Une pochette pour la trousse de premiers secours. Une pour les vivres. Une pour la magnésie et la brosse. Cette catégorisation devient un réflexe sur le terrain. Au relais, tu sors directement la bonne pochette sans fouiller. Gain de temps et d'énergie mentale énorme."},
-    {"type": "h2", "text": "Fixations externes et accroches utiles"},
-    {"type": "p", "html": "Les fixations externes étendent la capacité du sac. Sangles compressives latérales pour fixer un piolet ou un crashpad. Boucles pour accrocher casque, lunettes, gants. Élastiques sur le rabat pour stocker la veste pendant la marche d'approche. Cherche un sac qui propose ces options sans complication excessive. Trop de sangles dépassantes accrochent partout en buissons."},
-    {"type": "p", "html": "Une boucle daisy chain à l'extérieur permet d'accrocher la corde en bandoulière avec un mousqueton. Pratique en grande voie pour libérer le sac à l'intérieur pendant la marche d'approche. Vérifie que les fermetures éclairs sont robustes et étanches à la pluie. Une fermeture qui lâche en pleine session ruine la journée."},
-    {"type": "h2", "text": "Marques de référence et budgets"},
-    {"type": "p", "html": "Cinq marques se partagent le marché français des sacs d'escalade. <strong>Petzl</strong> avec les gammes Kab, Bug et Quantum. <strong>Beal</strong> avec les Combi Pro et Combi Light. <strong>Black Diamond</strong> avec les Speed et Stone. <strong>Mammut</strong> avec les Trion Light. <strong>Edelrid</strong> avec les Caddy et Spirit. Toutes proposent des modèles fiables, le choix se fait sur l'ergonomie personnelle et le budget."},
-    {"type": "p", "html": "Pour un sac à corde simple, compte 60 à 100 euros. Pour un sac à dos 30 à 40 L, 130 à 200 euros. Pour un sac de grande voie engagée 50 à 60 L, 200 à 280 euros. Évite les premier prix sous 40 euros qui durent rarement plus de deux ans. Investis une fois bien, ton sac t'accompagnera huit à dix ans facilement."},
-    {"type": "table", "caption": "Comparatif sacs d'escalade polyvalents 2026", "headers": ["Modèle", "Volume", "Poids", "Type", "Prix"], "rows": [
-      ["Petzl Kab", "30 L + bâche", "1.4 kg", "Sac à corde", "85 €"],
-      ["Beal Combi Pro", "35 L", "1.2 kg", "Sac à corde", "75 €"],
-      ["Petzl Bug", "18 L", "0.6 kg", "Sac d'approche léger", "100 €"],
-      ["Black Diamond Speed 30", "30 L", "1 kg", "Sac d'approche alpin", "180 €"],
-      ["Mammut Trion Light 50", "50 L", "1.4 kg", "Sac grande voie", "220 €"]
-    ]},
-    {"type": "h2", "text": "Mon sac et son contenu personnel"},
-    {"type": "p", "html": "J'utilise un <strong>Petzl Kab</strong> pour les sorties sport et un Black Diamond Speed 30 pour la grande voie. Le Kab voyage avec moi 80 % du temps, ses 30 L et sa bâche couvrent 95 % des situations. Le Speed 30 sort pour les courses engagées du Verdon ou des Calanques où je suis chargé en matériel autobloquant et rappel."},
-    {"type": "p", "html": "Mon contenu standard sport falaise : Petzl Kab avec corde 70 m, baudrier Petzl Sitta, 12 dégaines mix Djinn Axess et Spirit Express, Grigri Plus, Reverso 4 de secours, casque Sirocco, topo, gourde 1.5 L, casse-croûte, trousse de premiers secours, frontale Tikka, magnésie liquide Friction Labs, brosse Sublime. Total environ 11 kg, tenable sur 20 minutes d'approche."},
-    {"type": "quote", "text": "Un sac bien rangé, c'est dix minutes gagnées à chaque relais et trente minutes économisées sur la journée.", "author": "Antoine", "role": "Rédacteur escalade-france.fr"},
-    {"type": "h2", "text": "Entretien et durée de vie"},
-    {"type": "p", "html": "Un sac d'escalade s'entretient simplement. Nettoie l'extérieur au linge humide après les sorties terreuses. Vide complètement le sac entre deux sessions pour aérer et éviter les moisissures. Stocke ouvert dans un endroit sec à l'abri des UV. Une corde laissée six mois dans un sac fermé prend une odeur tenace difficile à éliminer ensuite."},
-    {"type": "p", "html": "Inspecte régulièrement les coutures, les fermetures éclairs et les sangles. Les zones de frottement contre le sol ou les rochers s'usent en premier. Les fonds renforcés en Cordura tiennent mieux que les fonds en nylon classique. Pour aller plus loin, regarde <a href=\"/blog/entretien-corde-lavage-rangement\">l'entretien de la corde</a> et <a href=\"/blog/matos-grande-voie-checklist\">la checklist grande voie</a>."}
+    {
+      "type": "h2",
+      "text": "Trois familles de sacs d'escalade"
+    },
+    {
+      "type": "p",
+      "html": "On distingue trois types de sacs principaux. Le sac à corde simple avec bâche dépliable, dédié au transport de la corde et du matériel léger. Le sac à dos d'approche 30 à 45 L pour la falaise éloignée et la grande voie. Le sac haul bag de big wall en toile robuste pour les longues parois et l'expédition. Chaque famille a son usage précis."
+    },
+    {
+      "type": "p",
+      "html": "Pour 90 % des grimpeurs français, le sac à corde 30 L type Petzl Kab, Beal Combi, Edelrid Caddy couvre tous les besoins. Il transporte la corde, le baudrier, les chaussons, les dégaines et la trousse de premiers secours. Compte 60 à 100 euros pour un modèle fiable. Pour les bases du matos, lis <a href=\"/blog/materiel-escalade-essentiel\">le matériel d'escalade essentiel</a>."
+    },
+    {
+      "type": "h2",
+      "text": "Le sac à corde : la pièce de base"
+    },
+    {
+      "type": "p",
+      "html": "Le sac à corde sert avant tout à protéger ta corde de l'environnement. La bâche intégrée se déroule au pied de la voie et garde la corde propre pendant toute la session. Pas de terre, pas d'épines, pas de graviers qui s'infiltrent dans l'âme. Tu trouves deux brins de fixation pour les extrémités de corde, marqueurs visuels rapides pour ne pas confondre."
+    },
+    {
+      "type": "p",
+      "html": "Le <strong>Petzl Kab</strong> classique offre 30 L, une bâche 140 par 140 cm et deux poches latérales. Pratique et durable, c'est mon modèle depuis quatre ans. Le Beal Combi Pro propose 35 L avec compartiment séparé pour le matériel, idéal pour les sorties avec dégaines. Le Edelrid Caddy reste léger et compact, parfait pour les approches courtes."
+    },
+    {
+      "type": "h2",
+      "text": "Le sac à dos d'approche : grande voie et falaise éloignée"
+    },
+    {
+      "type": "p",
+      "html": "Quand l'approche dépasse 30 minutes ou que tu pars en grande voie, le sac à corde simple ne suffit plus. Tu as besoin d'un sac à dos d'approche avec dorsale rembourrée, sangle ventrale stabilisante et organisation interne plus poussée. Compte 35 à 45 L pour la grande voie classique, 50 à 60 L pour la grande voie engagée ou l'alpinisme léger."
+    },
+    {
+      "type": "p",
+      "html": "Les références sont <strong>Petzl Bug, Black Diamond Speed 30, Camp Tech Sack, Mammut Trion Light</strong>. Cherche un compartiment principal large pour le matériel, des poches latérales pour gourde et casse-croûte, des sangles externes pour fixer crashpad ou raquettes. Le portage doit rester confortable sur 1 à 2 heures de marche avec 10 à 12 kg de chargement."
+    },
+    {
+      "type": "h2",
+      "text": "Contenu type sortie falaise sport"
+    },
+    {
+      "type": "p",
+      "html": "Pour une sortie sport falaise classique, voici ce que je mets systématiquement dans mon sac. Corde 70 m dans le compartiment principal. Baudrier et système d'assurage dans une poche dédiée. Casque fixé à l'extérieur ou en haut. 12 dégaines accrochées au porte matériel ou rangées séparément. Topo, gourde 1.5 L, casse-croûte, frontale, trousse de premiers secours."
+    },
+    {
+      "type": "p",
+      "html": "Compléments utiles selon la météo. Doudoune compacte pour les pauses au relais. Coupe-vent contre les courants d'air en falaise abritée. Magnésie liquide pour les mains. Brosse à prises pour les voies fréquentées. Crème solaire et lunettes en été. Compte 8 à 12 kg total pour une journée complète, sac compris."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Trois sacs selon ta pratique",
+      "items": [
+        {
+          "title": "Sport falaise classique",
+          "body": "Sac à corde 30 L type Petzl Kab. Bâche intégrée, deux poches latérales, fixation casque externe. Compte 70 à 100 euros."
+        },
+        {
+          "title": "Grande voie alpine",
+          "body": "Sac à dos d'approche 35 à 45 L type Petzl Bug ou Black Diamond Speed 30. Dorsale ventilée, sangle ventrale, fixations externes. Compte 150 à 220 euros."
+        },
+        {
+          "title": "Bloc et hautblocs",
+          "body": "Crashpad avec sangles et poches intégrées type Mad Rock Triple Mad Pad. Plus un petit sac à dos 15 L pour les chaussons et la magnésie."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Contenu type grande voie"
+    },
+    {
+      "type": "p",
+      "html": "En grande voie, le sac change radicalement. La corde est portée en bandoulière ou attachée à l'extérieur du sac. À l'intérieur, tu trouves les éléments suivants. Vivres pour 6 à 12 heures de course. Eau 2 à 3 L par grimpeur. Frontale et batteries de secours. Couverture de survie. Trousse de premiers secours étoffée. Topo et boussole ou GPS."
+    },
+    {
+      "type": "p",
+      "html": "Matériel technique supplémentaire en grande voie. Assureur autobloquant type Reverso 4. Sangles 60 cm et 120 cm. Anneaux cousus 4 m pour les rappels. Cordelette prussik pour les autobloquants. Couteau et briquet pour les manœuvres de survie. Marteau et coinceurs si la voie le demande. Pour le détail, lis <a href=\"/blog/matos-grande-voie-checklist\">la checklist matériel grande voie</a>."
+    },
+    {
+      "type": "h2",
+      "text": "Organisation interne : la clé du gain de temps"
+    },
+    {
+      "type": "p",
+      "html": "Un sac mal organisé te fait perdre 10 minutes à chaque arrêt pour retrouver tes affaires. L'organisation pensée te fait gagner 30 minutes sur une journée. Le principe, c'est de répartir le matériel en quatre catégories distinctes. Le matériel technique au cœur du sac, accessible au relais. Les vivres et l'eau dans une poche dédiée. Les vêtements compactés en bas. Les accessoires de secours en haut."
+    },
+    {
+      "type": "p",
+      "html": "Utilise des pochettes en tissu type sacs à comprimer pour grouper les petits items. Une pochette pour la trousse de premiers secours. Une pour les vivres. Une pour la magnésie et la brosse. Cette catégorisation devient un réflexe sur le terrain. Au relais, tu sors directement la bonne pochette sans fouiller. Gain de temps et d'énergie mentale énorme."
+    },
+    {
+      "type": "h2",
+      "text": "Fixations externes et accroches utiles"
+    },
+    {
+      "type": "p",
+      "html": "Les fixations externes étendent la capacité du sac. Sangles compressives latérales pour fixer un piolet ou un crashpad. Boucles pour accrocher casque, lunettes, gants. Élastiques sur le rabat pour stocker la veste pendant la marche d'approche. Cherche un sac qui propose ces options sans complication excessive. Trop de sangles dépassantes accrochent partout en buissons."
+    },
+    {
+      "type": "p",
+      "html": "Une boucle daisy chain à l'extérieur permet d'accrocher la corde en bandoulière avec un mousqueton. Pratique en grande voie pour libérer le sac à l'intérieur pendant la marche d'approche. Vérifie que les fermetures éclairs sont robustes et étanches à la pluie. Une fermeture qui lâche en pleine session ruine la journée."
+    },
+    {
+      "type": "h2",
+      "text": "Marques de référence et budgets"
+    },
+    {
+      "type": "p",
+      "html": "Cinq marques se partagent le marché français des sacs d'escalade. <strong>Petzl</strong> avec les gammes Kab, Bug et Quantum. <strong>Beal</strong> avec les Combi Pro et Combi Light. <strong>Black Diamond</strong> avec les Speed et Stone. <strong>Mammut</strong> avec les Trion Light. <strong>Edelrid</strong> avec les Caddy et Spirit. Toutes proposent des modèles fiables, le choix se fait sur l'ergonomie personnelle et le budget."
+    },
+    {
+      "type": "p",
+      "html": "Pour un sac à corde simple, compte 60 à 100 euros. Pour un sac à dos 30 à 40 L, 130 à 200 euros. Pour un sac de grande voie engagée 50 à 60 L, 200 à 280 euros. Évite les premier prix sous 40 euros qui durent rarement plus de deux ans. Investis une fois bien, ton sac t'accompagnera huit à dix ans facilement."
+    },
+    {
+      "type": "table",
+      "caption": "Comparatif sacs d'escalade polyvalents 2026",
+      "headers": [
+        "Modèle",
+        "Volume",
+        "Poids",
+        "Type",
+        "Prix"
+      ],
+      "rows": [
+        [
+          "Petzl Kab",
+          "30 L + bâche",
+          "1.4 kg",
+          "Sac à corde",
+          "85 €"
+        ],
+        [
+          "Beal Combi Pro",
+          "35 L",
+          "1.2 kg",
+          "Sac à corde",
+          "75 €"
+        ],
+        [
+          "Petzl Bug",
+          "18 L",
+          "0.6 kg",
+          "Sac d'approche léger",
+          "100 €"
+        ],
+        [
+          "Black Diamond Speed 30",
+          "30 L",
+          "1 kg",
+          "Sac d'approche alpin",
+          "180 €"
+        ],
+        [
+          "Mammut Trion Light 50",
+          "50 L",
+          "1.4 kg",
+          "Sac grande voie",
+          "220 €"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Mon sac et son contenu personnel"
+    },
+    {
+      "type": "p",
+      "html": "J'utilise un <strong>Petzl Kab</strong> pour les sorties sport et un Black Diamond Speed 30 pour la grande voie. Le Kab voyage avec moi 80 % du temps, ses 30 L et sa bâche couvrent 95 % des situations. Le Speed 30 sort pour les courses engagées du Verdon ou des Calanques où je suis chargé en matériel autobloquant et rappel."
+    },
+    {
+      "type": "p",
+      "html": "Mon contenu standard sport falaise : Petzl Kab avec corde 70 m, baudrier Petzl Sitta, 12 dégaines mix Djinn Axess et Spirit Express, Grigri Plus, Reverso 4 de secours, casque Sirocco, topo, gourde 1.5 L, casse-croûte, trousse de premiers secours, frontale Tikka, magnésie liquide Friction Labs, brosse Sublime. Total environ 11 kg, tenable sur 20 minutes d'approche."
+    },
+    {
+      "type": "quote",
+      "text": "Un sac bien rangé, c'est dix minutes gagnées à chaque relais et trente minutes économisées sur la journée.",
+      "author": "Antoine",
+      "role": "Rédacteur escalade-france.fr"
+    },
+    {
+      "type": "h2",
+      "text": "Entretien et durée de vie"
+    },
+    {
+      "type": "p",
+      "html": "Un sac d'escalade s'entretient simplement. Nettoie l'extérieur au linge humide après les sorties terreuses. Vide complètement le sac entre deux sessions pour aérer et éviter les moisissures. Stocke ouvert dans un endroit sec à l'abri des UV. Une corde laissée six mois dans un sac fermé prend une odeur tenace difficile à éliminer ensuite."
+    },
+    {
+      "type": "p",
+      "html": "Inspecte régulièrement les coutures, les fermetures éclairs et les sangles. Les zones de frottement contre le sol ou les rochers s'usent en premier. Les fonds renforcés en Cordura tiennent mieux que les fonds en nylon classique. Pour aller plus loin, regarde <a href=\"/blog/entretien-corde-lavage-rangement\">l'entretien de la corde</a> et <a href=\"/blog/matos-grande-voie-checklist\">la checklist grande voie</a>."
+    }
   ],
   "faq": [
-    {"q": "Quelle taille de sac pour la falaise sport ?", "a": "Un sac à corde 30 L type Petzl Kab ou Beal Combi suffit largement pour la falaise sport classique. Tu transportes corde 70 m, baudrier, dégaines, casque et accessoires. Pour la grande voie, passe sur un sac à dos 35 à 45 L avec dorsale rembourrée."},
-    {"q": "Faut-il une bâche intégrée au sac ?", "a": "Oui, la bâche change tout pour la durée de vie de ta corde. Elle se déroule au pied de la voie et garde la corde propre pendant toute la session. Pas de terre, pas d'épines, pas de graviers qui s'infiltrent dans l'âme. Investis sur un modèle avec bâche dès le départ."},
-    {"q": "Quel budget pour un sac d'escalade fiable ?", "a": "Compte 60 à 100 euros pour un sac à corde simple Petzl Kab ou Beal Combi. 130 à 200 euros pour un sac à dos d'approche 30 à 40 L type Petzl Bug ou Black Diamond Speed. 200 à 280 euros pour un sac de grande voie 50 à 60 L type Mammut Trion Light."},
-    {"q": "Comment ranger son matériel dans le sac ?", "a": "Catégorise en quatre zones. Matériel technique au cœur, accessible. Vivres et eau en poche dédiée. Vêtements compactés en bas. Accessoires de secours en haut. Utilise des pochettes en tissu pour grouper les petits items. Cette organisation devient un réflexe et te fait gagner du temps au relais."},
-    {"q": "Sac à corde ou sac à dos en grande voie ?", "a": "Sac à dos d'approche avec dorsale rembourrée et sangle ventrale stabilisante. Le sac à corde simple ne porte pas confortablement les 12 kg de matériel grande voie sur les longues approches. Vise 35 à 45 L pour la grande voie classique, plus si tu pars en course engagée."},
-    {"q": "Combien d'années dure un sac d'escalade ?", "a": "Un sac de marque reconnue dure 8 à 10 ans en usage régulier. Les zones de frottement contre le sol s'usent en premier, surveille les fonds. Les fermetures éclairs sont la deuxième zone faible, vérifie leur fonctionnement régulièrement. Les marques sérieuses garantissent leurs coutures à vie."}
+    {
+      "q": "Quelle taille de sac pour la falaise sport ?",
+      "a": "Un sac à corde 30 L type Petzl Kab ou Beal Combi suffit largement pour la falaise sport classique. Tu transportes corde 70 m, baudrier, dégaines, casque et accessoires. Pour la grande voie, passe sur un sac à dos 35 à 45 L avec dorsale rembourrée."
+    },
+    {
+      "q": "Faut-il une bâche intégrée au sac ?",
+      "a": "Oui, la bâche change tout pour la durée de vie de ta corde. Elle se déroule au pied de la voie et garde la corde propre pendant toute la session. Pas de terre, pas d'épines, pas de graviers qui s'infiltrent dans l'âme. Investis sur un modèle avec bâche dès le départ."
+    },
+    {
+      "q": "Quel budget pour un sac d'escalade fiable ?",
+      "a": "Compte 60 à 100 euros pour un sac à corde simple Petzl Kab ou Beal Combi. 130 à 200 euros pour un sac à dos d'approche 30 à 40 L type Petzl Bug ou Black Diamond Speed. 200 à 280 euros pour un sac de grande voie 50 à 60 L type Mammut Trion Light."
+    },
+    {
+      "q": "Comment ranger son matériel dans le sac ?",
+      "a": "Catégorise en quatre zones. Matériel technique au cœur, accessible. Vivres et eau en poche dédiée. Vêtements compactés en bas. Accessoires de secours en haut. Utilise des pochettes en tissu pour grouper les petits items. Cette organisation devient un réflexe et te fait gagner du temps au relais."
+    },
+    {
+      "q": "Sac à corde ou sac à dos en grande voie ?",
+      "a": "Sac à dos d'approche avec dorsale rembourrée et sangle ventrale stabilisante. Le sac à corde simple ne porte pas confortablement les 12 kg de matériel grande voie sur les longues approches. Vise 35 à 45 L pour la grande voie classique, plus si tu pars en course engagée."
+    },
+    {
+      "q": "Combien d'années dure un sac d'escalade ?",
+      "a": "Un sac de marque reconnue dure 8 à 10 ans en usage régulier. Les zones de frottement contre le sol s'usent en premier, surveille les fonds. Les fermetures éclairs sont la deuxième zone faible, vérifie leur fonctionnement régulièrement. Les marques sérieuses garantissent leurs coutures à vie."
+    }
   ],
   "cover_alt": "Sac à corde Petzl Kab ouvert avec corde lovée bâche dépliée et matériel d'escalade organisé",
   "internal_links": [
-    {"slug": "materiel-escalade-essentiel", "anchor": "le matériel d'escalade essentiel", "context": "Pilier matériel"},
-    {"slug": "matos-grande-voie-checklist", "anchor": "la checklist matériel grande voie", "context": "Contenu détaillé"},
-    {"slug": "entretien-corde-lavage-rangement", "anchor": "l'entretien de la corde", "context": "Protection corde"},
-    {"slug": "matos-bloc-checklist", "anchor": "la checklist matériel bloc", "context": "Alternative bloc"}
+    {
+      "slug": "materiel-escalade-essentiel",
+      "anchor": "le matériel d'escalade essentiel",
+      "context": "Pilier matériel"
+    },
+    {
+      "slug": "matos-grande-voie-checklist",
+      "anchor": "la checklist matériel grande voie",
+      "context": "Contenu détaillé"
+    },
+    {
+      "slug": "entretien-corde-lavage-rangement",
+      "anchor": "l'entretien de la corde",
+      "context": "Protection corde"
+    },
+    {
+      "slug": "matos-bloc-checklist",
+      "anchor": "la checklist matériel bloc",
+      "context": "Alternative bloc"
+    }
   ],
   "scheduled_at": "2026-09-08T09:00:00+02:00"
 }

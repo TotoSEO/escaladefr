@@ -5,7 +5,7 @@
   "numero": 88,
   "title": "Gorges du Tarn : escalade au cœur du Massif Central",
   "h1": "Gorges du Tarn, panorama d'escalade du Massif Central",
-  "description": "Explore les Gorges du Tarn, paradis du calcaire dolomitique en Lozère : Cinglégros, Saint-Marcellin, Tennessee, secteurs Causse et conseils saison complets.",
+  "description": "Explore les Gorges du Tarn, paradis du calcaire dolomitique en Lozère : Cinglégros, Saint-Marcellin, Tennessee, secteurs Causse et conseils saison...",
   "chapo": "Les Gorges du Tarn, c'est un canyon de 50 kilomètres taillé dans le calcaire dolomitique, entre Lozère et Aveyron. Des falaises de 200 à 400 mètres, des grandes voies historiques, des secteurs sportifs comme Tennessee et Cinglégros, et une nature préservée. Je te raconte ce paradis du Massif Central, ses ambiances très variées, ses cités troglodytes et la magie de grimper face aux vautours.",
   "takeaways": [
     "Les Gorges du Tarn traversent la Lozère et l'Aveyron sur 50 kilomètres de falaises.",
@@ -46,16 +46,43 @@
     {
       "type": "table",
       "caption": "Fiche d'identité du site",
-      "headers": ["Critère", "Détail"],
+      "headers": [
+        "Critère",
+        "Détail"
+      ],
       "rows": [
-        ["Type de rocher", "Calcaire dolomitique du Jurassique, ocre rosé"],
-        ["Orientation", "Toutes orientations selon les secteurs et la rive"],
-        ["Exposition", "Très variable, ombrage matin ou après-midi possible partout"],
-        ["Cotation min/max", "Du 4c au 9a, large éventail dans tous les niveaux"],
-        ["Nombre de voies", "Plus de 1000 voies sur 30 secteurs entre Florac et Le Rozier"],
-        ["Période favorable", "Avril à octobre, mars et novembre selon expositions"],
-        ["Accès", "Route D907bis le long du Tarn, parkings au pied des sites"],
-        ["Parking", "Plusieurs aires gratuites, attention en haute saison"]
+        [
+          "Type de rocher",
+          "Calcaire dolomitique du Jurassique, ocre rosé"
+        ],
+        [
+          "Orientation",
+          "Toutes orientations selon les secteurs et la rive"
+        ],
+        [
+          "Exposition",
+          "Très variable, ombrage matin ou après-midi possible partout"
+        ],
+        [
+          "Cotation min/max",
+          "Du 4c au 9a, large éventail dans tous les niveaux"
+        ],
+        [
+          "Nombre de voies",
+          "Plus de 1000 voies sur 30 secteurs entre Florac et Le Rozier"
+        ],
+        [
+          "Période favorable",
+          "Avril à octobre, mars et novembre selon expositions"
+        ],
+        [
+          "Accès",
+          "Route D907bis le long du Tarn, parkings au pied des sites"
+        ],
+        [
+          "Parking",
+          "Plusieurs aires gratuites, attention en haute saison"
+        ]
       ]
     },
     {
@@ -87,12 +114,30 @@
       "variant": "bullets",
       "title": "Les secteurs phares des Gorges du Tarn",
       "items": [
-        {"title": "Cinglégros", "body": "Plus de 150 voies du 5c au 8c, ombre l'après-midi, classique incontournable."},
-        {"title": "Tennessee", "body": "Concrétions et baumes, voies dans le 7 et 8, ambiance dévers cathédrale."},
-        {"title": "Saint-Marcellin", "body": "Dalles techniques et grandes voies dans le 6 et 7, parfait pour découvrir."},
-        {"title": "Pougnadoires", "body": "Calcaire compact en dalle, voies dans le 6 à 7b, ambiance vallée."},
-        {"title": "Boundoulaou", "body": "Grandes voies engagées jusqu'à 200 mètres, terrain d'aventure."},
-        {"title": "Le Causse", "body": "Petits secteurs sur le plateau, idéaux les jours chauds, niveaux variés."}
+        {
+          "title": "Cinglégros",
+          "body": "Plus de 150 voies du 5c au 8c, ombre l'après-midi, classique incontournable."
+        },
+        {
+          "title": "Tennessee",
+          "body": "Concrétions et baumes, voies dans le 7 et 8, ambiance dévers cathédrale."
+        },
+        {
+          "title": "Saint-Marcellin",
+          "body": "Dalles techniques et grandes voies dans le 6 et 7, parfait pour découvrir."
+        },
+        {
+          "title": "Pougnadoires",
+          "body": "Calcaire compact en dalle, voies dans le 6 à 7b, ambiance vallée."
+        },
+        {
+          "title": "Boundoulaou",
+          "body": "Grandes voies engagées jusqu'à 200 mètres, terrain d'aventure."
+        },
+        {
+          "title": "Le Causse",
+          "body": "Petits secteurs sur le plateau, idéaux les jours chauds, niveaux variés."
+        }
       ]
     },
     {
@@ -154,10 +199,26 @@
   ],
   "cover_alt": "Falaise calcaire des Gorges du Tarn surplombant la rivière en Lozère",
   "internal_links": [
-    {"slug": "sites-escalade-emblematiques-france", "anchor": "sites d'escalade emblématiques de France", "context": "Pilier du cocon sites"},
-    {"slug": "verdon-grandes-voies", "anchor": "Verdon et ses grandes voies", "context": "Autre canyon d'escalade"},
-    {"slug": "gorges-loire-massif-central", "anchor": "Gorges de la Loire", "context": "Autre site du Massif Central"},
-    {"slug": "ceuse-cathedrale-calcaire", "anchor": "Céüse cathédrale de calcaire", "context": "Autre site de calcaire historique"}
+    {
+      "slug": "sites-escalade-emblematiques-france",
+      "anchor": "sites d'escalade emblématiques de France",
+      "context": "Pilier du cocon sites"
+    },
+    {
+      "slug": "verdon-grandes-voies",
+      "anchor": "Verdon et ses grandes voies",
+      "context": "Autre canyon d'escalade"
+    },
+    {
+      "slug": "gorges-loire-massif-central",
+      "anchor": "Gorges de la Loire",
+      "context": "Autre site du Massif Central"
+    },
+    {
+      "slug": "ceuse-cathedrale-calcaire",
+      "anchor": "Céüse cathédrale de calcaire",
+      "context": "Autre site de calcaire historique"
+    }
   ],
   "scheduled_at": "2026-11-24T09:00:00+01:00"
 }

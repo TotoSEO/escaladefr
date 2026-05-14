@@ -5,7 +5,7 @@
   "numero": 8,
   "title": "Grimper en respectant les sites, la faune et le rocher",
   "h1": "Respecter les sites d'escalade et la faune.",
-  "description": "Grimper en respectant l'environnement : nidification du faucon pèlerin, érosion des sentiers, déchets, magnésie, accès et parcs nationaux. Bonnes pratiques.",
+  "description": "Grimper en respectant l'environnement : nidification du faucon pèlerin, érosion des sentiers, déchets, magnésie, accès et parcs nationaux. Bonnes...",
   "chapo": "L'escalade dépend de l'accès aux falaises. Cet accès se mérite et se préserve. Quelles règles respecter pour que la pratique perdure ? Je détaille ici les enjeux faunistiques (faucon pèlerin, vautours), l'érosion des sentiers d'approche, la gestion des déchets, la magnésie et les conventions départementales qui structurent la cohabitation.",
   "takeaways": [
     "La nidification du faucon pèlerin impose des fermetures de mars à juin sur de nombreux sites.",
@@ -77,7 +77,6 @@
     {
       "type": "p",
       "html": "Le principe Leave No Trace s'applique sans exception. Tout ce que tu apportes repart avec toi : papiers d'aliments, peaux de banane, pelures d'orange (qui mettent 6 mois à se décomposer), mégots de cigarette (3 ans), bouteilles, sacs plastique. Même les déchets dits biodégradables (épluchures, restes de fruits) ne se décomposent pas comme prévu en falaise sèche et restent visibles longtemps."
-    >
     },
     {
       "type": "p",
@@ -98,14 +97,42 @@
     {
       "type": "table",
       "caption": "Durée de décomposition des déchets en falaise sèche",
-      "headers": ["Déchet", "Durée", "Action"],
+      "headers": [
+        "Déchet",
+        "Durée",
+        "Action"
+      ],
       "rows": [
-        ["Mégot de cigarette", "1 à 3 ans", "Cendrier portable"],
-        ["Pelure d'orange", "6 mois", "Retour dans le sac"],
-        ["Papier humide", "2 à 3 mois", "Retour dans le sac"],
-        ["Mouchoir papier", "3 mois", "Retour dans le sac"],
-        ["Bouteille plastique", "400 à 1 000 ans", "Retour dans le sac"],
-        ["Chewing-gum", "5 ans", "Retour dans le sac"]
+        [
+          "Mégot de cigarette",
+          "1 à 3 ans",
+          "Cendrier portable"
+        ],
+        [
+          "Pelure d'orange",
+          "6 mois",
+          "Retour dans le sac"
+        ],
+        [
+          "Papier humide",
+          "2 à 3 mois",
+          "Retour dans le sac"
+        ],
+        [
+          "Mouchoir papier",
+          "3 mois",
+          "Retour dans le sac"
+        ],
+        [
+          "Bouteille plastique",
+          "400 à 1 000 ans",
+          "Retour dans le sac"
+        ],
+        [
+          "Chewing-gum",
+          "5 ans",
+          "Retour dans le sac"
+        ]
       ]
     },
     {

@@ -5,7 +5,7 @@
   "numero": 23,
   "title": "Autobelay en salle d'escalade : guide pratique pour grimper seul",
   "h1": "Autobelay en salle, comment grimper en toute securite sans partenaire d'assurage",
-  "description": "Autobelay en salle d'escalade : fonctionnement, securite, marques (TruBlue, Perfect Descent), erreurs frequentes et conseils pratiques pour grimper seul sans risque.",
+  "description": "Autobelay en salle d'escalade : fonctionnement, securite, marques (TruBlue, Perfect Descent), erreurs frequentes et conseils pratiques pour grimper...",
   "chapo": "Tu veux grimper a la corde sans partenaire, tu n'as pas validee ton passeport, ou tes copains ne sont pas dispos. L'autobelay est ta reponse. Cette installation automatique te ramene au sol en douceur quand tu lache. Cette page detaille son fonctionnement, les marques de reference, les erreurs typiques, et comment l'utiliser pour vraiment progresser sans dependre d'un partenaire. Un equipement qui a transforme la pratique solo en salle.",
   "takeaways": [
     "L'autobelay te descend automatiquement en 15-20 secondes apres relachement.",
@@ -15,68 +15,255 @@
     "Convient pour echauffer, progresser en endurance, surmonter la peur du vide."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Ce qu'est un autobelay et a quoi il sert"},
-    {"type": "p", "html": "Un autobelay (parfois ecrit auto-belay, francais autoassurance automatique) est un <strong>systeme d'assurage motorise installe en haut de la voie</strong>. Tu te clippes a une sangle qui pend du dispositif, tu grimpes, et a tout moment tu peux lacher : le mecanisme te ramene au sol en douceur, a une vitesse controlee. C'est l'equivalent d'un parachute, mais en escalade indoor."},
-    {"type": "p", "html": "L'utilite principale : <strong>grimper a la corde sans partenaire d'assurage</strong>. Tu peux faire de la voie quand tu es seul, en plage horaire creuse, sans devoir trouver quelqu'un. C'est aussi parfait pour l'echauffement, l'endurance, ou simplement varier la pratique apres une seance de bloc. Les autobelay equipent aujourd'hui la majorite des salles francaises modernes, comme <strong>Climb Up, Vertical'Art et Arkose</strong>."},
-    {"type": "h2", "text": "Comment fonctionne mecaniquement le dispositif"},
-    {"type": "p", "html": "Le mecanisme repose sur un frein hydraulique ou magnetique qui se declenche par la rotation d'un tambour. Quand tu grimpes, la sangle s'enroule sur le tambour, qui tourne librement dans le sens de la montee. Quand tu lache, le tambour tourne dans l'autre sens et le frein s'active, controle par la vitesse de descente. Tu ne peux pas tomber plus vite que 1 metre par seconde, c'est physiquement bride par le mecanisme."},
-    {"type": "list", "variant": "checks", "title": "Les trois marques de reference", "items": [
-      {"title": "TruBlue (Headrush Technologies)", "body": "Marque americaine la plus repandue dans le monde. Frein hydraulique, sangle bleu fluo, mousqueton de couleur jaune ou rouge selon le poids. Tres fiable, certifie CE."},
-      {"title": "Perfect Descent (Auto Belay)", "body": "Marque historique, frein magnetique. Sangle rouge, mecanisme robuste. Souvent vu dans les vieilles salles. Demande revision tous les ans."},
-      {"title": "Trango Skyworks", "body": "Marque plus recente, frein electromagnetique. Sangle jaune. Reglage de la vitesse de descente possible. En train de se developper en France."}
-    ]},
-    {"type": "p", "html": "Toutes ces marques sont certifiees CE et testees pour des charges jusqu'a 130 kg en general. Tu peux grimper sans crainte des qu'on parle d'un appareil officiel de salle. Le risque mecanique est <strong>infime, statistiquement moins d'1 incident pour 100 000 utilisations</strong>. Le risque humain (erreur de clippage) est par contre le plus eleve."},
-    {"type": "h2", "text": "Le clippage : geste critique"},
-    {"type": "p", "html": "L'autobelay se clippe sur ton baudrier via un mousqueton specifique, generalement <strong>un mousqueton a barillet ou a triple action</strong>. Tu engages le mousqueton dans le pontet (la sangle horizontale centrale du baudrier), tu fermes la vis ou tu valides le triple lock. Tu verifies. <strong>Tu reverifie</strong>. Tu demandes a quelqu'un de verifier. C'est le seul moment critique du dispositif."},
-    {"type": "tip", "title": "L'astuce du triple check rituelise", "body": "Mon rituel personnel : check 1 au moment de cliper, check 2 quand je me leve, check 3 au pied de la voie en mettant la main sur le mousqueton. Trois verifications a 30 secondes d'intervalle, ca elimine l'erreur d'inattention. Je le fais depuis 2018, sans exception, meme quand je suis presse.", "tone": "astuce"},
-    {"type": "p", "html": "Les accidents en autobelay viennent <strong>presque toujours d'un oubli de clip</strong>. Le grimpeur monte sans avoir clip le mousqueton, atteint 8 metres de hauteur, et tombe en chute libre. C'est arrive en France a plusieurs reprises, avec des consequences graves. La parade est simple : impose-toi un rituel non negociable de verification. Pas de variations, pas de discussion."},
-    {"type": "h2", "text": "Voies en autobelay : limites du dispositif"},
-    {"type": "p", "html": "Une voie en autobelay a des contraintes specifiques. La sangle descend droite depuis le haut, donc <strong>tu ne peux pas faire de voie qui traverse beaucoup</strong>. Si tu sors de la verticale, la sangle te tire vers le centre, ce qui complique la position. Du coup, les voies en autobelay sont quasi toutes verticales, parfois en leger devers, rarement en traverse complexe."},
-    {"type": "p", "html": "La consequence : la <strong>diversite des mouvements</strong> est moindre. Tu vas surtout grimper en montee continue, sans grosse traverse, sans long crux a une position fixe. Pour progresser sur des sequences complexes, tu auras besoin de voies en tete ou en moulinette. L'autobelay sert plus l'endurance et l'echauffement que la lecture de mouvements fins. Pour la <a href=\"/blog/lecture-voie-strategie\">lecture de voie</a> avancee, prefere des voies traditionnelles."},
-    {"type": "h2", "text": "Quand utiliser l'autobelay dans une seance"},
-    {"type": "table", "caption": "Utilisations optimales de l'autobelay", "headers": ["Objectif", "Type de voies", "Duree recommandee"], "rows": [
-      ["Echauffement physique", "Voies 5a-5c sans pause", "15-20 minutes"],
-      ["Travail d'endurance", "Voies 6a-6b enchainees", "30-45 minutes"],
-      ["Travail mental anti-vertige", "Voies courtes a hauteur 12m", "20 minutes"],
-      ["Decouverte solo apres bloc", "Voies 4-5a familiarisation", "10-15 minutes"],
-      ["Apres-seance recuperation", "Voies 4 facile en cool down", "10 minutes"]
-    ]},
-    {"type": "p", "html": "L'usage le plus efficace : <strong>echauffer en debut de seance</strong> sur deux ou trois voies en autobelay avant de passer au bloc ou aux voies en tete. Ton corps s'active, tu prends de l'altitude pour reactiver l'attention, tes avant-bras chauffent progressivement. C'est nettement mieux qu'un echauffement au sol avec elastiques. Pour les debutants, c'est aussi une porte d'entree vers la grimpe a la corde sans partenaire."},
-    {"type": "h2", "text": "Le travail mental anti-vertige"},
-    {"type": "p", "html": "Pour les grimpeurs qui ont peur de la chute, l'autobelay est un outil therapeutique. <strong>Tu peux te laisser tomber volontairement</strong> depuis differentes hauteurs, sans risque. La descente est lente, tu n'as pas de partenaire qui doit dynamiser. Tu travailles la peur en augmentation progressive, c'est ce qu'on appelle la therapie par exposition graduelle. Tres efficace en quelques semaines."},
-    {"type": "p", "html": "Mon protocole pour les amis qui flippent : <strong>seance 1 : lache a 3 metres</strong>. Seance 2 : lache a 5 metres. Seance 3 : 8 metres. Apres 4 a 6 seances, la peur baisse drastiquement. C'est la meme logique que les conseils dans <a href=\"/blog/chuter-en-grimpe-apprentissage\">l'apprentissage de la chute</a>, applique en autobelay pour plus de securite mentale. C'est aussi un excellent prerequis avant de passer en <a href=\"/blog/grimper-en-tete-premiere-fois\">premiere voie en tete</a>."},
-    {"type": "h2", "text": "Erreurs courantes en autobelay"},
-    {"type": "p", "html": "L'erreur principale : <strong>l'oubli de clip</strong>. La parade : rituel triple-check. Erreur seconde : <strong>se balancer volontairement</strong>. Tu fais des oscillations en lache, tu finis projete contre le mur. C'est interdit dans la plupart des salles. Erreur troisieme : <strong>grimper trop vite</strong>. La sangle ne suit pas, elle ressort, et tu peux te decrocher en haut. Reste a ton rythme normal."},
-    {"type": "list", "variant": "checks", "title": "Cinq erreurs frequentes en autobelay", "items": [
-      {"title": "Lache trop tot", "body": "Tu lache des 5 metres pour tester, sans avoir verifie le clip. Cette pratique peut etre dangereuse si le clip est mal fait."},
-      {"title": "Grimpe avec sac a dos", "body": "Avec un sac, le mousqueton de l'autobelay peut frotter et s'user. Grimpe sans sac, evidemment."},
-      {"title": "Plusieurs grimpeurs sur la meme sangle", "body": "Idee delirante, mais c'est arrive. Une sangle = un grimpeur. Pas de plaisanterie."},
-      {"title": "Voie en travers", "body": "Tu fais une traverse vers une voie voisine. La sangle te tire en oblique, tu tombes pendulant. Reste sur ta voie."},
-      {"title": "Pas de verification au sol", "body": "Tu retournes au sol sans verifier l'etat de la sangle, du mousqueton, du systeme. Au prochain grimpeur, l'erreur cachee peut se reveler."}
-    ]},
-    {"type": "h2", "text": "Verifier l'etat avant de partir"},
-    {"type": "p", "html": "Avant chaque utilisation, tu jettes un coup d'oeil au dispositif. La <strong>sangle ne doit pas etre effilochee</strong>, pas de coupures visibles. Le mousqueton tourne bien, le verrouillage fonctionne. La sangle remonte sans bruit anormal (un grincement metallique signale un probleme). Si quelque chose te semble bizarre, signale-le a l'accueil. Les salles font des revisions periodiques, mais une bizarrerie peut apparaitre entre deux."},
-    {"type": "quote", "text": "L'autobelay est l'equipement le plus sur de la salle, sauf pour le grimpeur qui oublie de clipper.", "author": "Antoine", "role": "grimpeur depuis 2013, pratique solo reguliere"},
-    {"type": "h2", "text": "Cout et duree de vie"},
-    {"type": "p", "html": "Un autobelay neuf coute entre <strong>3000 et 6000 euros</strong> selon la marque et le modele. La duree de vie depasse 10 ans avec revision annuelle obligatoire. La salle l'amortit sur la frequentation. Pour toi grimpeur, c'est inclus dans le prix d'entree, sans surcout. Tu peux donc l'utiliser sans limite (sauf le temps de grimpe avant la fatigue). Pour les achats personnels, il existe des modeles maison Petzl ou Camp pour entreprise, mais c'est rarissime en perso."},
-    {"type": "p", "html": "Les salles qui investissent dans plusieurs autobelay (4 a 6 generalement) sont celles qui privilegient l'autonomie des grimpeurs et le creneau midi sans partenaires. <strong>Vertical'Art a Issy-les-Moulineaux</strong> en a 6, Climb Up Aubervilliers en a 8. Pour le solo grimpeur, c'est un critere de choix de salle a regarder en visite preliminaire."}
+    {
+      "type": "h2",
+      "text": "Ce qu'est un autobelay et a quoi il sert"
+    },
+    {
+      "type": "p",
+      "html": "Un autobelay (parfois ecrit auto-belay, francais autoassurance automatique) est un systeme d'assurage motorise installe en haut de la voie. Tu te clippes a une sangle qui pend du dispositif, tu grimpes, et a tout moment tu peux lacher : le mecanisme te ramene au sol en douceur, a une vitesse controlee. C'est l'equivalent d'un parachute, mais en escalade indoor."
+    },
+    {
+      "type": "p",
+      "html": "L'utilite principale : grimper a la corde sans partenaire d'assurage. Tu peux faire de la voie quand tu es seul, en plage horaire creuse, sans devoir trouver quelqu'un. C'est aussi parfait pour l'echauffement, l'endurance, ou simplement varier la pratique apres une seance de bloc. Les autobelay equipent aujourd'hui la majorite des salles francaises modernes, comme Climb Up, Vertical'Art et Arkose."
+    },
+    {
+      "type": "h2",
+      "text": "Comment fonctionne mecaniquement le dispositif"
+    },
+    {
+      "type": "p",
+      "html": "Le mecanisme repose sur un frein hydraulique ou magnetique qui se declenche par la rotation d'un tambour. Quand tu grimpes, la sangle s'enroule sur le tambour, qui tourne librement dans le sens de la montee. Quand tu lache, le tambour tourne dans l'autre sens et le frein s'active, controle par la vitesse de descente. Tu ne peux pas tomber plus vite que 1 metre par seconde, c'est physiquement bride par le mecanisme."
+    },
+    {
+      "type": "list",
+      "variant": "checks",
+      "title": "Les trois marques de reference",
+      "items": [
+        {
+          "title": "TruBlue (Headrush Technologies)",
+          "body": "Marque americaine la plus repandue dans le monde. Frein hydraulique, sangle bleu fluo, mousqueton de couleur jaune ou rouge selon le poids. Tres fiable, certifie CE."
+        },
+        {
+          "title": "Perfect Descent (Auto Belay)",
+          "body": "Marque historique, frein magnetique. Sangle rouge, mecanisme robuste. Souvent vu dans les vieilles salles. Demande revision tous les ans."
+        },
+        {
+          "title": "Trango Skyworks",
+          "body": "Marque plus recente, frein electromagnetique. Sangle jaune. Reglage de la vitesse de descente possible. En train de se developper en France."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "html": "Toutes ces marques sont certifiees CE et testees pour des charges jusqu'a 130 kg en general. Tu peux grimper sans crainte des qu'on parle d'un appareil officiel de salle. Le risque mecanique est infime, statistiquement moins d'1 incident pour 100 000 utilisations. Le risque humain (erreur de clippage) est par contre le plus eleve."
+    },
+    {
+      "type": "h2",
+      "text": "Le clippage : geste critique"
+    },
+    {
+      "type": "p",
+      "html": "L'autobelay se clippe sur ton baudrier via un mousqueton specifique, generalement un mousqueton a barillet ou a triple action. Tu engages le mousqueton dans le pontet (la sangle horizontale centrale du baudrier), tu fermes la vis ou tu valides le triple lock. Tu verifies. Tu reverifie. Tu demandes a quelqu'un de verifier. C'est le seul moment critique du dispositif."
+    },
+    {
+      "type": "tip",
+      "title": "L'astuce du triple check rituelise",
+      "body": "Mon rituel personnel : check 1 au moment de cliper, check 2 quand je me leve, check 3 au pied de la voie en mettant la main sur le mousqueton. Trois verifications a 30 secondes d'intervalle, ca elimine l'erreur d'inattention. Je le fais depuis 2018, sans exception, meme quand je suis presse.",
+      "tone": "astuce"
+    },
+    {
+      "type": "p",
+      "html": "Les accidents en autobelay viennent presque toujours d'un oubli de clip. Le grimpeur monte sans avoir clip le mousqueton, atteint 8 metres de hauteur, et tombe en chute libre. C'est arrive en France a plusieurs reprises, avec des consequences graves. La parade est simple : impose-toi un rituel non negociable de verification. Pas de variations, pas de discussion."
+    },
+    {
+      "type": "h2",
+      "text": "Voies en autobelay : limites du dispositif"
+    },
+    {
+      "type": "p",
+      "html": "Une voie en autobelay a des contraintes specifiques. La sangle descend droite depuis le haut, donc tu ne peux pas faire de voie qui traverse beaucoup. Si tu sors de la verticale, la sangle te tire vers le centre, ce qui complique la position. Du coup, les voies en autobelay sont quasi toutes verticales, parfois en leger devers, rarement en traverse complexe."
+    },
+    {
+      "type": "p",
+      "html": "La consequence : la diversite des mouvements est moindre. Tu vas surtout grimper en montee continue, sans grosse traverse, sans long crux a une position fixe. Pour progresser sur des sequences complexes, tu auras besoin de voies en tete ou en moulinette. L'autobelay sert plus l'endurance et l'echauffement que la lecture de mouvements fins. Pour la <a href=\"/blog/lecture-voie-strategie\">lecture de voie</a> avancee, prefere des voies traditionnelles."
+    },
+    {
+      "type": "h2",
+      "text": "Quand utiliser l'autobelay dans une seance"
+    },
+    {
+      "type": "table",
+      "caption": "Utilisations optimales de l'autobelay",
+      "headers": [
+        "Objectif",
+        "Type de voies",
+        "Duree recommandee"
+      ],
+      "rows": [
+        [
+          "Echauffement physique",
+          "Voies 5a-5c sans pause",
+          "15-20 minutes"
+        ],
+        [
+          "Travail d'endurance",
+          "Voies 6a-6b enchainees",
+          "30-45 minutes"
+        ],
+        [
+          "Travail mental anti-vertige",
+          "Voies courtes a hauteur 12m",
+          "20 minutes"
+        ],
+        [
+          "Decouverte solo apres bloc",
+          "Voies 4-5a familiarisation",
+          "10-15 minutes"
+        ],
+        [
+          "Apres-seance recuperation",
+          "Voies 4 facile en cool down",
+          "10 minutes"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "html": "L'usage le plus efficace : echauffer en debut de seance sur deux ou trois voies en autobelay avant de passer au bloc ou aux voies en tete. Ton corps s'active, tu prends de l'altitude pour reactiver l'attention, tes avant-bras chauffent progressivement. C'est nettement mieux qu'un echauffement au sol avec elastiques. Pour les debutants, c'est aussi une porte d'entree vers la grimpe a la corde sans partenaire."
+    },
+    {
+      "type": "h2",
+      "text": "Le travail mental anti-vertige"
+    },
+    {
+      "type": "p",
+      "html": "Pour les grimpeurs qui ont peur de la chute, l'autobelay est un outil therapeutique. <strong>Tu peux te laisser tomber volontairement</strong> depuis differentes hauteurs, sans risque. La descente est lente, tu n'as pas de partenaire qui doit dynamiser. Tu travailles la peur en augmentation progressive, c'est ce qu'on appelle la therapie par exposition graduelle. Tres efficace en quelques semaines."
+    },
+    {
+      "type": "p",
+      "html": "Mon protocole pour les amis qui flippent : <strong>seance 1 : lache a 3 metres</strong>. Seance 2 : lache a 5 metres. Seance 3 : 8 metres. Apres 4 a 6 seances, la peur baisse drastiquement. C'est la meme logique que les conseils dans <a href=\"/blog/chuter-en-grimpe-apprentissage\">l'apprentissage de la chute</a>, applique en autobelay pour plus de securite mentale. C'est aussi un excellent prerequis avant de passer en <a href=\"/blog/grimper-en-tete-premiere-fois\">premiere voie en tete</a>."
+    },
+    {
+      "type": "h2",
+      "text": "Erreurs courantes en autobelay"
+    },
+    {
+      "type": "p",
+      "html": "L'erreur principale : <strong>l'oubli de clip</strong>. La parade : rituel triple-check. Erreur seconde : <strong>se balancer volontairement</strong>. Tu fais des oscillations en lache, tu finis projete contre le mur. C'est interdit dans la plupart des salles. Erreur troisieme : <strong>grimper trop vite</strong>. La sangle ne suit pas, elle ressort, et tu peux te decrocher en haut. Reste a ton rythme normal."
+    },
+    {
+      "type": "list",
+      "variant": "checks",
+      "title": "Cinq erreurs frequentes en autobelay",
+      "items": [
+        {
+          "title": "Lache trop tot",
+          "body": "Tu lache des 5 metres pour tester, sans avoir verifie le clip. Cette pratique peut etre dangereuse si le clip est mal fait."
+        },
+        {
+          "title": "Grimpe avec sac a dos",
+          "body": "Avec un sac, le mousqueton de l'autobelay peut frotter et s'user. Grimpe sans sac, evidemment."
+        },
+        {
+          "title": "Plusieurs grimpeurs sur la meme sangle",
+          "body": "Idee delirante, mais c'est arrive. Une sangle = un grimpeur. Pas de plaisanterie."
+        },
+        {
+          "title": "Voie en travers",
+          "body": "Tu fais une traverse vers une voie voisine. La sangle te tire en oblique, tu tombes pendulant. Reste sur ta voie."
+        },
+        {
+          "title": "Pas de verification au sol",
+          "body": "Tu retournes au sol sans verifier l'etat de la sangle, du mousqueton, du systeme. Au prochain grimpeur, l'erreur cachee peut se reveler."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Verifier l'etat avant de partir"
+    },
+    {
+      "type": "p",
+      "html": "Avant chaque utilisation, tu jettes un coup d'oeil au dispositif. La <strong>sangle ne doit pas etre effilochee</strong>, pas de coupures visibles. Le mousqueton tourne bien, le verrouillage fonctionne. La sangle remonte sans bruit anormal (un grincement metallique signale un probleme). Si quelque chose te semble bizarre, signale-le a l'accueil. Les salles font des revisions periodiques, mais une bizarrerie peut apparaitre entre deux."
+    },
+    {
+      "type": "quote",
+      "text": "L'autobelay est l'equipement le plus sur de la salle, sauf pour le grimpeur qui oublie de clipper.",
+      "author": "Antoine",
+      "role": "grimpeur depuis 2013, pratique solo reguliere"
+    },
+    {
+      "type": "h2",
+      "text": "Cout et duree de vie"
+    },
+    {
+      "type": "p",
+      "html": "Un autobelay neuf coute entre <strong>3000 et 6000 euros</strong> selon la marque et le modele. La duree de vie depasse 10 ans avec revision annuelle obligatoire. La salle l'amortit sur la frequentation. Pour toi grimpeur, c'est inclus dans le prix d'entree, sans surcout. Tu peux donc l'utiliser sans limite (sauf le temps de grimpe avant la fatigue). Pour les achats personnels, il existe des modeles maison Petzl ou Camp pour entreprise, mais c'est rarissime en perso."
+    },
+    {
+      "type": "p",
+      "html": "Les salles qui investissent dans plusieurs autobelay (4 a 6 generalement) sont celles qui privilegient l'autonomie des grimpeurs et le creneau midi sans partenaires. <strong>Vertical'Art a Issy-les-Moulineaux</strong> en a 6, Climb Up Aubervilliers en a 8. Pour le solo grimpeur, c'est un critere de choix de salle a regarder en visite preliminaire."
+    }
   ],
   "faq": [
-    {"q": "Faut-il un passeport pour utiliser l'autobelay ?", "a": "En general non, l'autobelay ne necessite pas le passeport de la salle car il n'y a pas d'assurage manuel a maitriser. Une induction de 5 minutes a l'entree suffit. C'est l'avantage principal pour les debutants qui veulent grimper a la corde sans passer le test d'assurage."},
-    {"q": "Peut-on grimper en autobelay des l'age de 6 ans ?", "a": "Oui, des 6 a 7 ans selon les salles, sous surveillance adulte. Les enfants legers descendent un peu plus lentement, ce qui est confortable. C'est l'outil ideal pour <a href=\"/blog/escalade-enfants-progression\">les enfants en progression</a> qui veulent grimper plus haut que les blocs sans assureur."},
-    {"q": "Y a-t-il un poids minimum et maximum ?", "a": "La plupart des autobelay fonctionnent entre 18 et 130 kg. Au-dessus de 130 kg, le mecanisme peut etre depasse, c'est dangereux. En-dessous de 18 kg (tres petits enfants), la descente est trop lente. Les salles affichent les limites sur chaque dispositif, verifie avant d'utiliser."},
-    {"q": "Que faire si le mecanisme se bloque en haut ?", "a": "Tres rare, mais possible. Tu restes calme, tu essaie de te rapprocher d'une voie voisine ou de te suspendre a une grosse prise. Tu appelles l'accueil. La salle a une procedure de descente d'urgence avec corde de secours. Ne te detache jamais en hauteur, ne saute pas. Attente la salle."},
-    {"q": "L'autobelay remplace-t-il un partenaire d'assurage ?", "a": "Partiellement seulement. L'autobelay marche pour les voies verticales jusqu'a 15 metres. Pour les voies longues, en tete, sur des sequences traversantes, ou pour le grand mur, il faut un partenaire. L'autobelay est un complement, pas un remplacant. Apprends les deux : moulinette et autobelay, tu auras le panel complet."},
-    {"q": "Comment savoir si ma salle a des autobelay aux normes ?", "a": "Toutes les salles agreees doivent avoir des dispositifs CE certifies. Demande a l'accueil les marques utilisees (TruBlue, Perfect Descent, etc.) et la frequence de revision. Une salle qui ne sait pas repondre, c'est suspect. Une salle qui te montre le carnet de maintenance, c'est rassurant."}
+    {
+      "q": "Faut-il un passeport pour utiliser l'autobelay ?",
+      "a": "En general non, l'autobelay ne necessite pas le passeport de la salle car il n'y a pas d'assurage manuel a maitriser. Une induction de 5 minutes a l'entree suffit. C'est l'avantage principal pour les debutants qui veulent grimper a la corde sans passer le test d'assurage."
+    },
+    {
+      "q": "Peut-on grimper en autobelay des l'age de 6 ans ?",
+      "a": "Oui, des 6 a 7 ans selon les salles, sous surveillance adulte. Les enfants legers descendent un peu plus lentement, ce qui est confortable. C'est l'outil ideal pour <a href=\"/blog/escalade-enfants-progression\">les enfants en progression</a> qui veulent grimper plus haut que les blocs sans assureur."
+    },
+    {
+      "q": "Y a-t-il un poids minimum et maximum ?",
+      "a": "La plupart des autobelay fonctionnent entre 18 et 130 kg. Au-dessus de 130 kg, le mecanisme peut etre depasse, c'est dangereux. En-dessous de 18 kg (tres petits enfants), la descente est trop lente. Les salles affichent les limites sur chaque dispositif, verifie avant d'utiliser."
+    },
+    {
+      "q": "Que faire si le mecanisme se bloque en haut ?",
+      "a": "Tres rare, mais possible. Tu restes calme, tu essaie de te rapprocher d'une voie voisine ou de te suspendre a une grosse prise. Tu appelles l'accueil. La salle a une procedure de descente d'urgence avec corde de secours. Ne te detache jamais en hauteur, ne saute pas. Attente la salle."
+    },
+    {
+      "q": "L'autobelay remplace-t-il un partenaire d'assurage ?",
+      "a": "Partiellement seulement. L'autobelay marche pour les voies verticales jusqu'a 15 metres. Pour les voies longues, en tete, sur des sequences traversantes, ou pour le grand mur, il faut un partenaire. L'autobelay est un complement, pas un remplacant. Apprends les deux : moulinette et autobelay, tu auras le panel complet."
+    },
+    {
+      "q": "Comment savoir si ma salle a des autobelay aux normes ?",
+      "a": "Toutes les salles agreees doivent avoir des dispositifs CE certifies. Demande a l'accueil les marques utilisees (TruBlue, Perfect Descent, etc.) et la frequence de revision. Une salle qui ne sait pas repondre, c'est suspect. Une salle qui te montre le carnet de maintenance, c'est rassurant."
+    }
   ],
   "cover_alt": "Une grimpeuse en bas d'une voie en salle d'escalade clipe un mousqueton bleu d'autobelay sur son baudrier rouge, prises colorees sur un mur blanc et sangle jaune visible jusqu'en haut",
   "internal_links": [
-    {"slug": "apprendre-escalade-debutant-2026", "anchor": "apprendre l'escalade en 2026", "context": "Pilier general"},
-    {"slug": "premiere-fois-salle-escalade", "anchor": "premiere fois en salle", "context": "Decouverte des dispositifs"},
-    {"slug": "lecture-voie-strategie", "anchor": "lecture de voie", "context": "Application en autobelay"},
-    {"slug": "chuter-en-grimpe-apprentissage", "anchor": "l'apprentissage de la chute", "context": "Therapie anti-vertige"},
-    {"slug": "grimper-en-tete-premiere-fois", "anchor": "premiere voie en tete", "context": "Etape suivante apres autobelay"},
-    {"slug": "escalade-enfants-progression", "anchor": "les enfants en progression", "context": "Usage adapte aux jeunes"}
+    {
+      "slug": "apprendre-escalade-debutant-2026",
+      "anchor": "apprendre l'escalade en 2026",
+      "context": "Pilier general"
+    },
+    {
+      "slug": "premiere-fois-salle-escalade",
+      "anchor": "premiere fois en salle",
+      "context": "Decouverte des dispositifs"
+    },
+    {
+      "slug": "lecture-voie-strategie",
+      "anchor": "lecture de voie",
+      "context": "Application en autobelay"
+    },
+    {
+      "slug": "chuter-en-grimpe-apprentissage",
+      "anchor": "l'apprentissage de la chute",
+      "context": "Therapie anti-vertige"
+    },
+    {
+      "slug": "grimper-en-tete-premiere-fois",
+      "anchor": "premiere voie en tete",
+      "context": "Etape suivante apres autobelay"
+    },
+    {
+      "slug": "escalade-enfants-progression",
+      "anchor": "les enfants en progression",
+      "context": "Usage adapte aux jeunes"
+    }
   ],
   "scheduled_at": "2026-06-25T09:00:00+02:00"
 }

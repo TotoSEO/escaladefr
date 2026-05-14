@@ -5,7 +5,7 @@
   "numero": 28,
   "title": "Dalle en escalade : techniques de precision et engagement",
   "h1": "Dalle en escalade, l'art de la precision et de l'engagement par Antoine",
-  "description": "Dalle escalade : adherence, placement de pieds, equilibre du bassin, gestion de la peur et travail mental pour grimper proprement sur du moins de 90 degres.",
+  "description": "Dalle escalade : adherence, placement de pieds, equilibre du bassin, gestion de la peur et travail mental pour grimper proprement sur du moins de 90...",
   "chapo": "La dalle te demande tout sauf de la force. Tu cherches la friction sous le chausson, le centrage du bassin, l'engagement quand la prise de main n'existe presque pas. Je raconte ici ce que treize ans de granite et de calcaire m'ont appris : pieds qui regardent la ligne, regard qui anticipe, respiration qui dose la peur.",
   "takeaways": [
     "La dalle se grimpe avec les pieds et la confiance, pas avec les bras tendus en traction.",
@@ -15,53 +15,194 @@
     "Respire en quatre temps pour calmer la peur de la coulisse sur dalle peu protegee."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Comprendre ce qu'est une vraie dalle"},
-    {"type": "p", "html": "Une dalle, c'est une <strong>paroi inclinee entre 70 et 90 degres</strong>, parfois meme un mur strictement vertical mais lisse. Tu reconnais la dalle a deux signes : peu de prises de main franches et beaucoup de pieds a chercher dans le grain du rocher. En salle, les enseignes <strong>Vertical'Art et Climb Up</strong> proposent souvent un pan dalle dedie, parfois decore en mode plaque texturee Petzl Coorock pour bosser l'adherence."},
-    {"type": "p", "html": "En falaise, le calcaire de <strong>Saffres</strong> en Cote-d'Or et le gres de <strong>Saussois</strong> dans l'Yonne offrent des dalles legendaires pour la France. Mon terrain de jeu favori reste le granite alsacien, avec des pieds qui pardonnent tres peu. La dalle te punit du moindre pied mal pose, mais elle te recompense quand tu lis correctement le mur. C'est une discipline d'humilite."},
-    {"type": "h2", "text": "Le travail des pieds, fondement absolu"},
-    {"type": "p", "html": "Sur dalle, le pied porte l'integralite du poids. Tu poses le chausson <strong>en gomme plate ou en pointe</strong>, selon la taille de la prise. Pour une prise inferieure a un centimetre, c'est la pointe avant. Pour un pied texture qui occupe deux centimetres ou plus, c'est la gomme a plat, qui maximise la surface de contact et donc la friction. Je vois souvent des grimpeurs en pointe tout le temps, c'est une erreur classique."},
-    {"type": "tip", "title": "L'astuce du chausson chaud", "body": "Avant une voie de dalle engagee, frotte tes chaussons l'un contre l'autre pendant dix secondes. La gomme tiede colle nettement mieux sur du calcaire propre. C'est un detail, mais sur une dalle de 7a, ce sont parfois les centimetres qui font la difference entre la chute et le clip.", "tone": "astuce"},
-    {"type": "p", "html": "La <a href=\"/blog/adherence-pieds-grimpe\">precision de pose</a> compte plus que la force. Regarde la prise, vise un point precis, pose, et surtout ne bouge plus. Beaucoup ripent parce qu'ils ajustent en cours de pose. Une fois le pied dessus, le bassin se centre, le poids descend, et la prise tient. Pour les chaussons, La Sportiva Mythos et Petzl Coorock restent des references chez les grimpeurs de dalle."},
-    {"type": "h2", "text": "Bassin, hanches, equilibre"},
-    {"type": "p", "html": "Le bassin commande tout en dalle. Quand tu charges un pied, le bassin part au-dessus de ce pied, jamais a cote. Si tu laisses le bassin en arriere, le pied se desolidarise du rocher et tu glisses. Ouvre les hanches face au mur quand tu progresses droit, ferme-les en demi-pas quand tu traverses lateralement. C'est le meme <a href=\"/blog/placement-corps-equilibre\">jeu de bassin</a> que sur un mur vertical, mais avec moins de marge."},
-    {"type": "p", "html": "Garde aussi les jambes legerement pliees, jamais en extension totale. Une jambe verrouillee bloque la replique du genou quand le pied ripe et provoque la chute. Cinq degres de flexion suffisent. Tu economises l'energie, tu encaisses les petits glissements, et tu reajustes vite."},
-    {"type": "h2", "text": "Les prises de main introuvables"},
-    {"type": "p", "html": "Sur dalle, les mains servent rarement a tirer. Elles equilibrent, elles cherchent une <strong>pince a deux doigts</strong>, parfois un sloper plat, souvent rien du tout sauf le mur lisse a contre-pousser. Tu apprends a faire confiance au pied bas, puis a monter le pied haut, puis a remonter la main qui suit. C'est l'inverse de la grimpe en devers ou la main tire et le pied accompagne."},
-    {"type": "list", "variant": "cards", "title": "Les quatre prises typiques en dalle", "items": [
-      {"title": "Pince a doigts", "body": "Deux ou trois doigts qui pincent un bossage de quelques millimetres. Tu pinces leger, juste pour l'equilibre, sans tirer fort."},
-      {"title": "Sloper plat", "body": "Une zone arrondie ou tu poses la paume entiere. Plus la peau est seche et chaude, mieux ca tient. Magnesie indispensable."},
-      {"title": "Reglette plate", "body": "Liste etroite qu'on attrape en arquee leger. Sur dalle, l'arquee ferme est rarement utile, tu restes en demi-arquee."},
-      {"title": "Pousse contre mur", "body": "Pas de prise, juste le mur lisse contre lequel tu pousses la paume pour stabiliser. Tres frequent sur le granit poli."}
-    ]},
-    {"type": "h2", "text": "L'engagement mental, vrai enjeu"},
-    {"type": "p", "html": "La dalle reste l'ecole de l'engagement. Sur 5+ ou 6a de dalle, tu peux te retrouver a deux metres au-dessus de la derniere degaine avec aucun bac pour te rassurer. La chute en dalle, c'est une <strong>glissade abrasion</strong> de plusieurs metres si tu derapes mal. Ca brule, ca laisse des marques, et ca fait peur tres vite. Je le sais, je me suis casse une cheville en 2018 sur une dalle de Saussois mal lue."},
-    {"type": "p", "html": "La cle, c'est de respirer en quatre temps : inspire deux secondes, bloque deux secondes, expire quatre secondes. Tu coupes le cerveau emotionnel, tu remets le cerveau technique en avant. Cette routine vient avec la pratique, je l'utilise sur toutes mes voies engagees depuis cinq ans. C'est le meme principe que sur un <a href=\"/blog/mental-grimpe-blocage\">passage mental bloqu</a> a tout niveau."},
-    {"type": "h2", "text": "Exercices pour progresser en dalle"},
-    {"type": "table", "caption": "Trois exercices pour gagner en confiance sur dalle", "headers": ["Exercice", "Duree", "Objectif"], "rows": [
-      ["Voies sans mains imaginaires", "20 min", "Poser tous les pieds avant de tirer une main, monter en regardant seulement le rocher"],
-      ["Pose-glisse volontaire", "15 min", "Poser un pied, glisser legerement, sentir la limite d'adherence, ajuster"],
-      ["Yaniro inverse sur 5c", "10 min", "Grimper en cherchant a tenir 5 secondes sur chaque pied avant de remonter"]
-    ]},
-    {"type": "p", "html": "Repete ces exercices pendant trois seances de salle avant ta prochaine sortie sur rocher. Tu sentiras vite la difference. Le travail sur la confiance dans le chausson reste la meilleure progression possible. Ce sont aussi des bases utiles avant une <a href=\"/blog/sortie-rocher-debutant\">premiere sortie en falaise</a> propre."},
-    {"type": "quote", "text": "Sur dalle, ton pire ennemi n'est pas la prise, c'est ta volonte de tirer plus fort.", "author": "Antoine", "role": "grimpeur en 8a falaise, 7b bloc"},
-    {"type": "h2", "text": "Spots francais pour pratiquer la dalle"},
-    {"type": "p", "html": "Pour bosser la dalle en exterieur, vise Saffres et Saussois en Bourgogne, le secteur des dalles aux Calanques de Cassis, le Verdon en aiguilles ouvertes, et surtout <strong>Aiglun</strong> dans les Alpes-Maritimes qui propose des dalles de calcaire blanc tres techniques. Le secteur fonctionne meme en hiver doux, c'est ideal entre novembre et mars. Renseigne-toi aupres du club FFME local avant d'y aller seul."}
+    {
+      "type": "h2",
+      "text": "Comprendre ce qu'est une vraie dalle"
+    },
+    {
+      "type": "p",
+      "html": "Une dalle, c'est une <strong>paroi inclinee entre 70 et 90 degres</strong>, parfois meme un mur strictement vertical mais lisse. Tu reconnais la dalle a deux signes : peu de prises de main franches et beaucoup de pieds a chercher dans le grain du rocher. En salle, les enseignes <strong>Vertical'Art et Climb Up</strong> proposent souvent un pan dalle dedie, parfois decore en mode plaque texturee Petzl Coorock pour bosser l'adherence."
+    },
+    {
+      "type": "p",
+      "html": "En falaise, le calcaire de <strong>Saffres</strong> en Cote-d'Or et le gres de <strong>Saussois</strong> dans l'Yonne offrent des dalles legendaires pour la France. Mon terrain de jeu favori reste le granite alsacien, avec des pieds qui pardonnent tres peu. La dalle te punit du moindre pied mal pose, mais elle te recompense quand tu lis correctement le mur. C'est une discipline d'humilite."
+    },
+    {
+      "type": "h2",
+      "text": "Le travail des pieds, fondement absolu"
+    },
+    {
+      "type": "p",
+      "html": "Sur dalle, le pied porte l'integralite du poids. Tu poses le chausson <strong>en gomme plate ou en pointe</strong>, selon la taille de la prise. Pour une prise inferieure a un centimetre, c'est la pointe avant. Pour un pied texture qui occupe deux centimetres ou plus, c'est la gomme a plat, qui maximise la surface de contact et donc la friction. Je vois souvent des grimpeurs en pointe tout le temps, c'est une erreur classique."
+    },
+    {
+      "type": "tip",
+      "title": "L'astuce du chausson chaud",
+      "body": "Avant une voie de dalle engagee, frotte tes chaussons l'un contre l'autre pendant dix secondes. La gomme tiede colle nettement mieux sur du calcaire propre. C'est un detail, mais sur une dalle de 7a, ce sont parfois les centimetres qui font la difference entre la chute et le clip.",
+      "tone": "astuce"
+    },
+    {
+      "type": "p",
+      "html": "La <a href=\"/blog/adherence-pieds-grimpe\">precision de pose</a> compte plus que la force. Regarde la prise, vise un point precis, pose, et surtout ne bouge plus. Beaucoup ripent parce qu'ils ajustent en cours de pose. Une fois le pied dessus, le bassin se centre, le poids descend, et la prise tient. Pour les chaussons, La Sportiva Mythos et Petzl Coorock restent des references chez les grimpeurs de dalle."
+    },
+    {
+      "type": "h2",
+      "text": "Bassin, hanches, equilibre"
+    },
+    {
+      "type": "p",
+      "html": "Le bassin commande tout en dalle. Quand tu charges un pied, le bassin part au-dessus de ce pied, jamais a cote. Si tu laisses le bassin en arriere, le pied se desolidarise du rocher et tu glisses. Ouvre les hanches face au mur quand tu progresses droit, ferme-les en demi-pas quand tu traverses lateralement. C'est le meme <a href=\"/blog/placement-corps-equilibre\">jeu de bassin</a> que sur un mur vertical, mais avec moins de marge."
+    },
+    {
+      "type": "p",
+      "html": "Garde aussi les jambes legerement pliees, jamais en extension totale. Une jambe verrouillee bloque la replique du genou quand le pied ripe et provoque la chute. Cinq degres de flexion suffisent. Tu economises l'energie, tu encaisses les petits glissements, et tu reajustes vite."
+    },
+    {
+      "type": "h2",
+      "text": "Les prises de main introuvables"
+    },
+    {
+      "type": "p",
+      "html": "Sur dalle, les mains servent rarement a tirer. Elles equilibrent, elles cherchent une <strong>pince a deux doigts</strong>, parfois un sloper plat, souvent rien du tout sauf le mur lisse a contre-pousser. Tu apprends a faire confiance au pied bas, puis a monter le pied haut, puis a remonter la main qui suit. C'est l'inverse de la grimpe en devers ou la main tire et le pied accompagne."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Les quatre prises typiques en dalle",
+      "items": [
+        {
+          "title": "Pince a doigts",
+          "body": "Deux ou trois doigts qui pincent un bossage de quelques millimetres. Tu pinces leger, juste pour l'equilibre, sans tirer fort."
+        },
+        {
+          "title": "Sloper plat",
+          "body": "Une zone arrondie ou tu poses la paume entiere. Plus la peau est seche et chaude, mieux ca tient. Magnesie indispensable."
+        },
+        {
+          "title": "Reglette plate",
+          "body": "Liste etroite qu'on attrape en arquee leger. Sur dalle, l'arquee ferme est rarement utile, tu restes en demi-arquee."
+        },
+        {
+          "title": "Pousse contre mur",
+          "body": "Pas de prise, juste le mur lisse contre lequel tu pousses la paume pour stabiliser. Tres frequent sur le granit poli."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "L'engagement mental, vrai enjeu"
+    },
+    {
+      "type": "p",
+      "html": "La dalle reste l'ecole de l'engagement. Sur 5+ ou 6a de dalle, tu peux te retrouver a deux metres au-dessus de la derniere degaine avec aucun bac pour te rassurer. La chute en dalle, c'est une <strong>glissade abrasion</strong> de plusieurs metres si tu derapes mal. Ca brule, ca laisse des marques, et ca fait peur tres vite. Je le sais, je me suis casse une cheville en 2018 sur une dalle de Saussois mal lue."
+    },
+    {
+      "type": "p",
+      "html": "La cle, c'est de respirer en quatre temps : inspire deux secondes, bloque deux secondes, expire quatre secondes. Tu coupes le cerveau emotionnel, tu remets le cerveau technique en avant. Cette routine vient avec la pratique, je l'utilise sur toutes mes voies engagees depuis cinq ans. C'est le meme principe que sur un <a href=\"/blog/mental-grimpe-blocage\">passage mental bloqu</a> a tout niveau."
+    },
+    {
+      "type": "h2",
+      "text": "Exercices pour progresser en dalle"
+    },
+    {
+      "type": "table",
+      "caption": "Trois exercices pour gagner en confiance sur dalle",
+      "headers": [
+        "Exercice",
+        "Duree",
+        "Objectif"
+      ],
+      "rows": [
+        [
+          "Voies sans mains imaginaires",
+          "20 min",
+          "Poser tous les pieds avant de tirer une main, monter en regardant seulement le rocher"
+        ],
+        [
+          "Pose-glisse volontaire",
+          "15 min",
+          "Poser un pied, glisser legerement, sentir la limite d'adherence, ajuster"
+        ],
+        [
+          "Yaniro inverse sur 5c",
+          "10 min",
+          "Grimper en cherchant a tenir 5 secondes sur chaque pied avant de remonter"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "html": "Repete ces exercices pendant trois seances de salle avant ta prochaine sortie sur rocher. Tu sentiras vite la difference. Le travail sur la confiance dans le chausson reste la meilleure progression possible. Ce sont aussi des bases utiles avant une <a href=\"/blog/sortie-rocher-debutant\">premiere sortie en falaise</a> propre."
+    },
+    {
+      "type": "quote",
+      "text": "Sur dalle, ton pire ennemi n'est pas la prise, c'est ta volonte de tirer plus fort.",
+      "author": "Antoine",
+      "role": "grimpeur en 8a falaise, 7b bloc"
+    },
+    {
+      "type": "h2",
+      "text": "Spots francais pour pratiquer la dalle"
+    },
+    {
+      "type": "p",
+      "html": "Pour bosser la dalle en exterieur, vise Saffres et Saussois en Bourgogne, le secteur des dalles aux Calanques de Cassis, le Verdon en aiguilles ouvertes, et surtout <strong>Aiglun</strong> dans les Alpes-Maritimes qui propose des dalles de calcaire blanc tres techniques. Le secteur fonctionne meme en hiver doux, c'est ideal entre novembre et mars. Renseigne-toi aupres du club FFME local avant d'y aller seul."
+    }
   ],
   "faq": [
-    {"q": "Quel chausson choisir pour grimper en dalle ?", "a": "Vise un chausson souple avec gomme plate, comme La Sportiva Mythos ou Petzl Coorock. Evite les chaussons agressifs cambres pour le devers, ils te font ripper sur la dalle parce que la pointe ne pose qu'une zone minimale. Un chausson un peu plat avec gomme tendre reste le bon compromis."},
-    {"q": "Comment ne pas avoir peur en dalle engagee ?", "a": "La peur en dalle vient du vide entre toi et la derniere degaine. Reduis cette distance en clippant tot, etudie la voie au sol avant de partir, et entraine-toi a chuter volontairement sur des passages proteges en salle. Plus tu chutes en controle, moins la peur te paralyse en falaise."},
-    {"q": "Faut-il vraiment grimper sans tirer aux bras en dalle ?", "a": "Pas vraiment. Tu utilises les mains pour l'equilibre et pour des micro-tractions sur pince et arquee. Mais la masse du corps reste portee par les pieds. Si tu te retrouves bras tendus en suspension, c'est que tu as rate ton pied ou ton placement de bassin."},
-    {"q": "Quelle difference entre une dalle en salle et en falaise ?", "a": "La salle te propose des prises identifiees, donc tu sais ou poser. En falaise, tu cherches les pieds dans le grain du rocher, sans marquage. C'est ce qui rend la dalle exterieure plus exigeante, mais aussi plus formatrice pour les yeux et le sens du toucher."},
-    {"q": "A partir de quel niveau aborder la dalle serieusement ?", "a": "Des le 5a en salle, tu peux travailler tes pieds sur dalle. Au-dessus de 6a, la dalle devient un terrain de jeu serieux. Beaucoup de grimpeurs qui plafonnent en 6c-7a en dalle alors qu'ils sont a l'aise en 7b en devers, parce que les qualites mobilisees ne sont pas les memes."}
+    {
+      "q": "Quel chausson choisir pour grimper en dalle ?",
+      "a": "Vise un chausson souple avec gomme plate, comme La Sportiva Mythos ou Petzl Coorock. Evite les chaussons agressifs cambres pour le devers, ils te font ripper sur la dalle parce que la pointe ne pose qu'une zone minimale. Un chausson un peu plat avec gomme tendre reste le bon compromis."
+    },
+    {
+      "q": "Comment ne pas avoir peur en dalle engagee ?",
+      "a": "La peur en dalle vient du vide entre toi et la derniere degaine. Reduis cette distance en clippant tot, etudie la voie au sol avant de partir, et entraine-toi a chuter volontairement sur des passages proteges en salle. Plus tu chutes en controle, moins la peur te paralyse en falaise."
+    },
+    {
+      "q": "Faut-il vraiment grimper sans tirer aux bras en dalle ?",
+      "a": "Pas vraiment. Tu utilises les mains pour l'equilibre et pour des micro-tractions sur pince et arquee. Mais la masse du corps reste portee par les pieds. Si tu te retrouves bras tendus en suspension, c'est que tu as rate ton pied ou ton placement de bassin."
+    },
+    {
+      "q": "Quelle difference entre une dalle en salle et en falaise ?",
+      "a": "La salle te propose des prises identifiees, donc tu sais ou poser. En falaise, tu cherches les pieds dans le grain du rocher, sans marquage. C'est ce qui rend la dalle exterieure plus exigeante, mais aussi plus formatrice pour les yeux et le sens du toucher."
+    },
+    {
+      "q": "A partir de quel niveau aborder la dalle serieusement ?",
+      "a": "Des le 5a en salle, tu peux travailler tes pieds sur dalle. Au-dessus de 6a, la dalle devient un terrain de jeu serieux. Beaucoup de grimpeurs qui plafonnent en 6c-7a en dalle alors qu'ils sont a l'aise en 7b en devers, parce que les qualites mobilisees ne sont pas les memes."
+    }
   ],
   "cover_alt": "Un grimpeur en chausson rouge pose la pointe sur une micro-prise de granite gris sur une dalle quasi verticale ensoleillee, bassin centre au-dessus du pied",
   "internal_links": [
-    {"slug": "apprendre-escalade-debutant-2026", "anchor": "apprendre l'escalade en 2026", "context": "Pilier general"},
-    {"slug": "adherence-pieds-grimpe", "anchor": "precision de pose", "context": "Lien direct technique pieds"},
-    {"slug": "placement-corps-equilibre", "anchor": "jeu de bassin", "context": "Lien transverse placement"},
-    {"slug": "mental-grimpe-blocage", "anchor": "passage mental bloqu", "context": "Lien mental"},
-    {"slug": "sortie-rocher-debutant", "anchor": "premiere sortie en falaise", "context": "Lien rocher"},
-    {"slug": "devers-techniques-puissance", "anchor": "grimpe en devers", "context": "Opposition pedagogique"}
+    {
+      "slug": "apprendre-escalade-debutant-2026",
+      "anchor": "apprendre l'escalade en 2026",
+      "context": "Pilier general"
+    },
+    {
+      "slug": "adherence-pieds-grimpe",
+      "anchor": "precision de pose",
+      "context": "Lien direct technique pieds"
+    },
+    {
+      "slug": "placement-corps-equilibre",
+      "anchor": "jeu de bassin",
+      "context": "Lien transverse placement"
+    },
+    {
+      "slug": "mental-grimpe-blocage",
+      "anchor": "passage mental bloqu",
+      "context": "Lien mental"
+    },
+    {
+      "slug": "sortie-rocher-debutant",
+      "anchor": "premiere sortie en falaise",
+      "context": "Lien rocher"
+    },
+    {
+      "slug": "devers-techniques-puissance",
+      "anchor": "grimpe en devers",
+      "context": "Opposition pedagogique"
+    }
   ],
   "scheduled_at": "2026-07-07T09:00:00+02:00"
 }

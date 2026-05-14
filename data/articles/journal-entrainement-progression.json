@@ -41,11 +41,11 @@
     },
     {
       "type": "p",
-      "html": "Le numérique facilite l'analyse rétroactive et le partage avec un coach. Plusieurs applications spécialisées existent : <strong>Crimpd</strong> pour la grimpe, <strong>Lattice Training</strong> pour les protocoles structurés, ou des outils généraux comme Notion ou Apple Notes. Crimpd intègre un suivi des séances poutre et bloc avec timer intégré, c'est pratique pour les protocoles complexes."
+      "html": "Le numérique facilite l'analyse rétroactive et le partage avec un coach. Plusieurs applications spécialisées existent : <strong>Crimpd</strong> pour la grimpe, <strong>Lattice Training</strong> pour les protocoles structurés, ou des outils généraux comme Notion ou Apple Notes. Crimpd intègre un suivi des séances <strong>poutre</strong> et bloc avec timer intégré, c'est pratique pour les protocoles complexes."
     },
     {
       "type": "p",
-      "html": "Mon choix personnel mélange les deux. Un carnet papier pour le ressenti et les notes qualitatives, une feuille Notion pour les données chiffrées sur le hangboard et les voies enchaînées. Cette double approche prend cinq minutes par séance et offre le meilleur des deux mondes. Choisis ce qui te correspond, le pire choix serait de ne rien noter."
+      "html": "Mon choix personnel mélange les deux. Un carnet papier pour le ressenti et les notes qualitatives, une feuille Notion pour les données chiffrées sur le <strong>hangboard</strong> et les voies enchaînées. Cette double approche prend cinq minutes par séance et offre le meilleur des deux mondes. Choisis ce qui te correspond, le pire choix serait de ne rien noter."
     },
     {
       "type": "h2",

@@ -29,7 +29,7 @@
     },
     {
       "type": "p",
-      "html": "Le caractère unique de la Restonica tient à son altitude et à son isolement. Tu grimpes à 2 000 mètres face à des paysages qui n'évoquent pas la Corse classique : pas de plage, pas de garrigue, pas d'oliviers. Plutôt des moraines, des couloirs neigeux jusqu'en juin, des plaques de granite poli par les glaciers. La rudesse de la nature et la qualité du rocher en font une destination parmi les plus appréciées des grimpeurs corses connaisseurs."
+      "html": "Le caractère unique de la Restonica tient à son altitude et à son isolement. Tu grimpes à 2 000 mètres face à des paysages qui n'évoquent pas la Corse classique : pas de plage, pas de garrigue, pas d'oliviers. Plutôt des moraines, des couloirs neigeux jusqu'en juin, des plaques de <strong>granite</strong> poli par les glaciers. La rudesse de la nature et la qualité du rocher en font une destination parmi les plus appréciées des grimpeurs corses connaisseurs."
     },
     {
       "type": "h2",
@@ -37,7 +37,7 @@
     },
     {
       "type": "p",
-      "html": "Le massif central corse est constitué d'un complexe granitique alcalin et magmatique daté du Permien, comme à Bavella mais avec une histoire glaciaire plus marquée. L'érosion des derniers glaciers, jusqu'à 10 000 ans avant notre ère, a sculpté des cirques, des arêtes effilées et des dalles polies. Le granite y est moins roux qu'à Bavella, plus gris, parfois bleuté selon l'éclairage et la composition minérale locale."
+      "html": "Le massif central corse est constitué d'un complexe granitique alcalin et magmatique daté du Permien, comme à Bavella mais avec une histoire glaciaire plus marquée. L'érosion des derniers glaciers, jusqu'à 10 000 ans avant notre ère, a sculpté des cirques, des arêtes effilées et des dalles polies. Le <strong>granite</strong> y est moins roux qu'à Bavella, plus gris, parfois bleuté selon l'éclairage et la composition minérale locale."
     },
     {
       "type": "p",
@@ -46,16 +46,43 @@
     {
       "type": "table",
       "caption": "Fiche d'identité de la Restonica",
-      "headers": ["Critère", "Détail"],
+      "headers": [
+        "Critère",
+        "Détail"
+      ],
       "rows": [
-        ["Localisation", "Val di Restonica, Haute-Corse (2B)"],
-        ["Altitude max", "2 622 mètres au Monte Rotondo"],
-        ["Type de rocher", "Granite alcalin, dalles et fissures"],
-        ["Discipline", "Alpinisme rocheux, grande voie haute montagne"],
-        ["Cotations", "Du PD au TD, majorité AD à D"],
-        ["Période idéale", "Juin à septembre"],
-        ["Accès", "Corte par la D623, parking Grotelle payant"],
-        ["Approche", "1 à 3 heures depuis la bergerie selon l'objectif"]
+        [
+          "Localisation",
+          "Val di Restonica, Haute-Corse (2B)"
+        ],
+        [
+          "Altitude max",
+          "2 622 mètres au Monte Rotondo"
+        ],
+        [
+          "Type de rocher",
+          "Granite alcalin, dalles et fissures"
+        ],
+        [
+          "Discipline",
+          "Alpinisme rocheux, grande voie haute montagne"
+        ],
+        [
+          "Cotations",
+          "Du PD au TD, majorité AD à D"
+        ],
+        [
+          "Période idéale",
+          "Juin à septembre"
+        ],
+        [
+          "Accès",
+          "Corte par la D623, parking Grotelle payant"
+        ],
+        [
+          "Approche",
+          "1 à 3 heures depuis la bergerie selon l'objectif"
+        ]
       ]
     },
     {
@@ -87,12 +114,30 @@
       "variant": "bullets",
       "title": "Courses principales en Restonica",
       "items": [
-        {"title": "Monte Rotondo arête est", "body": "AD, course classique, panorama exceptionnel sur la Corse."},
-        {"title": "Punta alle Porte sud", "body": "D, 200 mètres, idéal pour découvrir le granite alpin."},
-        {"title": "Voies dalles lac Melo", "body": "Voies courtes équipées, 5 à 7a, cadre lacustre magique."},
-        {"title": "Couloirs Capitello", "body": "PD à AD, terrain mixte au printemps, randonnée alpine."},
-        {"title": "Arête Monte d'Oro", "body": "TD sup, traversée longue, course d'envergure 8-10 h."},
-        {"title": "Aiguille de Trifaglietto", "body": "AD, sommet secondaire accessible depuis Grotelle."}
+        {
+          "title": "Monte Rotondo arête est",
+          "body": "AD, course classique, panorama exceptionnel sur la Corse."
+        },
+        {
+          "title": "Punta alle Porte sud",
+          "body": "D, 200 mètres, idéal pour découvrir le granite alpin."
+        },
+        {
+          "title": "Voies dalles lac Melo",
+          "body": "Voies courtes équipées, 5 à 7a, cadre lacustre magique."
+        },
+        {
+          "title": "Couloirs Capitello",
+          "body": "PD à AD, terrain mixte au printemps, randonnée alpine."
+        },
+        {
+          "title": "Arête Monte d'Oro",
+          "body": "TD sup, traversée longue, course d'envergure 8-10 h."
+        },
+        {
+          "title": "Aiguille de Trifaglietto",
+          "body": "AD, sommet secondaire accessible depuis Grotelle."
+        }
       ]
     },
     {
@@ -162,10 +207,26 @@
   ],
   "cover_alt": "Lacs glaciaires et granite alpin dans le val Restonica en Haute-Corse",
   "internal_links": [
-    {"slug": "corse-bavella-aiguilles", "anchor": "le guide complémentaire sur Bavella", "context": "Autre site corse à enchaîner"},
-    {"slug": "sites-escalade-emblematiques-france", "anchor": "notre panorama des sites français", "context": "Pilier du cocon"},
-    {"slug": "aiguille-midi-chamonix-haute", "anchor": "le guide de l'Aiguille du Midi", "context": "Autre haute altitude française"},
-    {"slug": "dent-crolles-chartreuse", "anchor": "la Dent de Crolles", "context": "Autre sommet emblématique"}
+    {
+      "slug": "corse-bavella-aiguilles",
+      "anchor": "le guide complémentaire sur Bavella",
+      "context": "Autre site corse à enchaîner"
+    },
+    {
+      "slug": "sites-escalade-emblematiques-france",
+      "anchor": "notre panorama des sites français",
+      "context": "Pilier du cocon"
+    },
+    {
+      "slug": "aiguille-midi-chamonix-haute",
+      "anchor": "le guide de l'Aiguille du Midi",
+      "context": "Autre haute altitude française"
+    },
+    {
+      "slug": "dent-crolles-chartreuse",
+      "anchor": "la Dent de Crolles",
+      "context": "Autre sommet emblématique"
+    }
   ],
   "scheduled_at": "2026-12-17T09:00:00+01:00"
 }

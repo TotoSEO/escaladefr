@@ -3,7 +3,7 @@
   "cocon": "sites",
   "type_article": "guide",
   "numero": 96,
-  "title": "Annot : grès roses des Alpes-de-Haute-Provence",
+  "title": "Annot : grès roses et bloc dans les Alpes-de-Haute-Provence",
   "h1": "Annot, grès roses dans les Alpes-de-Haute-Provence.",
   "description": "Guide complet d'Annot : grès rose tendre, blocs, voies courtes, gardienne forestière et conseils saison pour grimper dans ce site unique.",
   "chapo": "Annot, c'est l'autre visage de l'escalade dans les Alpes-de-Haute-Provence. Loin du calcaire dominant, ce sont des blocs de grès rose tendre posés en forêt, sculptés par l'érosion en formes étranges. Je prévois d'y passer plusieurs jours au printemps prochain. Tu trouveras ici les secteurs, les voies, l'accès et tout ce qui fait le charme particulier de ce coin oublié.",
@@ -29,7 +29,7 @@
     },
     {
       "type": "p",
-      "html": "Annot reste relativement confidentielle malgré son ancienneté. Le grès tendre exige des règles strictes pour préserver la roche, et les locaux veillent au grain. Cette discrétion a préservé un cadre unique en France. Tu ne croises pas les cordées qui font la queue comme dans le Verdon ou à Buoux. Ici, l'ambiance reste celle d'une initiation chuchotée, où chaque visiteur entre dans un cercle qui se transmet par bouche-à-oreille."
+      "html": "Annot reste relativement confidentielle malgré son ancienneté. Le grès tendre exige des règles strictes pour préserver la roche, et les locaux veillent au grain. Cette discrétion a préservé un cadre unique en France. Tu ne croises pas les <strong>cordée</strong>s qui font la queue comme dans le <strong>Verdon</strong> ou à Buoux. Ici, l'ambiance reste celle d'une initiation chuchotée, où chaque visiteur entre dans un cercle qui se transmet par bouche-à-oreille."
     },
     {
       "type": "h2",
@@ -37,7 +37,7 @@
     },
     {
       "type": "p",
-      "html": "Le grès d'Annot s'est formé il y a environ 35 millions d'années, à l'Éocène, dans un environnement de delta sous-marin profond. Des courants de turbidité ont déposé des sables qui se sont consolidés en cette roche caractéristique. La couleur rose vient des oxydes de fer présents dans la matrice silicieuse. Cette roche se distingue par sa texture granuleuse, qui rappelle Fontainebleau, mais avec des grains plus gros et plus rugueux."
+      "html": "Le grès d'Annot s'est formé il y a environ 35 millions d'années, à l'Éocène, dans un environnement de delta sous-marin profond. Des courants de turbidité ont déposé des sables qui se sont consolidés en cette roche caractéristique. La couleur rose vient des oxydes de fer présents dans la matrice silicieuse. Cette roche se distingue par sa texture granuleuse, qui rappelle <strong>Fontainebleau</strong>, mais avec des grains plus gros et plus rugueux."
     },
     {
       "type": "p",
@@ -46,16 +46,43 @@
     {
       "type": "table",
       "caption": "Fiche d'identité d'Annot",
-      "headers": ["Critère", "Détail"],
+      "headers": [
+        "Critère",
+        "Détail"
+      ],
       "rows": [
-        ["Localisation", "Annot, Alpes-de-Haute-Provence (04)"],
-        ["Altitude site", "700 à 1 100 mètres"],
-        ["Type de rocher", "Grès rose tendre, formation des Grès d'Annot"],
-        ["Discipline principale", "Blocs et voies courtes équipées"],
-        ["Cotations", "Du 3 au 8a, majorité 5 à 7"],
-        ["Période idéale", "Mars à novembre, ombre l'été"],
-        ["Accès", "Annot village, parking forestier balisé"],
-        ["Statut", "Réserve Naturelle Régionale, règles strictes"]
+        [
+          "Localisation",
+          "Annot, Alpes-de-Haute-Provence (04)"
+        ],
+        [
+          "Altitude site",
+          "700 à 1 100 mètres"
+        ],
+        [
+          "Type de rocher",
+          "Grès rose tendre, formation des Grès d'Annot"
+        ],
+        [
+          "Discipline principale",
+          "Blocs et voies courtes équipées"
+        ],
+        [
+          "Cotations",
+          "Du 3 au 8a, majorité 5 à 7"
+        ],
+        [
+          "Période idéale",
+          "Mars à novembre, ombre l'été"
+        ],
+        [
+          "Accès",
+          "Annot village, parking forestier balisé"
+        ],
+        [
+          "Statut",
+          "Réserve Naturelle Régionale, règles strictes"
+        ]
       ]
     },
     {
@@ -87,12 +114,30 @@
       "variant": "bullets",
       "title": "Les secteurs à connaître à Annot",
       "items": [
-        {"title": "Les Grès", "body": "Zone de blocs historique, forêt magique, du 4 au 7c."},
-        {"title": "Le Baou", "body": "Blocs et voies courtes au-dessus du village, ambiance aérienne."},
-        {"title": "La Vière", "body": "Secteur sauvage, blocs dispersés, moins fréquenté."},
-        {"title": "Voies du Vallon", "body": "Voies équipées de 10 à 25 mètres, cotations 5 à 7."},
-        {"title": "Bloc du Champignon", "body": "Bloc emblématique, plusieurs passages en circuit balisé."},
-        {"title": "Secteur école", "body": "Initiation parfaite, blocs bas faciles pour débuter."}
+        {
+          "title": "Les Grès",
+          "body": "Zone de blocs historique, forêt magique, du 4 au 7c."
+        },
+        {
+          "title": "Le Baou",
+          "body": "Blocs et voies courtes au-dessus du village, ambiance aérienne."
+        },
+        {
+          "title": "La Vière",
+          "body": "Secteur sauvage, blocs dispersés, moins fréquenté."
+        },
+        {
+          "title": "Voies du Vallon",
+          "body": "Voies équipées de 10 à 25 mètres, cotations 5 à 7."
+        },
+        {
+          "title": "Bloc du Champignon",
+          "body": "Bloc emblématique, plusieurs passages en circuit balisé."
+        },
+        {
+          "title": "Secteur école",
+          "body": "Initiation parfaite, blocs bas faciles pour débuter."
+        }
       ]
     },
     {
@@ -162,10 +207,26 @@
   ],
   "cover_alt": "Blocs de grès rose d'Annot dans la forêt des Alpes-de-Haute-Provence",
   "internal_links": [
-    {"slug": "sites-escalade-emblematiques-france", "anchor": "notre tour des sites français", "context": "Pilier du cocon"},
-    {"slug": "saint-leger-du-ventoux-escalade", "anchor": "le guide de Saint-Léger-du-Ventoux", "context": "Site provençal connexe"},
-    {"slug": "aiglun-prealpes-azur", "anchor": "Aiglun dans les Préalpes d'Azur", "context": "Site régional contrastant"},
-    {"slug": "dent-crolles-chartreuse", "anchor": "la Dent de Crolles", "context": "Autre site alpin emblématique"}
+    {
+      "slug": "sites-escalade-emblematiques-france",
+      "anchor": "notre tour des sites français",
+      "context": "Pilier du cocon"
+    },
+    {
+      "slug": "saint-leger-du-ventoux-escalade",
+      "anchor": "le guide de Saint-Léger-du-Ventoux",
+      "context": "Site provençal connexe"
+    },
+    {
+      "slug": "aiglun-prealpes-azur",
+      "anchor": "Aiglun dans les Préalpes d'Azur",
+      "context": "Site régional contrastant"
+    },
+    {
+      "slug": "dent-crolles-chartreuse",
+      "anchor": "la Dent de Crolles",
+      "context": "Autre site alpin emblématique"
+    }
   ],
   "scheduled_at": "2026-12-12T09:00:00+01:00"
 }

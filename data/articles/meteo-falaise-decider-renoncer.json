@@ -15,68 +15,259 @@
     "Renoncer en bas de la voie reste toujours moins coûteux qu'en pleine paroi."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Les sources météo fiables à consulter"},
-    {"type": "p", "html": "Pour lire la météo en falaise, tu croises plusieurs **sources de prévision**. **Météo France** reste la référence officielle, avec des bulletins de massif détaillés pour les zones de montagne. **Windy** offre une visualisation cartographique des vents et précipitations très lisible. **Météo Blue** donne des prévisions à 10 jours plus locales que Météo France. Aucune source seule n'est infaillible, le croisement reste le meilleur indicateur."},
-    {"type": "p", "html": "Tu consultes les prévisions **la veille au soir** et tu les confirmes **le matin du départ**. Une situation météo en montagne évolue rapidement, surtout au printemps et à l'automne. Les modèles à 24h sont fiables, ceux à 48h corrects, ceux à 72h indicatifs. Au delà, c'est de la tendance. Pour les sites alpins, tu peux aussi appeler le **bulletin neige et avalanche** ou consulter le site d'un refuge proche pour avoir une info terrain."},
-    {"type": "list", "variant": "cards", "title": "Les paramètres clés à surveiller", "items": [
-      {"title": "Vent", "body": "Vitesse moyenne et rafales. Au delà de 40-50 km/h en rafales, l'escalade devient inconfortable et la communication difficile."},
-      {"title": "Précipitations", "body": "Probabilité, intensité, durée. Une pluie nocturne peut laisser la roche humide pendant 24 à 48 heures selon l'exposition."},
-      {"title": "Température", "body": "Trop chaud, les chaussons fondent et les prises savonnent. Trop froid, les doigts ne sentent plus rien et le risque d'engelures monte."},
-      {"title": "Point de rosée", "body": "Indique l'humidité de l'air. Quand le point de rosée s'approche de la température, la condensation se dépose sur la roche."},
-      {"title": "Orage", "body": "Activité électrique prévue. En montagne, un orage estival peut éclater en moins d'une heure sans signal préalable au sol."}
-    ]},
-    {"type": "h2", "text": "La pluie et la roche humide"},
-    {"type": "p", "html": "Une **falaise calcaire** mouillée la veille au soir reste mouillée toute la journée suivante, surtout sur les voies en dévers. Le calcaire absorbe l'eau dans sa porosité, restitue l'humidité par évaporation lente, et l'adhérence sur les prises chute drastiquement. Le **granite** sèche plus vite mais reste glissant tant qu'il est humide. Le **grès** reste fragile mouillé et peut casser sous une charge même modérée, jamais grimper sur du grès humide."},
-    {"type": "p", "html": "Le timing entre la fin de la pluie et l'escalade dépend de l'exposition. Une falaise sud bien aérée sèche en deux à quatre heures. Une falaise nord en forêt peut rester humide deux jours après l'épisode pluvieux. Tu peux relier ce critère à <a href=\"/blog/accidents-escalade-statistiques\">notre dossier sur les statistiques d'accidents en escalade</a>, l'humidité étant un facteur fréquent de chute imprévue."},
-    {"type": "h2", "text": "Le vent, ce facteur sous estimé"},
-    {"type": "p", "html": "Le **vent** au dessus de 30 km/h commence à perturber l'escalade. À 40 km/h, la communication grimpeur assureur devient difficile, on ne s'entend plus, on improvise des signaux. À 50 km/h en rafales, le balancement de la corde, le froid ressenti et la fatigue mentale s'additionnent. Au delà de 60 km/h, l'escalade en falaise sportive devient déconseillée, et en grande voie elle devient dangereuse."},
-    {"type": "p", "html": "Le vent change aussi la **sensation de température**. Le facteur vent froid (windchill) peut faire perdre 10 à 15 degrés ressentis sur un mur exposé. Une journée à 12 degrés avec 50 km/h de vent ressemble à 0 degré pour les doigts engourdis. Pour les voies engagées, c'est un critère de non engagement à part entière, même si la prévision pluie est correcte."},
-    {"type": "tip", "title": "Le piège du vent local", "body": "Certaines falaises créent leur propre microclimat. La face nord du Cirque d'Annot est ventée par un courant froid descendant alors que la base est tranquille. Tu peux te retrouver au relais final avec 30 km/h de plus qu'au parking. Renseigne toi sur la spécificité du site avant de t'engager.", "tone": "attention"},
-    {"type": "h2", "text": "Température et adhérence des chaussons"},
-    {"type": "p", "html": "La **température idéale** pour grimper en performance se situe entre 8 et 15 degrés, avec une roche fraîche et un air sec. Au delà de 20 degrés, le caoutchouc des chaussons mollit, les prises savonnent, la transpiration des doigts annule la magnésie. En dessous de 5 degrés, les tendons se rigidifient, les doigts perdent en finesse, le risque de tendinite explose."},
-    {"type": "p", "html": "Pour les sites exposés au soleil, l'orientation change tout. Une **falaise plein sud** en été reste invivable jusqu'à 17h. Une **falaise nord** en hiver reste glaciale toute la journée. Tu adaptes ton choix de site à la saison, en suivant la règle simple : sud en hiver, nord en été, est ou ouest en demi saison. Cette logique guide toute l'escalade française et explique pourquoi certains sites se vident à certaines périodes."},
-    {"type": "h2", "text": "Le point de rosée, indicateur méconnu"},
-    {"type": "p", "html": "Le **point de rosée** est la température à laquelle l'air sature en humidité et la rosée se forme. Quand le point de rosée s'approche de la température réelle (écart inférieur à 2-3 degrés), la roche se couvre de condensation invisible. Les prises deviennent grasses sans que ça se voie. Tu glisses, et tu ne comprends pas pourquoi."},
-    {"type": "p", "html": "Windy affiche le point de rosée dans ses paramètres avancés. La règle pratique : si le point de rosée est dans les 3 degrés sous la température, la roche est probablement condensée. Si l'écart dépasse 5 degrés, conditions sèches et adhérence optimale. C'est un critère que les grimpeurs de haut niveau intègrent systématiquement à leur préparation, et qui change la perception des journées dites moyennes."},
-    {"type": "h2", "text": "L'orage en montagne, danger numéro un"},
-    {"type": "p", "html": "L'**orage en montagne** se déclenche en moins d'une heure pendant l'été, souvent sans signal préalable visible depuis la vallée. Les sommets se chargent en électricité, la foudre frappe les arêtes, les ferrures, les relais métalliques. Un grimpeur encordé sur une plaquette est une cible parfaite. Le risque ne tolère aucun à peu près."},
-    {"type": "p", "html": "Tu consultes les prévisions d'**activité orageuse** (sites comme Météociel ou Lightning Maps) avant chaque sortie estivale. Tu pars tôt pour grimper le matin et redescendre avant 14h, heure de déclenchement classique. Si l'orage menace, tu **redescends immédiatement** en grande voie, tu ne termines pas la dernière longueur. Tu peux relire <a href=\"/blog/securite-escalade-regles-essentielles\">notre pilier sur les règles essentielles de sécurité</a> qui rappelle la priorité absolue de la décision de retraite."},
-    {"type": "tip", "title": "Mon souvenir d'orage", "body": "À Céüse en juillet 2023, on avait engagé une grande voie à 9h sous un ciel bleu. À 13h, des cumulus arrivaient de l'ouest. On a écourté, descendu en rappel, atteint le parking à 14h30 quand le premier coup de tonnerre a retenti. Vingt minutes plus tard, déluge complet et grêle. On avait suivi la prévision, on avait écouté les signaux. Sans ça, on était piégés sur la voie.", "tone": "astuce"},
-    {"type": "h2", "text": "Critères de go ou no go avant départ"},
-    {"type": "table", "caption": "Grille de décision avant de partir grimper", "headers": ["Critère", "GO (partir)", "NO GO (renoncer)"], "rows": [
-      ["Pluie 24h précédentes", "Aucune ou faible, falaise sud", "Pluie marquée sur calcaire ou grès"],
-      ["Vent prévu", "Inférieur à 30 km/h", "Plus de 50 km/h en rafales"],
-      ["Température air", "5 à 20 degrés selon site", "Inférieur à 0 ou supérieur à 30"],
-      ["Risque orage été", "Aucun signal radar", "Orage probable avant 16h"],
-      ["Point de rosée", "Écart supérieur à 4 degrés", "Écart inférieur à 2 degrés"],
-      ["Accessibilité secours", "Hélitreuillage possible", "Brouillard ou vent trop fort"]
-    ]},
-    {"type": "h2", "text": "Savoir renoncer en cours de sortie"},
-    {"type": "p", "html": "Même bien préparée, une sortie peut basculer en cours de route. Tu **observes les signaux** : nuages qui s'épaississent, vent qui se lève, température qui chute, gouttes isolées qui commencent à tomber. Tu ne minimises jamais. Tu descends. Le grimpeur expérimenté n'est pas celui qui termine la voie sous l'orage, c'est celui qui rebrousse chemin à temps et qui revient une autre fois."},
-    {"type": "p", "html": "En grande voie, la décision de **redescendre en rappel** plutôt que de continuer relève du jugement de cordée. Si la météo se gâte, si un blessé apparaît, si la fatigue prend le dessus, tu organises la retraite proprement. Tu peux consulter <a href=\"/blog/rappel-securite-procedure\">notre guide sur la procédure de rappel sécurisé</a> pour préparer cette éventualité."},
-    {"type": "h2", "text": "Mon expérience de renoncement"},
-    {"type": "p", "html": "À seize ans, j'étais parti grimper avec mon père à Saint Léger du Ventoux. Météo correcte annoncée, mais à l'arrivée au parking, vent fort déjà à 8h du matin. On a hésité une heure, on a discuté, on a écouté la prudence. On est rentrés sans avoir touché un mur. Je me suis senti frustré toute la route du retour. Le lendemain, on a appris qu'un grimpeur s'était blessé sur ce même site, vent ayant fait tomber un caillou de la pente d'au dessus. Pas grave mais marquant."},
-    {"type": "p", "html": "Depuis, la **décision de renoncer** est devenue plus facile. Tu rentres, tu fais autre chose, tu reviens un autre week-end. La falaise sera toujours là. Toi aussi, à condition d'avoir su renoncer à temps. C'est probablement la leçon de maturité la plus difficile mais la plus utile en escalade outdoor."},
-    {"type": "quote", "text": "Le grimpeur qui dure est celui qui sait dire non. Pas celui qui dit oui à tout, tout le temps.", "author": "Antoine", "role": "rédacteur escalade-france.fr"},
-    {"type": "h2", "text": "Pour approfondir ta préparation"},
-    {"type": "p", "html": "La météo s'intègre à une réflexion plus large sur ta préparation. Tu peux compléter avec <a href=\"/blog/check-list-avant-grimper\">notre check list complète avant de grimper</a>, <a href=\"/blog/partenaire-grimpe-confiance\">notre article sur le choix d'un partenaire de grimpe</a> et <a href=\"/blog/alerter-secours-falaise\">la procédure d'alerte aux secours en falaise</a>. La météo conditionne tout : le confort, la performance, la sécurité, et la possibilité même d'un secours en cas d'accident. Elle mérite cette attention soutenue."}
+    {
+      "type": "h2",
+      "text": "Les sources météo fiables à consulter"
+    },
+    {
+      "type": "p",
+      "html": "Pour lire la météo en falaise, tu croises plusieurs **sources de prévision**. **Météo France** reste la référence officielle, avec des bulletins de massif détaillés pour les zones de montagne. **Windy** offre une visualisation cartographique des vents et précipitations très lisible. **Météo Blue** donne des prévisions à 10 jours plus locales que Météo France. Aucune source seule n'est infaillible, le croisement reste le meilleur indicateur."
+    },
+    {
+      "type": "p",
+      "html": "Tu consultes les prévisions **la veille au soir** et tu les confirmes **le matin du départ**. Une situation météo en montagne évolue rapidement, surtout au printemps et à l'automne. Les modèles à 24h sont fiables, ceux à 48h corrects, ceux à 72h indicatifs. Au delà, c'est de la tendance. Pour les sites alpins, tu peux aussi appeler le **bulletin neige et avalanche** ou consulter le site d'un refuge proche pour avoir une info terrain."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Les paramètres clés à surveiller",
+      "items": [
+        {
+          "title": "Vent",
+          "body": "Vitesse moyenne et rafales. Au delà de 40-50 km/h en rafales, l'escalade devient inconfortable et la communication difficile."
+        },
+        {
+          "title": "Précipitations",
+          "body": "Probabilité, intensité, durée. Une pluie nocturne peut laisser la roche humide pendant 24 à 48 heures selon l'exposition."
+        },
+        {
+          "title": "Température",
+          "body": "Trop chaud, les chaussons fondent et les prises savonnent. Trop froid, les doigts ne sentent plus rien et le risque d'engelures monte."
+        },
+        {
+          "title": "Point de rosée",
+          "body": "Indique l'humidité de l'air. Quand le point de rosée s'approche de la température, la condensation se dépose sur la roche."
+        },
+        {
+          "title": "Orage",
+          "body": "Activité électrique prévue. En montagne, un orage estival peut éclater en moins d'une heure sans signal préalable au sol."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "La pluie et la roche humide"
+    },
+    {
+      "type": "p",
+      "html": "Une **falaise calcaire** mouillée la veille au soir reste mouillée toute la journée suivante, surtout sur les voies en dévers. Le calcaire absorbe l'eau dans sa porosité, restitue l'humidité par évaporation lente, et l'adhérence sur les prises chute drastiquement. Le **<strong>granite</strong>** sèche plus vite mais reste glissant tant qu'il est humide. Le **grès** reste fragile mouillé et peut casser sous une charge même modérée, jamais grimper sur du grès humide."
+    },
+    {
+      "type": "p",
+      "html": "Le timing entre la fin de la pluie et l'escalade dépend de l'exposition. Une falaise sud bien aérée sèche en deux à quatre heures. Une falaise nord en forêt peut rester humide deux jours après l'épisode pluvieux. Tu peux relier ce critère à <a href=\"/blog/accidents-escalade-statistiques\">notre dossier sur les statistiques d'accidents en escalade</a>, l'humidité étant un facteur fréquent de chute imprévue."
+    },
+    {
+      "type": "h2",
+      "text": "Le vent, ce facteur sous estimé"
+    },
+    {
+      "type": "p",
+      "html": "Le **vent** au dessus de 30 km/h commence à perturber l'escalade. À 40 km/h, la communication grimpeur assureur devient difficile, on ne s'entend plus, on improvise des signaux. À 50 km/h en rafales, le balancement de la corde, le froid ressenti et la fatigue mentale s'additionnent. Au delà de 60 km/h, l'escalade en falaise sportive devient déconseillée, et en <strong>grande voie</strong> elle devient dangereuse."
+    },
+    {
+      "type": "p",
+      "html": "Le vent change aussi la **sensation de température**. Le facteur vent froid (windchill) peut faire perdre 10 à <strong>15</strong> degrés ressentis sur un mur exposé. Une journée à 12 degrés avec 50 km/h de vent ressemble à 0 degré pour les doigts engourdis. Pour les voies engagées, c'est un critère de non engagement à part entière, même si la prévision pluie est correcte."
+    },
+    {
+      "type": "tip",
+      "title": "Le piège du vent local",
+      "body": "Certaines falaises créent leur propre microclimat. La face nord du Cirque d'Annot est ventée par un courant froid descendant alors que la base est tranquille. Tu peux te retrouver au relais final avec 30 km/h de plus qu'au parking. Renseigne toi sur la spécificité du site avant de t'engager.",
+      "tone": "attention"
+    },
+    {
+      "type": "h2",
+      "text": "Température et adhérence des chaussons"
+    },
+    {
+      "type": "p",
+      "html": "La **température idéale** pour grimper en performance se situe entre 8 et <strong>15</strong> degrés, avec une roche fraîche et un air sec. Au delà de 20 degrés, le caoutchouc des chaussons mollit, les prises savonnent, la transpiration des doigts annule la magnésie. En dessous de 5 degrés, les tendons se rigidifient, les doigts perdent en finesse, le risque de tendinite explose."
+    },
+    {
+      "type": "p",
+      "html": "Pour les sites exposés au soleil, l'orientation change tout. Une **falaise plein sud** en été reste invivable jusqu'à 17h. Une **falaise nord** en hiver reste glaciale toute la journée. Tu adaptes ton choix de site à la saison, en suivant la règle simple : sud en hiver, nord en été, est ou ouest en demi saison. Cette logique guide toute l'escalade française et explique pourquoi certains sites se vident à certaines périodes."
+    },
+    {
+      "type": "h2",
+      "text": "Le point de rosée, indicateur méconnu"
+    },
+    {
+      "type": "p",
+      "html": "Le **point de rosée** est la température à laquelle l'air sature en humidité et la rosée se forme. Quand le point de rosée s'approche de la température réelle (écart inférieur à 2-3 degrés), la roche se couvre de condensation invisible. Les prises deviennent grasses sans que ça se voie. Tu glisses, et tu ne comprends pas pourquoi."
+    },
+    {
+      "type": "p",
+      "html": "Windy affiche le point de rosée dans ses paramètres avancés. La règle pratique : si le point de rosée est dans les 3 degrés sous la température, la roche est probablement condensée. Si l'écart dépasse 5 degrés, conditions sèches et adhérence optimale. C'est un critère que les grimpeurs de haut niveau intègrent systématiquement à leur préparation, et qui change la perception des journées dites moyennes."
+    },
+    {
+      "type": "h2",
+      "text": "L'orage en montagne, danger numéro un"
+    },
+    {
+      "type": "p",
+      "html": "L'**orage en montagne** se déclenche en moins d'une heure pendant l'été, souvent sans signal préalable visible depuis la vallée. Les sommets se chargent en électricité, la foudre frappe les arêtes, les ferrures, les relais métalliques. Un grimpeur encordé sur une plaquette est une cible parfaite. Le risque ne tolère aucun à peu près."
+    },
+    {
+      "type": "p",
+      "html": "Tu consultes les prévisions d'**activité orageuse** (sites comme Météociel ou Lightning Maps) avant chaque sortie estivale. Tu pars tôt pour grimper le matin et redescendre avant 14h, heure de déclenchement classique. Si l'orage menace, tu **redescends immédiatement** en grande voie, tu ne termines pas la dernière longueur. Tu peux relire <a href=\"/blog/securite-escalade-regles-essentielles\">notre pilier sur les règles essentielles de sécurité</a> qui rappelle la priorité absolue de la décision de retraite."
+    },
+    {
+      "type": "tip",
+      "title": "Mon souvenir d'orage",
+      "body": "À Céüse en juillet 2023, on avait engagé une grande voie à 9h sous un ciel bleu. À 13h, des cumulus arrivaient de l'ouest. On a écourté, descendu en rappel, atteint le parking à 14h30 quand le premier coup de tonnerre a retenti. Vingt minutes plus tard, déluge complet et grêle. On avait suivi la prévision, on avait écouté les signaux. Sans ça, on était piégés sur la voie.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Critères de go ou no go avant départ"
+    },
+    {
+      "type": "table",
+      "caption": "Grille de décision avant de partir grimper",
+      "headers": [
+        "Critère",
+        "GO (partir)",
+        "NO GO (renoncer)"
+      ],
+      "rows": [
+        [
+          "Pluie 24h précédentes",
+          "Aucune ou faible, falaise sud",
+          "Pluie marquée sur calcaire ou grès"
+        ],
+        [
+          "Vent prévu",
+          "Inférieur à 30 km/h",
+          "Plus de 50 km/h en rafales"
+        ],
+        [
+          "Température air",
+          "5 à 20 degrés selon site",
+          "Inférieur à 0 ou supérieur à 30"
+        ],
+        [
+          "Risque orage été",
+          "Aucun signal radar",
+          "Orage probable avant 16h"
+        ],
+        [
+          "Point de rosée",
+          "Écart supérieur à 4 degrés",
+          "Écart inférieur à 2 degrés"
+        ],
+        [
+          "Accessibilité secours",
+          "Hélitreuillage possible",
+          "Brouillard ou vent trop fort"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Savoir renoncer en cours de sortie"
+    },
+    {
+      "type": "p",
+      "html": "Même bien préparée, une sortie peut basculer en cours de route. Tu **observes les signaux** : nuages qui s'épaississent, vent qui se lève, température qui chute, gouttes isolées qui commencent à tomber. Tu ne minimises jamais. Tu descends. Le grimpeur expérimenté n'est pas celui qui termine la voie sous l'orage, c'est celui qui rebrousse chemin à temps et qui revient une autre fois."
+    },
+    {
+      "type": "p",
+      "html": "En grande voie, la décision de **redescendre en rappel** plutôt que de continuer relève du jugement de cordée. Si la météo se gâte, si un blessé apparaît, si la fatigue prend le dessus, tu organises la retraite proprement. Tu peux consulter <a href=\"/blog/rappel-securite-procedure\">notre guide sur la procédure de rappel sécurisé</a> pour préparer cette éventualité."
+    },
+    {
+      "type": "h2",
+      "text": "Mon expérience de renoncement"
+    },
+    {
+      "type": "p",
+      "html": "À seize ans, j'étais parti grimper avec mon père à Saint Léger du Ventoux. Météo correcte annoncée, mais à l'arrivée au parking, vent fort déjà à 8h du matin. On a hésité une heure, on a discuté, on a écouté la prudence. On est rentrés sans avoir touché un mur. Je me suis senti frustré toute la route du retour. Le lendemain, on a appris qu'un grimpeur s'était blessé sur ce même site, vent ayant fait tomber un caillou de la pente d'au dessus. Pas grave mais marquant."
+    },
+    {
+      "type": "p",
+      "html": "Depuis, la **décision de renoncer** est devenue plus facile. Tu rentres, tu fais autre chose, tu reviens un autre week-end. La falaise sera toujours là. Toi aussi, à condition d'avoir su renoncer à temps. C'est probablement la leçon de maturité la plus difficile mais la plus utile en escalade outdoor."
+    },
+    {
+      "type": "quote",
+      "text": "Le grimpeur qui dure est celui qui sait dire non. Pas celui qui dit oui à tout, tout le temps.",
+      "author": "Antoine",
+      "role": "rédacteur escalade-france.fr"
+    },
+    {
+      "type": "h2",
+      "text": "Pour approfondir ta préparation"
+    },
+    {
+      "type": "p",
+      "html": "La météo s'intègre à une réflexion plus large sur ta préparation. Tu peux compléter avec <a href=\"/blog/check-list-avant-grimper\">notre check list complète avant de grimper</a>, <a href=\"/blog/partenaire-grimpe-confiance\">notre article sur le choix d'un partenaire de grimpe</a> et <a href=\"/blog/alerter-secours-falaise\">la procédure d'alerte aux secours en falaise</a>. La météo conditionne tout : le confort, la performance, la sécurité, et la possibilité même d'un secours en cas d'accident. Elle mérite cette attention soutenue."
+    }
   ],
   "faq": [
-    {"q": "À partir de quelle vitesse de vent renonce t on à grimper ?", "a": "En falaise sportive, au dessus de 50 km/h en rafales, la sortie devient inconfortable et la sécurité réduite. En grande voie, la limite descend à 40 km/h, parce que la communication grimpeur assureur devient difficile et que les manœuvres complexes augmentent le risque d'erreur. Au dessus de 60 km/h en montagne, aucun grimpeur sérieux ne s'engage."},
-    {"q": "Combien de temps après la pluie peut on regrimper ?", "a": "Sur calcaire bien exposé sud, comptez deux à quatre heures de séchage par temps ensoleillé. Sur calcaire en forêt ou nord, vingt quatre à quarante huit heures. Sur granite, en général deux à trois heures par temps sec. Sur grès, attendez plusieurs jours et inspectez visuellement chaque prise avant de tirer dessus, le grès humide est fragile."},
-    {"q": "Comment vérifier la météo orage en falaise ?", "a": "Consultez les radars de précipitation en temps réel comme Lightning Maps ou Météociel pour voir les fronts orageux qui se forment. En montagne, partez tôt pour éviter l'instabilité de l'après midi en été. Au moindre signal (cumulonimbus, vent qui se lève, température qui chute), redescendez immédiatement même si l'orage est à 30 km."},
-    {"q": "Quelle température minimale pour grimper en falaise ?", "a": "En dessous de 0 degré, le risque d'engelures et de tendinite augmente nettement. La plupart des grimpeurs s'arrêtent vers 3-5 degrés, surtout en falaise exposée au vent. En salle d'escalade, la température reste régulée à 18-22 degrés, donc pas de question saisonnière. La pratique hivernale exige des gants de réchauffement entre les voies."},
-    {"q": "Faut il consulter la météo avant chaque sortie en salle ?", "a": "Non, pas la météo en tant que telle. Mais l'humidité ambiante peut influer sur les conditions en salle, notamment dans les murs non climatisés en été. Vérifie surtout l'horaire d'ouverture et la fréquentation prévue. Pour la falaise, la météo reste l'élément déterminant n°1 de toute décision de sortie."},
-    {"q": "Comment reconnaître une roche humide invisible ?", "a": "Touche la prise avec le dos de la main, la sensation tiède et collante trahit l'humidité. Une roche calcaire qui paraît grise plutôt que beige clair est souvent humide. Si tes mains glissent sur la première prise sans raison apparente, c'est probablement le point de rosée qui a déposé une condensation. Renonce et reviens plus tard dans la journée."}
+    {
+      "q": "À partir de quelle vitesse de vent renonce t on à grimper ?",
+      "a": "En falaise sportive, au dessus de 50 km/h en rafales, la sortie devient inconfortable et la sécurité réduite. En grande voie, la limite descend à 40 km/h, parce que la communication grimpeur assureur devient difficile et que les manœuvres complexes augmentent le risque d'erreur. Au dessus de 60 km/h en montagne, aucun grimpeur sérieux ne s'engage."
+    },
+    {
+      "q": "Combien de temps après la pluie peut on regrimper ?",
+      "a": "Sur calcaire bien exposé sud, comptez deux à quatre heures de séchage par temps ensoleillé. Sur calcaire en forêt ou nord, vingt quatre à quarante huit heures. Sur granite, en général deux à trois heures par temps sec. Sur grès, attendez plusieurs jours et inspectez visuellement chaque prise avant de tirer dessus, le grès humide est fragile."
+    },
+    {
+      "q": "Comment vérifier la météo orage en falaise ?",
+      "a": "Consultez les radars de précipitation en temps réel comme Lightning Maps ou Météociel pour voir les fronts orageux qui se forment. En montagne, partez tôt pour éviter l'instabilité de l'après midi en été. Au moindre signal (cumulonimbus, vent qui se lève, température qui chute), redescendez immédiatement même si l'orage est à 30 km."
+    },
+    {
+      "q": "Quelle température minimale pour grimper en falaise ?",
+      "a": "En dessous de 0 degré, le risque d'engelures et de tendinite augmente nettement. La plupart des grimpeurs s'arrêtent vers 3-5 degrés, surtout en falaise exposée au vent. En salle d'escalade, la température reste régulée à 18-22 degrés, donc pas de question saisonnière. La pratique hivernale exige des gants de réchauffement entre les voies."
+    },
+    {
+      "q": "Faut il consulter la météo avant chaque sortie en salle ?",
+      "a": "Non, pas la météo en tant que telle. Mais l'humidité ambiante peut influer sur les conditions en salle, notamment dans les murs non climatisés en été. Vérifie surtout l'horaire d'ouverture et la fréquentation prévue. Pour la falaise, la météo reste l'élément déterminant n°1 de toute décision de sortie."
+    },
+    {
+      "q": "Comment reconnaître une roche humide invisible ?",
+      "a": "Touche la prise avec le dos de la main, la sensation tiède et collante trahit l'humidité. Une roche calcaire qui paraît grise plutôt que beige clair est souvent humide. Si tes mains glissent sur la première prise sans raison apparente, c'est probablement le point de rosée qui a déposé une condensation. Renonce et reviens plus tard dans la journée."
+    }
   ],
   "cover_alt": "Grimpeur consultant la météo sur son téléphone au pied d'une falaise calcaire, ciel partiellement nuageux, sac de cordée posé au sol",
   "internal_links": [
-    {"slug": "securite-escalade-regles-essentielles", "anchor": "notre pilier sur les règles essentielles de sécurité", "context": "Pilier du cocon"},
-    {"slug": "check-list-avant-grimper", "anchor": "notre check list complète avant de grimper", "context": "Article frère du cocon"},
-    {"slug": "partenaire-grimpe-confiance", "anchor": "notre article sur le choix d'un partenaire de grimpe", "context": "Article frère du cocon"},
-    {"slug": "alerter-secours-falaise", "anchor": "la procédure d'alerte aux secours en falaise", "context": "Article frère du cocon"},
-    {"slug": "rappel-securite-procedure", "anchor": "notre guide sur la procédure de rappel sécurisé", "context": "Article frère du cocon"},
-    {"slug": "accidents-escalade-statistiques", "anchor": "notre dossier sur les statistiques d'accidents en escalade", "context": "Article frère du cocon"}
+    {
+      "slug": "securite-escalade-regles-essentielles",
+      "anchor": "notre pilier sur les règles essentielles de sécurité",
+      "context": "Pilier du cocon"
+    },
+    {
+      "slug": "check-list-avant-grimper",
+      "anchor": "notre check list complète avant de grimper",
+      "context": "Article frère du cocon"
+    },
+    {
+      "slug": "partenaire-grimpe-confiance",
+      "anchor": "notre article sur le choix d'un partenaire de grimpe",
+      "context": "Article frère du cocon"
+    },
+    {
+      "slug": "alerter-secours-falaise",
+      "anchor": "la procédure d'alerte aux secours en falaise",
+      "context": "Article frère du cocon"
+    },
+    {
+      "slug": "rappel-securite-procedure",
+      "anchor": "notre guide sur la procédure de rappel sécurisé",
+      "context": "Article frère du cocon"
+    },
+    {
+      "slug": "accidents-escalade-statistiques",
+      "anchor": "notre dossier sur les statistiques d'accidents en escalade",
+      "context": "Article frère du cocon"
+    }
   ],
   "scheduled_at": "2026-04-01T09:00:00+02:00"
 }

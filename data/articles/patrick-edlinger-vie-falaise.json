@@ -16,50 +16,173 @@
     "Une rue de La Palud-sur-Verdon porte son nom depuis 2013."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Les debuts en Provence"},
-    {"type": "p", "html": "Patrick Edlinger naît en 1960 a Dax, dans les Landes, et grandit dans le sud de la France apres un demenagement familial. Son enfance est marquee par les sorties en garrigue, les escapades en montagne et un attrait precoce pour l'effort physique. Plusieurs biographies francaises rapportent qu'il decouvre la grimpe a l'adolescence, dans les calanques marseillaises et sur les falaises provencales. Le calcaire mediterraneen devient son ecole, comme pour beaucoup de grimpeurs de sa generation."},
-    {"type": "p", "html": "Au debut des annees 80, il s'installe regulierement a La Palud-sur-Verdon, le village qui surplombe les <strong>Gorges du Verdon</strong>. Ce site exceptionnel, avec ses 200 a 300 metres de calcaire pur, devient son terrain de predilection. Il y multiplie les ascensions, ouvre des voies, explore les parois moins parcourues. La grimpe verdonnaise est alors en pleine effervescence, et Edlinger fait partie du noyau qui transforme cette region en une reference mondiale, aux cotes notamment des freres Remy et de Patrick Berhault."},
-    {"type": "p", "html": "Cette periode est aussi celle ou il croise la route d'autres figures francaises emergentes. Patrick Berhault, son ami et compagnon de cordee occasionnel, partage avec lui une vision aerienne et libre de l'escalade. Tu peux relire le profil de <a href=\"/blog/catherine-destivelle-grimpeuse\">Catherine Destivelle</a> pour saisir l'ambiance de cette generation francaise qui a impose un style propre, entre engagement et estethique."},
-    {"type": "h2", "text": "Les films qui ont fait basculer l'image de l'escalade"},
-    {"type": "p", "html": "<strong>1982</strong> marque un tournant majeur. Jean-Paul Janssen realise le court-metrage <strong>La Vie au Bout des Doigts</strong>, qui montre Edlinger en solo integral sur les falaises du Verdon. Le film est diffuse a la television francaise et touche des millions de spectateurs qui n'avaient jamais vu un grimpeur de cette maniere. Le contraste entre le rocher monumental et la silhouette concentree marque durablement les esprits. Ce film est considere comme un point de bascule mediatique pour l'escalade en France."},
-    {"type": "p", "html": "L'annee suivante, en <strong>1983</strong>, Janssen filme <strong>Opera Vertical</strong>, plus ambitieux et plus long. Le film recoit plusieurs prix internationaux et installe definitivement Edlinger comme la figure publique de l'escalade francaise. Les images de lui torse nu, cheveux blonds longs, gestes precis et silencieux, deviennent une iconographie. Pour les jeunes des annees 80, c'est souvent par ces films que se construit l'envie de grimper. Cette dimension mediatique trouve un echo plus tard dans des films comme Free Solo, qui mettent en scene <a href=\"/blog/alex-honnold-free-solo-el-cap\">Alex Honnold</a> sur El Capitan."},
-    {"type": "quote", "text": "Quand je grimpe, je ne pense a rien d'autre. C'est ca qui me plait, cette presence totale.", "author": "Patrick Edlinger", "role": "propos rapportes dans plusieurs interviews francaises"},
-    {"type": "h2", "text": "Les voies emblematiques signees ou repetees"},
-    {"type": "p", "html": "Patrick Edlinger a marque plusieurs sites francais par ses ouvertures ou ses repetitions. A <strong>Buoux</strong>, dans le Vaucluse, il a participe a l'aventure d'un des secteurs les plus emblematiques de la grimpe sportive francaise des annees 80. La falaise propose des dalles techniques et des devers qui ont forme une generation de grimpeurs francais. Edlinger y a repete et ouvert plusieurs lignes dures, parfois cotees dans le 8a ou 8a+, ce qui placait le pays dans le haut du niveau mondial de l'epoque."},
-    {"type": "list", "variant": "cards", "title": "Voies et sites associes a Patrick Edlinger", "items": [
-      {"title": "Are You Ready, Buoux", "body": "Voie emblematique de Buoux cotee 8a, repetee par Edlinger dans les annees 80."},
-      {"title": "Pichenibule, Verdon", "body": "Une des grandes lignes du Verdon, parcourue par Edlinger et par ses contemporains."},
-      {"title": "Choucas, Verdon", "body": "Voie de plusieurs longueurs au Verdon, frequemment associee aux annees Edlinger."},
-      {"title": "La Polka des Ringards, Buoux", "body": "Voie de Buoux dans le haut niveau de l'epoque, dans la lignee des ouvertures d'Edlinger."},
-      {"title": "Falaise du Cimai", "body": "Site provencal cher a Edlinger, ou il a multiplié les ascensions et entraînements."},
-      {"title": "Calanques marseillaises", "body": "Terrain d'origine, ou il a forme son geste sur le calcaire mediterraneen."}
-    ]},
-    {"type": "h2", "text": "Le passage en compétition"},
-    {"type": "p", "html": "En <strong>1985</strong>, la grimpe sportive entre dans l'ere des compétitions officielles. La rencontre internationale de <strong>Bardonecchia</strong>, en Italie, reunit l'elite mondiale sur une falaise transformee en arena. Patrick Edlinger remporte le titre masculin, dans une edition qui sera reconnue comme l'une des premieres grandes compétitions de grimpe sportive. Catherine Destivelle s'impose chez les femmes, et la France marque ce moment fondateur de la discipline. Tu peux relire <a href=\"/blog/francois-legrand-competition\">le profil de François Legrand</a> qui prolonge cette tradition francaise en compétition dans les annees 90."},
-    {"type": "p", "html": "Edlinger n'a toutefois jamais embrasse le format compétitif autant que d'autres. Il preferait la falaise, l'esthetique d'un mouvement filme dans son cadre naturel, l'engagement personnel. Cette tension entre compétition et grimpe en falaise traverse toute la decennie 80 et continue d'animer les debats dans la communaute, encore aujourd'hui."},
-    {"type": "h2", "text": "Ce qu'il a apporte a l'escalade"},
-    {"type": "p", "html": "Patrick Edlinger a popularise l'escalade francaise comme aucun autre grimpeur avant lui. Par son image, par les films, par une presence telegenique nouvelle pour la discipline. Il a montre qu'on pouvait pratiquer la grimpe comme un art, avec une lenteur apparente et une exigence interieure, loin du seul calcul de la performance. Ce style a influence durablement la maniere de filmer l'escalade, l'iconographie des couvertures de magazine et meme les codes vestimentaires d'une partie des grimpeurs francais."},
-    {"type": "p", "html": "Au-dela du grand public, il a contribue a installer le Verdon comme reference mondiale, et a porter la grimpe francaise dans une periode ou les Etats-Unis et l'Allemagne montaient en puissance. Sa generation a participe a la naissance d'une <strong>FFME</strong> structuree, a celle des magazines specialises et a l'emergence d'une industrie du materiel et du sponsoring. Aujourd'hui encore, sa silhouette dans Opera Vertical reste un point de reference pour comprendre comment l'escalade est entree dans la culture populaire francaise."},
-    {"type": "h2", "text": "Posterite et hommages"},
-    {"type": "p", "html": "Patrick Edlinger est decede en <strong>2012</strong>, a 52 ans, suite a une chute accidentelle a son domicile. Sa disparition a suscite une emotion considerable dans le milieu de l'escalade et au-dela. Les magazines francais lui ont consacre des numeros speciaux, et des projections de ses films ont ete organisees dans plusieurs villes. En 2013, La Palud-sur-Verdon a inaugure une rue Patrick-Edlinger, en hommage a son lien avec la commune."},
-    {"type": "p", "html": "Son influence se mesure aujourd'hui a travers les temoignages de grimpeurs francais des generations suivantes, qui citent regulierement ses films comme declic initial. La grimpe en compétition a evolue depuis, comme le montre le parcours de <a href=\"/blog/janja-garnbret-domination\">Janja Garnbret</a>, mais l'esthetique edlingerienne, sobre et physique, continue d'inspirer une partie des realisateurs et photographes specialises. Sa biographie a fait l'objet de plusieurs ouvrages, dont des livres edites par les Editions Guerin et par d'autres maisons specialisees dans la montagne."},
-    {"type": "p", "html": "Pour aller plus loin dans le panorama des figures francaises, le <a href=\"/blog/grimpeurs-grimpeuses-histoire-france\">pilier du cocon personnalites</a> donne une vision d'ensemble qui replace Edlinger dans une histoire collective."}
+    {
+      "type": "h2",
+      "text": "Les debuts en Provence"
+    },
+    {
+      "type": "p",
+      "html": "Patrick Edlinger naît en 1960 a Dax, dans les Landes, et grandit dans le sud de la France apres un demenagement familial. Son enfance est marquee par les sorties en garrigue, les escapades en montagne et un attrait precoce pour l'effort physique. Plusieurs biographies francaises rapportent qu'il decouvre la grimpe a l'adolescence, dans les calanques marseillaises et sur les falaises provencales. Le calcaire mediterraneen devient son ecole, comme pour beaucoup de grimpeurs de sa generation."
+    },
+    {
+      "type": "p",
+      "html": "Au debut des annees 80, il s'installe regulierement a La Palud-sur-Verdon, le village qui surplombe les Gorges du Verdon. Ce site exceptionnel, avec ses 200 a 300 metres de calcaire pur, devient son terrain de predilection. Il y multiplie les ascensions, ouvre des voies, explore les parois moins parcourues. La grimpe verdonnaise est alors en pleine effervescence, et Edlinger fait partie du noyau qui transforme cette region en une reference mondiale, aux cotes notamment des freres Remy et de Patrick Berhault."
+    },
+    {
+      "type": "p",
+      "html": "Cette periode est aussi celle ou il croise la route d'autres figures francaises emergentes. Patrick Berhault, son ami et compagnon de cordee occasionnel, partage avec lui une vision aerienne et libre de l'escalade. Tu peux relire le profil de <a href=\"/blog/catherine-destivelle-grimpeuse\">Catherine Destivelle</a> pour saisir l'ambiance de cette generation francaise qui a impose un style propre, entre engagement et estethique."
+    },
+    {
+      "type": "h2",
+      "text": "Les films qui ont fait basculer l'image de l'escalade"
+    },
+    {
+      "type": "p",
+      "html": "<strong>1982</strong> marque un tournant majeur. Jean-Paul Janssen realise le court-metrage La Vie au Bout des Doigts, qui montre Edlinger en solo integral sur les falaises du Verdon. Le film est diffuse a la television francaise et touche des millions de spectateurs qui n'avaient jamais vu un grimpeur de cette maniere. Le contraste entre le rocher monumental et la silhouette concentree marque durablement les esprits. Ce film est considere comme un point de bascule mediatique pour l'escalade en France."
+    },
+    {
+      "type": "p",
+      "html": "L'annee suivante, en <strong>1983</strong>, Janssen filme <strong>Opera Vertical</strong>, plus ambitieux et plus long. Le film recoit plusieurs prix internationaux et installe definitivement Edlinger comme la figure publique de l'escalade francaise. Les images de lui torse nu, cheveux blonds longs, gestes precis et silencieux, deviennent une iconographie. Pour les jeunes des annees 80, c'est souvent par ces films que se construit l'envie de grimper. Cette dimension mediatique trouve un echo plus tard dans des films comme Free Solo, qui mettent en scene <a href=\"/blog/alex-honnold-free-solo-el-cap\">Alex Honnold</a> sur El Capitan."
+    },
+    {
+      "type": "quote",
+      "text": "Quand je grimpe, je ne pense a rien d'autre. C'est ca qui me plait, cette presence totale.",
+      "author": "Patrick Edlinger",
+      "role": "propos rapportes dans plusieurs interviews francaises"
+    },
+    {
+      "type": "h2",
+      "text": "Les voies emblematiques signees ou repetees"
+    },
+    {
+      "type": "p",
+      "html": "Patrick Edlinger a marque plusieurs sites francais par ses ouvertures ou ses repetitions. A <strong>Buoux</strong>, dans le Vaucluse, il a participe a l'aventure d'un des secteurs les plus emblematiques de la grimpe sportive francaise des annees 80. La falaise propose des dalles techniques et des devers qui ont forme une generation de grimpeurs francais. Edlinger y a repete et ouvert plusieurs lignes dures, parfois cotees dans le 8a ou 8a+, ce qui placait le pays dans le haut du niveau mondial de l'epoque."
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Voies et sites associes a Patrick Edlinger",
+      "items": [
+        {
+          "title": "Are You Ready, Buoux",
+          "body": "Voie emblematique de Buoux cotee 8a, repetee par Edlinger dans les annees 80."
+        },
+        {
+          "title": "Pichenibule, Verdon",
+          "body": "Une des grandes lignes du Verdon, parcourue par Edlinger et par ses contemporains."
+        },
+        {
+          "title": "Choucas, Verdon",
+          "body": "Voie de plusieurs longueurs au Verdon, frequemment associee aux annees Edlinger."
+        },
+        {
+          "title": "La Polka des Ringards, Buoux",
+          "body": "Voie de Buoux dans le haut niveau de l'epoque, dans la lignee des ouvertures d'Edlinger."
+        },
+        {
+          "title": "Falaise du Cimai",
+          "body": "Site provencal cher a Edlinger, ou il a multiplié les ascensions et entraînements."
+        },
+        {
+          "title": "Calanques marseillaises",
+          "body": "Terrain d'origine, ou il a forme son geste sur le calcaire mediterraneen."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Le passage en compétition"
+    },
+    {
+      "type": "p",
+      "html": "En <strong>1985</strong>, la grimpe sportive entre dans l'ere des compétitions officielles. La rencontre internationale de <strong>Bardonecchia</strong>, en Italie, reunit l'elite mondiale sur une falaise transformee en arena. Patrick Edlinger remporte le titre masculin, dans une edition qui sera reconnue comme l'une des premieres grandes compétitions de grimpe sportive. Catherine Destivelle s'impose chez les femmes, et la France marque ce moment fondateur de la discipline. Tu peux relire <a href=\"/blog/francois-legrand-competition\">le profil de François Legrand</a> qui prolonge cette tradition francaise en compétition dans les annees 90."
+    },
+    {
+      "type": "p",
+      "html": "Edlinger n'a toutefois jamais embrasse le format compétitif autant que d'autres. Il preferait la falaise, l'esthetique d'un mouvement filme dans son cadre naturel, l'engagement personnel. Cette tension entre compétition et grimpe en falaise traverse toute la decennie 80 et continue d'animer les debats dans la communaute, encore aujourd'hui."
+    },
+    {
+      "type": "h2",
+      "text": "Ce qu'il a apporte a l'escalade"
+    },
+    {
+      "type": "p",
+      "html": "Patrick Edlinger a popularise l'escalade francaise comme aucun autre grimpeur avant lui. Par son image, par les films, par une presence telegenique nouvelle pour la discipline. Il a montre qu'on pouvait pratiquer la grimpe comme un art, avec une lenteur apparente et une exigence interieure, loin du seul calcul de la performance. Ce style a influence durablement la maniere de filmer l'escalade, l'iconographie des couvertures de magazine et meme les codes vestimentaires d'une partie des grimpeurs francais."
+    },
+    {
+      "type": "p",
+      "html": "Au-dela du grand public, il a contribue a installer le Verdon comme reference mondiale, et a porter la grimpe francaise dans une periode ou les Etats-Unis et l'Allemagne montaient en puissance. Sa generation a participe a la naissance d'une <strong>FFME</strong> structuree, a celle des magazines specialises et a l'emergence d'une industrie du materiel et du sponsoring. Aujourd'hui encore, sa silhouette dans Opera Vertical reste un point de reference pour comprendre comment l'escalade est entree dans la culture populaire francaise."
+    },
+    {
+      "type": "h2",
+      "text": "Posterite et hommages"
+    },
+    {
+      "type": "p",
+      "html": "Patrick Edlinger est decede en <strong>2012</strong>, a 52 ans, suite a une chute accidentelle a son domicile. Sa disparition a suscite une emotion considerable dans le milieu de l'escalade et au-dela. Les magazines francais lui ont consacre des numeros speciaux, et des projections de ses films ont ete organisees dans plusieurs villes. En 2013, La Palud-sur-Verdon a inaugure une rue Patrick-Edlinger, en hommage a son lien avec la commune."
+    },
+    {
+      "type": "p",
+      "html": "Son influence se mesure aujourd'hui a travers les temoignages de grimpeurs francais des generations suivantes, qui citent regulierement ses films comme declic initial. La grimpe en compétition a evolue depuis, comme le montre le parcours de <a href=\"/blog/janja-garnbret-domination\">Janja Garnbret</a>, mais l'esthetique edlingerienne, sobre et physique, continue d'inspirer une partie des realisateurs et photographes specialises. Sa biographie a fait l'objet de plusieurs ouvrages, dont des livres edites par les Editions Guerin et par d'autres maisons specialisees dans la montagne."
+    },
+    {
+      "type": "p",
+      "html": "Pour aller plus loin dans le panorama des figures francaises, le <a href=\"/blog/grimpeurs-grimpeuses-histoire-france\">pilier du cocon personnalites</a> donne une vision d'ensemble qui replace Edlinger dans une histoire collective."
+    }
   ],
   "faq": [
-    {"q": "Quel etait le niveau de Patrick Edlinger en falaise ?", "a": "Les sources publiques le situent dans le 8a a 8b a son meilleur niveau dans les annees 80, ce qui le placait parmi les meilleurs grimpeurs mondiaux. Les cotations etaient alors moins normalisees qu'aujourd'hui et certaines voies de l'epoque ont ete reevaluees."},
-    {"q": "Ou peut-on voir ses films aujourd'hui ?", "a": "La Vie au Bout des Doigts et Opera Vertical sont reguliÚrement reprojetes lors de festivals de films de montagne, et certains extraits circulent sur les plateformes video. Les editions DVD anciennes sont parfois rééditées par des associations specialisees."},
-    {"q": "Quel etait son site favori ?", "a": "Le Verdon est le site le plus associe a son nom, et il s'est etabli a La Palud-sur-Verdon. Il a aussi beaucoup grimpe a Buoux, au Cimai et dans les Calanques marseillaises. Sa zone d'influence se concentrait sur le sud-est francais."},
-    {"q": "Avait-il un partenaire de cordee regulier ?", "a": "Plusieurs sources mentionnent Patrick Berhault comme ami et compagnon de cordee occasionnel, ainsi que d'autres grimpeurs francais de l'epoque. Beaucoup de ses ascensions filmees etaient toutefois realisees en solo ou avec un cameraman."},
-    {"q": "Qui sont ses influences avouées ?", "a": "Les biographies disponibles citent les grimpeurs francais d'apres-guerre, ainsi que la generation qui l'a precede au Verdon. Il a egalement evoque dans des interviews son admiration pour des alpinistes classiques et pour la culture du geste juste."},
-    {"q": "Existe-t-il un livre de reference sur sa vie ?", "a": "Plusieurs ouvrages francais lui ont ete consacres, certains apres son deces. Les Editions Guerin et d'autres maisons specialisees ont publie des textes qui retracent son parcours, ses voies signées et son rapport a l'image."}
+    {
+      "q": "Quel etait le niveau de Patrick Edlinger en falaise ?",
+      "a": "Les sources publiques le situent dans le 8a a 8b a son meilleur niveau dans les annees 80, ce qui le placait parmi les meilleurs grimpeurs mondiaux. Les cotations etaient alors moins normalisees qu'aujourd'hui et certaines voies de l'epoque ont ete reevaluees."
+    },
+    {
+      "q": "Ou peut-on voir ses films aujourd'hui ?",
+      "a": "La Vie au Bout des Doigts et Opera Vertical sont reguliÚrement reprojetes lors de festivals de films de montagne, et certains extraits circulent sur les plateformes video. Les editions DVD anciennes sont parfois rééditées par des associations specialisees."
+    },
+    {
+      "q": "Quel etait son site favori ?",
+      "a": "Le Verdon est le site le plus associe a son nom, et il s'est etabli a La Palud-sur-Verdon. Il a aussi beaucoup grimpe a Buoux, au Cimai et dans les Calanques marseillaises. Sa zone d'influence se concentrait sur le sud-est francais."
+    },
+    {
+      "q": "Avait-il un partenaire de cordee regulier ?",
+      "a": "Plusieurs sources mentionnent Patrick Berhault comme ami et compagnon de cordee occasionnel, ainsi que d'autres grimpeurs francais de l'epoque. Beaucoup de ses ascensions filmees etaient toutefois realisees en solo ou avec un cameraman."
+    },
+    {
+      "q": "Qui sont ses influences avouées ?",
+      "a": "Les biographies disponibles citent les grimpeurs francais d'apres-guerre, ainsi que la generation qui l'a precede au Verdon. Il a egalement evoque dans des interviews son admiration pour des alpinistes classiques et pour la culture du geste juste."
+    },
+    {
+      "q": "Existe-t-il un livre de reference sur sa vie ?",
+      "a": "Plusieurs ouvrages francais lui ont ete consacres, certains apres son deces. Les Editions Guerin et d'autres maisons specialisees ont publie des textes qui retracent son parcours, ses voies signées et son rapport a l'image."
+    }
   ],
   "cover_alt": "Un grimpeur torse nu, cheveux longs blonds, concentré sur une dalle de calcaire blanc baigne de soleil dans une grande gorge mediterraneenne",
   "internal_links": [
-    {"slug": "grimpeurs-grimpeuses-histoire-france", "anchor": "pilier du cocon personnalites", "context": "Pilier general du cocon"},
-    {"slug": "catherine-destivelle-grimpeuse", "anchor": "Catherine Destivelle", "context": "Generation francaise contemporaine"},
-    {"slug": "francois-legrand-competition", "anchor": "le profil de François Legrand", "context": "Tradition francaise en compétition"},
-    {"slug": "alex-honnold-free-solo-el-cap", "anchor": "Alex Honnold", "context": "Filiation des films de grimpe"},
-    {"slug": "janja-garnbret-domination", "anchor": "Janja Garnbret", "context": "Generation compétition moderne"}
+    {
+      "slug": "grimpeurs-grimpeuses-histoire-france",
+      "anchor": "pilier du cocon personnalites",
+      "context": "Pilier general du cocon"
+    },
+    {
+      "slug": "catherine-destivelle-grimpeuse",
+      "anchor": "Catherine Destivelle",
+      "context": "Generation francaise contemporaine"
+    },
+    {
+      "slug": "francois-legrand-competition",
+      "anchor": "le profil de François Legrand",
+      "context": "Tradition francaise en compétition"
+    },
+    {
+      "slug": "alex-honnold-free-solo-el-cap",
+      "anchor": "Alex Honnold",
+      "context": "Filiation des films de grimpe"
+    },
+    {
+      "slug": "janja-garnbret-domination",
+      "anchor": "Janja Garnbret",
+      "context": "Generation compétition moderne"
+    }
   ],
   "scheduled_at": "2027-01-05T09:00:00+01:00"
 }

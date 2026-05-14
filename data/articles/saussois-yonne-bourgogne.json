@@ -5,7 +5,7 @@
   "numero": 87,
   "title": "Le Saussois : l'écrin bourguignon au bord de l'Yonne",
   "h1": "Le Saussois, écrin bourguignon au bord de l'Yonne",
-  "description": "Cap sur Le Saussois, falaise mythique au bord de l'Yonne en Bourgogne : secteurs École et Belvédère, calcaire jurassique, nidification faucon, conseils saison.",
+  "description": "Cap sur Le Saussois, falaise mythique au bord de l'Yonne en Bourgogne : secteurs École et Belvédère, calcaire jurassique, nidification faucon, conseils...",
   "chapo": "Le Saussois, c'est la falaise qui surplombe l'Yonne entre Auxerre et Avallon, et qui a vu défiler des générations de grimpeurs parisiens en quête d'évasion. Calcaire jurassique compact, ambiance bucolique au bord de l'eau, secteurs école pour débutants et lignes plus techniques pour confirmés. Je te raconte ce site bourguignon, ses voies, ses restrictions de nidification et la magie d'une falaise au-dessus de la rivière.",
   "takeaways": [
     "Le Saussois domine l'Yonne en Bourgogne, à environ deux heures de Paris.",
@@ -46,16 +46,43 @@
     {
       "type": "table",
       "caption": "Fiche d'identité du site",
-      "headers": ["Critère", "Détail"],
+      "headers": [
+        "Critère",
+        "Détail"
+      ],
       "rows": [
-        ["Type de rocher", "Calcaire jurassique du Bathonien, rugueux et compact"],
-        ["Orientation", "Sud principalement, quelques secteurs ouest et est"],
-        ["Exposition", "Plein soleil l'après-midi, ombre le matin sur les secteurs ouest"],
-        ["Cotation min/max", "Du 4c au 8a, majorité dans le 5c à 7a"],
-        ["Nombre de voies", "Environ 120 voies équipées sur 6 secteurs principaux"],
-        ["Période favorable", "Avril à octobre, optimum mai, juin, septembre"],
-        ["Accès", "Parking à Merry-sur-Yonne puis 5 à 15 min de marche"],
-        ["Parking", "Aire gratuite au pied de la falaise, vite saturée le week-end"]
+        [
+          "Type de rocher",
+          "Calcaire jurassique du Bathonien, rugueux et compact"
+        ],
+        [
+          "Orientation",
+          "Sud principalement, quelques secteurs ouest et est"
+        ],
+        [
+          "Exposition",
+          "Plein soleil l'après-midi, ombre le matin sur les secteurs ouest"
+        ],
+        [
+          "Cotation min/max",
+          "Du 4c au 8a, majorité dans le 5c à 7a"
+        ],
+        [
+          "Nombre de voies",
+          "Environ 120 voies équipées sur 6 secteurs principaux"
+        ],
+        [
+          "Période favorable",
+          "Avril à octobre, optimum mai, juin, septembre"
+        ],
+        [
+          "Accès",
+          "Parking à Merry-sur-Yonne puis 5 à 15 min de marche"
+        ],
+        [
+          "Parking",
+          "Aire gratuite au pied de la falaise, vite saturée le week-end"
+        ]
       ]
     },
     {
@@ -83,12 +110,30 @@
       "variant": "bullets",
       "title": "Les secteurs du Saussois",
       "items": [
-        {"title": "Secteur École", "body": "Voies du 4c au 6b, idéal pour débutants, équipement récent, hauteur modérée."},
-        {"title": "Belvédère", "body": "Voies longues du 6a au 7c, vue panoramique sur l'Yonne, classiques historiques."},
-        {"title": "Le Bombé", "body": "Dévers léger, voies dans le 7a à 8a, terrain de jeu des grimpeurs confirmés."},
-        {"title": "Dalle des Anglais", "body": "Murs verticaux techniques, dans le 6a à 7b, lecture de pieds essentielle."},
-        {"title": "Le Trou du Vent", "body": "Secteur plus confidentiel, voies engagées dans le 7 et 8."},
-        {"title": "Petite Falaise", "body": "Secteur d'initiation, hauteur réduite, voies bien équipées pour familles."}
+        {
+          "title": "Secteur École",
+          "body": "Voies du 4c au 6b, idéal pour débutants, équipement récent, hauteur modérée."
+        },
+        {
+          "title": "Belvédère",
+          "body": "Voies longues du 6a au 7c, vue panoramique sur l'Yonne, classiques historiques."
+        },
+        {
+          "title": "Le Bombé",
+          "body": "Dévers léger, voies dans le 7a à 8a, terrain de jeu des grimpeurs confirmés."
+        },
+        {
+          "title": "Dalle des Anglais",
+          "body": "Murs verticaux techniques, dans le 6a à 7b, lecture de pieds essentielle."
+        },
+        {
+          "title": "Le Trou du Vent",
+          "body": "Secteur plus confidentiel, voies engagées dans le 7 et 8."
+        },
+        {
+          "title": "Petite Falaise",
+          "body": "Secteur d'initiation, hauteur réduite, voies bien équipées pour familles."
+        }
       ]
     },
     {
@@ -162,10 +207,26 @@
   ],
   "cover_alt": "Falaise du Saussois au-dessus de l'Yonne en Bourgogne avec vue sur la rivière",
   "internal_links": [
-    {"slug": "sites-escalade-emblematiques-france", "anchor": "sites d'escalade emblématiques de France", "context": "Pilier du cocon sites"},
-    {"slug": "saffres-cote-or-region-est", "anchor": "Saffres en Côte-d'Or", "context": "Autre site bourguignon"},
-    {"slug": "buoux-luberon-historique", "anchor": "Buoux dans le Luberon", "context": "Comparaison sud nord"},
-    {"slug": "dent-crolles-chartreuse", "anchor": "Dent de Crolles en Chartreuse", "context": "Autre site régional"}
+    {
+      "slug": "sites-escalade-emblematiques-france",
+      "anchor": "sites d'escalade emblématiques de France",
+      "context": "Pilier du cocon sites"
+    },
+    {
+      "slug": "saffres-cote-or-region-est",
+      "anchor": "Saffres en Côte-d'Or",
+      "context": "Autre site bourguignon"
+    },
+    {
+      "slug": "buoux-luberon-historique",
+      "anchor": "Buoux dans le Luberon",
+      "context": "Comparaison sud nord"
+    },
+    {
+      "slug": "dent-crolles-chartreuse",
+      "anchor": "Dent de Crolles en Chartreuse",
+      "context": "Autre site régional"
+    }
   ],
   "scheduled_at": "2026-11-21T09:00:00+01:00"
 }

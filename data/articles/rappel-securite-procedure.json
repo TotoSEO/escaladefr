@@ -15,68 +15,257 @@
     "On désencorde toujours le baudrier avant de lâcher le relais, dans l'ordre strict."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Pourquoi le rappel reste accidentogène"},
-    {"type": "p", "html": "Le **rappel** est souvent la dernière action d'une longue journée de grimpe. Le grimpeur est fatigué, pressé de descendre, parfois en concurrence avec la nuit qui tombe. Cumule cette fatigue avec une procédure qui enchaîne huit ou dix gestes consécutifs et tu obtiens le terrain idéal pour l'erreur. Les rapports d'accidents Petzl confirment : le rappel concentre une part disproportionnée des accidents mortels par rapport à la fréquence de son utilisation."},
-    {"type": "p", "html": "Les causes typiques se répètent : sortie de bout de corde, autobloquant mal placé, descendeur monté à l'envers, désencordement prématuré, rappel sur simple brin par erreur. Chacune de ces erreurs est évitable par un contrôle strict avant départ. La triple vérification s'applique au rappel autant qu'à l'encordement en tête. Tu peux relire <a href=\"/blog/verification-baudrier-corde-noeud\">notre fiche sur la triple vérification</a> qui pose les bases de la culture sécurité."},
-    {"type": "h2", "text": "Étape 1, installer le rappel au relais"},
-    {"type": "p", "html": "Tu arrives au relais (sommet de voie ou repose intermédiaire en grande voie). Tu es **vaché**, ton baudrier accroché par une longe ou une dégaine au point fixe. Tu fais passer ta corde dans le **maillon rapide** ou la chaîne du relais, jusqu'au milieu (marqueur central de la corde). Les deux brins descendent côte à côte vers le sol, parallèles, sans torsion."},
-    {"type": "p", "html": "Tu fais un **nœud en bout de chaque brin** au sol. Un double pêcheur ou un huit avec un mou de sécurité suffit. Tu vérifies que les deux brins arrivent bien au sol, ou au moins au prochain relais. Si la voie est plus haute que la moitié de ta corde, il faut faire le rappel en deux temps. Pour une corde de 70 mètres, ton rappel maximum est de 35 mètres. C'est essentiel à anticiper avant d'engager la voie."},
-    {"type": "tip", "title": "Le mouton noir", "body": "Ne fais jamais confiance à un seul brin de corde au relais. Si tu installes mal et que la corde se met à filer, tu chutes. Les deux brins doivent être strictement équilibrés au passage dans le maillon, par exemple par un nœud de tête d'alouette ou simplement par alignement du marqueur central.", "tone": "attention"},
-    {"type": "h2", "text": "Étape 2, monter le descendeur et l'autobloquant"},
-    {"type": "p", "html": "Tu prends ton **descendeur** (huit, ATC tube, GriGri, plaquette Reverso Petzl) et tu le clippes au mousqueton à vis du pontet de ton baudrier. Tu passes les deux brins de corde dans le descendeur selon la notice constructeur. Pour un huit, les deux brins passent en double dans la grande ouverture. Pour un tube ATC, les deux brins passent côte à côte dans les deux fentes."},
-    {"type": "p", "html": "Ensuite, tu places l'**autobloquant Machard** ou Prusik en dessous du descendeur, sur les deux brins de corde combinés. Tu noues avec un cordelet de 6 ou 7 mm, environ 50 cm de longueur cousu en boucle. Tu fais trois ou quatre tours selon le diamètre de ta corde. Tu clippes l'autobloquant à la sangle de ton baudrier (boucle de jambe) avec un mousqueton à vis. Le sens est crucial : autobloquant **en dessous du descendeur**, jamais au dessus."},
-    {"type": "list", "variant": "numbered", "title": "Les six étapes d'installation du rappel", "items": [
-      {"title": "Vachage au relais", "body": "Tu te clippes au point fixe avec ta longe ou une dégaine pour avoir les mains libres."},
-      {"title": "Passage de la corde", "body": "La corde passe dans le maillon du relais jusqu'au milieu, deux brins équilibrés vers le sol."},
-      {"title": "Nœuds en bout de brins", "body": "Un double pêcheur ou un huit sur chaque brin évite la sortie de corde."},
-      {"title": "Descendeur monté", "body": "Le descendeur prend les deux brins, fixé au mousqueton à vis du pontet."},
-      {"title": "Autobloquant placé", "body": "Le Machard sous le descendeur, sur les deux brins, fixé à la boucle de jambe."},
-      {"title": "Test sous tension", "body": "Tu mets ton poids sur le système avant de désencorder ta longe."}
-    ]},
-    {"type": "h2", "text": "Étape 3, contrôle croisé avant départ"},
-    {"type": "p", "html": "Une fois tout monté, tu **testes le système sous tension** avant de désencorder ta longe. Tu te suspends doucement dans le baudrier, tu vérifies que le descendeur bloque comme prévu, que l'autobloquant agit en cas de relâchement, que la corde glisse de manière contrôlée quand tu la libères. Tu vérifies aussi que ton mousqueton à vis du pontet est bien verrouillé."},
-    {"type": "p", "html": "Si tu es à plusieurs, **contrôle croisé** : ton partenaire regarde ton installation, tu regardes la sienne. Personne ne descend sans validation de l'autre. C'est exactement la même culture qu'au démarrage d'une voie en tête. Pour aller plus loin, tu peux consulter <a href=\"/blog/check-list-avant-grimper\">notre check list complète avant de grimper</a> qui rappelle l'importance du contrôle partagé."},
-    {"type": "h2", "text": "Étape 4, la descente en rappel proprement dite"},
-    {"type": "p", "html": "Tu désencordes ta longe du relais, en gardant une main sur le brin libre (en dessous du descendeur). Tu te laisses glisser progressivement, **pieds écartés en V** sur le mur, les jambes raides pour maintenir l'écart entre toi et la paroi. Tu freines avec la main basse, tu ne descends jamais à pleine vitesse. La position idéale, c'est une descente fluide d'environ trente centimètres par seconde sur un mur vertical."},
-    {"type": "p", "html": "L'**autobloquant** suit ta main basse à mesure que tu descends. Tu le pousses doucement vers le bas pour ne pas bloquer le système. Si tu lâches tout (vertige, malaise, chute de pierre qui te frappe), l'autobloquant se serre automatiquement et te bloque sur la corde. C'est ton filet de sécurité, son installation correcte n'est pas négociable."},
-    {"type": "tip", "title": "Le piège du rappel en surplomb", "body": "Sur un mur en dévers, tu peux te retrouver dans le vide à plusieurs mètres de la paroi. La descente devient plus aérienne, parfois en spirale si la corde se vrille. Tu ralentis, tu te concentres sur le freinage et tu attends d'arriver au sol pour défaire le système. Pas de panique, le matériel tient.", "tone": "astuce"},
-    {"type": "h2", "text": "Étape 5, arrivée au sol et désinstallation"},
-    {"type": "p", "html": "Une fois arrivé au sol, tu **désinstalles dans l'ordre** : tu libères l'autobloquant, tu retires le descendeur, tu tires sur un seul brin pour faire passer la corde dans le maillon du relais jusqu'à ce qu'elle tombe au sol. Tu **vérifies les deux brins** avant de tirer : il faut tirer du bon côté, sinon la corde reste coincée. Le brin du bas, celui qui passe en double dans le descendeur, est le brin à tirer."},
-    {"type": "p", "html": "Pendant que la corde tombe, **éloigne toi de la zone de chute**, garde le casque sur la tête. Une corde de 70 mètres qui tombe peut blesser sérieusement quelqu'un en dessous. Une fois la corde au sol, tu la lovas correctement pour le portage ou le prochain rappel. Tu peux consulter <a href=\"/blog/securite-escalade-regles-essentielles\">notre pilier sur les règles essentielles de sécurité</a> pour comprendre comment ces gestes s'inscrivent dans la culture du grimpeur autonome."},
-    {"type": "h2", "text": "Les erreurs classiques observées en falaise"},
-    {"type": "table", "caption": "Erreurs fréquentes au rappel et conséquences", "headers": ["Erreur", "Risque", "Parade"], "rows": [
-      ["Pas de nœud en bout de brin", "Sortie de corde, chute libre", "Double pêcheur systématique"],
-      ["Autobloquant au dessus du descendeur", "Pas de blocage en cas de chute", "Toujours en dessous, fixé au baudrier"],
-      ["Descendeur monté à l'envers", "Glissement non contrôlé", "Vérification visuelle avant tension"],
-      ["Désencordement prématuré", "Chute si descendeur mal monté", "Test sous tension avant longe défaite"],
-      ["Rappel sur simple brin", "Corde déséquilibrée, chute", "Toujours équilibrer au marqueur central"]
-    ]},
-    {"type": "h2", "text": "Cas particulier : rappel sur brin simple"},
-    {"type": "p", "html": "Dans certaines situations (corde trop courte, deux grimpeurs avec une seule corde), on peut être amené à faire un **rappel sur brin simple**. Ce n'est pas la méthode standard et elle exige une attention extrême. Le brin descend du relais avec un nœud d'arrêt au point fixe, l'autre brin est ramené avec une cordelette parallèle pour le rappel de la corde une fois arrivé en bas."},
-    {"type": "p", "html": "Cette technique demande une formation préalable, idéalement un stage **FFME grande voie** ou **escalade alpine**. Ne pas s'improviser à la sortie de la voie. Si la situation l'impose, il vaut mieux attendre des secours que de tester une procédure mal maîtrisée. Tu peux relire <a href=\"/blog/chute-en-tete-facteurs\">notre dossier sur la chute en tête et les facteurs de chute</a> qui pose les bases physiques de toute manœuvre encordée."},
-    {"type": "h2", "text": "Mon premier rappel ferré et ce que j'en ai appris"},
-    {"type": "p", "html": "Mon premier rappel sec, c'était à seize ans, après une sortie en grande voie au Saussois. Mon père m'avait montré la procédure trois fois au sol, je l'avais répétée. Le moment venu, en haut de la voie, je tremblais comme une feuille. J'ai mis huit minutes à installer le système. Mon père a contrôlé chaque étape, m'a fait tester sous tension, validé mon départ. Je suis descendu en trois minutes. À l'arrivée, j'étais en sueur mais l'avais fait."},
-    {"type": "p", "html": "Ce que j'ai appris : la **lenteur méthodique** vaut bien mieux que la vitesse approximative. Aujourd'hui, je mets toujours quatre à cinq minutes pour installer un rappel en grande voie. Personne ne te chronomètre, personne ne te juge sur la vitesse, et la marge d'erreur est immense quand tu prends le temps. La fatigue de fin de journée, je la gère en ralentissant encore plus, pas en accélérant."},
-    {"type": "quote", "text": "Le rappel ne pardonne pas l'à peu près. Cinq minutes de méthode au relais, c'est cinquante minutes de plaisir au sol.", "author": "Antoine", "role": "rédacteur escalade-france.fr"},
-    {"type": "h2", "text": "Se former au rappel et progresser"},
-    {"type": "p", "html": "Le rappel s'apprend en stage avec un moniteur breveté ou en école d'escalade, jamais en autodidacte sur YouTube. Les stages **passeport rouge FFME** ou les modules grande voie de la FFCAM intègrent systématiquement la procédure de rappel. Compte deux à trois sessions encadrées pour maîtriser le geste avant de te lancer seul en falaise."},
-    {"type": "p", "html": "Tu peux compléter avec <a href=\"/blog/partenaire-grimpe-confiance\">notre article sur le choix d'un partenaire de grimpe</a> qui détaille comment évaluer la fiabilité d'un compagnon de cordée. Le rappel est une manœuvre à deux : la qualité de ton partenaire compte autant que ta propre maîtrise."}
+    {
+      "type": "h2",
+      "text": "Pourquoi le rappel reste accidentogène"
+    },
+    {
+      "type": "p",
+      "html": "Le **rappel** est souvent la dernière action d'une longue journée de grimpe. Le grimpeur est fatigué, pressé de descendre, parfois en concurrence avec la nuit qui tombe. Cumule cette fatigue avec une procédure qui enchaîne huit ou dix gestes consécutifs et tu obtiens le terrain idéal pour l'erreur. Les rapports d'accidents <strong>Petzl</strong> confirment : le rappel concentre une part disproportionnée des accidents mortels par rapport à la fréquence de son utilisation."
+    },
+    {
+      "type": "p",
+      "html": "Les causes typiques se répètent : sortie de bout de corde, autobloquant mal placé, descendeur monté à l'envers, désencordement prématuré, rappel sur simple brin par erreur. Chacune de ces erreurs est évitable par un contrôle strict avant départ. La triple vérification s'applique au rappel autant qu'à l'encordement en tête. Tu peux relire <a href=\"/blog/verification-<strong>baudrier</strong>-corde-noeud\">notre fiche sur la triple vérification</a> qui pose les bases de la culture sécurité."
+    },
+    {
+      "type": "h2",
+      "text": "Étape 1, installer le rappel au relais"
+    },
+    {
+      "type": "p",
+      "html": "Tu arrives au relais (sommet de voie ou repose intermédiaire en <strong>grande voie</strong>). Tu es **vaché**, ton <strong>baudrier</strong> accroché par une longe ou une dégaine au point fixe. Tu fais passer ta corde dans le **maillon rapide** ou la chaîne du relais, jusqu'au milieu (marqueur central de la corde). Les deux brins descendent côte à côte vers le sol, parallèles, sans torsion."
+    },
+    {
+      "type": "p",
+      "html": "Tu fais un **nœud en bout de chaque brin** au sol. Un double pêcheur ou un huit avec un mou de sécurité suffit. Tu vérifies que les deux brins arrivent bien au sol, ou au moins au prochain relais. Si la voie est plus haute que la moitié de ta corde, il faut faire le rappel en deux temps. Pour une corde de 70 mètres, ton rappel maximum est de 35 mètres. C'est essentiel à anticiper avant d'engager la voie."
+    },
+    {
+      "type": "tip",
+      "title": "Le mouton noir",
+      "body": "Ne fais jamais confiance à un seul brin de corde au relais. Si tu installes mal et que la corde se met à filer, tu chutes. Les deux brins doivent être strictement équilibrés au passage dans le maillon, par exemple par un nœud de tête d'alouette ou simplement par alignement du marqueur central.",
+      "tone": "attention"
+    },
+    {
+      "type": "h2",
+      "text": "Étape 2, monter le descendeur et l'autobloquant"
+    },
+    {
+      "type": "p",
+      "html": "Tu prends ton **descendeur** (huit, ATC tube, GriGri, plaquette Reverso Petzl) et tu le clippes au mousqueton à vis du pontet de ton baudrier. Tu passes les deux brins de corde dans le descendeur selon la notice constructeur. Pour un huit, les deux brins passent en double dans la grande ouverture. Pour un tube ATC, les deux brins passent côte à côte dans les deux fentes."
+    },
+    {
+      "type": "p",
+      "html": "Ensuite, tu places l'**autobloquant Machard** ou Prusik en dessous du descendeur, sur les deux brins de corde combinés. Tu noues avec un cordelet de 6 ou 7 mm, environ 50 cm de longueur cousu en boucle. Tu fais trois ou quatre tours selon le diamètre de ta corde. Tu clippes l'autobloquant à la sangle de ton baudrier (boucle de jambe) avec un mousqueton à vis. Le sens est crucial : autobloquant **en dessous du descendeur**, jamais au dessus."
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Les six étapes d'installation du rappel",
+      "items": [
+        {
+          "title": "Vachage au relais",
+          "body": "Tu te clippes au point fixe avec ta longe ou une dégaine pour avoir les mains libres."
+        },
+        {
+          "title": "Passage de la corde",
+          "body": "La corde passe dans le maillon du relais jusqu'au milieu, deux brins équilibrés vers le sol."
+        },
+        {
+          "title": "Nœuds en bout de brins",
+          "body": "Un double pêcheur ou un huit sur chaque brin évite la sortie de corde."
+        },
+        {
+          "title": "Descendeur monté",
+          "body": "Le descendeur prend les deux brins, fixé au mousqueton à vis du pontet."
+        },
+        {
+          "title": "Autobloquant placé",
+          "body": "Le Machard sous le descendeur, sur les deux brins, fixé à la boucle de jambe."
+        },
+        {
+          "title": "Test sous tension",
+          "body": "Tu mets ton poids sur le système avant de désencorder ta longe."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Étape 3, contrôle croisé avant départ"
+    },
+    {
+      "type": "p",
+      "html": "Une fois tout monté, tu **testes le système sous tension** avant de désencorder ta longe. Tu te suspends doucement dans le baudrier, tu vérifies que le descendeur bloque comme prévu, que l'autobloquant agit en cas de relâchement, que la corde glisse de manière contrôlée quand tu la libères. Tu vérifies aussi que ton mousqueton à vis du pontet est bien verrouillé."
+    },
+    {
+      "type": "p",
+      "html": "Si tu es à plusieurs, **contrôle croisé** : ton partenaire regarde ton installation, tu regardes la sienne. Personne ne descend sans validation de l'autre. C'est exactement la même culture qu'au démarrage d'une voie en tête. Pour aller plus loin, tu peux consulter <a href=\"/blog/check-list-avant-grimper\">notre check list complète avant de grimper</a> qui rappelle l'importance du contrôle partagé."
+    },
+    {
+      "type": "h2",
+      "text": "Étape 4, la descente en rappel proprement dite"
+    },
+    {
+      "type": "p",
+      "html": "Tu désencordes ta longe du relais, en gardant une main sur le brin libre (en dessous du descendeur). Tu te laisses glisser progressivement, **pieds écartés en V** sur le mur, les jambes raides pour maintenir l'écart entre toi et la paroi. Tu freines avec la main basse, tu ne descends jamais à pleine vitesse. La position idéale, c'est une descente fluide d'environ trente centimètres par seconde sur un mur vertical."
+    },
+    {
+      "type": "p",
+      "html": "L'**autobloquant** suit ta main basse à mesure que tu descends. Tu le pousses doucement vers le bas pour ne pas bloquer le système. Si tu lâches tout (vertige, malaise, chute de pierre qui te frappe), l'autobloquant se serre automatiquement et te bloque sur la corde. C'est ton filet de sécurité, son installation correcte n'est pas négociable."
+    },
+    {
+      "type": "tip",
+      "title": "Le piège du rappel en surplomb",
+      "body": "Sur un mur en dévers, tu peux te retrouver dans le vide à plusieurs mètres de la paroi. La descente devient plus aérienne, parfois en spirale si la corde se vrille. Tu ralentis, tu te concentres sur le freinage et tu attends d'arriver au sol pour défaire le système. Pas de panique, le matériel tient.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Étape 5, arrivée au sol et désinstallation"
+    },
+    {
+      "type": "p",
+      "html": "Une fois arrivé au sol, tu **désinstalles dans l'ordre** : tu libères l'autobloquant, tu retires le descendeur, tu tires sur un seul brin pour faire passer la corde dans le maillon du relais jusqu'à ce qu'elle tombe au sol. Tu **vérifies les deux brins** avant de tirer : il faut tirer du bon côté, sinon la corde reste coincée. Le brin du bas, celui qui passe en double dans le descendeur, est le brin à tirer."
+    },
+    {
+      "type": "p",
+      "html": "Pendant que la corde tombe, **éloigne toi de la zone de chute**, garde le casque sur la tête. Une corde de 70 mètres qui tombe peut blesser sérieusement quelqu'un en dessous. Une fois la corde au sol, tu la lovas correctement pour le portage ou le prochain rappel. Tu peux consulter <a href=\"/blog/securite-escalade-regles-essentielles\">notre pilier sur les règles essentielles de sécurité</a> pour comprendre comment ces gestes s'inscrivent dans la culture du grimpeur autonome."
+    },
+    {
+      "type": "h2",
+      "text": "Les erreurs classiques observées en falaise"
+    },
+    {
+      "type": "table",
+      "caption": "Erreurs fréquentes au rappel et conséquences",
+      "headers": [
+        "Erreur",
+        "Risque",
+        "Parade"
+      ],
+      "rows": [
+        [
+          "Pas de nœud en bout de brin",
+          "Sortie de corde, chute libre",
+          "Double pêcheur systématique"
+        ],
+        [
+          "Autobloquant au dessus du descendeur",
+          "Pas de blocage en cas de chute",
+          "Toujours en dessous, fixé au baudrier"
+        ],
+        [
+          "Descendeur monté à l'envers",
+          "Glissement non contrôlé",
+          "Vérification visuelle avant tension"
+        ],
+        [
+          "Désencordement prématuré",
+          "Chute si descendeur mal monté",
+          "Test sous tension avant longe défaite"
+        ],
+        [
+          "Rappel sur simple brin",
+          "Corde déséquilibrée, chute",
+          "Toujours équilibrer au marqueur central"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Cas particulier : rappel sur brin simple"
+    },
+    {
+      "type": "p",
+      "html": "Dans certaines situations (corde trop courte, deux grimpeurs avec une seule corde), on peut être amené à faire un **rappel sur brin simple**. Ce n'est pas la méthode standard et elle exige une attention extrême. Le brin descend du relais avec un nœud d'arrêt au point fixe, l'autre brin est ramené avec une cordelette parallèle pour le rappel de la corde une fois arrivé en bas."
+    },
+    {
+      "type": "p",
+      "html": "Cette technique demande une formation préalable, idéalement un stage **FFME grande voie** ou **escalade alpine**. Ne pas s'improviser à la sortie de la voie. Si la situation l'impose, il vaut mieux attendre des secours que de tester une procédure mal maîtrisée. Tu peux relire <a href=\"/blog/chute-en-tete-facteurs\">notre dossier sur la chute en tête et les facteurs de chute</a> qui pose les bases physiques de toute manœuvre encordée."
+    },
+    {
+      "type": "h2",
+      "text": "Mon premier rappel ferré et ce que j'en ai appris"
+    },
+    {
+      "type": "p",
+      "html": "Mon premier rappel sec, c'était à seize ans, après une sortie en grande voie au Saussois. Mon père m'avait montré la procédure trois fois au sol, je l'avais répétée. Le moment venu, en haut de la voie, je tremblais comme une feuille. J'ai mis huit minutes à installer le système. Mon père a contrôlé chaque étape, m'a fait tester sous tension, validé mon départ. Je suis descendu en trois minutes. À l'arrivée, j'étais en sueur mais l'avais fait."
+    },
+    {
+      "type": "p",
+      "html": "Ce que j'ai appris : la **lenteur méthodique** vaut bien mieux que la vitesse approximative. Aujourd'hui, je mets toujours quatre à cinq minutes pour installer un rappel en grande voie. Personne ne te chronomètre, personne ne te juge sur la vitesse, et la marge d'erreur est immense quand tu prends le temps. La fatigue de fin de journée, je la gère en ralentissant encore plus, pas en accélérant."
+    },
+    {
+      "type": "quote",
+      "text": "Le rappel ne pardonne pas l'à peu près. Cinq minutes de méthode au relais, c'est cinquante minutes de plaisir au sol.",
+      "author": "Antoine",
+      "role": "rédacteur escalade-france.fr"
+    },
+    {
+      "type": "h2",
+      "text": "Se former au rappel et progresser"
+    },
+    {
+      "type": "p",
+      "html": "Le rappel s'apprend en stage avec un moniteur breveté ou en école d'escalade, jamais en autodidacte sur YouTube. Les stages **passeport rouge FFME** ou les modules grande voie de la FFCAM intègrent systématiquement la procédure de rappel. Compte deux à trois sessions encadrées pour maîtriser le geste avant de te lancer seul en falaise."
+    },
+    {
+      "type": "p",
+      "html": "Tu peux compléter avec <a href=\"/blog/partenaire-grimpe-confiance\">notre article sur le choix d'un partenaire de grimpe</a> qui détaille comment évaluer la fiabilité d'un compagnon de cordée. Le rappel est une manœuvre à deux : la qualité de ton partenaire compte autant que ta propre maîtrise."
+    }
   ],
   "faq": [
-    {"q": "Faut il toujours faire un autobloquant en rappel ?", "a": "Oui, systématiquement. L'autobloquant Machard ou Prusik est la deuxième sécurité du système. En cas de chute de pierre, malaise, vertige ou lâcher accidentel du brin libre, il bloque la corde et te maintient sur place. C'est une assurance vie qui coûte trente secondes à installer et qui sauve des vies chaque année."},
-    {"q": "Quel descendeur choisir pour le rappel ?", "a": "Le tube à plaquette ATC Black Diamond, Reverso Petzl ou Pivot Petzl reste le standard pour le rappel en double. Il accepte deux brins, freine bien et reste léger. Le huit dynamique convient aussi mais vrille la corde davantage. Le GriGri est mal adapté au rappel car il accepte un seul brin et ralentit la descente."},
-    {"q": "Peut on faire un rappel sans expérience préalable ?", "a": "Non, ne jamais improviser un rappel en falaise sans formation préalable. La majorité des accidents graves arrivent à des grimpeurs qui ont appris la procédure de manière théorique sans pratique encadrée. Suis au moins une journée de stage avec moniteur ou pratique au sol en école d'escalade avant de te lancer en grande voie."},
-    {"q": "Quelle longueur de corde prévoir pour le rappel ?", "a": "La corde sport standard de 70 mètres permet un rappel de 35 mètres maximum sur un brin replié au milieu. Pour les grandes voies de plus de 30 mètres par longueur, prévois deux cordes de rappel reliées par un nœud, ou une corde plus longue type 80 mètres. Anticipe toujours la longueur avant de t'engager."},
-    {"q": "Que faire si la corde reste coincée au rappel ?", "a": "Première vérification : tu tires du bon côté, le brin libre, pas le brin bloqué par un nœud. Si la corde résiste, tu remontes en ascendeur ou avec un Tibloc Petzl pour la libérer, jamais tu ne forces. Une corde coincée force des points de friction qui peuvent l'endommager. Si la situation devient inextricable, appelle les secours."},
-    {"q": "Le rappel s'apprend il en salle d'escalade ?", "a": "Certaines salles proposent des modules d'initiation au rappel sur des tours dédiées. C'est un excellent terrain d'entraînement pour acquérir les gestes en environnement contrôlé. Beaucoup de salles partenaires FFME organisent aussi des stages préparation grande voie qui incluent cette compétence avant une sortie réelle en falaise."}
+    {
+      "q": "Faut il toujours faire un autobloquant en rappel ?",
+      "a": "Oui, systématiquement. L'autobloquant Machard ou Prusik est la deuxième sécurité du système. En cas de chute de pierre, malaise, vertige ou lâcher accidentel du brin libre, il bloque la corde et te maintient sur place. C'est une assurance vie qui coûte trente secondes à installer et qui sauve des vies chaque année."
+    },
+    {
+      "q": "Quel descendeur choisir pour le rappel ?",
+      "a": "Le tube à plaquette ATC Black Diamond, Reverso Petzl ou Pivot Petzl reste le standard pour le rappel en double. Il accepte deux brins, freine bien et reste léger. Le huit dynamique convient aussi mais vrille la corde davantage. Le GriGri est mal adapté au rappel car il accepte un seul brin et ralentit la descente."
+    },
+    {
+      "q": "Peut on faire un rappel sans expérience préalable ?",
+      "a": "Non, ne jamais improviser un rappel en falaise sans formation préalable. La majorité des accidents graves arrivent à des grimpeurs qui ont appris la procédure de manière théorique sans pratique encadrée. Suis au moins une journée de stage avec moniteur ou pratique au sol en école d'escalade avant de te lancer en grande voie."
+    },
+    {
+      "q": "Quelle longueur de corde prévoir pour le rappel ?",
+      "a": "La corde sport standard de 70 mètres permet un rappel de 35 mètres maximum sur un brin replié au milieu. Pour les grandes voies de plus de 30 mètres par longueur, prévois deux cordes de rappel reliées par un nœud, ou une corde plus longue type 80 mètres. Anticipe toujours la longueur avant de t'engager."
+    },
+    {
+      "q": "Que faire si la corde reste coincée au rappel ?",
+      "a": "Première vérification : tu tires du bon côté, le brin libre, pas le brin bloqué par un nœud. Si la corde résiste, tu remontes en ascendeur ou avec un Tibloc Petzl pour la libérer, jamais tu ne forces. Une corde coincée force des points de friction qui peuvent l'endommager. Si la situation devient inextricable, appelle les secours."
+    },
+    {
+      "q": "Le rappel s'apprend il en salle d'escalade ?",
+      "a": "Certaines salles proposent des modules d'initiation au rappel sur des tours dédiées. C'est un excellent terrain d'entraînement pour acquérir les gestes en environnement contrôlé. Beaucoup de salles partenaires FFME organisent aussi des stages préparation grande voie qui incluent cette compétence avant une sortie réelle en falaise."
+    }
   ],
   "cover_alt": "Grimpeur installé en rappel sur double corde au sommet d'une voie d'escalade en falaise calcaire, autobloquant Machard visible sous le descendeur",
   "internal_links": [
-    {"slug": "securite-escalade-regles-essentielles", "anchor": "notre pilier sur les règles essentielles de sécurité", "context": "Pilier du cocon"},
-    {"slug": "verification-baudrier-corde-noeud", "anchor": "notre fiche sur la triple vérification", "context": "Article frère du cocon"},
-    {"slug": "check-list-avant-grimper", "anchor": "notre check list complète avant de grimper", "context": "Article frère du cocon"},
-    {"slug": "chute-en-tete-facteurs", "anchor": "notre dossier sur la chute en tête et les facteurs de chute", "context": "Article frère du cocon"},
-    {"slug": "partenaire-grimpe-confiance", "anchor": "notre article sur le choix d'un partenaire de grimpe", "context": "Article frère du cocon"}
+    {
+      "slug": "securite-escalade-regles-essentielles",
+      "anchor": "notre pilier sur les règles essentielles de sécurité",
+      "context": "Pilier du cocon"
+    },
+    {
+      "slug": "verification-baudrier-corde-noeud",
+      "anchor": "notre fiche sur la triple vérification",
+      "context": "Article frère du cocon"
+    },
+    {
+      "slug": "check-list-avant-grimper",
+      "anchor": "notre check list complète avant de grimper",
+      "context": "Article frère du cocon"
+    },
+    {
+      "slug": "chute-en-tete-facteurs",
+      "anchor": "notre dossier sur la chute en tête et les facteurs de chute",
+      "context": "Article frère du cocon"
+    },
+    {
+      "slug": "partenaire-grimpe-confiance",
+      "anchor": "notre article sur le choix d'un partenaire de grimpe",
+      "context": "Article frère du cocon"
+    }
   ],
   "scheduled_at": "2026-03-27T09:00:00+01:00"
 }

@@ -15,61 +15,187 @@
     "Le pantalon de grimpe doit autoriser le grand écart sans tirer aux genoux ou aux hanches."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Le principe des trois couches en grimpe"},
-    {"type": "p", "html": "Le système des trois couches vient de l'alpinisme mais s'applique directement à la grande voie et à la falaise par temps frais. Le principe est simple : chaque couche a un rôle précis, et tu ajoutes ou retires des couches selon l'activité du moment. Cette modularité permet de couvrir une amplitude thermique de 30 degrés avec le même bagage."},
-    {"type": "p", "html": "La <strong>base layer</strong> ou première couche gère l'humidité. Elle évacue la sueur de la peau vers l'extérieur pour éviter le refroidissement par évaporation. La couche intermédiaire isole, en piégeant une couche d'air chaud entre la peau et la couche externe. La couche externe protège contre les éléments : vent, pluie, neige. Chacune doit pouvoir se retirer indépendamment quand l'effort monte."},
-    {"type": "p", "html": "Au début je grimpais en t-shirt coton sous une polaire vieillie. Au moindre effort je transpirais, la sueur trempait le coton, j'avais froid à l'arrêt du relais. Le jour où j'ai testé un mérinos sous une softshell, le confort thermique a changé de catégorie. C'est l'investissement qui transforme le plus une journée de grande voie."},
-    {"type": "h2", "text": "La base layer, première peau technique"},
-    {"type": "p", "html": "La base layer se porte directement sur la peau. Deux philosophies : la laine mérinos naturelle et le synthétique technique. Le <strong>mérinos</strong> apporte une régulation thermique remarquable, ne pue pas même après plusieurs jours d'usage, garde un toucher doux, mais sèche moins vite que le synthétique. Compte 50-80 € pour un t-shirt manches courtes Patagonia Capilene Air ou Icebreaker 200."},
-    {"type": "p", "html": "Le synthétique technique en polyester technique sèche vite, absorbe peu, gère bien les transpirations rapides. Inconvénient : odeurs qui apparaissent en quelques heures d'effort intense. Patagonia Capilene, Mammut Aenergy, Black Diamond Sender en sont les références. Compte 35-60 € le t-shirt technique."},
+    {
+      "type": "h2",
+      "text": "Le principe des trois couches en grimpe"
+    },
+    {
+      "type": "p",
+      "html": "Le système des trois couches vient de l'alpinisme mais s'applique directement à la grande voie et à la falaise par temps frais. Le principe est simple : chaque couche a un rôle précis, et tu ajoutes ou retires des couches selon l'activité du moment. Cette modularité permet de couvrir une amplitude thermique de 30 degrés avec le même bagage."
+    },
+    {
+      "type": "p",
+      "html": "La base layer ou première couche gère l'humidité. Elle évacue la sueur de la peau vers l'extérieur pour éviter le refroidissement par évaporation. La couche intermédiaire isole, en piégeant une couche d'air chaud entre la peau et la couche externe. La couche externe protège contre les éléments : vent, pluie, neige. Chacune doit pouvoir se retirer indépendamment quand l'effort monte."
+    },
+    {
+      "type": "p",
+      "html": "Au début je grimpais en t-shirt coton sous une polaire vieillie. Au moindre effort je transpirais, la sueur trempait le coton, j'avais froid à l'arrêt du relais. Le jour où j'ai testé un mérinos sous une softshell, le confort thermique a changé de catégorie. C'est l'investissement qui transforme le plus une journée de grande voie."
+    },
+    {
+      "type": "h2",
+      "text": "La base layer, première peau technique"
+    },
+    {
+      "type": "p",
+      "html": "La base layer se porte directement sur la peau. Deux philosophies : la laine mérinos naturelle et le synthétique technique. Le <strong>mérinos</strong> apporte une régulation thermique remarquable, ne pue pas même après plusieurs jours d'usage, garde un toucher doux, mais sèche moins vite que le synthétique. Compte 50-80 € pour un t-shirt manches courtes Patagonia Capilene Air ou Icebreaker 200."
+    },
+    {
+      "type": "p",
+      "html": "Le synthétique technique en polyester technique sèche vite, absorbe peu, gère bien les transpirations rapides. Inconvénient : odeurs qui apparaissent en quelques heures d'effort intense. Patagonia Capilene, Mammut Aenergy, Black Diamond Sender en sont les références. Compte 35-60 € le t-shirt technique."
+    },
     {
       "type": "list",
       "variant": "cards",
       "title": "Trois base layers selon la saison",
       "items": [
-        {"title": "T-shirt mérinos été", "body": "150-180 g/m², manches courtes. Pour grimpe estivale en falaise, sortie bloc en mi-saison. Icebreaker Tech Lite, Patagonia Capilene Cool Merino. Autour de 55 €."},
-        {"title": "Manches longues mi-saison", "body": "200-250 g/m², mérinos ou synthétique. Pour printemps-automne en grande voie. Patagonia Capilene Midweight, Mammut Aegility Half-Zip. 60-80 €."},
-        {"title": "Sous-couche hiver", "body": "260-320 g/m², coupe ajustée, manches longues, mérinos pur. Pour grimpe hivernale en falaise sud, dry tooling, sites froids. Icebreaker 260 Tech, Smartwool Classic Thermal. 80-110 €."}
+        {
+          "title": "T-shirt mérinos été",
+          "body": "150-180 g/m², manches courtes. Pour grimpe estivale en falaise, sortie bloc en mi-saison. Icebreaker Tech Lite, Patagonia Capilene Cool Merino. Autour de 55 €."
+        },
+        {
+          "title": "Manches longues mi-saison",
+          "body": "200-250 g/m², mérinos ou synthétique. Pour printemps-automne en grande voie. Patagonia Capilene Midweight, Mammut Aegility Half-Zip. 60-80 €."
+        },
+        {
+          "title": "Sous-couche hiver",
+          "body": "260-320 g/m², coupe ajustée, manches longues, mérinos pur. Pour grimpe hivernale en falaise sud, dry tooling, sites froids. Icebreaker 260 Tech, Smartwool Classic Thermal. 80-110 €."
+        }
       ]
     },
-    {"type": "h2", "text": "La couche intermédiaire, isolation active"},
-    {"type": "p", "html": "La couche intermédiaire gère l'isolation pendant l'activité. Deux options principales : la polaire classique (Polartec ou équivalent) et la veste <strong>softshell</strong> légère. La polaire chauffe efficacement, est très respirante, mais arrête mal le vent. La softshell coupe le vent, offre une légère protection contre la bruine, mais reste plus chère."},
-    {"type": "p", "html": "Pour la grimpe active, je préfère désormais une softshell stretchy type Black Diamond Notion ou Patagonia R1 Air. La coupe permet les mouvements amples sans tirer, le tissu coupe le vent sur les relais ventés, et la respirabilité reste correcte tant qu'on n'est pas en plein effort. Compte 100-180 € pour un modèle technique. Une polaire fine type Patagonia R1 Pullover reste une bonne alternative à 110 €."},
-    {"type": "h2", "text": "La couche externe, protection face aux éléments"},
-    {"type": "p", "html": "Deux familles de couches externes selon la météo : la <strong>hardshell</strong> imperméable et la doudoune isolante. Elles ne se substituent pas, elles se cumulent selon les besoins."},
-    {"type": "p", "html": "La hardshell est une veste imperméable en membrane technique type Gore-Tex Pro ou eVent. Elle bloque la pluie battante, le vent fort, la neige. Indispensable pour la grande voie en montagne ou en bordure d'orage. Inconvénient : peu respirante en effort intense, lourde à transporter. Compte 250-450 € pour un modèle correct type Arc'teryx Beta LT, Patagonia Triolet, Mammut Convey Tour."},
-    {"type": "p", "html": "La doudoune isolante en duvet ou en synthétique se porte à l'arrêt, sur le relais entre deux longueurs, à la pause repas. Le <strong>duvet</strong> chauffe plus pour le poids mais perd ses propriétés mouillé. Le <strong>synthétique</strong> type Primaloft chauffe moins mais conserve sa fonction même humide. Une doudoune fine type Patagonia Nano Puff à 220 € ou Arc'teryx Atom LT à 280 € couvre 90% des besoins en grande voie."},
-    {"type": "h2", "text": "Le pantalon de grimpe, pièce sous-estimée"},
-    {"type": "p", "html": "Le pantalon de grimpe doit autoriser les mouvements extrêmes : grand écart, montée de pied haut, drapeau, croisé. Une coupe trop serrée bloque la hanche, une coupe trop ample accroche dans les chaussons et triche visuellement sur les profils. Les bons pantalons combinent stretch (élasthanne) et tissu solide (nylon ou coton mélangé)."},
-    {"type": "p", "html": "Modèles de référence : <strong>Black Diamond Notion</strong> (100 €) pour la polyvalence salle et falaise, <strong>Patagonia Hampi</strong> (90 €) pour la coupe ample style bloc, <strong>Mammut Massone</strong> (110 €) pour le côté technique en grande voie. En été, un short long type Prana Stretch Zion fait aussi bien le travail à 60 €."},
-    {"type": "h2", "text": "Adapter sa tenue à la saison et à l'activité"},
-    {"type": "p", "html": "La tenue type varie totalement selon l'activité. En salle l'hiver, un t-shirt léger et un short suffisent parce qu'on chauffe vite. En grande voie en mai, on monte avec t-shirt mérinos plus softshell, doudoune dans le sac. En bloc en novembre, doudoune pour les pauses absolument indispensable. Sur falaise estivale, t-shirt léger et coupe-vent suffisent."},
+    {
+      "type": "h2",
+      "text": "La couche intermédiaire, isolation active"
+    },
+    {
+      "type": "p",
+      "html": "La couche intermédiaire gère l'isolation pendant l'activité. Deux options principales : la polaire classique (Polartec ou équivalent) et la veste <strong>softshell</strong> légère. La polaire chauffe efficacement, est très respirante, mais arrête mal le vent. La softshell coupe le vent, offre une légère protection contre la bruine, mais reste plus chère."
+    },
+    {
+      "type": "p",
+      "html": "Pour la grimpe active, je préfère désormais une softshell stretchy type Black Diamond Notion ou Patagonia R1 Air. La coupe permet les mouvements amples sans tirer, le tissu coupe le vent sur les relais ventés, et la respirabilité reste correcte tant qu'on n'est pas en plein effort. Compte 100-180 € pour un modèle technique. Une polaire fine type Patagonia R1 Pullover reste une bonne alternative à 110 €."
+    },
+    {
+      "type": "h2",
+      "text": "La couche externe, protection face aux éléments"
+    },
+    {
+      "type": "p",
+      "html": "Deux familles de couches externes selon la météo : la <strong>hardshell</strong> imperméable et la doudoune isolante. Elles ne se substituent pas, elles se cumulent selon les besoins."
+    },
+    {
+      "type": "p",
+      "html": "La hardshell est une veste imperméable en membrane technique type Gore-Tex Pro ou eVent. Elle bloque la pluie battante, le vent fort, la neige. Indispensable pour la grande voie en montagne ou en bordure d'orage. Inconvénient : peu respirante en effort intense, lourde à transporter. Compte 250-450 € pour un modèle correct type Arc'teryx Beta LT, Patagonia Triolet, Mammut Convey Tour."
+    },
+    {
+      "type": "p",
+      "html": "La doudoune isolante en duvet ou en synthétique se porte à l'arrêt, sur le relais entre deux longueurs, à la pause repas. Le <strong>duvet</strong> chauffe plus pour le poids mais perd ses propriétés mouillé. Le <strong>synthétique</strong> type Primaloft chauffe moins mais conserve sa fonction même humide. Une doudoune fine type Patagonia Nano Puff à 220 € ou Arc'teryx Atom LT à 280 € couvre 90% des besoins en grande voie."
+    },
+    {
+      "type": "h2",
+      "text": "Le pantalon de grimpe, pièce sous-estimée"
+    },
+    {
+      "type": "p",
+      "html": "Le pantalon de grimpe doit autoriser les mouvements extrêmes : grand écart, montée de pied haut, drapeau, croisé. Une coupe trop serrée bloque la hanche, une coupe trop ample accroche dans les chaussons et triche visuellement sur les profils. Les bons pantalons combinent stretch (élasthanne) et tissu solide (nylon ou coton mélangé)."
+    },
+    {
+      "type": "p",
+      "html": "Modèles de référence : <strong>Black Diamond Notion</strong> (100 €) pour la polyvalence salle et falaise, <strong>Patagonia Hampi</strong> (90 €) pour la coupe ample style bloc, <strong>Mammut Massone</strong> (110 €) pour le côté technique en grande voie. En été, un short long type Prana Stretch Zion fait aussi bien le travail à 60 €."
+    },
+    {
+      "type": "h2",
+      "text": "Adapter sa tenue à la saison et à l'activité"
+    },
+    {
+      "type": "p",
+      "html": "La tenue type varie totalement selon l'activité. En salle l'hiver, un t-shirt léger et un short suffisent parce qu'on chauffe vite. En grande voie en mai, on monte avec t-shirt mérinos plus softshell, doudoune dans le sac. En bloc en novembre, doudoune pour les pauses absolument indispensable. Sur falaise estivale, t-shirt léger et coupe-vent suffisent."
+    },
     {
       "type": "table",
       "caption": "Tenue type par saison et activité",
-      "headers": ["Saison", "Salle", "Falaise sportive", "Grande voie"],
+      "headers": [
+        "Saison",
+        "Salle",
+        "Falaise sportive",
+        "Grande voie"
+      ],
       "rows": [
-        ["Été (20-30°C)", "T-shirt + short", "T-shirt + short, casquette", "T-shirt + short + coupe-vent dans sac"],
-        ["Mi-saison (10-20°C)", "T-shirt long + pantalon", "T-shirt + softshell légère", "T-shirt mérinos + softshell + doudoune"],
-        ["Hiver (0-10°C)", "Mérinos manche longue + pantalon", "Base layer + softshell + doudoune", "3 couches complètes + hardshell"]
+        [
+          "Été (20-30°C)",
+          "T-shirt + short",
+          "T-shirt + short, casquette",
+          "T-shirt + short + coupe-vent dans sac"
+        ],
+        [
+          "Mi-saison (10-20°C)",
+          "T-shirt long + pantalon",
+          "T-shirt + softshell légère",
+          "T-shirt mérinos + softshell + doudoune"
+        ],
+        [
+          "Hiver (0-10°C)",
+          "Mérinos manche longue + pantalon",
+          "Base layer + softshell + doudoune",
+          "3 couches complètes + hardshell"
+        ]
       ]
     },
-    {"type": "tip", "title": "Le piège du vêtement trop technique pour la salle", "body": "Tu n'as besoin ni d'une hardshell Gore-Tex Pro ni d'un mérinos haut de gamme pour grimper en salle. Un t-shirt technique synthétique à 25 € et un short en coton stretch suffisent largement. Le matériel technique a sa valeur en falaise et en montagne. En salle, c'est de l'overkit qui ne sert à rien. Garde le budget pour les pièces qui comptent dehors.", "tone": "astuce"}
+    {
+      "type": "tip",
+      "title": "Le piège du vêtement trop technique pour la salle",
+      "body": "Tu n'as besoin ni d'une hardshell Gore-Tex Pro ni d'un mérinos haut de gamme pour grimper en salle. Un t-shirt technique synthétique à 25 € et un short en coton stretch suffisent largement. Le matériel technique a sa valeur en falaise et en montagne. En salle, c'est de l'overkit qui ne sert à rien. Garde le budget pour les pièces qui comptent dehors.",
+      "tone": "astuce"
+    }
   ],
   "faq": [
-    {"q": "Le coton est-il vraiment à éviter en grimpe ?", "a": "Oui, pour la base layer en activité prolongée. Le coton absorbe la sueur sans l'évacuer, devient lourd, refroidit la peau quand on s'arrête. En salle pour une heure de grimpe, un t-shirt coton n'est pas dramatique. En grande voie ou en falaise par temps frais, le coton trempé devient inconfortable et peut devenir un facteur d'hypothermie. Préfère mérinos ou synthétique technique dès que la session dépasse 1h30 ou que la température baisse."},
-    {"q": "Une doudoune en duvet ou en synthétique pour la grimpe ?", "a": "Le synthétique gagne dans la majorité des cas pour l'escalade. Il garde sa capacité isolante même humide (transpiration, bruine), supporte mieux les frottements répétés des manipulations de baudrier et de relais, et coûte moins cher. Le duvet est plus chaud pour le poids, mais demande un soin attentif (séchage long, pas d'humidité). Pour la grimpe pure, Primaloft ou Coreloft synthétique reste la référence. Le duvet trouve sa place pour l'alpinisme et les bivouacs."},
-    {"q": "Combien dépenser pour une tenue grimpe complète d'hiver ?", "a": "Compte 400-600 € pour un set complet de qualité : base layer mérinos (60 €), softshell légère (130 €), doudoune synthétique (220 €), pantalon technique (95 €). En cherchant en outlet ou en occasion, tu peux descendre à 250-350 €. Les marques moyen de gamme comme Decathlon Simond ou Quechua proposent des équivalents corrects à moitié prix mais avec une durabilité moindre."},
-    {"q": "Faut-il une hardshell pour la grande voie en France ?", "a": "Pour la grande voie alpine en haute montagne, oui, c'est non négociable. Pour la grande voie en falaise calcaire (Verdon, Presles, Sainte-Victoire), une softshell coupe-vent suffit dans 90% des cas, parce qu'on choisit la météo et qu'on annule en cas de pluie battante. La hardshell devient utile pour le rappel en cas de bruine inattendue ou pour les sites de montagne plus exposés. Un modèle léger comme l'Arc'teryx Squamish (170 €) suffit pour ces usages occasionnels."},
-    {"q": "Quelle marque pour démarrer sans se ruiner ?", "a": "Décathlon Simond reste le meilleur rapport qualité-prix pour démarrer. Les vêtements techniques de la gamme couvrent les besoins essentiels à des prix 40-50% inférieurs aux marques premium. Pour monter en gamme progressivement, Patagonia et Black Diamond Notion proposent des collections accessibles autour de 80-130 € la pièce avec une durabilité supérieure. Arc'teryx, Mammut et Norrøna restent les références premium pour qui veut investir long terme."}
+    {
+      "q": "Le coton est-il vraiment à éviter en grimpe ?",
+      "a": "Oui, pour la base layer en activité prolongée. Le coton absorbe la sueur sans l'évacuer, devient lourd, refroidit la peau quand on s'arrête. En salle pour une heure de grimpe, un t-shirt coton n'est pas dramatique. En grande voie ou en falaise par temps frais, le coton trempé devient inconfortable et peut devenir un facteur d'hypothermie. Préfère mérinos ou synthétique technique dès que la session dépasse 1h30 ou que la température baisse."
+    },
+    {
+      "q": "Une doudoune en duvet ou en synthétique pour la grimpe ?",
+      "a": "Le synthétique gagne dans la majorité des cas pour l'escalade. Il garde sa capacité isolante même humide (transpiration, bruine), supporte mieux les frottements répétés des manipulations de baudrier et de relais, et coûte moins cher. Le duvet est plus chaud pour le poids, mais demande un soin attentif (séchage long, pas d'humidité). Pour la grimpe pure, Primaloft ou Coreloft synthétique reste la référence. Le duvet trouve sa place pour l'alpinisme et les bivouacs."
+    },
+    {
+      "q": "Combien dépenser pour une tenue grimpe complète d'hiver ?",
+      "a": "Compte 400-600 € pour un set complet de qualité : base layer mérinos (60 €), softshell légère (130 €), doudoune synthétique (220 €), pantalon technique (95 €). En cherchant en outlet ou en occasion, tu peux descendre à 250-350 €. Les marques moyen de gamme comme Decathlon Simond ou Quechua proposent des équivalents corrects à moitié prix mais avec une durabilité moindre."
+    },
+    {
+      "q": "Faut-il une hardshell pour la grande voie en France ?",
+      "a": "Pour la grande voie alpine en haute montagne, oui, c'est non négociable. Pour la grande voie en falaise calcaire (Verdon, Presles, Sainte-Victoire), une softshell coupe-vent suffit dans 90% des cas, parce qu'on choisit la météo et qu'on annule en cas de pluie battante. La hardshell devient utile pour le rappel en cas de bruine inattendue ou pour les sites de montagne plus exposés. Un modèle léger comme l'Arc'teryx Squamish (170 €) suffit pour ces usages occasionnels."
+    },
+    {
+      "q": "Quelle marque pour démarrer sans se ruiner ?",
+      "a": "Décathlon Simond reste le meilleur rapport qualité-prix pour démarrer. Les vêtements techniques de la gamme couvrent les besoins essentiels à des prix 40-50% inférieurs aux marques premium. Pour monter en gamme progressivement, Patagonia et Black Diamond Notion proposent des collections accessibles autour de 80-130 € la pièce avec une durabilité supérieure. Arc'teryx, Mammut et Norrøna restent les références premium pour qui veut investir long terme."
+    }
   ],
   "cover_alt": "Grimpeur au relais d'une grande voie en pleine montagne, doudoune synthétique noire enfilée par-dessus softshell rouge, casque visible, lumière dorée de soirée sur la falaise calcaire",
   "internal_links": [
-    {"slug": "materiel-escalade-essentiel", "anchor": "matériel essentiel d'escalade", "context": "pilier matériel"},
-    {"slug": "matos-grande-voie-checklist", "anchor": "checklist grande voie", "context": "tenue associée"},
-    {"slug": "matos-bloc-checklist", "anchor": "checklist matériel bloc", "context": "tenue associée"},
-    {"slug": "sac-escalade-emporter", "anchor": "sac à emporter", "context": "rangement vêtements"},
-    {"slug": "matos-occasion-acheter", "anchor": "acheter d'occasion", "context": "économiser sur le textile"}
+    {
+      "slug": "materiel-escalade-essentiel",
+      "anchor": "matériel essentiel d'escalade",
+      "context": "pilier matériel"
+    },
+    {
+      "slug": "matos-grande-voie-checklist",
+      "anchor": "checklist grande voie",
+      "context": "tenue associée"
+    },
+    {
+      "slug": "matos-bloc-checklist",
+      "anchor": "checklist matériel bloc",
+      "context": "tenue associée"
+    },
+    {
+      "slug": "sac-escalade-emporter",
+      "anchor": "sac à emporter",
+      "context": "rangement vêtements"
+    },
+    {
+      "slug": "matos-occasion-acheter",
+      "anchor": "acheter d'occasion",
+      "context": "économiser sur le textile"
+    }
   ],
   "scheduled_at": "2026-09-26T09:00:00+02:00"
 }
