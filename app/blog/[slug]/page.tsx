@@ -7,9 +7,9 @@ import { ArrowUpRight, Clock, Calendar as CalendarIcon } from "lucide-react";
 import { PageShell } from "@/components/page-shell";
 import { RenderBlock, KeyTakeaways } from "@/components/blog/blocks";
 import { TableOfContents } from "@/components/blog/toc";
-import { PillarLink } from "@/components/blog/pillar-link";
 import {
   COCON_LABEL,
+  categoryHref,
   articleHref,
   fetchArticleBySlug,
   formatPublishedDate,
@@ -70,6 +70,12 @@ export default async function BlogArticlePage(
       {
         "@type": "ListItem",
         position: 3,
+        name: COCON_LABEL[article.cocon],
+        item: `https://escalade-france.fr${categoryHref(article.cocon)}`,
+      },
+      {
+        "@type": "ListItem",
+        position: 4,
         name: article.h1,
         item: `https://escalade-france.fr/blog/${article.slug}`,
       },
@@ -144,13 +150,26 @@ export default async function BlogArticlePage(
             <div className="lg:col-span-6">
               <nav
                 aria-label="Fil d'Ariane"
-                className="flex flex-wrap items-center gap-2 font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground"
+                className="flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground"
               >
+                <Link href="/" className="hover:text-foreground">
+                  Accueil
+                </Link>
+                <span aria-hidden>›</span>
                 <Link href="/blog" className="hover:text-foreground">
                   Blog
                 </Link>
-                <span>·</span>
-                <span className="text-primary">{COCON_LABEL[article.cocon]}</span>
+                <span aria-hidden>›</span>
+                <Link
+                  href={categoryHref(article.cocon)}
+                  className="hover:text-foreground"
+                >
+                  {COCON_LABEL[article.cocon]}
+                </Link>
+                <span aria-hidden>›</span>
+                <span className="line-clamp-1 max-w-[40ch] text-foreground/85">
+                  {article.h1}
+                </span>
               </nav>
 
               <h1
@@ -164,7 +183,6 @@ export default async function BlogArticlePage(
                 {article.chapo}
               </p>
 
-              <PillarLink article={article} />
 
               <div className="mt-8 flex flex-wrap items-center gap-4 font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
                 <span className="inline-flex items-center gap-1.5">

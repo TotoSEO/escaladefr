@@ -8,7 +8,7 @@ import {
   COCON_LABEL,
   COCON_SLUG,
   articleHref,
-  coconHref,
+  categoryHref,
   fetchPublishedArticles,
   formatPublishedDate,
   readingTimeMinutes,
@@ -93,14 +93,14 @@ export default async function BlogPage() {
               § Navigation par thématique
             </span>
             <span className="font-mono text-[11px] uppercase tracking-[0.22em] text-muted-foreground">
-              9 cocons
+              9 catégories
             </span>
           </div>
           <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 sm:gap-4 lg:grid-cols-3">
             {(Object.keys(COCON_LABEL) as (keyof typeof COCON_LABEL)[]).map((c) => (
               <Link
                 key={c}
-                href={coconHref(c)}
+                href={categoryHref(c)}
                 className="group flex items-center justify-between gap-3 rounded-2xl border border-white/10 bg-coal-900 px-5 py-4 transition-all hover:border-primary/40 hover:bg-coal-800 sm:px-6 sm:py-5"
               >
                 <span className="font-display text-base font-medium tracking-[-0.01em] sm:text-lg">

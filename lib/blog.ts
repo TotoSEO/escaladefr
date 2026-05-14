@@ -279,9 +279,12 @@ export function articleHref(slug: string): string {
   return `/blog/${slug}`;
 }
 
-export function coconHref(c: Cocon): string {
-  return `/blog/cocon/${COCON_SLUG[c]}`;
+export function categoryHref(c: Cocon): string {
+  return `/blog/categorie/${COCON_SLUG[c]}`;
 }
+
+/** Alias rétro-compatible. */
+export const coconHref = categoryHref;
 
 /** Trouve le cocon depuis son slug d'URL (inverse de COCON_SLUG). */
 export function coconFromSlug(slug: string): Cocon | null {

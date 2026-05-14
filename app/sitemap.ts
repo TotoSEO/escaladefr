@@ -26,7 +26,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${SITE}/glossaire-escalade`, lastModified: now, changeFrequency: "monthly", priority: 0.85 },
     { url: `${SITE}/blog`, lastModified: now, changeFrequency: "weekly", priority: 0.7 },
     ...Object.values(COCON_SLUG).map((s) => ({
-      url: `${SITE}/blog/cocon/${s}`,
+      url: `${SITE}/blog/categorie/${s}`,
       lastModified: now,
       changeFrequency: "weekly" as const,
       priority: 0.7,
