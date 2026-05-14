@@ -105,7 +105,7 @@
     },
     {
       "type": "p",
-      "html": "Au-delà du palmarès, Charlotte Durif occupe une place particulière dans la culture grimpe française. Elle représente la génération charnière entre l'escalade compétition classique des années 1990-2000 et l'escalade média moderne des années 2020. Sa carrière hybride sert de référence pour les jeunes grimpeuses qui hésitent entre voie compétition stricte et liberté de la falaise, et prend place dans <a href=\"/blog/grimpeurs-grimpeuses-histoire-france\">l'histoire des grimpeurs et grimpeuses qui ont marqué la discipline</a>."
+      "html": "Au-delà du palmarès, Charlotte Durif occupe une place particulière dans la culture grimpe française. Elle représente la génération charnière entre l'escalade compétition classique des années 1990-2000 et l'escalade média moderne des années 2020. Sa carrière hybride sert de référence pour les jeunes grimpeuses qui hésitent entre voie compétition stricte et liberté de la falaise, en marge des trajectoires plus linéaires des générations précédentes."
     },
     {
       "type": "p",
@@ -142,28 +142,28 @@
   "internal_links": [
     {
       "slug": "grimpeurs-grimpeuses-histoire-france",
-      "anchor": "grimpeurs et grimpeuses qui ont marqué l'histoire",
-      "context": "pilier personnalites"
+      "anchor": "la galerie des champions et championnes",
+      "context": "pilier personnalités, premier lien interne"
+    },
+    {
+      "slug": "francaises-jeux-olympiques-paris",
+      "anchor": "parmi les plus grandes promesses françaises",
+      "context": "même cocon, contexte JO français"
+    },
+    {
+      "slug": "ceuse-cathedrale-calcaire",
+      "anchor": "plusieurs lignes longues à Céüse",
+      "context": "cross-cocon sites, falaise référence"
+    },
+    {
+      "slug": "patrick-edlinger-vie-falaise",
+      "anchor": "Patrick Edlinger et sa vie en falaise",
+      "context": "même cocon, génération précédente falaise"
     },
     {
       "slug": "francois-legrand-competition",
       "anchor": "François Legrand en compétition",
-      "context": "génération compétition française précédente"
-    },
-    {
-      "slug": "francaises-jeux-olympiques-paris",
-      "anchor": "les Françaises aux JO 2024",
-      "context": "génération suivante française"
-    },
-    {
-      "slug": "ceuse-cathedrale-calcaire",
-      "anchor": "Céüse, cathédrale du calcaire",
-      "context": "site de référence"
-    },
-    {
-      "slug": "patrick-edlinger-vie-falaise",
-      "anchor": "Patrick Edlinger et la vie en falaise",
-      "context": "modèle vie post-compétition"
+      "context": "même cocon, génération compétition précédente"
     }
   ],
   "scheduled_at": "2027-01-30T09:00:00+01:00"
