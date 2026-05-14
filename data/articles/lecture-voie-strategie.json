@@ -186,7 +186,7 @@
     },
     {
       "type": "p",
-      "html": "Si tu veux progresser vraiment en lecture, impose-toi un rituel : pas une voie grimpee sans 90 secondes minimum de lecture au sol. Pas d'exception, meme sur une 4 facile. Apres quatre semaines, ce reflexe devient automatique. Tu commenceras a voir des solutions de pieds que tu ne voyais pas avant. C'est un peu comme <a href=\"/blog/apprendre-escalade-debutant-2026\">apprendre</a> a lire la musique : au debut tu dechiffres lentement, puis tu lis fluide, puis tu joues directement."
+      "html": "Si tu veux progresser vraiment en lecture, impose-toi un rituel : pas une voie grimpee sans 90 secondes minimum de lecture au sol. Pas d'exception, meme sur une 4 facile. Apres quatre semaines, ce reflexe devient automatique. Tu commenceras a voir des solutions de pieds que tu ne voyais pas avant. C'est un peu comme <a href=\"/blog/apprendre-escalade-debutant\">apprendre</a> a lire la musique : au debut tu dechiffres lentement, puis tu lis fluide, puis tu joues directement."
     }
   ],
   "faq": [
@@ -218,7 +218,7 @@
   "cover_alt": "Une grimpeuse au pied d'une voie en salle d'escalade observe le mur les bras croises et le regard concentre, casquette grise et baudrier rouge, prises colorees sur un mur vertical blanc",
   "internal_links": [
     {
-      "slug": "apprendre-escalade-debutant-2026",
+      "slug": "apprendre-escalade-debutant",
       "anchor": "apprendre l'escalade en 2026",
       "context": "Pilier general du cocon"
     },

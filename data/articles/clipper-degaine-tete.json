@@ -21,7 +21,7 @@
     },
     {
       "type": "p",
-      "html": "Le clip, c'est le geste le plus dangereux de l'escalade en tete avec la chute serieuse. Tu sors une main, tu tires de la corde, tu cherches le mousqueton, tu pousses la corde dedans. Quatre micro-gestes en deux secondes, avec un bras pompe et la pression mentale de la chute. Resultat : <strong>40 % des chutes en tete</strong> ont lieu pendant ou juste apres un clip mal place. La premiere etape pour ne plus rater, c'est admettre que le clip merite un vrai apprentissage. Au niveau du cocon global, <a href=\"/blog/apprendre-escalade-debutant-2026\">le panorama des techniques d'escalade</a>."
+      "html": "Le clip, c'est le geste le plus dangereux de l'escalade en tete avec la chute serieuse. Tu sors une main, tu tires de la corde, tu cherches le mousqueton, tu pousses la corde dedans. Quatre micro-gestes en deux secondes, avec un bras pompe et la pression mentale de la chute. Resultat : <strong>40 % des chutes en tete</strong> ont lieu pendant ou juste apres un clip mal place. La premiere etape pour ne plus rater, c'est admettre que le clip merite un vrai apprentissage. Au niveau du cocon global, <a href=\"/blog/apprendre-escalade-debutant\">le panorama des techniques d'escalade</a>."
     },
     {
       "type": "p",
@@ -187,7 +187,7 @@
   "cover_alt": "Un grimpeur en tete en plein clip de degaine sur une voie en devers leger, main droite poussant la corde dans un mousqueton orange Petzl Ange, bras gauche tendu sur un bac jaune",
   "internal_links": [
     {
-      "slug": "apprendre-escalade-debutant-2026",
+      "slug": "apprendre-escalade-debutant",
       "anchor": "apprendre l'escalade en 2026",
       "context": "Pilier general"
     },

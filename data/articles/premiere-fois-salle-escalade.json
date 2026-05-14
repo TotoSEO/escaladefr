@@ -15,58 +15,215 @@
     "Une séance dure 1h30, pas trois heures, pour éviter la blessure du premier jour."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Choisir sa salle et son créneau"},
-    {"type": "p", "html": "La première question, c'est le type de salle. En France, les enseignes <strong>Climb Up, Vertical'Art et Arkose</strong> dominent les grandes villes, avec un mix bloc plus voies. À côté, beaucoup de gymnases FFME proposent un mur plus modeste et un encadrement associatif. Pour une première, la salle commerciale joue souvent en ta faveur : horaires larges, matériel de location dispo, ambiance accueillante, et personnel formé aux primo-arrivants."},
-    {"type": "p", "html": "Réserve un créneau dit découverte, ou viens un lundi midi, un mardi 14h, un mercredi 10h. Tu évites la déferlante du soir entre 18h et 21h, où tout le monde se partage trente voies et soixante blocs. Compte une heure et demie pour une première séance, pas plus. Au-delà, tes avant-bras ne te répondent plus et tu rentres avec une tendinite naissante qui te coûte trois semaines d'arrêt. Le passage à l'acte mérite donc un peu de préparation, même si l'envie te pousse à débarquer le soir même."},
-    {"type": "p", "html": "Demande aussi à l'accueil quelles sont les heures de pointe locales. Une salle de quartier en Île-de-France ne sature pas aux mêmes horaires qu'une salle de centre-ville lyonnais ou marseillais. À Colmar en 2013, je grimpais le mercredi après-midi parce que le gymnase Camille Sée ouvrait au public hors créneaux scolaires. C'est en heures creuses que tu peux observer les autres, demander conseil et tester sans pression."},
-    {"type": "h2", "text": "S'habiller et louer le matériel"},
-    {"type": "p", "html": "Côté tenue, oublie le jogging trop large qui se prend dans les prises et le tee-shirt en coton qui colle après dix minutes. Un short ou un legging souple, un haut respirant près du corps, et c'est plié. Tu peux grimper pieds nus dans les chaussons de location, ou en chaussettes fines si l'idée te gêne. La salle te louera chaussons et baudrier pour cinq à huit euros environ. Tu peux aussi venir avec ton baudrier perso si tu en as déjà un."},
-    {"type": "tip", "title": "Le piège du chausson trop grand", "body": "Demande une demi-pointure au-dessus de ton chausson de ville la première fois, pas trois. Un chausson trop large te fait riper sur les pieds et casse la confiance dès le début. La douleur viendra plus tard, quand tu choisiras un modèle plus serré.", "tone": "astuce"},
-    {"type": "p", "html": "Pour la magnésie, n'achète rien tout de suite. Beaucoup de salles fournissent un pot commun au pied des voies, ou tu peux acheter un sachet refermable à l'accueil pour deux ou trois euros. Une <a href=\"/blog/poser-pieds-escalade-placement\">main bien posée</a> ne transpire pas tant que ça sur 4 et 5a, donc tu pourras t'en passer au début. Les marques Petzl, Black Diamond et La Sportiva équipent la majorité des locations, c'est rassurant côté fiabilité du matos."},
-    {"type": "h2", "text": "L'accueil et le badge sécurité"},
-    {"type": "p", "html": "À l'entrée, tu passes au comptoir. La personne te fait remplir un formulaire qui demande ta date de naissance, une signature, parfois une question sur ton niveau. Pas de panique, tu coches débutant et c'est très bien. Dans les enseignes commerciales, on te fera passer une vidéo de cinq minutes sur les règles et un mini-quiz. Tant que tu n'as pas validé ce passage, tu ne peux pas assurer en moulinette, juste grimper en bloc ou utiliser l'autobelay."},
-    {"type": "p", "html": "Beaucoup de salles délivrent un <strong>badge passeport assurage</strong> après un test pratique avec un moniteur, généralement payant à part (20 à 35 euros). Si tu viens avec un grimpeur expérimenté qui sait t'assurer, tu peux directement passer en moulinette le jour même : c'est lui qui sera testé, pas toi. Sache que ce passeport n'est pas mutualisé entre enseignes. Le badge Climb Up ne fonctionne pas dans une Vertical'Art ni dans une Arkose, c'est un point souvent mal compris."},
-    {"type": "h2", "text": "Bloc, moulinette, autobelay : que choisir ?"},
-    {"type": "list", "variant": "cards", "title": "Les trois pratiques en salle, classées par accessibilité", "items": [
-      {"title": "Bloc", "body": "Pas de corde, pas de partenaire, tapis épais au sol, voies courtes de 3 à 4 mètres. Idéal pour une première séance solo. Tu répètes, tu chutes sans douleur, tu apprends à lire les mouvements et à oser le pied haut."},
-      {"title": "Autobelay", "body": "Voie à la corde de 10 à 15 mètres avec un enrouleur automatique en haut. Tu te clippes à ton baudrier, tu grimpes, l'engin te redescend en douceur. Parfait sans partenaire. Vérifie le clippage trois fois avant de partir."},
-      {"title": "Moulinette", "body": "Voie de 10 à 15 mètres avec un partenaire qui t'assure du sol. La corde est déjà installée en haut. C'est la pratique de référence pour progresser sur des voies plus longues et durer dans l'effort."}
-    ]},
-    {"type": "p", "html": "Pour ma première séance au gymnase Camille Sée de Colmar en 2013, j'avais commencé par le bloc parce que personne ne savait m'assurer. Je suis tombé quatre fois sur les fesses dans la même heure, et j'ai adoré. Le bloc te permet d'enchaîner les essais sans logistique. Tu peux <a href=\"/blog/bloc-techniques-base\">en lire les bases</a> avant d'y aller, mais l'expérience parle plus que la théorie. Évite seulement de sauter du haut sans regarder où tu retombes, c'est la cause numéro un d'entorse de cheville chez le débutant."},
-    {"type": "p", "html": "L'autobelay rassure les solos. Tu connectes la sangle à ton baudrier via un mousqueton à clé spécifique, jaune ou bleu, et tu lances la voie. Au sommet, tu lâches tout, le système te ramène au sol en quinze à vingt secondes. La règle d'or : tu vérifies la sangle deux fois avant de quitter le sol, et tu ne saute jamais en se balançant volontairement. Les accidents d'autobelay arrivent presque toujours d'un oubli de clip, pas d'une panne mécanique."},
-    {"type": "h2", "text": "Lire une voie : les couleurs et les cotations"},
-    {"type": "p", "html": "Sur le mur, chaque voie est balisée par des prises d'une couleur unique. Tu suis cette couleur, du départ marqué au sol (souvent deux prises identifiées) jusqu'au sommet où un dégaine de couleur identique sur la dernière prise. La cotation est écrite sur une étiquette au pied de la voie : <strong>3, 4, 5a, 5b, 5c, 6a, 6b, 7a</strong>. Pour une première, vise 3, 4 et 5a. C'est facile sur le papier, c'est déjà un travail réel pour ton corps."},
-    {"type": "table", "caption": "Équivalences cotations corde et bloc en salle", "headers": ["Cotation voie", "Cotation bloc", "Profil typique"], "rows": [
-      ["3 à 4", "4 (jaune ou vert)", "Grosses prises bac, peu d'inclinaison, première fois"],
-      ["5a à 5c", "5 (bleu)", "Plus de variété, dalle ou léger dévers, niveau confirmé"],
-      ["6a à 6b", "6a-6b (rouge)", "Apparition des réglettes, pieds plus précis"],
-      ["6c à 7a", "6c-7a (noir ou violet)", "Dévers marqués, lecture de voie indispensable"]
-    ]},
-    {"type": "p", "html": "Vocabulaire utile à connaître dès la première séance : un <strong>bac</strong> est une grosse prise en main franche, une <strong>réglette</strong> est une prise fine pour les doigts, un <strong>sloper</strong> est une prise ronde sans relief, une pince se serre entre pouce et doigts, une inversée se tire vers le haut. Les voies débutantes mélangent surtout des bacs et quelques bonnes prises de pied. Tu rencontres les types plus exotiques à partir de 5c, quand tu commences à <a href=\"/blog/lecture-voie-strategie\">lire ta voie avant de grimper</a>."},
-    {"type": "h2", "text": "Les règles non écrites du lieu"},
-    {"type": "p", "html": "Trois réflexes sauvent ta séance et celle des autres. Ne grimpe jamais sous quelqu'un qui descend, contourne la zone de chute. N'assure jamais en regardant ton téléphone, même dix secondes : le partenaire qui chute à la seconde d'inattention paie cher. Et brosse les prises grasses avec la brossette de la salle, c'est un service rendu au prochain grimpeur. Ces trois gestes te font passer pour quelqu'un de fiable dès la première fois."},
-    {"type": "quote", "text": "Le grimpeur poli est celui qui repère les autres avant de poser ses pieds.", "author": "Antoine", "role": "rédacteur de cette page, grimpeur depuis 2013"},
-    {"type": "p", "html": "Quatrième règle souvent oubliée : on ne traverse pas le tapis bloc sans vérifier qu'on ne se met pas sous la trajectoire d'un grimpeur en pleine action. Ça paraît évident, ça ne l'est pas dans le feu du jeu. Cinquième : on n'occupe pas une voie en moulinette pendant 20 minutes pour discuter, on tourne, on libère la corde, on rejoue. Une salle est un espace partagé qui marche sur du bon sens et un peu d'attention aux autres."},
-    {"type": "h2", "text": "Après la séance : douche, étirements, retour"},
-    {"type": "p", "html": "Tu vas avoir les avant-bras gonflés, les doigts qui tirent, parfois une douleur à l'épaule si tu as bourriné les bras. C'est normal pour une première. Étire-toi cinq minutes en sortant, hydrate-toi, et planifie ta deuxième séance dans <strong>72 heures minimum</strong>. Le tendon a besoin de ce délai pour se récupérer, surtout au début. C'est le seul moyen de tenir dans la durée sans blessure des poulies, le mal classique du grimpeur trop pressé."},
-    {"type": "p", "html": "Si tu as accroché, regarde le programme de la salle : cours collectifs, stages, partenaires de grimpe affichés sur un mur dédié. Beaucoup de grimpeurs cherchent un compagnon d'assurage, c'est l'occasion idéale pour <a href=\"/blog/grimper-en-moulinette\">passer en moulinette</a> et débloquer la suite. Pense aussi à noter les voies que tu as faites et celles qui ont coincé, c'est la base d'un suivi sérieux qui te fera progresser d'un niveau en six à huit semaines, pas trois jours."}
+    {
+      "type": "h2",
+      "text": "Choisir sa salle et son créneau"
+    },
+    {
+      "type": "p",
+      "html": "La première question, c'est le type de salle. En France, les enseignes <strong>Climb Up, Vertical'Art et Arkose</strong> dominent les grandes villes, avec un mix bloc plus voies. À côté, beaucoup de gymnases FFME proposent un mur plus modeste et un encadrement associatif. Pour une première, la salle commerciale joue souvent en ta faveur : horaires larges, matériel de location dispo, ambiance accueillante, et personnel formé aux primo-arrivants."
+    },
+    {
+      "type": "p",
+      "html": "Réserve un créneau dit découverte, ou viens un lundi midi, un mardi 14h, un mercredi 10h. Tu évites la déferlante du soir entre 18h et 21h, où tout le monde se partage trente voies et soixante blocs. Compte une heure et demie pour une première séance, pas plus. Au-delà, tes avant-bras ne te répondent plus et tu rentres avec une tendinite naissante qui te coûte trois semaines d'arrêt. Le passage à l'acte mérite donc un peu de préparation, même si l'envie te pousse à débarquer le soir même."
+    },
+    {
+      "type": "p",
+      "html": "Demande aussi à l'accueil quelles sont les heures de pointe locales. Une salle de quartier en Île-de-France ne sature pas aux mêmes horaires qu'une salle de centre-ville lyonnais ou marseillais. À Colmar en 2013, je grimpais le mercredi après-midi parce que le gymnase Camille Sée ouvrait au public hors créneaux scolaires. C'est en heures creuses que tu peux observer les autres, demander conseil et tester sans pression."
+    },
+    {
+      "type": "h2",
+      "text": "S'habiller et louer le matériel"
+    },
+    {
+      "type": "p",
+      "html": "Côté tenue, oublie le jogging trop large qui se prend dans les prises et le tee-shirt en coton qui colle après dix minutes. Un short ou un legging souple, un haut respirant près du corps, et c'est plié. Tu peux grimper pieds nus dans les chaussons de location, ou en chaussettes fines si l'idée te gêne. La salle te louera chaussons et baudrier pour cinq à huit euros environ. Tu peux aussi venir avec ton baudrier perso si tu en as déjà un."
+    },
+    {
+      "type": "tip",
+      "title": "Le piège du chausson trop grand",
+      "body": "Demande une demi-pointure au-dessus de ton chausson de ville la première fois, pas trois. Un chausson trop large te fait riper sur les pieds et casse la confiance dès le début. La douleur viendra plus tard, quand tu choisiras un modèle plus serré.",
+      "tone": "astuce"
+    },
+    {
+      "type": "p",
+      "html": "Pour la magnésie, n'achète rien tout de suite. Beaucoup de salles fournissent un pot commun au pied des voies, ou tu peux acheter un sachet refermable à l'accueil pour deux ou trois euros. Une <a href=\"/blog/poser-pieds-escalade-placement\">main bien posée</a> ne transpire pas tant que ça sur 4 et 5a, donc tu pourras t'en passer au début. Les marques Petzl, Black Diamond et La Sportiva équipent la majorité des locations, c'est rassurant côté fiabilité du matos."
+    },
+    {
+      "type": "h2",
+      "text": "L'accueil et le badge sécurité"
+    },
+    {
+      "type": "p",
+      "html": "À l'entrée, tu passes au comptoir. La personne te fait remplir un formulaire qui demande ta date de naissance, une signature, parfois une question sur ton niveau. Pas de panique, tu coches débutant et c'est très bien. Dans les enseignes commerciales, on te fera passer une vidéo de cinq minutes sur les règles et un mini-quiz. Tant que tu n'as pas validé ce passage, tu ne peux pas assurer en moulinette, juste grimper en bloc ou utiliser l'autobelay."
+    },
+    {
+      "type": "p",
+      "html": "Beaucoup de salles délivrent un <strong>badge passeport assurage</strong> après un test pratique avec un moniteur, généralement payant à part (20 à 35 euros). Si tu viens avec un grimpeur expérimenté qui sait t'assurer, tu peux directement passer en moulinette le jour même : c'est lui qui sera testé, pas toi. Sache que ce passeport n'est pas mutualisé entre enseignes. Le badge Climb Up ne fonctionne pas dans une Vertical'Art ni dans une Arkose, c'est un point souvent mal compris."
+    },
+    {
+      "type": "h2",
+      "text": "Bloc, moulinette, autobelay : que choisir ?"
+    },
+    {
+      "type": "list",
+      "variant": "cards",
+      "title": "Les trois pratiques en salle, classées par accessibilité",
+      "items": [
+        {
+          "title": "Bloc",
+          "body": "Pas de corde, pas de partenaire, tapis épais au sol, voies courtes de 3 à 4 mètres. Idéal pour une première séance solo. Tu répètes, tu chutes sans douleur, tu apprends à lire les mouvements et à oser le pied haut."
+        },
+        {
+          "title": "Autobelay",
+          "body": "Voie à la corde de 10 à 15 mètres avec un enrouleur automatique en haut. Tu te clippes à ton baudrier, tu grimpes, l'engin te redescend en douceur. Parfait sans partenaire. Vérifie le clippage trois fois avant de partir."
+        },
+        {
+          "title": "Moulinette",
+          "body": "Voie de 10 à 15 mètres avec un partenaire qui t'assure du sol. La corde est déjà installée en haut. C'est la pratique de référence pour progresser sur des voies plus longues et durer dans l'effort."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "html": "Pour ma première séance au gymnase Camille Sée de Colmar en 2013, j'avais commencé par le bloc parce que personne ne savait m'assurer. Je suis tombé quatre fois sur les fesses dans la même heure, et j'ai adoré. Le bloc te permet d'enchaîner les essais sans logistique. Tu peux <a href=\"/blog/bloc-techniques-base\">en lire les bases</a> avant d'y aller, mais l'expérience parle plus que la théorie. Évite seulement de sauter du haut sans regarder où tu retombes, c'est la cause numéro un d'entorse de cheville chez le débutant."
+    },
+    {
+      "type": "p",
+      "html": "L'autobelay rassure les solos. Tu connectes la sangle à ton baudrier via un mousqueton à clé spécifique, jaune ou bleu, et tu lances la voie. Au sommet, tu lâches tout, le système te ramène au sol en quinze à vingt secondes. La règle d'or : tu vérifies la sangle deux fois avant de quitter le sol, et tu ne saute jamais en se balançant volontairement. Les accidents d'autobelay arrivent presque toujours d'un oubli de clip, pas d'une panne mécanique."
+    },
+    {
+      "type": "h2",
+      "text": "Lire une voie : les couleurs et les cotations"
+    },
+    {
+      "type": "p",
+      "html": "Sur le mur, chaque voie est balisée par des prises d'une couleur unique. Tu suis cette couleur, du départ marqué au sol (souvent deux prises identifiées) jusqu'au sommet où un dégaine de couleur identique sur la dernière prise. La cotation est écrite sur une étiquette au pied de la voie : <strong>3, 4, 5a, 5b, 5c, 6a, 6b, 7a</strong>. Pour une première, vise 3, 4 et 5a. C'est facile sur le papier, c'est déjà un travail réel pour ton corps."
+    },
+    {
+      "type": "table",
+      "caption": "Équivalences cotations corde et bloc en salle",
+      "headers": [
+        "Cotation voie",
+        "Cotation bloc",
+        "Profil typique"
+      ],
+      "rows": [
+        [
+          "3 à 4",
+          "4 (jaune ou vert)",
+          "Grosses prises bac, peu d'inclinaison, première fois"
+        ],
+        [
+          "5a à 5c",
+          "5 (bleu)",
+          "Plus de variété, dalle ou léger dévers, niveau confirmé"
+        ],
+        [
+          "6a à 6b",
+          "6a-6b (rouge)",
+          "Apparition des réglettes, pieds plus précis"
+        ],
+        [
+          "6c à 7a",
+          "6c-7a (noir ou violet)",
+          "Dévers marqués, lecture de voie indispensable"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "html": "Vocabulaire utile à connaître dès la première séance : un <strong>bac</strong> est une grosse prise en main franche, une <strong>réglette</strong> est une prise fine pour les doigts, un <strong>sloper</strong> est une prise ronde sans relief, une pince se serre entre pouce et doigts, une inversée se tire vers le haut. Les voies débutantes mélangent surtout des bacs et quelques bonnes prises de pied. Tu rencontres les types plus exotiques à partir de 5c, quand tu commences à <a href=\"/blog/lecture-voie-strategie\">lire ta voie avant de grimper</a>."
+    },
+    {
+      "type": "h2",
+      "text": "Les règles non écrites du lieu"
+    },
+    {
+      "type": "p",
+      "html": "Trois réflexes sauvent ta séance et celle des autres. Ne grimpe jamais sous quelqu'un qui descend, contourne la zone de chute. N'assure jamais en regardant ton téléphone, même dix secondes : le partenaire qui chute à la seconde d'inattention paie cher. Et brosse les prises grasses avec la brossette de la salle, c'est un service rendu au prochain grimpeur. Ces trois gestes te font passer pour quelqu'un de fiable dès la première fois."
+    },
+    {
+      "type": "quote",
+      "text": "Le grimpeur poli est celui qui repère les autres avant de poser ses pieds.",
+      "author": "Antoine",
+      "role": "rédacteur de cette page, grimpeur depuis 2013"
+    },
+    {
+      "type": "p",
+      "html": "Quatrième règle souvent oubliée : on ne traverse pas le tapis bloc sans vérifier qu'on ne se met pas sous la trajectoire d'un grimpeur en pleine action. Ça paraît évident, ça ne l'est pas dans le feu du jeu. Cinquième : on n'occupe pas une voie en moulinette pendant 20 minutes pour discuter, on tourne, on libère la corde, on rejoue. Une salle est un espace partagé qui marche sur du bon sens et un peu d'attention aux autres."
+    },
+    {
+      "type": "h2",
+      "text": "Après la séance : douche, étirements, retour"
+    },
+    {
+      "type": "p",
+      "html": "Tu vas avoir les avant-bras gonflés, les doigts qui tirent, parfois une douleur à l'épaule si tu as bourriné les bras. C'est normal pour une première. Étire-toi cinq minutes en sortant, hydrate-toi, et planifie ta deuxième séance dans <strong>72 heures minimum</strong>. Le tendon a besoin de ce délai pour se récupérer, surtout au début. C'est le seul moyen de tenir dans la durée sans blessure des poulies, le mal classique du grimpeur trop pressé."
+    },
+    {
+      "type": "p",
+      "html": "Si tu as accroché, regarde le programme de la salle : cours collectifs, stages, partenaires de grimpe affichés sur un mur dédié. Beaucoup de grimpeurs cherchent un compagnon d'assurage, c'est l'occasion idéale pour <a href=\"/blog/grimper-en-moulinette\">passer en moulinette</a> et débloquer la suite. Pense aussi à noter les voies que tu as faites et celles qui ont coincé, c'est la base d'un suivi sérieux qui te fera progresser d'un niveau en six à huit semaines, pas trois jours."
+    }
   ],
   "faq": [
-    {"q": "Faut-il réserver pour grimper en salle d'escalade ?", "a": "Pour ta toute première fois, oui, en général. Les enseignes Climb Up, Vertical'Art et Arkose te font passer une induction de 15 à 30 minutes qui n'est pas toujours dispo en walk-in. Sur les séances suivantes, tu paies à l'entrée comme une piscine."},
-    {"q": "Combien coûte une séance de découverte ?", "a": "Compte entre 15 et 25 euros pour l'entrée, plus 5 à 8 euros si tu loues chaussons et baudrier. Beaucoup de salles proposent un pack initiation à 35-45 euros qui inclut le matériel et un cours collectif d'une heure avec un moniteur diplômé."},
-    {"q": "Quel âge minimum pour grimper en salle ?", "a": "La plupart des salles acceptent les enfants dès 4 ans en sections kids, et à partir de 8 ans sur le mur classique avec un adulte assureur. Pour les ados et adultes, pas de limite haute. On peut <a href=\"/blog/escalade-senior-debuter\">commencer après 50 ans</a> sans problème."},
-    {"q": "Est-ce qu'on a vraiment besoin de force pour débuter ?", "a": "Non. Les voies 3, 4 et 5a se font avec des gros bacs et un placement de pieds correct. Beaucoup de débutants veulent tout tirer aux bras et s'épuisent en dix minutes. Le travail des pieds et du corps prime, la force vient après."},
-    {"q": "Et si je viens seul, je peux quand même grimper à la corde ?", "a": "Oui, via l'autobelay. La plupart des salles en ont deux à quatre, répartis sur des voies de 5a à 6b. C'est la solution standard pour grimper à la corde sans partenaire, tant que tu as validé le passeport de la salle."},
-    {"q": "Combien de séances pour vraiment progresser ?", "a": "Compte deux séances par semaine pendant six semaines pour passer du 4 au 5c en bloc et à la corde. Après, la courbe ralentit et tu rentres dans une logique de placement et de lecture, pas de force. La progression devient plus lente mais durable."}
+    {
+      "q": "Faut-il réserver pour grimper en salle d'escalade ?",
+      "a": "Pour ta toute première fois, oui, en général. Les enseignes Climb Up, Vertical'Art et Arkose te font passer une induction de 15 à 30 minutes qui n'est pas toujours dispo en walk-in. Sur les séances suivantes, tu paies à l'entrée comme une piscine."
+    },
+    {
+      "q": "Combien coûte une séance de découverte ?",
+      "a": "Compte entre 15 et 25 euros pour l'entrée, plus 5 à 8 euros si tu loues chaussons et baudrier. Beaucoup de salles proposent un pack initiation à 35-45 euros qui inclut le matériel et un cours collectif d'une heure avec un moniteur diplômé."
+    },
+    {
+      "q": "Quel âge minimum pour grimper en salle ?",
+      "a": "La plupart des salles acceptent les enfants dès 4 ans en sections kids, et à partir de 8 ans sur le mur classique avec un adulte assureur. Pour les ados et adultes, pas de limite haute. On peut <a href=\"/blog/escalade-senior-debuter\">commencer après 50 ans</a> sans problème."
+    },
+    {
+      "q": "Est-ce qu'on a vraiment besoin de force pour débuter ?",
+      "a": "Non. Les voies 3, 4 et 5a se font avec des gros bacs et un placement de pieds correct. Beaucoup de débutants veulent tout tirer aux bras et s'épuisent en dix minutes. Le travail des pieds et du corps prime, la force vient après."
+    },
+    {
+      "q": "Et si je viens seul, je peux quand même grimper à la corde ?",
+      "a": "Oui, via l'autobelay. La plupart des salles en ont deux à quatre, répartis sur des voies de 5a à 6b. C'est la solution standard pour grimper à la corde sans partenaire, tant que tu as validé le passeport de la salle."
+    },
+    {
+      "q": "Combien de séances pour vraiment progresser ?",
+      "a": "Compte deux séances par semaine pendant six semaines pour passer du 4 au 5c en bloc et à la corde. Après, la courbe ralentit et tu rentres dans une logique de placement et de lecture, pas de force. La progression devient plus lente mais durable."
+    }
   ],
   "cover_alt": "Un grimpeur débutant en tee-shirt gris pose le pied sur une prise jaune au pied d'une voie en salle d'escalade aux murs colorés, baudrier noir aux hanches",
   "internal_links": [
-    {"slug": "apprendre-escalade-debutant-2026", "anchor": "apprendre l'escalade en 2026", "context": "Pilier général du cocon"},
-    {"slug": "grimper-en-moulinette", "anchor": "passer en moulinette", "context": "Étape suivante après l'initiation"},
-    {"slug": "grimper-en-tete-premiere-fois", "anchor": "franchir le cap de la tête", "context": "Étape ultérieure de progression"},
-    {"slug": "bloc-techniques-base", "anchor": "en lire les bases", "context": "Pour les adeptes du bloc"},
-    {"slug": "poser-pieds-escalade-placement", "anchor": "main bien posée", "context": "Lien transverse vers la technique"},
-    {"slug": "lecture-voie-strategie", "anchor": "lire ta voie avant de grimper", "context": "Lien pour la suite logique"}
+    {
+      "slug": "apprendre-escalade-debutant",
+      "anchor": "apprendre l'escalade en 2026",
+      "context": "Pilier général du cocon"
+    },
+    {
+      "slug": "grimper-en-moulinette",
+      "anchor": "passer en moulinette",
+      "context": "Étape suivante après l'initiation"
+    },
+    {
+      "slug": "grimper-en-tete-premiere-fois",
+      "anchor": "franchir le cap de la tête",
+      "context": "Étape ultérieure de progression"
+    },
+    {
+      "slug": "bloc-techniques-base",
+      "anchor": "en lire les bases",
+      "context": "Pour les adeptes du bloc"
+    },
+    {
+      "slug": "poser-pieds-escalade-placement",
+      "anchor": "main bien posée",
+      "context": "Lien transverse vers la technique"
+    },
+    {
+      "slug": "lecture-voie-strategie",
+      "anchor": "lire ta voie avant de grimper",
+      "context": "Lien pour la suite logique"
+    }
   ],
   "scheduled_at": "2026-05-26T09:00:00+02:00"
 }
