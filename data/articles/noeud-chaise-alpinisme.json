@@ -76,7 +76,7 @@
     },
     {
       "type": "p",
-      "html": "Le nœud de chaise simple présente un défaut connu : il peut <strong>se défaire spontanément</strong> sous cycles de tension répétés et secousses, particulièrement sur corde dynamique souple. Ce mode de défaillance a causé <a href=\"/blog/noeuds-escalade-utiles-guide\">plusieurs accidents documentés en escalade</a> sportive dans les années 1980, ce qui a accéléré la bascule pédagogique vers le huit en double."
+      "html": "Le nœud de chaise simple présente un défaut connu : il peut <strong>se défaire spontanément</strong> sous cycles de tension répétés et secousses, particulièrement sur corde dynamique souple. Ce mode de défaillance a causé plusieurs accidents documentés en escalade sportive dans les années 1980, ce qui a accéléré la bascule pédagogique vers le huit en double."
     },
     {
       "type": "p",
@@ -233,23 +233,23 @@
   "internal_links": [
     {
       "slug": "noeuds-escalade-utiles-guide",
-      "anchor": "panorama des nœuds utiles en escalade",
-      "context": "pilier cocon"
+      "anchor": "le répertoire des nœuds d'escalade",
+      "context": "pilier nœuds, premier lien interne"
     },
     {
       "slug": "noeud-huit-encordement",
-      "anchor": "huit en double",
-      "context": "comparaison nœud principal"
+      "anchor": "du nœud de huit pour l'encordement",
+      "context": "même cocon, comparaison standard moderne"
     },
     {
       "slug": "retenir-noeuds-escalade-methode",
-      "anchor": "mémorisation du geste",
-      "context": "apprentissage"
+      "anchor": "méthode de la métaphore du serpent",
+      "context": "même cocon, aide mnémotechnique"
     },
     {
       "slug": "verifier-noeud-partenaire",
-      "anchor": "vérification croisée systématique",
-      "context": "rituel sécurité"
+      "anchor": "Le contrôle croisé du nœud du partenaire",
+      "context": "même cocon, vérification arrêt"
     }
   ],
   "scheduled_at": "2026-10-22T09:00:00+02:00"
