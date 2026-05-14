@@ -25,7 +25,7 @@
     },
     {
       "type": "p",
-      "html": "La météo joue aussi. Le vent supérieur à 50 km/h, le brouillard épais, la neige soufflée peuvent empêcher l'intervention héliportée. Dans ce cas, l'équipe terrestre arrive à pied, parfois en plusieurs heures selon le terrain. Tu peux relire <a href=\"/blog/alerter-secours-falaise\">notre procédure d'alerte aux secours en falaise</a> qui détaille les informations à transmettre pour préparer cette décision."
+      "html": "La météo joue aussi. Le vent supérieur à 50 km/h, le brouillard épais, la neige soufflée peuvent empêcher l'intervention héliportée. Dans ce cas, l'équipe terrestre arrive à pied, parfois en plusieurs heures selon le terrain."
     },
     {
       "type": "h2",
@@ -106,7 +106,7 @@
     },
     {
       "type": "p",
-      "html": "Si le blessé doit être stabilisé avant treuillage (gros saignement, suspicion de fracture grave), une équipe médicale descend en premier pour le conditionner. C'est fréquent en grande voie ou dans des situations complexes. Tu peux relire <a href=\"/blog/premiers-secours-escalade\">notre guide des premiers secours en escalade</a> pour comprendre les gestes que tu as à faire avant l'arrivée des secours."
+      "html": "Si le blessé doit être stabilisé avant treuillage (gros saignement, suspicion de fracture grave), une équipe médicale descend en premier pour le conditionner. C'est fréquent en grande voie ou dans des situations complexes."
     },
     {
       "type": "table",
