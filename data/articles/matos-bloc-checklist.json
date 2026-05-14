@@ -15,80 +15,263 @@
     "Un sac type Black Diamond Burrito ou Snap Burrito transporte le matériel hors crashpad."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Le crashpad, élément central et inévitable"},
-    {"type": "p", "html": "Le crashpad est l'élément structurant de toute sortie bloc en extérieur. Il amortit la réception en bas du bloc, protège les chevilles, le bassin et la tête contre les chocs de chute. Un crashpad standard mesure entre 100 et 130 cm de côté, 10 à 12 cm d'épaisseur, avec deux ou trois épaisseurs de mousse : couche dure en surface pour absorber l'impact, mousse plus tendre en dessous pour amortir, plaque rigide intermédiaire pour répartir l'énergie."},
-    {"type": "p", "html": "Trois standards dominent le marché. Le Black Diamond Mondo, format XL (120 x 165 cm), 12 cm d'épaisseur, 9 kg, autour de 270 €. Le Mad Rock Mad Pad, format moyen, robuste, 230 €. Le Snap Hip Hop, choix français très populaire à Bleau, format compact à 200 €. Le choix dépend de la hauteur des blocs visés et de la fréquence des sorties, je détaille tout cela dans mon guide <a href=\"/blog/crashpad-bloc-choisir\">choisir son crashpad</a>."},
-    {"type": "p", "html": "Pour les blocs hauts (highball > 5 m) ou les sessions à plusieurs, on cumule deux ou trois crashpads en patchwork au sol. La règle de base : un crashpad par grimpeur dès que le bloc dépasse 3 mètres, deux pour la pratique solo en moyenne hauteur. À Bleau, beaucoup de groupes mutualisent les pads entre potes."},
-    {"type": "h2", "text": "Le matériel personnel de grimpe"},
-    {"type": "p", "html": "Le matériel personnel pèse peu mais conditionne la qualité de la séance. La <strong>paire de chaussons</strong> est l'élément le plus critique. Pour le bloc en extérieur, on privilégie des chaussons précis et adhérents : La Sportiva Solution, Scarpa Drago, Tenaya Indalo selon le profil de pied. Le bloc demande des chaussons plus serrés que la voie en moyenne, mais sans non plus en faire un instrument de torture inutile. Mon dossier sur <a href=\"/blog/choisir-chaussons-escalade\">le choix des chaussons</a> détaille les critères."},
-    {"type": "p", "html": "Le sac à magnésie avec ceinture intégrée se porte autour de la taille pendant l'essai. Choisis un modèle avec fermeture à cordon ou élastique pour limiter la poussière qui s'échappe. Une <a href=\"/blog/brosse-grimpe-entretien-prises\">brosse à prises</a> de qualité, à poils naturels ou synthétiques, complète l'équipement. Une grosse brosse à manche long type Sky Hook devient utile pour les blocs hauts. Compte 30-50 € pour un set complet sac + brosse + magnésie, et regarde aussi <a href=\"/blog/magnesie-types-grimpe\">les types de magnésie</a> pour la bonne poudre."},
+    {
+      "type": "h2",
+      "text": "Le crashpad, élément central et inévitable"
+    },
+    {
+      "type": "p",
+      "html": "Le crashpad est l'élément structurant de toute sortie bloc en extérieur. Il amortit la réception en bas du bloc, protège les chevilles, le bassin et la tête contre les chocs de chute. Un crashpad standard mesure entre 100 et 130 cm de côté, 10 à 12 cm d'épaisseur, avec deux ou trois épaisseurs de mousse : couche dure en surface pour absorber l'impact, mousse plus tendre en dessous pour amortir, plaque rigide intermédiaire pour répartir l'énergie."
+    },
+    {
+      "type": "p",
+      "html": "Trois standards dominent le marché. Le Black Diamond Mondo, format XL (120 x 165 cm), 12 cm d'épaisseur, 9 kg, autour de 270 €. Le Mad Rock Mad Pad, format moyen, robuste, 230 €. Le Snap Hip Hop, choix français très populaire à Bleau, format compact à 200 €. Le choix dépend de la hauteur des blocs visés et de la fréquence des sorties."
+    },
+    {
+      "type": "p",
+      "html": "Pour les blocs hauts (highball > 5 m) ou les sessions à plusieurs, on cumule deux ou trois crashpads en patchwork au sol. La règle de base : un crashpad par grimpeur dès que le bloc dépasse 3 mètres, deux pour la pratique solo en moyenne hauteur. À Bleau, beaucoup de groupes mutualisent les pads entre potes."
+    },
+    {
+      "type": "h2",
+      "text": "Le matériel personnel de grimpe"
+    },
+    {
+      "type": "p",
+      "html": "Le <a href=\"/blog/materiel-escalade-essentiel\">matériel</a> personnel pèse peu mais conditionne la qualité de la séance. La <strong>paire de chaussons</strong> est l'élément le plus critique. Pour le bloc en extérieur, on privilégie des chaussons précis et adhérents : La Sportiva Solution, Scarpa Drago, Tenaya Indalo selon le profil de pied. Le bloc demande des chaussons plus serrés que la voie en moyenne, mais sans non plus en faire un instrument de torture inutile."
+    },
+    {
+      "type": "p",
+      "html": "Le sac à magnésie avec ceinture intégrée se porte autour de la taille pendant l'essai. Choisis un modèle avec fermeture à cordon ou élastique pour limiter la poussière qui s'échappe. Une <strong>brosse</strong> de qualité, à poils naturels ou synthétiques, complète l'équipement. Une grosse <a href=\"/blog/brosse-grimpe-entretien-prises\">brosse</a> à manche long type Sky Hook devient utile pour les blocs hauts. Compte 30-50 € pour un set complet sac + brosse + magnésie."
+    },
     {
       "type": "list",
       "variant": "numbered",
       "title": "Inventaire complet du matériel personnel",
       "items": [
-        {"title": "Chaussons d'escalade", "body": "1 paire adaptée au bloc, modèle précis et adhérent. Optionnel : une seconde paire plus confortable pour les sessions d'échauffement et les blocs en dalle. Poids 400-500 g par paire."},
-        {"title": "Sac à magnésie + magnésie", "body": "1 sac à magnésie avec ceinture, plus 1 sachet de poudre (200-300 g) ou 1 bloc compact. Marques de référence : Black Diamond White Gold, Friction Labs, Mammut Pure Chalk."},
-        {"title": "Brosses", "body": "1 brosse compacte pour la ceinture, 1 brosse à manche long pour les prises hautes. Référence : Lapis Climbing Bouldering Brush, Sky Hook Telescopic."},
-        {"title": "Tape adhésif", "body": "1 rouleau de tape de grimpe en 2,5 cm de large pour protéger les doigts blessés et prévenir les ouvertures. Marque type Mueller ou Beal."},
-        {"title": "Petite serviette", "body": "Pour s'essuyer les pieds avant de chausser. Détail négligé qui fait la différence sur grès humide et calcaire poussiéreux."}
+        {
+          "title": "Chaussons d'escalade",
+          "body": "1 paire adaptée au bloc, modèle précis et adhérent. Optionnel : une seconde paire plus confortable pour les sessions d'échauffement et les blocs en dalle. Poids 400-500 g par paire."
+        },
+        {
+          "title": "Sac à magnésie + magnésie",
+          "body": "1 sac à magnésie avec ceinture, plus 1 sachet de poudre (200-300 g) ou 1 bloc compact. Marques de référence : Black Diamond White Gold, Friction Labs, Mammut Pure Chalk."
+        },
+        {
+          "title": "Brosses",
+          "body": "1 brosse compacte pour la ceinture, 1 brosse à manche long pour les prises hautes. Référence : Lapis Climbing Bouldering Brush, Sky Hook Telescopic."
+        },
+        {
+          "title": "Tape adhésif",
+          "body": "1 rouleau de tape de grimpe en 2,5 cm de large pour protéger les doigts blessés et prévenir les ouvertures. Marque type Mueller ou Beal."
+        },
+        {
+          "title": "Petite serviette",
+          "body": "Pour s'essuyer les pieds avant de chausser. Détail négligé qui fait la différence sur grès humide et calcaire poussiéreux."
+        }
       ]
     },
-    {"type": "h2", "text": "Le kit soins doigts et corps"},
-    {"type": "p", "html": "Une session bloc longue use les doigts. Les bouts de phalange se déchirent sur les prises rugueuses, les paumes se cornent et finissent par fissurer, les ongles se fendent au contact d'un volume. Un kit de soins minimaliste prévient les blessures et permet de finir la journée."},
-    {"type": "p", "html": "Le contenu type : un rouleau de tape pour bander les doigts en cas de plaie ou de phalange douloureuse, une pierre ponce ou un petit lime à ongles pour égaliser une corne arrachée, un baume cicatrisant type Climb On ou Joshua Tree Salve, des pansements imperméables format mini. Le tout tient dans une trousse de 10 cm sans alourdir le sac."},
-    {"type": "h2", "text": "Vêtements et confort de session"},
-    {"type": "p", "html": "Le bloc en extérieur génère des phases d'effort intense entrecoupées de longues pauses. La gestion thermique se fait par couches : t-shirt technique en base, sweat ou polaire intermédiaire, doudoune légère pour les pauses. Au printemps et à l'automne, prévois toujours une couche supplémentaire dans le sac."},
-    {"type": "p", "html": "Un short ou pantalon souple type Black Diamond Notion ou Patagonia Hampi reste le standard. Les vêtements trop ajustés gênent les mouvements de hanche essentiels au bloc, les vêtements trop amples accrochent dans les pieds et trichent visuellement sur les profils. Coupe ample mais tissu technique : c'est le bon équilibre."},
-    {"type": "h2", "text": "Alimentation, hydratation et logistique"},
-    {"type": "p", "html": "Une session de 4 heures consomme entre 800 et 1500 calories selon l'intensité. La logique nutritionnelle : sucres lents avant la séance, sucres rapides pendant les essais, protéines pour la récupération. Un sandwich complet, une banane, 50 g de fruits secs, une barre énergétique : voilà la base d'une demi-journée."},
-    {"type": "p", "html": "Côté hydratation, 1,5 L d'eau par personne minimum, davantage en été. À Fontainebleau l'été, j'emporte 2 L et je reviens parfois avec la bouteille vide. Une bouteille isotherme type Hydro Flask garde la boisson fraîche toute la journée, c'est un confort réel sur les sessions estivales où la chaleur tape fort entre les blocs exposés."},
+    {
+      "type": "h2",
+      "text": "Le kit soins doigts et corps"
+    },
+    {
+      "type": "p",
+      "html": "Une session bloc longue use les doigts. Les bouts de phalange se déchirent sur les prises rugueuses, les paumes se cornent et finissent par fissurer, les ongles se fendent au contact d'un volume. Un kit de soins minimaliste prévient les blessures et permet de finir la journée."
+    },
+    {
+      "type": "p",
+      "html": "Le contenu type : un rouleau de tape pour bander les doigts en cas de plaie ou de phalange douloureuse, une pierre ponce ou un petit lime à ongles pour égaliser une corne arrachée, un baume cicatrisant type Climb On ou Joshua Tree Salve, des pansements imperméables format mini. Le tout tient dans une trousse de 10 cm sans alourdir le sac."
+    },
+    {
+      "type": "h2",
+      "text": "Vêtements et confort de session"
+    },
+    {
+      "type": "p",
+      "html": "Le bloc en extérieur génère des phases d'effort intense entrecoupées de longues pauses. La gestion thermique se fait par couches : t-shirt technique en base, sweat ou polaire intermédiaire, doudoune légère pour les pauses. Au printemps et à l'automne, prévois toujours une couche supplémentaire dans le sac."
+    },
+    {
+      "type": "p",
+      "html": "Un short ou pantalon souple type Black Diamond Notion ou Patagonia Hampi reste le standard. Les vêtements trop ajustés gênent les mouvements de hanche essentiels au bloc, les vêtements trop amples accrochent dans les pieds et trichent visuellement sur les profils. Coupe ample mais tissu technique : c'est le bon équilibre."
+    },
+    {
+      "type": "h2",
+      "text": "Alimentation, hydratation et logistique"
+    },
+    {
+      "type": "p",
+      "html": "Une session de 4 heures consomme entre 800 et 1500 calories selon l'intensité. La logique nutritionnelle : sucres lents avant la séance, sucres rapides pendant les essais, protéines pour la récupération. Un sandwich complet, une banane, 50 g de fruits secs, une barre énergétique : voilà la base d'une demi-journée."
+    },
+    {
+      "type": "p",
+      "html": "Côté hydratation, 1,5 L d'eau par personne minimum, davantage en été. À Fontainebleau l'été, j'emporte 2 L et je reviens parfois avec la bouteille vide. Une bouteille isotherme type Hydro Flask garde la boisson fraîche toute la journée, c'est un confort réel sur les sessions estivales où la chaleur tape fort entre les blocs exposés."
+    },
     {
       "type": "table",
       "caption": "Poids total du sac bloc pour une journée",
-      "headers": ["Élément", "Poids", "Note"],
+      "headers": [
+        "Élément",
+        "Poids",
+        "Note"
+      ],
       "rows": [
-        ["Crashpad", "5,5-9 kg", "Selon format, le gros poste"],
-        ["Chaussons + magnésie + brosses", "0,8 kg", "Compact"],
-        ["Kit soins doigts", "0,15 kg", "Compact"],
-        ["Vêtements rechange", "0,8-1,2 kg", "Selon saison"],
-        ["Eau + nourriture", "2-2,5 kg", "1,5 L + repas"],
-        ["Total", "9,5-13,5 kg", "Pour un grimpeur seul"]
+        [
+          "Crashpad",
+          "5,5-9 kg",
+          "Selon format, le gros poste"
+        ],
+        [
+          "Chaussons + magnésie + brosses",
+          "0,8 kg",
+          "Compact"
+        ],
+        [
+          "Kit soins doigts",
+          "0,15 kg",
+          "Compact"
+        ],
+        [
+          "Vêtements rechange",
+          "0,8-1,2 kg",
+          "Selon saison"
+        ],
+        [
+          "Eau + nourriture",
+          "2-2,5 kg",
+          "1,5 L + repas"
+        ],
+        [
+          "Total",
+          "9,5-13,5 kg",
+          "Pour un grimpeur seul"
+        ]
       ]
     },
-    {"type": "tip", "title": "Le sac à dos pour le bloc", "body": "Le crashpad fait office de sac principal puisqu'il se transporte fermé sur le dos avec ses sangles intégrées. Le reste du matériel tient dans un petit sac à dos type Snap Burrito ou Black Diamond Mondo Pack glissé dans le crashpad replié. Pour les marches d'approche longues comme à Annot ou Bleau, vérifie que les sangles de transport du crashpad sont rembourrées, sinon les épaules vont morfler.", "tone": "astuce"},
-    {"type": "h2", "text": "Le matériel de spotting pour les blocs hauts"},
-    {"type": "p", "html": "Au-delà de 3,5 mètres, un crashpad ne suffit plus à garantir une réception sûre. Le <strong>spotting</strong>, c'est-à-dire l'accompagnement actif de la chute par un parreur au sol, devient essentiel. Le parreur ne rattrape pas le grimpeur, il oriente sa chute vers le pad et protège la tête et la nuque pendant l'impact. Pour les blocs vraiment hauts (highball au-dessus de 5 mètres), la combinaison de plusieurs crashpads en patchwork et deux ou trois parreurs simultanés devient la norme."},
-    {"type": "p", "html": "Pour le spotting, les mains du parreur sont son principal outil. Certains pratiquants utilisent des gants fins en cuir pour protéger les paumes de chocs sur prises ou volumes, mais ce n'est pas standard. Le plus important reste la position : pieds en équilibre, mains en hauteur prêtes à diriger les épaules du grimpeur, regard concentré sur la trajectoire de chute potentielle."},
-    {"type": "h2", "text": "Préparer une session efficace"},
-    {"type": "p", "html": "Une bonne session bloc se prépare dès la veille. Vérification du matériel le soir : chaussons bien rangés, magnésie remplie, brosse présente, tape disponible. Repas léger et hydratation correcte. Le matin, le sac se prépare en suivant la checklist, pas au feeling, pour éviter les oublis fréquents. Beaucoup de pratiquants tiennent une liste imprimée glissée dans le sac, qu'ils cochent une à une au moment du chargement."},
-    {"type": "p", "html": "À l'arrivée sur le site, prévois un échauffement progressif avant les essais sérieux : 10 minutes de marche, étirements actifs, puis quelques voies faciles pour mettre les doigts en route. Beaucoup de blessures de doigts surviennent sur les premiers essais d'une session, parce que les tendons et les poulies ne sont pas chauffés. Une bonne séance d'échauffement représente le tiers du gain de progression sur le long terme."},
-    {"type": "h2", "text": "Le matériel par météo et saison"},
-    {"type": "p", "html": "Le bloc en extérieur dépend fortement de la météo. En conditions de friction optimale (5 à 12°C, air sec), la magnésie tient peu, les chaussons collent, les essais s'enchaînent. En conditions humides (taux d'humidité supérieur à 70%, brouillard, rosée), la magnésie poisse, le grès devient glissant, la session se transforme en exercice de patience."},
-    {"type": "p", "html": "Pour la grimpe par temps frais, ajoute une polaire chaude, une doudoune fine pour les pauses, et un thermos de boisson chaude. Pour l'été, focus sur l'eau (2 L), une casquette, et un en-cas qui résiste à la chaleur (pas de chocolat fondant). Le sac s'adapte au contexte."},
-    {"type": "h2", "text": "Sécurité et règles non négociables"},
-    {"type": "p", "html": "Quelques règles à toujours respecter en bloc, même solo. Premier réflexe : <strong>tester la prise haute avant l'engagement</strong> sur les blocs avec sortie au-dessus de 4 m. Une prise qui paraît bonne au visuel peut être terreuse, instable, ou tournante. Mieux vaut perdre 30 secondes à vérifier que prendre une chute mal préparée."},
-    {"type": "p", "html": "Deuxième règle : annoncer son intention aux personnes présentes au pied du bloc avant un essai engagé. Cela évite qu'un grimpeur passe sous toi pendant que tu enchaînes, ou que quelqu'un déplace ton crashpad au mauvais moment. La communication courte et claire fait gagner du temps et de la sérénité."},
-    {"type": "p", "html": "Troisième règle : ne jamais grimper en solo absolu sur des blocs au-dessus de 3 mètres. Le risque d'une chute mal réceptionnée sans personne pour spotter et sans connexion réseau peut transformer une simple entorse en accident grave. La pratique solo se limite à des blocs bas, idéalement sur des sites fréquentés où une autre cordée peut intervenir en cas de pépin."},
-    {"type": "h2", "text": "Optimiser le poids pour la marche d'approche"},
-    {"type": "p", "html": "Sur une approche longue (plus de 30 minutes), chaque kilogramme compte. Le crashpad fait la moitié du poids total, on ne peut pas réduire sans le retirer. Les vrais leviers d'optimisation se trouvent ailleurs : remplacer une bouteille en verre par une gourde plastique économise 200 g, prendre une polaire fine au lieu d'une polaire épaisse économise 150 g, choisir une magnésie poudre légère au lieu d'un bloc plein économise 100 g."},
-    {"type": "p", "html": "Pour les sorties longues distance type Targassonne ou la Pierre Saint-Martin, certains pratiquants utilisent des crashpads modulaires qui se transportent en deux moitiés portées par deux personnes. La logique groupe permet alors d'amener davantage de matos sans surcharger un individu."}
+    {
+      "type": "tip",
+      "title": "Le sac à dos pour le bloc",
+      "body": "Le crashpad fait office de sac principal puisqu'il se transporte fermé sur le dos avec ses sangles intégrées. Le reste du matériel tient dans un petit sac à dos type Snap Burrito ou Black Diamond Mondo Pack glissé dans le crashpad replié. Pour les marches d'approche longues comme à Annot ou Bleau, vérifie que les sangles de transport du crashpad sont rembourrées, sinon les épaules vont morfler.",
+      "tone": "astuce"
+    },
+    {
+      "type": "h2",
+      "text": "Le matériel de spotting pour les blocs hauts"
+    },
+    {
+      "type": "p",
+      "html": "Au-delà de 3,5 mètres, un crashpad ne suffit plus à garantir une réception sûre. Le <strong>spotting</strong>, c'est-à-dire l'accompagnement actif de la chute par un parreur au sol, devient essentiel. Le parreur ne rattrape pas le grimpeur, il oriente sa chute vers le pad et protège la tête et la nuque pendant l'impact. Pour les blocs vraiment hauts (highball au-dessus de 5 mètres), la combinaison de plusieurs crashpads en patchwork et deux ou trois parreurs simultanés devient la norme."
+    },
+    {
+      "type": "p",
+      "html": "Pour le spotting, les mains du parreur sont son principal outil. Certains pratiquants utilisent des gants fins en cuir pour protéger les paumes de chocs sur prises ou volumes, mais ce n'est pas standard. Le plus important reste la position : pieds en équilibre, mains en hauteur prêtes à diriger les épaules du grimpeur, regard concentré sur la trajectoire de chute potentielle."
+    },
+    {
+      "type": "h2",
+      "text": "Préparer une session efficace"
+    },
+    {
+      "type": "p",
+      "html": "Une bonne session bloc se prépare dès la veille. Vérification du matériel le soir : chaussons bien rangés, magnésie remplie, brosse présente, tape disponible. Repas léger et hydratation correcte. Le matin, le sac se prépare en suivant la checklist, pas au feeling, pour éviter les oublis fréquents. Beaucoup de pratiquants tiennent une liste imprimée glissée dans le sac, qu'ils cochent une à une au moment du chargement."
+    },
+    {
+      "type": "p",
+      "html": "À l'arrivée sur le site, prévois un échauffement progressif avant les essais sérieux : 10 minutes de marche, étirements actifs, puis quelques voies faciles pour mettre les doigts en route. Beaucoup de blessures de doigts surviennent sur les premiers essais d'une session, parce que les tendons et les poulies ne sont pas chauffés. Une bonne séance d'échauffement représente le tiers du gain de progression sur le long terme."
+    },
+    {
+      "type": "h2",
+      "text": "Le matériel par météo et saison"
+    },
+    {
+      "type": "p",
+      "html": "Le bloc en extérieur dépend fortement de la météo. En conditions de friction optimale (5 à 12°C, air sec), la magnésie tient peu, les chaussons collent, les essais s'enchaînent. En conditions humides (taux d'humidité supérieur à 70%, brouillard, rosée), la magnésie poisse, le grès devient glissant, la session se transforme en exercice de patience."
+    },
+    {
+      "type": "p",
+      "html": "Pour la grimpe par temps frais, ajoute une polaire chaude, une doudoune fine pour les pauses, et un thermos de boisson chaude. Pour l'été, focus sur l'eau (2 L), une casquette, et un en-cas qui résiste à la chaleur (pas de chocolat fondant). Le sac s'adapte au contexte."
+    },
+    {
+      "type": "h2",
+      "text": "Sécurité et règles non négociables"
+    },
+    {
+      "type": "p",
+      "html": "Quelques règles à toujours respecter en bloc, même solo. Premier réflexe : <strong>tester la prise haute avant l'engagement</strong> sur les blocs avec sortie au-dessus de 4 m. Une prise qui paraît bonne au visuel peut être terreuse, instable, ou tournante. Mieux vaut perdre 30 secondes à vérifier que prendre une chute mal préparée."
+    },
+    {
+      "type": "p",
+      "html": "Deuxième règle : annoncer son intention aux personnes présentes au pied du bloc avant un essai engagé. Cela évite qu'un grimpeur passe sous toi pendant que tu enchaînes, ou que quelqu'un déplace ton crashpad au mauvais moment. La communication courte et claire fait gagner du temps et de la sérénité."
+    },
+    {
+      "type": "p",
+      "html": "Troisième règle : ne jamais grimper en solo absolu sur des blocs au-dessus de 3 mètres. Le risque d'une chute mal réceptionnée sans personne pour spotter et sans connexion réseau peut transformer une simple entorse en accident grave. La pratique solo se limite à des blocs bas, idéalement sur des sites fréquentés où une autre cordée peut intervenir en cas de pépin."
+    },
+    {
+      "type": "h2",
+      "text": "Optimiser le poids pour la marche d'approche"
+    },
+    {
+      "type": "p",
+      "html": "Sur une approche longue (plus de 30 minutes), chaque kilogramme compte. Le crashpad fait la moitié du poids total, on ne peut pas réduire sans le retirer. Les vrais leviers d'optimisation se trouvent ailleurs : remplacer une bouteille en verre par une gourde plastique économise 200 g, prendre une polaire fine au lieu d'une polaire épaisse économise 150 g, <a href=\"/blog/crashpad-bloc-choisir\">choisir</a> une magnésie poudre légère au lieu d'un bloc plein économise 100 g."
+    },
+    {
+      "type": "p",
+      "html": "Pour les sorties longues distance type Targassonne ou la Pierre Saint-Martin, certains pratiquants utilisent des crashpads modulaires qui se transportent en deux moitiés portées par deux personnes. La logique groupe permet alors d'amener davantage de matos sans surcharger un individu."
+    }
   ],
   "faq": [
-    {"q": "Combien de crashpads pour une session bloc à Bleau ?", "a": "Pour une sortie solo sur des blocs jusqu'à 3,5 mètres, un crashpad standard suffit. Pour une sortie à deux ou plus, l'addition des pads améliore beaucoup la sécurité : deux pads accolés couvrent une zone de réception de 2 x 2 mètres, indispensable pour les blocs avec sortie en travers. Beaucoup de groupes à Bleau partent à trois ou quatre avec 3 pads cumulés, ce qui est l'organisation idéale."},
-    {"q": "Faut-il un baudrier en bloc ?", "a": "Non, jamais. Le bloc se pratique sans corde ni baudrier. Le seul usage très marginal du baudrier en contexte bloc concerne le rappel d'inspection sur certains blocs hauts (highball), pratiqué par les grimpeurs expérimentés qui veulent vérifier les prises avant un essai engagé. Pour la pratique standard, le baudrier reste à la maison."},
-    {"q": "Quelles chaussures porter sur l'approche des blocs ?", "a": "Des chaussures d'approche légères type La Sportiva TX2 ou Scarpa Mojito, ou de simples baskets souples si l'approche est courte. À Fontainebleau, le terrain est sableux et plat sauf en zones difficiles, des baskets suffisent. À Annot ou Targassonne, les approches sont plus engagées et un soutien minimum devient utile."},
-    {"q": "Comment transporter un gros crashpad sur l'approche ?", "a": "Le crashpad se replie en taco (en deux) ou en tri-fold (en trois) selon le modèle. Les sangles intégrées permettent de le porter comme un sac à dos. Pour une marche longue, prends les sangles avec rembourrage et serre la sangle de poitrine si elle existe. Évite de surcharger le crashpad replié de matériel autre que le strict nécessaire, le poids déstabilise vite le portage."},
-    {"q": "Le tape pour les doigts est-il vraiment utile en bloc ?", "a": "Très utile dès que la peau s'use ou qu'une phalange devient douloureuse. Le tape protège la pulpe des doigts sur les prises agressives type grès rugueux, et stabilise une poulie de doigt déjà sollicitée. Apprendre à se taper correctement les doigts est un geste qu'on apprend vite mais qui sauve plusieurs sessions par an. Quelques tutoriels en ligne expliquent les nœuds standards en H et en huit."}
+    {
+      "q": "Combien de crashpads pour une session bloc à Bleau ?",
+      "a": "Pour une sortie solo sur des blocs jusqu'à 3,5 mètres, un crashpad standard suffit. Pour une sortie à deux ou plus, l'addition des pads améliore beaucoup la sécurité : deux pads accolés couvrent une zone de réception de 2 x 2 mètres, indispensable pour les blocs avec sortie en travers. Beaucoup de groupes à Bleau partent à trois ou quatre avec 3 pads cumulés, ce qui est l'organisation idéale."
+    },
+    {
+      "q": "Faut-il un baudrier en bloc ?",
+      "a": "Non, jamais. Le bloc se pratique sans corde ni baudrier. Le seul usage très marginal du baudrier en contexte bloc concerne le rappel d'inspection sur certains blocs hauts (highball), pratiqué par les grimpeurs expérimentés qui veulent vérifier les prises avant un essai engagé. Pour la pratique standard, le baudrier reste à la maison."
+    },
+    {
+      "q": "Quelles chaussures porter sur l'approche des blocs ?",
+      "a": "Des chaussures d'approche légères type La Sportiva TX2 ou Scarpa Mojito, ou de simples baskets souples si l'approche est courte. À Fontainebleau, le terrain est sableux et plat sauf en zones difficiles, des baskets suffisent. À Annot ou Targassonne, les approches sont plus engagées et un soutien minimum devient utile."
+    },
+    {
+      "q": "Comment transporter un gros crashpad sur l'approche ?",
+      "a": "Le crashpad se replie en taco (en deux) ou en tri-fold (en trois) selon le modèle. Les sangles intégrées permettent de le porter comme un sac à dos. Pour une marche longue, prends les sangles avec rembourrage et serre la sangle de poitrine si elle existe. Évite de surcharger le crashpad replié de matériel autre que le strict nécessaire, le poids déstabilise vite le portage."
+    },
+    {
+      "q": "Le tape pour les doigts est-il vraiment utile en bloc ?",
+      "a": "Très utile dès que la peau s'use ou qu'une phalange devient douloureuse. Le tape protège la pulpe des doigts sur les prises agressives type grès rugueux, et stabilise une poulie de doigt déjà sollicitée. Apprendre à se taper correctement les doigts est un geste qu'on apprend vite mais qui sauve plusieurs sessions par an. Quelques tutoriels en ligne expliquent les nœuds standards en H et en huit."
+    }
   ],
   "cover_alt": "Crashpad noir et orange déplié au pied d'un bloc de grès patiné à Fontainebleau, chaussons de grimpe La Sportiva et sac à magnésie posés dessus, lumière de fin d'après-midi entre les arbres",
   "internal_links": [
-    {"slug": "materiel-escalade-essentiel", "anchor": "matériel essentiel d'escalade", "context": "pilier matériel"},
-    {"slug": "crashpad-bloc-choisir", "anchor": "choisir son crashpad", "context": "élément central"},
-    {"slug": "brosse-grimpe-entretien-prises", "anchor": "brosse à prises", "context": "matériel détaillé"},
-    {"slug": "magnesie-types-grimpe", "anchor": "types de magnésie", "context": "matériel détaillé"},
-    {"slug": "bleau-circuits-debutant", "anchor": "circuits débutants à Bleau", "context": "lieu de pratique"},
-    {"slug": "choisir-chaussons-escalade", "anchor": "choix des chaussons", "context": "matériel personnel"}
+    {
+      "slug": "materiel-escalade-essentiel",
+      "anchor": "matériel essentiel d'escalade",
+      "context": "pilier matériel"
+    },
+    {
+      "slug": "crashpad-bloc-choisir",
+      "anchor": "choisir son crashpad",
+      "context": "élément central"
+    },
+    {
+      "slug": "brosse-grimpe-entretien-prises",
+      "anchor": "brosse à prises",
+      "context": "matériel détaillé"
+    },
+    {
+      "slug": "magnesie-types-grimpe",
+      "anchor": "types de magnésie",
+      "context": "matériel détaillé"
+    },
+    {
+      "slug": "bleau-circuits-debutant",
+      "anchor": "circuits débutants à Bleau",
+      "context": "lieu de pratique"
+    },
+    {
+      "slug": "choisir-chaussons-escalade",
+      "anchor": "choix des chaussons",
+      "context": "matériel personnel"
+    }
   ],
   "scheduled_at": "2026-09-22T09:00:00+02:00"
 }

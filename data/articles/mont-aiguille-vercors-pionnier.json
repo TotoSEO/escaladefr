@@ -21,7 +21,7 @@
     },
     {
       "type": "p",
-      "html": "Je me souviens de la première fois que j'ai vu le Mont Aiguille, depuis la route qui descend du col de la Croix-Haute. La forme est si étrange qu'on doute de ses yeux. Un cube de calcaire posé sur la prairie, parois verticales sur les quatre côtés, plateau sommital herbu visible d'en bas. Ça ne ressemble à aucun autre sommet français. On comprend immédiatement pourquoi les habitants du Trièves l'ont longtemps regardé comme une montagne magique, peuplée d'esprits, inaccessible."
+      "html": "Je me souviens de la première fois que j'ai vu le Mont <a href=\"/blog/aiguille-midi-chamonix-haute\">Aiguille</a>, depuis la route qui descend du col de la Croix-Haute. La forme est si étrange qu'on doute de ses yeux. Un cube de calcaire posé sur la prairie, parois verticales sur les quatre côtés, plateau sommital herbu visible d'en bas. Ça ne ressemble à aucun autre sommet français. On comprend immédiatement pourquoi les habitants du Trièves l'ont longtemps regardé comme une montagne magique, peuplée d'esprits, inaccessible."
     },
     {
       "type": "p",
@@ -50,16 +50,43 @@
     {
       "type": "table",
       "caption": "Fiche d'identité du Mont Aiguille",
-      "headers": ["Critère", "Détail"],
+      "headers": [
+        "Critère",
+        "Détail"
+      ],
       "rows": [
-        ["Localisation", "Isère, commune de Chichilianne, Vercors méridional"],
-        ["Altitude sommet", "2086 mètres"],
-        ["Hauteur des parois", "200 à 300 mètres"],
-        ["Roche", "Calcaire urgonien du Crétacé inférieur"],
-        ["Première ascension", "26 juin 1492 par Domp Julien"],
-        ["Voie normale", "Face nord-est, 3 et 4, 250 mètres"],
-        ["Cotations toutes voies", "3 à 7c selon les faces"],
-        ["Période idéale", "Juin à septembre"]
+        [
+          "Localisation",
+          "Isère, commune de Chichilianne, Vercors méridional"
+        ],
+        [
+          "Altitude sommet",
+          "2086 mètres"
+        ],
+        [
+          "Hauteur des parois",
+          "200 à 300 mètres"
+        ],
+        [
+          "Roche",
+          "Calcaire urgonien du Crétacé inférieur"
+        ],
+        [
+          "Première ascension",
+          "26 juin 1492 par Domp Julien"
+        ],
+        [
+          "Voie normale",
+          "Face nord-est, 3 et 4, 250 mètres"
+        ],
+        [
+          "Cotations toutes voies",
+          "3 à 7c selon les faces"
+        ],
+        [
+          "Période idéale",
+          "Juin à septembre"
+        ]
       ]
     },
     {
@@ -155,7 +182,7 @@
     },
     {
       "q": "Combien de temps prévoir pour la course complète ?",
-      "a": "Compte une journée complète, 8 à 10 heures du parking au parking pour une cordée à l'aise. Marche d'approche 2h à 2h30, ascension 3 à 5h selon la file d'attente, repas au sommet 30 minutes, rappels 1h30 à 2h, descente 1h30. Ajoute 1 à 2 heures de marge si tu découvres la voie. Un départ avant 6h en haute saison reste très conseillé pour éviter la file d'attente sur les premières longueurs."
+      "a": "Compte une journée complète, 8 à 10 heures du parking au parking pour une cordée à l'aise. Marche d'approche 2h à 2h30, ascension 3 à 5h selon la file d'attente, repas au sommet 30 minutes, rappels 1h30 à 2h, descente 1h30. Ajoute 1 à 2 heures de marge si tu découvres la voie. Départ avant 6h en haute saison est très conseillé pour éviter la file d'attente sur les premières longueurs."
     },
     {
       "q": "Peut-on bivouaquer au sommet ?",
