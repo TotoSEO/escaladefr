@@ -25,7 +25,7 @@
     },
     {
       "type": "p",
-      "html": "Ces gestes appartiennent <a href=\"/blog/securite-escalade-regles-essentielles\">aux règles essentielles de sécurité en escalade</a>. Le PGHM (Peloton de Gendarmerie de Haute Montagne) et les CRS Montagne interviennent en moyenne plusieurs centaines de <a href=\"/blog/premiers-secours-escalade\">fois par an sur des secours</a> en escalade et alpinisme cumulés. Sur ce volume, l'escalade sportive en falaise représente une part minoritaire mais bien visible. Le bloc en falaise génère peu d'interventions lourdes, parce que les hauteurs sont faibles, mais beaucoup de blessures non déclarées au comité départemental ou à l'assurance personnelle."
+      "html": "Ces chiffres bruts gagnent à être lus à la lumière <a href=\"/blog/securite-escalade-regles-essentielles\">des règles essentielles de sécurité en escalade</a>. Le PGHM (Peloton de Gendarmerie de Haute Montagne) et les CRS Montagne interviennent en moyenne plusieurs centaines de fois par an sur <a href=\"/blog/premiers-secours-escalade\">des secours en escalade et alpinisme</a> cumulés. Sur ce volume, l'escalade sportive en falaise représente une part minoritaire mais bien visible. Le bloc en falaise génère peu d'interventions lourdes, parce que les hauteurs sont faibles, mais beaucoup de blessures non déclarées au comité départemental ou à l'assurance personnelle."
     },
     {
       "type": "h2",
@@ -33,7 +33,7 @@
     },
     {
       "type": "p",
-      "html": "Le risque en salle d'escalade se concentre sur le bloc. Les chutes mal réceptionnées entraînent des entorses de cheville, des fractures du poignet, parfois des lésions de la colonne. Les voies en moulinette posent peu de problèmes parce que la corde est en haut et que les chutes sont courtes. Les voies en tête en salle restent statistiquement très sûres, <a href=\"/blog/chute-en-tete-facteurs\">le facteur de chute</a> reste faible et les points sont rapprochés. Le cadre général reste <a href=\"/blog/securite-escalade-regles-essentielles\">les règles essentielles de sécurité</a>."
+      "html": "Le risque en salle d'escalade se concentre sur le bloc. Les chutes mal réceptionnées entraînent des entorses de cheville, des fractures du poignet, parfois des lésions de la colonne. Les voies en moulinette posent peu de problèmes parce que la corde est en haut et que les chutes sont courtes. Les voies en tête en salle restent statistiquement très sûres, <a href=\"/blog/chute-en-tete-facteurs\">le facteur de chute en tête</a> reste faible et les points sont rapprochés."
     },
     {
       "type": "p",
@@ -85,7 +85,7 @@
     },
     {
       "type": "p",
-      "html": "L'analyse des accidents publiée par Petzl dans son rapport annuel confirme : sur cent cas étudiés, plus de quatre vingts impliquent une <a href=\"/blog/alerter-secours-falaise\">erreur de procédure d'alerte</a> côté grimpeur ou assureur. Le matériel reste fiable s'il est entretenu, vérifié et utilisé selon la notice constructeur. La <strong>triple vérification</strong> <a href=\"/blog/verification-baudrier-corde-noeud\">baudrier corde n</a>œud reste la première barrière."
+      "html": "L'analyse des accidents publiée par Petzl dans son rapport annuel confirme : sur cent cas étudiés, plus de quatre vingts impliquent une erreur humaine côté grimpeur ou assureur, qui aurait été détectée par une procédure rigoureuse comme <a href=\"/blog/alerter-secours-falaise\">l'alerte structurée des secours</a> ou un protocole de vérification. Le matériel reste fiable s'il est entretenu, vérifié et utilisé selon la notice constructeur. La <a href=\"/blog/verification-baudrier-corde-noeud\">triple vérification baudrier corde nœud</a> reste la première barrière."
     },
     {
       "type": "tip",

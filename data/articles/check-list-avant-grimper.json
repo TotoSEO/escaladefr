@@ -25,7 +25,7 @@
     },
     {
       "type": "p",
-      "html": "Tu peux la stocker dans ton téléphone, l'imprimer en petit format dans le sac, ou la mémoriser par blocs de trois ou quatre items. L'important, c'est de la dérouler systématiquement, pas occasionnellement. La routine est l'<a href=\"/blog/securite-escalade-regles-essentielles\">ennemie de la sécurité</a> quand elle est aléatoire, elle devient l'amie quand elle est régulière."
+      "html": "Tu peux la stocker dans ton téléphone, l'imprimer en petit format dans le sac, ou la mémoriser par blocs de trois ou quatre items. L'important, c'est de la dérouler systématiquement, pas occasionnellement. La check-list s'inscrit dans <a href=\"/blog/securite-escalade-regles-essentielles\">les règles essentielles de sécurité en escalade</a> : la routine est l'ennemie de la sécurité quand elle est aléatoire, elle devient l'amie quand elle est régulière."
     },
     {
       "type": "h2",
@@ -37,7 +37,7 @@
     },
     {
       "type": "p",
-      "html": "Tu vérifies aussi le matériel collectif de la cordée : nombre de dégaines (au moins 12 pour une voie sport), sangles, longes, autobloquant, anneaux cousus pour les rappels. Tu n'oublies pas le casque obligatoire en falaise, la couverture de survie, la trousse de premiers secours, le téléphone chargé. <a href=\"/blog/rappel-securite-procedure\">Une corde de rappel</a> si tu sors en grande voie."
+      "html": "Tu vérifies aussi le matériel collectif de la cordée : nombre de dégaines (au moins 12 pour une voie sport), sangles, longes, autobloquant, anneaux cousus pour les rappels. Tu n'oublies pas le casque obligatoire en falaise, la couverture de survie, la trousse de premiers secours, le téléphone chargé. Une corde supplémentaire pour <a href=\"/blog/rappel-securite-procedure\">la procédure de rappel en sécurité</a> si tu sors en grande voie."
     },
     {
       "type": "list",
@@ -68,7 +68,7 @@
     },
     {
       "type": "p",
-      "html": "Tu <a href=\"/blog/meteo-falaise-decider-renoncer\">consultes la météo</a> locale la veille et le matin du départ. Sites recommandés : Météo France, Windy, Météo Blue. Tu regardes vent, température, probabilité de pluie, point de rosée. Une falaise au nord en hiver sera glaciale à 9h, parfaite à 14h. Une falaise sud en été deviendra invivable à partir de 11h. Le timing fait souvent la différence entre une bonne et une mauvaise journée."
+      "html": "Tu <a href=\"/blog/meteo-falaise-decider-renoncer\">consultes la météo de la falaise pour décider de partir ou renoncer</a> la veille et le matin du départ. Sites recommandés : Météo France, Windy, Météo Blue. Tu regardes vent, température, probabilité de pluie, point de rosée. Une falaise au nord en hiver sera glaciale à 9h, parfaite à 14h. Une falaise sud en été deviendra invivable à partir de 11h. Le timing fait souvent la différence entre une bonne et une mauvaise journée."
     },
     {
       "type": "p",
@@ -110,7 +110,7 @@
     },
     {
       "type": "p",
-      "html": "Avant que le grimpeur ne pose la main sur la première prise, tu <a href=\"/blog/verification-baudrier-corde-noeud\">déroules la triple vérification</a> : baudrier bouclé sangle rabattue, nœud d'encordement en huit suivi avec nœud d'arrêt, système d'assurage monté correctement. Vérification individuelle plus contrôle croisé. Tu prends le temps."
+      "html": "Avant que le grimpeur ne pose la main sur la première prise, tu déroules <a href=\"/blog/verification-baudrier-corde-noeud\">la triple vérification baudrier corde nœud</a> : baudrier bouclé sangle rabattue, nœud d'encordement en huit suivi avec nœud d'arrêt, système d'assurage monté correctement. Vérification individuelle plus contrôle croisé. Tu prends le temps."
     },
     {
       "type": "p",
@@ -122,7 +122,7 @@
     },
     {
       "type": "p",
-      "html": "Avant même de monter, tu anticipes la fin de voie. Tu sais si le relais est en chaîne avec maillon, en anneau de descente ou en plaquette sans relais. Tu sais si tu vas redescendre en moulinette directe ou si tu vas devoir installer un rappel. En cas de doute, tu prends le topo en photo sur ton téléphone pour le relire au sommet. Beaucoup <a href=\"/blog/accidents-escalade-statistiques\">d'accidents</a> en falaise arrivent en sortie de voie, parce que le grimpeur a improvisé une manœuvre inhabituelle."
+      "html": "Avant même de monter, tu anticipes la fin de voie. Tu sais si le relais est en chaîne avec maillon, en anneau de descente ou en plaquette sans relais. Tu sais si tu vas redescendre en moulinette directe ou si tu vas devoir installer un rappel. En cas de doute, tu prends le topo en photo sur ton téléphone pour le relire au sommet. <a href=\"/blog/accidents-escalade-statistiques\">Beaucoup d'accidents en falaise recensés dans les statistiques</a> arrivent en sortie de voie, parce que le grimpeur a improvisé une manœuvre inhabituelle."
     },
     {
       "type": "p",
@@ -197,7 +197,7 @@
     },
     {
       "type": "p",
-      "html": "Et <a href=\"/blog/securite-escalade-regles-essentielles\">avec les règles essentielles de sécurité en escalade</a> pour la vision d'ensemble. La check list est un outil, pas une religion. Elle s'adapte à ta pratique tout en gardant son cœur de discipline."
+      "html": "Cette personnalisation s'articule avec <a href=\"/blog/securite-escalade-regles-essentielles\">l'ensemble des règles essentielles de sécurité en escalade</a> pour donner une vision globale. La check list est un outil, pas une religion. Elle s'adapte à ta pratique tout en gardant son cœur de discipline."
     }
   ],
   "faq": [
