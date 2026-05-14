@@ -72,7 +72,7 @@
     },
     {
       "type": "p",
-      "html": "Si tu connais le nom du secteur d'escalade (par exemple Buoux secteur Bistrot, Céüse secteur Les Sangliers), tu le précises. Les unités de secours connaissent les sites majeurs et peuvent géolocaliser sans coordonnées. Sur les sites confidentiels ou peu fréquentés, les coordonnées GPS deviennent indispensables. Tu peux toujours envoyer ta position par SMS si le régulateur te le demande, c'est plus précis qu'une transmission orale."
+      "html": "Si tu connais le nom du secteur d'<a href=\"/blog/accidents-escalade-statistiques\">escalade</a> (par exemple Buoux secteur Bistrot, Céüse secteur Les Sangliers), tu le précises. Les unités de secours connaissent les sites majeurs et peuvent géolocaliser sans coordonnées. Sur les sites confidentiels ou peu fréquentés, les coordonnées GPS deviennent indispensables. Tu peux toujours envoyer ta position par SMS si le régulateur te le demande, c'est plus précis qu'une transmission orale."
     },
     {
       "type": "tip",
@@ -102,7 +102,7 @@
     },
     {
       "type": "p",
-      "html": "Tu prépares ensuite l'arrivée des secours. Tu envoies un membre de la cordée sur le sentier d'accès avec une frontale (la nuit) ou un vêtement coloré visible (le jour) pour les guider. Tu agites les bras en V à l'approche de l'hélicoptère pour signaler oui besoin d'aide. Tu ne fais jamais de croix avec les bras, ce signe signifie au contraire pas besoin d'aide en code international."
+      "html": "Tu prépares ensuite l'arrivée des secours. Tu envoies un membre de la cordée <a href=\"/blog/partenaire-grimpe-confiance\">sur le</a> sentier d'accès avec une frontale (la nuit) ou un vêtement coloré visible (le jour) pour les guider. Tu agites les bras en V à l'approche de l'hélicoptère pour signaler oui besoin d'aide. Tu ne fais jamais de croix avec les bras, ce signe signifie au contraire pas besoin d'aide en code international."
     },
     {
       "type": "table",
@@ -192,7 +192,7 @@
     },
     {
       "type": "p",
-      "html": "Côté assurance, le blessé devra déclarer l'accident à son assurance personnelle et éventuellement à la FFME. Les frais de secours en montagne sont gratuits en France métropolitaine pour les interventions du PGHM et des CRS Montagne. Les frais médicaux et de transport sanitaire restent à la charge du blessé ou de son assurance. Pour l'étranger, c'est une autre histoire, l'assurance rapatriement devient indispensable."
+      "html": "Côté assurance, le blessé devra déclarer l'accident à son assurance personnelle et éventuellement à la FFME. Les frais de <a href=\"/blog/premiers-secours-escalade\">secours en</a> montagne sont gratuits en France métropolitaine pour les interventions du PGHM et des CRS Montagne. Les frais médicaux et de transport sanitaire restent à la charge du blessé ou de son assurance. Pour l'étranger, c'est une autre histoire, l'assurance rapatriement devient indispensable."
     }
   ],
   "faq": [
