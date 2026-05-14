@@ -172,7 +172,7 @@
     },
     {
       "type": "p",
-      "html": "Si tu veux aller plus loin, lis travailler les doigts à la poutre et <a href=\"/blog/preparer-corps-tete-grimpe\">le travail global de préparation</a>. Pour la nutrition autour de l'entraînement, vois <a href=\"/blog/alimentation-grimpeur-essentiel\">les vrais leviers de l'alimentation du grimpeur</a>."
+      "html": "Le travail des doigts à la poutre vient compléter cette base sans la remplacer. Quant à <a href=\"/blog/alimentation-grimpeur-essentiel\">les vrais leviers de l'alimentation du grimpeur</a>, ils déterminent la qualité de la récupération entre les séances et la composition corporelle sur la durée."
     }
   ],
   "faq": [
@@ -205,28 +205,28 @@
   "internal_links": [
     {
       "slug": "preparer-corps-tete-grimpe",
-      "anchor": "la préparation physique et mentale du grimpeur",
-      "context": "Pilier préparation"
-    },
-    {
-      "slug": "grip-strength-poutre-pan",
-      "anchor": "travailler les doigts à la poutre",
-      "context": "Force des doigts"
+      "anchor": "le socle physique et mental de l'escalade",
+      "context": "pilier préparation, premier lien interne"
     },
     {
       "slug": "core-gainage-grimpe",
-      "anchor": "gainage et core pour la grimpe en dévers",
-      "context": "Gainage profond"
+      "anchor": "le gainage du tronc en escalade",
+      "context": "même cocon, fondement biomécanique"
+    },
+    {
+      "slug": "tendinite-epaule-coude-grimpe",
+      "anchor": "tendinites d'épaule et de coude chez le grimpeur",
+      "context": "même cocon, antagonistes après tractions"
+    },
+    {
+      "slug": "grip-strength-poutre-pan",
+      "anchor": "la force des doigts entraînée à la poutre",
+      "context": "même cocon, complément extenseurs"
     },
     {
       "slug": "alimentation-grimpeur-essentiel",
       "anchor": "les vrais leviers de l'alimentation du grimpeur",
-      "context": "Nutrition entraînement"
-    },
-    {
-      "slug": "tendinite-epaule-coude-grimpe",
-      "anchor": "prévenir les tendinites épaule et coude",
-      "context": "Prévention"
+      "context": "même cocon, récupération inter-séances"
     }
   ],
   "scheduled_at": "2027-02-09T09:00:00+01:00"
