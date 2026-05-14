@@ -21,7 +21,7 @@
     },
     {
       "type": "p",
-      "html": "J'ai découvert Saffres assez tard pour un grimpeur français, autour de mes vingt ans. Je venais d'enchaîner deux saisons à Bleau et dans les Calanques, et je m'étais convaincu que les sites de l'Est de la France ne valaient pas le voyage. Erreur. La première fois que j'ai garé la voiture sur le parking du Bel Air, j'ai compris pourquoi tous les grimpeurs dijonnais en parlaient avec affection. C'est un site humble, sans démesure, mais d'une qualité d'apprentissage rare."
+      "html": "J'ai découvert Saffres assez tard pour un grimpeur français, autour de mes vingt ans. Je venais d'enchaîner deux saisons à Bleau et dans les Calanques, et je m'étais convaincu que les sites de l'Est de la France ne valaient pas le voyage. Erreur. La <a href=\"/blog/sortie-rocher-debutant\">première</a> fois que j'ai garé la voiture sur le parking du Bel Air, j'ai compris pourquoi tous les grimpeurs dijonnais en parlaient avec affection. C'est un site humble, sans démesure, mais d'une qualité d'apprentissage rare."
     },
     {
       "type": "p",
@@ -50,16 +50,43 @@
     {
       "type": "table",
       "caption": "Fiche d'identité de Saffres",
-      "headers": ["Critère", "Détail"],
+      "headers": [
+        "Critère",
+        "Détail"
+      ],
       "rows": [
-        ["Localisation", "Côte-d'Or, commune de Saffres, 21 km sud-ouest de Dijon"],
-        ["Altitude", "250 à 350 mètres"],
-        ["Roche", "Calcaire jurassique à grain (tuffeau bourguignon)"],
-        ["Nombre de voies", "Environ 200 équipées"],
-        ["Cotations", "4a à 8a, dominante 5c-6c"],
-        ["Hauteur", "15 à 30 mètres"],
-        ["Orientation", "Variable selon secteurs, majoritairement sud et ouest"],
-        ["Période idéale", "Avril à novembre"]
+        [
+          "Localisation",
+          "Côte-d'Or, commune de Saffres, 21 km sud-ouest de Dijon"
+        ],
+        [
+          "Altitude",
+          "250 à 350 mètres"
+        ],
+        [
+          "Roche",
+          "Calcaire jurassique à grain (tuffeau bourguignon)"
+        ],
+        [
+          "Nombre de voies",
+          "Environ 200 équipées"
+        ],
+        [
+          "Cotations",
+          "4a à 8a, dominante 5c-6c"
+        ],
+        [
+          "Hauteur",
+          "15 à 30 mètres"
+        ],
+        [
+          "Orientation",
+          "Variable selon secteurs, majoritairement sud et ouest"
+        ],
+        [
+          "Période idéale",
+          "Avril à novembre"
+        ]
       ]
     },
     {

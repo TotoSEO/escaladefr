@@ -15,58 +15,215 @@
     "L'assureur joue 40 % de la réussite, par son saut d'amortissement et sa position."
   ],
   "body_blocks": [
-    {"type": "h2", "text": "Pourquoi on évite la chute, à tort"},
-    {"type": "p", "html": "L'instinct dit de ne pas tomber. Tous nos réflexes archaïques visent à se rattraper, s'accrocher, freiner. En escalade, ces réflexes se retournent contre toi en tête. Le grimpeur qui n'a jamais volé contrôle son geste, mais il sous-dose son engagement. Il s'arrête deux mouvements avant le crux, demande 'sec', ou choisit des voies sous son niveau. Sur le long terme, il progresse moins vite que celui qui accepte de chuter une fois par séance."},
-    {"type": "p", "html": "Les statistiques en salle confirment ça. La majorité des accidents en tête ne viennent pas du vol lui-même mais d'une mauvaise manœuvre par peur du vol : grimpeur qui s'agrippe à la dégaine au moment du clip, qui inverse la corde, qui se balance bizarrement. Apprendre à chuter, c'est aussi apprendre à éviter ces gestes parasites. Cet apprentissage complète <a href=\"/blog/grimper-en-tete-premiere-fois\">le passage en tête</a> et ne peut pas s'en séparer."},
-    {"type": "h2", "text": "La méthode progressive sur cinq paliers"},
-    {"type": "list", "variant": "numbered", "title": "Les cinq paliers de la chute contrôlée", "items": [
-      {"title": "Palier 1 : assis dans le baudrier", "body": "En moulinette, tu montes à 3 mètres, tu dis 'sec', tu lâches les prises et tu te laisses tenir. Pas de vol, juste habituer le corps à la suspension. À faire 10 fois sur deux séances."},
-      {"title": "Palier 2 : vol simulé en moulinette", "body": "À 4 mètres en moulinette, tu sautes en arrière du mur sur 30 cm avant que la corde se tende. Tu prends conscience du choc minimal. À faire 5 fois par séance."},
-      {"title": "Palier 3 : chute en tête à hauteur du clip", "body": "Tu clippes la troisième dégaine, tu te positionnes à hauteur du mousqueton et tu lâches. Le vol est très court, presque sans choc. À faire 3 fois sur une séance."},
-      {"title": "Palier 4 : chute 30 cm au-dessus du clip", "body": "Tu clippes, tu remontes 30 cm au-dessus du mousqueton, tu lâches. Tu ressens le vol pour la première fois. Géré, court, contrôlé."},
-      {"title": "Palier 5 : chute 1 mètre au-dessus du clip", "body": "Tu remontes 1 mètre au-dessus du clip et tu lâches. C'est le niveau standard d'un vol en tête au crux d'une voie. Quand tu fais ça sereinement, tu peux grimper ton niveau."}
-    ]},
-    {"type": "p", "html": "Compte une à deux séances par palier, soit cinq à dix séances dédiées au total. Ne saute pas les paliers, même si tu te sens prêt. Le cerveau a besoin de la séquence pour intégrer le vol comme un événement normal et non comme un danger. Un grimpeur pressé qui attaque direct au palier 5 reculera mentalement et grimpera moins bien six mois plus tard. À mes débuts au lycée Camille Sée, j'ai longtemps évité de chuter en tête, je grimpais en mode contrôle absolu jusqu'à un moniteur qui m'a forcé à enchaîner cinq vols contrôlés par séance pendant un mois. Mon niveau a sauté de deux cotations dans le semestre qui a suivi."},
-    {"type": "h2", "text": "La posture pendant le vol"},
-    {"type": "p", "html": "Pendant le vol, ton corps doit être <strong>tonique mais relâché</strong>. Bras le long du corps, légèrement écartés pour l'équilibre. Jambes légèrement fléchies, prêtes à amortir contre le mur. <strong>Regard vers le mur</strong>, pas vers le bas. Bouche fermée pour ne pas se mordre la langue à la rattrape. Si tu es trop raide, le choc te casse. Si tu es trop mou, tu pars en torsion et tu te cognes."},
-    {"type": "tip", "title": "Ne tends jamais les bras vers la corde en chutant", "body": "Le réflexe de saisir la corde au moment du vol coûte chaque année des doigts brûlés et des phalanges déboîtées. La corde file à 3-4 mètres par seconde dans tes paumes. Laisse les bras le long du corps, c'est l'assureur qui te tient.", "tone": "attention"},
-    {"type": "p", "html": "Beaucoup de débutants tournent la tête vers le sol pendant le vol. C'est une mauvaise idée : tu perds la conscience de ta proximité avec le mur et tu n'amortis pas. Garde le regard sur le mur, à hauteur de ta poitrine. Tu vois venir la rattrape et tu peux placer tes pieds. C'est ce détail qui sépare un vol propre d'un vol où tu te claques l'épaule contre une prise."},
-    {"type": "h2", "text": "Le rôle de l'assureur, capital"},
-    {"type": "p", "html": "L'assureur fait <strong>40 % de la qualité du vol</strong>. Il choisit le moment du saut amortisseur, dose le mou, et oriente la trajectoire. Trop tendu, il transforme un petit vol en choc sec. Trop mou, il ajoute des mètres inutiles à la chute. Le bon assureur saute 30 cm vers le haut au moment exact du blocage de la corde. Ça absorbe le pic de force et rend le vol fluide."},
-    {"type": "table", "caption": "Comportement de l'assureur selon la hauteur du vol", "headers": ["Hauteur du grimpeur", "Mou recommandé", "Saut d'amortissement"], "rows": [
-      ["1 à 4 m", "Très tendu, 30 cm max", "Pas de saut, prise au sol"],
-      ["4 à 8 m", "Mou modéré, 50 cm", "Petit saut sur la pointe des pieds"],
-      ["8 à 12 m", "Mou normal, 1 m", "Saut franc, 30 à 50 cm"],
-      ["Au-dessus de 12 m", "Mou généreux, 1,5 m", "Saut franc + déplacement vers le mur"]
-    ]},
-    {"type": "p", "html": "Quand tu travailles la chute, ton assureur doit savoir ce que tu fais. Préviens avant chaque essai : 'je vais faire un vol contrôlé à 5 mètres, palier 4'. Il se prépare, il prend la bonne posture, il anticipe le choc. Sans cette communication, il sera surpris et donnera un mauvais arrêt. Le couple chuteur-assureur se construit sur deux à cinq séances, c'est précieux à entretenir avec ton partenaire régulier."},
-    {"type": "h2", "text": "Là où la peur revient"},
-    {"type": "p", "html": "Tu vas passer le palier 4 en deux séances, et la peur revient en falaise. C'est normal. La salle est lisse, prévisible, l'arrière du dos est sans risque. La falaise a des reliefs, des arêtes, des vires. La peur signale un vrai risque accru, elle ne ment pas. Pour gérer ça, on choisit ses voies de progression en falaise : pas en dévers raide la première fois, pas avec un toit en sortie, et pas sur un secteur où la voie zigzague."},
-    {"type": "quote", "text": "Ce qui débloque la peur, ce n'est pas le courage, c'est la répétition d'expériences réussies. Cinq vols propres valent dix lectures.", "author": "Antoine", "role": "auteur, 7b bloc et 8a falaise"},
-    {"type": "p", "html": "Si la peur te tétanise pendant des mois, plusieurs leviers existent. Travailler avec un moniteur diplômé pour des séances de chute encadrées, lire les ouvrages sur le mental en grimpe (Arno Ilgner, 'The Rock Warrior's Way' fait référence), ou simplement <a href=\"/blog/mental-grimpe-blocage\">travailler le blocage mental</a> en parallèle de la grimpe. Aucune méthode magique, juste un cumul d'expériences positives qui finit par recâbler le réflexe."},
-    {"type": "h2", "text": "Erreurs typiques qu'on voit chaque mois"},
-    {"type": "p", "html": "Cinq erreurs reviennent systématiquement chez les grimpeurs qui démarrent la chute. Premier : sauter dans le vide volontairement à 8 mètres sans avoir validé les paliers inférieurs. Choc psychologique garanti, recul de plusieurs semaines. Deuxième : tendre les bras vers la dégaine au moment du vol, et se prendre le mousqueton dans les doigts. Troisième : se laisser tomber les jambes pliées sous soi, ce qui fait basculer en arrière. Quatrième : oublier de prévenir l'assureur."},
-    {"type": "p", "html": "Cinquième et la plus pernicieuse : valider trop vite. Tu fais un palier 4 réussi, tu te crois prêt pour le palier 5. Tu sautes une séance, tu te fais peur, tu te bloques pour trois semaines. Reste sur chaque palier le temps que ça devient vraiment routine, pas juste 'faisable'. <strong>Cinq vols par palier</strong>, c'est le minimum pour ancrer la sérénité. Au-delà, tu peux passer au palier suivant en confiance."},
-    {"type": "h2", "text": "Chuter en falaise : ce qui change vraiment"},
-    {"type": "p", "html": "La salle pardonne, la falaise non. En falaise, les vols deviennent plus longs parce que les dégaines sont parfois espacées de 2 à 3 mètres au lieu de 1,5. Le relief crée des risques de contact : vires, surplombs renversés, arêtes. La règle d'or en falaise : tu ne chutes que sur des sections que tu as repérées comme sans obstacle. Si tu sens venir le vol sur un toit ou au-dessus d'une vire, demande 'sec' avant de tomber, ne tente pas le mouvement à tout prix."},
-    {"type": "p", "html": "Le grimpeur expérimenté repère mentalement ses zones de chute possible en lecture, avant de se lancer. C'est un réflexe qui s'installe avec les sorties répétées sur les classiques de <strong>Buoux, Céüse, ou le Saussois</strong>, où les voies sportives ont des configurations diverses. Tu peux <a href=\"/blog/sortie-rocher-debutant\">préparer ta première sortie rocher</a> en gardant cette notion de zone sûre, c'est ce qui fera la différence entre un grimpeur sécuritaire et un grimpeur exposé."}
+    {
+      "type": "h2",
+      "text": "Pourquoi on évite la chute, à tort"
+    },
+    {
+      "type": "p",
+      "html": "L'instinct dit de ne pas tomber. Tous nos réflexes archaïques visent à se rattraper, s'accrocher, freiner. En escalade, ces réflexes se retournent contre toi en tête. Le grimpeur qui n'a jamais volé contrôle son geste, mais il sous-dose son engagement. Il s'arrête deux mouvements avant le crux, demande 'sec', ou choisit des voies sous son niveau. Sur le long terme, il progresse moins vite que celui qui accepte de chuter une fois par séance. Pour replacer cela dans le panorama, <a href=\"/blog/apprendre-escalade-debutant-2026\">le guide pour apprendre l'escalade</a>."
+    },
+    {
+      "type": "p",
+      "html": "Les statistiques en salle confirment ça. La majorité des accidents en tête ne viennent pas du vol lui-même mais d'une mauvaise manœuvre par peur du vol : grimpeur qui s'agrippe à la dégaine au moment du clip, qui inverse la corde, qui se balance bizarrement. Apprendre à chuter, c'est aussi apprendre à éviter ces gestes parasites. Cet apprentissage complète <a href=\"/blog/grimper-en-tete-premiere-fois\">le passage en tête</a> et ne peut pas s'en séparer."
+    },
+    {
+      "type": "h2",
+      "text": "La méthode progressive sur cinq paliers"
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "title": "Les cinq paliers de la chute contrôlée",
+      "items": [
+        {
+          "title": "Palier 1 : assis dans le baudrier",
+          "body": "En moulinette, tu montes à 3 mètres, tu dis 'sec', tu lâches les prises et tu te laisses tenir. Pas de vol, juste habituer le corps à la suspension. À faire 10 fois sur deux séances."
+        },
+        {
+          "title": "Palier 2 : vol simulé en moulinette",
+          "body": "À 4 mètres en moulinette, tu sautes en arrière du mur sur 30 cm avant que la corde se tende. Tu prends conscience du choc minimal. À faire 5 fois par séance."
+        },
+        {
+          "title": "Palier 3 : chute en tête à hauteur du clip",
+          "body": "Tu clippes la troisième dégaine, tu te positionnes à hauteur du mousqueton et tu lâches. Le vol est très court, presque sans choc. À faire 3 fois sur une séance."
+        },
+        {
+          "title": "Palier 4 : chute 30 cm au-dessus du clip",
+          "body": "Tu clippes, tu remontes 30 cm au-dessus du mousqueton, tu lâches. Tu ressens le vol pour la première fois. Géré, court, contrôlé."
+        },
+        {
+          "title": "Palier 5 : chute 1 mètre au-dessus du clip",
+          "body": "Tu remontes 1 mètre au-dessus du clip et tu lâches. C'est le niveau standard d'un vol en tête au crux d'une voie. Quand tu fais ça sereinement, tu peux grimper ton niveau."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "html": "Compte une à deux séances par palier, soit cinq à dix séances dédiées au total. Ne saute pas les paliers, même si tu te sens prêt. Le cerveau a besoin de la séquence pour intégrer le vol comme un événement normal et non comme un danger. Un grimpeur pressé qui attaque direct au palier 5 reculera mentalement et grimpera moins bien six mois plus tard. À mes débuts au lycée Camille Sée, j'ai longtemps évité de chuter en tête, je grimpais en mode contrôle absolu jusqu'à un moniteur qui m'a forcé à enchaîner cinq vols contrôlés par séance pendant un mois. Mon niveau a sauté de deux cotations dans le semestre qui a suivi."
+    },
+    {
+      "type": "h2",
+      "text": "La posture pendant le vol"
+    },
+    {
+      "type": "p",
+      "html": "Pendant le vol, ton corps doit être <strong>tonique mais relâché</strong>. Bras le long du corps, légèrement écartés pour l'équilibre. Jambes légèrement fléchies, prêtes à amortir contre le mur. <strong>Regard vers le mur</strong>, pas vers le bas. Bouche fermée pour ne pas se mordre la langue à la rattrape. Si tu es trop raide, le choc te casse. Si tu es trop mou, tu pars en torsion et tu te cognes."
+    },
+    {
+      "type": "tip",
+      "title": "Ne tends jamais les bras vers la corde en chutant",
+      "body": "Le réflexe de saisir la corde au moment du vol coûte chaque année des doigts brûlés et des phalanges déboîtées. La corde file à 3-4 mètres par seconde dans tes paumes. Laisse les bras le long du corps, c'est l'assureur qui te tient.",
+      "tone": "attention"
+    },
+    {
+      "type": "p",
+      "html": "Beaucoup de débutants tournent la tête vers le sol pendant le vol. C'est une mauvaise idée : tu perds la conscience de ta proximité avec le mur et tu n'amortis pas. Garde le regard sur le mur, à hauteur de ta poitrine. Tu vois venir la rattrape et tu peux placer tes pieds. C'est ce détail qui sépare un vol propre d'un vol où tu te claques l'épaule contre une prise."
+    },
+    {
+      "type": "h2",
+      "text": "Le rôle de l'assureur, capital"
+    },
+    {
+      "type": "p",
+      "html": "L'assureur fait <strong>40 % de la qualité du vol</strong>. Il choisit le moment du saut amortisseur, dose le mou, et oriente la trajectoire. Trop tendu, il transforme un petit vol en choc sec. Trop mou, il ajoute des mètres inutiles à la chute. Le bon assureur saute 30 cm vers le haut au moment exact du blocage de la corde. Ça absorbe le pic de force et rend le vol fluide."
+    },
+    {
+      "type": "table",
+      "caption": "Comportement de l'assureur selon la hauteur du vol",
+      "headers": [
+        "Hauteur du grimpeur",
+        "Mou recommandé",
+        "Saut d'amortissement"
+      ],
+      "rows": [
+        [
+          "1 à 4 m",
+          "Très tendu, 30 cm max",
+          "Pas de saut, prise au sol"
+        ],
+        [
+          "4 à 8 m",
+          "Mou modéré, 50 cm",
+          "Petit saut sur la pointe des pieds"
+        ],
+        [
+          "8 à 12 m",
+          "Mou normal, 1 m",
+          "Saut franc, 30 à 50 cm"
+        ],
+        [
+          "Au-dessus de 12 m",
+          "Mou généreux, 1,5 m",
+          "Saut franc + déplacement vers le mur"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "html": "Quand tu travailles la chute, ton assureur doit savoir ce que tu fais. Préviens avant chaque essai : 'je vais faire un vol contrôlé à 5 mètres, palier 4'. Il se prépare, il prend la bonne posture, il anticipe le choc. Sans cette communication, il sera surpris et donnera un mauvais arrêt. Le couple chuteur-assureur se construit sur deux à cinq séances, c'est précieux à entretenir avec ton partenaire régulier."
+    },
+    {
+      "type": "h2",
+      "text": "Là où la peur revient"
+    },
+    {
+      "type": "p",
+      "html": "Tu vas passer le palier 4 en deux séances, et la peur revient en falaise. C'est normal. La salle est lisse, prévisible, l'arrière du dos est sans risque. La falaise a des reliefs, des arêtes, des vires. La peur signale un vrai risque accru, elle ne ment pas. Pour gérer ça, on choisit ses voies de progression en falaise : pas en dévers raide la première fois, pas avec un toit en sortie, et pas sur un secteur où la voie zigzague."
+    },
+    {
+      "type": "quote",
+      "text": "Ce qui débloque la peur, ce n'est pas le courage, c'est la répétition d'expériences réussies. Cinq vols propres valent dix lectures.",
+      "author": "Antoine",
+      "role": "auteur, 7b bloc et 8a falaise"
+    },
+    {
+      "type": "p",
+      "html": "Si la peur te tétanise pendant des mois, plusieurs leviers existent. Travailler avec un moniteur diplômé pour des séances de chute encadrées, lire les ouvrages sur le mental en grimpe (Arno Ilgner, 'The Rock Warrior's Way' fait référence), ou simplement <a href=\"/blog/mental-grimpe-blocage\">travailler le blocage mental</a> en parallèle de la grimpe. Aucune méthode magique, juste un cumul d'expériences positives qui finit par recâbler le réflexe."
+    },
+    {
+      "type": "h2",
+      "text": "Erreurs typiques qu'on voit chaque mois"
+    },
+    {
+      "type": "p",
+      "html": "Cinq erreurs reviennent systématiquement chez les grimpeurs qui démarrent la chute. Premier : sauter dans le vide volontairement à 8 mètres sans avoir validé les paliers inférieurs. Choc psychologique garanti, recul de plusieurs semaines. Deuxième : tendre les bras vers la dégaine au moment du vol, et se prendre le mousqueton dans les doigts. Troisième : se laisser tomber les jambes pliées sous soi, ce qui fait basculer en arrière. Quatrième : oublier de prévenir l'assureur."
+    },
+    {
+      "type": "p",
+      "html": "Cinquième et la plus pernicieuse : valider trop vite. Tu fais un palier 4 réussi, tu te crois prêt pour le palier 5. Tu sautes une séance, tu te fais peur, tu te bloques pour trois semaines. Reste sur chaque palier le temps que ça devient vraiment routine, pas juste 'faisable'. <strong>Cinq vols par palier</strong>, c'est le minimum pour ancrer la sérénité. Au-delà, tu peux passer au palier suivant en confiance."
+    },
+    {
+      "type": "h2",
+      "text": "Chuter en falaise : ce qui change vraiment"
+    },
+    {
+      "type": "p",
+      "html": "La salle pardonne, la falaise non. En falaise, les vols deviennent plus longs parce que les dégaines sont parfois espacées de 2 à 3 mètres au lieu de 1,5. Le relief crée des risques de contact : vires, surplombs renversés, arêtes. La règle d'or en falaise : tu ne chutes que sur des sections que tu as repérées comme sans obstacle. Si tu sens venir le vol sur un toit ou au-dessus d'une vire, demande 'sec' avant de tomber, ne tente pas le mouvement à tout prix."
+    },
+    {
+      "type": "p",
+      "html": "Le grimpeur expérimenté repère mentalement ses zones de chute possible en lecture, avant de se lancer. C'est un réflexe qui s'installe avec les sorties répétées sur les classiques de <strong>Buoux, Céüse, ou le Saussois</strong>, où les voies sportives ont des configurations diverses. Tu peux <a href=\"/blog/sortie-rocher-debutant\">préparer ta première sortie rocher</a> en gardant cette notion de zone sûre, c'est ce qui fera la différence entre un grimpeur sécuritaire et un grimpeur exposé."
+    }
   ],
   "faq": [
-    {"q": "À partir de quel niveau peut-on travailler la chute ?", "a": "Dès que tu enchaînes du 5a en moulinette sans tension, et avant de te lancer en tête de manière régulière. C'est l'étape pont entre les deux pratiques. Beaucoup de grimpeurs la sautent et le paient en performances bloquées pendant des années."},
-    {"q": "Faut-il un moniteur pour apprendre à chuter ?", "a": "Pas obligatoire, mais utile pour les paliers 4 et 5. Un moniteur valide ta posture, ajuste celle de l'assureur, et te rassure dans les premiers vols réels. Beaucoup de clubs FFME proposent des séances chute dédiées une fois par trimestre."},
-    {"q": "Et si je n'arrive vraiment pas à lâcher prise ?", "a": "C'est plus fréquent qu'on ne croit. La méthode du contrat verbal aide : tu dis à voix haute 'à la prochaine, je lâche' avant de saisir la prise, et tu t'obliges à tenir parole. Si ça résiste après dix séances, un travail mental dédié devient pertinent."},
-    {"q": "Le matériel a-t-il une influence sur le ressenti du vol ?", "a": "Oui. Un Grigri donne un arrêt plus sec qu'un ATC ou Reverso, où l'assureur peut doser. Une corde fine de 8,9 mm chute plus mou qu'une corde 10,5 mm sèche. Pour les premiers vols, une corde dynamique standard et un Grigri suffisent largement."},
-    {"q": "Les chutes en bloc, c'est pareil ?", "a": "Non, c'est un autre exercice. En bloc, tu chutes sur des crashpads à 3-4 mètres maximum. La technique est différente : roulade arrière, jambes fléchies, mains au sol. Sujet à part traité dans le <a href=\"/blog/bloc-techniques-base\">guide bloc</a>."},
-    {"q": "Combien de chutes par séance, à raison de quel rythme ?", "a": "Trois à cinq chutes par séance, sur des voies fraîches en début de séance ou à mi-parcours. Pas en fin de séance quand la fatigue augmente le risque d'erreur. À raison d'une séance chute par semaine, tu progresses bien sans saturer mentalement."}
+    {
+      "q": "À partir de quel niveau peut-on travailler la chute ?",
+      "a": "Dès que tu enchaînes du 5a en moulinette sans tension, et avant de te lancer en tête de manière régulière. C'est l'étape pont entre les deux pratiques. Beaucoup de grimpeurs la sautent et le paient en performances bloquées pendant des années."
+    },
+    {
+      "q": "Faut-il un moniteur pour apprendre à chuter ?",
+      "a": "Pas obligatoire, mais utile pour les paliers 4 et 5. Un moniteur valide ta posture, ajuste celle de l'assureur, et te rassure dans les premiers vols réels. Beaucoup de clubs FFME proposent des séances chute dédiées une fois par trimestre."
+    },
+    {
+      "q": "Et si je n'arrive vraiment pas à lâcher prise ?",
+      "a": "C'est plus fréquent qu'on ne croit. La méthode du contrat verbal aide : tu dis à voix haute 'à la prochaine, je lâche' avant de saisir la prise, et tu t'obliges à tenir parole. Si ça résiste après dix séances, un travail mental dédié devient pertinent."
+    },
+    {
+      "q": "Le matériel a-t-il une influence sur le ressenti du vol ?",
+      "a": "Oui. Un Grigri donne un arrêt plus sec qu'un ATC ou Reverso, où l'assureur peut doser. Une corde fine de 8,9 mm chute plus mou qu'une corde 10,5 mm sèche. Pour les premiers vols, une corde dynamique standard et un Grigri suffisent largement."
+    },
+    {
+      "q": "Les chutes en bloc, c'est pareil ?",
+      "a": "Non, c'est un autre exercice. En bloc, tu chutes sur des crashpads à 3-4 mètres maximum. La technique est différente : roulade arrière, jambes fléchies, mains au sol. Sujet à part traité dans le <a href=\"/blog/bloc-techniques-base\">guide bloc</a>."
+    },
+    {
+      "q": "Combien de chutes par séance, à raison de quel rythme ?",
+      "a": "Trois à cinq chutes par séance, sur des voies fraîches en début de séance ou à mi-parcours. Pas en fin de séance quand la fatigue augmente le risque d'erreur. À raison d'une séance chute par semaine, tu progresses bien sans saturer mentalement."
+    }
   ],
   "cover_alt": "Une grimpeuse vole d'un mètre sous une dégaine bleue dans une salle d'escalade, corde rouge tendue, assureur en blanc en position d'amortissement au sol",
   "internal_links": [
-    {"slug": "apprendre-escalade-debutant-2026", "anchor": "apprendre l'escalade", "context": "Pilier du cocon"},
-    {"slug": "grimper-en-tete-premiere-fois", "anchor": "le passage en tête", "context": "Étape précédente"},
-    {"slug": "grimper-en-moulinette", "anchor": "consolider la moulinette", "context": "Étape encore antérieure"},
-    {"slug": "mental-grimpe-blocage", "anchor": "travailler le blocage mental", "context": "Aspect mental complémentaire"},
-    {"slug": "bloc-techniques-base", "anchor": "guide bloc", "context": "Discipline voisine"},
-    {"slug": "sortie-rocher-debutant", "anchor": "préparer ta première sortie rocher", "context": "Transition vers la falaise"}
+    {
+      "slug": "apprendre-escalade-debutant-2026",
+      "anchor": "apprendre l'escalade",
+      "context": "Pilier du cocon"
+    },
+    {
+      "slug": "grimper-en-tete-premiere-fois",
+      "anchor": "le passage en tête",
+      "context": "Étape précédente"
+    },
+    {
+      "slug": "grimper-en-moulinette",
+      "anchor": "consolider la moulinette",
+      "context": "Étape encore antérieure"
+    },
+    {
+      "slug": "mental-grimpe-blocage",
+      "anchor": "travailler le blocage mental",
+      "context": "Aspect mental complémentaire"
+    },
+    {
+      "slug": "bloc-techniques-base",
+      "anchor": "guide bloc",
+      "context": "Discipline voisine"
+    },
+    {
+      "slug": "sortie-rocher-debutant",
+      "anchor": "préparer ta première sortie rocher",
+      "context": "Transition vers la falaise"
+    }
   ],
   "scheduled_at": "2026-06-02T09:00:00+02:00"
 }

@@ -118,7 +118,7 @@
     },
     {
       "type": "p",
-      "html": "Le nœud mickey ou nœud d'arrêt s'installe à 1 à 2 mètres du bout de chaque brin. Il empêche le mousqueton de la descente de passer. Une statistique grimaçante : la majorité des accidents en rappel en France sont liés à l'absence de nœud d'arrêt en bout de corde. Un grimpeur déconcentré, une nuit qui tombe, une corde trop courte et c'est l'accident évitable. L'habitude de fermer chaque extrémité avant le premier rappel doit devenir un réflexe systématique, comme attacher sa ceinture."
+      "html": "Le <a href=\"/blog/noeud-mickey-rappel\">nœud mickey en bout de corde de rappel</a> s'installe à 1 à 2 mètres du bout de chaque brin. Il empêche le mousqueton de la descente de passer. Une statistique grimaçante : la majorité des accidents en rappel en France sont liés à l'absence de nœud d'arrêt en bout de corde. Un grimpeur déconcentré, une nuit qui tombe, une corde trop courte et c'est l'accident évitable. L'habitude de fermer chaque extrémité avant le premier rappel doit devenir un réflexe systématique, comme attacher sa ceinture."
     },
     {
       "type": "table",
@@ -197,7 +197,7 @@
     },
     {
       "type": "p",
-      "html": "Avant chaque ascension, le grimpeur et l'assureur se vérifient mutuellement. Le grimpeur contrôle son nœud (présence du double, queue suffisante, passage dans le pontet et pas dans une boucle de sangle), son baudrier (boucles doublées) et l'absence de matériel mal fixé. L'assureur vérifie son appareil d'assurage, le sens de passage de la corde et son propre baudrier."
+      "html": "Avant chaque ascension, le grimpeur et l'assureur se <a href=\"/blog/verifier-noeud-partenaire\">vérifient mutuellement le nœud et le baudrier</a>. Le grimpeur contrôle son nœud (présence du double, queue suffisante, passage dans le pontet et pas dans une boucle de sangle), son baudrier (boucles doublées) et l'absence de matériel mal fixé. L'assureur vérifie son appareil d'assurage, le sens de passage de la corde et son propre baudrier. Au relais, la <a href=\"/blog/nettoyer-relais-rappel-securite\">manœuvre de nettoyage du relais avant rappel</a> demande la même rigueur visuelle."
     },
     {
       "type": "quote",
@@ -227,11 +227,11 @@
     },
     {
       "type": "p",
-      "html": "Au-delà des huit nœuds essentiels, certains profils gagnent à enrichir leur répertoire. Le nœud de chaise (bowline) reste apprécié des alpinistes anglo-saxons pour s'encorder, mais il glisse plus que le huit sans contrenoeud. Le papillon (ou nœud de Lyon) crée une boucle au milieu d'une corde, utile pour isoler une zone endommagée ou pour assurer trois personnes en alpinisme."
+      "html": "Au-delà des huit nœuds essentiels, certains profils gagnent à enrichir leur répertoire. Le <a href=\"/blog/noeud-chaise-alpinisme\">nœud de chaise comme encordement d'alpinisme</a> reste apprécié des alpinistes anglo-saxons pour s'encorder, mais il glisse plus que le huit sans contrenœud. Le <a href=\"/blog/noeud-papillon-corde-endommagee\">papillon pour isoler une zone de corde endommagée</a> crée une boucle au milieu d'une corde, utile pour assurer trois personnes en alpinisme."
     },
     {
       "type": "p",
-      "html": "Le mule bloquant te sauve quand tu dois lâcher la corde en cours d'assurage : il bloque le demi-cabestan et libère les mains. C'est le geste de base pour aller sécuriser un grimpeur en difficulté ou installer un mouflage. Tu peux explorer ces variantes dans <a href=\"/blog/noeud-mule-bloquant-corde\">notre fiche sur le mule bloquant</a>, à connaître avant toute sortie en grande voie engagée. La tête d'alouette, plus simple, sert à passer une sangle sur une lunule ou un becquet."
+      "html": "Le <a href=\"/blog/noeud-mule-bloquant-corde\">mule bloquant sur le demi-cabestan</a> te sauve quand tu dois lâcher la corde en cours d'assurage : il libère les mains. C'est le geste de base pour aller sécuriser un grimpeur en difficulté ou installer un mouflage. À connaître avant toute sortie en grande voie engagée. La <a href=\"/blog/noeud-tete-alouette-sangle\">tête d'alouette sur sangle ou becquet</a>, plus simple, sert à passer une sangle sur une lunule ou un becquet. En assurage d'appoint sans matériel, le <a href=\"/blog/noeud-italien-improvise\">nœud italien improvisé</a> dépanne quand l'appareil d'assurage est tombé. Et avant toute manœuvre, le <a href=\"/blog/noeud-demi-cabestan-assurance\">demi-cabestan d'assurage de secours</a> mérite ses cinq minutes d'entraînement sur la table de la cuisine."
     }
   ],
   "faq": [

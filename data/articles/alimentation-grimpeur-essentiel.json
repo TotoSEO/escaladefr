@@ -37,7 +37,7 @@
     },
     {
       "type": "p",
-      "html": "Pendant la séance longue, une barre de céréales ou une banane à mi-parcours stabilise ta glycémie. Dans les 30 minutes après la séance, mange un mix glucides-protéines pour recharger les réserves et lancer la récupération. Une banane plus un yaourt grec font très bien le job, ou un shake banane-lait-protéines."
+      "html": "Pendant la séance longue, une barre de céréales ou une banane à mi-parcours stabilise ta glycémie. Dans les 30 minutes après la séance, mange un mix glucides-protéines pour recharger les réserves et lancer la <a href=\"/blog/recuperation-active-jours-off\">récupération</a>. Une banane plus un yaourt grec font très bien le job, ou un shake banane-lait-protéines."
     },
     {
       "type": "list",
@@ -164,7 +164,7 @@
     },
     {
       "type": "p",
-      "html": "L'alcool plombe la récupération. Une soirée bière le vendredi soir avant une session falaise le samedi te coûte 15 à 30 pour cent de performance. Le <strong>cortisol</strong> reste élevé, le sommeil est moins réparateur, l'hydratation est compromise. À éviter avant les sessions clés. Le verre de vin occasionnel en semaine reste compatible avec la progression."
+      "html": "L'alcool plombe la récupération. Une soirée bière le vendredi soir avant une session falaise le samedi te coûte 15 à 30 pour cent de performance. Le <strong>cortisol</strong> reste élevé, le <a href=\"/blog/sommeil-performance-grimpe\">sommeil</a> est moins réparateur, l'hydratation est compromise. À éviter avant les sessions clés. Le verre de vin occasionnel en semaine reste compatible avec la progression."
     },
     {
       "type": "h2",
@@ -182,7 +182,7 @@
     },
     {
       "type": "p",
-      "html": "Pour aller plus loin, vois <a href=\"/blog/hydratation-effort-falaise\">hydratation à l'effort</a> et <a href=\"/blog/sommeil-performance-grimpe\">sommeil et performance</a>. La <a href=\"/blog/preparer-corps-tete-grimpe\">préparation physique et mentale du grimpeur</a> intègre nutrition et récupération dans une vision globale."
+      "html": "La <a href=\"/blog/preparer-corps-tete-grimpe\">préparation physique et mentale du grimpeur</a> intègre nutrition et récupération dans une vision globale."
     }
   ],
   "faq": [

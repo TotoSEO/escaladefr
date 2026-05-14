@@ -21,7 +21,7 @@
     },
     {
       "type": "p",
-      "html": "Avant chaque ascension, le grimpeur et l'assureur se vérifient mutuellement. Le contrôle porte sur trois points clés : <strong>le nœud d'encordement</strong> (huit propre, queue suffisante, passage dans le pontet), <strong>le baudrier</strong> (boucles doublées si non auto-doubl, ceinture sangle ventrale, cuissards bien positionnés) et le système d'assurage (sens de la corde, fermeture du mousqueton). Cette check dure dix secondes. Aucun grimpeur expérimenté ne la saute, jamais."
+      "html": "Avant chaque ascension, le grimpeur et l'assureur se <a href=\"/blog/verification-baudrier-corde-noeud\">vérifient mutuellement baudrier, corde et nœud</a>. Le contrôle porte sur trois points clés : <strong>le nœud d'encordement</strong> (huit propre, queue suffisante, passage dans le pontet), <strong>le baudrier</strong> (boucles doublées si non auto-double, ceinture sangle ventrale, cuissards bien positionnés) et le système d'assurage (sens de la corde, fermeture du mousqueton). Cette check dure dix secondes. Aucun grimpeur expérimenté ne la saute, jamais."
     },
     {
       "type": "p",
@@ -88,7 +88,7 @@
     },
     {
       "type": "p",
-      "html": "Statistiquement, le rappel concentre une part disproportionnée des accidents mortels en escalade. Trois causes principales : passer le bout de la corde (sans nœud d'arrêt), maladresse au passage du relais, chute de pierres décrochées par la corde qui frotte. Le protocole rigoureux passe par cinq étapes : <strong>nœuds d'arrêt aux deux brins</strong>, vérification de l'ancrage, autobloquant installé, descente progressive, sortie de la corde au sol."
+      "html": "Statistiquement, le rappel concentre une part disproportionnée des accidents mortels en escalade. Trois causes principales : passer le bout de la corde (sans nœud d'arrêt), maladresse La <a href=\"/blog/rappel-securite-procedure\">procédure de rappel en sécurité</a> passe par cinq étapes : <strong>nœuds d'arrêt aux deux brins</strong>, vérification de l'ancrage, autobloquant installé, descente progressive, sortie de la corde au sol."
     },
     {
       "type": "p",
@@ -157,7 +157,7 @@
     },
     {
       "type": "p",
-      "html": "<strong>L'orage en falaise reste mortel</strong>. La règle absolue : décroche dès que tu entends le tonnerre, même lointain. Météo France, Mountain Forecast et Yr.no sont les références. Renoncer reste toujours une option, jamais un échec."
+      "html": "<strong>L'orage en falaise reste mortel</strong>. La règle absolue : décroche dès que tu entends le tonnerre, même lointain. Météo France, Mountain Forecast et Yr.no sont les références. Savoir <a href=\"/blog/meteo-falaise-decider-renoncer\">décider de renoncer face à la météo en falaise</a> reste toujours une option, jamais un échec."
     },
     {
       "type": "image_text",
@@ -173,7 +173,7 @@
     },
     {
       "type": "p",
-      "html": "Tu confies ta vie à ton partenaire. Cette phrase a l'air dramatique, elle est juste. Choisis quelqu'un dont tu connais la rigueur, l'attention et le niveau. Évite d'assurer un grimpeur trois niveaux au-dessus de toi en falaise inconnue : tu ne sais pas comment réagir si quelque chose tourne mal."
+      "html": "Tu confies ta vie à ton partenaire. Cette phrase a l'air dramatique, elle est juste. <a href=\"/blog/partenaire-grimpe-confiance\">Choisir un partenaire de grimpe de confiance</a> revient à choisir quelqu'un dont tu connais la rigueur, l'attention et le niveau. Évite d'assurer un grimpeur trois niveaux au-dessus de toi en falaise inconnue : tu ne sais pas comment réagir si quelque chose tourne mal."
     },
     {
       "type": "p",
@@ -191,7 +191,7 @@
     },
     {
       "type": "p",
-      "html": "Si l'évacuation se fait en hélicoptère, certaines règles s'appliquent. Tu signales par les bras croisés en V (Yes, j'ai besoin) ou en N (No, tout va bien) à l'approche du pilote. Tu sécurises tout matériel sur la paroi (rappel ou point fixe), tu te recroquevilles à l'approche du vent généré par les pales, tu laisses l'équipe SAF te guider sans initiative personnelle."
+      "html": "Si l'évacuation se fait en hélicoptère, le détail de l'<a href=\"/blog/helitreuillage-evacuation\">hélitreuillage et signaux d'évacuation</a> mérite d'être connu avant la sortie engagée. Tu signales par les bras croisés en V (Yes, j'ai besoin) ou en N (No, tout va bien) à l'approche du pilote. Tu sécurises tout matériel sur la paroi (rappel ou point fixe), tu te recroquevilles à l'approche du vent généré par les pales, tu laisses l'équipe SAF te guider sans initiative personnelle."
     },
     {
       "type": "p",
@@ -203,7 +203,7 @@
     },
     {
       "type": "p",
-      "html": "L'escalade reste l'un des sports outdoor les moins accidentogènes en France quand on regarde les heures de pratique. Le ratio accident grave par 1 000 heures de pratique reste inférieur à celui du ski alpin, du VTT ou de l'équitation. Pourtant chaque année, une vingtaine de décès et plusieurs centaines de blessures graves marquent la communauté."
+      "html": "L'escalade reste l'un des sports outdoor les moins accidentogènes en France quand on regarde les heures de pratique. Les <a href=\"/blog/accidents-escalade-statistiques\">statistiques d'accidents en escalade en France</a> montrent un ratio accident grave par 1 000 heures inférieur à celui du ski alpin, du VTT ou de l'équitation. Pourtant chaque année, une vingtaine de décès et plusieurs centaines de blessures graves marquent la communauté."
     },
     {
       "type": "p",
