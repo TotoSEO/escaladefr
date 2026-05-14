@@ -21,7 +21,7 @@
     },
     {
       "type": "p",
-      "html": "<strong>Wolfgang Güllich</strong> naît le 24 octobre 1960 à Ludwigshafen, en Rhénanie-Palatinat. Il Très vite il s'installe en Bavière, à proximité du <strong>Frankenjura</strong>, massif calcaire compact qui devient son terrain de chasse principal."
+      "html": "<strong>Wolfgang Güllich</strong> naît le 24 octobre 1960 à Ludwigshafen, en Rhénanie-Palatinat. Très vite, il s'installe en Bavière, à proximité du <strong>Frankenjura</strong>, massif calcaire compact qui devient son terrain de chasse principal."
     },
     {
       "type": "p",
@@ -113,7 +113,7 @@
     },
     {
       "type": "p",
-      "html": "Pour beaucoup de grimpeurs de ma génération, Güllich représente la première figure dont on entend parler quand on s'intéresse au haut niveau. Ses 9a, son Campus Board, sa mort prématurée, l'ensemble forge un mythe qui fait partie du patrimoine escalade au même titre que <a href=\"/blog/patrick-edlinger-vie-falaise\">le portrait emblématique de Patrick Edlinger</a> au Verdon. Sa place est centrale au sein <a href=\"/blog/grimpeurs-grimpeuses-histoire-france\">du panthéon de l'escalade moderne</a>."
+      "html": "Pour beaucoup de grimpeurs, Güllich représente la première figure dont on entend parler quand on s'intéresse au haut niveau. Ses 9a, son Campus Board, sa mort prématurée, l'ensemble forge un mythe qui fait partie du patrimoine escalade au même titre que <a href=\"/blog/patrick-edlinger-vie-falaise\">le portrait emblématique de Patrick Edlinger</a> au Verdon. Sa place reste centrale dans le panthéon de l'escalade moderne."
     },
     {
       "type": "h2",
@@ -162,28 +162,28 @@
   "internal_links": [
     {
       "slug": "grimpeurs-grimpeuses-histoire-france",
-      "anchor": "grimpeurs et grimpeuses qui ont marqué l'histoire",
-      "context": "pilier personnalites"
+      "anchor": "la généalogie des champions modernes de l'escalade",
+      "context": "pilier personnalités, premier lien interne"
     },
     {
       "slug": "adam-ondra-9c-silence",
-      "anchor": "Adam Ondra et le premier 9c",
-      "context": "successeur sur Action Directe"
+      "anchor": "Le grimpeur tchèque Adam Ondra et son enchaînement de Silence 9c",
+      "context": "même cocon, répétition Action Directe"
     },
     {
       "slug": "alex-megos-perfecto-mundo",
-      "anchor": "Alex Megos sur Perfecto Mundo",
-      "context": "héritier allemand"
+      "anchor": "Alex Megos, signataire de Perfecto Mundo en 9b+",
+      "context": "même cocon, héritier allemand"
     },
     {
       "slug": "grip-strength-poutre-pan",
-      "anchor": "travailler la force des doigts à la poutre",
-      "context": "Campus Board et entraînement"
+      "anchor": "les protocoles de poutre et de pan pour développer les doigts",
+      "context": "cross-cocon préparation, Campus Board"
     },
     {
       "slug": "patrick-edlinger-vie-falaise",
-      "anchor": "Patrick Edlinger au Verdon",
-      "context": "génération années 80"
+      "anchor": "le portrait emblématique de Patrick Edlinger",
+      "context": "même cocon, génération années 80"
     }
   ],
   "scheduled_at": "2027-01-26T09:00:00+01:00"
