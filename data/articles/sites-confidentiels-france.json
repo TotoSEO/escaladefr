@@ -79,7 +79,7 @@
     },
     {
       "type": "p",
-      "html": "Le Bois de l'Hôpital, dans la Somme près d'Abbeville, propose une cinquantaine <a href=\"/blog/annot-grès-roses-alpes\">de voies sur grès</a> tendre, hauteurs de 12 à 25 mètres. Site unique du Nord de la France, géré par le CAF Picardie. La grimpe y est verticale et technique, le rocher demande une lecture fine. Période idéale d'avril à octobre. Communauté locale très soudée, parfait pour découvrir une autre dimension de l'escalade française."
+      "html": "Le Bois de l'Hôpital, dans la Somme près d'Abbeville, propose une cinquantaine <a href=\"/blog/annot-gres-roses-alpes\">de voies sur grès</a> tendre, hauteurs de 12 à 25 mètres. Site unique du Nord de la France, géré par le CAF Picardie. La grimpe y est verticale et technique, le rocher demande une lecture fine. Période idéale d'avril à octobre. Communauté locale très soudée, parfait pour découvrir une autre dimension de l'escalade française."
     },
     {
       "type": "p",
@@ -260,7 +260,7 @@
       "context": "contrepoint classique"
     },
     {
-      "slug": "annot-grès-roses-alpes",
+      "slug": "annot-gres-roses-alpes",
       "anchor": "Annot grès roses",
       "context": "autre pépite"
     }
