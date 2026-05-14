@@ -155,7 +155,7 @@
     },
     {
       "type": "p",
-      "html": "Dans la pratique courante en escalade et en alpinisme français, ces variantes restent marginales. Les deux nœuds dominants sont le prussik historique et le Machard tubulaire, qui couvrent ensemble plus de 90 % des usages d'auto-blocage. Maîtriser parfaitement ces deux options vaut mieux que disperser son apprentissage sur cinq ou six variantes peu utilisées. L'ensemble <a href=\"/blog/noeuds-escalade-utiles-guide\">des nœuds clés du grimpeur</a> revient sur cette famille des auto-bloquants."
+      "html": "Dans la pratique courante en escalade et en alpinisme français, ces variantes restent marginales. Les deux nœuds dominants sont le prussik historique et le Machard tubulaire, qui couvrent ensemble plus de 90 % des usages d'auto-blocage. Maîtriser parfaitement ces deux options vaut mieux que disperser son apprentissage sur cinq ou six variantes peu utilisées. La famille des auto-bloquants se résume donc à ces deux références opérationnelles."
     },
     {
       "type": "quote",
@@ -206,23 +206,23 @@
   "internal_links": [
     {
       "slug": "noeuds-escalade-utiles-guide",
-      "anchor": "panorama complet des nœuds utiles",
-      "context": "pilier cocon"
+      "anchor": "les nouages indispensables en grimpe",
+      "context": "pilier nœuds, premier lien interne"
     },
     {
       "slug": "noeud-prussik-auto-bloquant",
-      "anchor": "prussik historique",
-      "context": "comparaison directe"
+      "anchor": "prussik auto-bloquant historique",
+      "context": "même cocon, comparaison directe"
     },
     {
       "slug": "retenir-noeuds-escalade-methode",
-      "anchor": "mémorisation systématique des nœuds",
-      "context": "apprentissage"
+      "anchor": "La mémorisation systématique des nœuds",
+      "context": "même cocon, apprentissage"
     },
     {
       "slug": "verifier-noeud-partenaire",
-      "anchor": "vérification croisée systématique",
-      "context": "sécurité"
+      "anchor": "Le contrôle systématique avant la première prise",
+      "context": "même cocon, dernière ligne de sécurité"
     }
   ],
   "scheduled_at": "2026-10-10T09:00:00+02:00"
