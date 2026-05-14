@@ -138,7 +138,7 @@
     },
     {
       "type": "p",
-      "html": "Tout ne se vaut pas. En hiver à Hautepierre, je rajoute cinq minutes de cardio. En été à Buoux à 25 degrés, je raccourcis à 10 minutes. En bloc à la salle, je prolonge la phase d'activation des doigts. En grande voie, je fais une mini-routine au relais avant chaque longueur. <a href=\"/blog/preparer-corps-tete-grimpe\">préparer le corps et la tête pour la grimpe</a> détaille ces adaptations."
+      "html": "Tout ne se vaut pas. En hiver à Hautepierre, je rajoute cinq minutes de cardio. En été à Buoux à 25 degrés, je raccourcis à 10 minutes. En bloc à la salle, je prolonge la phase d'activation des doigts. En grande voie, je fais une mini-routine au relais avant chaque longueur. Le panorama complet de la préparation physique et mentale détaille ces adaptations selon le terrain de jeu."
     },
     {
       "type": "p",
@@ -193,23 +193,18 @@
   "internal_links": [
     {
       "slug": "preparer-corps-tete-grimpe",
-      "anchor": "La préparation physique et mentale du grimpeur",
-      "context": "Pilier préparation"
-    },
-    {
-      "slug": "etirements-grimpeur-souplesse",
-      "anchor": "étirements et souplesse, ce qui sert vraiment",
-      "context": "Souplesse"
-    },
-    {
-      "slug": "blessures-doigts-grimpeur",
-      "anchor": "prévenir les blessures de doigts",
-      "context": "Blessures doigts"
+      "anchor": "travailler sa préparation au long cours",
+      "context": "pilier préparation, premier lien interne"
     },
     {
       "slug": "musculation-grimpeur-base",
-      "anchor": "musculation de base du grimpeur",
-      "context": "Musculation"
+      "anchor": "bases de la musculation pour grimpeur",
+      "context": "même cocon, exercices coiffe"
+    },
+    {
+      "slug": "blessures-doigts-grimpeur",
+      "anchor": "le guide des blessures de doigts chez le grimpeur",
+      "context": "même cocon, prévention poulies"
     }
   ],
   "scheduled_at": "2027-02-06T09:00:00+01:00"
