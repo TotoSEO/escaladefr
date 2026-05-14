@@ -21,7 +21,7 @@
     },
     {
       "type": "p",
-      "html": "Tous les rochers ne sont pas faits pour la grimpe intensive. Le <strong>grès tendre</strong> de certains secteurs de Fontainebleau, le <strong>calcaire friable</strong> de certaines parties du Vercors, le <strong>conglomérat sableux</strong> d'Aiglun dans les Préalpes ou de Riglos en Espagne se dégradent plus vite que le calcaire compact de Buoux ou le granit de Bleau central. Le grimpeur expérimenté apprend à les reconnaître au son et au toucher."
+      "html": "Tous les rochers ne sont pas faits pour la grimpe intensive. Le <strong>grès tendre</strong> de certains secteurs de Fontainebleau, le <strong>calcaire friable</strong> de certaines parties du Vercors, le <strong>conglomérat sableux</strong> d'Aiglun dans les Préalpes ou de Riglos en Espagne se dégradent plus vite que le calcaire compact de Buoux ou le granit de Bleau central. Le grimpeur expérimenté apprend à les reconnaître au son et au toucher. Cette attention au support s'inscrit pleinement dans <a href=\"/blog/grimper-respect-sites-faune\">la grimpe respectueuse des sites et de la faune sur le long terme</a>, qui dépasse largement la seule question des espèces protégées."
     },
     {
       "type": "p",
@@ -80,7 +80,7 @@
     },
     {
       "type": "p",
-      "html": "La règle simple : si tu doutes, tu ne grimpes pas. Compte deux à trois jours de séchage après une pluie modérée sur calcaire compact bien ventilé. Cinq à sept jours sur paroi nord ou sur calcaire poreux. Plusieurs semaines après un épisode pluvieux intense, surtout en automne. Les topos locaux et les forums de grimpeurs publient souvent l'état des sites en saison humide, dans l'esprit <a href=\"/blog/grimper-respect-sites-faune\">de la grimpe respectueuse des sites et de la faune</a>."
+      "html": "La règle simple : si tu doutes, tu ne grimpes pas. Compte deux à trois jours de séchage après une pluie modérée sur calcaire compact bien ventilé. Cinq à sept jours sur paroi nord ou sur calcaire poreux. Plusieurs semaines après un épisode pluvieux intense, surtout en automne. Les topos locaux et les forums de grimpeurs publient souvent l'état des sites en saison humide, c'est une source précieuse à consulter avant chaque sortie."
     },
     {
       "type": "p",
@@ -138,7 +138,7 @@
     },
     {
       "type": "p",
-      "html": "Le rocher fragile est un cas concret de cet enjeu plus large de soin porté au support de pratique."
+      "html": "Le rocher fragile est un cas concret d'un enjeu plus large : le soin porté au support de la pratique. Ce que tu grimpes aujourd'hui, c'est le rocher tel que des grimpeurs avant toi l'ont préservé. Ce qu'ils grimperont demain dépend en partie de la manière dont tu y poses tes mains et tes pieds."
     }
   ],
   "faq": [
@@ -166,24 +166,24 @@
   "cover_alt": "Détail d'une prise calcaire friable sur falaise du Verdon, fissures fines visibles en surface, traces de magnésie ancienne, mousse au pied, lumière rasante d'aube",
   "internal_links": [
     {
-      "slug": "reglementation-magnesie-blanche",
-      "anchor": "débat sur la magnésie",
-      "context": "complément environnemental"
+      "slug": "grimper-respect-sites-faune",
+      "anchor": "la grimpe respectueuse des sites et de la faune sur le long terme",
+      "context": "pilier environnement, premier lien interne"
     },
     {
       "slug": "brosse-grimpe-entretien-prises",
-      "anchor": "entretien des prises",
-      "context": "geste pratique"
-    },
-    {
-      "slug": "grimper-respect-sites-faune",
-      "anchor": "vue d'ensemble du respect des sites",
-      "context": "pilier environnement"
+      "anchor": "d'entretien des prises à la brosse",
+      "context": "lichen et brossage, cross-cocon matériel"
     },
     {
       "slug": "adherence-pieds-grimpe",
-      "anchor": "adhérence des pieds en grimpe",
-      "context": "complément technique"
+      "anchor": "une adhérence des pieds en grimpe",
+      "context": "choix des chaussons, cross-cocon techniques"
+    },
+    {
+      "slug": "reglementation-magnesie-blanche",
+      "anchor": "la réglementation sur la magnésie blanche",
+      "context": "complément environnemental, même cocon"
     }
   ],
   "scheduled_at": "2027-04-24T09:00:00+02:00"
