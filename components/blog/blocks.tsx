@@ -15,6 +15,7 @@ import type {
 } from "@/lib/blog";
 import { QuizBlocOuVoie } from "./tools/QuizBlocOuVoie";
 import { CalculateurFacteurChute } from "./tools/CalculateurFacteurChute";
+import { ConfigurateurBudgetDebutant } from "./tools/ConfigurateurBudgetDebutant";
 
 /* ───────────────── Bloc-router ───────────────── */
 
@@ -47,6 +48,8 @@ function ToolBlock({ block }: { block: BlockTool }) {
       return <QuizBlocOuVoie />;
     case "calculateur-facteur-chute":
       return <CalculateurFacteurChute />;
+    case "configurateur-budget-debutant":
+      return <ConfigurateurBudgetDebutant />;
   }
 }
 

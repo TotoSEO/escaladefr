@@ -74,7 +74,11 @@ VALID_COCONS = {
 }
 VALID_TYPES = {"hub", "guide", "liste", "profil", "astuce"}
 VALID_BLOCK_TYPES = {"h2", "h3", "p", "table", "image_text", "list", "quote", "tip", "tool"}
-VALID_TOOL_IDS = {"quiz-bloc-ou-voie", "calculateur-facteur-chute"}
+VALID_TOOL_IDS = {
+    "quiz-bloc-ou-voie",
+    "calculateur-facteur-chute",
+    "configurateur-budget-debutant",
+}
 
 
 def slugify_no_diacritics(s: str) -> str:

@@ -75,7 +75,10 @@ export type BlockTip = {
 export type BlockTool = {
   type: "tool";
   /** Identifiant de l'outil React à charger (cf. components/blog/tools/) */
-  tool: "quiz-bloc-ou-voie" | "calculateur-facteur-chute";
+  tool:
+    | "quiz-bloc-ou-voie"
+    | "calculateur-facteur-chute"
+    | "configurateur-budget-debutant";
   /** Titre optionnel affiché au-dessus de l'outil */
   title?: string;
 };
