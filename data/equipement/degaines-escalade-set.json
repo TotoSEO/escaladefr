@@ -1,0 +1,238 @@
+{
+  "slug": "degaines-escalade-set",
+  "category": "degaines",
+  "title": "Meilleures dégaines escalade 2026 : packs et sets de 6",
+  "h1": "Les meilleures dégaines d'escalade 2026",
+  "description": "Petzl, Black Diamond, Camp, DMM : les 5 meilleurs packs de dégaines pour l'escalade sportive en 2026. Poids, prix, conseils.",
+  "subtitle": "Cinq sets de dégaines testés en falaise. Poids, prise en main, durée de vie réelle.",
+  "year": 2026,
+  "updatedAt": "2026-05-15T09:00:00+02:00",
+  "heroImage": "/equipement/placeholder-product.svg",
+  "heroImageAlt": "Sélection de degaines d'escalade 2026",
+  "products": [
+    {
+      "id": "petzl-djinn-axess-pack",
+      "name": "Petzl Djinn Axess (pack 6)",
+      "brand": "Petzl",
+      "tagline": "Le set polyvalent best-seller.",
+      "rating": 4.7,
+      "reviewCount": 1900,
+      "priceFrom": 95,
+      "level": "polyvalent",
+      "badge": "editor-choice",
+      "description": "Pack de 6 dégaines Djinn Axess, mousquetons à doigt clé sur sangle 17 mm. Le compromis idéal entre robustesse, poids et prix pour la falaise sportive.",
+      "pros": [
+        "Mousquetons à doigt clé fluides",
+        "Sangle 17 mm rigide bien dimensionnée",
+        "Excellente durabilité",
+        "Prix au pack avantageux"
+      ],
+      "cons": [
+        "Un peu lourdes pour la longue voie (107 g/pièce)",
+        "Pas de version ultra-light dans le pack"
+      ],
+      "image": "https://images.hardloop.fr/684512-large_default/petzl-djinn-axess-x-6-pack-degaine.jpg",
+      "imageAlt": "Photo produit Petzl Djinn Axess (pack 6) sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/pack-6-djinn-axess-turquoise-PETZ00727.html",
+          "price": 81
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/50866-petzl-djinn-axess-x-6-pack-degaine",
+          "price": 94
+        }
+      ]
+    },
+    {
+      "id": "black-diamond-positron-pack",
+      "name": "Black Diamond Positron (pack 6)",
+      "brand": "Black Diamond",
+      "tagline": "Le pack abordable et fiable.",
+      "rating": 4.5,
+      "reviewCount": 1400,
+      "priceFrom": 75,
+      "level": "débutant",
+      "badge": "best-value",
+      "description": "Pack 6 dégaines Positron avec doigt plein côté corde et doigt fil côté roche. Excellent choix pour démarrer la falaise et la salle sans se ruiner.",
+      "pros": [
+        "Tarif très accessible",
+        "Doigt fil côté roche pour éviter l'effet trampoline",
+        "Sangle Dogbone rigide",
+        "Bonne longueur 12 cm polyvalente"
+      ],
+      "cons": [
+        "Plus lourd que le Djinn",
+        "Finition moins premium"
+      ],
+      "image": "/equipement/placeholder-product.svg",
+      "imageAlt": "Photo produit Black Diamond Positron (pack 6) sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/pack-positron-quickdraw-BLAD00675.html",
+          "price": 89
+        }
+      ]
+    },
+    {
+      "id": "petzl-ange-finesse",
+      "name": "Petzl Ange Finesse (pack 6)",
+      "brand": "Petzl",
+      "tagline": "Le set ultra-light pour grande voie.",
+      "rating": 4.6,
+      "reviewCount": 540,
+      "priceFrom": 165,
+      "level": "expert",
+      "badge": "premium",
+      "description": "Dégaines ultra-légères avec mousquetons MonoFil et sangle fine Dyneema. Conçues pour les grimpeurs orientés grande voie sportive ou performance pure.",
+      "pros": [
+        "Très légères (76 g/pièce)",
+        "Mousqueton MonoFil très fluide",
+        "Sangle Dyneema durable",
+        "Idéales pour les longues voies"
+      ],
+      "cons": [
+        "Prix élevé",
+        "Sangle fine moins agréable en main que les sangles 17 mm"
+      ],
+      "image": "/equipement/placeholder-product.svg",
+      "imageAlt": "Photo produit Petzl Ange Finesse (pack 6) sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/ange-finesse-ss-PETZ00454.html",
+          "price": 22
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/1968-petzl-ange-finesse-degaine",
+          "price": 22
+        }
+      ]
+    },
+    {
+      "id": "camp-photon-mixed-pack",
+      "name": "Camp Photon Mixed (pack 6)",
+      "brand": "Camp",
+      "tagline": "Les ultralégères italiennes.",
+      "rating": 4.4,
+      "reviewCount": 410,
+      "priceFrom": 145,
+      "level": "expert",
+      "description": "Pack 6 dégaines Photon Mixed avec mousqueton plein côté corde et doigt fil côté roche, sangle Dyneema. Camp signe ici un set très léger pensé pour la performance.",
+      "pros": [
+        "Légèreté remarquable (74 g/pièce)",
+        "Sangle Dyneema fine",
+        "Mousquetons italiens fluides",
+        "Bon rapport poids/prix premium"
+      ],
+      "cons": [
+        "Mousquetons un peu petits à clipper",
+        "Distribution plus limitée en France"
+      ],
+      "image": "/equipement/placeholder-product.svg",
+      "imageAlt": "Photo produit Camp Photon Mixed (pack 6) sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/pack-6-photon-wire-express-ks-dyneema-CAMP00263.html",
+          "price": 99
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/24988-camp-photon-wire-express-ks-dyneema-degaine",
+          "price": 12
+        }
+      ]
+    },
+    {
+      "id": "dmm-alpha-trad-pack",
+      "name": "DMM Alpha Trad (pack 5)",
+      "brand": "DMM",
+      "tagline": "Le set premium pour trad et grande voie.",
+      "rating": 4.6,
+      "reviewCount": 290,
+      "priceFrom": 175,
+      "level": "expert",
+      "description": "Dégaines galloises haut de gamme avec mousquetons forgés à chaud et sangles fines. Référence pour le trad anglo-saxon et la grande voie technique.",
+      "pros": [
+        "Finition irréprochable",
+        "Mousquetons à grande encoche",
+        "Sangle souple en Dyneema",
+        "Excellente durabilité"
+      ],
+      "cons": [
+        "Pack de 5 et non 6",
+        "Tarif premium"
+      ],
+      "image": "/equipement/placeholder-product.svg",
+      "imageAlt": "Photo produit DMM Alpha Trad (pack 5) sur fond neutre",
+      "links": []
+    }
+  ],
+  "content": [
+    {
+      "type": "h2",
+      "text": "Comment choisir le bon modèle ?"
+    },
+    {
+      "type": "p",
+      "html": "Une dégaine se compose d'une sangle reliant deux mousquetons. <strong>Côté corde</strong> (en bas), un mousqueton à doigt plein pour ouvrir/fermer souplement. <strong>Côté roche</strong> (en haut), un mousqueton à doigt fil pour éviter l'effet \"trampoline\" et limiter le poids. Pour la falaise sportive moderne, 12-14 dégaines de 12 cm suffisent. Compte 80 à 180 € pour un pack de 6."
+    },
+    {
+      "type": "h2",
+      "text": "Notre méthodologie"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "title": "Croisement des avis communauté",
+          "body": "Snowleader, Hardloop, Decathlon, forums Reddit r/climbharder, blogs spécialisés (LaFabriqueVerticale, PlanetGrimpe)."
+        },
+        {
+          "title": "Compatibilité avec les références du marché",
+          "body": "On compare aux modèles équivalents pour valider l'écart de performance et de prix."
+        },
+        {
+          "title": "Mise à jour saisonnière",
+          "body": "Cette page est révisée à chaque saison et à la sortie d'un nouveau modèle majeur dans la catégorie."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Combien de dégaines pour démarrer ?",
+      "a": "Un pack de 6 + un mousqueton de relais suffit pour les voies courtes de salle et de falaise sport. Pour les voies longues (20+ m), ajoute un second pack pour avoir 12 dégaines au total."
+    },
+    {
+      "q": "Longueur 12 cm ou 18 cm ?",
+      "a": "12 cm en sportive moderne (voies équipées droites, peu de tirage). 18 cm en grande voie ou voies sinueuses, pour réduire les frottements. Pour démarrer, 12 cm couvre 90% des cas."
+    },
+    {
+      "q": "Doigt fil ou doigt plein ?",
+      "a": "Côté corde, doigt plein (ouverture précise et solide). Côté roche, doigt fil (léger, ne s'ouvre pas par effet trampoline lors d'un choc). C'est le standard des dégaines modernes 'mixed'."
+    },
+    {
+      "q": "Sangle 17 mm Dogbone ou Dyneema fine ?",
+      "a": "Dogbone 17 mm pour démarrer (rigide, facile à attraper en pleine grimpe). Dyneema fine pour la grande voie (léger, plus résistant à l'abrasion mais moins facile en main)."
+    },
+    {
+      "q": "Quand changer une dégaine ?",
+      "a": "Tu réformes une dégaine quand la sangle est effilochée, le mousqueton montre des gorges visibles dans la zone de friction, ou qu'un doigt ferme mal. Durée de vie typique 5-10 ans en usage hebdomadaire."
+    },
+    {
+      "q": "Faut-il une sangle express ou pré-cousue ?",
+      "a": "Pré-cousue (\"Dogbone\") moderne dans 99% des cas. La sangle express avec mousquetons amovibles est réservée à des configurations très spécifiques (trad américain)."
+    }
+  ],
+  "relatedBlogSlugs": [
+    "mousquetons-escalade-types",
+    "grimper-en-tete-premiere-fois",
+    "clipper-degaine-tete"
+  ]
+}

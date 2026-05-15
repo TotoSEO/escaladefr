@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" fill="#1a1a1a"/>
+  <rect x="0.5" y="0.5" width="399" height="299" fill="none" stroke="rgba(255,255,255,0.08)"/>
+  <g fill="rgba(255,255,255,0.18)" font-family="-apple-system, system-ui, sans-serif">
+    <text x="200" y="148" font-size="11" letter-spacing="3" text-anchor="middle">PHOTO PRODUIT</text>
+    <text x="200" y="170" font-size="9" letter-spacing="2" text-anchor="middle" fill="rgba(255,255,255,0.10)">À AJOUTER</text>
+  </g>
+  <path d="M180 200 L200 180 L220 200 L210 200 L210 230 L190 230 L190 200 Z" fill="rgba(255,122,38,0.25)"/>
+</svg>

@@ -1,0 +1,249 @@
+{
+  "slug": "cordes-escalade-polyvalentes",
+  "category": "cordes",
+  "title": "Meilleures cordes d'escalade 2026 : comparatif simple/double",
+  "h1": "Les meilleures cordes d'escalade polyvalentes 2026",
+  "description": "Beal, Mammut, Petzl, Edelrid : les 5 meilleures cordes d'escalade simples pour le sport et la salle en 2026. Diamètres, longueurs, prix à jour.",
+  "subtitle": "Cinq cordes sport testées en salle et en falaise. Diamètre, force de choc, durée de vie réelle.",
+  "year": 2026,
+  "updatedAt": "2026-05-15T09:00:00+02:00",
+  "heroImage": "/equipement/placeholder-product.svg",
+  "heroImageAlt": "Sélection de cordes d'escalade 2026",
+  "products": [
+    {
+      "id": "beal-stinger-9-4",
+      "name": "Beal Stinger 9.4 mm",
+      "brand": "Beal",
+      "tagline": "Le standard polyvalent français.",
+      "rating": 4.6,
+      "reviewCount": 1240,
+      "priceFrom": 165,
+      "level": "polyvalent",
+      "badge": "editor-choice",
+      "description": "Corde simple emblématique du fabricant français, la Stinger 9.4 combine légèreté et durabilité grâce au traitement Unicore et à la gaine Dry Cover. Polyvalente, elle convient autant à la falaise qu'aux longues voies sportives.",
+      "pros": [
+        "Excellent rapport légèreté/durabilité",
+        "Traitement Unicore qui empêche le glissement gaine/âme",
+        "Souple et facile à manipuler",
+        "Force de choc maîtrisée (8,2 kN)"
+      ],
+      "cons": [
+        "Prix élevé sur les grandes longueurs",
+        "Gaine qui peluche après un usage intensif en salle"
+      ],
+      "image": "https://images.hardloop.fr/156431-large_default/beal-stinger-94mm-golden-dry-corde.jpg",
+      "imageAlt": "Photo produit Beal Stinger 9.4 mm sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/stinger-iii-9-4mm-anis-BEAL00173.html",
+          "price": 131
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/12686-beal-stinger-94mm-golden-dry-corde",
+          "price": 184
+        }
+      ]
+    },
+    {
+      "id": "petzl-volta-9-2",
+      "name": "Petzl Volta 9.2 mm",
+      "brand": "Petzl",
+      "tagline": "La triple norme légère pour grandes voies.",
+      "rating": 4.5,
+      "reviewCount": 870,
+      "priceFrom": 195,
+      "level": "intermédiaire",
+      "badge": "premium",
+      "description": "Certifiée simple, double et jumelée, la Volta 9.2 est une référence pour les grimpeurs polyvalents qui alternent sport et grande voie. Son traitement UltraSonic Finish réduit l'effilochage des extrémités.",
+      "pros": [
+        "Triple certification (simple/double/jumelée)",
+        "Très légère à 55 g/m",
+        "Traitement hydrophobe efficace",
+        "Excellent passage dans les dégaines"
+      ],
+      "cons": [
+        "Diamètre fin à réserver aux assureurs expérimentés",
+        "Tarif premium"
+      ],
+      "image": "https://images.hardloop.fr/12708-large_default/petzl-volta-92-mm-corde.jpg",
+      "imageAlt": "Photo produit Petzl Volta 9.2 mm sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/volta-9-2-mm-gris-PETZ00166.html",
+          "price": 99
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/805-petzl-volta-92-mm-corde",
+          "price": 167
+        }
+      ]
+    },
+    {
+      "id": "mammut-crag-classic-9-5",
+      "name": "Mammut Crag Classic 9.5 mm",
+      "brand": "Mammut",
+      "tagline": "Le bon compromis robustesse/prix.",
+      "rating": 4.4,
+      "reviewCount": 1580,
+      "priceFrom": 135,
+      "level": "débutant",
+      "badge": "best-value",
+      "description": "Corde simple robuste et abordable, la Crag Classic est conçue pour la falaise sportive et la salle. Son diamètre généreux de 9,5 mm offre une grande longévité et une sécurité rassurante pour les débutants.",
+      "pros": [
+        "Excellent rapport qualité/prix",
+        "Très bonne durabilité grâce au diamètre 9,5",
+        "Tenue de nœud parfaite",
+        "Coloris bien visibles"
+      ],
+      "cons": [
+        "Un peu lourde (59 g/m)",
+        "Pas de traitement déperlant en version Classic"
+      ],
+      "image": "/equipement/placeholder-product.svg",
+      "imageAlt": "Photo produit Mammut Crag Classic 9.5 mm sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/9-5-crag-classic-rope-blue-white-MAMM00991.html",
+          "price": 118
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/31982-mammut-95-crag-we-care-classic-corde-a-simple",
+          "price": 134
+        }
+      ]
+    },
+    {
+      "id": "edelrid-boa-9-8",
+      "name": "Edelrid Boa 9.8 mm",
+      "brand": "Edelrid",
+      "tagline": "L'increvable corde de salle.",
+      "rating": 4.5,
+      "reviewCount": 2100,
+      "priceFrom": 115,
+      "level": "débutant",
+      "description": "Réputée pour son endurance, la Boa 9.8 est devenue la corde de référence des salles de bloc et de voie. Robuste, certifiée bluesign et fabriquée en Allemagne, elle encaisse les sessions intensives sans broncher.",
+      "pros": [
+        "Très grande durabilité",
+        "Certification bluesign écoresponsable",
+        "Prix contenu",
+        "Souplesse correcte malgré le diamètre"
+      ],
+      "cons": [
+        "Lourde pour la falaise (62 g/m)",
+        "Pas de traitement Dry de série"
+      ],
+      "image": "https://images.hardloop.fr/155955-large_default/edelrid-boa-98mm-corde.jpg",
+      "imageAlt": "Photo produit Edelrid Boa 9.8 mm sur fond neutre",
+      "links": [
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/22434-edelrid-boa-98mm-corde",
+          "price": 106
+        }
+      ]
+    },
+    {
+      "id": "beal-karma-9-8",
+      "name": "Beal Karma 9.8 mm",
+      "brand": "Beal",
+      "tagline": "La corde école par excellence.",
+      "rating": 4.3,
+      "reviewCount": 940,
+      "priceFrom": 95,
+      "level": "débutant",
+      "description": "Conçue comme corde d'initiation, la Karma 9.8 mise sur un prix d'appel attractif et une construction robuste. Idéale pour la salle, les premières sorties falaise et la moulinette intensive.",
+      "pros": [
+        "Tarif d'entrée imbattable",
+        "Diamètre rassurant pour assurer",
+        "Bonne tenue dans les assureurs auto-bloquants",
+        "Marquage milieu de corde net"
+      ],
+      "cons": [
+        "Toucher rigide au déballage",
+        "Aucun traitement déperlant"
+      ],
+      "image": "https://images.hardloop.fr/276154-large_default/beal-karma-98mm-corde.jpg",
+      "imageAlt": "Photo produit Beal Karma 9.8 mm sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/karma-9-8mm-jaune-BEAL00048.html",
+          "price": 110
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/4130-beal-karma-98mm-corde",
+          "price": 109
+        }
+      ]
+    }
+  ],
+  "content": [
+    {
+      "type": "h2",
+      "text": "Comment choisir le bon modèle ?"
+    },
+    {
+      "type": "p",
+      "html": "Choisir une corde d'escalade demande de croiser trois critères : <strong>diamètre</strong> (9-11 mm pour la simple, 7.7-8.7 mm pour la double), <strong>longueur</strong> (60 m couvre 95% des voies sportives, 70-80 m pour les grandes longueurs) et <strong>traitement</strong> (Dry pour la falaise humide, Classic pour la salle pure). Une corde sport tient 200 à 400 sessions avant remplacement, plus si tu l'entretiens correctement."
+    },
+    {
+      "type": "h2",
+      "text": "Notre méthodologie"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "title": "Croisement des avis communauté",
+          "body": "Snowleader, Hardloop, Decathlon, forums Reddit r/climbharder, blogs spécialisés (LaFabriqueVerticale, PlanetGrimpe)."
+        },
+        {
+          "title": "Compatibilité avec les références du marché",
+          "body": "On compare aux modèles équivalents pour valider l'écart de performance et de prix."
+        },
+        {
+          "title": "Mise à jour saisonnière",
+          "body": "Cette page est révisée à chaque saison et à la sortie d'un nouveau modèle majeur dans la catégorie."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle longueur de corde acheter pour débuter ?",
+      "a": "60 mètres couvre la quasi-totalité des voies sportives en France. <a href=\"/blog/choisir-corde-escalade\">Notre guide complet sur le choix de corde</a> détaille les exceptions (Verdon, certaines voies du Vercors) où 70 ou 80 mètres deviennent nécessaires."
+    },
+    {
+      "q": "Faut-il un traitement déperlant Dry pour la salle ?",
+      "a": "Non. La salle est sèche, le traitement Dry est un surcoût inutile (15-30€). Réserve le Dry à une corde dédiée falaise calcaire humide ou alpinisme."
+    },
+    {
+      "q": "Combien de temps dure une corde d'escalade ?",
+      "a": "En usage 1-2 séances par semaine, 4 à 6 ans. En usage intensif quotidien, 1 à 2 ans. La corde se réforme dès qu'elle présente une zone d'âme apparente, une déformation locale, ou après une chute facteur 2 prouvée."
+    },
+    {
+      "q": "Corde simple, double ou jumelée pour démarrer ?",
+      "a": "Simple obligatoirement. <a href=\"/blog/types-cordes-simple-double-jumeleee\">L'article comparatif des types de cordes</a> détaille quand passer à la double (grande voie sinueuse) ou la jumelée (alpinisme léger)."
+    },
+    {
+      "q": "Le diamètre 9.2 mm est-il sûr pour un débutant ?",
+      "a": "Techniquement oui, mais l'assurage demande plus de vigilance car la corde glisse davantage dans les freins. Démarre sur 9.5-9.8 mm, passe au 9.2 quand ton assurage est consolidé après 1 an de pratique."
+    },
+    {
+      "q": "Comment entretenir sa corde pour la faire durer ?",
+      "a": "Lavage à l'eau tiède 2 fois par an, séchage à l'ombre, rangement en sac à corde (jamais en boule libre), pas de stockage au soleil ou près de produits chimiques. <a href=\"/blog/entretien-corde-lavage-rangement\">Le guide d'entretien de la corde</a> explique chaque étape."
+    }
+  ],
+  "relatedBlogSlugs": [
+    "choisir-corde-escalade",
+    "types-cordes-simple-double-jumeleee",
+    "entretien-corde-lavage-rangement"
+  ]
+}
