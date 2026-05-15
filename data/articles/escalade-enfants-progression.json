@@ -201,12 +201,12 @@
     {
       "slug": "apprendre-escalade-debutant",
       "anchor": "les fondamentaux à transmettre pour démarrer l'escalade",
-      "context": "Pilier general"
+      "context": "Pilier général"
     },
     {
       "slug": "premiere-fois-salle-escalade",
       "anchor": "une première séance en salle d'escalade",
-      "context": "Decouverte salle"
+      "context": "Découverte salle"
     },
     {
       "slug": "autobelay-en-salle",
@@ -221,7 +221,7 @@
     {
       "slug": "escalade-senior-debuter",
       "anchor": "pour débuter l'escalade après 50 ans",
-      "context": "Public specifique miroir"
+      "context": "Public spécifique miroir"
     }
   ],
   "scheduled_at": "2026-07-30T09:00:00+02:00"

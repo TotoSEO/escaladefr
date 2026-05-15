@@ -9,10 +9,10 @@
   "chapo": "Le rappel tue plus de grimpeurs en France chaque année que la chute en tête. Étonnant ? Pas tant que ça quand on regarde les statistiques. Le rappel arrive en fin de sortie, on est fatigué, on baisse en vigilance, on saute des étapes. Cette page détaille la technique complète du rappel en double, les autobloquants, les bouts de corde, les contrôles, et les erreurs qui tuent. À lire avant ta première grande voie.",
   "takeaways": [
     "Installe toujours un autobloquant Machard en backup avant de te lancer dans le rappel.",
-    "Verifie la longueur de la corde par rapport au prochain relais avant de partir.",
-    "Fais des noeuds en bout de corde sur les deux brins pour eviter de passer dessous.",
+    "Vérifie la longueur de la corde par rapport au prochain relais avant de partir.",
+    "Fais des nœuds en bout de corde sur les deux brins pour éviter de passer dessous.",
     "Garde le brin du rappel en main pendant tout le trajet, pas suspendu dans le vide.",
-    "Communique avec ton compagnon : descente, libre, vache, securite, en mots courts."
+    "Communique avec ton compagnon : descente, libre, vache, sécurité, en mots courts."
   ],
   "body_blocks": [
     {
@@ -21,11 +21,11 @@
     },
     {
       "type": "p",
-      "html": "Le rappel concentre toutes les conditions d'accident. Cette dimension complète <a href=\"/blog/apprendre-escalade-debutant\">les premiers pas du grimpeur</a>. Tu es fatigue <a href=\"/blog/recuperer-relais-grande-voie\">apres une grande voie</a> de 6 heures, ta vigilance baisse, tu enchaines plusieurs manoeuvres sans pause. Tu desinstalles ton autoassurance pour te recharger, tu inverses la corde, tu te suspends dans le vide. La moindre erreur de procedure ou de materiel se paie tres cher. Statistiquement, environ 20 accidents graves par an en France sur rappel, dont une dizaine de deces."
+      "html": "Le rappel concentre toutes les conditions d'accident. Cette dimension complète <a href=\"/blog/apprendre-escalade-debutant\">les premiers pas du grimpeur</a>. Tu es fatigue <a href=\"/blog/recuperer-relais-grande-voie\">après une grande voie</a> de 6 heures, ta vigilance baisse, tu enchaines plusieurs manoeuvres sans pause. Tu desinstalles ton autoassurance pour te recharger, tu inverses la corde, tu te suspends dans le vide. La moindre erreur de procedure ou de matériel se paie très cher. Statistiquement, environ 20 accidents graves par an en France sur rappel, dont une dizaine de deces."
     },
     {
       "type": "p",
-      "html": "L'accident type, c'est le grimpeur qui depasse la fin de la corde et qui tombe en chute libre. Ou qui oublie le noeud en bout de corde. Ou qui se decharge sans verifier sa longe. Cinq secondes d'inattention apres 6 heures de paroi, c'est la cause numero 1. La parade existe : une procedure stricte, repeatable, jamais raccourcie. Cette page detaille cette procedure dans le bon ordre."
+      "html": "L'accident type, c'est le grimpeur qui depasse la fin de la corde et qui tombe en chute libre. Ou qui oublie le nœud en bout de corde. Ou qui se décharge sans vérifier sa longe. Cinq secondes d'inattention après 6 heures de paroi, c'est la cause numero 1. La parade existe : une procedure stricte, repeatable, jamais raccourcie. Cette page détaillée cette procedure dans le bon ordre."
     },
     {
       "type": "h2",
@@ -37,16 +37,16 @@
     },
     {
       "type": "p",
-      "html": "L'avantage du rappel en double, c'est qu'il te permet de descendre la longueur totale de la corde divisee par deux. Avec une corde de 60 metres, tu descends 30 metres. Avec une corde a double de 50 metres, 25 metres. C'est la base de tous les rappels en grande voie. Sur les voies tres longues (200-400 metres), il faut enchainer plusieurs rappels de 25-30 metres, ce qui multiplie les risques. Voila pourquoi chaque rappel doit etre execute parfaitement. La recuperation au relais entre chaque rappel devient aussi importante que la descente elle-meme."
+      "html": "L'avantage du rappel en double, c'est qu'il te permet de descendre la longueur totale de la corde divisee par deux. Avec une corde de 60 mètres, tu descends 30 mètres. Avec une corde a double de 50 mètres, 25 mètres. C'est la base de tous les rappels en grande voie. Sur les voies très longues (200-400 mètres), il faut enchainer plusieurs rappels de 25-30 mètres, ce qui multiplie les risques. Voila pourquoi chaque rappel doit être execute parfaitement. La recuperation au relais entre chaque rappel devient aussi importante que la descente elle-même."
     },
     {
       "type": "h2",
-      "text": "Le materiel necessaire"
+      "text": "Le matériel nécessaire"
     },
     {
       "type": "list",
       "variant": "checks",
-      "title": "Le materiel pour un rappel en double",
+      "title": "Le matériel pour un rappel en double",
       "items": [
         {
           "title": "Descendeur",
@@ -58,7 +58,7 @@
         },
         {
           "title": "Cordelette pour autobloquant",
-          "body": "Cordelette de 6 mm en kevlar ou polyester, longueur 60 cm, faite en cercle ferme par un noeud de peche."
+          "body": "Cordelette de 6 mm en kevlar ou polyester, longueur 60 cm, faite en cercle ferme par un nœud de peche."
         },
         {
           "title": "Mousqueton pour l'autobloquant",
@@ -76,16 +76,16 @@
     },
     {
       "type": "p",
-      "html": "Tu commences vache solidement au relais avant de toucher quoi que ce soit. Etape 1 : passe la corde dans le point d'ancrage. Si c'est un anneau dedoublé (deux maillons relies par une chaine), passe les deux brins par l'un des maillons, pas par les deux. Etape 2 : egalise les deux brins. La marque centrale au milieu de la corde te sert. Si la corde n'a pas de marque, tu mets une attache provisoire ou tu mesures a vue. Etape 3 : noeuds de bout de corde sur chaque brin."
+      "html": "Tu commences vache solidement au relais avant de toucher quoi que ce soit. Etape 1 : passe la corde dans le point d'ancrage. Si c'est un anneau dedoublé (deux maillons relies par une chaine), passe les deux brins par l'un des maillons, pas par les deux. Etape 2 : egalise les deux brins. La marque centrale au milieu de la corde te sert. Si la corde n'a pas de marque, tu mets une attache provisoire ou tu mesures a vue. Etape 3 : nœuds de bout de corde sur chaque brin."
     },
     {
       "type": "p",
-      "html": "Etape 4 : monte le descendeur sur le mousqueton HMS, les deux brins dedans, et relie le HMS a ton baudrier. Verifie que le descendeur est dans le bon sens (le brin frein descend, le brin libre monte). Etape 5 : installe l'autobloquant sur le brin frein, fixe sur ta cuisse via un mousqueton a vis. Le Machard sympathique reste la reference, fais 3 ou 4 tours selon la corde et le diametre."
+      "html": "Etape 4 : monte le descendeur sur le mousqueton HMS, les deux brins dedans, et relie le HMS a ton baudrier. Vérifie que le descendeur est dans le bon sens (le brin frein descend, le brin libre monte). Etape 5 : installe l'autobloquant sur le brin frein, fixe sur ta cuisse via un mousqueton a vis. Le Machard sympathique reste la reference, fais 3 ou 4 tours selon la corde et le diametre."
     },
     {
       "type": "tip",
       "title": "L'astuce du Machard 4 tours",
-      "body": "Sur des cordes fines (8 mm a 9 mm), trois tours de Machard ne bloquent pas toujours. Mets en quatre, voire cinq sur cordes 7.5 mm. Pour les debutants, mieux vaut un blocage trop fort qu'un blocage qui glisse. Tu peux toujours ralentir la descente en gerant l'autobloquant a la main.",
+      "body": "Sur des cordes fines (8 mm a 9 mm), trois tours de Machard ne bloquent pas toujours. Mets en quatre, voire cinq sur cordes 7.5 mm. Pour les débutants, mieux vaut un blocage trop fort qu'un blocage qui glisse. Tu peux toujours ralentir la descente en gerant l'autobloquant a la main.",
       "tone": "astuce"
     },
     {
@@ -94,11 +94,11 @@
     },
     {
       "type": "p",
-      "html": "Avant de te decharger de la vache, tu fais trois controles. Premier controle : tire fort sur le brin frein, le descendeur doit te tenir en suspension dynamique (poids du corps applique). Deuxieme controle : tu laches le brin frein, l'autobloquant doit bloquer immediatement. Si le Machard glisse, tu rajoute des tours. Troisieme controle : tu verifies l'orientation du HMS et que la corde sort bien du bon cote."
+      "html": "Avant de te décharger de la vache, tu fais trois contrôles. Premier contrôle : tire fort sur le brin frein, le descendeur doit te tenir en suspension dynamique (poids du corps applique). Deuxieme contrôle : tu laches le brin frein, l'autobloquant doit bloquer immediatement. Si le Machard glisse, tu rajoute des tours. Troisieme contrôle : tu vérifies l'orientation du HMS et que la corde sort bien du bon cote."
     },
     {
       "type": "p",
-      "html": "Apres ces trois controles, et seulement apres, tu retires ta longe vache. Tu prends les deux brins dans tes deux mains. La descente commence. Si pendant un seul de ces tests quelque chose te semble bizarre, tu remontes la vache et tu refais le montage. Aucune precipitation. Une minute supplementaire de verification a sauve plusieurs vies de grimpeurs experimentes qui avaient mal vu un detail."
+      "html": "Après ces trois contrôles, et seulement après, tu retires ta longe vache. Tu prends les deux brins dans tes deux mains. La descente commence. Si pendant un seul de ces tests quelque chose te semble bizarre, tu remontes la vache et tu refais le montage. Aucune precipitation. Une minute supplementaire de vérification a sauve plusieurs vies de grimpeurs expérimentés qui avaient mal vu un détail."
     },
     {
       "type": "h2",
@@ -106,11 +106,11 @@
     },
     {
       "type": "p",
-      "html": "Tu descends lentement, jambes ecartees au mur, cuisses paralleles au sol, dos legerement penche en arriere. Le brin frein reste en main droite (si droitier), tu desserre l'autobloquant avec la main gauche pour faire glisser la corde. Tu vises 30 cm a 1 metre par seconde de descente, pas plus. Une descente rapide est inutile et dangereuse. Lors d'une grande voie aux gorges du Verdon en 2022, j'ai pris un mauvais rappel sur des sangles trop courtes au-dessus d'un toit, j'ai mis trois minutes à dégager mon descendeur coincé contre le brin de friction. Depuis ce jour-là, je teste toujours la trajectoire du rappel sur le premier mètre avant de m'engager."
+      "html": "Tu descends lentement, jambes ecartees au mur, cuisses paralleles au sol, dos legerement penche en arriere. Le brin frein reste en main droite (si droitier), tu desserrer l'autobloquant avec la main gauche pour faire glisser la corde. Tu vises 30 cm a 1 mètre par seconde de descente, pas plus. Une descente rapide est inutile et dangereuse. Lors d'une grande voie aux gorges du Verdon en 2022, j'ai pris un mauvais rappel sur des sangles trop courtes au-dessus d'un toit, j'ai mis trois minutes à dégager mon descendeur coincé contre le brin de friction. Depuis ce jour-là, je teste toujours la trajectoire du rappel sur le premier mètre avant de m'engager."
     },
     {
       "type": "p",
-      "html": "Pendant la descente, tu surveilles le bas. <strong>Tu Si tu ne le vois pas, c'est qu'il est trop loin ou que tu t'es trompee de descente. Aux quatre derniers metres avant le relais, tu ralentis. Tu arrives au relais, tu te vache d'urgence, et tu pose le pied dans une station debout si possible. Tu peux relacher le descendeur seulement quand tu es vache solidement."
+      "html": "Pendant la descente, tu surveilles le bas. <strong>Tu Si tu ne le vois pas, c'est qu'il est trop loin ou que tu t'es trompee de descente. Aux quatre derniers mètres avant le relais, tu ralentis. Tu arrives au relais, tu te vache d'urgence, et tu pose le pied dans une station debout si possible. Tu peux relacher le descendeur seulement quand tu es vache solidement."
     },
     {
       "type": "h2",
@@ -118,34 +118,34 @@
     },
     {
       "type": "p",
-      "html": "Les noeuds en bout de corde sont le filet de securite ultime. Si tu mesures mal la distance et que tu depasses le relais suivant, le noeud bloque le descendeur. Tu pendoulé jusqu'au mur, tu remontes au relais, tu te sauves. Sans noeud en bout, tu tombes en chute libre. C'est de la prevention pure, qui coute 30 secondes a faire au depart et qui peut sauver une vie."
+      "html": "Les nœuds en bout de corde sont le filet de sécurité ultime. Si tu mesures mal la distance et que tu depasses le relais suivant, le nœud bloque le descendeur. Tu pendoulé jusqu'au mur, tu remontes au relais, tu te sauves. Sans nœud en bout, tu tombes en chute libre. C'est de la prevention pure, qui coûte 30 secondes a faire au depart et qui peut sauver une vie."
     },
     {
       "type": "table",
-      "caption": "Quel noeud en bout de corde selon le contexte",
+      "caption": "Quel nœud en bout de corde selon le contexte",
       "headers": [
-        "Noeud",
+        "Nœud",
         "Avantages",
         "Inconvenients"
       ],
       "rows": [
         [
-          "Noeud de huit simple",
+          "Nœud de huit simple",
           "Facile, rapide, gros volume bloquant",
           "Peut s'ouvrir si pas serre fort"
         ],
         [
-          "Noeud de huit double",
-          "Tres securitaire, double blocage",
+          "Nœud de huit double",
+          "Très sécuritaire, double blocage",
           "Plus long a faire et plus volumineux"
         ],
         [
-          "Noeud de chaise simple",
+          "Nœud de chaise simple",
           "Petit, beau",
           "Moins bloquant si le brin est fin"
         ],
         [
-          "Noeud de stoper bloque",
+          "Nœud de stoper bloque",
           "Compact, bloque sans s'ouvrir",
           "Plus complexe a executer"
         ]
@@ -153,19 +153,19 @@
     },
     {
       "type": "p",
-      "html": "Le plus courant, c'est le noeud de huit simple. Tu en fais un sur chaque brin, indépendamment. Tu serres bien (10 secondes a tirer dessus). Apres le rappel, le noeud se defait avec un peu d'effort, c'est normal. Pour les cordes fines, prefere le huit double. Verifie qu'il est bien fait, comme tu verifierais ton encordement principal."
+      "html": "Le plus courant, c'est le nœud de huit simple. Tu en fais un sur chaque brin, indépendamment. Tu serres bien (10 secondes a tirer dessus). Après le rappel, le nœud se defait avec un peu d'effort, c'est normal. Pour les cordes fines, prefere le huit double. Vérifie qu'il est bien fait, comme tu verifierais ton encordement principal."
     },
     {
       "type": "h2",
-      "text": "Recuperer la corde apres le rappel"
+      "text": "Recuperer la corde après le rappel"
     },
     {
       "type": "p",
-      "html": "Une fois au relais suivant, tu te vache, et tu tire sur un brin pour ramener la corde. <strong>Tu tires sur le brin qui n'a pas de noeud d'attache</strong> au point d'ancrage du haut. La corde va remonter, passer le maillon, et tomber. <strong>Attention aux pierres detachees</strong>, recule-toi du mur, mets ton casque. La chute de corde peut detacher des cailloux. Une fois la corde au sol, tu enroules proprement pour le prochain rappel."
+      "html": "Une fois au relais suivant, tu te vache, et tu tire sur un brin pour ramener la corde. <strong>Tu tires sur le brin qui n'a pas de nœud d'attache</strong> au point d'ancrage du haut. La corde va remonter, passer le maillon, et tomber. <strong>Attention aux pierres detachees</strong>, recule-toi du mur, mets ton casque. La chute de corde peut detacher des cailloux. Une fois la corde au sol, tu enroules proprement pour le prochain rappel."
     },
     {
       "type": "p",
-      "html": "L'erreur typique, c'est tirer trop fort ou tirer en travers. La corde peut se coincer dans le maillon. Pour eviter ca, tu garde une tension legere et constante. Si elle se coince, tu peux remonter en autobloquant (technique avancee). En cas de blocage definitif, tu abandonnes le brin et tu finis a corde simple, ce qui peut etre dangereux. Mieux vaut bien verifier la sortie de corde avant de partir."
+      "html": "L'erreur typique, c'est tirer trop fort ou tirer en travers. La corde peut se coincer dans le maillon. Pour éviter ca, tu garde une tension legere et constante. Si elle se coince, tu peux remonter en autobloquant (technique avancee). En cas de blocage definitif, tu abandonnes le brin et tu finis a corde simple, ce qui peut être dangereux. Mieux vaut bien vérifier la sortie de corde avant de partir."
     },
     {
       "type": "h2",
@@ -173,7 +173,7 @@
     },
     {
       "type": "p",
-      "html": "L'erreur la plus mortelle : <strong>oublier le noeud en bout de corde</strong>. Tu depasse le relais, tu tombes. L'erreur deuxieme : <strong>oublier l'autobloquant</strong>. Si tu lache la corde, plus rien ne te tient. L'erreur troisieme : <strong>oublier de mettre la corde dans le descendeur</strong> (oui, ca arrive). Tu te decharge de la vache, tu tombes. L'erreur quatrieme : <strong>mauvaise orientation du descendeur</strong>, qui peut faire glisser la corde."
+      "html": "L'erreur la plus mortelle : <strong>oublier le nœud en bout de corde</strong>. Tu depasse le relais, tu tombes. L'erreur deuxieme : <strong>oublier l'autobloquant</strong>. Si tu lache la corde, plus rien ne te tient. L'erreur troisieme : <strong>oublier de mettre la corde dans le descendeur</strong> (oui, ca arrive). Tu te décharge de la vache, tu tombes. L'erreur quatrieme : <strong>mauvaise orientation du descendeur</strong>, qui peut faire glisser la corde."
     },
     {
       "type": "list",
@@ -181,8 +181,8 @@
       "title": "Cinq erreurs qui ont cause des accidents recents",
       "items": [
         {
-          "title": "Bout de corde sans noeud",
-          "body": "Le grimpeur depasse le relais en n'ayant pas verifie la longueur, et tombe en chute libre. Le noeud aurait bloque."
+          "title": "Bout de corde sans nœud",
+          "body": "Le grimpeur depasse le relais en n'ayant pas vérifie la longueur, et tombe en chute libre. Le nœud aurait bloque."
         },
         {
           "title": "Autobloquant oublie",
@@ -212,7 +212,7 @@
     },
     {
       "type": "quote",
-      "text": "Le rappel se fait comme on demarre une voiture : sequence fixe, jamais d'improvisation, toujours dans le meme ordre.",
+      "text": "Le rappel se fait comme on demarre une voiture : sequence fixe, jamais d'improvisation, toujours dans le même ordre.",
       "author": "Antoine",
       "role": "ancien competiteur FFME, pratiquant grande voie depuis 2018"
     },
@@ -227,28 +227,28 @@
   ],
   "faq": [
     {
-      "q": "Faut-il toujours mettre un noeud en bout de corde ?",
-      "a": "Oui, toujours. Meme si tu connais la longueur. Meme si tu vois le relais. Meme si tu es en site sportif. Le noeud en bout te sauve d'une erreur de calcul, d'une corde plus courte que prevue, d'un relais decale. C'est une regle absolue qui ne souffre aucune exception."
+      "q": "Faut-il toujours mettre un nœud en bout de corde ?",
+      "a": "Oui, toujours. Même si tu connais la longueur. Même si tu vois le relais. Même si tu es en site sportif. Le nœud en bout te sauve d'une erreur de calcul, d'une corde plus courte que prevue, d'un relais decale. C'est une règle absolue qui ne souffre aucune exception."
     },
     {
       "q": "Le Machard fonctionne-t-il sur toutes les cordes ?",
-      "a": "Oui, mais le nombre de tours change. 3 tours sur corde 10 mm, 4 tours sur 8.5-9 mm, 5 tours sur 7.5-8 mm. Plus la corde est fine, plus tu rajoute de tours. Teste toujours en suspension avant de te lancer. Pas de Machard sur cordes lisses neuves, prefere une cordelette deja un peu usee."
+      "a": "Oui, mais le nombre de tours change. 3 tours sur corde 10 mm, 4 tours sur 8.5-9 mm, 5 tours sur 7.5-8 mm. Plus la corde est fine, plus tu rajoute de tours. Teste toujours en suspension avant de te lancer. Pas de Machard sur cordes lisses neuves, prefere une cordelette déjà un peu usee."
     },
     {
       "q": "Peut-on faire un rappel avec un seul brin ?",
-      "a": "Possible techniquement, mais reserve aux situations specifiques (corde coincee, sauvetage). Le rappel a corde simple est moins securitaire et plus lent. La pratique normale est en double brin, sur deux cordes (en demi-corde) ou sur une corde pliee en deux. Apprends d'abord le rappel en double, ensuite tu pourras varier."
+      "a": "Possible techniquement, mais reserve aux situations spécifiques (corde coincee, sauvetage). Le rappel a corde simple est moins sécuritaire et plus lent. La pratique normale est en double brin, sur deux cordes (en demi-corde) ou sur une corde pliee en deux. Apprends d'abord le rappel en double, ensuite tu pourras varier."
     },
     {
       "q": "Comment savoir si le point d'ancrage est sain ?",
-      "a": "Inspecte visuellement la plaquette, le maillon, et la chaine. Tape avec un mousqueton sur la plaquette : un son creux est mauvais. Verifie qu'il n'y a pas de rouille evidente ou de fissure dans la roche. En cas de doute serieux, ajoute un point de secours (sangle sur arbre ou friend). Pas de rappel sur ancrage douteux, jamais."
+      "a": "Inspecte visuellement la plaquette, le maillon, et la chaine. Tape avec un mousqueton sur la plaquette : un son creux est mauvais. Vérifie qu'il n'y a pas de rouille évidente ou de fissure dans la roche. En cas de doute serieux, ajoute un point de secours (sangle sur arbre ou friend). Pas de rappel sur ancrage douteux, jamais."
     },
     {
-      "q": "Quel est le temps moyen pour un rappel de 30 metres ?",
+      "q": "Quel est le temps moyen pour un rappel de 30 mètres ?",
       "a": "Compte 5 a 8 minutes par personne entre le moment ou tu commences a t'equiper et le moment ou tu te vache au relais suivant. Si tu mets 15 minutes, tu vas trop lentement. Si tu mets 3 minutes, tu sautes des etapes. Le bon rythme s'apprend avec la pratique en site protege."
     },
     {
       "q": "Faut-il toujours mettre un casque pour le rappel ?",
-      "a": "Oui, obligatoire. Le rappel passe souvent sur des zones d'eboulis et de pierres detachees. La corde qui frotte peut detacher des cailloux qui tombent sur ta tete. Un casque legere comme un Petzl Sirocco te protege sans te gener. C'est meme plus crucial que le casque pendant la grimpe."
+      "a": "Oui, obligatoire. Le rappel passe souvent sur des zones d'eboulis et de pierres detachees. La corde qui frotte peut detacher des cailloux qui tombent sur ta tête. Un casque legere comme un Petzl Sirocco te protege sans te gener. C'est même plus crucial que le casque pendant la grimpe."
     }
   ],
   "cover_alt": "Un grimpeur en plein rappel descend une paroi calcaire ensoleillee en utilisant un descendeur reverso, casque blanc et baudrier noir, autobloquant Machard rouge visible sur la cuisse, deux brins de corde verts dans les mains",
@@ -256,7 +256,7 @@
     {
       "slug": "apprendre-escalade-debutant",
       "anchor": "apprendre l'escalade en 2026",
-      "context": "Pilier general"
+      "context": "Pilier général"
     },
     {
       "slug": "grandes-voies-tactique",
@@ -271,7 +271,7 @@
     {
       "slug": "noeud-huit-encordement",
       "anchor": "ton encordement principal",
-      "context": "Reference noeuds en grimpe"
+      "context": "Reference nœuds en grimpe"
     }
   ],
   "scheduled_at": "2026-06-23T09:00:00+02:00"
