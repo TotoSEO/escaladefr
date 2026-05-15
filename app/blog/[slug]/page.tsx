@@ -129,7 +129,7 @@ export default async function BlogArticlePage(
               mainEntity: article.faq.map((qa) => ({
                 "@type": "Question",
                 name: qa.q,
-                acceptedAnswer: { "@type": "Answer", text: qa.a },
+                acceptedAnswer: { "@type": "Answer", text: stripHtml(qa.a) },
               })),
             },
           ]
@@ -262,9 +262,10 @@ export default async function BlogArticlePage(
                           <span className="block h-px w-3 -translate-x-3 bg-foreground" />
                         </span>
                       </summary>
-                      <p className="mt-4 max-w-3xl pl-8 pr-1 text-sm leading-relaxed text-muted-foreground sm:pl-12 sm:text-base">
-                        {qa.a}
-                      </p>
+                      <p
+                        className="mt-4 max-w-3xl pl-8 pr-1 text-sm leading-relaxed text-muted-foreground [&_a]:font-medium [&_a]:text-primary [&_a]:underline [&_a]:decoration-primary/40 [&_a]:underline-offset-[3px] [&_a:hover]:decoration-primary [&_strong]:font-semibold [&_strong]:text-foreground sm:pl-12 sm:text-base"
+                        dangerouslySetInnerHTML={{ __html: qa.a }}
+                      />
                     </details>
                   ))}
                 </div>
@@ -319,4 +320,15 @@ function faqSubject(h1: string): string {
   const segment = h1.split(/[,:]/)[0].trim();
   const lower = segment.charAt(0).toLowerCase() + segment.slice(1);
   return lower;
+}
+
+/**
+ * Retire les tags HTML pour passer du texte propre dans le JSON-LD FAQPage.
+ * On garde le texte interne des `<a>` et `<strong>`.
+ */
+function stripHtml(html: string): string {
+  return html
+    .replace(/<[^>]+>/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
 }
