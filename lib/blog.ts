@@ -318,6 +318,61 @@ export const COCON_LABEL: Record<Cocon, string> = {
   culture: "Culture",
 };
 
+/**
+ * Titre SEO complet par cocon (50-65 chars), affiché en <title> et meta.
+ * Le terme 'cocon' n'apparaît jamais : c'est du jargon SEO interne.
+ */
+export const COCON_TITLE: Record<Cocon, string> = {
+  techniques: "Techniques d'escalade : guide complet pour progresser",
+  materiel: "Matériel d'escalade : tous les guides d'achat et d'entretien",
+  noeuds: "Nœuds d'escalade : encordement, rappel, autobloquants, relais",
+  sites: "Sites d'escalade en France : les falaises et massifs à découvrir",
+  personnalites: "Grimpeurs et grimpeuses qui ont marqué l'histoire",
+  preparation: "Préparation à l'escalade : corps, mental, entraînement",
+  securite: "Sécurité en escalade : règles, vérifications, premiers secours",
+  environnement: "Escalade et environnement : faune, accès et bonnes pratiques",
+  culture: "Culture de l'escalade en France et dans le monde",
+};
+
+/**
+ * H1 court par cocon, affiché en haut de la page de catégorie.
+ */
+export const COCON_H1: Record<Cocon, string> = {
+  techniques: "Techniques d'escalade",
+  materiel: "Matériel d'escalade",
+  noeuds: "Nœuds d'escalade",
+  sites: "Sites d'escalade en France",
+  personnalites: "Grimpeurs et grimpeuses",
+  preparation: "Préparation à l'escalade",
+  securite: "Sécurité en escalade",
+  environnement: "Escalade et environnement",
+  culture: "Culture de l'escalade",
+};
+
+/**
+ * Subtitle / sous-titre éditorial sous le H1.
+ */
+export const COCON_SUBTITLE: Record<Cocon, string> = {
+  techniques:
+    "Bloc, voie, lecture, placement et progression. Tout ce qui te fait grimper mieux, du premier 4 au 7a.",
+  materiel:
+    "Chaussons, baudrier, corde, dégaines, casque. Choix, entretien, durée de vie : les guides matériel pratiques.",
+  noeuds:
+    "Le huit, le prussik, le cabestan, le pêcheur. Le répertoire complet des nœuds qu'on utilise réellement.",
+  sites:
+    "Bleau, Verdon, Céüse, Buoux, Calanques et les pépites confidentielles. Le panorama des falaises et massifs français.",
+  personnalites:
+    "Edlinger, Destivelle, Hill, Honnold, Ondra, Garnbret. Les portraits qui racontent l'histoire vivante de l'escalade.",
+  preparation:
+    "Échauffement, hangboard, mental, nutrition, sommeil. Tout ce qui se passe avant et après la séance.",
+  securite:
+    "Vérifications, communication, gestion des risques, premiers secours. Les règles non négociables.",
+  environnement:
+    "Nidification, érosion, déchets, accès. Comment grimper longtemps sans dégrader les sites.",
+  culture:
+    "Films, livres, JO, héritage des Bleausards et des pionniers du Verdon. La grimpe au-delà du geste.",
+};
+
 export const COCON_SLUG: Record<Cocon, string> = {
   techniques: "techniques",
   materiel: "materiel",
