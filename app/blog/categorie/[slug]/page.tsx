@@ -11,6 +11,7 @@ import {
   COCON_SLUG,
   articleHref,
   coconFromSlug,
+  fetchNextScheduledArticle,
   fetchPublishedArticles,
   formatPublishedDate,
   readingTimeMinutes,
@@ -51,7 +52,10 @@ export default async function CoconPage(
   const cocon = coconFromSlug(slug);
   if (!cocon) notFound();
 
-  const articles = await fetchPublishedArticles(100, cocon);
+  const [articles, nextArticle] = await Promise.all([
+    fetchPublishedArticles(100, cocon),
+    fetchNextScheduledArticle(cocon),
+  ]);
   const label = COCON_LABEL[cocon];
   const description = COCON_DESCRIPTION[cocon];
 
@@ -100,7 +104,7 @@ export default async function CoconPage(
 
       <PageHeader
         section={`§ Blog · ${label}`}
-        status="live"
+        status={articles.length > 0 ? "live" : "soon"}
         surface="cool"
         title={
           <>
@@ -113,24 +117,23 @@ export default async function CoconPage(
 
       <section className="relative surface-1 text-foreground">
         <div className="mx-auto max-w-7xl px-5 py-14 sm:px-8 sm:py-20 lg:px-12">
-          <div className="mb-8 flex items-baseline justify-between gap-4 sm:mb-12">
-            <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
-              § {articles.length} article{articles.length > 1 ? "s" : ""}
-            </span>
-            <Link
-              href="/blog"
-              className="inline-flex items-center gap-2 font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground transition-colors hover:text-primary"
-            >
-              Tous les cocons
-              <ArrowUpRight className="h-3.5 w-3.5" />
-            </Link>
-          </div>
+          {articles.length > 0 && (
+            <div className="mb-8 flex items-baseline justify-between gap-4 sm:mb-12">
+              <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+                § {articles.length} article{articles.length > 1 ? "s" : ""}
+              </span>
+              <Link
+                href="/blog"
+                className="inline-flex items-center gap-2 font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground transition-colors hover:text-primary"
+              >
+                Tous les cocons
+                <ArrowUpRight className="h-3.5 w-3.5" />
+              </Link>
+            </div>
+          )}
 
           {articles.length === 0 ? (
-            <p className="rounded-2xl border border-white/10 bg-coal-900/60 p-8 text-center text-sm text-muted-foreground sm:text-base">
-              Les articles de ce cocon sortiront prochainement selon le calendrier
-              éditorial. Reviens d&apos;ici quelques semaines.
-            </p>
+            <CoconEmptyState next={nextArticle} label={label} />
           ) : (
             <>
               {articles.filter((a) => a.type_article === "hub").length > 0 && (
@@ -155,6 +158,67 @@ export default async function CoconPage(
         </div>
       </section>
     </PageShell>
+  );
+}
+
+function CoconEmptyState({
+  next,
+  label,
+}: {
+  next: { slug: string; h1: string; scheduled_at: string } | null;
+  label: string;
+}) {
+  if (!next) {
+    return (
+      <div className="mx-auto max-w-2xl rounded-3xl border border-white/10 bg-coal-900/60 px-6 py-12 text-center sm:px-10 sm:py-16">
+        <p className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+          Bientôt en ligne
+        </p>
+        <h2
+          className="mt-4 font-display font-medium leading-tight tracking-[-0.02em]"
+          style={{ fontSize: "clamp(1.4rem, 3vw, 2rem)" }}
+        >
+          Le cocon {label.toLowerCase()} arrive prochainement.
+        </h2>
+        <p className="mt-4 text-sm leading-relaxed text-muted-foreground sm:text-base">
+          Reviens dans quelques semaines, le calendrier éditorial publie trois
+          articles par semaine.
+        </p>
+      </div>
+    );
+  }
+  const dateLabel = new Intl.DateTimeFormat("fr-FR", {
+    weekday: "long",
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+  }).format(new Date(next.scheduled_at));
+  return (
+    <div className="mx-auto max-w-2xl rounded-3xl border border-primary/30 bg-coal-900/60 px-6 py-12 text-center sm:px-10 sm:py-16">
+      <p className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+        Prochaine publication
+      </p>
+      <h2
+        className="mt-4 font-display font-medium leading-tight tracking-[-0.02em] text-balance"
+        style={{ fontSize: "clamp(1.4rem, 3vw, 2rem)" }}
+      >
+        {next.h1}
+      </h2>
+      <p className="mt-4 font-mono text-xs uppercase tracking-[0.22em] text-foreground/70">
+        {dateLabel} · 09 h 00
+      </p>
+      <p className="mt-6 text-sm leading-relaxed text-muted-foreground sm:text-base">
+        Le cocon {label.toLowerCase()} se remplit progressivement à raison de
+        trois articles par semaine. Reviens bientôt.
+      </p>
+      <Link
+        href="/blog"
+        className="mt-6 inline-flex items-center gap-2 rounded-full border border-white/15 px-4 py-2 text-xs uppercase tracking-[0.22em] text-foreground/80 transition-colors hover:border-primary/40 hover:text-foreground"
+      >
+        Voir les autres cocons
+        <ArrowUpRight className="h-3.5 w-3.5" />
+      </Link>
+    </div>
   );
 }
 

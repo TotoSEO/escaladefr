@@ -66,19 +66,46 @@ export async function GET(request: Request) {
     return NextResponse.json({ error: updateError.message }, { status: 500 });
   }
 
-  // Invalide les caches ISR des pages concernées
+  // Récupère TOUS les articles publiés pour invalider leurs caches.
+  // Nécessaire car resolveInternalLinks() peut désormais activer des liens
+  // vers les nouveaux articles publiés depuis n'importe quel autre article.
+  const { data: allPublished } = await supabase
+    .from("blog_articles")
+    .select("slug,cocon")
+    .eq("status", "published")
+    .lte("published_at", nowIso);
+
+  // Invalidation ISR
   revalidatePath("/blog");
   revalidatePath("/sitemap.xml");
-  for (const slug of slugs) {
-    revalidatePath(`/blog/${slug}`);
+  revalidatePath("/a-propos");
+
+  // Toutes les pages article (les anciennes peuvent contenir des liens vers
+  // les nouvelles, qui passent de texte plain à <a> cliquable).
+  if (allPublished) {
+    for (const a of allPublished as { slug: string; cocon: string }[]) {
+      revalidatePath(`/blog/${a.slug}`);
+    }
   }
-  for (const cocon of cocons) {
-    revalidatePath(`/blog/categorie/${cocon}`);
+
+  // Toutes les pages cocon (compteurs, listing) — pas seulement celles du
+  // nouvel article, car le bloc nav "9 catégories" sur /blog peut dépendre
+  // d'un compteur global.
+  const allCocons = new Set([
+    ...cocons,
+    ...(allPublished ?? []).map((a: { cocon: string }) => a.cocon),
+  ]);
+  for (const c of allCocons) {
+    revalidatePath(`/blog/categorie/${c}`);
   }
 
   return NextResponse.json({
     published: slugs.length,
     slugs,
+    revalidated: {
+      articles: allPublished?.length ?? 0,
+      cocons: allCocons.size,
+    },
     at: nowIso,
   });
 }
