@@ -25,7 +25,7 @@
     },
     {
       "type": "p",
-      "html": "Le huit fonctionne en <strong>double passe</strong>, le brin courant suit exactement le trajet du premier huit déjà tracé. Cette géométrie crée des frottements internes qui bloquent le nœud sous tension. Une corde dynamique conforme à la norme EN 892 affiche une charge de rupture de 22 à 30 kN, et le huit conserve 75 à 80 % de cette résistance, largement au-dessus des 6 à 9 kN générés par une chute facteur 1."
+      "html": "Le huit fonctionne en <strong>double passe</strong>, le brin courant suit exactement le trajet du premier huit déjà tracé. Cette géométrie crée des frottements internes qui bloquent le nœud sous tension. Une corde dynamique conforme à la norme EN 892 affiche une charge de rupture de 22 à 30 kN, et le huit conserve 75 à 80 % de cette résistance, largement au-dessus des 6 à 9 kN générés par une chute facteur 1. La <a href=\"https://www.ffme.fr/wp-content/uploads/2020/01/noeud-huit.pdf\" rel=\"nofollow noopener\" target=\"_blank\">fiche technique FFME sur le nœud de huit</a> détaille les critères de validation."
     },
     {
       "type": "p",
@@ -250,28 +250,28 @@
   "internal_links": [
     {
       "slug": "noeuds-escalade-utiles-guide",
-      "anchor": "panorama des nœuds utiles en escalade",
-      "context": "pilier cocon"
-    },
-    {
-      "slug": "verifier-noeud-partenaire",
-      "anchor": "vérification croisée systématique",
-      "context": "rituel sécurité"
-    },
-    {
-      "slug": "noeud-cabestan-relais",
-      "anchor": "cabestan sur mousqueton à vis",
-      "context": "jonction relais"
+      "anchor": "le répertoire complet des nœuds",
+      "context": "pilier nœuds, premier lien interne"
     },
     {
       "slug": "noeud-chaise-alpinisme",
-      "anchor": "chaise utilisé en alpinisme",
-      "context": "comparaison nœud alternatif"
+      "anchor": "de chaise utilisé en alpinisme",
+      "context": "même cocon, comparaison nœud alternatif"
     },
     {
       "slug": "retenir-noeuds-escalade-methode",
-      "anchor": "mémorisation du tracé",
-      "context": "apprentissage"
+      "anchor": "La mémorisation du tracé",
+      "context": "même cocon, apprentissage"
+    },
+    {
+      "slug": "verifier-noeud-partenaire",
+      "anchor": "L'inspection mutuelle de l'encordement",
+      "context": "même cocon, rituel sécurité"
+    },
+    {
+      "slug": "noeud-cabestan-relais",
+      "anchor": "un cabestan sur mousqueton à vis",
+      "context": "même cocon, jonction relais grande voie"
     }
   ],
   "scheduled_at": "2026-10-01T09:00:00+02:00"

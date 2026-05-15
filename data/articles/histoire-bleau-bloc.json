@@ -57,7 +57,7 @@
     },
     {
       "type": "p",
-      "html": "Cette communauté installe les premières voies nommées et identifiées avec leurs cotations. Les premiers tracés au pinceau apparaissent sur certains blocs, <a href=\"/blog/bleau-circuits-debutant\">ancêtres des circuits</a> modernes. Les noms classiques de Bleau remontent à cette époque : la Marie-Rose, le Toit du Cul-de-Chien, l'Angle Allain, la Joker. Antoine connaît la plupart de ces blocs, certains ont été ses premiers projets autour de la quinzaine."
+      "html": "Cette communauté installe les premières voies nommées et identifiées avec leurs cotations. Les premiers tracés au pinceau apparaissent sur certains blocs, <a href=\"/blog/bleau-circuits-debutant\">ancêtres directs des circuits couleur modernes</a>. Les noms classiques de Bleau remontent à cette époque : la Marie-Rose, le Toit du Cul-de-Chien, l'Angle Allain, la Joker. Antoine connaît la plupart de ces blocs, certains ont été ses premiers projets autour de la quinzaine."
     },
     {
       "type": "p",
@@ -116,7 +116,7 @@
     },
     {
       "type": "p",
-      "html": "Bouvard, ouvert dans les années 1940, propose des passages en grès tendre sur des dômes caractéristiques. C'est l'un des <a href=\"/blog/bleau-secteurs-incontournables\">secteurs incontournables de Bleau</a> les plus anciens encore parcourus aujourd'hui, célèbre pour ses dévers en bac et ses dalles techniques. Le bloc emblématique Tropdroite reste un classique du niveau 7a soutenu, ouvert il y a plus de cinquante ans."
+      "html": "Bouvard, ouvert dans les années 1940, propose des passages en grès tendre sur des dômes caractéristiques. C'est l'un des plus anciens spots actifs du massif, à explorer aux côtés des <a href=\"/blog/bleau-secteurs-incontournables\">autres secteurs phares de Bleau</a>, célèbre pour ses dévers en bac et ses dalles techniques. Le bloc emblématique Tropdroite reste un classique du niveau 7a soutenu, ouvert il y a plus de cinquante ans."
     },
     {
       "type": "p",
@@ -206,29 +206,29 @@
   "cover_alt": "Vue d'ensemble du secteur Bas-Cuvier à Fontainebleau au crépuscule, blocs de grès massifs sur tapis de feuilles mortes, grimpeur installé sur un crashpad orange, lumière dorée de fin d'automne",
   "internal_links": [
     {
-      "slug": "bleau-secteurs-incontournables",
-      "anchor": "secteurs incontournables de Bleau",
-      "context": "détail pratique"
+      "slug": "histoire-escalade-france-alpes-salle",
+      "anchor": "le récit historique de l'escalade en France et dans les Alpes",
+      "context": "pilier culture, premier lien interne"
+    },
+    {
+      "slug": "bloc-techniques-base",
+      "anchor": "les techniques de base du bloc",
+      "context": "complément technique, héritage Pierre Allain"
     },
     {
       "slug": "bleau-circuits-debutant",
-      "anchor": "circuits débutants à parcourir",
-      "context": "premier accès"
+      "anchor": "ancêtres directs des circuits couleur modernes",
+      "context": "filiation historique des circuits balisés"
     },
     {
-      "slug": "histoire-escalade-france-alpes-salle",
-      "anchor": "histoire générale de l'escalade en France",
-      "context": "pilier culture"
+      "slug": "bleau-secteurs-incontournables",
+      "anchor": "autres secteurs phares de Bleau",
+      "context": "détail pratique des secteurs historiques"
     },
     {
       "slug": "rocher-fragile-grimpe-respectueuse",
       "anchor": "grimpe respectueuse sur rocher fragile",
-      "context": "lien environnement"
-    },
-    {
-      "slug": "bloc-techniques-base",
-      "anchor": "techniques de base du bloc",
-      "context": "complément technique"
+      "context": "codes bleausards et fragilité du grès"
     }
   ],
   "scheduled_at": "2027-05-01T09:00:00+02:00"

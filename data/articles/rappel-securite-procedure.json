@@ -243,28 +243,28 @@
   "internal_links": [
     {
       "slug": "securite-escalade-regles-essentielles",
-      "anchor": "notre pilier sur les règles essentielles de sécurité",
-      "context": "Pilier du cocon"
+      "anchor": "aux principes de prudence du grimpeur",
+      "context": "pilier sécurité, premier lien interne"
     },
     {
       "slug": "verification-baudrier-corde-noeud",
-      "anchor": "notre fiche sur la triple vérification",
-      "context": "Article frère du cocon"
+      "anchor": "La triple vérification",
+      "context": "même cocon, applicable au rappel"
     },
     {
       "slug": "check-list-avant-grimper",
-      "anchor": "notre check list complète avant de grimper",
-      "context": "Article frère du cocon"
-    },
-    {
-      "slug": "chute-en-tete-facteurs",
-      "anchor": "notre dossier sur la chute en tête et les facteurs de chute",
-      "context": "Article frère du cocon"
+      "anchor": "la check-list de sécurité avant de grimper",
+      "context": "même cocon, contrôle croisé"
     },
     {
       "slug": "partenaire-grimpe-confiance",
-      "anchor": "notre article sur le choix d'un partenaire de grimpe",
-      "context": "Article frère du cocon"
+      "anchor": "ton partenaire de cordée de confiance",
+      "context": "même cocon, contrôle croisé"
+    },
+    {
+      "slug": "chute-en-tete-facteurs",
+      "anchor": "facteurs d'une chute en tête",
+      "context": "même cocon, rappel sur brin simple"
     }
   ],
   "scheduled_at": "2026-03-27T09:00:00+01:00"

@@ -5,27 +5,27 @@
   "numero": 37,
   "title": "Comportement en falaise : codes pour vivre ensemble en escalade",
   "h1": "Comportement en falaise, vivre ensemble selon Antoine",
-  "description": "Comportement falaise escalade : politesse au pied de voie, bruit, dechets, chien, partage des voies et respect des proprietaires pour grimper en bonne...",
-  "chapo": "La falaise se partage. Une vingtaine de cordees peuvent se croiser sur un secteur ecole un samedi de mai, et les frottements montent vite si chacun ignore les codes. Treize ans d'observation en site m'ont appris quelques regles non ecrites qui font qu'une journee se passe bien ou pas. Voici l'essentiel pour vivre la falaise en collectif.",
+  "description": "Comportement falaise escalade : politesse au pied de voie, bruit, déchets, chien, partage des voies et respect des propriétaires pour bien grimper.",
+  "chapo": "La falaise se partage. Une vingtaine de cordées peuvent se croiser sur un secteur école un samedi de mai, et les frottements montent vite si chacun ignore les codes. Treize ans d'observation en site m'ont appris quelques règles non écrites qui font qu'une journée se passe bien ou pas. Voici l'essentiel pour vivre la falaise en collectif.",
   "takeaways": [
     "On ne grimpe jamais sous une autre cordee, jamais au-dessus, jamais en simultane.",
-    "On respecte les voies engagees par d'autres, meme si elles sont vides.",
+    "On respecte les voies engagees par d'autres, même si elles sont vides.",
     "On reduit le bruit, le son et les eclats de voix qui derangent la concentration.",
-    "On remporte tous ses dechets, peau, magnesie tombee et papier toilette.",
-    "Le respect des proprietaires et des riverains conditionne l'acces durable."
+    "On remporte tous ses déchets, peau, magnesie tombee et papier toilette.",
+    "Le respect des propriétaires et des riverains conditionne l'acces durable."
   ],
   "body_blocks": [
     {
       "type": "h2",
-      "text": "La regle de base : pas au-dessus, pas en-dessous"
+      "text": "La règle de base : pas au-dessus, pas en-dessous"
     },
     {
       "type": "p",
-      "html": "La premiere regle de la falaise, c'est de ne jamais grimper directement sous une cordee en cours ni de partir au-dessus de quelqu'un sans accord verbal. Une <strong>chute de pierre</strong> ou de degaine sur quelqu'un en bas peut tuer. C'est arrive en France plusieurs fois, dont un accident a Buoux en 2014 sur un secteur frequente."
+      "html": "La premiere règle de la falaise, c'est de ne jamais grimper directement sous une cordee en cours ni de partir au-dessus de quelqu'un sans accord verbal. Une <strong>chute de pierre</strong> ou de degaine sur quelqu'un en bas peut tuer. C'est arrive en France plusieurs fois, dont un accident a Buoux en 2014 sur un secteur frequente."
     },
     {
       "type": "p",
-      "html": "Au pied d'une voie occupee, attends que la cordee soit redescendue avant de partir, ou choisis une autre voie. Si tu dois imperativement faire cette voie, parle a la cordee, propose de relayer une fois leur tentative finie. La courtoisie evite 90 pour cent des incidents. Ce savoir-faire enrichit <a href=\"/blog/apprendre-escalade-debutant\">les bases pour démarrer en escalade</a>. Cette logique vaut autant <a href=\"/blog/sortie-rocher-debutant\">pour ta premiere sortie rocher</a> que pour une journee de projection."
+      "html": "Au pied d'une voie occupee, attends que la cordee soit redescendue avant de partir, ou choisis une autre voie. Si tu dois imperativement faire cette voie, parle a la cordee, propose de relayer une fois leur tentative finie. La courtoisie évite 90 pour cent des incidents. Ce savoir-faire enrichit <a href=\"/blog/apprendre-escalade-debutant\">les bases pour démarrer en escalade</a>. Cette logique vaut autant <a href=\"/blog/sortie-rocher-debutant\">pour ta premiere sortie rocher</a> que pour une journee de projection."
     },
     {
       "type": "h2",
@@ -33,16 +33,16 @@
     },
     {
       "type": "p",
-      "html": "Les autres cordees respectent cette reservation tacite. Mais cette regle a une limite : tu ne peux pas reserver 4 voies a la fois en plaquant des degaines partout, c'est de l'accaparement."
+      "html": "Les autres cordees respectent cette reservation tacite. Mais cette règle a une limite : tu ne peux pas reserver 4 voies a la fois en plaquant des degaines partout, c'est de l'accaparement."
     },
     {
       "type": "p",
-      "html": "L'usage courant : reserver une voie, plus eventuellement une voie de repli en cours d'apres-midi. Si tu rates ta projection 5 fois et que la file s'allonge derriere, libere temporairement la voie pour laisser passer les autres, puis reprends après. <a href=\"/blog/lecture-voie-strategie\">L'analyse tactique de l'itinéraire au sol</a> au sol entre deux essais te fait economiser des passes inutiles et donc des minutes monopolisees."
+      "html": "L'usage courant : reserver une voie, plus eventuellement une voie de repli en cours d'après-midi. Si tu rates ta projection 5 fois et que la file s'allonge derriere, libere temporairement la voie pour laisser passer les autres, puis reprends après. <a href=\"/blog/lecture-voie-strategie\">L'analyse tactique de l'itinéraire au sol</a> au sol entre deux essais te fait économiser des passes inutiles et donc des minutes monopolisees."
     },
     {
       "type": "tip",
       "title": "L'art du brief verbal",
-      "body": "Quand tu arrives sur un secteur, dis bonjour aux autres cordees. Un simple salut casse la glace, te donne acces aux infos locales (voies humides, holds casses, conseils sur le crux), et te place en bonne intelligence pour la journee. Trois minutes de papote rapportent enormement.",
+      "body": "Quand tu arrives sur un secteur, dis bonjour aux autres cordees. Un simple salut casse la glace, te donne acces aux infos locales (voies humides, holds casses, conseils sur le crux), et te place en bonne intelligence pour la journee. Trois minutes de papote rapportent énormément.",
       "tone": "astuce"
     },
     {
@@ -59,30 +59,30 @@
       "title": "Trois sons qui derangent",
       "items": [
         {
-          "title": "Speaker bluetooth en exterieur",
-          "body": "Meme a faible volume, le speaker rayonne dans tout le secteur. Garde tes ecouteurs si tu veux ecouter pendant ta session. Le silence du rocher est une qualite recherchee par tous."
+          "title": "Speaker bluetooth en extérieur",
+          "body": "Même a faible volume, le speaker rayonne dans tout le secteur. Garde tes ecouteurs si tu veux ecouter pendant ta session. Le silence du rocher est une qualite recherchee par tous."
         },
         {
           "title": "Cris et encouragements forts",
-          "body": "Un allez, un go suffit. Eviter les hurlements prolonges qui couvrent les communications cordees-assureurs et perturbent la concentration ailleurs."
+          "body": "Un allez, un go suffit. Éviter les hurlements prolonges qui couvrent les communications cordees-assureurs et perturbent la concentration ailleurs."
         },
         {
           "title": "Discussion bruyante au pied",
-          "body": "Les conversations animees au pied des voies portent loin sur calcaire. Baisse d'un ton, ou eloigne-toi a quelques metres si l'echange dure."
+          "body": "Les conversations animees au pied des voies portent loin sur calcaire. Baisse d'un ton, ou eloigne-toi a quelques mètres si l'echange dure."
         }
       ]
     },
     {
       "type": "h2",
-      "text": "Les dechets, premier facteur d'image"
+      "text": "Les déchets, premier facteur d'image"
     },
     {
       "type": "p",
-      "html": "Tous tes dechets repartent avec toi. Et tous, ca veut dire les emballages d'energy, les peaux de banane qui ne se compostent pas en milieu sec, les tissus de magnesie tombe, les bouts de tape, les bouchons de bouteille. Les peaux de banane jetees a Saffres en 2021 mettaient 6 mois a disparaitre."
+      "html": "Tous tes déchets repartent avec toi. Et tous, ca veut dire les emballages d'énergy, les peaux de banane qui ne se compostent pas en milieu sec, les tissus de magnesie tombe, les bouts de tape, les bouchons de bouteille. Les peaux de banane jetees a Saffres en 2021 mettaient 6 mois a disparaitre."
     },
     {
       "type": "p",
-      "html": "Le papier toilette est le pire. Si tu fais ses besoins en falaise, enterre-les a <strong>15</strong> cm de profondeur, a 50 metres de toute voie et de tout chemin. Le papier se met dans un sac scelle que tu redescends. Pas de papier sous une pierre, pas de papier en surface, jamais."
+      "html": "Le papier toilette est le pire. Si tu fais ses besoins en falaise, enterre-les a <strong>15</strong> cm de profondeur, a 50 mètres de toute voie et de tout chemin. Le papier se met dans un sac scelle que tu redescends. Pas de papier sous une pierre, pas de papier en surface, jamais."
     },
     {
       "type": "h2",
@@ -94,19 +94,19 @@
     },
     {
       "type": "p",
-      "html": "Sur certains sites comme les <strong>Calanques</strong>, le chien est meme interdit en periode de feu (juin a septembre). Verifie la reglementation locale via la mairie ou le <strong>parc national</strong>. Le respect des regles conditionne l'acces durable."
+      "html": "Sur certains sites comme les <strong>Calanques</strong>, le chien est même interdit en periode de feu (juin a septembre). Vérifie la reglementation locale via la mairie ou le <strong>parc national</strong>. Le respect des règles conditionne l'acces durable."
     },
     {
       "type": "h2",
-      "text": "Le respect des proprietaires"
+      "text": "Le respect des propriétaires"
     },
     {
       "type": "table",
-      "caption": "Codes de respect des proprietaires",
+      "caption": "Codes de respect des propriétaires",
       "headers": [
         "Situation",
         "Bon reflexe",
-        "A eviter"
+        "A éviter"
       ],
       "rows": [
         [
@@ -133,19 +133,19 @@
     },
     {
       "type": "p",
-      "html": "Beaucoup de sites francais sont menaces par les conflits avec proprietaires : Saussois, Cap d'Aiglun, certaines parties d'Orpierre. Les fermetures arrivent quand les grimpeurs se comportent mal pendant 2 ou 3 saisons. Conscience collective indispensable."
+      "html": "Beaucoup de sites francais sont menaces par les conflits avec propriétaires : Saussois, Cap d'Aiglun, certaines parties d'Orpierre. Les fermetures arrivent quand les grimpeurs se comportent mal pendant 2 ou 3 saisons. Conscience collective indispensable."
     },
     {
       "type": "h2",
-      "text": "Les enfants et les debutants"
+      "text": "Les enfants et les débutants"
     },
     {
       "type": "p",
-      "html": "Si tu emmenes des enfants ou des debutants, garde-les sous controle visuel constant au pied des voies. Un enfant qui court sous une cordee en cours est un drame potentiel. Place les enfants a 5 metres minimum des bases de voie, en zone securisee, avec consignes claires."
+      "html": "Si tu emmenes des enfants ou des débutants, garde-les sous contrôle visuel constant au pied des voies. Un enfant qui court sous une cordee en cours est un drame potentiel. Place les enfants a 5 mètres minimum des bases de voie, en zone securisee, avec consignes claires."
     },
     {
       "type": "p",
-      "html": "Pour l'initiation des enfants en falaise, prefere des secteurs ecoles peu frequentes en semaine. Le samedi a Saffres avec 30 cordees, c'est <a href=\"/blog/apprendre-escalade-debutant\">pas le moment d'apprendre</a> le noeud de huit a un debutant en plein passage."
+      "html": "Pour l'initiation des enfants en falaise, préfère des secteurs école peu fréquentés en semaine. Le samedi à Saffres avec 30 cordées, ce n'est pas le moment d'apprendre le nœud de huit à un débutant en plein passage."
     },
     {
       "type": "h2",
@@ -157,7 +157,7 @@
     },
     {
       "type": "p",
-      "html": "Sur une projection serieuse type 7c, tu peux occuper la voie 1h30 sans pression, c'est le code. Mais sur une 6a populaire, l'idee est de tourner pour que tout le monde profite. Sois fluide. Si tu viens de la salle, l'ambiance change beaucoup, <a href=\"/blog/premiere-fois-salle-escalade\">premiere fois en salle</a> pour comparer les codes sociaux des deux environnements."
+      "html": "Sur une projection serieuse type 7c, tu peux occuper la voie 1h30 sans pression, c'est le code. Mais sur une 6a populaire, l'idée est de tourner pour que tout le monde profite. Sois fluide. Si tu viens de la salle, l'ambiance change beaucoup, <a href=\"/blog/premiere-fois-salle-escalade\">premiere fois en salle</a> pour comparer les codes sociaux des deux environnements."
     },
     {
       "type": "h2",
@@ -165,7 +165,7 @@
     },
     {
       "type": "p",
-      "html": "Mon club FFME a Colmar imposait une regle aux nouveaux : 3 sorties en accompagnement avant l'autonomie. Ces 3 sorties servent a transmettre les codes invisibles que ce guide enumere. Suis cette logique aupres de ton club local, c'est plus rapide que d'apprendre par les coups durs."
+      "html": "Mon club FFME a Colmar imposait une règle aux nouveaux : 3 sorties en accompagnement avant l'autonomie. Ces 3 sorties servent a transmettre les codes invisibles que ce guide enumere. Suis cette logique aupres de ton club local, c'est plus rapide que d'apprendre par les coups durs."
     },
     {
       "type": "quote",
@@ -177,31 +177,31 @@
   "faq": [
     {
       "q": "Peut-on grimper sans casque en falaise ?",
-      "a": "Techniquement oui, mais c'est imprudent et mal vu. Le casque protege de la chute de pierre et de degaine. Sur secteur frequente, le risque est reel meme par beau temps. Le casque coute 80 euros et te sauve potentiellement la vie."
+      "a": "Techniquement oui, mais c'est imprudent et mal vu. Le casque protege de la chute de pierre et de degaine. Sur secteur frequente, le risque est reel même par beau temps. Le casque coûte 80 euros et te sauve potentiellement la vie."
     },
     {
-      "q": "Comment gerer une cordee qui ne respecte pas les regles ?",
-      "a": "Aborde calmement, explique le probleme, propose une solution. Si la cordee refuse, eloigne-toi et signale au club ou au gestionnaire du site. Eviter la confrontation directe en falaise, l'energie negative gache la journee de tous."
+      "q": "Comment gerer une cordee qui ne respecte pas les règles ?",
+      "a": "Aborde calmement, explique le probleme, propose une solution. Si la cordee refuse, eloigne-toi et signale au club ou au gestionnaire du site. Éviter la confrontation directe en falaise, l'energie negative gache la journee de tous."
     },
     {
       "q": "Peut-on grimper le dimanche dans tout site ?",
-      "a": "Verifie le statut du site. Certaines falaises ferment partiellement en saison de nidification (rapaces protegees) ou en saison de chasse (pendant l'automne). Le topo et le site FFME indiquent les restrictions. Saint-Leger-du-Ventoux ferme partiellement de mars a juin pour les vautours."
+      "a": "Vérifie le statut du site. Certaines falaises ferment partiellement en saison de nidification (rapaces protegees) ou en saison de chasse (pendant l'automne). Le topo et le site FFME indiquent les restrictions. Saint-Leger-du-Ventoux ferme partiellement de mars a juin pour les vautours."
     },
     {
       "q": "Faut-il une licence pour grimper en falaise ?",
-      "a": "Pas obligatoire sur la plupart des sites publics. Mais la licence FFME couvre ton assurance, donne acces aux topos officiels, et finance l'equipement des voies. Une cotisation 50 a 80 euros par an, c'est un investissement collectif."
+      "a": "Pas obligatoire sur la plupart des sites publics. Mais la licence FFME couvre ton assurance, donne acces aux topos officiels, et finance l'équipement des voies. Une cotisation 50 a 80 euros par an, c'est un investissement collectif."
     },
     {
       "q": "Quels sont les pires comportements en falaise ?",
-      "a": "Top 3 : grimper sous quelqu'un sans accord, laisser ses dechets, faire un bruit fort. Suivi par utilisation de drone sans autorisation, abandon de materiel use, et discussion politique virulente au pied des voies. Le bon sens couvre 95 pour cent des situations."
+      "a": "Top 3 : grimper sous quelqu'un sans accord, laisser ses déchets, faire un bruit fort. Suivi par utilisation de drone sans autorisation, abandon de matériel use, et discussion politique virulente au pied des voies. Le bon sens couvre 95 pour cent des situations."
     }
   ],
-  "cover_alt": "Cinq grimpeurs assis au pied d'une falaise calcaire, sacs au sol bien ranges, casques sur la tete, discussion calme avant le depart d'une cordee",
+  "cover_alt": "Cinq grimpeurs assis au pied d'une falaise calcaire, sacs au sol bien ranges, casques sur la tête, discussion calme avant le depart d'une cordee",
   "internal_links": [
     {
       "slug": "apprendre-escalade-debutant",
       "anchor": "apprendre l'escalade en 2026",
-      "context": "Pilier general"
+      "context": "Pilier général"
     },
     {
       "slug": "sortie-rocher-debutant",

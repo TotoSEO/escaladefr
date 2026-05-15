@@ -5,7 +5,7 @@
   "numero": 138,
   "title": "Premiers secours en escalade, les gestes qui sauvent",
   "h1": "Premiers secours en escalade, les gestes essentiels au pied de la falaise",
-  "description": "Premiers secours en escalade, les gestes essentiels en falaise : bilan victime, position d'attente, contrôle saignement et préparation à l'arrivée des...",
+  "description": "Premiers secours en escalade, les gestes essentiels en falaise : bilan victime, position d'attente, contrôle saignement et arrivée des secours.",
   "chapo": "Au pied d'une falaise, à dix minutes de marche du parking, tu n'as pas un kiné et un médecin sous la main. Tu as toi, ton partenaire, ta trousse, ton téléphone. Cet article récapitule les gestes essentiels : bilan rapide du blessé, position d'attente, contrôle des saignements et préparation à l'arrivée des secours. Le but n'est pas de te transformer en médecin urgentiste, mais de gagner les minutes qui comptent.",
   "takeaways": [
     "Sécurise toujours la zone avant de toucher la victime, sinon tu deviens la deuxième victime.",
@@ -158,7 +158,7 @@
     },
     {
       "type": "p",
-      "html": "Si <a href=\"/blog/helitreuillage-evacuation\">l'hélitreuillage par hélicoptère</a> est nécessaire, tu repères une zone dégagée d'au moins quinze mètres de diamètre, à l'écart de la falaise, pour permettre le posé ou le treuillage. Tu fais signe à l'hélico les bras en V, jamais les bras croisés qui signifient au contraire pas besoin d'aide."
+      "html": "Si <a href=\"/blog/helitreuillage-evacuation\">une évacuation par treuillage hélicoptère du PGHM</a> est nécessaire, tu repères une zone dégagée d'au moins quinze mètres de diamètre, à l'écart de la falaise, pour permettre le posé ou le treuillage. Tu fais signe à l'hélico les bras en V, jamais les bras croisés qui signifient au contraire pas besoin d'aide."
     },
     {
       "type": "tip",
@@ -227,28 +227,28 @@
   "internal_links": [
     {
       "slug": "securite-escalade-regles-essentielles",
-      "anchor": "les règles essentielles de la sécurité en escalade",
-      "context": "Pilier du cocon"
+      "anchor": "le panorama de la sécurité en escalade",
+      "context": "pilier sécurité, premier lien interne"
     },
     {
       "slug": "alerter-secours-falaise",
-      "anchor": "notre procédure d'alerte aux secours en falaise",
-      "context": "Article frère du cocon"
-    },
-    {
-      "slug": "helitreuillage-evacuation",
-      "anchor": "notre fiche sur l'hélitreuillage et l'évacuation",
-      "context": "Article frère du cocon"
-    },
-    {
-      "slug": "check-list-avant-grimper",
-      "anchor": "notre check list pour préparer une sortie",
-      "context": "Article frère du cocon"
+      "anchor": "un bilan précis aux secours",
+      "context": "même cocon, transmission infos"
     },
     {
       "slug": "accidents-escalade-statistiques",
-      "anchor": "notre analyse des statistiques d'accidents en escalade",
-      "context": "Article frère du cocon"
+      "anchor": "L'analyse chiffrée des accidents en escalade",
+      "context": "même cocon, lésions vertébrales"
+    },
+    {
+      "slug": "check-list-avant-grimper",
+      "anchor": "la check-list avant de grimper",
+      "context": "même cocon, vérif trousse"
+    },
+    {
+      "slug": "helitreuillage-evacuation",
+      "anchor": "une évacuation par treuillage hélicoptère du PGHM",
+      "context": "même cocon, signalisation au pilote"
     }
   ],
   "scheduled_at": "2026-03-20T09:00:00+01:00"

@@ -172,11 +172,11 @@
     },
     {
       "type": "p",
-      "html": "La question environnementale prend aussi de l'ampleur. Plusieurs sites font l'objet de réglementations Natura 2000 ou de zones protégées qui encadrent l'équipement. Les nouvelles ouvertures se concertent désormais avec les acteurs naturalistes : protection des nicheurs en falaise, gestion des accès, limitation de la magnésie sur certains sites. Lis aussi"
+      "html": "La question environnementale prend aussi de l'ampleur. Plusieurs sites font l'objet de réglementations Natura 2000 ou de zones protégées qui encadrent l'équipement. Les nouvelles ouvertures se concertent désormais avec les acteurs naturalistes : protection des nicheurs en falaise, gestion des accès, limitation de la magnésie sur certains sites."
     },
     {
       "type": "p",
-      "html": "La nouvelle génération d'équipeurs intègre ces enjeux dès le départ. Des collectifs comme Greenspits ou les commissions sites de la FFME travaillent à un cadre commun d'équipement durable, économe en perçage, soucieux de l'intégration paysagère. C'est l'héritage que nous laisseront les Beauzile, Berhault, Petit, Clément, Laumone et Romain, héritiers <a href=\"/blog/patrick-edlinger-vie-falaise\">de la lignée Patrick Edlinger</a> et figures à part entière <a href=\"/blog/grimpeurs-grimpeuses-histoire-france\">des grimpeurs qui ont marqué l'histoire</a>."
+      "html": "La nouvelle génération d'équipeurs intègre ces enjeux dès le départ. Des collectifs comme Greenspits ou les commissions sites de la FFME travaillent à un cadre commun d'équipement durable, économe en perçage, soucieux de l'intégration paysagère. C'est l'héritage que nous laisseront les Beauzile, Berhault, Petit, Clément, Laumone et Romain, héritiers <a href=\"/blog/patrick-edlinger-vie-falaise\">de la lignée Patrick Edlinger</a> et figures à part entière de l'aventure rocheuse française."
     }
   ],
   "faq": [
@@ -205,33 +205,33 @@
   "internal_links": [
     {
       "slug": "grimpeurs-grimpeuses-histoire-france",
-      "anchor": "grimpeurs et grimpeuses qui ont marqué l'histoire",
-      "context": "pilier personnalites"
+      "anchor": "la galerie des personnalités du sport",
+      "context": "pilier personnalités, premier lien interne"
     },
     {
       "slug": "calanques-escalade-marseille",
-      "anchor": "escalade dans les Calanques",
-      "context": "site Beauzile"
-    },
-    {
-      "slug": "buoux-luberon-historique",
-      "anchor": "Buoux dans le Lubéron",
-      "context": "site Berhault"
-    },
-    {
-      "slug": "patrick-edlinger-vie-falaise",
-      "anchor": "Patrick Edlinger en falaise",
-      "context": "génération précédente"
+      "anchor": "importante des secteurs modernes des Calanques",
+      "context": "cross-cocon sites, site Beauzile"
     },
     {
       "slug": "ceuse-cathedrale-calcaire",
-      "anchor": "Céüse, cathédrale du calcaire",
-      "context": "site équipé majeur"
+      "anchor": "la cathédrale calcaire de Céüse",
+      "context": "cross-cocon sites, site Berhault"
+    },
+    {
+      "slug": "buoux-luberon-historique",
+      "anchor": "de Buoux et du Luberon",
+      "context": "cross-cocon sites, site Berhault"
     },
     {
       "slug": "conflits-foncier-acces-prive",
-      "anchor": "accès aux falaises et conflits fonciers",
-      "context": "enjeux d'équipement"
+      "anchor": "la gestion des conflits fonciers sur les accès privés",
+      "context": "cross-cocon environnement, enjeux d'équipement"
+    },
+    {
+      "slug": "patrick-edlinger-vie-falaise",
+      "anchor": "de la lignée Patrick Edlinger",
+      "context": "même cocon, génération précédente"
     }
   ],
   "scheduled_at": "2027-02-04T09:00:00+01:00"

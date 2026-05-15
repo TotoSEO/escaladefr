@@ -29,7 +29,7 @@
     },
     {
       "type": "p",
-      "html": "La <strong>vérification croisée</strong> apporte trois bénéfices indépendants. Premièrement, elle détecte les erreurs de tracé ou de montage avant qu'elles ne deviennent fatales. Deuxièmement, elle ritualise un moment de communication entre partenaires qui consolide la confiance mutuelle. Troisièmement, elle interrompt les automatismes inconscients par une action consciente, ce qui maintient le niveau d'attention pendant toute la séance. <a href=\"/blog/noeuds-escalade-utiles-guide\">La pratique sûre des nœuds</a> repose sur cette routine systématique."
+      "html": "La <strong>vérification croisée</strong> apporte trois bénéfices indépendants. Premièrement, elle détecte les erreurs de tracé ou de montage avant qu'elles ne deviennent fatales. Deuxièmement, elle ritualise un moment de communication entre partenaires qui consolide la confiance mutuelle. Troisièmement, elle interrompt les automatismes inconscients par une action consciente, ce qui maintient le niveau d'attention pendant toute la séance. La pratique sûre des nœuds repose intégralement sur cette routine systématique."
     },
     {
       "type": "h2",
@@ -114,7 +114,7 @@
     },
     {
       "type": "p",
-      "html": "Quatrième erreur, le <strong>mousqueton non vissé</strong>. La vis du mousqueton d'assurage est partiellement fermée, ce qui peut sembler suffisant à l'œil. Sous vibration ou friction, la vis se desserre progressivement, le doigt peut s'ouvrir, le système s'échappe. Le contrôle tactile, tourner la bague pour vérifier la résistance, complète le contrôle visuel."
+      "html": "Quatrième erreur, le <strong>mousqueton non vissé</strong>. La vis du mousqueton d'assurage est partiellement fermée, ce qui peut sembler suffisant à l'œil. Sous vibration ou friction, la vis se desserrer progressivement, le doigt peut s'ouvrir, le système s'échappe. Le contrôle tactile, tourner la bague pour vérifier la résistance, complète le contrôle visuel."
     },
     {
       "type": "table",
@@ -216,7 +216,7 @@
       "type": "quote",
       "text": "Mon père m'a appris la vérification croisée le premier jour où j'ai grimpé en tête. Treize ans plus tard, je le fais encore avant chaque départ, même avec lui. Cette routine n'a jamais raté un piège, elle en a évité au moins quatre. C'est l'investissement de quinze secondes le plus rentable de toute ma pratique.",
       "author": "Antoine",
-      "role": "grimpeur 8a, formé au lycée Camille Sée Colmar"
+      "role": "rédacteur escalade-france.fr"
     },
     {
       "type": "h2",
@@ -281,33 +281,33 @@
   "internal_links": [
     {
       "slug": "noeuds-escalade-utiles-guide",
-      "anchor": "pratique sûre des nœuds",
-      "context": "pilier cocon"
-    },
-    {
-      "slug": "noeud-huit-encordement",
-      "anchor": "huit s'encorde exclusivement",
-      "context": "nœud principal"
-    },
-    {
-      "slug": "check-list-avant-grimper",
-      "anchor": "check-list avant la séance",
-      "context": "routine élargie"
-    },
-    {
-      "slug": "nettoyer-relais-rappel-securite",
-      "anchor": "nettoyage de relais",
-      "context": "vérifications spécifiques"
-    },
-    {
-      "slug": "autobelay-en-salle",
-      "anchor": "pratique de l'autobelay",
-      "context": "vérification spécifique"
+      "anchor": "la grammaire des nœuds du grimpeur",
+      "context": "pilier nœuds, premier lien interne"
     },
     {
       "slug": "retenir-noeuds-escalade-methode",
-      "anchor": "retenir les nœuds",
-      "context": "compétence support"
+      "anchor": "La méthode pour retenir les nœuds d'escalade",
+      "context": "même cocon, compétence en amont"
+    },
+    {
+      "slug": "noeud-huit-encordement",
+      "anchor": "Le huit s'encorde exclusivement",
+      "context": "même cocon, encordement principal"
+    },
+    {
+      "slug": "check-list-avant-grimper",
+      "anchor": "La check-list avant la séance",
+      "context": "même cocon, routine élargie"
+    },
+    {
+      "slug": "nettoyer-relais-rappel-securite",
+      "anchor": "de nettoyage de relais",
+      "context": "même cocon, vérifications spécifiques"
+    },
+    {
+      "slug": "autobelay-en-salle",
+      "anchor": "La pratique de l'autobelay",
+      "context": "cross-cocon techniques, vérification simplifiée"
     }
   ],
   "scheduled_at": "2026-10-29T09:00:00+01:00"

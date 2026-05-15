@@ -240,33 +240,33 @@
   "internal_links": [
     {
       "slug": "securite-escalade-regles-essentielles",
-      "anchor": "notre pilier sur les règles essentielles de sécurité",
-      "context": "Pilier du cocon"
-    },
-    {
-      "slug": "check-list-avant-grimper",
-      "anchor": "notre check list complète avant de grimper",
-      "context": "Article frère du cocon"
-    },
-    {
-      "slug": "partenaire-grimpe-confiance",
-      "anchor": "notre article sur le choix d'un partenaire de grimpe",
-      "context": "Article frère du cocon"
-    },
-    {
-      "slug": "alerter-secours-falaise",
-      "anchor": "la procédure d'alerte aux secours en falaise",
-      "context": "Article frère du cocon"
-    },
-    {
-      "slug": "rappel-securite-procedure",
-      "anchor": "notre guide sur la procédure de rappel sécurisé",
-      "context": "Article frère du cocon"
+      "anchor": "les règles essentielles de sécurité en escalade",
+      "context": "pilier sécurité, premier lien interne blog"
     },
     {
       "slug": "accidents-escalade-statistiques",
-      "anchor": "notre dossier sur les statistiques d'accidents en escalade",
-      "context": "Article frère du cocon"
+      "anchor": "le bilan annuel des accidents grimpe",
+      "context": "même cocon, chutes liées prises mouillées"
+    },
+    {
+      "slug": "partenaire-grimpe-confiance",
+      "anchor": "sur un partenaire de cordée de confiance",
+      "context": "même cocon, choix de site selon saison"
+    },
+    {
+      "slug": "rappel-securite-procedure",
+      "anchor": "la procédure de descente en double",
+      "context": "même cocon, plan B météo"
+    },
+    {
+      "slug": "check-list-avant-grimper",
+      "anchor": "la check-list complète avant de grimper",
+      "context": "même cocon, sortie estivale"
+    },
+    {
+      "slug": "alerter-secours-falaise",
+      "anchor": "alerter les secours en cas d'accident",
+      "context": "même cocon, conclusion"
     }
   ],
   "scheduled_at": "2026-04-01T09:00:00+02:00"

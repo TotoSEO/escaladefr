@@ -3,7 +3,7 @@
   "cocon": "environnement",
   "type_article": "guide",
   "numero": 154,
-  "title": "Conventions départementales falaise : comprendre l'accès aux",
+  "title": "Conventions départementales falaise : comprendre l'accès",
   "h1": "Conventions départementales d'accès aux falaises, comment elles marchent",
   "description": "Conseils départementaux, FFME, COSIROC, propriétaires privés. Le guide pour comprendre qui signe quoi et pourquoi tu peux grimper sur telle falaise.",
   "chapo": "Tu arrives au pied d'une falaise, tu grimpes sans réfléchir. Derrière ce geste banal, il y a souvent une convention signée entre un Conseil départemental, la FFME et un propriétaire privé. Ces accords conditionnent l'accès, l'équipement et l'entretien. Antoine décortique le mécanisme et explique pourquoi ces papiers protègent autant les sites que les grimpeurs.",
@@ -72,7 +72,7 @@
     },
     {
       "type": "p",
-      "html": "Une convention type définit le périmètre exact des voies autorisées. Elle peut exclure certaines zones, fixer des périodes de fermeture, imposer des restrictions saisonnières liées à <a href=\"/blog/nidification-falaise-arret\">la nidification des oiseaux et aux arrêts de site associés</a>. Sur les falaises avec couple de faucon pèlerin, les arrêtés de biotope croisent souvent la convention pour interdire l'accès du 1er février au 30 juin. Ces restrictions ne sont pas négociables et leur violation peut entraîner la dénonciation de la convention par le propriétaire."
+      "html": "Une convention type définit le périmètre exact des voies autorisées. Elle peut exclure certaines zones, fixer des périodes de fermeture, imposer des restrictions saisonnières liées à <a href=\"/blog/nidification-falaise-arret\">la nidification des oiseaux et aux arrêtés préfectoraux associés</a>. Sur les falaises avec couple de faucon pèlerin, les arrêtés de biotope croisent souvent la convention pour interdire l'accès du 1er février au 30 juin. Ces restrictions ne sont pas négociables et leur violation peut entraîner la dénonciation de la convention par le propriétaire."
     },
     {
       "type": "p",
@@ -122,7 +122,7 @@
     },
     {
       "type": "p",
-      "html": "La survie des conventions repose sur la confiance entre signataires. Quand un grimpeur respecte les règles affichées, garde un parking propre, salue les riverains, ramasse un déchet qui n'est pas le sien, il maintient cette confiance. Sur les sites les plus sensibles, <a href=\"/blog/parc-national-escalade-regles\">la réglementation des parcs nationaux</a> ajoutent une couche supplémentaire d'exigences à connaître avant la sortie. À l'inverse, chaque comportement déplacé fait remonter une plainte au propriétaire et fragilise l'ensemble. La logique est collective, pas individuelle."
+      "html": "La survie des conventions repose sur la confiance entre signataires. Quand un grimpeur respecte les règles affichées, garde un parking propre, salue les riverains, ramasse un déchet qui n'est pas le sien, il maintient cette confiance. Sur les sites les plus sensibles, <a href=\"/blog/parc-national-escalade-regles\">la réglementation des parcs nationaux</a> ajoute une couche supplémentaire d'exigences à connaître avant la sortie. À l'inverse, chaque comportement déplacé fait remonter une plainte au propriétaire et fragilise l'ensemble. La logique est collective, pas individuelle."
     },
     {
       "type": "p",
@@ -130,7 +130,7 @@
     },
     {
       "type": "p",
-      "html": "Trois angles complémentaires sur le même sujet de fond."
+      "html": "La convention départementale n'est pas un papier administratif anodin. C'est l'outil qui garantit la pérennité de la pratique sur la majorité des falaises françaises. Comprendre son fonctionnement, c'est mesurer la fragilité collective d'un accès qu'on tient trop souvent pour acquis."
     }
   ],
   "faq": [
@@ -158,29 +158,29 @@
   "cover_alt": "Pied d'une falaise calcaire avec panneau d'information FFME et Conseil départemental, sentier balisé en arrière-plan, début de matinée ensoleillée sur la roche grise",
   "internal_links": [
     {
-      "slug": "conflits-foncier-acces-prive",
-      "anchor": "gestion des conflits sur les terrains privés",
-      "context": "lien avec litiges"
-    },
-    {
-      "slug": "parking-respect-locaux",
-      "anchor": "enjeu du parking et du respect des locaux",
-      "context": "complément quotidien"
-    },
-    {
       "slug": "grimper-respect-sites-faune",
-      "anchor": "vue d'ensemble du respect des sites naturels",
-      "context": "pilier cocon"
+      "anchor": "grimpe respectueuse des sites et de la faune",
+      "context": "pilier environnement, premier lien interne"
     },
     {
       "slug": "nidification-falaise-arret",
-      "anchor": "périodes de nidification et fermetures",
-      "context": "biotope"
+      "anchor": "la nidification des oiseaux et aux arrêtés préfectoraux associés",
+      "context": "restrictions saisonnières, même cocon"
+    },
+    {
+      "slug": "parking-respect-locaux",
+      "anchor": "le stationnement et le respect des locaux et riverains",
+      "context": "ENS et chartes locales, même cocon"
+    },
+    {
+      "slug": "conflits-foncier-acces-prive",
+      "anchor": "de la gestion des conflits fonciers sur les accès privés",
+      "context": "continuité juridique, même cocon"
     },
     {
       "slug": "parc-national-escalade-regles",
-      "anchor": "règles spécifiques des parcs nationaux",
-      "context": "cas particulier"
+      "anchor": "la réglementation des parcs nationaux",
+      "context": "couche supplémentaire d'exigences, même cocon"
     }
   ],
   "scheduled_at": "2027-04-17T09:00:00+02:00"

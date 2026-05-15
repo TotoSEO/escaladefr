@@ -25,7 +25,7 @@
     },
     {
       "type": "p",
-      "html": "Les comités départementaux de la <strong>FFME</strong> passent une part énorme de leur énergie à gérer les histoires de parking. Pas l'équipement, pas la formation, pas les compétitions. Le parking. Plusieurs sites d'escalade majeurs en France ont vu leur accès suspendu après une cascade d'incidents de stationnement répétés, comme le rappelle <a href=\"/blog/grimper-respect-sites-faune\">la démarche de grimpe respectueuse des sites et de la faune</a>. Antoine connaît au moins trois falaises qui ont fermé dans le Grand Est pour cette raison, des cas typiques traités dans <a href=\"/blog/conflits-foncier-acces-prive\">les conflits fonciers sur les accès privés</a>."
+      "html": "Les comités départementaux de la <strong>FFME</strong> passent une part énorme de leur énergie à gérer les histoires de parking. Pas l'équipement, pas la formation, pas les compétitions. Le parking. Plusieurs sites d'escalade majeurs en France ont vu leur accès suspendu après une cascade d'incidents de stationnement répétés, comme le rappelle <a href=\"/blog/grimper-respect-sites-faune\">la démarche de grimpe respectueuse des sites et de la faune</a>. Antoine connaît au moins trois falaises qui ont fermé dans le Grand Est pour cette raison, des cas typiques traités dans <a href=\"/blog/conflits-foncier-acces-prive\">les contentieux fonciers qui menacent les accès aux falaises</a>."
     },
     {
       "type": "p",
@@ -126,7 +126,7 @@
     },
     {
       "type": "p",
-      "html": "Plusieurs sites ont <a href=\"/blog/dechets-bivouac-falaise\">instauré des zones de bivouac</a> autorisées en lien avec la commune. Le campement organisé évite la dispersion sauvage et concentre les nuisances dans une zone gérée. Antoine a profité de la zone de van life d'<strong>Aiglun dans les Préalpes</strong> l'an dernier, parking en terre battue, douche payante, poubelles régulières. Le confort change tout, et la pratique s'inscrit dans un cadre légitime."
+      "html": "Plusieurs sites disposent désormais de <a href=\"/blog/dechets-bivouac-falaise\">zones de bivouac dédiées au pied des falaises</a> en lien avec la commune. Le campement organisé évite la dispersion sauvage et concentre les nuisances dans une zone gérée. Antoine a profité de la zone de van life d'<strong>Aiglun dans les Préalpes</strong> l'an dernier, parking en terre battue, douche payante, poubelles régulières. Le confort change tout, et la pratique s'inscrit dans un cadre légitime."
     },
     {
       "type": "h2",
@@ -142,7 +142,7 @@
     },
     {
       "type": "p",
-      "html": "Le parking est un sous-cas concret d'un enjeu plus large d'inscription locale de la pratique."
+      "html": "Le parking est un sous-cas concret d'un enjeu plus large : la façon dont la pratique s'inscrit dans un tissu local qu'elle n'a pas créé. Le grimpeur qui en prend conscience grimpe mieux et plus longtemps, parce qu'il préserve sans effort ce qui lui permet de revenir."
     }
   ],
   "faq": [
@@ -170,24 +170,24 @@
   "cover_alt": "Parking de falaise en zone rurale, voitures garées en bord de route étroite, falaise calcaire en arrière-plan, panneau d'information du site en premier plan, fin de matinée d'été",
   "internal_links": [
     {
+      "slug": "grimper-respect-sites-faune",
+      "anchor": "la démarche de grimpe respectueuse des sites et de la faune",
+      "context": "pilier environnement, premier lien interne"
+    },
+    {
       "slug": "conflits-foncier-acces-prive",
-      "anchor": "détail des conflits fonciers",
-      "context": "cadre général"
+      "anchor": "les contentieux fonciers qui menacent les accès aux falaises",
+      "context": "cas typiques, même cocon"
     },
     {
       "slug": "conventions-departementales-falaise",
-      "anchor": "fonctionnement des conventions départementales",
-      "context": "cadre juridique"
-    },
-    {
-      "slug": "grimper-respect-sites-faune",
-      "anchor": "vue d'ensemble du respect des sites",
-      "context": "pilier environnement"
+      "anchor": "les conventions départementales d'accès aux falaises",
+      "context": "engagements communaux, même cocon"
     },
     {
       "slug": "dechets-bivouac-falaise",
-      "anchor": "gestion des déchets au bivouac",
-      "context": "complément bivouac"
+      "anchor": "zones de bivouac dédiées au pied des falaises",
+      "context": "alternative organisée au bivouac voiture, même cocon"
     }
   ],
   "scheduled_at": "2027-04-22T09:00:00+02:00"

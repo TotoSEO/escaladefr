@@ -237,28 +237,28 @@
   "internal_links": [
     {
       "slug": "noeuds-escalade-utiles-guide",
-      "anchor": "panorama des nœuds utiles",
-      "context": "pilier cocon"
+      "anchor": "les nouages clés en escalade",
+      "context": "pilier nœuds, premier lien interne"
     },
     {
       "slug": "noeud-huit-encordement",
-      "anchor": "huit en double utilisé pour l'encordement",
-      "context": "comparaison nœud principal"
+      "anchor": "au huit en double utilisé pour l'encordement",
+      "context": "même cocon, comparaison nœud principal"
     },
     {
       "slug": "verifier-noeud-partenaire",
-      "anchor": "vérification croisée du relais",
-      "context": "sécurité relais"
+      "anchor": "La vérification croisée du relais",
+      "context": "même cocon, sécurité mousqueton"
     },
     {
       "slug": "noeud-mule-bloquant-corde",
-      "anchor": "nœud de mule pour bloquer la corde",
-      "context": "manœuvre secours"
+      "anchor": "avec un nœud de mule pour bloquer la corde",
+      "context": "même cocon, manœuvre secours"
     },
     {
       "slug": "noeud-pecheur-double-rappel",
-      "anchor": "double-pêcheur ou un nœud en huit jonction",
-      "context": "alternative jonction cordes"
+      "anchor": "un double-pêcheur ou un nœud en huit jonction",
+      "context": "même cocon, alternative jonction cordes"
     }
   ],
   "scheduled_at": "2026-10-03T09:00:00+02:00"

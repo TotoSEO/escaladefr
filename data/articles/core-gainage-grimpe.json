@@ -168,7 +168,7 @@
     },
     {
       "type": "p",
-      "html": "Je faisais 60 crunchs par séance en pensant muscler mon core. Erreur. Le crunch travaille le grand droit visible, pas le transverse profond. J'avais des abdos jolis mais pas de transfert vers la grimpe. Le déclic est venu quand un préparateur physique m'a montré le hollow body, dans le cadre d'une <a href=\"/blog/preparer-corps-tete-grimpe\">préparation physique et mentale du grimpeur</a> globale. Trois mois plus tard, mes voies déversées sont devenues plus fluides."
+      "html": "Je faisais 60 crunchs par séance en pensant muscler mon core. Erreur. Le crunch travaille le grand droit visible, pas le transverse profond. J'avais des abdos jolis mais pas de transfert vers la grimpe. Le déclic est venu quand un préparateur physique m'a montré le hollow body, dans le cadre d'une préparation physique globale. Trois mois plus tard, mes voies déversées sont devenues plus fluides."
     },
     {
       "type": "quote",
@@ -211,28 +211,28 @@
   "internal_links": [
     {
       "slug": "preparer-corps-tete-grimpe",
-      "anchor": "la préparation physique et mentale du grimpeur",
-      "context": "Pilier préparation"
-    },
-    {
-      "slug": "musculation-grimpeur-base",
-      "anchor": "entraînement musculation",
-      "context": "Force complémentaire"
+      "anchor": "préparation physique et mentale du grimpeur",
+      "context": "pilier préparation, premier lien interne"
     },
     {
       "slug": "endurance-continuite-grimpe",
       "anchor": "travailler l'endurance et la continuité",
-      "context": "Endurance"
+      "context": "même cocon, complément capacité"
     },
     {
       "slug": "grip-strength-poutre-pan",
       "anchor": "travailler les doigts à la poutre",
-      "context": "Force doigts"
+      "context": "même cocon, complément force doigts"
     },
     {
       "slug": "echauffement-grimpe-routine",
-      "anchor": "routine d'échauffement avant la grimpe",
-      "context": "Préparation séance"
+      "anchor": "une routine d'échauffement en grimpe",
+      "context": "même cocon, préalable séance"
+    },
+    {
+      "slug": "musculation-grimpeur-base",
+      "anchor": "séance de musculation pour grimpeur",
+      "context": "même cocon, intégration programme"
     }
   ],
   "scheduled_at": "2027-02-13T09:00:00+01:00"

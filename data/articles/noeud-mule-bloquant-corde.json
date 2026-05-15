@@ -29,7 +29,7 @@
     },
     {
       "type": "p",
-      "html": "Cette compétence intervient dans plusieurs configurations concrètes. La manipulation au relais en grande voie, le passage de matériel entre partenaires, l'assistance à un grimpeur bloqué dans une voie, la gestion d'un secours léger. Parmi <a href=\"/blog/noeuds-escalade-utiles-guide\">le catalogue des nouages techniques</a>, la mule entre dans la catégorie des nœuds avancés, enseignés au-delà de l'initiation pour les pratiquants engagés en autonomie."
+      "html": "Cette compétence intervient dans plusieurs configurations concrètes. La manipulation au relais en grande voie, le passage de matériel entre partenaires, l'assistance à un grimpeur bloqué dans une voie, la gestion d'un secours léger. La mule entre dans la catégorie des nœuds avancés, enseignés au-delà de l'initiation pour les pratiquants engagés en autonomie."
     },
     {
       "type": "h2",
@@ -192,7 +192,7 @@
       "type": "quote",
       "text": "La mule, c'est le nœud qui te rend autonome en grande voie. Sans elle, tu restes prisonnier de la corde tendue, mains crispées. Avec elle, tu gagnes une vraie liberté de manipulation au relais. Ça change tout sur les longues courses.",
       "author": "Antoine",
-      "role": "grimpeur 8a, formé au lycée Camille Sée Colmar"
+      "role": "rédacteur escalade-france.fr"
     },
     {
       "type": "h2",
@@ -237,28 +237,28 @@
   "internal_links": [
     {
       "slug": "noeuds-escalade-utiles-guide",
-      "anchor": "panorama des nœuds utiles",
-      "context": "pilier cocon"
-    },
-    {
-      "slug": "noeud-italien-improvise",
-      "anchor": "nœud italien",
-      "context": "système support"
-    },
-    {
-      "slug": "verifier-noeud-partenaire",
-      "anchor": "vérification systématique du tracé",
-      "context": "sécurité"
-    },
-    {
-      "slug": "retenir-noeuds-escalade-methode",
-      "anchor": "méthode pour retenir les nœuds",
-      "context": "apprentissage"
+      "anchor": "les fiches nœuds pour grimper en sécurité",
+      "context": "pilier nœuds, premier lien interne"
     },
     {
       "slug": "noeud-demi-cabestan-assurance",
-      "anchor": "demi-cabestan",
-      "context": "nœud apparenté"
+      "anchor": "un système d'assurage au demi-cabestan",
+      "context": "même cocon, support du nœud"
+    },
+    {
+      "slug": "noeud-italien-improvise",
+      "anchor": "un nœud italien improvisé en assurage",
+      "context": "même cocon, système d'assurage cible"
+    },
+    {
+      "slug": "verifier-noeud-partenaire",
+      "anchor": "La vérification systématique du tracé",
+      "context": "même cocon, contrôle de la queue de vache"
+    },
+    {
+      "slug": "retenir-noeuds-escalade-methode",
+      "anchor": "La méthode pour retenir les nœuds",
+      "context": "même cocon, entretien de la compétence"
     }
   ],
   "scheduled_at": "2026-11-03T09:00:00+01:00"

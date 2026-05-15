@@ -42,7 +42,7 @@
     },
     {
       "type": "p",
-      "html": "Allain ne se contente pas de grimper. Il invente. En 1947, il dépose le brevet du PA, premier chausson d'escalade à semelle adhérente, qui révolutionne la pratique. Il publie aussi des manuels, dont Alpinisme et compétition, qui théorisent la transposition des techniques alpines en milieu d'entraînement. Les Bleausards forgent une culture spécifique : circuits balisés en couleurs par René Ferlet à partir de 1947, ascensions répétées du même bloc, esthétique du mouvement. Ce qui se passe à Bleau va influencer toute l'escalade européenne."
+      "html": "Allain ne se contente pas de grimper. Il invente. En 1947, il dépose le brevet du <a href=\"https://fr.wikipedia.org/wiki/Pierre_Allain\" rel=\"nofollow noopener\" target=\"_blank\">PA, premier chausson d'escalade à semelle adhérente</a>, qui révolutionne la pratique. Il publie aussi des manuels, dont Alpinisme et compétition, qui théorisent la transposition des techniques alpines en milieu d'entraînement. Les Bleausards forgent une culture spécifique : circuits balisés en couleurs par René Ferlet à partir de 1947, ascensions répétées du même bloc, esthétique du mouvement. Ce qui se passe à Bleau va influencer toute l'escalade européenne."
     },
     {
       "type": "p",
@@ -127,7 +127,7 @@
     },
     {
       "type": "p",
-      "html": "Paris 2024 confirme l'élan : <a href=\"/blog/escalade-jeux-olympiques-paris\">l'escalade aux JO de Paris</a> sépare la vitesse du combiné bloc-difficulté. Bassa Mawem se classe en finale de vitesse. Côté féminin, Oriane Bertone porte les espoirs français en bloc-difficulté. La discipline gagne en visibilité, le grand public C'est l'effet Edlinger de 1982, mais cette fois la salle est le récepteur principal."
+      "html": "Paris 2024 confirme l'élan : <a href=\"/blog/escalade-jeux-olympiques-paris\">l'escalade aux JO de Paris</a> sépare la vitesse du combiné bloc-difficulté. Bassa Mawem se classe en finale de vitesse. Côté féminin, Oriane Bertone porte les espoirs français en bloc-difficulté. La discipline gagne en visibilité, le grand public français suit avec passion. C'est l'effet Edlinger de 1982, mais cette fois la salle est le récepteur principal."
     },
     {
       "type": "h2",
@@ -139,7 +139,7 @@
     },
     {
       "type": "p",
-      "html": "Bleau a aussi inventé la sociabilité grimpe : se retrouver le dimanche, partager les pads, faire la pause pique-nique sur les rochers. Ce modèle a essaimé partout en France, <a href=\"/blog/grimpeurs-vivent-cailloux\">dans les communautés de grimpeurs locales</a>. <a href=\"/blog/bleau-circuits-debutant\">Les circuits débutants</a> initient encore chaque année des milliers de jeunes à la lecture du rocher. Le passé continue à former l'avenir."
+      "html": "Bleau a aussi inventé la sociabilité grimpe : se retrouver le dimanche, partager les pads, faire la pause pique-nique sur les rochers. Ce modèle a essaimé partout en France, <a href=\"/blog/grimpeurs-vivent-cailloux\">dans les communautés de grimpeurs locales</a>. <a href=\"/blog/bleau-circuits-debutant\">Les premiers circuits balisés pour découvrir Bleau</a> initient encore chaque année des milliers de jeunes à la lecture du rocher. Le passé continue à former l'avenir."
     },
     {
       "type": "h2",
@@ -151,7 +151,7 @@
     },
     {
       "type": "p",
-      "html": "Cette mutation interroge les pratiquants engagés. Les anciens, dans la tradition d'Edlinger ou de Destivelle, voient la salle comme un entraînement vers la falaise. Les nouveaux, formés en salle, considèrent souvent la falaise comme un terrain d'aventure intimidant. Les deux mondes communiquent, parfois mal. <a href=\"/blog/films-escalade-meilleurs\">Les films d'escalade contemporains</a> et <a href=\"/blog/livres-escalade-references\">les livres de référence</a> tentent de garder vivante cette mémoire commune, indispensable à la culture de la discipline."
+      "html": "Cette mutation interroge les pratiquants engagés. Les anciens, dans la tradition d'Edlinger ou de Destivelle, voient la salle comme un entraînement vers la falaise. Les nouveaux, formés en salle, considèrent souvent la falaise comme un terrain d'aventure intimidant. Les deux mondes communiquent, parfois mal. <a href=\"/blog/films-escalade-meilleurs\">Les films d'escalade contemporains</a> et <a href=\"/blog/livres-escalade-references\">la grande bibliothèque écrite de la grimpe</a> tentent de garder vivante cette mémoire commune, indispensable à la culture de la discipline."
     },
     {
       "type": "h2",
@@ -163,7 +163,7 @@
     },
     {
       "type": "p",
-      "html": "Le grand public Ces grimpeurs incarnent une génération formée principalement en salle, avec une transition tardive vers la falaise. Cette inversion historique du parcours, qui partait de la roche pour aller en salle dans les années 80 et 90, dessine peut-être l'avenir de la discipline. La grimpe française reste dynamique, sans rupture brutale entre ses époques."
+      "html": "Le grand public les suit volontiers. Ces grimpeurs incarnent une génération formée principalement en salle, avec une transition tardive vers la falaise. Cette inversion historique du parcours, qui partait de la roche pour aller en salle dans les années 80 et 90, dessine peut-être l'avenir de la discipline. La grimpe française reste dynamique, sans rupture brutale entre ses époques."
     },
     {
       "type": "tip",
@@ -202,33 +202,38 @@
   "internal_links": [
     {
       "slug": "sites-escalade-emblematiques-france",
-      "anchor": "sites emblématiques français",
-      "context": "panorama des falaises"
-    },
-    {
-      "slug": "histoire-bleau-bloc",
-      "anchor": "Fontainebleau reste le centre symbolique",
-      "context": "racines du bloc"
+      "anchor": "Les sites emblématiques français",
+      "context": "hub sites, panorama des falaises (cross-cocon hub-to-hub)"
     },
     {
       "slug": "escalade-jeux-olympiques-paris",
       "anchor": "l'escalade aux JO de Paris",
-      "context": "olympisation"
+      "context": "même cocon, olympisation"
     },
     {
-      "slug": "films-escalade-meilleurs",
-      "anchor": "films d'escalade contemporains",
-      "context": "transmission culturelle"
-    },
-    {
-      "slug": "livres-escalade-references",
-      "anchor": "livres de référence",
-      "context": "mémoire écrite"
+      "slug": "histoire-bleau-bloc",
+      "anchor": "Fontainebleau, centre symbolique du bloc français",
+      "context": "même cocon, racines du bloc"
     },
     {
       "slug": "grimpeurs-vivent-cailloux",
-      "anchor": "communautés de grimpeurs locales",
-      "context": "sociabilité"
+      "anchor": "dans les communautés de grimpeurs locales",
+      "context": "même cocon, sociabilité bleausarde"
+    },
+    {
+      "slug": "bleau-circuits-debutant",
+      "anchor": "Les premiers circuits balisés pour découvrir Bleau",
+      "context": "cross-cocon sites, transmission Bleau"
+    },
+    {
+      "slug": "films-escalade-meilleurs",
+      "anchor": "Les films d'escalade contemporains",
+      "context": "même cocon, transmission culturelle"
+    },
+    {
+      "slug": "livres-escalade-references",
+      "anchor": "la grande bibliothèque écrite de la grimpe",
+      "context": "même cocon, mémoire écrite"
     }
   ],
   "scheduled_at": "2026-05-23T09:00:00+02:00"

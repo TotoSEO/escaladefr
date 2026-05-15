@@ -3,16 +3,16 @@
   "cocon": "techniques",
   "type_article": "guide",
   "numero": 24,
-  "title": "Bloc en escalade : techniques de base au-dela de la force",
+  "title": "Bloc en escalade : techniques de base au-delà de la force",
   "h1": "Le bloc en escalade, techniques fondamentales pour grimper plus que la force",
-  "description": "Bloc en escalade : techniques de base, lecture, gestion de la chute, drapeau, talon, vocabulaire, materiel, progression en salle et en exterieur a...",
-  "chapo": "Le bloc, c'est l'escalade sans corde sur des problemes courts de 3 a 5 metres. La force brute aide, c'est sur, mais les techniques de placement font la difference reelle entre un grimpeur 6a en bloc et un grimpeur 7a. Cette page detaille les techniques fondamentales du bloc, le vocabulaire, la lecture, la chute, et le passage de la salle a Fontainebleau. A lire si tu veux progresser sans devenir plus fort.",
+  "description": "Bloc en escalade : techniques de base, lecture, gestion de la chute, drapeau, talon, vocabulaire, matériel, progression en salle et en extérieur.",
+  "chapo": "Le bloc, c'est l'escalade sans corde sur des problèmes courts de 3 à 5 mètres. La force brute aide, c'est sûr, mais les techniques de placement font la différence réelle entre un grimpeur 6a en bloc et un grimpeur 7a. Cette page détaille les techniques fondamentales du bloc, le vocabulaire, la lecture, la chute, et le passage de la salle à Fontainebleau. À lire si tu veux progresser sans devenir plus fort.",
   "takeaways": [
     "Le bloc se gagne sur la lecture et le placement, pas sur la force pure.",
-    "Maitrise les techniques de base : drapeau, talon, lolotte, croisee avant de chercher la force.",
+    "Maîtrise les techniques de base : drapeau, talon, lolotte, croisée avant de chercher la force.",
     "Chute toujours en pliant les jambes, jamais sur les talons rigides.",
-    "Prevois 3 a 5 essais maximum par probleme, au-dela tu acquiers de la fatigue inutile.",
-    "Passe a Fontainebleau au moins une fois par an pour comprendre le bloc original."
+    "Prévois 3 à 5 essais maximum par problème, au-delà tu accumules de la fatigue inutile.",
+    "Passe à Fontainebleau au moins une fois par an pour comprendre le bloc original."
   ],
   "body_blocks": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "type": "p",
-      "html": "Le bloc (en anglais bouldering) est une discipline ou tu grimpes des problemes courts de 3 a 5 metres maximum, sans corde, avec un tapis epais pour amortir la chute. En salle, le bloc utilise des prises colorees, en exterieur il se pratique sur des rochers naturels avec un crash-pad transportable. Les problemes durent entre 4 et 15 mouvements, avec une intensite tres elevee."
+      "html": "Le bloc (en anglais bouldering) est une discipline ou tu grimpes des problèmes courts de 3 a 5 mètres maximum, sans corde, avec un tapis epais pour amortir la chute. En salle, le bloc utilise des prises colorees, en extérieur il se pratique sur des rochers naturels avec un crash-pad transportable. Les problèmes durent entre 4 et 15 mouvements, avec une intensite très elevee."
     },
     {
       "type": "p",
@@ -33,7 +33,7 @@
     },
     {
       "type": "p",
-      "html": "Les cotations en bloc suivent deux systemes en France. Le systeme francais classique (de 1 a 9a) est utilise a Fontainebleau et en falaise. Le systeme V (Vermin) ou Fontainebleau (4, 5, 6a, 6b, 6c, 7a, 7b, 7c, 8a, 8b) est aussi present. Les correspondances varient un peu, voir le tableau ci-dessous. Pour un debutant, vise des problemes 4 a 5+ en salle, qui correspondent a des V0 a V2."
+      "html": "Les cotations en bloc suivent deux systemes en France. Le systeme francais classique (de 1 a 9a) est utilise a Fontainebleau et en falaise. Le systeme V (Vermin) ou Fontainebleau (4, 5, 6a, 6b, 6c, 7a, 7b, 7c, 8a, 8b) est aussi present. Les correspondances varient un peu, voir le tableau ci-dessous. Pour un débutant, vise des problèmes 4 a 5+ en salle, qui correspondent a des V0 a V2."
     },
     {
       "type": "table",
@@ -47,12 +47,12 @@
         [
           "3, 4",
           "V0 (jaune ou vert)",
-          "Decouverte, mouvements simples"
+          "Découverte, mouvements simples"
         ],
         [
           "5, 5+, 6a",
           "V1, V2 (bleu)",
-          "Debutant confirme, bases techniques"
+          "Débutant confirme, bases techniques"
         ],
         [
           "6b, 6c",
@@ -62,18 +62,18 @@
         [
           "7a, 7a+",
           "V6, V7 (noir)",
-          "Maitrise des techniques avancees"
+          "Maîtrise des techniques avancees"
         ],
         [
           "7b, 7c et plus",
           "V8, V9, V10 (violet)",
-          "Niveau expert et competition"
+          "Niveau expert et compétition"
         ]
       ]
     },
     {
       "type": "p",
-      "html": "En salle, les couleurs des prises indiquent la cotation. La logique change selon l'enseigne, mais en general jaune et vert pour facile, bleu intermediaire, rouge dur, noir et violet expert. Renseigne-toi a l'accueil. Climb Up et Arkose ont leur propre code couleur. C'est important parce qu'un bloc 6a paraitra peut-etre plus facile en salle a Lyon qu'a Paris, simplement parce que les ouvreurs cotent differemment."
+      "html": "En salle, les couleurs des prises indiquent la cotation. La logique change selon l'enseigne, mais en général jaune et vert pour facile, bleu intermediaire, rouge dur, noir et violet expert. Renseigne-toi a l'accueil. Climb Up et Arkose ont leur propre code couleur. C'est important parce qu'un bloc 6a paraitra peut-être plus facile en salle a Lyon qu'a Paris, simplement parce que les ouvreurs cotent différemment."
     },
     {
       "type": "h2",
@@ -82,7 +82,7 @@
     {
       "type": "list",
       "variant": "checks",
-      "title": "Dix mots a maitriser pour parler bloc",
+      "title": "Dix mots a maîtriser pour parler bloc",
       "items": [
         {
           "title": "Bac",
@@ -136,11 +136,11 @@
     },
     {
       "type": "p",
-      "html": "Deuxieme technique : le drapeau. Tu poses une jambe en oblique pour equilibrer le corps quand tu n'as qu'un seul pied porteur. Le drapeau interieur (jambe sous le corps) et le drapeau exterieur (jambe sur le cote oppose) sont les deux variantes. Cette technique permet d'eviter l'effet de portail (<a href=\"/blog/rotation-pivot-escalade\">rotation parasite des hanches en escalade</a> incontrôlée du corps). Indispensable des le bloc 5+."
+      "html": "Deuxieme technique : le drapeau. Tu poses une jambe en oblique pour equilibrer le corps quand tu n'as qu'un seul pied porteur. Le drapeau intérieur (jambe sous le corps) et le drapeau extérieur (jambe sur le cote oppose) sont les deux variantes. Cette technique permet d'éviter l'effet de portail (<a href=\"/blog/rotation-pivot-escalade\">rotation parasite des hanches en escalade</a> incontrôlée du corps). Indispensable des le bloc 5+."
     },
     {
       "type": "p",
-      "html": "Troisieme technique : la lolotte. Rotation de hanche pour coller le bassin au mur en devers. Le pied opposite, la hanche tourne, le bras suit. Cette technique permet de grimper en devers sans force pure, juste en utilisant la geometrie. La grammaire des hanches détaille la <a href=\"/blog/poser-pieds-escalade-placement\">lolotte et ses variantes de placement</a>."
+      "html": "Troisieme technique : la lolotte. Rotation de hanche pour coller le bassin au mur en devers. Le pied opposé, la hanche tourne, le bras suit. Cette technique permet de grimper en devers sans force pure, juste en utilisant la geometrie. La grammaire des hanches détaille la <a href=\"/blog/poser-pieds-escalade-placement\">lolotte et ses variantes de placement</a>."
     },
     {
       "type": "h2",
@@ -160,34 +160,34 @@
     },
     {
       "type": "p",
-      "html": "En bloc, la chute est <strong>frequente et incontournable</strong>. Tu tombes a chaque essai rate, parfois 10 fois sur un meme probleme. La cle, <a href=\"/blog/chuter-en-grimpe-apprentissage\">c'est de chuter</a> sans se blesser. <strong>Plie les jambes en arrivant au sol, jamais en jambes droites</strong>. Les fesses absorbent mieux que les talons. Roule en arriere si la chute est haute. Sur Fontainebleau, pre"
+      "html": "En bloc, la chute est <strong>frequente et incontournable</strong>. Tu tombes a chaque essai rate, parfois 10 fois sur un même probleme. La cle, <a href=\"/blog/chuter-en-grimpe-apprentissage\">c'est de chuter</a> sans se blesser. <strong>Plie les jambes en arrivant au sol, jamais en jambes droites</strong>. Les fesses absorbent mieux que les talons. Roule en arriere si la chute est haute. Sur Fontainebleau, pre"
     },
     {
       "type": "tip",
       "title": "L'astuce du parage en bloc",
-      "body": "Sur les blocs hauts (au-dela de 3 metres) ou en devers, demande a un copain de te parer. Il se met derriere toi, mains pretes, et il guide ta chute vers l'arriere pour eviter que tu te retournes ou te coupes a contre. Le parage transforme un bloc engageant en bloc accessible. C'est obligatoire en falaise sur les blocs en surplomb.",
+      "body": "Sur les blocs hauts (au-dela de 3 mètres) ou en devers, demande a un copain de te parer. Il se met derriere toi, mains pretes, et il guide ta chute vers l'arriere pour éviter que tu te retournes ou te coupes a contre. Le parage transforme un bloc engageant en bloc accessible. C'est obligatoire en falaise sur les blocs en surplomb.",
       "tone": "astuce"
     },
     {
       "type": "p",
-      "html": "L'apprentissage de la chute est traite dans la chute. Le principe est le meme en bloc qu'en voie, mais la frequence est plus elevee. Tu apprends a tomber comme tu apprends a saisir une prise. Pas de chance, c'est une competence en soi. Travaille-la des le debut."
+      "html": "L'apprentissage de la chute est traite dans la chute. Le principe est le même en bloc qu'en voie, mais la frequence est plus elevee. Tu apprends a tomber comme tu apprends a saisir une prise. Pas de chance, c'est une compétence en soi. Travaille-la des le début."
     },
     {
       "type": "h2",
-      "text": "Le materiel pour le bloc"
+      "text": "Le matériel pour le bloc"
     },
     {
       "type": "p",
-      "html": "Le bloc demande peu de materiel par rapport a la voie. <strong>Chaussons, magnesie, brossette, crash-pad pour l'exterieur</strong>. Pas de baudrier, pas de corde, pas de degaines. C'est l'une des raisons pour lesquelles le bloc est accessible : tu peux pratiquer avec moins de 200 euros d'equipement total. Pour la salle, encore moins, parce que la salle fournit les tapis."
+      "html": "Le bloc demande peu de matériel par rapport a la voie. <strong>Chaussons, magnesie, brossette, crash-pad pour l'extérieur</strong>. Pas de baudrier, pas de corde, pas de degaines. C'est l'une des raisons pour lesquelles le bloc est accessible : tu peux pratiquer avec moins de 200 euros d'équipement total. Pour la salle, encore moins, parce que la salle fournit les tapis."
     },
     {
       "type": "list",
       "variant": "checks",
-      "title": "Materiel de base pour le bloc",
+      "title": "Matériel de base pour le bloc",
       "items": [
         {
           "title": "Chaussons",
-          "body": "Des chaussons souples ou semi-cambres. La Sportiva Solution, Five Ten Hiangle, Tenaya Mastia sont des modeles de reference. Tu choisis selon le style."
+          "body": "Des chaussons souples ou semi-cambres. La Sportiva Solution, Five Ten Hiangle, Tenaya Mastia sont des modèles de reference. Tu choisis selon le style."
         },
         {
           "title": "Magnesie",
@@ -195,11 +195,11 @@
         },
         {
           "title": "Brossette",
-          "body": "Pour nettoyer les prises grasses ou les sloper sales. En salle, il y en a souvent disponibles. En exterieur, prends la tienne."
+          "body": "Pour nettoyer les prises grasses ou les sloper sales. En salle, il y en a souvent disponibles. En extérieur, prends la tienne."
         },
         {
           "title": "Crash-pad",
-          "body": "Pour l'exterieur. Compte 200 a 500 euros pour un bon crash-pad Mad Rock ou Petzl. Indispensable pour Fontainebleau."
+          "body": "Pour l'extérieur. Compte 200 a 500 euros pour un bon crash-pad Mad Rock ou Petzl. Indispensable pour Fontainebleau."
         },
         {
           "title": "Tee-shirt long et short",
@@ -213,11 +213,11 @@
     },
     {
       "type": "p",
-      "html": "<strong>Fontainebleau, c'est la Mecque du bloc mondial</strong>. 90 minutes au sud de Paris, en foret. Le bloc s'y pratique depuis 1880, c'est le berceau de la discipline. Tu trouves des milliers de problemes dans tous les niveaux, des secteurs comme Bas Cuvier, Bois Rond, Apremont, Cuvier Rempart. La pratique en exterieur differe radicalement de la salle."
+      "html": "<strong>Fontainebleau, c'est la Mecque du bloc mondial</strong>. 90 minutes au sud de Paris, en foret. Le bloc s'y pratique depuis 1880, c'est le berceau de la discipline. Tu trouves des milliers de problèmes dans tous les niveaux, des secteurs comme Bas Cuvier, Bois Rond, Apremont, Cuvier Rempart. La pratique en extérieur différe radicalement de la salle."
     },
     {
       "type": "p",
-      "html": "La difference principale : <strong>les prises ne sont pas marquees</strong>. Tu La gomme du chausson differe : sur le gres bleausard, ca colle differemment. La chute est plus exigeante : tu te poses sur des feuilles ou des racines, pas sur un tapis epais. <a href=\"/blog/sortie-rocher-debutant\">Prevois ta premiere sortie</a> a Bleau avec un grimpeur experimente qui connait les secteurs, ou en stage avec un guide local. C'est aussi traite dans les premieres sorties rocher."
+      "html": "La différence principale : <strong>les prises ne sont pas marquees</strong>. Tu La gomme du chausson différe : sur le gres bleausard, ca colle différemment. La chute est plus exigeante : tu te poses sur des feuilles ou des racines, pas sur un tapis epais. <a href=\"/blog/sortie-rocher-debutant\">Prevois ta premiere sortie</a> a Bleau avec un grimpeur expérimenté qui connait les secteurs, ou en stage avec un guide local. C'est aussi traite dans les premieres sorties rocher."
     },
     {
       "type": "h2",
@@ -225,7 +225,7 @@
     },
     {
       "type": "p",
-      "html": "Pour <a href=\"/blog/progresser-niveau-escalade\">passer un palier de niveau en escalade</a>, varie les styles de blocs. <strong>Une seance type</strong> : 15 min d'echauffement, 45 min de blocs dans ton niveau (3 a 5 essais par bloc), 30 min de projets a la limite (5 a 8 essais), 15 min de blocs faciles cool down. Total 1h45. Plus, tu fatigues. Moins, tu n'as pas progresse. La cle, c'est la regularite : <strong>3 seances par semaine</strong> pendant 3 mois, c'est plus efficace que 5 seances par semaine pendant 2 semaines puis arret 2 mois."
+      "html": "Pour <a href=\"/blog/progresser-niveau-escalade\">passer un palier de niveau en escalade</a>, varie les styles de blocs. <strong>Une seance type</strong> : 15 min d'échauffement, 45 min de blocs dans ton niveau (3 a 5 essais par bloc), 30 min de projets a la limite (5 a 8 essais), 15 min de blocs faciles cool down. Total 1h45. Plus, tu fatigues. Moins, tu n'as pas progresse. La cle, c'est la regularite : <strong>3 seances par semaine</strong> pendant 3 mois, c'est plus efficace que 5 seances par semaine pendant 2 semaines puis arrêt 2 mois."
     },
     {
       "type": "quote",
@@ -239,29 +239,29 @@
     },
     {
       "type": "p",
-      "html": "Le bloc est souvent la porte d'entrée vers <a href=\"/blog/apprendre-escalade-debutant\">la pratique moderne du grimpeur débutant</a>. Tu peux pratiquer seul, sans assureur, sans materiel cher. C'est <strong>la pratique la plus accessible</strong>. Mais le bloc developpe aussi des qualites tres utiles pour la voie : force de doigts, lecture des mouvements, gestion de l'echec, mental d'engagement. Les meilleurs grimpeurs en falaise sont souvent d'excellents blocs. Adam Ondra, Alex Megos, Magnus Midtbo : tous des bouldeurs au depart. Investis dans le bloc, tu progresses dans tout."
+      "html": "Le bloc est souvent la porte d'entrée vers l'escalade moderne. Tu peux pratiquer seul, sans assureur, sans matériel cher. C'est <strong>la pratique la plus accessible</strong>. Mais le bloc developpe aussi des qualites très utiles pour la voie : force de doigts, lecture des mouvements, gestion de l'échec, mental d'engagement. Les meilleurs grimpeurs en falaise sont souvent d'excellents blocs. Adam Ondra, Alex Megos, Magnus Midtbo : tous des bouldeurs au depart. Investis dans le bloc, tu progresses dans tout."
     }
   ],
   "faq": [
     {
-      "q": "Quelle est la difference entre bloc et voie ?",
-      "a": "Le bloc est court (3-5 metres), sans corde, sur tapis, problemes de 4 a 15 mouvements intenses. La voie est longue (10-30 metres ou plus), avec corde et assureur, sur 30 a 60 mouvements moderes. Le bloc developpe la force et la lecture courte, la voie l'endurance et la lecture longue. Les deux sont complementaires."
+      "q": "Quelle est la différence entre bloc et voie ?",
+      "a": "Le bloc est court (3-5 mètres), sans corde, sur tapis, problèmes de 4 a 15 mouvements intenses. La voie est longue (10-30 mètres ou plus), avec corde et assureur, sur 30 a 60 mouvements moderes. Le bloc developpe la force et la lecture courte, la voie l'endurance et la lecture longue. Les deux sont complementaires."
     },
     {
       "q": "Combien de temps pour passer du V0 au V3 ?",
-      "a": "Pour un debutant, compte 6 a 12 mois avec 2-3 seances hebdomadaires. La progression depend du genetique, de l'age, et surtout de la qualite de la pratique. Beaucoup plafonnent en V1 par manque de travail technique. Suis les techniques de base avant de chercher la force."
+      "a": "Pour un débutant, compte 6 a 12 mois avec 2-3 seances hebdomadaires. La progression depend du genetique, de l'âgé, et surtout de la qualite de la pratique. Beaucoup plafonnent en V1 par manque de travail technique. Suis les techniques de base avant de chercher la force."
     },
     {
-      "q": "Faut-il etre tres fort pour faire du bloc ?",
-      "a": "Non, c'est meme l'inverse au debut. Les blocs 4 et 5 se font avec un placement correct et un peu de mental. La force devient determinante a partir du V4-V5 (6c-7a). En dessous, la technique prime. Travaille les techniques de base avant le campus board."
+      "q": "Faut-il être très fort pour faire du bloc ?",
+      "a": "Non, c'est même l'inverse au début. Les blocs 4 et 5 se font avec un placement correct et un peu de mental. La force devient determinante a partir du V4-V5 (6c-7a). En dessous, la technique prime. Travaille les techniques de base avant le campus board."
     },
     {
       "q": "Le bloc en salle vs en falaise, lequel apprendre en premier ?",
-      "a": "Toujours la salle d'abord. Tu apprends les techniques de base, la lecture, la chute sur tapis. Apres 3 a 6 mois de salle, sortie a Fontainebleau ou autre site exterieur avec un grimpeur experimente. La salle te forme techniquement, la falaise te forme mentalement et au rocher reel."
+      "a": "Toujours la salle d'abord. Tu apprends les techniques de base, la lecture, la chute sur tapis. Après 3 a 6 mois de salle, sortie a Fontainebleau ou autre site extérieur avec un grimpeur expérimenté. La salle te forme techniquement, la falaise te forme mentalement et au rocher reel."
     },
     {
-      "q": "Combien d'essais sur un meme probleme ?",
-      "a": "3 a 5 essais maximum par seance sur un meme bloc dans ton niveau. Au-dela, tu fatigues sans progresser, et tu augmentes le risque de tendinite. Pour les projets durs (a ta limite), tu peux faire 5 a 8 essais par seance, mais espace les seances de 2 jours minimum."
+      "q": "Combien d'essais sur un même probleme ?",
+      "a": "3 a 5 essais maximum par seance sur un même bloc dans ton niveau. Au-dela, tu fatigues sans progresser, et tu augmentes le risque de tendinite. Pour les projets durs (a ta limite), tu peux faire 5 a 8 essais par seance, mais espace les seances de 2 jours minimum."
     },
     {
       "q": "Faut-il un coach pour progresser en bloc ?",
@@ -273,7 +273,7 @@
     {
       "slug": "apprendre-escalade-debutant",
       "anchor": "apprendre l'escalade en 2026",
-      "context": "Pilier general"
+      "context": "Pilier général"
     },
     {
       "slug": "poser-pieds-escalade-placement",
@@ -293,7 +293,7 @@
     {
       "slug": "lecture-voie-strategie",
       "anchor": "lecture en bloc",
-      "context": "Lecture des problemes"
+      "context": "Lecture des problèmes"
     },
     {
       "slug": "chuter-en-grimpe-apprentissage",

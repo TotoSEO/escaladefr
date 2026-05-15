@@ -130,7 +130,7 @@
     },
     {
       "type": "p",
-      "html": "Un mousqueton, c'est trois chiffres minimum gravés dessus : la résistance axiale grand axe (autour de 22 kN), la résistance petit axe (autour de 8 kN) et la résistance doigt ouvert (autour de 7 kN). Le marquage CE et la norme EN 12275 garantissent un produit conforme. Les marques <strong>Petzl, Black Diamond, Wild Country, DMM</strong> dominent ce segment. Le détail <a href=\"/blog/mousquetons-escalade-types\">des différents types de mousquetons d'escalade</a> aide à composer son rack selon la discipline."
+      "html": "Un mousqueton, c'est trois chiffres minimum gravés dessus : la résistance axiale grand axe (autour de 22 kN), la résistance petit axe (autour de 8 kN) et la résistance doigt ouvert (autour de 7 kN). Le marquage CE et la <a href=\"https://www.petzl.com/INT/en/Sport/Standards-and-test-methods\" rel=\"nofollow noopener\" target=\"_blank\">norme EN 12275</a> garantissent un produit conforme. Les marques <strong>Petzl, Black Diamond, Wild Country, DMM</strong> dominent ce segment. Le détail <a href=\"/blog/mousquetons-escalade-types\">des différents types de mousquetons d'escalade</a> aide à composer son rack selon la discipline."
     },
     {
       "type": "p",
@@ -266,28 +266,88 @@
   "internal_links": [
     {
       "slug": "choisir-chaussons-escalade",
-      "anchor": "comment choisir ses chaussons",
-      "context": "Article enfant cocon materiel"
+      "anchor": "Les chaussons d'escalade adaptés au débutant",
+      "context": "enfant cocon matériel"
+    },
+    {
+      "slug": "choisir-baudrier-escalade",
+      "anchor": "Le baudrier d'initiation bien choisi",
+      "context": "enfant cocon matériel"
+    },
+    {
+      "slug": "systeme-assurage-comparatif",
+      "anchor": "le système d'assurage comparé pour ta pratique",
+      "context": "enfant cocon matériel"
     },
     {
       "slug": "choisir-corde-escalade",
       "anchor": "comment choisir sa corde d'escalade",
-      "context": "Article enfant cocon materiel"
+      "context": "enfant cocon matériel"
     },
     {
       "slug": "choisir-casque-escalade",
       "anchor": "le casque adapté à ta pratique",
-      "context": "Article enfant cocon materiel"
+      "context": "enfant cocon matériel"
     },
     {
       "slug": "entretien-corde-lavage-rangement",
-      "anchor": "notre guide sur l'entretien de la corde",
-      "context": "Article enfant cocon materiel"
+      "anchor": "d'entretien et de rangement de la corde",
+      "context": "enfant cocon matériel"
+    },
+    {
+      "slug": "resemelage-chaussons-quand",
+      "anchor": "pour le resemelage des chaussons d'escalade",
+      "context": "enfant cocon matériel"
+    },
+    {
+      "slug": "mousquetons-escalade-types",
+      "anchor": "des différents types de mousquetons d'escalade",
+      "context": "enfant cocon matériel"
+    },
+    {
+      "slug": "degaines-escalade-choix",
+      "anchor": "choisir ses dégaines selon ta pratique",
+      "context": "enfant cocon matériel"
+    },
+    {
+      "slug": "magnesie-types-grimpe",
+      "anchor": "des types de magnésie selon l'usage",
+      "context": "enfant cocon matériel"
+    },
+    {
+      "slug": "brosse-grimpe-entretien-prises",
+      "anchor": "la routine d'entretien des prises à la brosse",
+      "context": "enfant cocon matériel"
+    },
+    {
+      "slug": "sac-escalade-emporter",
+      "anchor": "Le sac d'escalade et son contenu type",
+      "context": "enfant cocon matériel"
     },
     {
       "slug": "matos-occasion-acheter",
-      "anchor": "notre dossier sur l'achat de matériel d'occasion",
-      "context": "Article enfant cocon materiel"
+      "anchor": "L'achat de matériel d'escalade d'occasion",
+      "context": "enfant cocon matériel"
+    },
+    {
+      "slug": "vetements-escalade-couches",
+      "anchor": "de vêtements en couches pour le grimpeur",
+      "context": "enfant cocon matériel"
+    },
+    {
+      "slug": "crashpad-bloc-choisir",
+      "anchor": "choisir un crashpad pour le bloc",
+      "context": "enfant cocon matériel"
+    },
+    {
+      "slug": "matos-bloc-checklist",
+      "anchor": "la checklist du matériel de bloc",
+      "context": "enfant cocon matériel"
+    },
+    {
+      "slug": "matos-grande-voie-checklist",
+      "anchor": "La checklist matériel pour la grande voie",
+      "context": "enfant cocon matériel"
     }
   ],
   "scheduled_at": "2026-05-19T09:00:00+02:00"

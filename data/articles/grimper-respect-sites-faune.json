@@ -5,7 +5,7 @@
   "numero": 8,
   "title": "Grimper en respectant les sites, la faune et le rocher",
   "h1": "Respecter les sites d'escalade et la faune.",
-  "description": "Grimper en respectant l'environnement : nidification du faucon pèlerin, érosion des sentiers, déchets, magnésie, accès et parcs nationaux. Bonnes...",
+  "description": "Grimper en respectant l'environnement : nidification du faucon pèlerin, érosion des sentiers, déchets, magnésie, accès et parcs nationaux.",
   "chapo": "L'escalade dépend de l'accès aux falaises. Cet accès se mérite et se préserve. Quelles règles respecter pour que la pratique perdure ? Je détaille ici les enjeux faunistiques (faucon pèlerin, vautours), l'érosion des sentiers d'approche, la gestion des déchets, la magnésie et les conventions départementales qui structurent la cohabitation.",
   "takeaways": [
     "La nidification du faucon pèlerin impose des fermetures de mars à juin sur de nombreux sites.",
@@ -21,7 +21,7 @@
     },
     {
       "type": "p",
-      "html": "<a href=\"/blog/faucon-pelerin-falaise\">Le faucon pèlerin sur les falaises calcaires</a>, espèce protégée, niche dans le sud de la France de mars à juillet. Sa reproduction est sensible au dérangement : un grimpeur qui passe trop près du nid provoque l'abandon de la couvée. Le faucon est revenu en France après avoir frôlé l'extinction dans les années 70. Sa protection passe par <a href=\"/blog/nidification-falaise-arret\">des arrêts de site liés à la nidification</a>, souvent organisés par les comités départementaux FFME en lien avec la LPO."
+      "html": "<a href=\"/blog/faucon-pelerin-falaise\">Le faucon pèlerin sur les falaises calcaires</a>, espèce protégée, niche dans le sud de la France de mars à juillet. Sa reproduction est sensible au dérangement : un grimpeur qui passe trop près du nid provoque l'abandon de la couvée. Le faucon est revenu en France après avoir frôlé l'extinction dans les années 70. Sa protection passe par <a href=\"/blog/nidification-falaise-arret\">des arrêtés préfectoraux de fermeture pendant la nidification</a>, souvent coordonnés par les comités départementaux FFME en lien avec la <a href=\"https://www.lpo.fr/\" rel=\"nofollow noopener\" target=\"_blank\">LPO</a>."
     },
     {
       "type": "p",
@@ -227,34 +227,54 @@
   "cover_alt": "Sentier d'approche balisé menant à une falaise calcaire, panneau réglementaire en premier plan",
   "internal_links": [
     {
-      "slug": "nidification-falaise-arret",
-      "anchor": "guide sur les fermetures liées à la nidification",
-      "context": "Article enfant cocon environnement"
+      "slug": "faucon-pelerin-falaise",
+      "anchor": "Le faucon pèlerin sur les falaises calcaires",
+      "context": "enfant cocon environnement"
     },
     {
-      "slug": "faucon-pelerin-falaise",
-      "anchor": "le dossier faucon pèlerin",
-      "context": "Article enfant cocon environnement"
+      "slug": "nidification-falaise-arret",
+      "anchor": "des arrêtés préfectoraux de fermeture pendant la nidification",
+      "context": "enfant cocon environnement"
     },
     {
       "slug": "sentier-approche-erosion",
-      "anchor": "guide sur l'érosion des sentiers",
-      "context": "Article enfant cocon environnement"
-    },
-    {
-      "slug": "conventions-departementales-falaise",
-      "anchor": "dossier conventions départementales",
-      "context": "Article enfant cocon environnement"
-    },
-    {
-      "slug": "parc-national-escalade-regles",
-      "anchor": "guide parcs nationaux et escalade",
-      "context": "Article enfant cocon environnement"
+      "anchor": "l'érosion des sentiers d'approche",
+      "context": "enfant cocon environnement"
     },
     {
       "slug": "dechets-bivouac-falaise",
-      "anchor": "guide gestion des déchets",
-      "context": "Article enfant cocon environnement"
+      "anchor": "La gestion des déchets en bivouac",
+      "context": "enfant cocon environnement"
+    },
+    {
+      "slug": "reglementation-magnesie-blanche",
+      "anchor": "La réglementation sur la magnésie",
+      "context": "enfant cocon environnement"
+    },
+    {
+      "slug": "conventions-departementales-falaise",
+      "anchor": "sur les conventions départementales d'accès aux falaises",
+      "context": "enfant cocon environnement"
+    },
+    {
+      "slug": "conflits-foncier-acces-prive",
+      "anchor": "sur les conflits fonciers sur les falaises en accès privé",
+      "context": "enfant cocon environnement"
+    },
+    {
+      "slug": "parc-national-escalade-regles",
+      "anchor": "Les règles d'escalade en parcs nationaux",
+      "context": "enfant cocon environnement"
+    },
+    {
+      "slug": "parking-respect-locaux",
+      "anchor": "Le stationnement respectueux aux abords des sites",
+      "context": "enfant cocon environnement"
+    },
+    {
+      "slug": "rocher-fragile-grimpe-respectueuse",
+      "anchor": "Le rocher fragile et la grimpe respectueuse du support",
+      "context": "enfant cocon environnement"
     }
   ],
   "scheduled_at": "2026-05-21T09:00:00+02:00"

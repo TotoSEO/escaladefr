@@ -156,7 +156,7 @@
     },
     {
       "type": "p",
-      "html": "Ses ouvrages comme Le défi des solitaires, Le survivant ou Free Spirit restent des lectures formatrices. Au lycée Camille Sée à Colmar, quand je découvrais la grimpe, mon prof d'EPS nous avait prêté un exemplaire abimé du Survivant. Le récit du Nanga Parbat 1970 et de la perte de Günther m'avait marqué bien plus que n'importe quelle vidéo de bloc à haut niveau de l'époque. Cette puissance de récit n'est pas étrangère à sa place dans la culture grimpe contemporaine."
+      "html": "Ses ouvrages comme Le défi des solitaires, Le survivant ou Free Spirit restent des lectures formatrices. Quand je découvrais la grimpe au lycée, un prof d'EPS nous avait prêté un exemplaire abîmé du Survivant. Le récit du Nanga Parbat 1970 et de la perte de Günther m'avait marqué bien plus que n'importe quelle vidéo de bloc à haut niveau de l'époque. Cette puissance de récit n'est pas étrangère à sa place dans la culture grimpe contemporaine."
     }
   ],
   "faq": [
@@ -185,23 +185,23 @@
   "internal_links": [
     {
       "slug": "grimpeurs-grimpeuses-histoire-france",
-      "anchor": "grimpeurs qui ont marqué l'histoire",
-      "context": "pilier personnalites"
-    },
-    {
-      "slug": "alex-honnold-free-solo-el-cap",
-      "anchor": "Alex Honnold en solo intégral",
-      "context": "comparaison solo"
-    },
-    {
-      "slug": "wolfgang-gullich-action-directe",
-      "anchor": "Wolfgang Güllich et Action Directe",
-      "context": "alpiniste contemporain"
+      "anchor": "la généalogie des grands noms de l'escalade et de l'alpinisme",
+      "context": "pilier personnalités, premier lien interne"
     },
     {
       "slug": "patrick-edlinger-vie-falaise",
-      "anchor": "Patrick Edlinger en falaise",
-      "context": "génération années 80"
+      "anchor": "Patrick Edlinger sur ses falaises provençales",
+      "context": "même cocon, contraste falaise sportive"
+    },
+    {
+      "slug": "alex-honnold-free-solo-el-cap",
+      "anchor": "du free solo d'Alex Honnold sur Freerider",
+      "context": "même cocon, filiation engagement solo"
+    },
+    {
+      "slug": "wolfgang-gullich-action-directe",
+      "anchor": "de Wolfgang Güllich attaquant Action Directe à 9a",
+      "context": "même cocon, génération contemporaine"
     }
   ],
   "scheduled_at": "2027-01-23T09:00:00+01:00"

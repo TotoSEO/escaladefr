@@ -176,7 +176,7 @@
     },
     {
       "type": "p",
-      "html": "<a href=\"/blog/echauffement-grimpe-routine\">La routine d'échauffement avant</a> la grimpe est non négociable avant toute séance poutre. Pour l'organisation globale, lis <a href=\"/blog/preparer-corps-tete-grimpe\">construire sa préparation au long cours</a>."
+      "html": "<a href=\"/blog/echauffement-grimpe-routine\">La routine d'échauffement avant la grimpe</a> reste non négociable avant toute séance poutre, dix à quinze minutes minimum. Sans cette montée progressive, le risque de claquage de poulie augmente significativement, surtout sur les protocoles intenses."
     }
   ],
   "faq": [
@@ -209,28 +209,23 @@
   "internal_links": [
     {
       "slug": "preparer-corps-tete-grimpe",
-      "anchor": "la préparation physique et mentale du grimpeur",
-      "context": "Pilier préparation"
-    },
-    {
-      "slug": "echauffement-grimpe-routine",
-      "anchor": "échauffement avant la grimpe",
-      "context": "Échauffement obligatoire"
-    },
-    {
-      "slug": "musculation-grimpeur-base",
-      "anchor": "musculation de base du grimpeur",
-      "context": "Force complémentaire"
+      "anchor": "la mise en condition du grimpeur sérieux",
+      "context": "pilier préparation, premier lien interne"
     },
     {
       "slug": "blessures-doigts-grimpeur",
-      "anchor": "prévenir et traiter les blessures de doigts",
-      "context": "Prévention poulies"
+      "anchor": "sensibles aux microtraumatismes répétés des doigts",
+      "context": "même cocon, jeunes grimpeurs"
     },
     {
       "slug": "recuperation-active-jours-off",
-      "anchor": "récupération active et jours off",
-      "context": "Récupération tendineuse"
+      "anchor": "une vraie récupération active sur tes jours off",
+      "context": "même cocon, absorption de la charge"
+    },
+    {
+      "slug": "echauffement-grimpe-routine",
+      "anchor": "La routine d'échauffement avant la grimpe",
+      "context": "même cocon, préalable obligatoire"
     }
   ],
   "scheduled_at": "2027-02-11T09:00:00+01:00"

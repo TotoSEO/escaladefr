@@ -29,7 +29,7 @@
     },
     {
       "type": "p",
-      "html": "J'ai appris le pêcheur double en mars 2024 au club d'escalade de Colmar, lors du module de formation rappel. Le moniteur l'a présenté comme la jonction de rappel à apprendre en premier, avant <a href=\"/blog/noeud-mickey-rappel\">le nœud Mickey en bout de corde de rappel</a>, parce qu'il pardonne davantage les erreurs de dimensionnement et qu'il convient à toutes les situations sans exception. C'est aussi le nœud que je continue de tracer pour confectionner les anneaux de cordelette des prussiks."
+      "html": "J'ai appris le pêcheur double lors d'un module de formation rappel en début de pratique. Le moniteur l'a présenté comme la jonction de rappel à apprendre en premier, avant <a href=\"/blog/noeud-mickey-rappel\">le nœud Mickey en bout de corde de rappel</a>, parce qu'il pardonne davantage les erreurs de dimensionnement et qu'il convient à toutes les situations sans exception. C'est aussi le nœud que je continue de tracer pour confectionner les anneaux de cordelette des prussiks."
     },
     {
       "type": "h2",
@@ -229,28 +229,28 @@
   "internal_links": [
     {
       "slug": "noeuds-escalade-utiles-guide",
-      "anchor": "panorama des nœuds utiles en escalade",
-      "context": "pilier cocon"
+      "anchor": "la famille des nœuds d'escalade dédiés à la jonction de cordes",
+      "context": "pilier nœuds, premier lien interne"
     },
     {
       "slug": "noeud-mickey-rappel",
-      "anchor": "Mickey",
-      "context": "alternative jonction plate"
-    },
-    {
-      "slug": "noeud-prussik-auto-bloquant",
-      "anchor": "prussik",
-      "context": "usage cordelette fermée"
-    },
-    {
-      "slug": "verifier-noeud-partenaire",
-      "anchor": "vérification croisée systématique",
-      "context": "rituel sécurité"
+      "anchor": "le nœud Mickey en bout de corde de rappel",
+      "context": "même cocon, alternative jonction plate"
     },
     {
       "slug": "nettoyer-relais-rappel-securite",
-      "anchor": "nettoyer un relais en rappel",
-      "context": "contexte rappel falaise"
+      "anchor": "du nettoyage de relais avant rappel",
+      "context": "même cocon, chaîne sécurité"
+    },
+    {
+      "slug": "noeud-prussik-auto-bloquant",
+      "anchor": "les nœuds auto-bloquants comme le prussik",
+      "context": "même cocon, anneaux de cordelette"
+    },
+    {
+      "slug": "verifier-noeud-partenaire",
+      "anchor": "La validation croisée avant le départ",
+      "context": "même cocon, vérification finale"
     }
   ],
   "scheduled_at": "2026-10-15T09:00:00+02:00"

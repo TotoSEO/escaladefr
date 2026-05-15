@@ -3,29 +3,29 @@
   "cocon": "techniques",
   "type_article": "guide",
   "numero": 21,
-  "title": "Grandes voies, tactique des premiers pas a l'autonomie",
+  "title": "Grandes voies, tactique des premiers pas à l'autonomie",
   "h1": "Tactique de grande voie, ce qu'on apprend en passant du second au leader autonome",
-  "description": "Tactique grande voie : choix de l'itineraire, role en cordee, gestion du temps, equipement, prevention des accidents en falaise multipitches en autonomie.",
-  "chapo": "Une grande voie, c'est plusieurs longueurs enchainees a la corde, parfois 200 ou 600 metres de paroi. Tu passes du second au leader autonome en quelques annees, avec un investissement technique reel. Cette page detaille la tactique des cordees experimentees, les pieges du debutant, le materiel a embarquer, la gestion du temps, et le passage de la voie sportive a la grande voie engagee.",
+  "description": "Tactique grande voie : choix de l'itinéraire, rôle en cordée, gestion du temps, équipement, prévention des accidents en falaise multipitches en autonomie.",
+  "chapo": "Une grande voie, c'est plusieurs longueurs enchaînées à la corde, parfois 200 ou 600 mètres de paroi. Tu passes du second au leader autonome en quelques années, avec un investissement technique réel. Cette page détaille la tactique des cordées expérimentées, les pièges du débutant, le matériel à embarquer, la gestion du temps, et le passage de la voie sportive à la grande voie engagée.",
   "takeaways": [
-    "Choisis ta premiere grande voie a deux cotations sous ton niveau falaise, jamais a ton max.",
-    "Compte 30 a 45 minutes par longueur entre montee et relais, pour estimer la duree totale.",
-    "Equipe-toi en double pour les voies de plus de 5 longueurs : deux cordes, deux jeux de friends.",
-    "Repartis les roles en cordee avant le depart, pas en pleine voie.",
-    "Tourne avec ton second tous les deux ou trois relais pour ne pas epuiser le leader."
+    "Choisis ta première grande voie à deux cotations sous ton niveau falaise, jamais à ton max.",
+    "Compte 30 à 45 minutes par longueur entre montée et relais, pour estimer la durée totale.",
+    "Équipe-toi en double pour les voies de plus de 5 longueurs : deux cordes, deux jeux de friends.",
+    "Répartis les rôles en cordée avant le départ, pas en pleine voie.",
+    "Tourne avec ton second tous les deux ou trois relais pour ne pas épuiser le leader."
   ],
   "body_blocks": [
     {
       "type": "h2",
-      "text": "Definir ce qu'est une grande voie"
+      "text": "Définir ce qu'est une grande voie"
     },
     {
       "type": "p",
-      "html": "Une grande voie commence officiellement a partir de la deuxieme longueur. Concretement, on parle de grande voie a partir de 3 longueurs et plus de 60 metres de paroi. En dessous, c'est une voie ecole. La distinction est importante parce qu'a partir de la troisieme longueur, tu ne peux plus redescendre simplement en moulinette, tu dois sortir par le haut ou faire un rappel. La logistique change radicalement."
+      "html": "Une grande voie commence officiellement à partir de la deuxième longueur. Concrètement, on parle de grande voie à partir de 3 longueurs et plus de 60 mètres de paroi. En dessous, c'est une voie école. La distinction est importante parce qu'à partir de la troisième longueur, tu ne peux plus redescendre simplement en moulinette, tu dois sortir par le haut ou faire un rappel. La logistique change radicalement."
     },
     {
       "type": "p",
-      "html": "En France, les grandes voies historiques se trouvent dans les Calanques, le Verdon, les Aravis, le Vercors, la Chartreuse. Chaque site a sa specialite : Verdon pour les voies engagees en dalle, Calanques pour le bord de mer ensoleille, Vercors pour le calcaire compact. Pour un débutant en grande voie qui sort tout juste <a href=\"/blog/apprendre-escalade-debutant\">de ses premiers pas en escalade</a>, je recommande les Calanques de Cassis ou les Aiguilles de Chamonix accessibles par telepherique, parce que la logistique est simplifiee."
+      "html": "En France, les grandes voies historiques se trouvent dans les Calanques, le Verdon, les Aravis, le Vercors, la Chartreuse. Chaque site a sa spécialité : Verdon pour les voies engagées en dalle, Calanques pour le bord de mer ensoleillé, Vercors pour le calcaire compact. Pour un débutant en grande voie qui sort tout juste <a href=\"/blog/apprendre-escalade-debutant\">de ses premiers pas en escalade</a>, je recommande les Calanques de Cassis ou les Aiguilles de Chamonix accessibles par téléphérique, parce que la logistique est simplifiée."
     },
     {
       "type": "h2",
@@ -33,7 +33,7 @@
     },
     {
       "type": "p",
-      "html": "On commence toujours en second. Le second suit le leader, recolte les degaines, ne pose rien. Tu apprends en regardant. <strong>Compte 6 a 8 voies en second</strong> avant de te lancer en tete sur une longueur facile, sur une voie a 3 ou 4 longueurs. Puis tu enchaines la totalite des longueurs en tete, par etapes. Le passage complet en autonomie demande 2 a 3 ans de pratique reguliere selon ton rythme."
+      "html": "On commence toujours en second. Le second suit le leader, récolte les dégaines, ne pose rien. Tu apprends en regardant. <strong>Compte 6 à 8 voies en second</strong> avant de te lancer en tête sur une longueur facile, sur une voie à 3 ou 4 longueurs. Puis tu enchaînes la totalité des longueurs en tête, par étapes. Le passage complet en autonomie demande 2 à 3 ans de pratique régulière selon ton rythme."
     },
     {
       "type": "list",
@@ -41,115 +41,115 @@
       "title": "Les quatre stades de progression en grande voie",
       "items": [
         {
-          "title": "Second integral",
-          "body": "Tu suis sur toutes les longueurs, le leader gere tout. Tu apprends le rythme, le placement, le materiel. C'est la base, 6 a 10 sorties minimum."
+          "title": "Second intégral",
+          "body": "Tu suis sur toutes les longueurs, le leader gère tout. Tu apprends le rythme, le placement, le matériel. C'est la base, 6 à 10 sorties minimum."
         },
         {
-          "title": "Leader alterne",
-          "body": "Tu prends une longueur sur deux. Tu commences a gerer le materiel et les relais en tete, mais avec une recuperation entre. Bonne phase pour roder."
+          "title": "Leader alterné",
+          "body": "Tu prends une longueur sur deux. Tu commences à gérer le matériel et les relais en tête, mais avec une récupération entre. Bonne phase pour roder."
         },
         {
-          "title": "Leader integral en voie equipee",
-          "body": "Tu prends toutes les longueurs sur une voie sportive en falaise (Verdon, Calanques). Le materiel est en place, tu poses tes degaines. Phase de confirmation."
+          "title": "Leader intégral en voie équipée",
+          "body": "Tu prends toutes les longueurs sur une voie sportive en falaise (Verdon, Calanques). Le matériel est en place, tu poses tes dégaines. Phase de confirmation."
         },
         {
           "title": "Leader en voie d'aventure",
-          "body": "Tu emporte friends, coinceurs, sangles. Tu construis tes relais sur points naturels. C'est l'autonomie totale, mais aussi l'engagement maximum."
+          "body": "Tu emportes friends, coinceurs, sangles. Tu construis tes relais sur points naturels. C'est l'autonomie totale, mais aussi l'engagement maximum."
         }
       ]
     },
     {
       "type": "h2",
-      "text": "Choisir sa premiere grande voie"
+      "text": "Choisir sa première grande voie"
     },
     {
       "type": "p",
-      "html": "Pour <a href=\"/blog/sortie-rocher-debutant\">une première sortie sur rocher après la salle</a>, vise une voie de <strong>3 a 4 longueurs, cotee a deux cotations sous ton niveau falaise</strong>. Si tu fais du 6b a vue en voie ecole, prends une grande voie cotee 5b ou 5c. Tu sentiras une difference de difficulte reelle parce que la fatigue, le froid, le poids du materiel, et la gestion mentale s'ajoutent. Sur ta premiere grande voie, tu ne dois jamais te dire \"j'aurais du choisir plus facile\"."
+      "html": "Pour <a href=\"/blog/sortie-rocher-debutant\">une première sortie sur rocher après la salle</a>, vise une voie de <strong>3 à 4 longueurs, cotée à deux cotations sous ton niveau falaise</strong>. Si tu fais du 6b à vue en voie école, prends une grande voie cotée 5b ou 5c. Tu sentiras une différence de difficulté réelle parce que la fatigue, le froid, le poids du matériel, et la gestion mentale s'ajoutent. Sur ta première grande voie, tu ne dois jamais te dire \"j'aurais dû choisir plus facile\"."
     },
     {
       "type": "p",
-      "html": "Les voies adaptees aux debutants en France sont referencees dans les topos editions Cordee et Camptocamp. Pour les Calanques, vise la voie de l'arete des Goudes ou l'arete sud des Pouce. Pour Annecy, la voie de la dalle des Trous au massif de Talloires. Renseigne-toi avant pour avoir le bon topo, le bon equipement, et le bon point de depart. La premiere grande voie merite une vraie preparation logistique."
+      "html": "Les voies adaptées aux débutants en France sont référencées dans les topos éditions Cordée et Camptocamp. Pour les Calanques, vise la voie de l'arête des Goudes ou l'arête sud des Pouce. Pour Annecy, la voie de la dalle des Trous au massif de Talloires. Renseigne-toi avant pour avoir le bon topo, le bon équipement, et le bon point de départ. La première grande voie mérite une vraie préparation logistique."
     },
     {
       "type": "h2",
-      "text": "Le materiel a embarquer"
+      "text": "Le matériel à embarquer"
     },
     {
       "type": "p",
-      "html": "Pour une grande voie sportive de 4 a 6 longueurs en voie equipee : <strong>10 a 14 degaines, 2 longes vache, 2 reverso ou ATC, 2 cordelettes prussik, casque obligatoire, 1 corde a double 60 metres ou 2 cordes a double 50 metres</strong>. Eau et nourriture en plus, plus une lampe frontale d'urgence. Compte 4 kg de materiel total par grimpeur. Au-dela, tu te casses les jambes avant meme de commencer."
+      "html": "Pour une grande voie sportive de 4 à 6 longueurs en voie équipée : <strong>10 à 14 dégaines, 2 longes vache, 2 reverso ou ATC, 2 cordelettes prussik, casque obligatoire, 1 corde à double 60 mètres ou 2 cordes à double 50 mètres</strong>. Eau et nourriture en plus, plus une lampe frontale d'urgence. Compte 4 kg de matériel total par grimpeur. Au-delà, tu te casses les jambes avant même de commencer."
     },
     {
       "type": "table",
-      "caption": "Materiel grande voie par longueur de voie",
+      "caption": "Matériel grande voie par longueur de voie",
       "headers": [
         "Type de voie",
-        "Materiel obligatoire",
-        "En plus de la voie ecole"
+        "Matériel obligatoire",
+        "En plus de la voie école"
       ],
       "rows": [
         [
-          "3-4 longueurs equipees",
+          "3-4 longueurs équipées",
           "Casque, longes, reverso, prussik",
-          "Casque, prussik, sac leger"
+          "Casque, prussik, sac léger"
         ],
         [
-          "5-8 longueurs equipees",
+          "5-8 longueurs équipées",
           "Tout ce qui est ci-dessus + corde double 60m",
           "Double corde, lampe frontale"
         ],
         [
           "Voie en TA (terrain d'aventure)",
           "Jeu de friends, coinceurs, sangles longues",
-          "Friends 0.3 a 3, 6 sangles 120cm"
+          "Friends 0.3 à 3, 6 sangles 120cm"
         ],
         [
           "Voie alpine (Mont-Blanc)",
           "Crampons, piolets, broches",
-          "Equipement glaciaire complet"
+          "Équipement glaciaire complet"
         ]
       ]
     },
     {
       "type": "p",
-      "html": "<a href=\"/blog/choisir-corde-escalade\">Le choix de la corde adaptee</a> est crucial. En grande voie sportive, tu peux partir sur une corde simple 60 ou 70 metres si la voie est courte. A partir de 6 longueurs, le rappel devient complique sans double corde. Investis dans deux cordes de 50 metres en demi-corde (8 mm environ) pour les vraies voies. C'est l'achat le plus structurant pour passer en autonomie."
+      "html": "<a href=\"/blog/choisir-corde-escalade\">Le choix de la corde adaptée à la grande voie</a> est crucial. En grande voie sportive, tu peux partir sur une corde simple 60 ou 70 mètres si la voie est courte. À partir de 6 longueurs, le rappel devient compliqué sans double corde. Investis dans deux cordes de 50 mètres en demi-corde (8 mm environ) pour les vraies voies. C'est l'achat le plus structurant pour passer en autonomie."
     },
     {
       "type": "h2",
-      "text": "La gestion du temps et de la journee"
+      "text": "La gestion du temps et de la journée"
     },
     {
       "type": "p",
-      "html": "Une grande voie de 6 longueurs prend <strong>4 a 6 heures de paroi</strong>, plus 1 a 2 heures d'approche et 1 a 2 heures de descente. Total : 6 a 10 heures sur le terrain. Pour partir bien, tu pars de chez toi a l'aube, tu arrives au pied de la voie a 8h, tu sors en haut a 14h, et tu rentres a la voiture a 16h. Cette logique te garde une marge de securite contre l'orage de l'apres-midi et la nuit qui tombe."
+      "html": "Une grande voie de 6 longueurs prend <strong>4 à 6 heures de paroi</strong>, plus 1 à 2 heures d'approche et 1 à 2 heures de descente. Total : 6 à 10 heures sur le terrain. Pour partir bien, tu pars de chez toi à l'aube, tu arrives au pied de la voie à 8h, tu sors en haut à 14h, et tu rentres à la voiture à 16h. Cette logique te garde une marge de sécurité contre l'orage de l'après-midi et la nuit qui tombe."
     },
     {
       "type": "p",
-      "html": "Compte plus de temps en cordee debutante. La premiere grande voie peut prendre <strong>30 a 50 % de plus</strong> que l'horaire du topo. Le topo dit 4 heures, prevois 6. Tu ne grimpes pas plus lentement, mais tu fais plus d'hesitations, plus de communications, plus de verifications. C'est normal, ca passe avec l'experience. <a href=\"/blog/recuperer-relais-grande-voie\">La gestion du relais</a> est ou tu gagneras du temps en priorite."
+      "html": "Compte plus de temps en cordée débutante. La première grande voie peut prendre <strong>30 à 50 % de plus</strong> que l'horaire du topo. Le topo dit 4 heures, prévois 6. Tu ne grimpes pas plus lentement, mais tu fais plus d'hésitations, plus de communications, plus de vérifications. C'est normal, ça passe avec l'expérience. <a href=\"/blog/recuperer-relais-grande-voie\">La gestion du relais</a> est où tu gagneras du temps en priorité."
     },
     {
       "type": "h2",
-      "text": "La meteo et les conditions"
+      "text": "La météo et les conditions"
     },
     {
       "type": "p",
-      "html": "La meteo n'est pas un detail en grande voie. Un orage isole en milieu d'apres-midi en montagne peut te clouer 4 heures suspendu sur une paroi mouille. <strong>Verifie la meteo a J-1 et J-0</strong>, choisis un jour stable (anticyclone), pars tot. La regle d'or : pas de grande voie au-dela de 4 longueurs si le risque d'orage l'apres-midi depasse 30 %. Reporte d'un jour, ce n'est pas une defaite."
+      "html": "La météo n'est pas un détail en grande voie. Un orage isolé en milieu d'après-midi en montagne peut te clouer 4 heures suspendu sur une paroi mouillée. <strong>Vérifie la météo à J-1 et J-0</strong>, choisis un jour stable (anticyclone), pars tôt. La règle d'or : pas de grande voie au-delà de 4 longueurs si le risque d'orage l'après-midi dépasse 30 %. Reporte d'un jour, ce n'est pas une défaite."
     },
     {
       "type": "tip",
       "title": "L'astuce de la sortie alternative",
-      "body": "Avant de partir, repere une sortie d'urgence a mi-voie. Sur la plupart des grandes voies, il existe un rappel a la 3e ou 4e longueur qui permet de redescendre si la meteo tourne. Connaitre cette sortie est ta soupape. Sans elle, tu peux te retrouver coince a 5 longueurs du sol avec orage en plus.",
+      "body": "Avant de partir, repère une sortie d'urgence à mi-voie. Sur la plupart des grandes voies, il existe un rappel à la 3e ou 4e longueur qui permet de redescendre si la météo tourne. Connaître cette sortie est ta soupape. Sans elle, tu peux te retrouver coincé à 5 longueurs du sol avec orage en plus.",
       "tone": "astuce"
     },
     {
       "type": "h2",
-      "text": "Communication et roles en cordee"
+      "text": "Communication et rôles en cordée"
     },
     {
       "type": "p",
-      "html": "Une cordee qui fonctionne, c'est deux grimpeurs qui se connaissent et qui ont defini leurs roles a l'avance. Qui mene la longueur 1, qui mene la longueur 2, qui porte quoi. Pas de surprise. Le leader gere l'itineraire et le materiel pose. Le second recolte, materiellise, et anticipe la longueur suivante. Tournez en tete tous les deux ou trois relais avec ton partenaire pour eviter l'epuisement du leader."
+      "html": "Une cordée qui fonctionne, c'est deux grimpeurs qui se connaissent et qui ont défini leurs rôles à l'avance. Qui mène la longueur 1, qui mène la longueur 2, qui porte quoi. Pas de surprise. Le leader gère l'itinéraire et le matériel posé. Le second récolte, matériellise, et anticipe la longueur suivante. Tournez en tête tous les deux ou trois relais avec ton partenaire pour éviter l'épuisement du leader."
     },
     {
       "type": "p",
-      "html": "Les codes verbaux comptent. Securite, libre, vache, sec, mou. Cinq mots, audibles dans le vent. Tu les apprends avec ton partenaire, tu ne devines pas. <strong>Une mauvaise communication peut tuer</strong>, et c'est statistiquement la cause d'un tiers des accidents en grande voie. La communication echoue dans le vent, dans la fatigue, dans le stress. Plus tu codifies, plus tu securise. <a href=\"/blog/comportement-falaise-collectif\">La vie collective en falaise</a> traite aussi ces aspects."
+      "html": "Les codes verbaux comptent. Sécurité, libre, vache, sec, mou. Cinq mots, audibles dans le vent. Tu les apprends avec ton partenaire, tu ne devines pas. <strong>Une mauvaise communication peut tuer</strong>, et c'est statistiquement la cause d'un tiers des accidents en grande voie. La communication échoue dans le vent, dans la fatigue, dans le stress. Plus tu codifies, plus tu sécurises. <a href=\"/blog/comportement-falaise-collectif\">La vie collective en falaise</a> traite aussi ces aspects."
     },
     {
       "type": "h2",
@@ -157,11 +157,11 @@
     },
     {
       "type": "p",
-      "html": "La plupart des grandes voies se redescendent en rappel a partir du sommet. C'est le moment le plus accidentogene de la sortie, parce qu'on est fatigue, qu'on baisse en vigilance, et qu'on enchaine plusieurs rappels d'affilee. <a href=\"/blog/rappel-en-double-techniques\">Le rappel en double</a> demande une vraie maitrise. Pas question de partir en grande voie sans avoir teste le rappel en site protege avant."
+      "html": "La plupart des grandes voies se redescendent en rappel à partir du sommet. C'est le moment le plus accidentogène de la sortie, parce qu'on est fatigué, qu'on baisse en vigilance, et qu'on enchaîne plusieurs rappels d'affilée. <a href=\"/blog/rappel-en-double-techniques\">Le rappel en double</a> demande une vraie maîtrise. Pas question de partir en grande voie sans avoir testé le rappel en site protégé avant."
     },
     {
       "type": "p",
-      "html": "L'erreur classique du rappel en grande voie : descendre trop bas, depasser le relais suivant. Avant de partir en rappel, regarde bien le prochain relais, mesure la corde, et installe un noeud de bout de corde sur les deux brins. Tu te sauves la vie si tu descends sous le relais. Cette routine est obligatoire pour tout grimpeur en autonomie."
+      "html": "L'erreur classique du rappel en grande voie : descendre trop bas, dépasser le relais suivant. Avant de partir en rappel, regarde bien le prochain relais, mesure la corde, et installe un nœud de bout de corde sur les deux brins. Tu te sauves la vie si tu descends sous le relais. Cette routine est obligatoire pour tout grimpeur en autonomie."
     },
     {
       "type": "h2",
@@ -169,11 +169,11 @@
     },
     {
       "type": "p",
-      "html": "Dans 5 % des grandes voies, un imprevu arrive : voie plus dure que prevue, blessure mineure, fatigue excessive, materiel perdu. La regle est : <strong>tu evalues, tu decides vite, tu agis</strong>. Soit tu remontes au-dessus pour sortir par le haut, soit tu fais demi-tour en rappel. Tu ne restes pas paralyse a chercher l'ideal. La nuit qui tombe est ton vrai ennemi, pas la difficulte de la voie."
+      "html": "Dans 5 % des grandes voies, un imprévu arrive : voie plus dure que prévue, blessure mineure, fatigue excessive, matériel perdu. La règle est : <strong>tu évalues, tu décides vite, tu agis</strong>. Soit tu remontes au-dessus pour sortir par le haut, soit tu fais demi-tour en rappel. Tu ne restes pas paralysé à chercher l'idéal. La nuit qui tombe est ton vrai ennemi, pas la difficulté de la voie."
     },
     {
       "type": "quote",
-      "text": "Une grande voie reussie, c'est une cordee qui rentre fatigue, contente, et sans incident. Le sommet est secondaire.",
+      "text": "Une grande voie réussie, c'est une cordée qui rentre fatiguée, contente, et sans incident. Le sommet est secondaire.",
       "author": "Antoine",
       "role": "pratiquant grandes voies depuis 2018 dans les Alpes et au Verdon"
     },
@@ -183,66 +183,66 @@
     },
     {
       "type": "p",
-      "html": "Pour passer en autonomie reelle, prevoit un stage de 2 ou 3 jours en grande voie avec un guide UIAGM ou un cadre FFME. Le cout (300 a 500 euros) est largement amorti par la marge de securite que ca te donne. Le guide te montre les gestes en situation, les choix d'itineraire, les pieges classiques. Apres ce stage, tu peux te lancer sur des voies a 3-4 longueurs en autonomie avec un copain de meme niveau."
+      "html": "Pour passer en autonomie réelle, prévois un stage de 2 ou 3 jours en grande voie avec un guide UIAGM ou un cadre FFME. Le coût (300 à 500 euros) est largement amorti par la marge de sécurité que ça te donne. Le guide te montre les gestes en situation, les choix d'itinéraire, les pièges classiques. Après ce stage, tu peux te lancer sur des voies à 3-4 longueurs en autonomie avec un copain de même niveau."
     }
   ],
   "faq": [
     {
-      "q": "Quel niveau minimum pour faire sa premiere grande voie ?",
-      "a": "Tu dois grimper a vue du 5b en falaise ecole, et avoir au moins 10 sorties falaise sportive. Avant ca, tu n'as pas la pratique du rocher, de la chute en tete, du clip. Une grande voie demande des reflexes consolides. Si tu doutes, prends un stage decouverte avec un guide qui te donnera la confirmation de ton niveau."
+      "q": "Quel niveau minimum pour faire sa première grande voie ?",
+      "a": "Tu dois grimper à vue du 5b en falaise école, et avoir au moins 10 sorties falaise sportive. Avant ça, tu n'as pas la pratique du rocher, de la chute en tête, du clip. Une grande voie demande des réflexes consolidés. Si tu doutes, prends un stage découverte avec un guide qui te donnera la confirmation de ton niveau."
     },
     {
       "q": "Faut-il un casque obligatoirement en grande voie ?",
-      "a": "Oui, obligatoire et non negociable. Une pierre qui tombe du dessus tue. Un choc contre la paroi en chute pendulaire tue. Compte un casque legere comme un Petzl Sirocco ou un Black Diamond Vapor pour ne pas etre genee. C'est l'achat le plus rentable de toute ta carriere de grimpeur."
+      "a": "Oui, obligatoire et non négociable. Une pierre qui tombe du dessus tue. Un choc contre la paroi en chute pendulaire tue. Compte un casque léger comme un Petzl Sirocco ou un Black Diamond Vapor pour ne pas être gêné. C'est l'achat le plus rentable de toute ta carrière de grimpeur."
     },
     {
-      "q": "Combien coute un equipement complet pour grande voie ?",
-      "a": "Compte 600 a 1000 euros par grimpeur pour s'equiper du zero : baudrier, chaussons, casque, longes, reverso, 14 degaines, 2 cordes a double, prussik, sangles. Le materiel coute, mais il dure plus de 5 ans en general. Etale l'achat sur deux saisons si le budget serre."
+      "q": "Combien coûte un équipement complet pour grande voie ?",
+      "a": "Compte 600 à 1000 euros par grimpeur pour s'équiper du zéro : baudrier, chaussons, casque, longes, reverso, 14 dégaines, 2 cordes à double, prussik, sangles. Le matériel coûte, mais il dure plus de 5 ans en général. Étale l'achat sur deux saisons si le budget est serré."
     },
     {
-      "q": "Peut-on faire une grande voie seul en solo integral ?",
-      "a": "Techniquement possible en solo autoassure, mais reserve aux grimpeurs avec 10+ ans d'experience et un materiel specifique (silent partner ou autobelay rocher). Pour un debutant en grande voie, c'est absolument deconseille. Tu pars en cordee, point. Le solo se travaille apres avoir maitrise l'autonomie en cordee."
+      "q": "Peut-on faire une grande voie seul en solo intégral ?",
+      "a": "Techniquement possible en solo autoassuré, mais réservé aux grimpeurs avec 10+ ans d'expérience et un matériel spécifique (silent partner ou autobelay rocher). Pour un débutant en grande voie, c'est absolument déconseillé. Tu pars en cordée, point. Le solo se travaille après avoir maîtrisé l'autonomie en cordée."
     },
     {
       "q": "Comment apprendre la grande voie sans coach ?",
-      "a": "Difficile sans accompagnement structure. Le minimum, c'est de partir avec un grimpeur 5 ans plus experimente en cordee deux fois, puis prendre un stage de 2 jours avec un guide, puis se lancer en autonomie. Pour les <a href=\"/blog/sortie-rocher-debutant\">premieres sorties rocher</a>, suis les conseils detailles avant de viser plus haut."
+      "a": "Difficile sans accompagnement structuré. Le minimum, c'est de partir avec un grimpeur 5 ans plus expérimenté en cordée deux fois, puis prendre un stage de 2 jours avec un guide, puis se lancer en autonomie. Pour les <a href=\"/blog/sortie-rocher-debutant\">premières sorties rocher</a>, suis les conseils détaillés avant de viser plus haut."
     },
     {
-      "q": "Quelles regions francaises pour debuter en grande voie ?",
-      "a": "Calanques de Cassis (acces facile, voies courtes 3-4 longueurs), Aravis (massif accessible, voies pedagogiques), Annecy-Talloires (paroi a l'abri), Verdon en peripherie (eviter Sublime pour debutant). Evite les voies engagees du Tetras ou des Lavadiou pour le debut. Renseigne-toi sur les topos editions Cordee."
+      "q": "Quelles régions françaises pour débuter en grande voie ?",
+      "a": "Calanques de Cassis (accès facile, voies courtes 3-4 longueurs), Aravis (massif accessible, voies pédagogiques), Annecy-Talloires (paroi à l'abri), Verdon en périphérie (éviter Sublime pour débutant). Évite les voies engagées du Tétras ou des Lavadiou pour le début. Renseigne-toi sur les topos éditions Cordée."
     }
   ],
-  "cover_alt": "Une cordee de deux grimpeurs en grande voie sur une paroi calcaire des Calanques de Cassis, casques rouges et baudriers noirs, en plein milieu de paroi avec la mer Mediterraneen turquoise en arriere-plan",
+  "cover_alt": "Une cordée de deux grimpeurs en grande voie sur une paroi calcaire des Calanques de Cassis, casques rouges et baudriers noirs, en plein milieu de paroi avec la mer Méditerranée turquoise en arrière-plan",
   "internal_links": [
     {
       "slug": "apprendre-escalade-debutant",
-      "anchor": "apprendre l'escalade en 2026",
-      "context": "Pilier general"
-    },
-    {
-      "slug": "recuperer-relais-grande-voie",
-      "anchor": "gestion du relais",
-      "context": "Detail technique des relais"
-    },
-    {
-      "slug": "rappel-en-double-techniques",
-      "anchor": "rappel en double",
-      "context": "Technique de descente"
-    },
-    {
-      "slug": "choisir-corde-escalade",
-      "anchor": "corde adaptee",
-      "context": "Equipement specifique"
+      "anchor": "de ses premiers pas en escalade",
+      "context": "Pilier général"
     },
     {
       "slug": "sortie-rocher-debutant",
-      "anchor": "premieres sorties rocher",
+      "anchor": "une première sortie sur rocher après la salle",
       "context": "Etape preliminaire"
     },
     {
+      "slug": "choisir-corde-escalade",
+      "anchor": "Le choix de la corde adaptée à la grande voie",
+      "context": "Équipement spécifique"
+    },
+    {
+      "slug": "recuperer-relais-grande-voie",
+      "anchor": "La gestion du relais",
+      "context": "Détail technique des relais"
+    },
+    {
       "slug": "comportement-falaise-collectif",
-      "anchor": "vie collective en falaise",
+      "anchor": "La vie collective en falaise",
       "context": "Aspects sociaux"
+    },
+    {
+      "slug": "rappel-en-double-techniques",
+      "anchor": "Le rappel en double",
+      "context": "Technique de descente"
     }
   ],
   "scheduled_at": "2026-06-20T09:00:00+02:00"

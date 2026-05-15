@@ -29,7 +29,7 @@
     },
     {
       "type": "p",
-      "html": "J'ai appris le papillon en avril 2024 au club de Colmar, dans le cadre du module manipulations de corde de la formation initiateur. Le moniteur l'a présenté comme le nœud qui transforme une situation potentiellement grave en simple inconvénient : avec un papillon bien tracé, une corde abîmée à mi-longueur reste utilisable pour finir la journée et redescendre en sécurité."
+      "html": "J'ai appris le papillon dans le cadre d'un module manipulations de corde en formation initiateur. Le moniteur l'a présenté comme le nœud qui transforme une situation potentiellement grave en simple inconvénient : avec un papillon bien tracé, une corde abîmée à mi-longueur reste utilisable pour finir la journée et redescendre en sécurité."
     },
     {
       "type": "h2",
@@ -225,23 +225,23 @@
   "internal_links": [
     {
       "slug": "noeuds-escalade-utiles-guide",
-      "anchor": "panorama des nœuds utiles en escalade",
-      "context": "pilier cocon"
+      "anchor": "la famille des nœuds d'escalade qui créent une boucle au milieu d'une corde",
+      "context": "pilier nœuds, premier lien interne"
     },
     {
       "slug": "retenir-noeuds-escalade-methode",
-      "anchor": "mémorisation du geste",
-      "context": "apprentissage"
+      "anchor": "La mémorisation du geste",
+      "context": "même cocon, apprentissage"
     },
     {
       "slug": "noeud-tete-alouette-sangle",
-      "anchor": "tête d'alouette sur sangle",
-      "context": "comparaison nœud médian"
+      "anchor": "La tête d'alouette sur sangle",
+      "context": "même cocon, comparaison nœud médian"
     },
     {
       "slug": "nettoyer-relais-rappel-securite",
-      "anchor": "nettoyage de relais avec rappel",
-      "context": "contexte manipulation"
+      "anchor": "Le nettoyage de relais avec rappel",
+      "context": "même cocon, contexte manipulation"
     }
   ],
   "scheduled_at": "2026-10-17T09:00:00+02:00"

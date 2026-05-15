@@ -25,7 +25,7 @@
     },
     {
       "type": "p",
-      "html": "J'ai mis deux ans à comprendre ça. Mes premiers 6a au gymnase Camille Sée se sont tous joués sur la dernière section, en bloquant un bras à 90 degrés pour cliper. Mon coach Pascal m'a filmé un jour et la vidéo m'a fait mal. Tout le corps en traction, aucune extension de jambe. Aujourd'hui je vois exactement le même schéma chez 80 % des grimpeurs qui plafonnent en 5c."
+      "html": "J'ai mis deux ans à comprendre ça. Mes premiers 6a se sont tous joués sur la dernière section, en bloquant un bras à 90 degrés pour cliper. Un coach m'a filmé un jour et la vidéo m'a fait mal. Tout le corps en traction, aucune extension de jambe. Aujourd'hui je vois exactement le même schéma chez 80 % des grimpeurs qui plafonnent en 5c."
     },
     {
       "type": "h2",
@@ -33,7 +33,7 @@
     },
     {
       "type": "p",
-      "html": "Pense ton corps comme une grue. Tes jambes sont le mât porteur, tes hanches le pivot, tes bras la flèche qui se déplace. La grue ne lève pas avec sa flèche, elle lève avec son moteur et son mât. En <a href=\"/blog/apprendre-escalade-debutant\">escalade</a>, <strong>la poussée vient des quadriceps et des fessiers</strong>, qui sont vingt fois plus puissants que tes biceps. Tes bras servent à orienter le corps et à passer d'une prise à l'autre, pas à grimper."
+      "html": "Pense ton corps comme une grue. Tes jambes sont le mât porteur, tes hanches le pivot, tes bras la flèche qui se déplace. La grue ne lève pas avec sa flèche, elle lève avec son moteur et son mât. C'est l'un des principes que <a href=\"/blog/apprendre-escalade-debutant\">le parcours pour bien commencer l'escalade</a> répète dès la première séance : <strong>la poussée vient des quadriceps et des fessiers</strong>, qui sont vingt fois plus puissants que tes biceps. Tes bras servent à orienter le corps et à passer d'une prise à l'autre, pas à grimper."
     },
     {
       "type": "list",
@@ -72,11 +72,11 @@
     },
     {
       "type": "p",
-      "html": "<a href=\"/blog/dalle-escalade-techniques\">Sur dalle</a> légèrement positive jusqu'à 80 degrés, la poussée se fait en extension simple. Tu mets le pied sur une prise, tu te redresses comme tu te lèves d'une chaise basse. Tes bras gardent une légère flexion, juste pour ne pas verrouiller les épaules. Le corps reste collé au mur, le bassin proche de la paroi."
+      "html": "<a href=\"/blog/dalle-escalade-techniques\">Sur dalle légèrement positive jusqu'à 80 degrés</a>, la poussée se fait en extension simple. Tu mets le pied sur une prise, tu te redresses comme tu te lèves d'une chaise basse. Tes bras gardent une légère flexion, juste pour ne pas verrouiller les épaules. Le corps reste collé au mur, le bassin proche de la paroi."
     },
     {
       "type": "p",
-      "html": "En dévers à 110-130 degrés, la mécanique change. Tu ne peux plus pousser à la verticale, tu pousses en oblique. <a href=\"/blog/crochet-talon-bloc\">La technique</a> signature s'appelle la <strong>lolotte</strong> ou <a href=\"/blog/rotation-pivot-escalade\">la rotation</a> de hanche, qui te permet de coller le bassin au mur malgré l'inclinaison négative."
+      "html": "En dévers à 110-130 degrés, la mécanique change. Tu ne peux plus pousser à la verticale, tu pousses en oblique. La technique signature s'appelle la <strong>lolotte</strong>, ou <a href=\"/blog/rotation-pivot-escalade\">rotation de hanche pour gagner du déport</a>, qui te permet de coller le bassin au mur malgré l'inclinaison négative. Sur les passages où le pied droit s'oriente comme un crochet inversé, <a href=\"/blog/crochet-talon-bloc\">le crochet de talon en bloc</a> prend le relais."
     },
     {
       "type": "h2",
@@ -147,7 +147,7 @@
   "internal_links": [
     {
       "slug": "apprendre-escalade-debutant",
-      "anchor": "apprendre l'escalade en 2026",
+      "anchor": "le parcours pour bien commencer l'escalade",
       "context": "Pilier général du cocon"
     },
     {
@@ -156,24 +156,24 @@
       "context": "Technique soeur essentielle"
     },
     {
+      "slug": "dalle-escalade-techniques",
+      "anchor": "Sur dalle légèrement positive jusqu'à 80 degrés",
+      "context": "Cas particulier sur paroi positive"
+    },
+    {
       "slug": "rotation-pivot-escalade",
-      "anchor": "grammaire des hanches",
+      "anchor": "rotation de hanche pour gagner du déport",
       "context": "Approfondissement du mouvement de bassin"
     },
     {
       "slug": "crochet-talon-bloc",
-      "anchor": "la technique du crochet de talon",
+      "anchor": "le crochet de talon en bloc",
       "context": "Application avancée de la poussée"
     },
     {
       "slug": "lecture-voie-strategie",
-      "anchor": "lecture de voie",
+      "anchor": "à ta lecture de voie",
       "context": "Préparation mentale avant le grimper"
-    },
-    {
-      "slug": "dalle-escalade-techniques",
-      "anchor": "les techniques de dalle",
-      "context": "Cas particulier sur paroi positive"
     }
   ],
   "scheduled_at": "2026-06-09T09:00:00+02:00"

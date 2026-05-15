@@ -29,7 +29,7 @@
     },
     {
       "type": "p",
-      "html": "J'ai découvert le Mickey en cours collectif au club d'escalade de Colmar en mai 2024, après une expérience pénible de coincement de pêcheur double sur les calcaires des Vosges. Le moniteur l'a présenté comme le nœud standard de jonction de rappel en falaise sportive moderne, parmi <a href=\"/blog/noeuds-escalade-utiles-guide\">la grammaire des nœuds en grimpe</a>, à condition de respecter scrupuleusement la longueur de brin libre."
+      "html": "J'ai découvert le Mickey en cours collectif après une expérience pénible de coincement de pêcheur double sur les calcaires des Vosges. Le moniteur l'a présenté comme le nœud standard de jonction de rappel en falaise sportive moderne, à condition de respecter scrupuleusement la longueur de brin libre."
     },
     {
       "type": "h2",
@@ -237,23 +237,23 @@
   "internal_links": [
     {
       "slug": "noeuds-escalade-utiles-guide",
-      "anchor": "panorama des nœuds utiles en escalade",
-      "context": "pilier cocon"
+      "anchor": "le catalogue des nœuds techniques",
+      "context": "pilier nœuds, premier lien interne"
     },
     {
       "slug": "noeud-pecheur-double-rappel",
-      "anchor": "pêcheur double",
-      "context": "alternative jonction plus solide"
-    },
-    {
-      "slug": "verifier-noeud-partenaire",
-      "anchor": "vérification croisée systématique",
-      "context": "rituel sécurité"
+      "anchor": "comme le pêcheur double",
+      "context": "même cocon, alternative volumineuse"
     },
     {
       "slug": "nettoyer-relais-rappel-securite",
-      "anchor": "nettoyer un relais en sécurité",
-      "context": "contexte rappel falaise"
+      "anchor": "le nettoyage du relais avant le rappel",
+      "context": "même cocon, geste enchaîné"
+    },
+    {
+      "slug": "verifier-noeud-partenaire",
+      "anchor": "Le double-check du baudrier et du nœud",
+      "context": "même cocon, double validation"
     }
   ],
   "scheduled_at": "2026-10-13T09:00:00+02:00"

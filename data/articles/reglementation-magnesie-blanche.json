@@ -134,7 +134,7 @@
     },
     {
       "type": "p",
-      "html": "Pour creuser le sujet, jette un œil à le détail des types de magnésie, à l'entretien des prises et le brossage et à <a href=\"/blog/grimper-respect-sites-faune\">la conscience environnementale du grimpeur</a>. Trois angles techniques et environnementaux du même geste quotidien."
+      "html": "La magnésie reste un sujet ouvert où l'auto-discipline collective vaut mieux que l'interdiction. Tant que la communauté grimpante régule ses propres usages, le débat reste interne. Le jour où les traces deviennent trop visibles depuis les sentiers, la réglementation extérieure arrive, et c'est généralement plus restrictif que ce qu'on aurait imposé soi-même."
     }
   ],
   "faq": [
@@ -162,24 +162,24 @@
   "cover_alt": "Main de grimpeur saupoudrée de magnésie blanche au bord d'un sac de magnésie textile, traces de poudre sur la peau, prise de calcaire en arrière-plan, lumière chaude de fin d'après-midi",
   "internal_links": [
     {
-      "slug": "magnesie-types-grimpe",
-      "anchor": "détail des types de magnésie",
-      "context": "complément technique"
-    },
-    {
-      "slug": "brosse-grimpe-entretien-prises",
-      "anchor": "entretien des prises et le brossage",
-      "context": "geste pratique"
-    },
-    {
       "slug": "grimper-respect-sites-faune",
-      "anchor": "vue d'ensemble du respect des sites",
-      "context": "pilier environnement"
+      "anchor": "préserver le rocher et la faune",
+      "context": "pilier environnement, premier lien interne"
+    },
+    {
+      "slug": "magnesie-types-grimpe",
+      "anchor": "La magnésie escalade et ses différents types",
+      "context": "complément technique, cross-cocon matériel"
     },
     {
       "slug": "rocher-fragile-grimpe-respectueuse",
-      "anchor": "grimpe respectueuse sur rocher fragile",
-      "context": "thématique liée"
+      "anchor": "Le rocher fragile demande une grimpe respectueuse du support",
+      "context": "même cocon, thématique liée"
+    },
+    {
+      "slug": "brosse-grimpe-entretien-prises",
+      "anchor": "la brosse d'escalade et l'entretien des prises",
+      "context": "geste pratique, cross-cocon matériel"
     }
   ],
   "scheduled_at": "2027-04-20T09:00:00+02:00"

@@ -21,7 +21,7 @@
     },
     {
       "type": "p",
-      "html": "La moulinette désigne une configuration précise : la corde est déjà installée en haut de la voie, elle passe par le relais ou les deux maillons sommitaux, et redescend de l'autre côté. L'un des deux grimpeurs est encordé au sol, l'autre tient l'autre brin avec un système d'assurage. Quand celui qui grimpe monte d'un mètre, le mou se résorbe via le système. Quand il chute, il est arrêté quasiment sans vol. C'est l'<a href=\"/blog/apprendre-escalade-debutant\">inverse de la grimpe</a> en tête, où tu clippes au fur et à mesure."
+      "html": "La moulinette est la première technique d'assurage à maîtriser quand on découvre l'escalade, étape clé de <a href=\"/blog/apprendre-escalade-debutant\">tout parcours d'apprentissage du grimpeur</a>. Elle désigne une configuration précise : la corde est déjà installée en haut de la voie, elle passe par le relais ou les deux maillons sommitaux, et redescend de l'autre côté. L'un des deux grimpeurs est encordé au sol, l'autre tient l'autre brin avec un système d'assurage. Quand celui qui grimpe monte d'un mètre, le mou se résorbe via le système. Quand il chute, il est arrêté quasiment sans vol. C'est l'inverse de la grimpe en tête, où tu clippes au fur et à mesure."
     },
     {
       "type": "p",
@@ -55,7 +55,7 @@
     },
     {
       "type": "p",
-      "html": "La posture : pieds en quinconce, un pas en avant, un pas en retrait, légère flexion des genoux. Tu te places à un mètre du mur, jamais collé. Tu regardes le grimpeur en permanence, pas tes pieds ni ton téléphone. Et surtout, ta <strong>main de freinage</strong> reste sous le système, en permanence. Si elle quitte le brin de freinage ne serait-ce qu'une demi-seconde sur un Reverso, tu lâches potentiellement ton partenaire en pleine chute. Ce n'est pas une figure de style, c'est une statistique d'accidents en salle. Pendant mes premières années au club FFME de Colmar, j'ai vu deux fois des assureurs distraits lever la main de freinage pour discuter, j'ai pris depuis l'habitude de demander un check à voix haute avant chaque départ."
+      "html": "La posture : pieds en quinconce, un pas en avant, un pas en retrait, légère flexion des genoux. Tu te places à un mètre du mur, jamais collé. Tu regardes le grimpeur en permanence, pas tes pieds ni ton téléphone. Et surtout, ta <strong>main de freinage</strong> reste sous le système, en permanence. Si elle quitte le brin de freinage ne serait-ce qu'une demi-seconde sur un Reverso, tu lâches potentiellement ton partenaire en pleine chute. Ce n'est pas une figure de style, c'est une statistique d'accidents en salle. Dans mes premières années en salle, j'ai vu deux fois des assureurs distraits lever la main de freinage pour discuter, j'ai pris depuis l'habitude de demander un check à voix haute avant chaque départ."
     },
     {
       "type": "list",
@@ -204,7 +204,7 @@
   "internal_links": [
     {
       "slug": "apprendre-escalade-debutant",
-      "anchor": "apprendre l'escalade",
+      "anchor": "tout parcours d'apprentissage du grimpeur",
       "context": "Pilier du cocon"
     },
     {

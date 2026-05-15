@@ -118,7 +118,7 @@
     },
     {
       "type": "p",
-      "html": "Ensuite tu installes le descendeur. Tu passes les deux brins de corde dans le tube du descendeur, tu connectes le descendeur au pontet du baudrier avec un mousqueton à vis. Tu poses <a href=\"/blog/noeud-prussik-auto-bloquant\">l'autobloquant</a> sous le descendeur, généralement un machard ou un prussik en cordelette de 5 mm sur les deux brins. L'autobloquant se connecte à une boucle de matériel du baudrier ou à une autre attache dédiée."
+      "html": "Ensuite tu installes le descendeur. Tu passes les deux brins de corde dans le tube du descendeur, tu connectes le descendeur au pontet du baudrier avec un mousqueton à vis. Tu poses <a href=\"/blog/noeud-prussik-auto-bloquant\">un nœud auto-bloquant en cordelette</a> sous le descendeur, généralement un machard ou un prussik en cordelette de 5 mm sur les deux brins. L'autobloquant se connecte à une boucle de matériel du baudrier ou à une autre attache dédiée."
     },
     {
       "type": "p",
@@ -233,13 +233,13 @@
     },
     {
       "type": "p",
-      "html": "Quatrième erreur, le mousqueton du descendeur mal vissé. La vis n'est pas complètement serrée, le grimpeur descend, la vis se desserre par vibrations, le mousqueton s'ouvre et la corde s'échappe. La parade est la vérification visuelle et tactile du serrage de chaque mousqueton à vis. Le contrôle des mousquetons fait partie de la routine de sécurité globale."
+      "html": "Quatrième erreur, le mousqueton du descendeur mal vissé. La vis n'est pas complètement serrée, le grimpeur descend, la vis se desserrer par vibrations, le mousqueton s'ouvre et la corde s'échappe. La parade est la vérification visuelle et tactile du serrage de chaque mousqueton à vis. Le contrôle des mousquetons fait partie de la routine de sécurité globale."
     },
     {
       "type": "quote",
       "text": "Le nettoyage de relais, c'est dix étapes à enchaîner sans faute. Tu peux faire neuf parfaitement, mais si tu oublies la dixième, tu tombes au sol. C'est pour ça que je récite mentalement la check-list à voix basse, même après treize ans de pratique.",
       "author": "Antoine",
-      "role": "grimpeur 8a, formé au lycée Camille Sée Colmar"
+      "role": "rédacteur escalade-france.fr"
     },
     {
       "type": "h2",
@@ -284,33 +284,33 @@
   "internal_links": [
     {
       "slug": "noeuds-escalade-utiles-guide",
-      "anchor": "panorama des nœuds utiles",
-      "context": "pilier cocon"
+      "anchor": "le mémo des nœuds du grimpeur",
+      "context": "pilier nœuds, premier lien interne"
     },
     {
       "slug": "noeud-huit-encordement",
-      "anchor": "nœud de huit",
-      "context": "encordement principal"
-    },
-    {
-      "slug": "verifier-noeud-partenaire",
-      "anchor": "contrôle systématique du partenaire",
-      "context": "sécurité globale"
-    },
-    {
-      "slug": "rappel-en-double-techniques",
-      "anchor": "rappel en double",
-      "context": "procédure technique"
-    },
-    {
-      "slug": "retenir-noeuds-escalade-methode",
-      "anchor": "méthode pour retenir les nœuds",
-      "context": "apprentissage"
+      "anchor": "Le nœud de huit",
+      "context": "même cocon, refait après passage maillon"
     },
     {
       "slug": "noeud-prussik-auto-bloquant",
-      "anchor": "autobloquant prussik",
-      "context": "matériel sécurité"
+      "anchor": "un nœud auto-bloquant en cordelette",
+      "context": "même cocon, freinage de secours"
+    },
+    {
+      "slug": "rappel-en-double-techniques",
+      "anchor": "Le rappel en double",
+      "context": "cross-cocon techniques, procédure de référence"
+    },
+    {
+      "slug": "verifier-noeud-partenaire",
+      "anchor": "libérer la longe avant de vérifier",
+      "context": "même cocon, erreur critique"
+    },
+    {
+      "slug": "retenir-noeuds-escalade-methode",
+      "anchor": "La méthode pour retenir les nœuds",
+      "context": "même cocon, séquence du nettoyage"
     }
   ],
   "scheduled_at": "2026-10-31T09:00:00+01:00"

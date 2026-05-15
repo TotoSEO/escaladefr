@@ -202,7 +202,7 @@
     },
     {
       "type": "p",
-      "html": "Les alternatives possibles sans système mécanique se réduisent en réalité à deux options : le demi-cabestan présenté ici, et le nœud Garda pour le blocage non réversible. Le Garda permet de tenir un brin sous tension constante sans qu'il puisse refiler, utile pour le mouflage. Pour l'assurage classique en moulinette ou en tête, le demi-cabestan reste l'option dominante. Le panorama <a href=\"/blog/noeuds-escalade-utiles-guide\">des nouages essentiels en grimpe</a> couvre les autres techniques de secours."
+      "html": "Les alternatives possibles sans système mécanique se réduisent en réalité à deux options : le demi-cabestan présenté ici, et le nœud Garda pour le blocage non réversible. Le Garda permet de tenir un brin sous tension constante sans qu'il puisse refiler, utile pour le mouflage. Pour l'assurage classique en moulinette ou en tête, le demi-cabestan reste l'option dominante. Le panorama complet des nouages essentiels en grimpe couvre les autres techniques de secours moins connues."
     }
   ],
   "faq": [
@@ -231,28 +231,28 @@
   "internal_links": [
     {
       "slug": "noeuds-escalade-utiles-guide",
-      "anchor": "nœuds utiles en escalade",
-      "context": "pilier cocon"
+      "anchor": "la boîte à outils des nœuds du grimpeur",
+      "context": "pilier nœuds, premier lien interne"
     },
     {
       "slug": "noeud-cabestan-relais",
-      "anchor": "cabestan classique utilisé pour l'auto-vachage",
-      "context": "comparaison nœud parent"
-    },
-    {
-      "slug": "noeud-prussik-auto-bloquant",
-      "anchor": "prussik d'auto-bloquant en sécurité",
-      "context": "rappel improvisé"
-    },
-    {
-      "slug": "verifier-noeud-partenaire",
-      "anchor": "vérification du matériel",
-      "context": "inspection points d'usure"
+      "anchor": "le nœud de cabestan tient déjà les relais",
+      "context": "même cocon, nœud parent géométrique"
     },
     {
       "slug": "noeud-italien-improvise",
-      "anchor": "nœud italien strictement parlant",
-      "context": "terminologie alternative"
+      "anchor": "tout nœud italien improvisé en assurage de secours",
+      "context": "même cocon, terminologie alternative"
+    },
+    {
+      "slug": "verifier-noeud-partenaire",
+      "anchor": "la vérification croisée du nœud du partenaire",
+      "context": "même cocon, usage en grande voie"
+    },
+    {
+      "slug": "noeud-prussik-auto-bloquant",
+      "anchor": "un nœud de prussik comme auto-bloquant de référence",
+      "context": "même cocon, rappel improvisé"
     }
   ],
   "scheduled_at": "2026-10-06T09:00:00+02:00"

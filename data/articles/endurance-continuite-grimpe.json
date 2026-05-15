@@ -172,7 +172,7 @@
     },
     {
       "type": "p",
-      "html": "<a href=\"/blog/preparer-corps-tete-grimpe\">le travail complet de préparation à l'escalade</a> détaille la périodisation annuelle."
+      "html": "L'endurance s'inscrit dans une logique de périodisation annuelle, complémentaire de la force pure et de la technique. Elle se construit sur plusieurs mois, pas en une saison."
     }
   ],
   "faq": [
@@ -205,8 +205,8 @@
   "internal_links": [
     {
       "slug": "preparer-corps-tete-grimpe",
-      "anchor": "la préparation physique et mentale du grimpeur",
-      "context": "Pilier préparation"
+      "anchor": "préparation physique et mentale du grimpeur",
+      "context": "pilier préparation, premier lien interne"
     },
     {
       "slug": "grip-strength-poutre-pan",

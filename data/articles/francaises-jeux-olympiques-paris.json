@@ -21,7 +21,7 @@
     },
     {
       "type": "p",
-      "html": "Son histoire enrichit <a href=\"/blog/grimpeurs-grimpeuses-histoire-france\">la mémoire des grandes figures de l'escalade</a>. Pour sa deuxième apparition olympique, l'escalade a été divisée en deux formats : un classement vitesse séparé, et <a href=\"/blog/bloc-techniques-base\">un classement combiné bloc</a> et difficulté. Les Françaises ont concouru sur le combiné bloc-difficulté, format qui correspond aux profils issus de la discipline traditionnelle hors vitesse pure."
+      "html": "Cette édition olympique enrichit <a href=\"/blog/grimpeurs-grimpeuses-histoire-france\">la mémoire des grandes figures de l'escalade</a>. Pour sa deuxième apparition olympique, l'escalade a été divisée en deux formats : un classement vitesse séparé, et <a href=\"/blog/bloc-techniques-base\">un classement combiné bloc</a> et difficulté. Les Françaises ont concouru sur le combiné bloc-difficulté, format qui correspond aux profils issus de la discipline traditionnelle hors vitesse pure."
     },
     {
       "type": "p",
@@ -132,7 +132,7 @@
     },
     {
       "type": "p",
-      "html": "À l'échelle individuelle, Oriane Bertone est devenue en quelques mois une figure publique en France. Plateaux télé, interviews, partenariats avec des marques généralistes. Elle gère la pression avec un naturel qui lui permet de continuer à grimper à haut niveau. Le défi du cycle Los Angeles 2028 sera de viser le podium qui a manqué de peu à Paris. La filière française continue de se renforcer, comme l'illustrent <a href=\"/blog/grimpeurs-grimpeuses-histoire-france\">les grimpeuses qui ont marqué l'histoire</a>."
+      "html": "À l'échelle individuelle, Oriane Bertone est devenue en quelques mois une figure publique en France. Plateaux télé, interviews, partenariats avec des marques généralistes. Elle gère la pression avec un naturel qui lui permet de continuer à grimper à haut niveau. Le défi du cycle Los Angeles 2028 sera de viser le podium qui a manqué de peu à Paris. La filière française continue de se renforcer, dans le sillage des générations qui ont précédé."
     }
   ],
   "faq": [
@@ -161,33 +161,33 @@
   "internal_links": [
     {
       "slug": "grimpeurs-grimpeuses-histoire-france",
-      "anchor": "grimpeurs et grimpeuses qui ont marqué l'histoire",
-      "context": "pilier personnalites"
-    },
-    {
-      "slug": "janja-garnbret-domination",
-      "anchor": "Janja Garnbret et sa domination",
-      "context": "championne olympique"
-    },
-    {
-      "slug": "charlotte-durif-multiple-disciplines",
-      "anchor": "Charlotte Durif, génération précédente",
-      "context": "lignée féminine française"
-    },
-    {
-      "slug": "francois-legrand-competition",
-      "anchor": "François Legrand pionnier compétition",
-      "context": "histoire compétition française"
+      "anchor": "la mémoire des grandes figures de l'escalade",
+      "context": "pilier personnalités, premier lien interne"
     },
     {
       "slug": "bloc-techniques-base",
-      "anchor": "techniques de bloc",
-      "context": "discipline olympique"
+      "anchor": "un classement combiné bloc",
+      "context": "cross-cocon techniques, discipline olympique"
+    },
+    {
+      "slug": "janja-garnbret-domination",
+      "anchor": "revient à Janja Garnbret",
+      "context": "même cocon, championne olympique"
+    },
+    {
+      "slug": "francois-legrand-competition",
+      "anchor": "le palmarès de François Legrand en compétition",
+      "context": "même cocon, tradition française compétition"
+    },
+    {
+      "slug": "charlotte-durif-multiple-disciplines",
+      "anchor": "Charlotte Durif et ses disciplines multiples",
+      "context": "même cocon, lignée féminine française"
     },
     {
       "slug": "gestion-stress-engagement",
-      "anchor": "gérer le stress en compétition",
-      "context": "préparation mentale olympique"
+      "anchor": "la gestion du stress et de l'engagement en compétition",
+      "context": "cross-cocon préparation, mental olympique"
     }
   ],
   "scheduled_at": "2027-02-02T09:00:00+01:00"

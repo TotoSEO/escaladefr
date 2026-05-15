@@ -25,7 +25,7 @@
     },
     {
       "type": "p",
-      "html": "Un parc national se découpe en deux zones aux statuts très différents. La zone cœur applique la réglementation la plus stricte du droit français en matière de protection. L'aire d'adhésion entoure cette zone cœur et regroupe les communes signataires de la charte, avec un régime nettement plus souple. Cette logique prolonge la démarche <a href=\"/blog/grimper-respect-sites-faune\">le contrat tacite entre grimpeur et milieu</a>, en particulier pour les espèces emblématiques comme <a href=\"/blog/faucon-pelerin-falaise\">le faucon pèlerin qui niche sur les falaises calcaires</a>. La quasi-totalité des falaises mythiques se situent en zone cœur, c'est là que tout devient sensible."
+      "html": "Un parc national se découpe en deux zones aux statuts très différents. La zone cœur applique la réglementation la plus stricte du droit français en matière de protection. L'aire d'adhésion entoure cette zone cœur et regroupe les communes signataires de la charte, avec un régime nettement plus souple. Cette logique prolonge <a href=\"/blog/grimper-respect-sites-faune\">le contrat tacite entre grimpeur et milieu naturel</a>, en particulier pour les espèces emblématiques comme <a href=\"/blog/faucon-pelerin-falaise\">le faucon pèlerin qui niche sur les falaises calcaires</a>. La quasi-totalité des falaises mythiques se situent en zone cœur, c'est là que tout devient sensible."
     },
     {
       "type": "p",
@@ -37,7 +37,7 @@
     },
     {
       "type": "p",
-      "html": "<a href=\"/blog/calanques-escalade-marseille\">Les Calanques</a> sont devenues le parc national le plus contraignant pour les grimpeurs depuis sa création en 2012. Premier parc périurbain de France, il subit la pression de Marseille et accueille plusieurs millions de visiteurs par an. La fréquentation a poussé le conseil d'administration à mettre en place une réservation obligatoire sur certains secteurs sensibles depuis 2022, notamment Sugiton et En-Vau pendant les pics estivaux."
+      "html": "<a href=\"/blog/calanques-escalade-marseille\">Les Calanques au sud de Marseille</a> sont devenues le parc national le plus contraignant pour les grimpeurs depuis sa création en 2012. Premier parc périurbain de France, il subit la pression de Marseille et accueille plusieurs millions de visiteurs par an. La fréquentation a poussé le conseil d'administration à mettre en place une réservation obligatoire sur certains secteurs sensibles depuis 2022, notamment Sugiton et En-Vau pendant les pics estivaux."
     },
     {
       "type": "p",
@@ -142,7 +142,7 @@
     },
     {
       "type": "p",
-      "html": "Pour creuser la dimension d'accès et de réglementation, va lire <a href=\"/blog/conventions-departementales-falaise\">le fonctionnement des conventions départementales</a>, les arrêts liés à la nidification et <a href=\"/blog/grimper-respect-sites-faune\">préserver les falaises qu'on parcourt</a>. Les trois articles éclairent ce que le parc national pousse à son maximum."
+      "html": "Le parc national reste le régime le plus exigeant pour les grimpeurs en France, mais aussi l'un des mieux structurés. <a href=\"/blog/conventions-departementales-falaise\">Le fonctionnement des conventions départementales</a> apporte un éclairage utile pour comprendre comment ces règles dialoguent avec les accords locaux signés en dehors des zones cœur."
     }
   ],
   "faq": [
@@ -170,29 +170,29 @@
   "cover_alt": "Falaise calcaire du parc national des Calanques au-dessus de la Méditerranée, grimpeur en pleine voie sur paroi blanche, mer turquoise en arrière-plan, ambiance fin d'après-midi",
   "internal_links": [
     {
-      "slug": "conventions-departementales-falaise",
-      "anchor": "fonctionnement des conventions départementales",
-      "context": "cadre juridique"
-    },
-    {
-      "slug": "nidification-falaise-arret",
-      "anchor": "arrêts liés à la nidification",
-      "context": "fermetures saisonnières"
-    },
-    {
       "slug": "grimper-respect-sites-faune",
-      "anchor": "vue d'ensemble du respect des sites",
-      "context": "pilier environnement"
-    },
-    {
-      "slug": "calanques-escalade-marseille",
-      "anchor": "escalade dans les Calanques",
-      "context": "site emblématique"
+      "anchor": "le contrat tacite entre grimpeur et milieu naturel",
+      "context": "pilier environnement, premier lien interne"
     },
     {
       "slug": "faucon-pelerin-falaise",
-      "anchor": "dossier faucon pèlerin",
-      "context": "espèce protégée"
+      "anchor": "le faucon pèlerin qui niche sur les falaises calcaires",
+      "context": "espèce protégée, même cocon"
+    },
+    {
+      "slug": "calanques-escalade-marseille",
+      "anchor": "Les Calanques au sud de Marseille",
+      "context": "site emblématique, cross-cocon sites"
+    },
+    {
+      "slug": "nidification-falaise-arret",
+      "anchor": "de fermeture liées à la nidification",
+      "context": "calendrier rapaces, même cocon"
+    },
+    {
+      "slug": "conventions-departementales-falaise",
+      "anchor": "Le fonctionnement des conventions départementales",
+      "context": "cadre juridique parallèle, même cocon"
     }
   ],
   "scheduled_at": "2027-04-27T09:00:00+02:00"

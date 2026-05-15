@@ -6,7 +6,7 @@
   "title": "Tenir un journal d'entraînement en escalade | méthode pratique",
   "h1": "Tenir un journal d'entraînement, l'outil qui change la progression du grimpeur",
   "description": "Journal d'entraînement papier ou numérique, quoi noter pour progresser, exemple de fiche type. Méthode complète pour le grimpeur sérieux.",
-  "chapo": "Tenir un journal d'entraînement reste l'un des outils les plus sous-utilisés du grimpeur amateur. Cinq minutes par séance pour noter le ressenti, le contenu et les charges. Plusieurs mois plus tard, une mine de données qui permet de comprendre ce qui marche et ce qui ne marche pas. Antoine te livre la méthode qu'il utilise depuis ses débuts à Camille Sée Colmar. Tu vas voir, ça transforme la pratique sérieuse.",
+  "chapo": "Tenir un journal d'entraînement reste l'un des outils les plus sous-utilisés du grimpeur amateur. Cinq minutes par séance pour noter le ressenti, le contenu et les charges. Plusieurs mois plus tard, une mine de données qui permet de comprendre ce qui marche et ce qui ne marche pas. Antoine te livre la méthode qu'il utilise depuis ses débuts en compétition jeune. Tu vas voir, ça transforme la pratique sérieuse.",
   "takeaways": [
     "Un journal d'entraînement consigne séances, ressenti, charges et progression sur la durée.",
     "Format papier carnet Moleskine ou application comme Stronglifts, Crimpd ou Notion, peu importe le support.",
@@ -185,8 +185,8 @@
   "internal_links": [
     {
       "slug": "preparer-corps-tete-grimpe",
-      "anchor": "préparer son corps et sa tête à la grimpe",
-      "context": "pilier preparation"
+      "anchor": "se mettre en condition pour la grimpe",
+      "context": "pilier préparation, premier lien interne"
     },
     {
       "slug": "visualisation-mental-escalade",

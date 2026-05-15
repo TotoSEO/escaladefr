@@ -5,7 +5,7 @@
   "numero": 139,
   "title": "Alerter les secours en falaise, la procédure pas à pas",
   "h1": "Alerter les secours en falaise, la procédure qui sauve du temps",
-  "description": "Comment alerter efficacement les secours en falaise, qui appeler du 112 au PGHM, quelles informations transmettre et comment guider l'arrivée des...",
+  "description": "Comment alerter efficacement les secours en falaise, qui appeler du 112 au PGHM, quelles informations transmettre et comment guider l'arrivée des secours.",
   "chapo": "Quand l'accident arrive en falaise, l'efficacité de ton appel détermine le temps d'intervention des secours. Cet article t'explique qui appeler selon ton lieu, quelles informations transmettre dans l'ordre, comment partager tes coordonnées GPS et comment guider l'arrivée du PGHM, des CRS Montagne ou du SAMU. Trois minutes bien structurées valent mieux qu'un quart d'heure de panique.",
   "takeaways": [
     "Le 112 est le numéro universel d'urgence européen, disponible même sans réseau opérateur.",
@@ -68,7 +68,7 @@
     },
     {
       "type": "p",
-      "html": "Les coordonnées GPS sont l'information la plus précieuse en falaise. Ton smartphone t'affiche les coordonnées via plusieurs applications : Géoportail IGN (référence en France), Maps me, Google Maps, ou simplement l'application Boussole d'iPhone. Tu Sur iPhone, les coordonnées s'affichent en degrés décimaux (par exemple 45.1234 N, 5.6789 E)."
+      "html": "Les coordonnées GPS sont l'information la plus précieuse en falaise. Ton smartphone t'affiche les coordonnées via plusieurs applications : Géoportail IGN (référence en France), Maps me, Google Maps, ou simplement l'application Boussole d'iPhone. Sur iPhone, les coordonnées s'affichent en degrés décimaux (par exemple 45.1234 N, 5.6789 E)."
     },
     {
       "type": "p",
@@ -225,28 +225,28 @@
   "internal_links": [
     {
       "slug": "securite-escalade-regles-essentielles",
-      "anchor": "les règles essentielles de la sécurité en escalade",
-      "context": "Pilier du cocon"
-    },
-    {
-      "slug": "premiers-secours-escalade",
-      "anchor": "notre guide des premiers secours en escalade",
-      "context": "Article frère du cocon"
-    },
-    {
-      "slug": "helitreuillage-evacuation",
-      "anchor": "notre fiche sur l'hélitreuillage et l'évacuation",
-      "context": "Article frère du cocon"
+      "anchor": "le panorama des règles de sécurité en escalade",
+      "context": "pilier sécurité, premier lien interne"
     },
     {
       "slug": "partenaire-grimpe-confiance",
-      "anchor": "notre article sur le choix d'un partenaire de grimpe",
-      "context": "Article frère du cocon"
+      "anchor": "partenaire de confiance",
+      "context": "même cocon, guidage des secours"
+    },
+    {
+      "slug": "helitreuillage-evacuation",
+      "anchor": "l'hélitreuillage par hélicoptère",
+      "context": "même cocon, procédure habituelle"
     },
     {
       "slug": "accidents-escalade-statistiques",
-      "anchor": "les statistiques d'accidents en escalade",
-      "context": "Article frère du cocon"
+      "anchor": "l'accident, qui viendra alimenter les statistiques d'accidents en escalade",
+      "context": "même cocon, suivi administratif"
+    },
+    {
+      "slug": "premiers-secours-escalade",
+      "anchor": "la prise en charge des premiers gestes de secours",
+      "context": "même cocon, en attendant les secours"
     }
   ],
   "scheduled_at": "2026-03-23T09:00:00+01:00"

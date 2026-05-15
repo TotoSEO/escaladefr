@@ -25,7 +25,7 @@
     },
     {
       "type": "p",
-      "html": "Cette dépendance crée une responsabilité partagée unique dans le sport. Tu confies <a href=\"/blog/securite-escalade-regles-essentielles\">ta sécurité</a> à quelqu'un, et tu prends en charge la sienne quand tu assures à ton tour. Cette confiance se construit, se teste, et parfois se brise. Comprendre cette dynamique, c'est comprendre pourquoi le choix du partenaire n'a rien d'anecdotique."
+      "html": "Cette dépendance crée une responsabilité partagée unique dans le sport. Tu confies ta sécurité à quelqu'un, et tu prends en charge la sienne quand tu assures à ton tour. Cette confiance se construit, se teste, et parfois se brise. Comprendre cette dynamique, c'est comprendre pourquoi le choix du partenaire n'a rien d'anecdotique."
     },
     {
       "type": "h2",
@@ -229,33 +229,33 @@
   "internal_links": [
     {
       "slug": "securite-escalade-regles-essentielles",
-      "anchor": "notre pilier sur les règles essentielles de sécurité",
-      "context": "Pilier du cocon"
-    },
-    {
-      "slug": "verification-baudrier-corde-noeud",
-      "anchor": "notre fiche sur la triple vérification baudrier corde nœud",
-      "context": "Article frère du cocon"
-    },
-    {
-      "slug": "check-list-avant-grimper",
-      "anchor": "notre check list complète avant de grimper",
-      "context": "Article frère du cocon"
-    },
-    {
-      "slug": "chute-en-tete-facteurs",
-      "anchor": "notre dossier sur la chute en tête et les facteurs de chute",
-      "context": "Article frère du cocon"
-    },
-    {
-      "slug": "meteo-falaise-decider-renoncer",
-      "anchor": "notre guide sur la décision de partir ou renoncer en falaise",
-      "context": "Article frère du cocon"
+      "anchor": "aux fondamentaux de la sécurité en grimpe",
+      "context": "pilier sécurité, premier lien interne"
     },
     {
       "slug": "accidents-escalade-statistiques",
-      "anchor": "notre dossier sur les statistiques d'accidents en escalade",
-      "context": "Article frère du cocon"
+      "anchor": "accident grave, comme le montrent les statistiques d'accidents en escalade",
+      "context": "même cocon, assureur distrait"
+    },
+    {
+      "slug": "chute-en-tete-facteurs",
+      "anchor": "des facteurs d'une chute en tête",
+      "context": "même cocon, compétence assurage"
+    },
+    {
+      "slug": "verification-baudrier-corde-noeud",
+      "anchor": "la routine de vérification avant départ",
+      "context": "même cocon, valeurs sécurité"
+    },
+    {
+      "slug": "check-list-avant-grimper",
+      "anchor": "les check-lists avant de grimper",
+      "context": "même cocon, signaux d'alerte"
+    },
+    {
+      "slug": "meteo-falaise-decider-renoncer",
+      "anchor": "la météo bascule sur la falaise",
+      "context": "même cocon, communication non verbale"
     }
   ],
   "scheduled_at": "2026-04-03T09:00:00+02:00"

@@ -209,28 +209,28 @@
   "internal_links": [
     {
       "slug": "securite-escalade-regles-essentielles",
-      "anchor": "les règles essentielles de la sécurité en escalade",
-      "context": "Pilier du cocon"
-    },
-    {
-      "slug": "chute-en-tete-facteurs",
-      "anchor": "notre dossier sur la chute en tête et les facteurs de chute",
-      "context": "Article frère du cocon"
+      "anchor": "des fondamentaux à respecter en escalade",
+      "context": "pilier sécurité, premier lien interne"
     },
     {
       "slug": "premiers-secours-escalade",
-      "anchor": "notre guide des premiers secours en escalade",
-      "context": "Article frère du cocon"
+      "anchor": "des secours en escalade et alpinisme",
+      "context": "même cocon, PGHM-CRS"
+    },
+    {
+      "slug": "chute-en-tete-facteurs",
+      "anchor": "le facteur de chute en tête",
+      "context": "même cocon, voie en salle"
     },
     {
       "slug": "alerter-secours-falaise",
-      "anchor": "la procédure pour alerter les secours en falaise",
-      "context": "Article frère du cocon"
+      "anchor": "l'alerte structurée des secours",
+      "context": "même cocon, procédure rigoureuse"
     },
     {
       "slug": "verification-baudrier-corde-noeud",
       "anchor": "la triple vérification baudrier corde nœud",
-      "context": "Article frère du cocon"
+      "context": "même cocon, première barrière"
     }
   ],
   "scheduled_at": "2026-03-16T09:00:00+01:00"

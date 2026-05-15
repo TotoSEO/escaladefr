@@ -3,16 +3,16 @@
   "cocon": "techniques",
   "type_article": "guide",
   "numero": 36,
-  "title": "Premiere sortie escalade en falaise apres la salle",
-  "h1": "Premiere sortie sur rocher apres la salle, le guide d'Antoine",
-  "description": "Premiere sortie falaise escalade : choix du spot, materiel additionnel, approche, lecture du rocher, gestion de la chute et meteo pour reussir le...",
-  "chapo": "Tu grimpes en salle depuis un an, tu rentres dans le 6a, et tu te dis qu'il est temps de toucher du rocher. Cette transition est plus exigeante qu'on ne pense, le rocher ne pardonne pas la negligence. Treize ans en falaise plus tard, je te donne le mode d'emploi pour une premiere sortie reussie et sans frayeur.",
+  "title": "Première sortie escalade en falaise après la salle",
+  "h1": "Première sortie sur rocher après la salle, le guide d'Antoine",
+  "description": "Première sortie falaise escalade : choix du spot, matériel additionnel, approche, lecture du rocher, gestion de la chute et météo pour réussir.",
+  "chapo": "Tu grimpes en salle depuis un an, tu rentres dans le 6a, et tu te dis qu'il est temps de toucher du rocher. Cette transition est plus exigeante qu'on ne pense, le rocher ne pardonne pas la négligence. Treize ans en falaise plus tard, je te donne le mode d'emploi pour une première sortie réussie et sans frayeur.",
   "takeaways": [
     "Choisis un secteur ecole avec voies bien equipees et acces court depuis le parking.",
-    "Le materiel additionnel inclut casque, sangles, mousquetons et chaussures d'approche.",
+    "Le matériel additionnel inclut casque, sangles, mousquetons et chaussures d'approche.",
     "Anticipe que ton niveau falaise sera 1 a 2 cotations sous ton niveau salle.",
     "Vise une meteo stable et un rocher sec depuis 48 heures avant la sortie.",
-    "Va avec un grimpeur experimente ou via un club FFME pour la premiere fois."
+    "Va avec un grimpeur expérimenté ou via un club FFME pour la premiere fois."
   ],
   "body_blocks": [
     {
@@ -25,7 +25,7 @@
     },
     {
       "type": "p",
-      "html": "Statistiquement, un grimpeur 6c salle equivaut a 6a-6b falaise les premieres sorties. C'est normal et tres frequent. La cotation evolue avec les mois, et apres 10 sorties tu retrouves un niveau coherent. Ne te decourage pas, c'est l'apprentissage du rocher en direct."
+      "html": "Statistiquement, un grimpeur 6c salle equivaut a 6a-6b falaise les premieres sorties. C'est normal et très frequent. La cotation evolue avec les mois, et après 10 sorties tu retrouves un niveau coherent. Ne te decourage pas, c'est l'apprentissage du rocher en direct."
     },
     {
       "type": "h2",
@@ -33,21 +33,21 @@
     },
     {
       "type": "p",
-      "html": "Pour une premiere sortie, vise un <strong>secteur ecole</strong> : voies bien equipees avec degaines tous les 2 a 3 metres, relais en place, marche d'approche courte, sol plat au pied. En France, les sites ecoles classiques sont Saffres en Cote-d'Or, Saussois dans l'Yonne, Mouriès et le secteur du Cap Canaille pres de Cassis, et plusieurs spots en Vercors."
+      "html": "Pour une premiere sortie, vise un <strong>secteur ecole</strong> : voies bien equipees avec degaines tous les 2 a 3 mètres, relais en place, marche d'approche courte, sol plat au pied. En France, les sites ecoles classiques sont Saffres en Cote-d'Or, Saussois dans l'Yonne, Mouriès et le secteur du Cap Canaille pres de Cassis, et plusieurs spots en Vercors."
     },
     {
       "type": "p",
-      "html": "Renseigne-toi via le club FFME local ou le topo papier specialise comme ceux de FFME ou de l'Editions du Coup. Le topo te donne pour chaque voie la cotation, la longueur, l'equipement, l'orientation et les conseils d'acces. C'est l'investissement obligatoire avant toute sortie."
+      "html": "Renseigne-toi via le club FFME local ou le topo papier specialise comme ceux de FFME ou de l'Editions du Coup. Le topo te donne pour chaque voie la cotation, la longueur, l'équipement, l'orientation et les conseils d'acces. C'est l'investissement obligatoire avant toute sortie."
     },
     {
       "type": "tip",
       "title": "L'accompagnement la premiere fois",
-      "body": "Pour ta toute premiere sortie, vise un grimpeur qui connait le secteur et qui a au moins 5 ans de pratique falaise. Le club FFME organise des sorties decouverte 3 a 4 fois par an. Une journee avec un guide diplome BE coute 80 a 120 euros et te fait gagner un an d'experimentation seul.",
+      "body": "Pour ta toute premiere sortie, vise un grimpeur qui connait le secteur et qui a au moins 5 ans de pratique falaise. Le club FFME organise des sorties découverte 3 a 4 fois par an. Une journee avec un guide diplome BE coûte 80 a 120 euros et te fait gagner un an d'experimentation seul.",
       "tone": "astuce"
     },
     {
       "type": "h2",
-      "text": "Le materiel additionnel"
+      "text": "Le matériel additionnel"
     },
     {
       "type": "p",
@@ -56,18 +56,18 @@
     {
       "type": "list",
       "variant": "cards",
-      "title": "Materiel a ajouter pour la falaise",
+      "title": "Matériel a ajouter pour la falaise",
       "items": [
         {
           "title": "Casque escalade",
-          "body": "Modeles legers Petzl Sirocco ou Mammut Wall Rider, 80 a 130 euros. Indispensable sous voie et en grimpant en couenne. Verifie l'ajustement avant chaque sortie."
+          "body": "Modeles legers Petzl Sirocco ou Mammut Wall Rider, 80 a 130 euros. Indispensable sous voie et en grimpant en couenne. Vérifie l'ajustement avant chaque sortie."
         },
         {
           "title": "10 a 12 degaines",
-          "body": "Modeles Petzl Spirit ou Black Diamond HotForge en alu 8 a 14 euros piece. Sangle de 17 ou 25 cm selon la voie. Verifie l'usure des doigts."
+          "body": "Modeles Petzl Spirit ou Black Diamond HotForge en alu 8 a 14 euros piece. Sangle de 17 ou 25 cm selon la voie. Vérifie l'usure des doigts."
         },
         {
-          "title": "Corde 70 a 80 metres",
+          "title": "Corde 70 a 80 mètres",
           "body": "70m suffit pour 90 pour cent des voies francaises. 80m utile en falaises longues type Verdon. Beal Joker 9.1 ou Petzl Volta 9.2 sont des references."
         },
         {
@@ -82,11 +82,11 @@
     },
     {
       "type": "p",
-      "html": "On y revient dans <a href=\"/blog/apprendre-escalade-debutant\">le panorama du grimpeur débutant</a>. <a href=\"/blog/lecture-voie-strategie\">La lecture</a> de voie change radicalement en falaise. Pas de couleurs, tu cherches les prises a l'oeil, en repérant les bossages, les fissures, les reglettes naturelles. Le topo te donne souvent une description et la cotation, mais l'ordre des prises se trouve sur le rocher en direct."
+      "html": "Les repères de la salle s'effondrent en falaise. Là où <a href=\"/blog/apprendre-escalade-debutant\">le panorama du grimpeur débutant</a> s'appuie sur les couleurs des prises, le rocher demande de tout relire. <a href=\"/blog/lecture-voie-strategie\">La lecture de voie</a> change radicalement en falaise. Pas de couleurs, tu cherches les prises à l'œil, en repérant les bossages, les fissures, les réglettes naturelles. Le topo te donne souvent une description et la cotation, mais l'ordre des prises se trouve sur le rocher en direct."
     },
     {
       "type": "p",
-      "html": "Prends 5 a 10 minutes au sol pour observer la voie avant de partir. Repere les 3 ou 4 mouvements cles, les degaines en place, le relais. Si une autre cordee a deja fait la voie, observe son passage. Cette lecture initiale t'evite de paniquer au crux faute d'info."
+      "html": "Prends 5 a 10 minutes au sol pour observer la voie avant de partir. Repere les 3 ou 4 mouvements cles, les degaines en place, le relais. Si une autre cordee a déjà fait la voie, observe son passage. Cette lecture initiale t'évite de paniquer au crux faute d'info."
     },
     {
       "type": "h2",
@@ -98,7 +98,7 @@
     },
     {
       "type": "p",
-      "html": "Pour la premiere sortie, reste sur des voies que tu enchaines de premier coup ou apres une chute douce. Ne fais pas de projection ambitieuse, ce n'est pas le moment. Tu profites du rocher, tu enchaines 5 a 8 voies tranquilles, tu rentres satisfait. La projection vient apres 5 ou 6 sorties d'experience."
+      "html": "Pour la premiere sortie, reste sur des voies que tu enchaines de premier coup ou après une chute douce. Ne fais pas de projection ambitieuse, ce n'est pas le moment. Tu profites du rocher, tu enchaines 5 a 8 voies tranquilles, tu rentres satisfait. La projection vient après 5 ou 6 sorties d'expérience."
     },
     {
       "type": "h2",
@@ -124,7 +124,7 @@
           "Saffres, Saussois, Verdon"
         ],
         [
-          "Ete (juin-aout)",
+          "Été (juin-aout)",
           "Nord, nord-ouest ombrage",
           "Ceuse face nord, Vercors haut"
         ],
@@ -137,7 +137,7 @@
     },
     {
       "type": "p",
-      "html": "Verifie la meteo 24h avant et 48h avant la sortie. Le rocher doit etre sec depuis au moins 48 heures pour offrir une adherence correcte. Une fine pluie de <a href=\"/blog/dalle-escalade-techniques\">la veille rend dalle</a> et calcaire glissants jusqu'au lendemain. Annule sans regret si la meteo ne suit pas, tu gagneras en plaisir."
+      "html": "Vérifie la météo 24h avant et 48h avant la sortie. Le rocher doit être sec depuis au moins 48 heures pour offrir une adhérence correcte. Une fine pluie de la veille rend la dalle et le calcaire glissants jusqu'au lendemain : <a href=\"/blog/dalle-escalade-techniques\">la grimpe en dalle calcaire</a> ne pardonne pas l'humidité résiduelle. Annule sans regret si la météo ne suit pas, tu gagneras en plaisir."
     },
     {
       "type": "h2",
@@ -145,23 +145,23 @@
     },
     {
       "type": "p",
-      "html": "Au pied de la voie, applique le respect des autres cordees. Ne pose pas ton sac sous une voie occupee, ne grimpe pas en simultanee sous quelqu'un en haut, ne chauffe pas dans le passage. La regle est detaillee <a href=\"/blog/comportement-falaise-collectif\">dans le comportement</a> en falaise qu'il faut maitriser des la premiere sortie."
+      "html": "Au pied de la voie, applique le respect des autres cordées. Ne pose pas ton sac sous une voie occupée, ne grimpe pas en simultanée sous quelqu'un en haut, ne chauffe pas dans le passage. La règle est détaillée dans <a href=\"/blog/comportement-falaise-collectif\">le comportement collectif en falaise</a> qu'il faut maîtriser dès la première sortie."
     },
     {
       "type": "p",
-      "html": "Discute avec les autres cordees, demande conseil sur les voies, partage si tu connais un bon coin. La communaute des grimpeurs reste accueillante en general, mais la primo-arrivante qui debarque sans codes peut faire grimacer."
+      "html": "Discute avec les autres cordees, demande conseil sur les voies, partage si tu connais un bon coin. La communaute des grimpeurs reste accueillante en général, mais la primo-arrivante qui debarque sans codes peut faire grimacer."
     },
     {
       "type": "h2",
-      "text": "Apres la sortie"
+      "text": "Après la sortie"
     },
     {
       "type": "p",
-      "html": "Au retour, prends 30 minutes pour debriefer mentalement. Note dans un carnet les voies enchainees, les difficultes rencontrees, le materiel manquant, les progres a faire. Cette discipline construit ton experience falaise sur le long terme. <a href=\"/blog/premiere-fois-salle-escalade\">Ma première</a> sortie en falaise, c'était à Saffres en Bourgogne en 2014 avec le club de Colmar. Je grimpais du 5c en salle, je me suis cassé les dents sur du 5a en falaise parce que je cherchais des prises résinées invisibles sur le calcaire. La lecture de voie en extérieur, j'ai dû la ré<a href=\"/blog/apprendre-escalade-debutant\">apprendre les bases</a> de zéro."
+      "html": "Au retour, prends 30 minutes pour débriefer mentalement. Note dans un carnet les voies enchaînées, les difficultés rencontrées, le matériel manquant, les progrès à faire. Cette discipline construit ton expérience falaise sur le long terme. Ma toute première sortie en falaise, c'était à Saffres en Bourgogne en 2014 avec mon club. Je grimpais du 5c en salle, je me suis cassé les dents sur du 5a en falaise parce que je cherchais des prises résinées invisibles sur le calcaire. La lecture de voie en extérieur, j'ai dû la réapprendre de zéro."
     },
     {
       "type": "p",
-      "html": "Programme la deuxieme sortie dans les 2 a 3 semaines apres la premiere, pour conserver l'elan. La regularite des sorties matters, pas la duree de chacune. 4 sorties d'une journee espacees comptent autant qu'un stage d'une semaine."
+      "html": "Programme la deuxieme sortie dans les 2 a 3 semaines après la premiere, pour conserver l'elan. La regularite des sorties matters, pas la durée de chacune. 4 sorties d'une journee espacees comptent autant qu'un stage d'une semaine."
     },
     {
       "type": "quote",
@@ -176,57 +176,47 @@
       "a": "Le 5c salle solide est le minimum, le 6a recommande. En dessous, le passage salle vers falaise sera trop frustrant. Au-dessus tu profites mieux et tu reviens avec confiance. Ne brule pas les etapes en salle avant d'engager du rocher."
     },
     {
-      "q": "Faut-il un assureur experimente pour la falaise ?",
-      "a": "Oui obligatoire la premiere fois. La chute en falaise est plus engagee qu'en salle, l'assureur doit savoir donner du mou, dynamiser, gerer le pendule. Trois ans d'experience minimum pour ton assureur, ou un guide BE professionnel."
+      "q": "Faut-il un assureur expérimenté pour la falaise ?",
+      "a": "Oui obligatoire la premiere fois. La chute en falaise est plus engagee qu'en salle, l'assureur doit savoir donner du mou, dynamiser, gerer le pendule. Trois ans d'expérience minimum pour ton assureur, ou un guide BE professionnel."
     },
     {
       "q": "Comment trouver un coequipier pour la falaise ?",
-      "a": "Via le club FFME local qui organise des sorties hebdo, via les groupes Facebook locaux, via les forums comme Camptocamp, ou en demandant en salle. Beaucoup de grimpeurs accueillent volontiers un debutant motive."
+      "a": "Via le club FFME local qui organise des sorties hebdo, via les groupes Facebook locaux, via les forums comme Camptocamp, ou en demandant en salle. Beaucoup de grimpeurs accueillent volontiers un débutant motive."
     },
     {
       "q": "Quel budget pour s'equiper falaise ?",
-      "a": "Compte 400 a 600 euros pour le materiel complet : corde, degaines, casque, sangles, longe, chaussures d'approche. Si tu loues ou empruntes au depart, le budget descend a 100 euros. Investis progressivement sur 2 ans."
+      "a": "Compte 400 a 600 euros pour le matériel complet : corde, degaines, casque, sangles, longe, chaussures d'approche. Si tu loues ou empruntes au depart, le budget descend a 100 euros. Investis progressivement sur 2 ans."
     },
     {
-      "q": "La premiere sortie doit-elle etre courte ou longue ?",
-      "a": "Vise une journee complete, 6 a 8 heures sur site avec pauses. Une demi-journee laisse trop peu de temps pour s'acclimater. Une sortie sur 2 jours est ideale apres 5 ou 6 premieres sorties. La fatigue rocher monte vite quand on debute."
+      "q": "La premiere sortie doit-elle être courte ou longue ?",
+      "a": "Vise une journee complete, 6 a 8 heures sur site avec pauses. Une demi-journee laisse trop peu de temps pour s'acclimater. Une sortie sur 2 jours est idéale après 5 ou 6 premieres sorties. La fatigue rocher monte vite quand on debute."
     },
     {
       "q": "Faut-il prendre une licence FFME pour la falaise ?",
-      "a": "Pas obligatoire mais fortement conseille. La licence couvre l'assurance individuelle, donne acces aux topos officiels, et permet de participer aux sorties club. Cout 50 a 80 euros par an selon le club. Un bon investissement."
+      "a": "Pas obligatoire mais fortement conseille. La licence couvre l'assurance individuelle, donne acces aux topos officiels, et permet de participer aux sorties club. Coût 50 a 80 euros par an selon le club. Un bon investissement."
     }
   ],
-  "cover_alt": "Couple de grimpeurs au pied d'une voie de calcaire blanc, casques sur la tete, sac de cordes au sol, ciel bleu et garrigue mediterraneenne en arriere plan",
+  "cover_alt": "Couple de grimpeurs au pied d'une voie de calcaire blanc, casques sur la tête, sac de cordes au sol, ciel bleu et garrigue mediterraneenne en arriere plan",
   "internal_links": [
     {
       "slug": "apprendre-escalade-debutant",
-      "anchor": "apprendre l'escalade en 2026",
-      "context": "Pilier general"
+      "anchor": "le panorama du grimpeur débutant",
+      "context": "Pilier général"
     },
     {
       "slug": "lecture-voie-strategie",
-      "anchor": "lecture de voie",
+      "anchor": "La lecture de voie",
       "context": "Adaptation rocher"
     },
     {
-      "slug": "chuter-en-grimpe-apprentissage",
-      "anchor": "technique de chute en confiance",
-      "context": "Securite cle"
-    },
-    {
-      "slug": "comportement-falaise-collectif",
-      "anchor": "comportement en falaise",
-      "context": "Codes communautaires"
-    },
-    {
       "slug": "dalle-escalade-techniques",
-      "anchor": "techniques de dalle",
+      "anchor": "la grimpe en dalle calcaire",
       "context": "Style probable rencontre"
     },
     {
-      "slug": "premiere-fois-salle-escalade",
-      "anchor": "premiere sortie en salle",
-      "context": "Etape precedente"
+      "slug": "comportement-falaise-collectif",
+      "anchor": "le comportement collectif en falaise",
+      "context": "Codes communautaires"
     }
   ],
   "scheduled_at": "2026-07-25T09:00:00+02:00"
