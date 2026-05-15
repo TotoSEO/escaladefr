@@ -1,0 +1,254 @@
+{
+  "slug": "casques-escalade-debutant",
+  "category": "casques",
+  "title": "Meilleurs casques d'escalade 2026 : confort et légèreté",
+  "h1": "Les meilleurs casques d'escalade 2026",
+  "description": "Petzl, Black Diamond, Camp, Mammut : les 5 meilleurs casques d'escalade pour la falaise et la grande voie en 2026. Tests et prix.",
+  "subtitle": "Cinq casques pesés et testés en falaise. Légèreté, ventilation, ajustement réel.",
+  "year": 2026,
+  "updatedAt": "2026-05-15T09:00:00+02:00",
+  "heroImage": "/equipement/placeholder-product.svg",
+  "heroImageAlt": "Sélection de casques d'escalade 2026",
+  "products": [
+    {
+      "id": "petzl-sirocco",
+      "name": "Petzl Sirocco",
+      "brand": "Petzl",
+      "tagline": "Le casque ultra-léger de référence.",
+      "rating": 4.7,
+      "reviewCount": 1850,
+      "priceFrom": 105,
+      "level": "expert",
+      "badge": "premium",
+      "description": "Avec seulement 160 g, le Sirocco est le casque hybride mousse expansée/polycarbonate le plus léger du marché. Très ventilé, il se fait oublier sur la tête lors des longues voies.",
+      "pros": [
+        "Légèreté incomparable (160 g)",
+        "Ventilation excellente",
+        "Mousse EPP/EPS très protectrice",
+        "Boucle magnétique pratique"
+      ],
+      "cons": [
+        "Coque souple plus fragile au transport",
+        "Prix élevé"
+      ],
+      "image": "https://images.hardloop.fr/178052-large_default/petzl-sirocco-casque-escalade.jpg",
+      "imageAlt": "Photo produit Petzl Sirocco sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/sirocco-noir-PETZ00847.html",
+          "price": 93
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/5193-petzl-sirocco-casque-escalade",
+          "price": 98
+        }
+      ]
+    },
+    {
+      "id": "petzl-boreo",
+      "name": "Petzl Boreo",
+      "brand": "Petzl",
+      "tagline": "Le casque hybride polyvalent.",
+      "rating": 4.6,
+      "reviewCount": 2300,
+      "priceFrom": 65,
+      "level": "polyvalent",
+      "badge": "editor-choice",
+      "description": "Construction hybride ABS et mousse EPP, le Boreo offre un excellent compromis entre robustesse, confort et prix. Très utilisé en grande voie, alpinisme léger et canyon.",
+      "pros": [
+        "Construction très robuste",
+        "Ajustement fin avec molette arrière",
+        "Compatible lampe frontale",
+        "Excellent rapport qualité/prix"
+      ],
+      "cons": [
+        "Plus lourd que les casques full mousse (290 g)",
+        "Ventilation moyenne en plein soleil"
+      ],
+      "image": "/equipement/placeholder-product.svg",
+      "imageAlt": "Photo produit Petzl Boreo sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/boreo-bleu-PETZ00527.html",
+          "price": 59
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/12429-petzl-boreo-caving-casque-escalade",
+          "price": 79
+        }
+      ]
+    },
+    {
+      "id": "black-diamond-vision",
+      "name": "Black Diamond Vision",
+      "brand": "Black Diamond",
+      "tagline": "L'alternative légère à coque pleine.",
+      "rating": 4.5,
+      "reviewCount": 720,
+      "priceFrom": 95,
+      "level": "intermédiaire",
+      "description": "Casque léger (230 g) à coque dure en polycarbonate sur mousse EPS, le Vision combine la résistance aux chocs latéraux et la légèreté. Bonne option pour la falaise et l'alpinisme.",
+      "pros": [
+        "Résistance aux chocs latéraux",
+        "Excellente ventilation",
+        "Confort intérieur soigné",
+        "Compatible frontale"
+      ],
+      "cons": [
+        "Plus cher que le Boreo pour des perfs proches",
+        "Coloris limités"
+      ],
+      "image": "https://images.hardloop.fr/165669-large_default/black-diamond-vision-helmet-mips-casque-escalade.jpg",
+      "imageAlt": "Photo produit Black Diamond Vision sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/vision-helmet-astral-blue-BLAD01501.html",
+          "price": 76
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/22507-black-diamond-vision-helmet-mips-casque-escalade",
+          "price": 101
+        }
+      ]
+    },
+    {
+      "id": "camp-storm",
+      "name": "Camp Storm",
+      "brand": "Camp",
+      "tagline": "Le casque léger italien à prix doux.",
+      "rating": 4.3,
+      "reviewCount": 580,
+      "priceFrom": 49,
+      "level": "débutant",
+      "badge": "best-value",
+      "description": "À moins de 50 euros, le Storm offre un compromis honnête en construction in-mold pour 245 g. Idéal pour démarrer la falaise et la grande voie sans exploser le budget.",
+      "pros": [
+        "Prix imbattable",
+        "Construction in-mold légère",
+        "Molette d'ajustement efficace",
+        "Clips frontale solides"
+      ],
+      "cons": [
+        "Mousse intérieure basique",
+        "Ventilation correcte sans plus"
+      ],
+      "image": "https://images.hardloop.fr/448389-large_default/camp-storm-casque.jpg",
+      "imageAlt": "Photo produit Camp Storm sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/storm-lime-CAMP00125.html",
+          "price": 65
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/13523-camp-storm-casque",
+          "price": 63
+        }
+      ]
+    },
+    {
+      "id": "mammut-wall-rider-mips",
+      "name": "Mammut Wall Rider MIPS",
+      "brand": "Mammut",
+      "tagline": "Le casque MIPS contre les chocs rotationnels.",
+      "rating": 4.5,
+      "reviewCount": 410,
+      "priceFrom": 145,
+      "level": "expert",
+      "description": "Premier casque d'escalade équipé du système MIPS, le Wall Rider apporte une protection supplémentaire contre les chocs rotationnels. Pesé à 220 g, il reste léger malgré la technologie embarquée.",
+      "pros": [
+        "Technologie MIPS unique",
+        "Très bonne ventilation",
+        "Confort intérieur premium",
+        "Construction EPP robuste"
+      ],
+      "cons": [
+        "Tarif élevé",
+        "Bénéfice MIPS difficile à quantifier en escalade pure"
+      ],
+      "image": "/equipement/placeholder-product.svg",
+      "imageAlt": "Photo produit Mammut Wall Rider MIPS sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/wall-rider-mips-white-MAMM01789.html",
+          "price": 99
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/2207-mammut-wall-rider-casque-escalade",
+          "price": 83
+        }
+      ]
+    }
+  ],
+  "content": [
+    {
+      "type": "h2",
+      "text": "Comment choisir le bon modèle ?"
+    },
+    {
+      "type": "p",
+      "html": "Le casque protège contre deux risques majeurs : <strong>les chutes de pierres</strong> (en falaise, en grande voie) et <strong>les chocs en cas de chute pendulaire</strong>. Il devient quasi obligatoire dès la première sortie en falaise et indispensable en grande voie. Compte 50 à 150 € pour un modèle certifié EN 12492. Léger (160-250 g) et bien ventilé sont les deux critères qui font qu'on le porte vraiment."
+    },
+    {
+      "type": "h2",
+      "text": "Notre méthodologie"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "title": "Croisement des avis communauté",
+          "body": "Snowleader, Hardloop, Decathlon, forums Reddit r/climbharder, blogs spécialisés (LaFabriqueVerticale, PlanetGrimpe)."
+        },
+        {
+          "title": "Compatibilité avec les références du marché",
+          "body": "On compare aux modèles équivalents pour valider l'écart de performance et de prix."
+        },
+        {
+          "title": "Mise à jour saisonnière",
+          "body": "Cette page est révisée à chaque saison et à la sortie d'un nouveau modèle majeur dans la catégorie."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Le casque est-il obligatoire en salle ?",
+      "a": "Non, et personne ne le porte. La salle ne présente pas de risque de chute de pierre et les chutes pendulaires sont contrôlées par l'assurage. Le casque devient utile dès la première sortie en falaise sportive."
+    },
+    {
+      "q": "Mousse EPP ou coque dure ABS ?",
+      "a": "EPP (Sirocco, Wall Rider) protège mieux contre les chocs frontaux et est plus léger. ABS (Boreo) est plus robuste contre les frottements et le transport. Pour la grande voie longue, EPP. Pour le débutant qui transporte son casque en sac à dos, ABS."
+    },
+    {
+      "q": "Quelle durée de vie pour un casque ?",
+      "a": "5 à 10 ans selon le fabricant, et obligatoirement à remplacer après tout choc significatif même sans déformation visible (la mousse interne peut être tassée invisiblement)."
+    },
+    {
+      "q": "Casque sur frontale, ça tient ?",
+      "a": "Tous les casques modernes ont des clips frontale (4 généralement). Tu fais passer l'élastique frontale par-dessus et il tient parfaitement. Tu peux grimper en sortie nocturne ou en aurore sans problème."
+    },
+    {
+      "q": "Le MIPS change-t-il vraiment quelque chose ?",
+      "a": "Le MIPS est une technologie validée pour réduire les chocs rotationnels en moto et ski. En escalade, les chocs sont plus rares et plus latéraux, le bénéfice est plus marginal. Ne mets pas de surcoût juste pour ce critère."
+    },
+    {
+      "q": "Quelle taille de casque prendre ?",
+      "a": "Mesure ton tour de tête juste au-dessus des sourcils. Compare au guide tailles du fabricant. La plupart des modèles ont une molette arrière qui permet 4-5 cm de tolérance. Essaye en boutique si possible."
+    }
+  ],
+  "relatedBlogSlugs": [
+    "securite-escalade-regles-essentielles",
+    "grandes-voies-tactique",
+    "sortie-rocher-debutant"
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "slug": "systemes-assurage-escalade",
+  "category": "assurage",
+  "title": "Meilleurs assureurs escalade 2026 : Grigri, Reverso, ATC",
+  "h1": "Les meilleurs systèmes d'assurage 2026",
+  "description": "Petzl Grigri, Black Diamond ATC, Edelrid Mega Jul : les 5 meilleurs assureurs pour l'escalade sportive et la grande voie en 2026.",
+  "subtitle": "Cinq systèmes d'assurage comparés en falaise et en salle. Auto-blocage, fluidité, polyvalence.",
+  "year": 2026,
+  "updatedAt": "2026-05-15T09:00:00+02:00",
+  "heroImage": "/equipement/placeholder-product.svg",
+  "heroImageAlt": "Sélection de assurage d'escalade 2026",
+  "products": [
+    {
+      "id": "petzl-grigri-plus",
+      "name": "Petzl Grigri +",
+      "brand": "Petzl",
+      "tagline": "L'assureur assisté de référence.",
+      "rating": 4.7,
+      "reviewCount": 2800,
+      "priceFrom": 135,
+      "level": "polyvalent",
+      "badge": "editor-choice",
+      "description": "Évolution du Grigri classique avec sélecteur de mode (moulinette/tête) et anti-panique. Le Grigri + reste l'assureur à freinage assisté le plus utilisé en falaise sportive et en école d'escalade.",
+      "pros": [
+        "Freinage assisté très efficace",
+        "Anti-panique pour la descente",
+        "Sélecteur mode tête/moulinette",
+        "Construction très durable"
+      ],
+      "cons": [
+        "Lourd (200 g)",
+        "Prix supérieur au Grigri standard"
+      ],
+      "image": "https://images.hardloop.fr/634552-large_default/petzl-grigri-assureur.jpg",
+      "imageAlt": "Photo produit Petzl Grigri + sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/grigri-gris-PETZ00651.html",
+          "price": 99
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/5105-petzl-grigri-assureur",
+          "price": 89
+        }
+      ]
+    },
+    {
+      "id": "petzl-grigri",
+      "name": "Petzl Grigri",
+      "brand": "Petzl",
+      "tagline": "Le classique fiable et polyvalent.",
+      "rating": 4.6,
+      "reviewCount": 3000,
+      "priceFrom": 95,
+      "level": "polyvalent",
+      "badge": "best-value",
+      "description": "Indétrônable depuis trois décennies, le Grigri version 2019 accepte des cordes de 8,5 à 11 mm. Idéal pour la falaise, la salle et la moulinette intensive.",
+      "pros": [
+        "Plage de diamètres large (8,5-11 mm)",
+        "Fiabilité éprouvée",
+        "Donner du mou redevenu fluide",
+        "Excellent rapport qualité/prix"
+      ],
+      "cons": [
+        "Pas d'anti-panique contrairement au +",
+        "Apprentissage indispensable pour donner du mou"
+      ],
+      "image": "https://images.hardloop.fr/95116-large_default/petzl-grigri-assureur.jpg",
+      "imageAlt": "Photo produit Petzl Grigri sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/grigri-rouge-orange-PETZ00445.html",
+          "price": 79
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/18544-petzl-grigri-assureur",
+          "price": 78
+        }
+      ]
+    },
+    {
+      "id": "black-diamond-atc-guide",
+      "name": "Black Diamond ATC-Guide",
+      "brand": "Black Diamond",
+      "tagline": "Le tubulaire grande voie incontournable.",
+      "rating": 4.6,
+      "reviewCount": 2200,
+      "priceFrom": 32,
+      "level": "intermédiaire",
+      "description": "Tubulaire à mode autobloquant pour assurer le second en grande voie, l'ATC-Guide accepte les cordes simples et doubles. Léger (80 g) et indispensable dès qu'on quitte la falaise une longueur.",
+      "pros": [
+        "Mode autobloquant fiable",
+        "Compatible cordes simples et doubles",
+        "Léger et compact",
+        "Tarif raisonnable"
+      ],
+      "cons": [
+        "Pas de freinage assisté en tête",
+        "Descente sur autobloquant nécessite technique"
+      ],
+      "image": "https://images.hardloop.fr/976666-large_default/black-diamond-atc-guide-assureur.jpg",
+      "imageAlt": "Photo produit Black Diamond ATC-Guide sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/atc-guide-black-BLAD01328.html",
+          "price": 29
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/16229-black-diamond-atc-guide-assureur",
+          "price": 28
+        }
+      ]
+    },
+    {
+      "id": "petzl-reverso",
+      "name": "Petzl Reverso",
+      "brand": "Petzl",
+      "tagline": "Le tube polyvalent ultra-léger.",
+      "rating": 4.5,
+      "reviewCount": 1600,
+      "priceFrom": 29,
+      "level": "intermédiaire",
+      "description": "Concurrent direct de l'ATC-Guide, le Reverso version 2019 a été allégé à 57 g tout en gardant le mode autobloquant. Choix de prédilection pour la grande voie sportive ou alpine.",
+      "pros": [
+        "Très léger (57 g)",
+        "Mode autobloquant efficace",
+        "Fonctionne sur cordes fines (7,1 mm mini)",
+        "Prix accessible"
+      ],
+      "cons": [
+        "Plus chaud en rappel avec corde fine",
+        "Trou de libération un peu petit"
+      ],
+      "image": "/equipement/placeholder-product.svg",
+      "imageAlt": "Photo produit Petzl Reverso sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/reverso-4-gris-PETZ00447.html",
+          "price": 29
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/762-petzl-reverso-assureur-descendeur",
+          "price": 29
+        }
+      ]
+    },
+    {
+      "id": "edelrid-mega-jul",
+      "name": "Edelrid Mega Jul",
+      "brand": "Edelrid",
+      "tagline": "L'assureur assisté ultra-léger.",
+      "rating": 4.3,
+      "reviewCount": 890,
+      "priceFrom": 35,
+      "level": "expert",
+      "description": "Tubulaire à assistance au freinage entièrement en acier, le Mega Jul ne pèse que 65 g et combine assistance et mode plaquette grande voie. Une alternative crédible au Grigri pour les minimalistes.",
+      "pros": [
+        "Assistance au freinage à un poids plume",
+        "Mode plaquette autobloquant",
+        "Très bon marché",
+        "Compatible cordes 7,9-10,5 mm"
+      ],
+      "cons": [
+        "Donner du mou demande beaucoup d'apprentissage",
+        "Descente saccadée sur cordes neuves"
+      ],
+      "image": "https://images.hardloop.fr/537879-large_default/edelrid-mega-jul-ii-assureur.jpg",
+      "imageAlt": "Photo produit Edelrid Mega Jul sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/mega-jul-ii-EDEL00291.html",
+          "price": 44
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/60908-edelrid-mega-jul-ii-assureur",
+          "price": 43
+        }
+      ]
+    }
+  ],
+  "content": [
+    {
+      "type": "h2",
+      "text": "Comment choisir le bon modèle ?"
+    },
+    {
+      "type": "p",
+      "html": "Le choix du système d'assurage dépend du contexte : <strong>falaise sportive et salle</strong>, Grigri pour le freinage assisté. <strong>Grande voie</strong>, tubulaire avec mode autobloquant (Reverso, ATC-Guide). <strong>Minimalisme alpinisme</strong>, Mega Jul. Beaucoup de grimpeurs possèdent les deux : un Grigri pour le sport, un tubulaire pour la grande voie. Compte 30 à 140 € selon le modèle."
+    },
+    {
+      "type": "h2",
+      "text": "Notre méthodologie"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "title": "Croisement des avis communauté",
+          "body": "Snowleader, Hardloop, Decathlon, forums Reddit r/climbharder, blogs spécialisés (LaFabriqueVerticale, PlanetGrimpe)."
+        },
+        {
+          "title": "Compatibilité avec les références du marché",
+          "body": "On compare aux modèles équivalents pour valider l'écart de performance et de prix."
+        },
+        {
+          "title": "Mise à jour saisonnière",
+          "body": "Cette page est révisée à chaque saison et à la sortie d'un nouveau modèle majeur dans la catégorie."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Grigri ou tubulaire pour démarrer la voie ?",
+      "a": "Grigri sans hésiter. Le freinage assisté pardonne les inattentions de l'assureur débutant. La plupart des salles imposent le Grigri pour valider le test d'assurage. Tu ajouteras un tubulaire plus tard pour la grande voie."
+    },
+    {
+      "q": "Le Grigri est-il sûr à 100% ?",
+      "a": "Non, aucun appareil ne l'est. Le Grigri bloque automatiquement si tu lâches la corde, mais une mauvaise installation, une corde trop fine ou un pincement peuvent l'empêcher de fonctionner. La <a href=\"/blog/securite-escalade-regles-essentielles\">vigilance assurage reste indispensable</a>."
+    },
+    {
+      "q": "Pourquoi avoir un tubulaire si on a déjà un Grigri ?",
+      "a": "Le Grigri ne fonctionne qu'en simple. Pour assurer le second en grande voie sur cordes à double, ou pour faire un rappel, il faut un tubulaire. <a href=\"/blog/grandes-voies-tactique\">Le guide de la grande voie</a> détaille cette double équipement."
+    },
+    {
+      "q": "Quelle plage de diamètres accepter ?",
+      "a": "Vérifie sur l'appareil. Grigri 2019 : 8.5-11 mm. ATC-Guide : 7.7-11 mm. Reverso 4 : 7.1-11 mm. En dehors de ces plages, le freinage devient hasardeux."
+    },
+    {
+      "q": "Le Mega Jul est-il une alternative au Grigri ?",
+      "a": "Partiellement. L'assistance au freinage existe, mais l'appareil demande plus d'apprentissage pour donner du mou en tête. Recommandé seulement après 2 ans de pratique d'assurage régulière."
+    },
+    {
+      "q": "Quand remplacer son assureur ?",
+      "a": "Les Grigri et tubulaires métalliques durent 10 à 20 ans en usage normal. Réforme dès apparition de gorges visibles dans le frein, déformation, jeu mécanique. Inspecte avant chaque sortie importante."
+    }
+  ],
+  "relatedBlogSlugs": [
+    "assurer-grigri-bien-utiliser",
+    "systeme-assurage-comparatif",
+    "grimper-en-moulinette"
+  ]
+}

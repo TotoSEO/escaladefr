@@ -141,23 +141,22 @@ export default async function EquipementHubPage() {
 
           <div className="mt-16 grid grid-cols-12 gap-y-6 border-t border-white/10 pt-12">
             <span className="col-span-12 font-mono text-[11px] uppercase tracking-[0.28em] text-primary sm:col-span-4">
-              § Notre règle
+              § Transparence affiliation
             </span>
             <div className="col-span-12 sm:col-span-8">
-              <p
-                className="font-display font-medium leading-[0.96] tracking-[-0.02em] text-balance"
-                style={{ fontSize: "clamp(1.7rem, 4vw, 3.5rem)" }}
-              >
-                Si on ne grimperait pas avec,
-                <br />
-                <span className="italic text-accent">on ne le recommande pas</span>.
+              <p className="text-base leading-relaxed text-foreground/85 sm:text-lg">
+                Ces pages contiennent des liens d&apos;affiliation. Si tu
+                achètes via l&apos;un de ces liens, le marchand nous reverse
+                une petite commission, sans surcoût pour toi. Cela finance le
+                site sans transformer le contenu en publicité.
               </p>
-              <p className="mt-6 max-w-3xl text-base leading-relaxed text-muted-foreground sm:text-lg">
-                Les liens d&apos;affiliation financent le site, on l&apos;assume
-                clairement. Mais chaque produit listé a été testé sur des
-                sessions réelles, ou validé par des grimpeurs en qui on a
-                confiance. Pas de listing automatique, pas de placement payé,
-                pas de top-10 généré pour faire du volume.
+              <p className="mt-4 text-base leading-relaxed text-foreground/85 sm:text-lg">
+                Les sélections s&apos;appuient sur les avis communauté
+                (Snowleader, Hardloop, Decathlon), les comparatifs de la
+                presse spécialisée (Alpine Mag, PlanetGrimpe) et le croisement
+                avec les marques de référence du marché. Tu trouveras toujours
+                les forces et les limites de chaque modèle, pas seulement les
+                arguments commerciaux.
               </p>
             </div>
           </div>

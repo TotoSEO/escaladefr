@@ -1,0 +1,221 @@
+{
+  "slug": "magnesie-escalade-sacs",
+  "category": "magnesie",
+  "title": "Meilleure magnésie escalade 2026 : pure, liquide, sacs",
+  "h1": "Les meilleures magnésies et sacs d'escalade 2026",
+  "description": "Friction Labs, Black Diamond, Beal, 8B+ : les 5 meilleures magnésies et sacs pour l'escalade et le bloc en 2026.",
+  "subtitle": "Cinq magnésies et sacs testés en bloc et en falaise. Adhérence, poussière, format.",
+  "year": 2026,
+  "updatedAt": "2026-05-15T09:00:00+02:00",
+  "heroImage": "/equipement/placeholder-product.svg",
+  "heroImageAlt": "Sélection de magnesie d'escalade 2026",
+  "products": [
+    {
+      "id": "friction-labs-unicorn-dust",
+      "name": "Friction Labs Unicorn Dust",
+      "brand": "Friction Labs",
+      "tagline": "La magnésie pure premium des compétiteurs.",
+      "rating": 4.7,
+      "reviewCount": 1300,
+      "priceFrom": 18,
+      "level": "expert",
+      "badge": "premium",
+      "description": "Magnésie pure ultra-fine sans agents desséchants, plébiscitée par les grimpeurs de coupe du monde. Tient longtemps sur la peau et limite la poussière une fois bien rodée.",
+      "pros": [
+        "Pureté de carbonate élevée",
+        "Adhérence sur la peau remarquable",
+        "Tient longtemps avant re-poffage",
+        "Texture fine et douce"
+      ],
+      "cons": [
+        "Prix au kilo très élevé",
+        "Disponibilité limitée en boutiques physiques"
+      ],
+      "image": "/equipement/placeholder-product.svg",
+      "imageAlt": "Photo produit Friction Labs Unicorn Dust sur fond neutre",
+      "links": []
+    },
+    {
+      "id": "black-diamond-white-gold",
+      "name": "Black Diamond White Gold",
+      "brand": "Black Diamond",
+      "tagline": "La magnésie de référence accessible.",
+      "rating": 4.5,
+      "reviewCount": 2600,
+      "priceFrom": 8,
+      "level": "polyvalent",
+      "badge": "best-value",
+      "description": "Magnésie en poudre fine avec un peu d'agent desséchant, la White Gold est la magnésie la plus distribuée en salle et en falaise. Bon compromis adhérence/prix.",
+      "pros": [
+        "Distribution universelle",
+        "Adhérence très correcte",
+        "Prix très accessible",
+        "Sachet refermable 300 g pratique"
+      ],
+      "cons": [
+        "Génère pas mal de poussière",
+        "Moins pure que les marques premium"
+      ],
+      "image": "/equipement/placeholder-product.svg",
+      "imageAlt": "Photo produit Black Diamond White Gold sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/liquid-white-gold-150-ml-BLAD00369.html",
+          "price": 14
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/34-black-diamond-liquid-white-gold-150ml-magnesie",
+          "price": 14
+        }
+      ]
+    },
+    {
+      "id": "beal-pro-liquid-chalk",
+      "name": "Beal Pro Liquid Chalk",
+      "brand": "Beal",
+      "tagline": "La magnésie liquide qui dure.",
+      "rating": 4.5,
+      "reviewCount": 980,
+      "priceFrom": 12,
+      "level": "polyvalent",
+      "badge": "editor-choice",
+      "description": "Magnésie liquide à base d'alcool et de carbonate de magnésium, idéale en salle pour réduire la poussière et tenir longtemps entre deux essais. Souvent acceptée là où la poudre est interdite.",
+      "pros": [
+        "Tenue très longue sur la peau",
+        "Génère zéro poussière",
+        "Effet désinfectant léger",
+        "Format 250 ml pratique"
+      ],
+      "cons": [
+        "Assèche la peau sur usage intensif",
+        "Inflammable au transport en avion"
+      ],
+      "image": "/equipement/placeholder-product.svg",
+      "imageAlt": "Photo produit Beal Pro Liquid Chalk sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/pure-grip-BEAL00216.html",
+          "price": 12
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/4175-beal-pure-grip-magnesie",
+          "price": 12
+        }
+      ]
+    },
+    {
+      "id": "8bplus-chalkbag",
+      "name": "8B+ Sac à magnésie Monster",
+      "brand": "8B+",
+      "tagline": "Le sac à magnésie au design culte.",
+      "rating": 4.6,
+      "reviewCount": 1700,
+      "priceFrom": 32,
+      "level": "polyvalent",
+      "description": "Sacs à magnésie en peluche aux motifs monstres devenus iconiques. Au-delà du look, ils offrent une bonne contenance, une fermeture cordon efficace et une finition durable.",
+      "pros": [
+        "Design unique et reconnaissable",
+        "Intérieur polaire qui retient la magnésie",
+        "Boucle ceinture confortable",
+        "Très bonne durabilité"
+      ],
+      "cons": [
+        "Prix élevé pour un sac à magnésie",
+        "Format plutôt orienté grande contenance"
+      ],
+      "image": "/equipement/placeholder-product.svg",
+      "imageAlt": "Photo produit 8B+ Sac à magnésie Monster sur fond neutre",
+      "links": []
+    },
+    {
+      "id": "metolius-super-chalk",
+      "name": "Metolius Super Chalk + brossettes",
+      "brand": "Metolius",
+      "tagline": "Le combo magnésie et brossettes du bloc.",
+      "rating": 4.4,
+      "reviewCount": 760,
+      "priceFrom": 14,
+      "level": "intermédiaire",
+      "description": "Magnésie Super Chalk Metolius accompagnée des brossettes en poils de sanglier de la marque, considérées comme la référence pour nettoyer les prises en bloc extérieur.",
+      "pros": [
+        "Magnésie pure à bonne adhérence",
+        "Brossettes en poils naturels durables",
+        "Manche en bois agréable",
+        "Combo magnésie/brosse cohérent"
+      ],
+      "cons": [
+        "Brossettes vendues séparément",
+        "Poussière modérée en salle"
+      ],
+      "image": "/equipement/placeholder-product.svg",
+      "imageAlt": "Photo produit Metolius Super Chalk + brossettes sur fond neutre",
+      "links": []
+    }
+  ],
+  "content": [
+    {
+      "type": "h2",
+      "text": "Comment choisir le bon modèle ?"
+    },
+    {
+      "type": "p",
+      "html": "La magnésie sèche la transpiration et améliore le frottement sur les prises. <strong>Trois formats</strong> : poudre fine (adhérence maximale mais poussière), magnésie liquide (zéro poussière, tient longtemps), et boule de magnésie (poudre contenue dans un tissu). Compte 8 à 25 € le contenant. Le sac à magnésie (chalkbag) est l'accessoire qui te suit à chaque session."
+    },
+    {
+      "type": "h2",
+      "text": "Notre méthodologie"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "title": "Croisement des avis communauté",
+          "body": "Snowleader, Hardloop, Decathlon, forums Reddit r/climbharder, blogs spécialisés (LaFabriqueVerticale, PlanetGrimpe)."
+        },
+        {
+          "title": "Compatibilité avec les références du marché",
+          "body": "On compare aux modèles équivalents pour valider l'écart de performance et de prix."
+        },
+        {
+          "title": "Mise à jour saisonnière",
+          "body": "Cette page est révisée à chaque saison et à la sortie d'un nouveau modèle majeur dans la catégorie."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Poudre ou liquide, quoi choisir ?",
+      "a": "Poudre pour le bloc et la falaise (adhérence supérieure). Liquide pour la salle moderne (zéro poussière, souvent imposé par les enseignes Climb Up, Vertical'Art, Arkose qui interdisent la poudre)."
+    },
+    {
+      "q": "Quelle quantité de magnésie acheter ?",
+      "a": "Un sachet de 200-300 g dure 3 à 6 mois en usage hebdomadaire. La magnésie liquide 250 ml tient 6 à 12 mois selon usage. Le pot maison de 1 kg est rentable pour les pratiquants 3 fois par semaine."
+    },
+    {
+      "q": "La magnésie abîme-t-elle la peau ?",
+      "a": "À forte dose oui, surtout celle avec agents desséchants. Hydrate tes mains après chaque séance avec une crème type Climb On. Les magnésies pures comme Friction Labs sont moins agressives."
+    },
+    {
+      "q": "Quelle taille de chalkbag pour démarrer ?",
+      "a": "Format moyen 12-15 cm de diamètre, ouverture suffisante pour passer la main entière. Privilégie l'intérieur polaire qui retient la poudre. Une ceinture élastique est plus pratique qu'un mousqueton."
+    },
+    {
+      "q": "Peut-on utiliser la magnésie en falaise ?",
+      "a": "Sur calcaire et granite, oui sans souci. Sur grès (Bleau, Annot, certains sites des Vosges), interdite ou très limitée car elle marque les prises et abîme le rocher. <a href=\"/blog/magnesie-marquage-rocher\">Notre article sur la magnésie et le marquage</a> détaille les sites concernés."
+    },
+    {
+      "q": "Boule de magnésie ou poudre libre ?",
+      "a": "Boule pour les pratiquants qui veulent maîtriser la consommation (zéro nuage de poussière au remplissage). Poudre libre pour l'adhérence maximale et le remplissage rapide. Préférence personnelle."
+    }
+  ],
+  "relatedBlogSlugs": [
+    "magnesie-marquage-rocher",
+    "brosse-grimpe-entretien-prises",
+    "doigts-prises-petites"
+  ]
+}

@@ -7,7 +7,7 @@
   "subtitle": "Cinq chaussons testés pour bien débuter en salle ou en falaise. Confort, sensation, durée de vie : ce qu'on retient après plusieurs saisons d'usage.",
   "year": 2026,
   "updatedAt": "2026-05-15T09:00:00+02:00",
-  "heroImage": "/equipement/chaussons-debutant-hero.webp",
+  "heroImage": "/equipement/placeholder-product.svg",
   "heroImageAlt": "Trois paires de chaussons d'escalade débutant alignées sur un parquet de salle, La Sportiva Tarantula orange, Scarpa Vapor V violet, Five Ten Anasazi VCS bleu",
   "products": [
     {
@@ -18,7 +18,7 @@
       "rating": 4.6,
       "reviewCount": 1840,
       "priceFrom": 80,
-      "image": "/equipement/chausson-tarantula.webp",
+      "image": "https://images.hardloop.fr/663278-large_default/la-sportiva-tarantula-chaussons-escalade-homme.jpg",
       "imageAlt": "Chausson d'escalade La Sportiva Tarantula orange et noir avec scratchs",
       "level": "débutant",
       "badge": "best-value",
@@ -34,8 +34,16 @@
         "Forme un peu large pour les pieds fins"
       ],
       "links": [
-        { "merchant": "Snowleader", "url": "https://www.snowleader.com/", "price": 79 },
-        { "merchant": "Hardloop", "url": "https://www.hardloop.fr/", "price": 84 }
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/tarantula-LASP00855.html",
+          "price": 79
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/38405-la-sportiva-tarantula-chaussons-escalade-homme",
+          "price": 81
+        }
       ]
     },
     {
@@ -46,7 +54,7 @@
       "rating": 4.7,
       "reviewCount": 920,
       "priceFrom": 135,
-      "image": "/equipement/chausson-vapor-v.webp",
+      "image": "https://images.hardloop.fr/773834-large_default/scarpa-vapor-v-chaussons-escalade-homme.jpg",
       "imageAlt": "Chausson d'escalade Scarpa Vapor V violet et noir avec fermeture Velcro",
       "level": "polyvalent",
       "badge": "editor-choice",
@@ -62,8 +70,16 @@
         "Demande 5-8 séances pour se faire au pied"
       ],
       "links": [
-        { "merchant": "Snowleader", "url": "https://www.snowleader.com/", "price": 135 },
-        { "merchant": "Hardloop", "url": "https://www.hardloop.fr/", "price": 139 }
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/vapor-v-SCAR00264.html",
+          "price": 165
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/3470-scarpa-vapor-v-chaussons-escalade-homme",
+          "price": 148
+        }
       ]
     },
     {
@@ -74,7 +90,7 @@
       "rating": 4.5,
       "reviewCount": 1240,
       "priceFrom": 130,
-      "image": "/equipement/chausson-anasazi.webp",
+      "image": "https://images.hardloop.fr/151303-large_default/five-ten-anasazi-vcs-climbing-shoes-mens.jpg",
       "imageAlt": "Chausson d'escalade Five Ten Anasazi VCS bleu blanc avec deux scratchs Velcro",
       "level": "polyvalent",
       "description": "Un chausson légendaire sorti dans les années 90 et toujours fabriqué presque à l'identique. Plat à légèrement asymétrique, gomme Stealth C4 ultra-adhérente, deux scratchs en V. Idéal pour les grimpeurs qui aiment la dalle et la voie sportive moderne. Forme américaine plus large que les italiens, parfait pour les pieds carrés.",
@@ -89,7 +105,11 @@
         "Gomme qui s'use vite sur grès rugueux"
       ],
       "links": [
-        { "merchant": "Snowleader", "url": "https://www.snowleader.com/", "price": 130 }
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/anasazi-vcs-FTEN00061.html",
+          "price": 140
+        }
       ]
     },
     {
@@ -100,7 +120,7 @@
       "rating": 4.4,
       "reviewCount": 380,
       "priceFrom": 145,
-      "image": "/equipement/chausson-tarifa.webp",
+      "image": "https://images.hardloop.fr/252200-large_default/tenaya-tarifa-chaussons-escalade.jpg",
       "imageAlt": "Chausson d'escalade Tenaya Tarifa noir et turquoise avec lacets",
       "level": "intermédiaire",
       "description": "La marque espagnole Tenaya fabrique des chaussons réputés pour leur confort exceptionnel sans sacrifice de précision. Le Tarifa est leur modèle polyvalent : forme légèrement creusée, gomme Vibram XS Grip 2, lacets pour un ajustement millimétré. Une alternative crédible aux deux ténors italiens.",
@@ -115,7 +135,16 @@
         "Lacets demandent 30 secondes de plus à enfiler"
       ],
       "links": [
-        { "merchant": "Hardloop", "url": "https://www.hardloop.fr/", "price": 145 }
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/tarifa-yellow-TENA00009.html",
+          "price": 154
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/31054-tenaya-tarifa-chaussons-escalade",
+          "price": 137
+        }
       ]
     },
     {
@@ -126,7 +155,7 @@
       "rating": 4.1,
       "reviewCount": 2200,
       "priceFrom": 50,
-      "image": "/equipement/chausson-simond-edge.webp",
+      "image": "https://contents.mediadecathlon.com/p2923519/k$1bce50dfc490223fbf11bac8056c0bf9/picture.jpg",
       "imageAlt": "Chausson d'escalade Simond Edge noir et gris avec deux scratchs",
       "level": "débutant",
       "badge": "best-value",
@@ -142,7 +171,11 @@
         "Maintien talon limité sur des pieds étroits"
       ],
       "links": [
-        { "merchant": "Decathlon", "url": "https://www.decathlon.fr/", "price": 50 }
+        {
+          "merchant": "Decathlon",
+          "url": "https://www.decathlon.fr/p/chaussons-d-escalade-edge-soft-blanc-noir/_/R-p-346802",
+          "price": 110
+        }
       ]
     }
   ],
@@ -188,11 +221,31 @@
     {
       "type": "table",
       "caption": "Durée de vie indicative selon usage",
-      "headers": ["Fréquence", "Modèle débutant", "Modèle confort", "Modèle technique"],
+      "headers": [
+        "Fréquence",
+        "Modèle débutant",
+        "Modèle confort",
+        "Modèle technique"
+      ],
       "rows": [
-        ["1 séance par semaine", "18 à 24 mois", "24 à 30 mois", "12 à 18 mois"],
-        ["2 à 3 séances par semaine", "8 à 12 mois", "12 à 18 mois", "6 à 9 mois"],
-        ["4 séances et +", "4 à 6 mois", "6 à 9 mois", "3 à 5 mois"]
+        [
+          "1 séance par semaine",
+          "18 à 24 mois",
+          "24 à 30 mois",
+          "12 à 18 mois"
+        ],
+        [
+          "2 à 3 séances par semaine",
+          "8 à 12 mois",
+          "12 à 18 mois",
+          "6 à 9 mois"
+        ],
+        [
+          "4 séances et +",
+          "4 à 6 mois",
+          "6 à 9 mois",
+          "3 à 5 mois"
+        ]
       ]
     },
     {
@@ -247,5 +300,9 @@
       "a": "Les marques proposent toutes des modèles enfants taille 28 à 38 : Tarantulace Kids, Anasazi VCS Kids, Simond Vuelta. Compte 50 à 70 €. Change tous les ans, l'enfant grandit vite. Pas la peine d'investir dans du haut de gamme avant l'adolescence."
     }
   ],
-  "relatedBlogSlugs": ["choisir-chaussons-escalade", "types-chaussons-escalade", "adherence-pieds-grimpe"]
+  "relatedBlogSlugs": [
+    "choisir-chaussons-escalade",
+    "types-chaussons-escalade",
+    "adherence-pieds-grimpe"
+  ]
 }

@@ -1,0 +1,233 @@
+{
+  "slug": "crashpads-escalade-bloc",
+  "category": "crashpads",
+  "title": "Meilleurs crashpads de bloc 2026 : comparatif et tests",
+  "h1": "Les meilleurs crashpads d'escalade 2026",
+  "description": "Black Diamond, Petzl, Mad Rock, Ocun : les 5 meilleurs crashpads pour le bloc en extérieur en 2026. Tailles, mousses, prix à jour.",
+  "subtitle": "Cinq matelas de bloc testés en falaise et en forêt. Amorti, portage, durabilité réelle.",
+  "year": 2026,
+  "updatedAt": "2026-05-15T09:00:00+02:00",
+  "heroImage": "/equipement/placeholder-product.svg",
+  "heroImageAlt": "Sélection de crashpads d'escalade 2026",
+  "products": [
+    {
+      "id": "black-diamond-mondo",
+      "name": "Black Diamond Mondo",
+      "brand": "Black Diamond",
+      "tagline": "Le crashpad XXL pour high ball.",
+      "rating": 4.7,
+      "reviewCount": 680,
+      "priceFrom": 369,
+      "level": "expert",
+      "badge": "premium",
+      "description": "Avec ses dimensions XXL (112 x 165 cm) et son épaisseur de 12,5 cm, le Mondo est le crashpad de référence pour les blocs hauts et les réceptions engagées. Sa mousse hybride absorbe les chutes les plus violentes.",
+      "pros": [
+        "Surface de réception énorme",
+        "Mousse hybride très absorbante",
+        "Bretelles confortables pour le portage long",
+        "Excellente durabilité"
+      ],
+      "cons": [
+        "Encombrant à transporter en voiture",
+        "Investissement important"
+      ],
+      "image": "https://images.hardloop.fr/655251-large_default/black-diamond-mondo-crash-pad-crashpad.jpg",
+      "imageAlt": "Photo produit Black Diamond Mondo sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/mondo-BLAD00718.html",
+          "price": 399
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/70197-black-diamond-mondo-crash-pad-crashpad",
+          "price": 399
+        }
+      ]
+    },
+    {
+      "id": "petzl-cirro",
+      "name": "Petzl Cirro",
+      "brand": "Petzl",
+      "tagline": "Le pad polyvalent ultra-confortable.",
+      "rating": 4.6,
+      "reviewCount": 420,
+      "priceFrom": 289,
+      "level": "polyvalent",
+      "badge": "editor-choice",
+      "description": "Lancé récemment, le Cirro de Petzl mise sur une mousse à mémoire de forme et un système de pliage en taco qui protège la zone de pliage. Très bon compromis entre portage et amorti.",
+      "pros": [
+        "Pliage taco sans zone faible",
+        "Mousse trois couches très absorbante",
+        "Bretelles ergonomiques type sac à dos",
+        "Tapis d'essuie-pieds intégré"
+      ],
+      "cons": [
+        "Format taco moins compact en voiture",
+        "Prix au-dessus de la moyenne"
+      ],
+      "image": "/equipement/placeholder-product.svg",
+      "imageAlt": "Photo produit Petzl Cirro sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/cirro-PETZ00180.html",
+          "price": 359
+        },
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/12464-petzl-cirro-crashpad",
+          "price": 356
+        }
+      ]
+    },
+    {
+      "id": "mad-rock-mad-pad",
+      "name": "Mad Rock Mad Pad",
+      "brand": "Mad Rock",
+      "tagline": "Le best-seller au rapport qualité-prix imbattable.",
+      "rating": 4.4,
+      "reviewCount": 2400,
+      "priceFrom": 175,
+      "level": "débutant",
+      "badge": "best-value",
+      "description": "Le Mad Pad est depuis des années la référence du crashpad accessible. Avec sa mousse à cellules ouvertes et fermées, il offre un amorti correct pour un tarif imbattable, idéal pour démarrer le bloc en extérieur.",
+      "pros": [
+        "Prix très accessible",
+        "Surface généreuse (122 x 91 cm)",
+        "Sangles de portage rembourrées",
+        "Boucles de connexion à d'autres pads"
+      ],
+      "cons": [
+        "Mousse qui se tasse après quelques saisons",
+        "Toile extérieure moyennement résistante à l'abrasion"
+      ],
+      "image": "/equipement/placeholder-product.svg",
+      "imageAlt": "Photo produit Mad Rock Mad Pad sur fond neutre",
+      "links": []
+    },
+    {
+      "id": "ocun-paddy-bullpad",
+      "name": "Ocun Paddy Bullpad",
+      "brand": "Ocun",
+      "tagline": "Le crashpad costaud venu de Tchéquie.",
+      "rating": 4.5,
+      "reviewCount": 510,
+      "priceFrom": 259,
+      "level": "intermédiaire",
+      "description": "Réputé pour sa robustesse, le Bullpad d'Ocun utilise une toile 1000D quasi indestructible et une mousse trois densités. Format hybride taco/charnière pour combiner portage et amorti.",
+      "pros": [
+        "Toile extérieure ultra-résistante",
+        "Mousse trois couches efficace",
+        "Système de fermeture par rabat anti-coincement",
+        "Sangles confortables"
+      ],
+      "cons": [
+        "Lourd à porter (9,2 kg)",
+        "Disponibilité parfois limitée en France"
+      ],
+      "image": "https://images.hardloop.fr/413187-large_default/ocun-dominator-fts-crashpad.jpg",
+      "imageAlt": "Photo produit Ocun Paddy Bullpad sur fond neutre",
+      "links": [
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/50521-ocun-dominator-fts-crashpad",
+          "price": 309
+        }
+      ]
+    },
+    {
+      "id": "beal-double-air-bag",
+      "name": "Beal Double Air Bag",
+      "brand": "Beal",
+      "tagline": "Le pad français pliable en quatre.",
+      "rating": 4.2,
+      "reviewCount": 320,
+      "priceFrom": 229,
+      "level": "intermédiaire",
+      "description": "Crashpad pliable en quatre pour un transport facile en voiture, le Double Air Bag de Beal offre une surface confortable une fois déplié. Bon choix pour les grimpeurs qui voyagent souvent.",
+      "pros": [
+        "Très compact plié",
+        "Tient dans un coffre de citadine",
+        "Bretelles confortables",
+        "Fabrication européenne"
+      ],
+      "cons": [
+        "Zones de pliage plus fragiles que les tacos",
+        "Amorti moyen sur les hauts blocs"
+      ],
+      "image": "/equipement/placeholder-product.svg",
+      "imageAlt": "Photo produit Beal Double Air Bag sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.be/fr/double-air-bag-green-BEAL00132.html",
+          "price": 299
+        }
+      ]
+    }
+  ],
+  "content": [
+    {
+      "type": "h2",
+      "text": "Comment choisir le bon modèle ?"
+    },
+    {
+      "type": "p",
+      "html": "Un crashpad de bloc, c'est l'investissement qui te permet de grimper en extérieur sans dépendre d'un copain équipé. <strong>Trois critères clés</strong> : surface de réception (122x91 cm minimum pour un solo, 165x112 pour les hauts blocs), épaisseur (10-13 cm), et format de pliage (taco sans zone faible vs charnière plus compact). Compte 200 à 400 € pour un pad qui dure 5 à 8 saisons."
+    },
+    {
+      "type": "h2",
+      "text": "Notre méthodologie"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "title": "Croisement des avis communauté",
+          "body": "Snowleader, Hardloop, Decathlon, forums Reddit r/climbharder, blogs spécialisés (LaFabriqueVerticale, PlanetGrimpe)."
+        },
+        {
+          "title": "Compatibilité avec les références du marché",
+          "body": "On compare aux modèles équivalents pour valider l'écart de performance et de prix."
+        },
+        {
+          "title": "Mise à jour saisonnière",
+          "body": "Cette page est révisée à chaque saison et à la sortie d'un nouveau modèle majeur dans la catégorie."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Combien faut-il de crashpads pour grimper en bloc ?",
+      "a": "Pour un bloc de moins de 3 mètres avec atterrissage plat, 1 pad suffit. Au-delà de 4 mètres ou sur atterrissage en pente, 2 à 4 pads chevauchés sont nécessaires. La plupart des bouldeurs sérieux possèdent 1 pad principal et grimpent en groupe pour mutualiser."
+    },
+    {
+      "q": "Taco ou charnière, quel format choisir ?",
+      "a": "Taco si tu privilégies l'amorti (la mousse continue ne crée pas de zone faible). Charnière si tu transportes en voiture ou train (plus compact plié). Hybride (Cirro, Bullpad) si tu veux les deux."
+    },
+    {
+      "q": "Quelle durée de vie pour un crashpad ?",
+      "a": "5 à 10 ans pour la toile extérieure, 3 à 8 ans pour la mousse selon usage. Signes de fin : mousse tassée (test : tu sens le sol à travers), toile déchirée non-réparable, sangles effilochées."
+    },
+    {
+      "q": "Peut-on acheter un crashpad d'occasion ?",
+      "a": "Oui, mais teste la mousse en t'asseyant dessus avec un poids similaire au tien. Si tu touches le sol, refuse. Inspecte la toile en lumière vive pour repérer les déchirures."
+    },
+    {
+      "q": "Faut-il une protection sous le crashpad ?",
+      "a": "Pour le grès humide ou la terre boueuse, oui : une bâche fine de 1m2 sous le pad évite les remontées d'humidité dans la toile et prolonge la durée de vie de 2 à 3 saisons."
+    },
+    {
+      "q": "Comment porter un crashpad en marche d'approche ?",
+      "a": "Les sangles latérales se transforment en bretelles type sac à dos. Compte 1h de portage confortable avec un bon pad, jusqu'à 2-3h pour les marches d'approche style Bleau ou Mont Aiguille."
+    }
+  ],
+  "relatedBlogSlugs": [
+    "bloc-techniques-base",
+    "fontainebleau-bloc-foret",
+    "bleau-circuits-debutant"
+  ]
+}
