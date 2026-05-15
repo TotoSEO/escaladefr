@@ -88,7 +88,7 @@
     },
     {
       "type": "p",
-      "html": "Sur l'étiquette d'extrémité, tu trouves plusieurs chiffres normés <strong>EN 892</strong>. La force de choc indique la force transmise au grimpeur lors d'une chute facteur 1.77. Plus elle est basse, mieux c'est, vise sous 9 kN. Le nombre de chutes UIAA indique combien de chutes facteur 1.77 la corde encaisse avant rupture. Une corde sport tient 5 à 8 chutes UIAA. L'allongement statique mesure l'élasticité à 80 kg, en dessous de 10 % pour la simple."
+      "html": "Sur l'étiquette d'extrémité, tu trouves plusieurs chiffres normés <strong>EN 892</strong>. La force de choc indique la force transmise au grimpeur lors d'une chute facteur 1.77. Plus elle est basse, mieux c'est, vise sous 9 kN. Le nombre de chutes <a href=\"https://www.theuiaa.org/safety/safety-standards/\" rel=\"nofollow noopener\" target=\"_blank\">UIAA</a> indique combien de chutes facteur 1.77 la corde encaisse avant rupture. Une corde sport tient 5 à 8 chutes UIAA. L'allongement statique mesure l'élasticité à 80 kg, en dessous de 10 % pour la simple."
     },
     {
       "type": "p",

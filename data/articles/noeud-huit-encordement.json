@@ -25,7 +25,7 @@
     },
     {
       "type": "p",
-      "html": "Le huit fonctionne en <strong>double passe</strong>, le brin courant suit exactement le trajet du premier huit déjà tracé. Cette géométrie crée des frottements internes qui bloquent le nœud sous tension. Une corde dynamique conforme à la norme EN 892 affiche une charge de rupture de 22 à 30 kN, et le huit conserve 75 à 80 % de cette résistance, largement au-dessus des 6 à 9 kN générés par une chute facteur 1."
+      "html": "Le huit fonctionne en <strong>double passe</strong>, le brin courant suit exactement le trajet du premier huit déjà tracé. Cette géométrie crée des frottements internes qui bloquent le nœud sous tension. Une corde dynamique conforme à la norme EN 892 affiche une charge de rupture de 22 à 30 kN, et le huit conserve 75 à 80 % de cette résistance, largement au-dessus des 6 à 9 kN générés par une chute facteur 1. La <a href=\"https://www.ffme.fr/wp-content/uploads/2020/01/noeud-huit.pdf\" rel=\"nofollow noopener\" target=\"_blank\">fiche technique FFME sur le nœud de huit</a> détaille les critères de validation."
     },
     {
       "type": "p",
