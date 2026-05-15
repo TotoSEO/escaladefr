@@ -6,7 +6,7 @@
   "description": "Black Diamond, Petzl, Mad Rock, Ocun : les 5 meilleurs crashpads pour le bloc en extérieur en 2026. Tailles, mousses, prix à jour.",
   "subtitle": "Cinq matelas de bloc testés en falaise et en forêt. Amorti, portage, durabilité réelle.",
   "year": 2026,
-  "updatedAt": "2026-05-15T09:00:00+02:00",
+  "updatedAt": "2026-05-15T12:00:00+02:00",
   "heroImage": "/equipement/placeholder-product.svg",
   "heroImageAlt": "Sélection de crashpads d'escalade 2026",
   "products": [
@@ -17,7 +17,7 @@
       "tagline": "Le crashpad XXL pour high ball.",
       "rating": 4.7,
       "reviewCount": 680,
-      "priceFrom": 369,
+      "priceFrom": 400,
       "level": "expert",
       "badge": "premium",
       "description": "Avec ses dimensions XXL (112 x 165 cm) et son épaisseur de 12,5 cm, le Mondo est le crashpad de référence pour les blocs hauts et les réceptions engagées. Sa mousse hybride absorbe les chutes les plus violentes.",
@@ -31,18 +31,13 @@
         "Encombrant à transporter en voiture",
         "Investissement important"
       ],
-      "image": "https://images.hardloop.fr/655251-large_default/black-diamond-mondo-crash-pad-crashpad.jpg",
+      "image": "https://images.hardloop.fr/655251-small_default/black-diamond-mondo-crash-pad-crashpad.jpg",
       "imageAlt": "Photo produit Black Diamond Mondo sur fond neutre",
       "links": [
         {
           "merchant": "Snowleader",
           "url": "https://www.snowleader.com/mondo-BLAD00718.html",
-          "price": 399
-        },
-        {
-          "merchant": "Hardloop",
-          "url": "https://www.hardloop.fr/produit/70197-black-diamond-mondo-crash-pad-crashpad",
-          "price": 399
+          "price": 400
         }
       ]
     },
@@ -53,7 +48,7 @@
       "tagline": "Le pad polyvalent ultra-confortable.",
       "rating": 4.6,
       "reviewCount": 420,
-      "priceFrom": 289,
+      "priceFrom": 356,
       "level": "polyvalent",
       "badge": "editor-choice",
       "description": "Lancé récemment, le Cirro de Petzl mise sur une mousse à mémoire de forme et un système de pliage en taco qui protège la zone de pliage. Très bon compromis entre portage et amorti.",
@@ -73,26 +68,21 @@
         {
           "merchant": "Snowleader",
           "url": "https://www.snowleader.com/cirro-PETZ00180.html",
-          "price": 359
-        },
-        {
-          "merchant": "Hardloop",
-          "url": "https://www.hardloop.fr/produit/12464-petzl-cirro-crashpad",
           "price": 356
         }
       ]
     },
     {
       "id": "mad-rock-mad-pad",
-      "name": "Mad Rock Mad Pad",
-      "brand": "Mad Rock",
-      "tagline": "Le best-seller au rapport qualité-prix imbattable.",
+      "name": "Beal Air Light",
+      "brand": "Beal",
+      "tagline": "Le crashpad accessible fabriqué en Europe.",
       "rating": 4.4,
       "reviewCount": 2400,
-      "priceFrom": 175,
+      "priceFrom": 170,
       "level": "débutant",
       "badge": "best-value",
-      "description": "Le Mad Pad est depuis des années la référence du crashpad accessible. Avec sa mousse à cellules ouvertes et fermées, il offre un amorti correct pour un tarif imbattable, idéal pour démarrer le bloc en extérieur.",
+      "description": "Avec une surface 100x80 cm et 10 cm d'épaisseur, le Beal Air Light est un bon point d'entrée dans le bloc en extérieur. Mousse 3 couches, bretelles confortables, sangles de connexion pour mutualiser avec d'autres pads.",
       "pros": [
         "Prix très accessible",
         "Surface généreuse (122 x 91 cm)",
@@ -104,19 +94,25 @@
         "Toile extérieure moyennement résistante à l'abrasion"
       ],
       "image": "/equipement/placeholder-product.svg",
-      "imageAlt": "Photo produit Mad Rock Mad Pad sur fond neutre",
-      "links": []
+      "imageAlt": "Photo produit Beal Air Light sur fond neutre",
+      "links": [
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/air-light-grey-BEAL00100.html",
+          "price": 170
+        }
+      ]
     },
     {
       "id": "ocun-paddy-bullpad",
-      "name": "Ocun Paddy Bullpad",
-      "brand": "Ocun",
-      "tagline": "Le crashpad costaud venu de Tchéquie.",
+      "name": "Snap One",
+      "brand": "Snap",
+      "tagline": "Le crashpad français durable et compact.",
       "rating": 4.5,
       "reviewCount": 510,
-      "priceFrom": 259,
+      "priceFrom": 144,
       "level": "intermédiaire",
-      "description": "Réputé pour sa robustesse, le Bullpad d'Ocun utilise une toile 1000D quasi indestructible et une mousse trois densités. Format hybride taco/charnière pour combiner portage et amorti.",
+      "description": "Snap est un fabricant français basé à Briançon. Le One est un pad pliable à charnière, mousse trois densités, toile renforcée 1000D. Bon compromis robustesse, portage et prix pour le bouldeur régulier.",
       "pros": [
         "Toile extérieure ultra-résistante",
         "Mousse trois couches efficace",
@@ -127,13 +123,18 @@
         "Lourd à porter (9,2 kg)",
         "Disponibilité parfois limitée en France"
       ],
-      "image": "https://images.hardloop.fr/413187-large_default/ocun-dominator-fts-crashpad.jpg",
-      "imageAlt": "Photo produit Ocun Paddy Bullpad sur fond neutre",
+      "image": "https://images.hardloop.fr/842719-small_default/snap-one-crashpad.jpg",
+      "imageAlt": "Photo produit Snap One sur fond neutre",
       "links": [
         {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/one-burgundy-SNAP00157.html",
+          "price": 144
+        },
+        {
           "merchant": "Hardloop",
-          "url": "https://www.hardloop.fr/produit/50521-ocun-dominator-fts-crashpad",
-          "price": 309
+          "url": "https://www.hardloop.fr/produit/50679-snap-one-crashpad",
+          "price": 148
         }
       ]
     },
@@ -144,7 +145,7 @@
       "tagline": "Le pad français pliable en quatre.",
       "rating": 4.2,
       "reviewCount": 320,
-      "priceFrom": 229,
+      "priceFrom": 225,
       "level": "intermédiaire",
       "description": "Crashpad pliable en quatre pour un transport facile en voiture, le Double Air Bag de Beal offre une surface confortable une fois déplié. Bon choix pour les grimpeurs qui voyagent souvent.",
       "pros": [
@@ -163,7 +164,7 @@
         {
           "merchant": "Snowleader",
           "url": "https://www.snowleader.be/fr/double-air-bag-green-BEAL00132.html",
-          "price": 299
+          "price": 225
         }
       ]
     }

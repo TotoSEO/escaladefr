@@ -6,7 +6,7 @@
   "description": "La Sportiva Tarantula, Scarpa Vapor V, Five Ten Anasazi VCS : les 5 meilleurs chaussons d'escalade pour débuter en 2026. Comparatif chiffré, prix et avis.",
   "subtitle": "Cinq chaussons testés pour bien débuter en salle ou en falaise. Confort, sensation, durée de vie : ce qu'on retient après plusieurs saisons d'usage.",
   "year": 2026,
-  "updatedAt": "2026-05-15T09:00:00+02:00",
+  "updatedAt": "2026-05-15T12:00:00+02:00",
   "heroImage": "/equipement/placeholder-product.svg",
   "heroImageAlt": "Trois paires de chaussons d'escalade débutant alignées sur un parquet de salle, La Sportiva Tarantula orange, Scarpa Vapor V violet, Five Ten Anasazi VCS bleu",
   "products": [
@@ -17,8 +17,8 @@
       "tagline": "Le chausson débutant le plus vendu dans le monde.",
       "rating": 4.6,
       "reviewCount": 1840,
-      "priceFrom": 80,
-      "image": "https://images.hardloop.fr/663278-large_default/la-sportiva-tarantula-chaussons-escalade-homme.jpg",
+      "priceFrom": 76,
+      "image": "https://images.hardloop.fr/663289-small_default/la-sportiva-tarantula-chaussons-escalade.jpg",
       "imageAlt": "Chausson d'escalade La Sportiva Tarantula orange et noir avec scratchs",
       "level": "débutant",
       "badge": "best-value",
@@ -37,12 +37,12 @@
         {
           "merchant": "Snowleader",
           "url": "https://www.snowleader.com/tarantula-LASP00855.html",
-          "price": 79
+          "price": 76
         },
         {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/38405-la-sportiva-tarantula-chaussons-escalade-homme",
-          "price": 81
+          "price": 80
         }
       ]
     },
@@ -53,8 +53,8 @@
       "tagline": "Le tout-en-un ultime pour débutant ambitieux.",
       "rating": 4.7,
       "reviewCount": 920,
-      "priceFrom": 135,
-      "image": "https://images.hardloop.fr/773834-large_default/scarpa-vapor-v-chaussons-escalade-homme.jpg",
+      "priceFrom": 148,
+      "image": "https://images.hardloop.fr/773834-small_default/scarpa-vapor-v-chaussons-escalade-homme.jpg",
       "imageAlt": "Chausson d'escalade Scarpa Vapor V violet et noir avec fermeture Velcro",
       "level": "polyvalent",
       "badge": "editor-choice",
@@ -72,8 +72,8 @@
       "links": [
         {
           "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/vapor-v-SCAR00264.html",
-          "price": 165
+          "url": "https://www.snowleader.com/vapor-v-smoke-yellow-SCAR00711.html",
+          "price": 148
         },
         {
           "merchant": "Hardloop",
@@ -84,16 +84,16 @@
     },
     {
       "id": "five-ten-anasazi-vcs",
-      "name": "Five Ten Anasazi VCS",
+      "name": "Five Ten NIAD VCS",
       "brand": "Five Ten",
-      "tagline": "Le classique américain qui dure et qui progresse.",
+      "tagline": "Le successeur direct de l'Anasazi VCS.",
       "rating": 4.5,
       "reviewCount": 1240,
-      "priceFrom": 130,
-      "image": "https://images.hardloop.fr/151303-large_default/five-ten-anasazi-vcs-climbing-shoes-mens.jpg",
-      "imageAlt": "Chausson d'escalade Five Ten Anasazi VCS bleu blanc avec deux scratchs Velcro",
+      "priceFrom": 140,
+      "image": "/equipement/placeholder-product.svg",
+      "imageAlt": "Photo produit Five Ten NIAD VCS sur fond neutre",
       "level": "polyvalent",
-      "description": "Un chausson légendaire sorti dans les années 90 et toujours fabriqué presque à l'identique. Plat à légèrement asymétrique, gomme Stealth C4 ultra-adhérente, deux scratchs en V. Idéal pour les grimpeurs qui aiment la dalle et la voie sportive moderne. Forme américaine plus large que les italiens, parfait pour les pieds carrés.",
+      "description": "Le NIAD VCS reprend le concept du Anasazi VCS (forme plate, gomme Stealth C4, deux scratchs croisés) avec une tige modernisée. C'est aujourd'hui le modèle de référence Five Ten pour la dalle et la voie sportive.",
       "pros": [
         "Adhérence Stealth C4 légendaire en dalle",
         "Forme qui convient aux pieds larges",
@@ -107,7 +107,7 @@
       "links": [
         {
           "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/anasazi-vcs-FTEN00061.html",
+          "url": "https://www.snowleader.com/anasazi-vcs-golden-tan-FTEN00046.html",
           "price": 140
         }
       ]
@@ -119,8 +119,8 @@
       "tagline": "Le choix confort-progression méconnu en France.",
       "rating": 4.4,
       "reviewCount": 380,
-      "priceFrom": 145,
-      "image": "https://images.hardloop.fr/252200-large_default/tenaya-tarifa-chaussons-escalade.jpg",
+      "priceFrom": 154,
+      "image": "https://images.hardloop.fr/252200-small_default/tenaya-tarifa-chaussons-escalade.jpg",
       "imageAlt": "Chausson d'escalade Tenaya Tarifa noir et turquoise avec lacets",
       "level": "intermédiaire",
       "description": "La marque espagnole Tenaya fabrique des chaussons réputés pour leur confort exceptionnel sans sacrifice de précision. Le Tarifa est leur modèle polyvalent : forme légèrement creusée, gomme Vibram XS Grip 2, lacets pour un ajustement millimétré. Une alternative crédible aux deux ténors italiens.",
@@ -139,11 +139,6 @@
           "merchant": "Snowleader",
           "url": "https://www.snowleader.com/tarifa-yellow-TENA00009.html",
           "price": 154
-        },
-        {
-          "merchant": "Hardloop",
-          "url": "https://www.hardloop.fr/produit/31054-tenaya-tarifa-chaussons-escalade",
-          "price": 137
         }
       ]
     },
@@ -154,7 +149,7 @@
       "tagline": "L'entrée de gamme Decathlon qui fait le job.",
       "rating": 4.1,
       "reviewCount": 2200,
-      "priceFrom": 50,
+      "priceFrom": 110,
       "image": "https://contents.mediadecathlon.com/p2923519/k$1bce50dfc490223fbf11bac8056c0bf9/picture.jpg",
       "imageAlt": "Chausson d'escalade Simond Edge noir et gris avec deux scratchs",
       "level": "débutant",

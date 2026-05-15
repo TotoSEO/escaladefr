@@ -6,7 +6,7 @@
   "description": "Beal, Mammut, Petzl, Edelrid : les 5 meilleures cordes d'escalade simples pour le sport et la salle en 2026. Diamètres, longueurs, prix à jour.",
   "subtitle": "Cinq cordes sport testées en salle et en falaise. Diamètre, force de choc, durée de vie réelle.",
   "year": 2026,
-  "updatedAt": "2026-05-15T09:00:00+02:00",
+  "updatedAt": "2026-05-15T12:00:00+02:00",
   "heroImage": "/equipement/placeholder-product.svg",
   "heroImageAlt": "Sélection de cordes d'escalade 2026",
   "products": [
@@ -17,7 +17,7 @@
       "tagline": "Le standard polyvalent français.",
       "rating": 4.6,
       "reviewCount": 1240,
-      "priceFrom": 165,
+      "priceFrom": 185,
       "level": "polyvalent",
       "badge": "editor-choice",
       "description": "Corde simple emblématique du fabricant français, la Stinger 9.4 combine légèreté et durabilité grâce au traitement Unicore et à la gaine Dry Cover. Polyvalente, elle convient autant à la falaise qu'aux longues voies sportives.",
@@ -31,18 +31,18 @@
         "Prix élevé sur les grandes longueurs",
         "Gaine qui peluche après un usage intensif en salle"
       ],
-      "image": "https://images.hardloop.fr/156431-large_default/beal-stinger-94mm-golden-dry-corde.jpg",
+      "image": "https://images.hardloop.fr/156431-small_default/beal-stinger-94mm-golden-dry-corde.jpg",
       "imageAlt": "Photo produit Beal Stinger 9.4 mm sur fond neutre",
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/stinger-iii-9-4mm-anis-BEAL00173.html",
-          "price": 131
-        },
-        {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/12686-beal-stinger-94mm-golden-dry-corde",
-          "price": 184
+          "price": 185
+        },
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/stinger-iii-9-4mm-anis-BEAL00173.html",
+          "price": 185
         }
       ]
     },
@@ -53,7 +53,7 @@
       "tagline": "La triple norme légère pour grandes voies.",
       "rating": 4.5,
       "reviewCount": 870,
-      "priceFrom": 195,
+      "priceFrom": 100,
       "level": "intermédiaire",
       "badge": "premium",
       "description": "Certifiée simple, double et jumelée, la Volta 9.2 est une référence pour les grimpeurs polyvalents qui alternent sport et grande voie. Son traitement UltraSonic Finish réduit l'effilochage des extrémités.",
@@ -67,18 +67,18 @@
         "Diamètre fin à réserver aux assureurs expérimentés",
         "Tarif premium"
       ],
-      "image": "https://images.hardloop.fr/12708-large_default/petzl-volta-92-mm-corde.jpg",
+      "image": "https://images.hardloop.fr/12708-small_default/petzl-volta-92-mm-corde.jpg",
       "imageAlt": "Photo produit Petzl Volta 9.2 mm sur fond neutre",
       "links": [
         {
           "merchant": "Snowleader",
           "url": "https://www.snowleader.com/volta-9-2-mm-gris-PETZ00166.html",
-          "price": 99
+          "price": 100
         },
         {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/805-petzl-volta-92-mm-corde",
-          "price": 167
+          "price": 168
         }
       ]
     },
@@ -89,7 +89,7 @@
       "tagline": "Le bon compromis robustesse/prix.",
       "rating": 4.4,
       "reviewCount": 1580,
-      "priceFrom": 135,
+      "priceFrom": 105,
       "level": "débutant",
       "badge": "best-value",
       "description": "Corde simple robuste et abordable, la Crag Classic est conçue pour la falaise sportive et la salle. Son diamètre généreux de 9,5 mm offre une grande longévité et une sécurité rassurante pour les débutants.",
@@ -103,18 +103,13 @@
         "Un peu lourde (59 g/m)",
         "Pas de traitement déperlant en version Classic"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://images.hardloop.fr/265427-small_default/mammut-95-crag-we-care-classic-corde-a-simple.jpg",
       "imageAlt": "Photo produit Mammut Crag Classic 9.5 mm sur fond neutre",
       "links": [
         {
           "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/9-5-crag-classic-rope-blue-white-MAMM00991.html",
-          "price": 118
-        },
-        {
-          "merchant": "Hardloop",
-          "url": "https://www.hardloop.fr/produit/31982-mammut-95-crag-we-care-classic-corde-a-simple",
-          "price": 134
+          "url": "https://www.snowleader.com/9-5-crag-classic-rope-blue-white-MAMM01984.html",
+          "price": 105
         }
       ]
     },
@@ -125,7 +120,7 @@
       "tagline": "L'increvable corde de salle.",
       "rating": 4.5,
       "reviewCount": 2100,
-      "priceFrom": 115,
+      "priceFrom": 106,
       "level": "débutant",
       "description": "Réputée pour son endurance, la Boa 9.8 est devenue la corde de référence des salles de bloc et de voie. Robuste, certifiée bluesign et fabriquée en Allemagne, elle encaisse les sessions intensives sans broncher.",
       "pros": [
@@ -138,7 +133,7 @@
         "Lourde pour la falaise (62 g/m)",
         "Pas de traitement Dry de série"
       ],
-      "image": "https://images.hardloop.fr/155955-large_default/edelrid-boa-98mm-corde.jpg",
+      "image": "https://images.hardloop.fr/155955-small_default/edelrid-boa-98mm-corde.jpg",
       "imageAlt": "Photo produit Edelrid Boa 9.8 mm sur fond neutre",
       "links": [
         {
@@ -155,7 +150,7 @@
       "tagline": "La corde école par excellence.",
       "rating": 4.3,
       "reviewCount": 940,
-      "priceFrom": 95,
+      "priceFrom": 110,
       "level": "débutant",
       "description": "Conçue comme corde d'initiation, la Karma 9.8 mise sur un prix d'appel attractif et une construction robuste. Idéale pour la salle, les premières sorties falaise et la moulinette intensive.",
       "pros": [
@@ -168,18 +163,18 @@
         "Toucher rigide au déballage",
         "Aucun traitement déperlant"
       ],
-      "image": "https://images.hardloop.fr/276154-large_default/beal-karma-98mm-corde.jpg",
+      "image": "https://images.hardloop.fr/276154-small_default/beal-karma-98mm-corde.jpg",
       "imageAlt": "Photo produit Beal Karma 9.8 mm sur fond neutre",
       "links": [
+        {
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/4130-beal-karma-98mm-corde",
+          "price": 110
+        },
         {
           "merchant": "Snowleader",
           "url": "https://www.snowleader.com/karma-9-8mm-jaune-BEAL00048.html",
           "price": 110
-        },
-        {
-          "merchant": "Hardloop",
-          "url": "https://www.hardloop.fr/produit/4130-beal-karma-98mm-corde",
-          "price": 109
         }
       ]
     }

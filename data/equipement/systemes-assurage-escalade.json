@@ -6,7 +6,7 @@
   "description": "Petzl Grigri, Black Diamond ATC, Edelrid Mega Jul : les 5 meilleurs assureurs pour l'escalade sportive et la grande voie en 2026.",
   "subtitle": "Cinq systèmes d'assurage comparés en falaise et en salle. Auto-blocage, fluidité, polyvalence.",
   "year": 2026,
-  "updatedAt": "2026-05-15T09:00:00+02:00",
+  "updatedAt": "2026-05-15T12:00:00+02:00",
   "heroImage": "/equipement/placeholder-product.svg",
   "heroImageAlt": "Sélection de assurage d'escalade 2026",
   "products": [
@@ -17,7 +17,7 @@
       "tagline": "L'assureur assisté de référence.",
       "rating": 4.7,
       "reviewCount": 2800,
-      "priceFrom": 135,
+      "priceFrom": 90,
       "level": "polyvalent",
       "badge": "editor-choice",
       "description": "Évolution du Grigri classique avec sélecteur de mode (moulinette/tête) et anti-panique. Le Grigri + reste l'assureur à freinage assisté le plus utilisé en falaise sportive et en école d'escalade.",
@@ -31,18 +31,18 @@
         "Lourd (200 g)",
         "Prix supérieur au Grigri standard"
       ],
-      "image": "https://images.hardloop.fr/634552-large_default/petzl-grigri-assureur.jpg",
+      "image": "https://images.hardloop.fr/634552-small_default/petzl-grigri-assureur.jpg",
       "imageAlt": "Photo produit Petzl Grigri + sur fond neutre",
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/grigri-gris-PETZ00651.html",
-          "price": 99
-        },
-        {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/5105-petzl-grigri-assureur",
-          "price": 89
+          "price": 90
+        },
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/grigri-gris-PETZ00651.html",
+          "price": 100
         }
       ]
     },
@@ -53,7 +53,7 @@
       "tagline": "Le classique fiable et polyvalent.",
       "rating": 4.6,
       "reviewCount": 3000,
-      "priceFrom": 95,
+      "priceFrom": 78,
       "level": "polyvalent",
       "badge": "best-value",
       "description": "Indétrônable depuis trois décennies, le Grigri version 2019 accepte des cordes de 8,5 à 11 mm. Idéal pour la falaise, la salle et la moulinette intensive.",
@@ -67,18 +67,18 @@
         "Pas d'anti-panique contrairement au +",
         "Apprentissage indispensable pour donner du mou"
       ],
-      "image": "https://images.hardloop.fr/95116-large_default/petzl-grigri-assureur.jpg",
+      "image": "https://images.hardloop.fr/95116-small_default/petzl-grigri-assureur.jpg",
       "imageAlt": "Photo produit Petzl Grigri sur fond neutre",
       "links": [
-        {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/grigri-rouge-orange-PETZ00445.html",
-          "price": 79
-        },
         {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/18544-petzl-grigri-assureur",
           "price": 78
+        },
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/grigri-rouge-orange-PETZ00445.html",
+          "price": 80
         }
       ]
     },
@@ -89,7 +89,7 @@
       "tagline": "Le tubulaire grande voie incontournable.",
       "rating": 4.6,
       "reviewCount": 2200,
-      "priceFrom": 32,
+      "priceFrom": 28,
       "level": "intermédiaire",
       "description": "Tubulaire à mode autobloquant pour assurer le second en grande voie, l'ATC-Guide accepte les cordes simples et doubles. Léger (80 g) et indispensable dès qu'on quitte la falaise une longueur.",
       "pros": [
@@ -102,18 +102,18 @@
         "Pas de freinage assisté en tête",
         "Descente sur autobloquant nécessite technique"
       ],
-      "image": "https://images.hardloop.fr/976666-large_default/black-diamond-atc-guide-assureur.jpg",
+      "image": "https://images.hardloop.fr/976666-small_default/black-diamond-atc-guide-assureur.jpg",
       "imageAlt": "Photo produit Black Diamond ATC-Guide sur fond neutre",
       "links": [
-        {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/atc-guide-black-BLAD01328.html",
-          "price": 29
-        },
         {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/16229-black-diamond-atc-guide-assureur",
           "price": 28
+        },
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/atc-guide-black-BLAD01328.html",
+          "price": 33
         }
       ]
     },
@@ -124,7 +124,7 @@
       "tagline": "Le tube polyvalent ultra-léger.",
       "rating": 4.5,
       "reviewCount": 1600,
-      "priceFrom": 29,
+      "priceFrom": 28,
       "level": "intermédiaire",
       "description": "Concurrent direct de l'ATC-Guide, le Reverso version 2019 a été allégé à 57 g tout en gardant le mode autobloquant. Choix de prédilection pour la grande voie sportive ou alpine.",
       "pros": [
@@ -143,12 +143,7 @@
         {
           "merchant": "Snowleader",
           "url": "https://www.snowleader.com/reverso-4-gris-PETZ00447.html",
-          "price": 29
-        },
-        {
-          "merchant": "Hardloop",
-          "url": "https://www.hardloop.fr/produit/762-petzl-reverso-assureur-descendeur",
-          "price": 29
+          "price": 28
         }
       ]
     },
@@ -159,7 +154,7 @@
       "tagline": "L'assureur assisté ultra-léger.",
       "rating": 4.3,
       "reviewCount": 890,
-      "priceFrom": 35,
+      "priceFrom": 43,
       "level": "expert",
       "description": "Tubulaire à assistance au freinage entièrement en acier, le Mega Jul ne pèse que 65 g et combine assistance et mode plaquette grande voie. Une alternative crédible au Grigri pour les minimalistes.",
       "pros": [
@@ -172,18 +167,18 @@
         "Donner du mou demande beaucoup d'apprentissage",
         "Descente saccadée sur cordes neuves"
       ],
-      "image": "https://images.hardloop.fr/537879-large_default/edelrid-mega-jul-ii-assureur.jpg",
+      "image": "https://images.hardloop.fr/537879-small_default/edelrid-mega-jul-ii-assureur.jpg",
       "imageAlt": "Photo produit Edelrid Mega Jul sur fond neutre",
       "links": [
-        {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/mega-jul-ii-EDEL00291.html",
-          "price": 44
-        },
         {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/60908-edelrid-mega-jul-ii-assureur",
           "price": 43
+        },
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/mega-jul-ii-EDEL00291.html",
+          "price": 45
         }
       ]
     }

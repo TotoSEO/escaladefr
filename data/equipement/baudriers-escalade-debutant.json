@@ -6,7 +6,7 @@
   "description": "Petzl Corax, Black Diamond Momentum, Blue Ice Addax : 5 baudriers d'escalade pour bien débuter en 2026. Confort, sécurité, polyvalence, prix à jour.",
   "subtitle": "Cinq baudriers testés en salle et en falaise. Le bon investissement pour démarrer la voie en sécurité sans payer le prix fort.",
   "year": 2026,
-  "updatedAt": "2026-05-15T09:00:00+02:00",
+  "updatedAt": "2026-05-15T12:00:00+02:00",
   "heroImage": "/equipement/placeholder-product.svg",
   "heroImageAlt": "Trois baudriers d'escalade alignés sur un mur, Petzl Corax noir et orange, Black Diamond Momentum gris, Blue Ice Addax bleu et blanc",
   "products": [
@@ -17,8 +17,8 @@
       "tagline": "Le baudrier polyvalent de référence en France.",
       "rating": 4.7,
       "reviewCount": 2150,
-      "priceFrom": 55,
-      "image": "https://images.hardloop.fr/248074-large_default/petzl-corax-baudrier.jpg",
+      "priceFrom": 53,
+      "image": "https://images.hardloop.fr/248074-small_default/petzl-corax-baudrier.jpg",
       "imageAlt": "Baudrier d'escalade Petzl Corax noir et orange avec quatre porte-matériel",
       "level": "polyvalent",
       "badge": "editor-choice",
@@ -38,11 +38,6 @@
           "merchant": "Snowleader",
           "url": "https://www.snowleader.com/corax-gris-PETZ00616.html",
           "price": 53
-        },
-        {
-          "merchant": "Hardloop",
-          "url": "https://www.hardloop.fr/produit/28999-petzl-corax-baudrier",
-          "price": 58
         }
       ]
     },
@@ -53,8 +48,8 @@
       "tagline": "Le baudrier salle accessible et confort.",
       "rating": 4.5,
       "reviewCount": 1680,
-      "priceFrom": 50,
-      "image": "https://images.hardloop.fr/165696-large_default/black-diamond-momentum-harness-baudrier-homme.jpg",
+      "priceFrom": 51,
+      "image": "https://images.hardloop.fr/165696-small_default/black-diamond-momentum-harness-baudrier-homme.jpg",
       "imageAlt": "Baudrier d'escalade Black Diamond Momentum gris foncé avec sangles bleues",
       "level": "débutant",
       "badge": "best-value",
@@ -73,12 +68,7 @@
         {
           "merchant": "Snowleader",
           "url": "https://www.snowleader.com/m-momentum-harness-package-BLAD02509.html",
-          "price": 60
-        },
-        {
-          "merchant": "Hardloop",
-          "url": "https://www.hardloop.fr/produit/22495-black-diamond-momentum-harness-baudrier-homme",
-          "price": 45
+          "price": 51
         }
       ]
     },
@@ -89,8 +79,8 @@
       "tagline": "Le poids plume polyvalent salle et montagne.",
       "rating": 4.6,
       "reviewCount": 480,
-      "priceFrom": 90,
-      "image": "https://images.hardloop.fr/192530-large_default/blue-ice-addax-baudrier.jpg",
+      "priceFrom": 80,
+      "image": "https://images.hardloop.fr/192530-small_default/blue-ice-addax-baudrier.jpg",
       "imageAlt": "Baudrier d'escalade Blue Ice Addax bleu et blanc ultra-léger",
       "level": "polyvalent",
       "description": "Marque française basée à Chamonix, le Blue Ice Addax pèse 230g seulement pour quatre porte-matériel et une construction robuste. Excellent compromis pour quelqu'un qui prévoit de basculer salle → falaise → alpinisme léger. Plus cher mais aussi plus polyvalent et durable que les concurrents directs.",
@@ -106,29 +96,29 @@
       ],
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/addax-BLIC00034.html",
-          "price": 85
-        },
-        {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/25565-blue-ice-addax-baudrier",
           "price": 80
+        },
+        {
+          "merchant": "Snowleader",
+          "url": "https://www.snowleader.com/addax-BLIC00034.html",
+          "price": 85
         }
       ]
     },
     {
       "id": "petzl-luna",
-      "name": "Petzl Luna",
+      "name": "Petzl Corax LT Women",
       "brand": "Petzl",
-      "tagline": "Le Corax spécifique morphologie féminine.",
+      "tagline": "Le baudrier Corax en version féminine.",
       "rating": 4.7,
       "reviewCount": 720,
-      "priceFrom": 60,
-      "image": "https://images.hardloop.fr/248059-large_default/petzl-luna-baudrier-femme.jpg",
-      "imageAlt": "Baudrier d'escalade Petzl Luna violet et noir, version féminine",
+      "priceFrom": 49,
+      "image": "/equipement/placeholder-product.svg",
+      "imageAlt": "Photo produit Petzl Corax LT Women sur fond neutre",
       "level": "polyvalent",
-      "description": "Version anatomique femme du Corax. Ceinture plus large à l'arrière pour la hanche féminine, cuissards plus inclinés, pontet textile renforcé. Confort supérieur pour les morphologies féminines sur longues sessions. Quatre porte-matériel rigides, quatre boucles DoubleBack.",
+      "description": "Évolution du Luna, le Corax LT Women conserve la morphologie féminine (ceinture large arrière, cuissards inclinés) avec la construction légère du Corax. Quatre boucles DoubleBack, quatre porte-matériel rigides.",
       "pros": [
         "Confort féminin pensé sur la position assise prolongée",
         "Quatre porte-matériel rigides en grande voie",
@@ -142,28 +132,23 @@
       "links": [
         {
           "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/luna-violet-PETZ00615.html",
-          "price": 45
-        },
-        {
-          "merchant": "Hardloop",
-          "url": "https://www.hardloop.fr/produit/29000-petzl-luna-baudrier-femme",
-          "price": 77
+          "url": "https://www.snowleader.com/corax-lt-women-lilac-white-PETZ00807.html",
+          "price": 49
         }
       ]
     },
     {
       "id": "edelrid-jay-iii",
-      "name": "Edelrid Jay III",
+      "name": "Edelrid Jay IV",
       "brand": "Edelrid",
-      "tagline": "L'alternative allemande robuste et durable.",
+      "tagline": "La nouvelle version du Jay, robuste et durable.",
       "rating": 4.4,
       "reviewCount": 540,
       "priceFrom": 65,
-      "image": "https://images.hardloop.fr/155947-large_default/edelrid-jay-iii-baudrier-homme.jpg",
-      "imageAlt": "Baudrier d'escalade Edelrid Jay III noir et rouge avec sangles renforcées",
+      "image": "/equipement/placeholder-product.svg",
+      "imageAlt": "Photo produit Edelrid Jay IV sur fond neutre",
       "level": "polyvalent",
-      "description": "Edelrid est une marque allemande historique. Le Jay III propose un confort cossu pour les longues séances de salle, avec quatre boucles de réglage et quatre porte-matériel. Construction très robuste, durée de vie supérieure à la moyenne. Excellent choix si tu cherches un baudrier qui te suit 10 ans.",
+      "description": "Le Jay IV remplace le Jay III avec une mousse 3D et un nouveau système de ceinture qui améliore le confort en suspension prolongée. Quatre porte-matériel, construction Edelrid réputée pour sa durabilité.",
       "pros": [
         "Confort matelassé bien adapté aux sessions longues",
         "Construction Edelrid robuste",
@@ -177,13 +162,8 @@
       "links": [
         {
           "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/jay-iii-inkblue-EDEL00300.html",
+          "url": "https://www.snowleader.com/jay-iv-sailor-blue-EDEL00325.html",
           "price": 65
-        },
-        {
-          "merchant": "Hardloop",
-          "url": "https://www.hardloop.fr/produit/22439-edelrid-jay-iii-baudrier-homme",
-          "price": 48
         }
       ]
     }
