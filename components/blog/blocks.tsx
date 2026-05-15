@@ -11,7 +11,10 @@ import type {
   BlockList,
   BlockQuote,
   BlockTip,
+  BlockTool,
 } from "@/lib/blog";
+import { QuizBlocOuVoie } from "./tools/QuizBlocOuVoie";
+import { CalculateurFacteurChute } from "./tools/CalculateurFacteurChute";
 
 /* ───────────────── Bloc-router ───────────────── */
 
@@ -33,6 +36,17 @@ export function RenderBlock({ block }: { block: BlogBlock }) {
       return <QuoteBlock block={block} />;
     case "tip":
       return <TipBlock block={block} />;
+    case "tool":
+      return <ToolBlock block={block} />;
+  }
+}
+
+function ToolBlock({ block }: { block: BlockTool }) {
+  switch (block.tool) {
+    case "quiz-bloc-ou-voie":
+      return <QuizBlocOuVoie />;
+    case "calculateur-facteur-chute":
+      return <CalculateurFacteurChute />;
   }
 }
 

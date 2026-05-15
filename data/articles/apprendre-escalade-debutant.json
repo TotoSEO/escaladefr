@@ -47,6 +47,11 @@
       ]
     },
     {
+      "type": "tool",
+      "tool": "quiz-bloc-ou-voie",
+      "title": "Quiz : bloc ou voie pour démarrer ?"
+    },
+    {
       "type": "h2",
       "text": "Le déroulé d'une première séance d'escalade"
     },
