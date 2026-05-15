@@ -3,16 +3,16 @@
   "cocon": "techniques",
   "type_article": "guide",
   "numero": 34,
-  "title": "Progresser d'un niveau en escalade, methode realiste",
-  "h1": "Progresser d'un niveau en escalade, la methode realiste d'Antoine",
-  "description": "Progresser niveau escalade : diagnostic du palier, plan d'entrainement, projection, gestion du volume et echecs constructifs pour passer la cotation...",
-  "chapo": "Tu plafonnes en 6b depuis huit mois, tu vois tes potes monter au 7a, tu te demandes ou est le probleme. Treize ans de paliers vecus me permettent de te donner une methode realiste, sans recettes miracles. Voici comment diagnostiquer ton point faible, construire un plan adapte, et passer la cotation suivante en 6 mois ferme.",
+  "title": "Progresser d'un niveau en escalade, méthode réaliste",
+  "h1": "Progresser d'un niveau en escalade, la méthode réaliste d'Antoine",
+  "description": "Progresser niveau escalade : diagnostic du palier, plan d'entraînement, projection, volume et échecs constructifs pour passer la cotation suivante.",
+  "chapo": "Tu plafonnes en 6b depuis huit mois, tu vois tes potes monter au 7a, tu te demandes où est le problème. Treize ans de paliers vécus me permettent de te donner une méthode réaliste, sans recettes miracles. Voici comment diagnostiquer ton point faible, construire un plan adapté, et passer la cotation suivante en 6 mois fermes.",
   "takeaways": [
     "Le palier vient toujours d'un facteur dominant : technique, force ou mental.",
-    "Un diagnostic honnete par video et avis exterieur est le point de depart obligatoire.",
-    "Cycle de 12 semaines minimum pour faire bouger une cotation reelle.",
-    "Volume hebdomadaire ideal : 3 a 4 seances de 1h30, pas plus.",
-    "L'echec sur projection bien choisie progresse plus que la reussite facile."
+    "Un diagnostic honnête par vidéo et avis extérieur est le point de départ obligatoire.",
+    "Cycle de 12 semaines minimum pour faire bouger une cotation réelle.",
+    "Volume hebdomadaire idéal : 3 à 4 séances de 1h30, pas plus.",
+    "L'échec sur projection bien choisie progresse plus que la réussite facile."
   ],
   "body_blocks": [
     {
@@ -21,11 +21,11 @@
     },
     {
       "type": "p",
-      "html": "<a href=\"/blog/apprendre-escalade-debutant\">Un palier en escalade</a>, c'est une periode ou ta <strong>cotation</strong> maximale n'evolue plus malgre ton entrainement. Statistiquement, 80 pour cent des grimpeurs plafonnent entre le 6a et le 6c pour leurs trois premieres saisons. Le palier dure 6 a <strong>18</strong> mois avant la prochaine cotation. Cette duree est normale et necessaire, le corps doit consolider avant de monter."
+      "html": "Un palier en escalade, c'est une période où ta <strong>cotation</strong> maximale n'évolue plus malgré ton entraînement. Statistiquement, 80 pour cent des grimpeurs plafonnent entre le 6a et le 6c pour leurs trois premières saisons. Le palier dure 6 à 18 mois avant la prochaine cotation. Cette durée est normale et nécessaire, le corps doit consolider avant de monter. C'est l'un des sujets que <a href=\"/blog/apprendre-escalade-debutant\">le guide pour débuter et progresser à l'escalade</a> traite dès la deuxième année de pratique."
     },
     {
       "type": "p",
-      "html": "Mon premier vrai palier a dure 14 mois en 20<strong>15</strong>-2016, bloque a 6c+. J'ai changé mes seances apres avoir identifie un probleme de placement de bassin, en repensant entièrement <a href=\"/blog/tirer-bras-jambes-grimpe\">la bascule des bras aux jambes en grimpe</a> apres avoir identifie un probleme de placement de bassin, pas de force. En 4 mois apres correction, je passais le 7a. C'est la nature du palier : il cache toujours un facteur dominant, et le travailler debloque tout."
+      "html": "Mon premier vrai palier a duré 14 mois en 2015-2016, bloqué à 6c+. J'ai changé mes séances en repensant entièrement <a href=\"/blog/tirer-bras-jambes-grimpe\">la bascule des bras aux jambes en grimpe</a>, après avoir identifié un problème de placement de bassin, pas de force. En 4 mois après correction, je passais le 7a. C'est la nature du palier : il cache toujours un facteur dominant, et le travailler débloque tout."
     },
     {
       "type": "h2",
@@ -33,16 +33,16 @@
     },
     {
       "type": "p",
-      "html": "Le diagnostic commence par une <strong>video</strong>. Filme-toi sur trois voies a ton niveau et trois voies une cotation au-dessus. Regarde le soir avec un cafe, sans ego. Compte les pieds qui ripent, les coudes ouverts, les bassins en arriere. Tu verras ton point faible en 15 minutes, c'est sans appel."
+      "html": "Le diagnostic commence par une <strong>vidéo</strong>. Filme-toi sur trois voies à ton niveau et trois voies une cotation au-dessus. Regarde le soir avec un café, sans ego. Compte les pieds qui ripent, les coudes ouverts, les bassins en arrière. Tu verras ton point faible en 15 minutes, c'est sans appel."
     },
     {
       "type": "p",
-      "html": "Si la video ne suffit pas, demande l'avis d'un coach FFME ou d'un grimpeur 7c+ de ton club. Une seance de coaching de 1h30 coute 60 a 90 euros et te fait gagner six mois. Cherche un BE ou BPJEPS escalade dans ton departement via le site FFME."
+      "html": "Si la vidéo ne suffit pas, demande l'avis d'un coach FFME ou d'un grimpeur 7c+ de ton club. Une séance de coaching de 1h30 coûte 60 à 90 euros et te fait gagner six mois. Cherche un BE ou BPJEPS escalade dans ton département via le site FFME."
     },
     {
       "type": "tip",
       "title": "La grille des trois facteurs",
-      "body": "Note de 1 a 10 ces trois facteurs : technique de pose et placement, force d'avant-bras et de doigts, mental sur engagement et chute. Le facteur le plus bas est ton palier. Si technique 5, force 7, mental 8, tu dois bosser la technique en priorite, meme si tu te crois fort.",
+      "body": "Note de 1 à 10 ces trois facteurs : technique de pose et placement, force d'avant-bras et de doigts, mental sur engagement et chute. Le facteur le plus bas est ton palier. Si technique 5, force 7, mental 8, tu dois bosser la technique en priorité, même si tu te crois fort.",
       "tone": "astuce"
     },
     {
@@ -51,11 +51,11 @@
     },
     {
       "type": "p",
-      "html": "Une fois le diagnostic pose, tu construis un cycle de 12 semaines. Pas moins, parce que les adaptations physiologiques prennent du temps. Une semaine d'entrainement typique : 3 seances de 1h30, dont une centree sur le point faible identifie, une sur la projection, une sur le volume de voies."
+      "html": "Une fois le diagnostic posé, tu construis un cycle de 12 semaines. Pas moins, parce que les adaptations physiologiques prennent du temps. Une semaine d'entraînement typique : 3 séances de 1h30, dont une centrée sur le point faible identifié, une sur la projection, une sur le volume de voies."
     },
     {
       "type": "p",
-      "html": "Si ton point faible est la technique, integre 30 minutes de placement isole par seance, avec exercices repetes. Si c'est la force, integre du hangboard 2 fois par semaine et bosse <a href=\"/blog/doigts-prises-petites\">ta force des doigts</a> en complement. Si c'est le mental, integre des chutes volontaires controlees a chaque seance. La specificite du travail compte plus que le volume total."
+      "html": "Si ton point faible est la technique, intègre 30 minutes de placement isolé par séance, avec exercices répétés. Si c'est la force, intègre du hangboard 2 fois par semaine et bosse <a href=\"/blog/doigts-prises-petites\">ta force des doigts sur petites prises</a> en complément. Si c'est le mental, intègre des chutes volontaires contrôlées à chaque séance. La spécificité du travail compte plus que le volume total."
     },
     {
       "type": "h2",
@@ -63,50 +63,50 @@
     },
     {
       "type": "p",
-      "html": "La projection, c'est la voie au-dessus de ton niveau actuel que tu vas travailler en repetition jusqu'a la reussir. Choisis une projection a 1 demi-cotation au-dessus, pas plus. Du 6c vers le 7a, c'est ideal. Du 6c vers le 7b, c'est demoralisant : 30 a 50 essais sans progres."
+      "html": "La projection, c'est la voie au-dessus de ton niveau actuel que tu vas travailler en répétition jusqu'à la réussir. Choisis une projection à une demi-cotation au-dessus, pas plus. Du 6c vers le 7a, c'est idéal. Du 6c vers le 7b, c'est démoralisant : 30 à 50 essais sans progrès."
     },
     {
       "type": "list",
       "variant": "checks",
-      "title": "Trois criteres pour choisir une projection",
+      "title": "Trois critères pour choisir une projection",
       "items": [
         {
-          "title": "Une demi cotation au-dessus",
-          "body": "6b vers 6c+, 7a vers 7a+. Une cotation entiere reste possible mais demande deux fois plus de temps."
+          "title": "Une demi-cotation au-dessus",
+          "body": "6b vers 6c+, 7a vers 7a+. Une cotation entière reste possible mais demande deux fois plus de temps."
         },
         {
-          "title": "Style adapte a ton point fort",
-          "body": "Si tu es fort en dalle, prends une projection en dalle. Si tu galeres en devers, evite le devers en projection sauf travail specifique."
+          "title": "Style adapté à ton point fort",
+          "body": "Si tu es fort en dalle, prends une projection en dalle. Si tu galères en dévers, évite le dévers en projection sauf travail spécifique."
         },
         {
-          "title": "Voie accessible toute l'annee",
-          "body": "Une voie d'ete a Buoux que tu ne peux essayer que 3 mois par an est mauvaise projection. Vise une voie en salle ou un secteur de mi-saison qui s'enchaine bien."
+          "title": "Voie accessible toute l'année",
+          "body": "Une voie d'été à Buoux que tu ne peux essayer que 3 mois par an est une mauvaise projection. Vise une voie en salle ou un secteur de mi-saison qui s'enchaîne bien."
         }
       ]
     },
     {
       "type": "h2",
-      "text": "L'echec qui construit"
+      "text": "L'échec qui construit"
     },
     {
       "type": "p",
-      "html": "Une bonne projection demande 10 a 30 essais avant la reussite. Chaque essai t'apprend une chose : une sequence de pieds, une prehension precise, un placement de hanche. <a href=\"/blog/lecture-voie-strategie\">L'étude au sol avant ascension</a> entre chaque essai te fait gagner beaucoup d'essais inutiles. Note dans un carnet les corrections apportees a chaque tentative. Ce carnet vaut mieux que toute methode generique."
+      "html": "Une bonne projection demande 10 à 30 essais avant la réussite. Chaque essai t'apprend une chose : une séquence de pieds, une préhension précise, un placement de hanche. <a href=\"/blog/lecture-voie-strategie\">L'étude au sol avant ascension</a> entre chaque essai te fait gagner beaucoup d'essais inutiles. Note dans un carnet les corrections apportées à chaque tentative. Ce carnet vaut mieux que toute méthode générique."
     },
     {
       "type": "p",
-      "html": "J'ai vu des grimpeurs abandonner apres 5 essais en se decourageant. C'est trop tot. Le palier mental se travaille en restant sur la meme voie, en acceptant l'echec sans le vivre comme une defaite. Apprends a separer l'effort et le resultat, c'est la cle <a href=\"/blog/mental-grimpe-blocage\">du deblocage mental</a>."
+      "html": "J'ai vu des grimpeurs abandonner après 5 essais en se décourageant. C'est trop tôt. Le palier mental se travaille en restant sur la même voie, en acceptant l'échec sans le vivre comme une défaite. Apprends à séparer l'effort et le résultat, c'est la clé <a href=\"/blog/mental-grimpe-blocage\">du déblocage mental en grimpe</a>."
     },
     {
       "type": "h2",
-      "text": "Le volume hebdomadaire ideal"
+      "text": "Le volume hebdomadaire idéal"
     },
     {
       "type": "table",
       "caption": "Volume hebdomadaire selon niveau",
       "headers": [
         "Niveau actuel",
-        "Seances semaine",
-        "Duree seance",
+        "Séances semaine",
+        "Durée séance",
         "Repos"
       ],
       "rows": [
@@ -114,7 +114,7 @@
           "5a-6a",
           "2",
           "1h30",
-          "Une seance technique, une projection"
+          "Une séance technique, une projection"
         ],
         [
           "6a-6c",
@@ -124,21 +124,21 @@
         ],
         [
           "6c-7b",
-          "3 a 4",
-          "1h30 a 2h",
-          "Ajout d'une seance specifique doigts/force"
+          "3 à 4",
+          "1h30 à 2h",
+          "Ajout d'une séance spécifique doigts/force"
         ],
         [
           "7b+",
-          "4 a 5",
+          "4 à 5",
           "2h",
-          "Inclure une seance plein air si possible"
+          "Inclure une séance plein air si possible"
         ]
       ]
     },
     {
       "type": "p",
-      "html": "Ne depasse pas 4 seances par semaine si tu n'es pas grimpeur professionnel. Les blessures viennent du sur-entrainement, pas du sous-entrainement. Pascal au club FFME de Colmar repete que mieux vaut 3 seances de qualite que 5 seances batardes."
+      "html": "Ne dépasse pas 4 séances par semaine si tu n'es pas grimpeur professionnel. Les blessures viennent du sur-entraînement, pas du sous-entraînement. Le club FFME répète volontiers que mieux vaut 3 séances de qualité que 5 séances bâtardes."
     },
     {
       "type": "h2",
@@ -146,7 +146,7 @@
     },
     {
       "type": "p",
-      "html": "Souvent ignores, ces deux facteurs comptent. Un grimpeur qui dort 6 heures par nuit perd 30 pour cent de progression par rapport a 8 heures. Une alimentation suffisante en proteines (1.5 g par kilo) et glucides complexes soutient la recuperation. Pas besoin de regime sec, mais pas non plus de malbouffe en routine."
+      "html": "Souvent ignorés, ces deux facteurs comptent. Un grimpeur qui dort 6 heures par nuit perd 30 pour cent de progression par rapport à 8 heures. Une alimentation suffisante en protéines (1,5 g par kilo) et glucides complexes soutient la récupération. Pas besoin de régime sec, mais pas non plus de malbouffe en routine."
     },
     {
       "type": "h2",
@@ -154,15 +154,15 @@
     },
     {
       "type": "p",
-      "html": "Si apres 12 semaines de travail cible, ta cotation n'a pas bouge, deux options. Premiere : ton diagnostic etait faux, refais-le avec un coach. Deuxieme : ton corps a besoin de plus de temps, prolonge le cycle de 8 semaines. Ne change pas tout en cours de route, c'est le piege classique."
+      "html": "Si après 12 semaines de travail ciblé, ta cotation n'a pas bougé, deux options. Première : ton diagnostic était faux, refais-le avec un coach. Deuxième : ton corps a besoin de plus de temps, prolonge le cycle de 8 semaines. Ne change pas tout en cours de route, c'est le piège classique."
     },
     {
       "type": "p",
-      "html": "L'autre piste, c'est de tester un changement radical. Une semaine de bloc pur si tu fais que de la voie, ou inversement. Une sortie rocher si tu ne fais que de la salle. <a href=\"/blog/sortie-rocher-debutant\">Une premiere sortie en falaise</a> change souvent la perception et debloque des paliers indoor."
+      "html": "L'autre piste, c'est de tester un changement radical. Une semaine de bloc pur si tu ne fais que de la voie, ou inversement. Une sortie rocher si tu ne fais que de la salle. <a href=\"/blog/sortie-rocher-debutant\">Une première sortie sur le rocher</a> change souvent la perception et débloque des paliers indoor."
     },
     {
       "type": "quote",
-      "text": "Le palier n'est pas un mur, c'est une etape. Diagnostic, plan, patience. C'est la formule.",
+      "text": "Le palier n'est pas un mur, c'est une étape. Diagnostic, plan, patience. C'est la formule.",
       "author": "Antoine",
       "role": "grimpeur en 8a falaise, 7b bloc"
     }
@@ -170,60 +170,60 @@
   "faq": [
     {
       "q": "Combien de temps pour passer du 6a au 6c en moyenne ?",
-      "a": "Compte 12 a 24 mois en pratique reguliere 3 fois par semaine. Cette progression suppose un travail technique reel, pas uniquement du volume aveugle. Beaucoup mettent 4 ans en grimpant 1 fois par semaine sans diagnostic."
+      "a": "Compte 12 à 24 mois en pratique régulière 3 fois par semaine. Cette progression suppose un travail technique réel, pas uniquement du volume aveugle. Beaucoup mettent 4 ans en grimpant 1 fois par semaine sans diagnostic."
     },
     {
       "q": "Faut-il prendre un coach pour progresser ?",
-      "a": "Pas obligatoire, mais tres efficace. Une seance avec un coach FFME ou BE escalade tous les 3 mois te fait gagner 6 mois sur le palier. Cherche un coach via la FFME de ton departement, compte 60 a 90 euros la seance individuelle."
+      "a": "Pas obligatoire, mais très efficace. Une séance avec un coach FFME ou BE escalade tous les 3 mois te fait gagner 6 mois sur le palier. Cherche un coach via la FFME de ton département, compte 60 à 90 euros la séance individuelle."
     },
     {
       "q": "Le hangboard fait-il vraiment progresser ?",
-      "a": "Oui apres 3 ans de pratique, et de facon ciblee. Avant 3 ans, le hangboard expose aux blessures de poulies. Apres 3 ans, deux seances par semaine de 30 minutes ajoutent 20 pour cent de force de doigts sur 12 semaines."
+      "a": "Oui après 3 ans de pratique, et de façon ciblée. Avant 3 ans, le hangboard expose aux blessures de poulies. Après 3 ans, deux séances par semaine de 30 minutes ajoutent 20 pour cent de force de doigts sur 12 semaines."
     },
     {
       "q": "Faut-il varier les types de voies pour progresser ?",
-      "a": "Oui, la specialisation precoce limite. Bosse dalle, vertical et devers en rotation 3 semaines chacun. Le grimpeur 7a complet tient mieux son niveau qu'un 7a specialiste dalle qui plafonne ailleurs."
+      "a": "Oui, la spécialisation précoce limite. Bosse dalle, vertical et dévers en rotation 3 semaines chacun. Le grimpeur 7a complet tient mieux son niveau qu'un 7a spécialiste dalle qui plafonne ailleurs."
     },
     {
-      "q": "Comment savoir quand changer de cycle d'entrainement ?",
-      "a": "Tu changes de cycle quand tu sens que les exercices deviennent trop faciles ou que ton point faible a evolue. Refais un diagnostic toutes les 12 semaines. Si ton point faible a change, change le programme."
+      "q": "Comment savoir quand changer de cycle d'entraînement ?",
+      "a": "Tu changes de cycle quand tu sens que les exercices deviennent trop faciles ou que ton point faible a évolué. Refais un diagnostic toutes les 12 semaines. Si ton point faible a changé, change le programme."
     },
     {
-      "q": "Est-ce qu'on peut progresser en grimpe apres 40 ans ?",
-      "a": "Oui sans aucun probleme. La progression est plus lente, le risque de blessure plus eleve, mais la marge reste enorme jusqu'a 60 ans. Beaucoup commencent l'escalade a 45 ans et atteignent 7a en 5 ans. La constance prime sur l'intensite."
+      "q": "Est-ce qu'on peut progresser en grimpe après 40 ans ?",
+      "a": "Oui sans aucun problème. La progression est plus lente, le risque de blessure plus élevé, mais la marge reste énorme jusqu'à 60 ans. Beaucoup commencent l'escalade à 45 ans et atteignent 7a en 5 ans. La constance prime sur l'intensité."
     }
   ],
-  "cover_alt": "Grimpeur de profil tracant une croix sur un topo papier avec un stylo, baudrier au sol, chaussons et corde a cote, lumiere chaude de soiree sur une terrasse",
+  "cover_alt": "Grimpeur de profil traçant une croix sur un topo papier avec un stylo, baudrier au sol, chaussons et corde à côté, lumière chaude de soirée sur une terrasse",
   "internal_links": [
     {
       "slug": "apprendre-escalade-debutant",
-      "anchor": "apprendre l'escalade en 2026",
+      "anchor": "le guide pour débuter et progresser à l'escalade",
       "context": "Pilier general"
     },
     {
+      "slug": "tirer-bras-jambes-grimpe",
+      "anchor": "la bascule des bras aux jambes en grimpe",
+      "context": "Levier technique"
+    },
+    {
+      "slug": "doigts-prises-petites",
+      "anchor": "ta force des doigts sur petites prises",
+      "context": "Levier force"
+    },
+    {
+      "slug": "lecture-voie-strategie",
+      "anchor": "L'étude au sol avant ascension",
+      "context": "Outil strategique"
+    },
+    {
       "slug": "mental-grimpe-blocage",
-      "anchor": "deblocage mental",
+      "anchor": "du déblocage mental en grimpe",
       "context": "Mental complementaire"
     },
     {
       "slug": "sortie-rocher-debutant",
-      "anchor": "premiere sortie en falaise",
+      "anchor": "Une première sortie sur le rocher",
       "context": "Levier de progression"
-    },
-    {
-      "slug": "lecture-voie-strategie",
-      "anchor": "lecture de voie",
-      "context": "Outil strategique"
-    },
-    {
-      "slug": "doigts-prises-petites",
-      "anchor": "force des doigts",
-      "context": "Levier force"
-    },
-    {
-      "slug": "tirer-bras-jambes-grimpe",
-      "anchor": "bascule de poussee",
-      "context": "Levier technique"
     }
   ],
   "scheduled_at": "2026-07-21T09:00:00+02:00"
