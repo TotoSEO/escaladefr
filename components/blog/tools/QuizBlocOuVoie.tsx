@@ -54,11 +54,11 @@ export function QuizBlocOuVoie() {
   const [submitted, setSubmitted] = useState(false);
 
   const done = answers.every((a) => a !== null);
-  const bloc = answers.reduce(
+  const bloc = answers.reduce<number>(
     (s, a, i) => s + (a !== null ? QUESTIONS[i].choices[a].bloc : 0),
     0,
   );
-  const voie = answers.reduce(
+  const voie = answers.reduce<number>(
     (s, a, i) => s + (a !== null ? QUESTIONS[i].choices[a].voie : 0),
     0,
   );
