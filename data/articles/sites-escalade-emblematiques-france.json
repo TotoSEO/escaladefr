@@ -25,7 +25,7 @@
     },
     {
       "type": "p",
-      "html": "Le grès bellifontain a une signature unique : une adhérence exceptionnelle quand il fait sec et frais, et un répertoire de prises qui ne ressemble à rien d'autre. Les fameuses dalles, les arquées, les bombes, les fissures... chaque secteur a sa logique. Le 7a Bleausard d'Antoine, c'est une autre histoire."
+      "html": "Le grès bellifontain a une signature unique : une adhérence exceptionnelle quand il fait sec et frais, et un répertoire de prises qui ne ressemble à rien d'autre. Les fameuses dalles, les arquées, les bombes, les fissures... chaque secteur a sa logique. <a href=\"/blog/fontainebleau-bloc-foret\">Le panorama complet de la forêt de Bleau et de ses 300 secteurs</a> donne la mesure du terrain. Le 7a Bleausard d'Antoine, c'est une autre histoire."
     },
     {
       "type": "h2",
@@ -76,7 +76,7 @@
     },
     {
       "type": "p",
-      "html": "À 2 000 mètres d'altitude au-dessus de Gap dans les Hautes-Alpes, <a href=\"/blog/ceuse-cathedrale-calcaire\">la cathédrale de calcaire de Céüse</a> jouit d'un statut quasi mystique. Le calcaire bleu compact, les colos millimétrées, les voies de 30 à 40 mètres parfaitement équipées en font le terrain <a href=\"/blog/fontainebleau-bloc-foret\">de jeu favori de l'élite mondiale</a>. Biographie 9a+, Realization 9a+, et plus récemment Bibliographie 9b+ ouvert par Alex Megos en 2020 ont marqué l'histoire."
+      "html": "À 2 000 mètres d'altitude au-dessus de Gap dans les Hautes-Alpes, <a href=\"/blog/ceuse-cathedrale-calcaire\">la cathédrale de calcaire de Céüse</a> jouit d'un statut quasi mystique. Le calcaire bleu compact, les colos millimétrées, les voies de 30 à 40 mètres parfaitement équipées en font le terrain de jeu favori de l'élite mondiale. Biographie 9a+, Realization 9a+, et plus récemment Bibliographie 9b+ ouvert par Alex Megos en 2020 ont marqué l'histoire."
     },
     {
       "type": "p",
@@ -157,7 +157,7 @@
     },
     {
       "type": "p",
-      "html": "Saffres en Côte d'Or reste l'un des plus beaux sites d'initiation de France, avec <a href=\"/blog/saffres-cote-or-region-est\">son calcaire compact bourguignon</a> et ses voies bien équipées. Près de Romans, le secteur <a href=\"/blog/claudes-romans-isere-classique\">des Claudes en Isère classique</a> joue le même rôle de site école. La Belgique frontalière propose aussi <a href=\"/blog/freyr-belgique-frontaliere\">Freyr en Wallonie historique</a>, accessible depuis le Nord de la France."
+      "html": "Saffres en Côte d'Or reste l'un des plus beaux sites d'initiation de France, avec <a href=\"/blog/saffres-cote-or-region-est\">son calcaire compact bourguignon</a> et ses voies bien équipées. À Bleau, <a href=\"/blog/bleau-circuits-debutant\">les circuits jaunes et bleus de Fontainebleau pour débuter</a> offrent un terrain pédagogique mythique. Près de Romans, le secteur <a href=\"/blog/claudes-romans-isere-classique\">des Claudes en Isère classique</a> joue le même rôle de site école. La Belgique frontalière propose aussi <a href=\"/blog/freyr-belgique-frontaliere\">Freyr en Wallonie historique</a>, accessible depuis le Nord de la France."
     },
     {
       "type": "image_text",
@@ -173,7 +173,7 @@
     },
     {
       "type": "p",
-      "html": "Le massif alpin offre une autre dimension. <a href=\"/blog/aiguille-midi-chamonix-haute\">L'Aiguille du Midi en haute montagne chamoniarde</a>, accessible par le téléphérique de Chamonix, donne accès à des voies de granite à 3 800 mètres en quelques minutes. Le Vercors <a href=\"/blog/mont-aiguille-vercors-pionnier\">avec le Mont Aiguille pionnier de l'alpinisme</a>, première ascension à but sportif documentée de l'histoire (1492), reste un terrain mythique, et plus au Nord <a href=\"/blog/dent-crolles-chartreuse\">la Dent de Crolles en Chartreuse</a> propose un long balcon calcaire."
+      "html": "Le massif alpin offre une autre dimension. <a href=\"/blog/aiguille-midi-chamonix-haute\">L'Aiguille du Midi en haute montagne chamoniarde</a>, accessible par le téléphérique de Chamonix, donne accès à des voies de granite à 3 800 mètres en quelques minutes. Le Vercors avec <a href=\"/blog/mont-aiguille-vercors-pionnier\">le Mont Aiguille pionnier de l'alpinisme</a>, première ascension à but sportif documentée de l'histoire (1492), reste un terrain mythique, et plus au Nord <a href=\"/blog/dent-crolles-chartreuse\">la Dent de Crolles en Chartreuse</a> propose un long balcon calcaire."
     },
     {
       "type": "p",
@@ -258,32 +258,127 @@
   "internal_links": [
     {
       "slug": "fontainebleau-bloc-foret",
-      "anchor": "notre dossier complet sur Bleau",
+      "anchor": "Le panorama complet de la forêt de Bleau et de ses 300 secteurs",
       "context": "Article enfant cocon sites"
     },
     {
       "slug": "verdon-grandes-voies",
-      "anchor": "notre guide des grandes voies du Verdon",
+      "anchor": "grandes voies du Verdon",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "verdon-secteurs-rappel-acces",
+      "anchor": "les particularités d'accès par rappel",
       "context": "Article enfant cocon sites"
     },
     {
       "slug": "ceuse-cathedrale-calcaire",
-      "anchor": "notre dossier dédié à Céüse",
+      "anchor": "la cathédrale de calcaire de Céüse",
       "context": "Article enfant cocon sites"
     },
     {
       "slug": "buoux-luberon-historique",
-      "anchor": "guide Buoux",
+      "anchor": "L'historique de Buoux dans le Luberon",
       "context": "Article enfant cocon sites"
     },
     {
       "slug": "calanques-escalade-marseille",
-      "anchor": "guide Calanques",
+      "anchor": "les Calanques de Marseille en escalade maritime",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "sainte-victoire-paul-cezanne",
+      "anchor": "la Sainte-Victoire chère à Cézanne",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "saussois-yonne-bourgogne",
+      "anchor": "Le Saussois et son calcaire bourguignon",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "gorges-tarn-massif-central",
+      "anchor": "Les Gorges du Tarn et leur calcaire dolomitique",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "gorges-loire-massif-central",
+      "anchor": "La Loire et son basalte volcanique",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "siurana-margalef-catalogne",
+      "anchor": "la Catalogne de Siurana et Margalef",
       "context": "Article enfant cocon sites"
     },
     {
       "slug": "saffres-cote-or-region-est",
-      "anchor": "fiche Saffres",
+      "anchor": "son calcaire compact bourguignon",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "bleau-circuits-debutant",
+      "anchor": "les circuits jaunes et bleus de Fontainebleau pour débuter",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "claudes-romans-isere-classique",
+      "anchor": "des Claudes en Isère classique",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "freyr-belgique-frontaliere",
+      "anchor": "Freyr en Wallonie historique",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "aiguille-midi-chamonix-haute",
+      "anchor": "L'Aiguille du Midi en haute montagne chamoniarde",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "mont-aiguille-vercors-pionnier",
+      "anchor": "le Mont Aiguille pionnier de l'alpinisme",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "dent-crolles-chartreuse",
+      "anchor": "la Dent de Crolles en Chartreuse",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "saint-leger-du-ventoux-escalade",
+      "anchor": "L'escalade à Saint-Léger du Ventoux",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "aiglun-prealpes-azur",
+      "anchor": "Aiglun et ses Préalpes d'Azur",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "corse-bavella-aiguilles",
+      "anchor": "Les aiguilles de Bavella en Corse-du-Sud",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "corse-restonica-canyon",
+      "anchor": "la Restonica et son granite de haute montagne",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "annot-gres-roses-alpes",
+      "anchor": "Annot et ses grès roses",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "bleau-secteurs-incontournables",
+      "anchor": "les secteurs incontournables de Bleau",
+      "context": "Article enfant cocon sites"
+    },
+    {
+      "slug": "sites-confidentiels-france",
+      "anchor": "Les sites confidentiels d'escalade en France",
       "context": "Article enfant cocon sites"
     }
   ],
