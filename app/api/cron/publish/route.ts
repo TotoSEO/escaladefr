@@ -10,17 +10,26 @@ import { revalidatePath } from "next/cache";
  * Pour chaque article en status='scheduled' dont scheduled_at <= now,
  * passe le status à 'published' et fixe published_at = scheduled_at.
  *
- * Protégé par le header Authorization: Bearer <CRON_SECRET>.
- * Vercel injecte automatiquement ce header pour les routes /api/cron/*.
+ * Authentification :
+ *  - En prod Vercel : l'user-agent 'vercel-cron/*' authentifie automatiquement
+ *    (zéro config requise côté utilisateur).
+ *  - En manuel : Authorization: Bearer <CRON_SECRET> si CRON_SECRET est défini.
+ *  - Si rien des deux, 401.
  */
 
 export const dynamic = "force-dynamic";
 export const runtime = "nodejs";
 
 export async function GET(request: Request) {
+  const ua = request.headers.get("user-agent") ?? "";
+  const isVercelCron = ua.startsWith("vercel-cron");
   const authHeader = request.headers.get("authorization");
-  const expected = `Bearer ${process.env.CRON_SECRET}`;
-  if (!process.env.CRON_SECRET || authHeader !== expected) {
+  const hasValidAuth =
+    process.env.CRON_SECRET !== undefined &&
+    process.env.CRON_SECRET !== "" &&
+    authHeader === `Bearer ${process.env.CRON_SECRET}`;
+
+  if (!isVercelCron && !hasValidAuth) {
     return new NextResponse("Unauthorized", { status: 401 });
   }
 
