@@ -147,6 +147,53 @@ export async function fetchPublishedArticles(
   return data as BlogArticleListItem[];
 }
 
+/**
+ * Renvoie le prochain article à publier (status='scheduled', scheduled_at > now).
+ * Optionnellement filtré par cocon. Utilisé pour afficher la date du prochain
+ * article dans les empty states des pages /blog et /blog/categorie/*.
+ */
+export async function fetchNextScheduledArticle(
+  cocon?: Cocon,
+): Promise<{ slug: string; h1: string; scheduled_at: string; cocon: Cocon } | null> {
+  const supabase = getSupabase();
+  if (!supabase) return null;
+  let q = supabase
+    .from("blog_articles")
+    .select("slug,h1,scheduled_at,cocon")
+    .eq("status", "scheduled")
+    .gt("scheduled_at", new Date().toISOString())
+    .order("scheduled_at", { ascending: true })
+    .limit(1);
+  if (cocon) q = q.eq("cocon", cocon);
+  const { data, error } = await q;
+  if (error || !data || data.length === 0) return null;
+  return data[0] as { slug: string; h1: string; scheduled_at: string; cocon: Cocon };
+}
+
+/**
+ * Compte le nombre d'articles publiés par cocon. Utile pour afficher
+ * "N articles" à côté de chaque entrée de navigation.
+ */
+export async function fetchPublishedCountByCocon(): Promise<Record<Cocon, number>> {
+  const supabase = getSupabase();
+  const zero: Record<Cocon, number> = {
+    techniques: 0, materiel: 0, noeuds: 0, sites: 0, personnalites: 0,
+    preparation: 0, securite: 0, environnement: 0, culture: 0,
+  };
+  if (!supabase) return zero;
+  const { data, error } = await supabase
+    .from("blog_articles")
+    .select("cocon")
+    .eq("status", "published")
+    .lte("published_at", new Date().toISOString());
+  if (error || !data) return zero;
+  const out = { ...zero };
+  for (const row of data as { cocon: Cocon }[]) {
+    out[row.cocon] = (out[row.cocon] ?? 0) + 1;
+  }
+  return out;
+}
+
 export async function fetchArticleBySlug(
   slug: string,
 ): Promise<BlogArticle | null> {
