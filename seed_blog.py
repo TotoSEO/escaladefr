@@ -73,7 +73,8 @@ VALID_COCONS = {
     "preparation", "securite", "environnement", "culture",
 }
 VALID_TYPES = {"hub", "guide", "liste", "profil", "astuce"}
-VALID_BLOCK_TYPES = {"h2", "h3", "p", "table", "image_text", "list", "quote", "tip"}
+VALID_BLOCK_TYPES = {"h2", "h3", "p", "table", "image_text", "list", "quote", "tip", "tool"}
+VALID_TOOL_IDS = {"quiz-bloc-ou-voie", "calculateur-facteur-chute"}
 
 
 def slugify_no_diacritics(s: str) -> str:
@@ -179,8 +180,12 @@ def validate_article(art: dict, slug: str) -> list[str]:
         t = b.get("type")
         if t not in VALID_BLOCK_TYPES:
             errors.append(f"body_blocks[{i}] type invalide : {t}")
-        if t in ("table", "image_text", "list", "quote", "tip"):
+        if t in ("table", "image_text", "list", "quote", "tip", "tool"):
             has_illust = True
+        if t == "tool":
+            tool_id = b.get("tool")
+            if tool_id not in VALID_TOOL_IDS:
+                errors.append(f"body_blocks[{i}] tool id invalide : {tool_id}")
     if not has_illust:
         errors.append("aucun bloc illustratif (table/image_text/list/quote/tip)")
 

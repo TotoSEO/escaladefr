@@ -72,6 +72,13 @@ export type BlockTip = {
   /** 'astuce' | 'attention' | 'erreur' */
   tone?: "astuce" | "attention" | "erreur";
 };
+export type BlockTool = {
+  type: "tool";
+  /** Identifiant de l'outil React à charger (cf. components/blog/tools/) */
+  tool: "quiz-bloc-ou-voie" | "calculateur-facteur-chute";
+  /** Titre optionnel affiché au-dessus de l'outil */
+  title?: string;
+};
 
 export type BlogBlock =
   | BlockH2
@@ -81,7 +88,8 @@ export type BlogBlock =
   | BlockImageText
   | BlockList
   | BlockQuote
-  | BlockTip;
+  | BlockTip
+  | BlockTool;
 
 /* ───── Type article complet ───── */
 
