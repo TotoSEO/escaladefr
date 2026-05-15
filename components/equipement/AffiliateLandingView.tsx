@@ -39,7 +39,14 @@ function ratingStars(rating: number | undefined) {
   );
 }
 
-export function AffiliateLandingView({ landing }: { landing: AffiliateLanding }) {
+export function AffiliateLandingView({
+  landing,
+  relatedArticles,
+}: {
+  landing: AffiliateLanding;
+  /** Articles liés déjà filtrés (publiés uniquement) avec leur H1 réel. */
+  relatedArticles?: { slug: string; h1: string }[];
+}) {
   const updatedDate = new Intl.DateTimeFormat("fr-FR", {
     day: "numeric",
     month: "long",
@@ -292,22 +299,23 @@ export function AffiliateLandingView({ landing }: { landing: AffiliateLanding })
         </section>
       )}
 
-      {/* Articles liés */}
-      {landing.relatedBlogSlugs && landing.relatedBlogSlugs.length > 0 && (
+      {/* Articles liés (uniquement ceux déjà publiés, avec leur H1 réel) */}
+      {relatedArticles && relatedArticles.length > 0 && (
         <section className="border-t border-white/10">
           <div className="mx-auto max-w-3xl px-5 py-12 sm:px-8 sm:py-16 lg:px-12">
             <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
               § Pour aller plus loin
             </span>
             <ul className="mt-5 space-y-3">
-              {landing.relatedBlogSlugs.map((slug) => (
-                <li key={slug}>
+              {relatedArticles.map((a) => (
+                <li key={a.slug}>
                   <Link
-                    href={`/blog/${slug}`}
-                    className="group inline-flex items-center gap-2 font-display text-base font-medium text-foreground/85 transition-colors hover:text-primary sm:text-lg"
+                    href={`/blog/${a.slug}`}
+                    className="group inline-flex items-baseline gap-2 font-display text-base font-medium text-foreground/85 transition-colors hover:text-primary sm:text-lg"
                   >
+                    <span className="text-primary">→</span>
                     <span className="underline decoration-primary/30 decoration-2 underline-offset-[6px] transition-colors group-hover:decoration-primary">
-                      → Lire l&apos;article guide associé
+                      {a.h1}
                     </span>
                   </Link>
                 </li>

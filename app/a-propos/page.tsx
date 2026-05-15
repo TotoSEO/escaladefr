@@ -3,6 +3,9 @@ import Image from "next/image";
 import Link from "next/link";
 
 import { PageShell, PageHeader } from "@/components/page-shell";
+import { fetchPublishedArticleHeadings } from "@/lib/blog";
+
+export const revalidate = 3600;
 
 export const metadata: Metadata = {
   title: "À propos · Antoine, rédacteur d'escalade-france.fr",
@@ -65,7 +68,13 @@ const COCONS = [
   },
 ];
 
-export default function AProposPage() {
+export default async function AProposPage() {
+  // Filtre les hubs déjà publiés pour ne pas linker vers du 404.
+  const publishedHubs = await fetchPublishedArticleHeadings(
+    COCONS.map((c) => c.slug),
+  );
+  const publishedSet = new Set(publishedHubs.map((h) => h.slug));
+  const visibleCocons = COCONS.filter((c) => publishedSet.has(c.slug));
   const jsonLd = {
     "@context": "https://schema.org",
     "@graph": [
@@ -239,6 +248,7 @@ export default function AProposPage() {
         </div>
       </section>
 
+      {visibleCocons.length > 0 && (
       <section className="mx-auto max-w-4xl px-5 py-16 sm:px-8 sm:py-20 lg:px-12">
         <h2
           className="font-display font-medium leading-tight tracking-[-0.02em]"
@@ -247,12 +257,12 @@ export default function AProposPage() {
           Par où commencer ?
         </h2>
         <p className="mt-4 max-w-2xl text-base leading-relaxed text-foreground/80 sm:text-[17px]">
-          Les neuf thématiques du blog, chacune avec un article pivot et quinze
-          à trente articles satellites. Tu peux entrer par celle qui parle à
-          ton niveau actuel.
+          Les thématiques du blog disponibles aujourd&apos;hui, avec un article
+          pivot par cocon. Tu peux entrer par celle qui parle à ton niveau
+          actuel.
         </p>
         <ul className="mt-8 grid grid-cols-1 gap-3 sm:grid-cols-2 sm:gap-4 lg:grid-cols-3">
-          {COCONS.map((c) => (
+          {visibleCocons.map((c) => (
             <li key={c.slug}>
               <Link
                 href={`/blog/${c.slug}`}
@@ -275,6 +285,7 @@ export default function AProposPage() {
           ))}
         </ul>
       </section>
+      )}
 
       <section className="border-t border-white/10">
         <div className="mx-auto max-w-4xl px-5 py-12 sm:px-8 sm:py-16 lg:px-12">

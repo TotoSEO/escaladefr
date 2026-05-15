@@ -7,6 +7,7 @@ import {
   fetchAffiliateLanding,
   fetchAllAffiliateLandings,
 } from "@/lib/equipement";
+import { fetchPublishedArticleHeadings } from "@/lib/blog";
 
 export const revalidate = 3600;
 
@@ -54,6 +55,11 @@ export default async function EquipementLandingPage(
   const { slug } = await params;
   const landing = await fetchAffiliateLanding(slug);
   if (!landing) notFound();
+
+  // On ne propose que les articles déjà publiés (les autres seraient en 404).
+  const relatedArticles = landing.relatedBlogSlugs
+    ? await fetchPublishedArticleHeadings(landing.relatedBlogSlugs)
+    : [];
 
   const url = `https://escalade-france.fr/equipement/${landing.slug}`;
 
@@ -153,7 +159,7 @@ export default async function EquipementLandingPage(
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <AffiliateLandingView landing={landing} />
+      <AffiliateLandingView landing={landing} relatedArticles={relatedArticles} />
     </>
   );
 }
