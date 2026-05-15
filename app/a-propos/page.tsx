@@ -233,7 +233,7 @@ export default function AProposPage() {
 
           <ul className="mt-10 grid gap-4 sm:grid-cols-3">
             <Fact label="Articles publiés" value="159" />
-            <Fact label="Cocons thématiques" value="9" />
+            <Fact label="Thématiques" value="9" />
             <Fact label="Ans de pratique" value="13" />
           </ul>
         </div>
@@ -247,9 +247,9 @@ export default function AProposPage() {
           Par où commencer ?
         </h2>
         <p className="mt-4 max-w-2xl text-base leading-relaxed text-foreground/80 sm:text-[17px]">
-          Les neuf cocons thématiques du blog, chacun avec un article pivot et
-          quinze à trente articles satellites. Tu peux entrer par celui qui
-          parle à ton niveau actuel.
+          Les neuf thématiques du blog, chacune avec un article pivot et quinze
+          à trente articles satellites. Tu peux entrer par celle qui parle à
+          ton niveau actuel.
         </p>
         <ul className="mt-8 grid grid-cols-1 gap-3 sm:grid-cols-2 sm:gap-4 lg:grid-cols-3">
           {COCONS.map((c) => (
@@ -262,7 +262,7 @@ export default function AProposPage() {
                   {c.label}
                 </span>
                 <span className="font-display text-base font-medium tracking-[-0.01em] text-foreground sm:text-lg">
-                  Le pilier {c.label.toLowerCase()}
+                  Voir tous les articles
                 </span>
                 <span className="text-sm leading-relaxed text-foreground/70">
                   {c.desc}

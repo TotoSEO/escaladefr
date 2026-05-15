@@ -7,8 +7,11 @@ import { ArrowUpRight } from "lucide-react";
 import { PageShell, PageHeader } from "@/components/page-shell";
 import {
   COCON_DESCRIPTION,
+  COCON_H1,
   COCON_LABEL,
   COCON_SLUG,
+  COCON_SUBTITLE,
+  COCON_TITLE,
   articleHref,
   coconFromSlug,
   fetchNextScheduledArticle,
@@ -37,11 +40,23 @@ export async function generateMetadata(
 ): Promise<Metadata> {
   const { slug } = await params;
   const cocon = coconFromSlug(slug);
-  if (!cocon) return { title: "Cocon introuvable" };
+  if (!cocon) return { title: "Page introuvable" };
+
+  // noindex tant que la catégorie n'a aucun article publié
+  const published = await fetchPublishedArticles(1, cocon);
+  const hasContent = published.length > 0;
+
   return {
-    title: `Blog ${COCON_LABEL[cocon]} | articles sur l'escalade en France`,
+    title: COCON_TITLE[cocon],
     description: COCON_DESCRIPTION[cocon],
     alternates: { canonical: `/blog/categorie/${slug}` },
+    robots: hasContent ? undefined : { index: false, follow: true },
+    openGraph: {
+      title: COCON_TITLE[cocon],
+      description: COCON_DESCRIPTION[cocon],
+      type: "website",
+      url: `https://escalade-france.fr/blog/categorie/${slug}`,
+    },
   };
 }
 
@@ -57,7 +72,9 @@ export default async function CoconPage(
     fetchNextScheduledArticle(cocon),
   ]);
   const label = COCON_LABEL[cocon];
+  const h1 = COCON_H1[cocon];
   const description = COCON_DESCRIPTION[cocon];
+  const subtitle = COCON_SUBTITLE[cocon];
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -66,7 +83,7 @@ export default async function CoconPage(
         "@type": "CollectionPage",
         "@id": `https://escalade-france.fr/blog/categorie/${slug}`,
         url: `https://escalade-france.fr/blog/categorie/${slug}`,
-        name: `Blog ${label}`,
+        name: COCON_TITLE[cocon],
         description,
         isPartOf: { "@id": "https://escalade-france.fr/blog" },
       },
@@ -75,7 +92,7 @@ export default async function CoconPage(
         itemListElement: [
           { "@type": "ListItem", position: 1, name: "Accueil", item: "https://escalade-france.fr" },
           { "@type": "ListItem", position: 2, name: "Blog", item: "https://escalade-france.fr/blog" },
-          { "@type": "ListItem", position: 3, name: label, item: `https://escalade-france.fr/blog/categorie/${slug}` },
+          { "@type": "ListItem", position: 3, name: h1, item: `https://escalade-france.fr/blog/categorie/${slug}` },
         ],
       },
       ...(articles.length > 0
@@ -103,16 +120,15 @@ export default async function CoconPage(
       />
 
       <PageHeader
-        section={`§ Blog · ${label}`}
+        section="§ Blog"
         status={articles.length > 0 ? "live" : "soon"}
         surface="cool"
         title={
           <>
-            Cocon{" "}
-            <span className="italic text-primary glow-ice-text">{label}</span>.
+            <span className="italic text-primary glow-ice-text">{h1}</span>.
           </>
         }
-        subtitle={description}
+        subtitle={subtitle}
       />
 
       <section className="relative surface-1 text-foreground">
@@ -133,7 +149,7 @@ export default async function CoconPage(
           )}
 
           {articles.length === 0 ? (
-            <CoconEmptyState next={nextArticle} label={label} />
+            <CategoryEmptyState next={nextArticle} label={label} />
           ) : (
             <>
               {articles.filter((a) => a.type_article === "hub").length > 0 && (
@@ -161,7 +177,7 @@ export default async function CoconPage(
   );
 }
 
-function CoconEmptyState({
+function CategoryEmptyState({
   next,
   label,
 }: {
@@ -178,7 +194,7 @@ function CoconEmptyState({
           className="mt-4 font-display font-medium leading-tight tracking-[-0.02em]"
           style={{ fontSize: "clamp(1.4rem, 3vw, 2rem)" }}
         >
-          Le cocon {label.toLowerCase()} arrive prochainement.
+          Les articles {label.toLowerCase()} arrivent prochainement.
         </h2>
         <p className="mt-4 text-sm leading-relaxed text-muted-foreground sm:text-base">
           Reviens dans quelques semaines, le calendrier éditorial publie trois
@@ -208,14 +224,14 @@ function CoconEmptyState({
         {dateLabel} · 09 h 00
       </p>
       <p className="mt-6 text-sm leading-relaxed text-muted-foreground sm:text-base">
-        Le cocon {label.toLowerCase()} se remplit progressivement à raison de
-        trois articles par semaine. Reviens bientôt.
+        Les articles {label.toLowerCase()} se remplissent progressivement, à
+        raison de trois publications par semaine. Reviens bientôt.
       </p>
       <Link
         href="/blog"
         className="mt-6 inline-flex items-center gap-2 rounded-full border border-white/15 px-4 py-2 text-xs uppercase tracking-[0.22em] text-foreground/80 transition-colors hover:border-primary/40 hover:text-foreground"
       >
-        Voir les autres cocons
+        Voir les autres thématiques
         <ArrowUpRight className="h-3.5 w-3.5" />
       </Link>
     </div>
