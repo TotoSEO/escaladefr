@@ -203,7 +203,7 @@
     },
     {
       "type": "p",
-      "html": "Avant chaque sortie sur un nouveau site, trois vérifications s'imposent. Le <strong>topo</strong> papier reste la référence, complète le par les ressources en ligne (camptocamp, FFME, comités départementaux). La météo conditionne tout : pluie la veille, vent fort, chaleur, autant de paramètres qui ferment ou ouvrent l'accès. Enfin, l'accès au site peut être restreint (sentier en travaux, espèce protégée en nidification, conflit foncier)."
+      "html": "Avant chaque sortie sur un nouveau site, trois vérifications s'imposent. Le <strong>topo</strong> papier reste la référence, complète le par les ressources en ligne (<a href=\"https://www.camptocamp.org/\" rel=\"nofollow noopener\" target=\"_blank\">camptocamp</a>, <a href=\"https://www.ffme.fr/\" rel=\"nofollow noopener\" target=\"_blank\">FFME</a>, comités départementaux). La météo conditionne tout : pluie la veille, vent fort, chaleur, autant de paramètres qui ferment ou ouvrent l'accès. Enfin, l'accès au site peut être restreint (sentier en travaux, espèce protégée en nidification, conflit foncier)."
     },
     {
       "type": "tip",

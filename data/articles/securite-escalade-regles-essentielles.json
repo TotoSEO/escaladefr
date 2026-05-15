@@ -225,7 +225,7 @@
     },
     {
       "type": "p",
-      "html": "La parade tient en un mot : humilité. Le grimpeur qui se considère encore comme un apprenti, même après vingt ans de pratique, garde la vigilance qui sauve. Réviser ses procédures, accepter les retours d'un partenaire, lire les rapports d'accidents publiés par la FFME ou le PGHM, autant de gestes qui maintiennent l'esprit en alerte."
+      "html": "La parade tient en un mot : humilité. Le grimpeur qui se considère encore comme un apprenti, même après vingt ans de pratique, garde la vigilance qui sauve. Réviser ses procédures, accepter les retours d'un partenaire, lire les <a href=\"https://www.ffme.fr/securite/\" rel=\"nofollow noopener\" target=\"_blank\">rapports d'accidents publiés par la FFME</a> ou le PGHM, autant de gestes qui maintiennent l'esprit en alerte."
     },
     {
       "type": "h2",
