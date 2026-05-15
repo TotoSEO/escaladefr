@@ -246,7 +246,7 @@ export function SallesMap({ salles }: Props) {
               <a
                 href={selected.site_web}
                 target="_blank"
-                rel="noreferrer"
+                rel="nofollow noopener noreferrer"
                 className="mt-5 inline-flex h-11 w-full items-center justify-center gap-2 rounded-full bg-accent text-xs font-semibold uppercase tracking-[0.18em] text-accent-foreground transition-transform hover:scale-[1.02]"
               >
                 Site officiel

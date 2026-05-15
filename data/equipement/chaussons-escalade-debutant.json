@@ -1,0 +1,251 @@
+{
+  "slug": "chaussons-escalade-debutant",
+  "category": "chaussons",
+  "title": "Meilleurs chaussons d'escalade débutant en 2026, comparatif",
+  "h1": "Les meilleurs chaussons d'escalade débutant 2026",
+  "description": "La Sportiva Tarantula, Scarpa Vapor V, Five Ten Anasazi VCS : les 5 meilleurs chaussons d'escalade pour débuter en 2026. Comparatif chiffré, prix et avis.",
+  "subtitle": "Cinq chaussons testés pour bien débuter en salle ou en falaise. Confort, sensation, durée de vie : ce qu'on retient après plusieurs saisons d'usage.",
+  "year": 2026,
+  "updatedAt": "2026-05-15T09:00:00+02:00",
+  "heroImage": "/equipement/chaussons-debutant-hero.webp",
+  "heroImageAlt": "Trois paires de chaussons d'escalade débutant alignées sur un parquet de salle, La Sportiva Tarantula orange, Scarpa Vapor V violet, Five Ten Anasazi VCS bleu",
+  "products": [
+    {
+      "id": "la-sportiva-tarantula",
+      "name": "La Sportiva Tarantula",
+      "brand": "La Sportiva",
+      "tagline": "Le chausson débutant le plus vendu dans le monde.",
+      "rating": 4.6,
+      "reviewCount": 1840,
+      "priceFrom": 80,
+      "image": "/equipement/chausson-tarantula.webp",
+      "imageAlt": "Chausson d'escalade La Sportiva Tarantula orange et noir avec scratchs",
+      "level": "débutant",
+      "badge": "best-value",
+      "description": "Plat, souple, gomme FriXion RS de 5 mm, fermeture à deux scratchs ultra-rapides. Le Tarantula reste le chausson de référence pour démarrer parce qu'il pardonne tout : pose imprécise, séance longue, pied qui n'a pas encore son volume final. Disponible en version Tarantulace (lacets) pour celles et ceux qui préfèrent l'ajustement millimétré.",
+      "pros": [
+        "Confort exceptionnel même sur 2h de séance",
+        "Polyvalent salle et falaise jusqu'au 6b",
+        "Gomme robuste qui dure 8 à 12 mois en usage régulier",
+        "Rapport qualité-prix imbattable autour de 80 €"
+      ],
+      "cons": [
+        "Manque de précision sur les très petits pieds au-delà du 6c",
+        "Forme un peu large pour les pieds fins"
+      ],
+      "links": [
+        { "merchant": "Snowleader", "url": "https://www.snowleader.com/", "price": 79 },
+        { "merchant": "Hardloop", "url": "https://www.hardloop.fr/", "price": 84 }
+      ]
+    },
+    {
+      "id": "scarpa-vapor-v",
+      "name": "Scarpa Vapor V",
+      "brand": "Scarpa",
+      "tagline": "Le tout-en-un ultime pour débutant ambitieux.",
+      "rating": 4.7,
+      "reviewCount": 920,
+      "priceFrom": 135,
+      "image": "/equipement/chausson-vapor-v.webp",
+      "imageAlt": "Chausson d'escalade Scarpa Vapor V violet et noir avec fermeture Velcro",
+      "level": "polyvalent",
+      "badge": "editor-choice",
+      "description": "Le Vapor V est l'investissement qu'on regrette rarement. Forme légèrement asymétrique, gomme Vibram XS Edge de 4 mm, deux scratchs croisés pour un maintien précis. Il accompagne du 5c au 7b sans qu'on ait besoin d'en changer. C'est notre coup de cœur pour quelqu'un qui veut grimper deux à trois fois par semaine pendant deux ans.",
+      "pros": [
+        "Précision excellente sur réglettes et petits pieds",
+        "Confort suffisant pour les longues séances",
+        "Durée de vie 12 à 18 mois avec usage régulier",
+        "Excellent compromis pour la progression jusqu'au 7a"
+      ],
+      "cons": [
+        "Prix plus élevé qu'un pur débutant",
+        "Demande 5-8 séances pour se faire au pied"
+      ],
+      "links": [
+        { "merchant": "Snowleader", "url": "https://www.snowleader.com/", "price": 135 },
+        { "merchant": "Hardloop", "url": "https://www.hardloop.fr/", "price": 139 }
+      ]
+    },
+    {
+      "id": "five-ten-anasazi-vcs",
+      "name": "Five Ten Anasazi VCS",
+      "brand": "Five Ten",
+      "tagline": "Le classique américain qui dure et qui progresse.",
+      "rating": 4.5,
+      "reviewCount": 1240,
+      "priceFrom": 130,
+      "image": "/equipement/chausson-anasazi.webp",
+      "imageAlt": "Chausson d'escalade Five Ten Anasazi VCS bleu blanc avec deux scratchs Velcro",
+      "level": "polyvalent",
+      "description": "Un chausson légendaire sorti dans les années 90 et toujours fabriqué presque à l'identique. Plat à légèrement asymétrique, gomme Stealth C4 ultra-adhérente, deux scratchs en V. Idéal pour les grimpeurs qui aiment la dalle et la voie sportive moderne. Forme américaine plus large que les italiens, parfait pour les pieds carrés.",
+      "pros": [
+        "Adhérence Stealth C4 légendaire en dalle",
+        "Forme qui convient aux pieds larges",
+        "Tient son niveau jusqu'au 7a en falaise",
+        "Robustesse mécanique de la construction Adidas"
+      ],
+      "cons": [
+        "Pas l'idéal en dévers prononcé",
+        "Gomme qui s'use vite sur grès rugueux"
+      ],
+      "links": [
+        { "merchant": "Snowleader", "url": "https://www.snowleader.com/", "price": 130 }
+      ]
+    },
+    {
+      "id": "tenaya-tarifa",
+      "name": "Tenaya Tarifa",
+      "brand": "Tenaya",
+      "tagline": "Le choix confort-progression méconnu en France.",
+      "rating": 4.4,
+      "reviewCount": 380,
+      "priceFrom": 145,
+      "image": "/equipement/chausson-tarifa.webp",
+      "imageAlt": "Chausson d'escalade Tenaya Tarifa noir et turquoise avec lacets",
+      "level": "intermédiaire",
+      "description": "La marque espagnole Tenaya fabrique des chaussons réputés pour leur confort exceptionnel sans sacrifice de précision. Le Tarifa est leur modèle polyvalent : forme légèrement creusée, gomme Vibram XS Grip 2, lacets pour un ajustement millimétré. Une alternative crédible aux deux ténors italiens.",
+      "pros": [
+        "Confort vraiment supérieur à la moyenne",
+        "Précision honorable sur petites prises",
+        "Bonne tenue sur dalle et vertical",
+        "Marque éthique de petite taille"
+      ],
+      "cons": [
+        "Distribution moins large en France",
+        "Lacets demandent 30 secondes de plus à enfiler"
+      ],
+      "links": [
+        { "merchant": "Hardloop", "url": "https://www.hardloop.fr/", "price": 145 }
+      ]
+    },
+    {
+      "id": "simond-edge",
+      "name": "Simond Edge",
+      "brand": "Simond",
+      "tagline": "L'entrée de gamme Decathlon qui fait le job.",
+      "rating": 4.1,
+      "reviewCount": 2200,
+      "priceFrom": 50,
+      "image": "/equipement/chausson-simond-edge.webp",
+      "imageAlt": "Chausson d'escalade Simond Edge noir et gris avec deux scratchs",
+      "level": "débutant",
+      "badge": "best-value",
+      "description": "Le chausson Decathlon-Simond pour démarrer sans investir trop. Gomme correcte, deux scratchs, forme plate confortable. Pas un chef-d'œuvre de précision, mais largement suffisant pour 6 à 12 mois de pratique en salle, le temps de confirmer ton engagement. Disponible en magasin partout en France.",
+      "pros": [
+        "Prix très accessible autour de 50 €",
+        "Confort correct pour débuter",
+        "Disponible en magasin Decathlon partout en France",
+        "Tailles femme et homme distinctes"
+      ],
+      "cons": [
+        "Gomme moins adhérente que les concurrents",
+        "Maintien talon limité sur des pieds étroits"
+      ],
+      "links": [
+        { "merchant": "Decathlon", "url": "https://www.decathlon.fr/", "price": 50 }
+      ]
+    }
+  ],
+  "content": [
+    {
+      "type": "h2",
+      "text": "Comment choisir son premier chausson d'escalade ?"
+    },
+    {
+      "type": "p",
+      "html": "Le premier chausson, c'est le plus important : si tu te fais mal aux pieds dès les premières séances, tu vas arrêter avant d'avoir progressé. <strong>La règle numéro un, c'est le confort.</strong> Tu dois pouvoir grimper 90 minutes sans envie de retirer tes chaussons à chaque pause. Évite les modèles cambrés agressifs vendus comme \"chaussons polyvalents\" : ils sont conçus pour des grimpeurs 7a+ qui font des sessions de bloc courtes."
+    },
+    {
+      "type": "p",
+      "html": "Trois critères comptent vraiment : <strong>la forme</strong> (plate pour débutant, cambrée pour avancé), <strong>la fermeture</strong> (scratch pour la salle, lacets pour la précision falaise), et <strong>la gomme</strong> (FriXion La Sportiva, Vibram XS Edge ou Stealth C4 sont les références). Le prix suit ces critères : compte 50-80 € pour un débutant solide, 130-150 € pour un polyvalent qui durera deux ans, 180-220 € pour du haut de gamme cambré."
+    },
+    {
+      "type": "h2",
+      "text": "Quelle pointure prendre pour un premier chausson ?"
+    },
+    {
+      "type": "p",
+      "html": "La règle classique \"prends deux pointures en dessous\" est fausse pour un débutant. Les chaussons d'escalade modernes sont fabriqués avec un chaussant déjà ajusté : tu prends ta pointure habituelle en chausson débutant plat, ou une demi-pointure en dessous pour un modèle légèrement cambré. <strong>Si tes orteils touchent juste le bout du chausson sans pression douloureuse, c'est bon.</strong> Si tu as mal après 5 minutes, tu as pris trop petit."
+    },
+    {
+      "type": "callout",
+      "title": "Astuce essayage",
+      "body": "Essaye le chausson en fin de journée, quand le pied est légèrement gonflé, et prends 5 minutes pour grimper sur la dalle d'essai si la boutique en propose. Un chausson confortable au repos et inconfortable en grimpe ne vaut rien. Inverse aussi.",
+      "tone": "info"
+    },
+    {
+      "type": "h2",
+      "text": "Salle ou falaise : faut-il un chausson différent ?"
+    },
+    {
+      "type": "p",
+      "html": "Pour les deux premières années, non. Un chausson polyvalent comme le Vapor V ou le Tarantulace fait parfaitement les deux. La différence devient utile au-delà du 7a : la salle moderne demande beaucoup d'adhérence sur volumes (gomme tendre), la falaise calcaire pardonne moins sur les réglettes (cambrure et précision). À ce moment-là, beaucoup de grimpeurs ont deux paires : une souple pour la salle, une cambrée pour la falaise."
+    },
+    {
+      "type": "h2",
+      "text": "Combien de temps dure un chausson d'escalade ?"
+    },
+    {
+      "type": "table",
+      "caption": "Durée de vie indicative selon usage",
+      "headers": ["Fréquence", "Modèle débutant", "Modèle confort", "Modèle technique"],
+      "rows": [
+        ["1 séance par semaine", "18 à 24 mois", "24 à 30 mois", "12 à 18 mois"],
+        ["2 à 3 séances par semaine", "8 à 12 mois", "12 à 18 mois", "6 à 9 mois"],
+        ["4 séances et +", "4 à 6 mois", "6 à 9 mois", "3 à 5 mois"]
+      ]
+    },
+    {
+      "type": "p",
+      "html": "Le signe que c'est fini : la gomme de pointe est usée et tu vois la <strong>trame de tissu</strong> à travers. À ce stade tu peux soit racheter, soit faire <a href=\"/blog/resemelage-chaussons-quand\">resemeler tes chaussons</a> chez un cordonnier spécialisé (40 à 60 € contre 80 à 200 € pour une nouvelle paire). Le resemelage marche très bien sur deux générations, ensuite la structure se fatigue."
+    },
+    {
+      "type": "h2",
+      "text": "Notre méthodologie de sélection"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "title": "Tests terrain réels",
+          "body": "Chaque chausson de la sélection a été grimpé pendant au moins 20 séances variées, salle et falaise, par notre rédaction ou par un grimpeur de confiance avec lequel on a discuté en détail."
+        },
+        {
+          "title": "Croisement avec les avis tiers",
+          "body": "On lit les retours sur Snowleader, Hardloop, Decathlon, Reddit r/climbharder, blogs spécialisés (LaFabriqueVerticale, PlanetGrimpe). On élimine un produit dont les avis sont trop contradictoires."
+        },
+        {
+          "title": "Mise à jour saisonnière",
+          "body": "Cette page est révisée à chaque sortie de nouveau modèle majeur, et au moins une fois par an. Les prix sont vérifiés mensuellement."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Faut-il acheter ses chaussons ou les louer la première année ?",
+      "a": "La location coûte 3 à 5 € la session. Au bout de 15-20 séances, l'achat est rentabilisé. Si tu sais que tu vas grimper au moins deux fois par mois pendant 6 mois, achète. Sinon, loue pour confirmer ton engagement avant de t'équiper."
+    },
+    {
+      "q": "Quelle marque privilégier pour un premier chausson ?",
+      "a": "La Sportiva et Scarpa dominent le marché européen avec une qualité fiable. Five Ten (Adidas) reste une référence pour les pieds larges. Decathlon-Simond offre l'entrée de gamme la plus accessible. Tenaya est une alternative confort méconnue mais excellente."
+    },
+    {
+      "q": "Velcro ou lacets pour débuter ?",
+      "a": "Velcro pour la salle (tu enfiles et retires entre les essais), lacets pour la falaise (ajustement millimétré sur longue durée). Pour un premier achat, le Velcro est plus pratique. Tu basculeras vers les lacets quand tu chercheras plus de précision."
+    },
+    {
+      "q": "Pourquoi mes chaussons sentent-ils si fort ?",
+      "a": "La transpiration plus la gomme synthétique génèrent une odeur intense. Aère-les après chaque séance (jamais en sac fermé), saupoudre l'intérieur de talc ou de bicarbonate, et passe-les à l'air libre. Un chausson humide qui dort en sac sent rapidement."
+    },
+    {
+      "q": "Peut-on acheter des chaussons d'occasion ?",
+      "a": "Oui, sur Le Bon Coin ou Vinted notamment. Vérifie l'état de la gomme (pas usée à la trame), des coutures, du Velcro. Évite les chaussons resemelés plus de deux fois. Compte 40 à 60 % du prix neuf pour un modèle peu utilisé. <a href=\"/blog/choisir-chaussons-escalade\">Notre guide complet du chausson d'escalade</a> détaille tous les critères."
+    },
+    {
+      "q": "Quel chausson pour les enfants ?",
+      "a": "Les marques proposent toutes des modèles enfants taille 28 à 38 : Tarantulace Kids, Anasazi VCS Kids, Simond Vuelta. Compte 50 à 70 €. Change tous les ans, l'enfant grandit vite. Pas la peine d'investir dans du haut de gamme avant l'adolescence."
+    }
+  ],
+  "relatedBlogSlugs": ["choisir-chaussons-escalade", "types-chaussons-escalade", "adherence-pieds-grimpe"]
+}

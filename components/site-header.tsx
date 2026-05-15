@@ -102,11 +102,11 @@ export function SiteHeader() {
         {/* CTA boutique + burger */}
         <div className="flex items-center gap-2 sm:gap-3">
           <Link
-            href="/boutique"
+            href="/equipement"
             className="group relative hidden h-10 items-center gap-2 overflow-hidden rounded-full bg-accent px-4 text-xs font-semibold uppercase tracking-[0.18em] text-accent-foreground transition-all duration-300 hover:-translate-y-0.5 hover:shadow-[0_8px_24px_-6px_rgba(255,122,38,0.6)] sm:inline-flex"
           >
             <ShoppingBag className="h-3.5 w-3.5 transition-transform group-hover:rotate-[-8deg]" />
-            <span>Boutique</span>
+            <span>Équipement</span>
             <span
               aria-hidden
               className="absolute inset-0 -translate-x-full bg-gradient-to-r from-transparent via-white/40 to-transparent transition-transform duration-1000 group-hover:translate-x-full"
@@ -206,11 +206,11 @@ export function SiteHeader() {
                 {/* CTA boutique en bas */}
                 <div className="border-t border-white/10 p-6">
                   <Link
-                    href="/boutique"
+                    href="/equipement"
                     className="group relative flex h-14 items-center justify-center gap-3 overflow-hidden rounded-full bg-accent px-6 font-semibold uppercase tracking-[0.2em] text-accent-foreground"
                   >
                     <ShoppingBag className="h-4 w-4" />
-                    Boutique
+                    Trouver son équipement
                     <span
                       aria-hidden
                       className="absolute inset-0 -translate-x-full bg-gradient-to-r from-transparent via-white/30 to-transparent transition-transform duration-1000 group-hover:translate-x-full"
