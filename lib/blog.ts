@@ -194,6 +194,31 @@ export async function fetchPublishedCountByCocon(): Promise<Record<Cocon, number
   return out;
 }
 
+/**
+ * Renvoie les couples {slug, h1} pour les slugs donnés QUI SONT PUBLIÉS.
+ * Utilisé pour rendre les liens "articles liés" sur les LP /equipement
+ * et la page /a-propos sans risquer une 404 vers un article scheduled.
+ */
+export async function fetchPublishedArticleHeadings(
+  slugs: string[],
+): Promise<{ slug: string; h1: string }[]> {
+  if (slugs.length === 0) return [];
+  const supabase = getSupabase();
+  if (!supabase) return [];
+  const { data, error } = await supabase
+    .from("blog_articles")
+    .select("slug,h1")
+    .in("slug", slugs)
+    .eq("status", "published")
+    .lte("published_at", new Date().toISOString());
+  if (error || !data) return [];
+  // Conserver l'ordre demandé par l'appelant
+  const order = new Map(slugs.map((s, i) => [s, i]));
+  return (data as { slug: string; h1: string }[]).sort(
+    (a, b) => (order.get(a.slug) ?? 0) - (order.get(b.slug) ?? 0),
+  );
+}
+
 export async function fetchArticleBySlug(
   slug: string,
 ): Promise<BlogArticle | null> {
