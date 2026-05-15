@@ -21,7 +21,7 @@
     },
     {
       "type": "p",
-      "html": "Une dalle, c'est une <strong>paroi inclinee entre 70 et 90 degres</strong>, parfois meme un mur strictement vertical mais lisse. Tu reconnais la dalle a deux signes : peu de prises de main franches et beaucoup de pieds a chercher dans le grain du rocher. On le rattache à <a href=\"/blog/apprendre-escalade-debutant\">l'introduction à la pratique de l'escalade</a>. En salle, les enseignes <strong>Vertical'Art et Climb Up</strong> proposent souvent un pan dalle dedie, parfois decore en mode plaque texturee Petzl <a href=\"/blog/adherence-pieds-grimpe\">Coorock pour bosser l'adherence</a>."
+      "html": "Une dalle, c'est une <strong>paroi inclinée entre 70 et 90 degrés</strong>, parfois même un mur strictement vertical mais lisse. Tu reconnais la dalle à deux signes : peu de prises de main franches et beaucoup de pieds à chercher dans le grain du rocher. Cette discipline s'inscrit dans <a href=\"/blog/apprendre-escalade-debutant\">l'introduction à la pratique de l'escalade</a>. En salle, les enseignes <strong>Vertical'Art et Climb Up</strong> proposent souvent un pan dalle dédié, parfois habillé de plaques texturées idéales pour <a href=\"/blog/adherence-pieds-grimpe\">travailler l'adhérence des pieds sur granite</a>."
     },
     {
       "type": "p",
@@ -43,7 +43,7 @@
     },
     {
       "type": "p",
-      "html": "La precision de pose compte plus que la force. Regarde la prise, vise un point precis, pose, et surtout ne bouge plus. Beaucoup ripent parce qu'ils ajustent en cours de pose. Une fois le pied dessus, le bassin se centre, le poids descend, et la prise tient. Pour les chaussons, La Sportiva Mythos et Petzl Coorock restent des references chez les grimpeurs de dalle."
+      "html": "La precision de pose compte plus que la force. Regarde la prise, vise un point precis, pose, et surtout ne bouge plus. Beaucoup ripent parce qu'ils ajustent en cours de pose. Une fois le pied dessus, le bassin se centre, le poids descend, et la prise tient. Pour les chaussons, La Sportiva Mythos et Five Ten Anasazi VCS restent des références chez les grimpeurs de dalle."
     },
     {
       "type": "h2",
@@ -98,7 +98,7 @@
     },
     {
       "type": "p",
-      "html": "La cle, c'est de respirer en quatre temps : inspire deux secondes, bloque deux secondes, expire quatre secondes. Tu coupes le cerveau emotionnel, tu remets le cerveau technique en avant. Cette routine vient avec la pratique, je l'utilise sur toutes mes voies engagees depuis cinq ans. C'est le meme principe que <a href=\"/blog/mental-grimpe-blocage\">sur un passage mental bloqu</a> a tout niveau."
+      "html": "La clé, c'est de respirer en quatre temps : inspire deux secondes, bloque deux secondes, expire quatre secondes. Tu coupes le cerveau émotionnel, tu remets le cerveau technique en avant. Cette routine vient avec la pratique, je l'utilise sur toutes mes voies engagées depuis cinq ans. C'est le même principe que <a href=\"/blog/mental-grimpe-blocage\">sur un passage mentalement bloqué</a> à tout niveau."
     },
     {
       "type": "h2",
@@ -132,7 +132,7 @@
     },
     {
       "type": "p",
-      "html": "Repete ces exercices pendant trois seances de salle avant ta prochaine sortie sur rocher. Tu sentiras vite la difference. Le travail sur la confiance dans le chausson reste la meilleure progression possible. Ce sont aussi des bases utiles <a href=\"/blog/sortie-rocher-debutant\">avant une premiere sortie en falaise</a> propre."
+      "html": "Répète ces exercices pendant trois séances de salle avant ta prochaine sortie sur rocher. Tu sentiras vite la différence. Le travail sur la confiance dans le chausson reste la meilleure progression possible. Ce sont aussi des bases utiles <a href=\"/blog/sortie-rocher-debutant\">avant une première sortie en falaise</a> propre."
     },
     {
       "type": "quote",
@@ -152,7 +152,7 @@
   "faq": [
     {
       "q": "Quel chausson choisir pour grimper en dalle ?",
-      "a": "Vise un chausson souple avec gomme plate, comme La Sportiva Mythos ou Petzl Coorock. Evite les chaussons agressifs cambres pour le devers, ils te font ripper sur la dalle parce que la pointe ne pose qu'une zone minimale. Un chausson un peu plat avec gomme tendre reste le bon compromis."
+      "a": "Vise un chausson souple avec gomme plate, comme La Sportiva Mythos ou Five Ten Anasazi VCS. Évite les chaussons agressifs cambrés pour le dévers, ils te font ripper sur la dalle parce que la pointe ne pose qu'une zone minimale. Un chausson un peu plat avec gomme tendre reste le bon compromis."
     },
     {
       "q": "Comment ne pas avoir peur en dalle engagee ?",
@@ -190,12 +190,12 @@
     },
     {
       "slug": "mental-grimpe-blocage",
-      "anchor": "passage mental bloqu",
+      "anchor": "sur un passage mentalement bloqué",
       "context": "Lien mental"
     },
     {
       "slug": "sortie-rocher-debutant",
-      "anchor": "premiere sortie en falaise",
+      "anchor": "avant une première sortie en falaise",
       "context": "Lien rocher"
     },
     {
