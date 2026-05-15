@@ -6,7 +6,7 @@
   "description": "Petzl, Black Diamond, Camp, DMM : les 5 meilleurs packs de dégaines pour l'escalade sportive en 2026. Poids, prix, conseils.",
   "subtitle": "Cinq sets de dégaines testés en falaise. Poids, prise en main, durée de vie réelle.",
   "year": 2026,
-  "updatedAt": "2026-05-15T09:00:00+02:00",
+  "updatedAt": "2026-05-15T12:00:00+02:00",
   "heroImage": "/equipement/placeholder-product.svg",
   "heroImageAlt": "Sélection de degaines d'escalade 2026",
   "products": [
@@ -17,7 +17,7 @@
       "tagline": "Le set polyvalent best-seller.",
       "rating": 4.7,
       "reviewCount": 1900,
-      "priceFrom": 95,
+      "priceFrom": 82,
       "level": "polyvalent",
       "badge": "editor-choice",
       "description": "Pack de 6 dégaines Djinn Axess, mousquetons à doigt clé sur sangle 17 mm. Le compromis idéal entre robustesse, poids et prix pour la falaise sportive.",
@@ -31,18 +31,18 @@
         "Un peu lourdes pour la longue voie (107 g/pièce)",
         "Pas de version ultra-light dans le pack"
       ],
-      "image": "https://images.hardloop.fr/684512-large_default/petzl-djinn-axess-x-6-pack-degaine.jpg",
+      "image": "https://images.hardloop.fr/684512-small_default/petzl-djinn-axess-x-6-pack-degaine.jpg",
       "imageAlt": "Photo produit Petzl Djinn Axess (pack 6) sur fond neutre",
       "links": [
         {
           "merchant": "Snowleader",
           "url": "https://www.snowleader.com/pack-6-djinn-axess-turquoise-PETZ00727.html",
-          "price": 81
+          "price": 82
         },
         {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/50866-petzl-djinn-axess-x-6-pack-degaine",
-          "price": 94
+          "price": 95
         }
       ]
     },
@@ -53,7 +53,7 @@
       "tagline": "Le pack abordable et fiable.",
       "rating": 4.5,
       "reviewCount": 1400,
-      "priceFrom": 75,
+      "priceFrom": 80,
       "level": "débutant",
       "badge": "best-value",
       "description": "Pack 6 dégaines Positron avec doigt plein côté corde et doigt fil côté roche. Excellent choix pour démarrer la falaise et la salle sans se ruiner.",
@@ -73,7 +73,7 @@
         {
           "merchant": "Snowleader",
           "url": "https://www.snowleader.com/pack-positron-quickdraw-BLAD00675.html",
-          "price": 89
+          "price": 80
         }
       ]
     },
@@ -84,7 +84,7 @@
       "tagline": "Le set ultra-light pour grande voie.",
       "rating": 4.6,
       "reviewCount": 540,
-      "priceFrom": 165,
+      "priceFrom": 22,
       "level": "expert",
       "badge": "premium",
       "description": "Dégaines ultra-légères avec mousquetons MonoFil et sangle fine Dyneema. Conçues pour les grimpeurs orientés grande voie sportive ou performance pure.",
@@ -105,11 +105,6 @@
           "merchant": "Snowleader",
           "url": "https://www.snowleader.com/ange-finesse-ss-PETZ00454.html",
           "price": 22
-        },
-        {
-          "merchant": "Hardloop",
-          "url": "https://www.hardloop.fr/produit/1968-petzl-ange-finesse-degaine",
-          "price": 22
         }
       ]
     },
@@ -120,7 +115,7 @@
       "tagline": "Les ultralégères italiennes.",
       "rating": 4.4,
       "reviewCount": 410,
-      "priceFrom": 145,
+      "priceFrom": 110,
       "level": "expert",
       "description": "Pack 6 dégaines Photon Mixed avec mousqueton plein côté corde et doigt fil côté roche, sangle Dyneema. Camp signe ici un set très léger pensé pour la performance.",
       "pros": [
@@ -139,38 +134,9 @@
         {
           "merchant": "Snowleader",
           "url": "https://www.snowleader.com/pack-6-photon-wire-express-ks-dyneema-CAMP00263.html",
-          "price": 99
-        },
-        {
-          "merchant": "Hardloop",
-          "url": "https://www.hardloop.fr/produit/24988-camp-photon-wire-express-ks-dyneema-degaine",
-          "price": 12
+          "price": 110
         }
       ]
-    },
-    {
-      "id": "dmm-alpha-trad-pack",
-      "name": "DMM Alpha Trad (pack 5)",
-      "brand": "DMM",
-      "tagline": "Le set premium pour trad et grande voie.",
-      "rating": 4.6,
-      "reviewCount": 290,
-      "priceFrom": 175,
-      "level": "expert",
-      "description": "Dégaines galloises haut de gamme avec mousquetons forgés à chaud et sangles fines. Référence pour le trad anglo-saxon et la grande voie technique.",
-      "pros": [
-        "Finition irréprochable",
-        "Mousquetons à grande encoche",
-        "Sangle souple en Dyneema",
-        "Excellente durabilité"
-      ],
-      "cons": [
-        "Pack de 5 et non 6",
-        "Tarif premium"
-      ],
-      "image": "/equipement/placeholder-product.svg",
-      "imageAlt": "Photo produit DMM Alpha Trad (pack 5) sur fond neutre",
-      "links": []
     }
   ],
   "content": [

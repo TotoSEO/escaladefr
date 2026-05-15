@@ -6,7 +6,7 @@
   "description": "Petzl, Black Diamond, Camp, Mammut : les 5 meilleurs casques d'escalade pour la falaise et la grande voie en 2026. Tests et prix.",
   "subtitle": "Cinq casques pesés et testés en falaise. Légèreté, ventilation, ajustement réel.",
   "year": 2026,
-  "updatedAt": "2026-05-15T09:00:00+02:00",
+  "updatedAt": "2026-05-15T12:00:00+02:00",
   "heroImage": "/equipement/placeholder-product.svg",
   "heroImageAlt": "Sélection de casques d'escalade 2026",
   "products": [
@@ -17,7 +17,7 @@
       "tagline": "Le casque ultra-léger de référence.",
       "rating": 4.7,
       "reviewCount": 1850,
-      "priceFrom": 105,
+      "priceFrom": 94,
       "level": "expert",
       "badge": "premium",
       "description": "Avec seulement 160 g, le Sirocco est le casque hybride mousse expansée/polycarbonate le plus léger du marché. Très ventilé, il se fait oublier sur la tête lors des longues voies.",
@@ -31,18 +31,18 @@
         "Coque souple plus fragile au transport",
         "Prix élevé"
       ],
-      "image": "https://images.hardloop.fr/178052-large_default/petzl-sirocco-casque-escalade.jpg",
+      "image": "https://images.hardloop.fr/780099-small_default/petzl-sirocco-casque-escalade.jpg",
       "imageAlt": "Photo produit Petzl Sirocco sur fond neutre",
       "links": [
         {
           "merchant": "Snowleader",
           "url": "https://www.snowleader.com/sirocco-noir-PETZ00847.html",
-          "price": 93
+          "price": 94
         },
         {
           "merchant": "Hardloop",
-          "url": "https://www.hardloop.fr/produit/5193-petzl-sirocco-casque-escalade",
-          "price": 98
+          "url": "https://www.hardloop.fr/produit/61454-petzl-sirocco-casque-escalade",
+          "price": 100
         }
       ]
     },
@@ -53,7 +53,7 @@
       "tagline": "Le casque hybride polyvalent.",
       "rating": 4.6,
       "reviewCount": 2300,
-      "priceFrom": 65,
+      "priceFrom": 52,
       "level": "polyvalent",
       "badge": "editor-choice",
       "description": "Construction hybride ABS et mousse EPP, le Boreo offre un excellent compromis entre robustesse, confort et prix. Très utilisé en grande voie, alpinisme léger et canyon.",
@@ -67,18 +67,18 @@
         "Plus lourd que les casques full mousse (290 g)",
         "Ventilation moyenne en plein soleil"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://images.hardloop.fr/780096-small_default/petzl-boreo-casque-escalade.jpg",
       "imageAlt": "Photo produit Petzl Boreo sur fond neutre",
       "links": [
         {
           "merchant": "Snowleader",
           "url": "https://www.snowleader.com/boreo-bleu-PETZ00527.html",
-          "price": 59
+          "price": 52
         },
         {
           "merchant": "Hardloop",
-          "url": "https://www.hardloop.fr/produit/12429-petzl-boreo-caving-casque-escalade",
-          "price": 79
+          "url": "https://www.hardloop.fr/produit/50875-petzl-boreo-casque-escalade",
+          "price": 54
         }
       ]
     },
@@ -89,7 +89,7 @@
       "tagline": "L'alternative légère à coque pleine.",
       "rating": 4.5,
       "reviewCount": 720,
-      "priceFrom": 95,
+      "priceFrom": 102,
       "level": "intermédiaire",
       "description": "Casque léger (230 g) à coque dure en polycarbonate sur mousse EPS, le Vision combine la résistance aux chocs latéraux et la légèreté. Bonne option pour la falaise et l'alpinisme.",
       "pros": [
@@ -102,18 +102,18 @@
         "Plus cher que le Boreo pour des perfs proches",
         "Coloris limités"
       ],
-      "image": "https://images.hardloop.fr/165669-large_default/black-diamond-vision-helmet-mips-casque-escalade.jpg",
+      "image": "https://images.hardloop.fr/165669-small_default/black-diamond-vision-helmet-mips-casque-escalade.jpg",
       "imageAlt": "Photo produit Black Diamond Vision sur fond neutre",
       "links": [
         {
           "merchant": "Snowleader",
           "url": "https://www.snowleader.com/vision-helmet-astral-blue-BLAD01501.html",
-          "price": 76
+          "price": 102
         },
         {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/22507-black-diamond-vision-helmet-mips-casque-escalade",
-          "price": 101
+          "price": 102
         }
       ]
     },
@@ -124,7 +124,7 @@
       "tagline": "Le casque léger italien à prix doux.",
       "rating": 4.3,
       "reviewCount": 580,
-      "priceFrom": 49,
+      "priceFrom": 64,
       "level": "débutant",
       "badge": "best-value",
       "description": "À moins de 50 euros, le Storm offre un compromis honnête en construction in-mold pour 245 g. Idéal pour démarrer la falaise et la grande voie sans exploser le budget.",
@@ -138,18 +138,18 @@
         "Mousse intérieure basique",
         "Ventilation correcte sans plus"
       ],
-      "image": "https://images.hardloop.fr/448389-large_default/camp-storm-casque.jpg",
+      "image": "https://images.hardloop.fr/448389-small_default/camp-storm-casque.jpg",
       "imageAlt": "Photo produit Camp Storm sur fond neutre",
       "links": [
         {
           "merchant": "Snowleader",
           "url": "https://www.snowleader.com/storm-lime-CAMP00125.html",
-          "price": 65
+          "price": 64
         },
         {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/13523-camp-storm-casque",
-          "price": 63
+          "price": 64
         }
       ]
     },
@@ -160,7 +160,7 @@
       "tagline": "Le casque MIPS contre les chocs rotationnels.",
       "rating": 4.5,
       "reviewCount": 410,
-      "priceFrom": 145,
+      "priceFrom": 102,
       "level": "expert",
       "description": "Premier casque d'escalade équipé du système MIPS, le Wall Rider apporte une protection supplémentaire contre les chocs rotationnels. Pesé à 220 g, il reste léger malgré la technologie embarquée.",
       "pros": [
@@ -173,18 +173,13 @@
         "Tarif élevé",
         "Bénéfice MIPS difficile à quantifier en escalade pure"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://images.hardloop.fr/81116-small_default/mammut-wall-rider-casque-escalade.jpg",
       "imageAlt": "Photo produit Mammut Wall Rider MIPS sur fond neutre",
       "links": [
         {
           "merchant": "Snowleader",
           "url": "https://www.snowleader.com/wall-rider-mips-white-MAMM01789.html",
-          "price": 99
-        },
-        {
-          "merchant": "Hardloop",
-          "url": "https://www.hardloop.fr/produit/2207-mammut-wall-rider-casque-escalade",
-          "price": 83
+          "price": 102
         }
       ]
     }
