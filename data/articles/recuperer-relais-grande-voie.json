@@ -3,29 +3,29 @@
   "cocon": "techniques",
   "type_article": "guide",
   "numero": 20,
-  "title": "Recuperer aux relais en grande voie, tactique et confort",
-  "h1": "Recuperer aux relais en grande voie, l'art de tenir 8 longueurs sans s'effondrer",
-  "description": "Recuperer aux relais en grande voie : se decordeer correctement, alimenter le corps, gerer le froid et le materiel pour enchainer plusieurs longueurs...",
-  "chapo": "En grande voie, ce qui te casse au bout de quatre longueurs, ce n'est pas la difficulte technique. C'est l'accumulation de mauvaises micro-decisions au relais. Une gestion approximative du materiel, un encas oublie, un decoincement de noeud rate, et tu arrives a la quatrieme longueur en deficit. Cette page detaille ce qu'on fait reellement aux relais, dans le bon ordre, pour grimper huit longueurs en restant frais.",
+  "title": "Récupérer aux relais en grande voie, tactique et confort",
+  "h1": "Récupérer aux relais en grande voie, l'art de tenir 8 longueurs sans s'effondrer",
+  "description": "Récupérer aux relais en grande voie : se décorder correctement, alimenter le corps, gérer le froid et le matériel pour enchaîner plusieurs longueurs.",
+  "chapo": "En grande voie, ce qui te casse au bout de quatre longueurs, ce n'est pas la difficulté technique. C'est l'accumulation de mauvaises micro-décisions au relais. Une gestion approximative du matériel, un encas oublié, un décoincement de nœud raté, et tu arrives à la quatrième longueur en déficit. Cette page détaille ce qu'on fait réellement aux relais, dans le bon ordre, pour grimper huit longueurs en restant frais.",
   "takeaways": [
-    "Un relais bien gere dure 8 a 15 minutes, pas 3 ni 25.",
+    "Un relais bien géré dure 8 à 15 minutes, pas 3 ni 25.",
     "Mange et bois tous les deux relais, pas seulement quand tu as faim.",
-    "Detache-toi de la corde pour relacher le harnais et soulager les genoux.",
-    "Pre-organise ton materiel avant que ton compagnon n'arrive pour gagner du temps.",
+    "Détache-toi de la corde pour relâcher le harnais et soulager les genoux.",
+    "Pré-organise ton matériel avant que ton compagnon n'arrive pour gagner du temps.",
     "Lis la longueur suivante depuis le relais pour ne pas perdre du temps en haut."
   ],
   "body_blocks": [
     {
       "type": "h2",
-      "text": "Pourquoi le relais decide de la grande voie"
+      "text": "Pourquoi le relais décide de la grande voie"
     },
     {
       "type": "p",
-      "html": "Ce sujet prend place dans <a href=\"/blog/apprendre-escalade-debutant\">découvrir la grimpe en salle et en falaise</a>. <a href=\"/blog/grandes-voies-tactique\">Dans une grande voie</a> de 6 a 10 longueurs, tu passes autant de temps aux relais que dans les longueurs. Compte 15 a 30 minutes par relais, soit 2 a 3 heures cumulees sur une journee de 7 heures sur la paroi. Cette duree, c'est ta marge de recuperation. Bien geree, tu finis frais. Mal geree, tu finis a court d'energie a la 5e longueur, sur des cordes qui pendent dans le vide."
+      "html": "Dans <a href=\"/blog/apprendre-escalade-debutant\">le parcours d'apprentissage du grimpeur sportif</a>, la grande voie arrive après plusieurs années en falaise sportive. Sur 6 à 10 longueurs, tu passes autant de temps aux relais que dans les longueurs. Compte 15 à 30 minutes par relais, soit 2 à 3 heures cumulées sur une journée de 7 heures sur la paroi. Cette durée, c'est ta marge de récupération. Bien gérée, tu finis frais ; mal gérée, tu finis à court d'énergie à la 5e longueur, sur des cordes qui pendent dans le vide. <a href=\"/blog/grandes-voies-tactique\">La tactique générale de la grande voie</a> en pose le cadre."
     },
     {
       "type": "p",
-      "html": "J'ai pris cette gifle pedagogique sur la voie Eperon Sublime au Verdon en 2021. Premiere grande voie de 8 longueurs en autonomie complete avec un copain. On a perdu 25 minutes a chaque relais en hesitations, materiel qui traine, mousquetons emmeles. Resultat : pris par la nuit a la 7e longueur, descente en rappel a la frontale, mauvais moment et zero plaisir. Depuis, je travaille mes relais comme une cordee qui sait ce qu'elle fait."
+      "html": "J'ai pris cette gifle pédagogique sur la voie Éperon Sublime au Verdon en 2021. Première grande voie de 8 longueurs en autonomie complète avec un copain. On a perdu 25 minutes à chaque relais en hésitations, matériel qui traîne, mousquetons emmêlés. Résultat : pris par la nuit à la 7e longueur, descente en rappel à la frontale, mauvais moment et zéro plaisir. Depuis, je travaille mes relais comme une cordée qui sait ce qu'elle fait."
     },
     {
       "type": "h2",
@@ -33,7 +33,7 @@
     },
     {
       "type": "p",
-      "html": "Quand tu arrives en haut d'une longueur en tete, tu suis un ordre fixe. Premier point : tu te vache directement sur le relais avec ta longe ou un cordelette autobloquant. Tu cries securite a l'assureur en bas. Deuxieme point : tu installes ton systeme de reversee (Reversed Petzl ou Black Diamond ATC Guide) sur le relais. Troisieme point : tu cries du mou pour ramener la corde et tu commences a avaler le brin de ton compagnon."
+      "html": "Quand tu arrives en haut d'une longueur en tête, tu suis un ordre fixe. Premier point : tu te vaches directement sur le relais avec ta longe ou une cordelette autobloquante. Tu cries sécurité à l'assureur en bas. Deuxième point : tu installes ton système de reversé (Reverso Petzl ou Black Diamond ATC Guide) sur le relais. Troisième point : tu cries du mou pour ramener la corde et tu commences à avaler le brin de ton compagnon."
     },
     {
       "type": "list",
@@ -45,24 +45,24 @@
           "body": "Longe en H ou autobloquant sur le maillon central. Jamais sur une seule plaquette, toujours sur le point d'unification."
         },
         {
-          "title": "Crier securite",
-          "body": "Le compagnon t'enleve de l'assurage. Tu restes relie par la corde, mais c'est lui qui gere le brin en bas."
+          "title": "Crier sécurité",
+          "body": "Le compagnon t'enlève de l'assurage. Tu restes relié par la corde, mais c'est lui qui gère le brin en bas."
         },
         {
-          "title": "Installer la reversee",
-          "body": "Reverso ou ATC Guide bloque en haut pour assurer le second en moulinette inverse. Tu testes le mecanisme avant de crier vache."
+          "title": "Installer le reverso",
+          "body": "Reverso ou ATC Guide bloqué en haut pour assurer le second en moulinette inversée. Tu testes le mécanisme avant de crier vache."
         },
         {
-          "title": "Ranger les degaines posees",
-          "body": "Tu ranges tes degaines en bas du baudrier pour eviter qu'elles ne te genent quand tu assures."
+          "title": "Ranger les dégaines posées",
+          "body": "Tu ranges tes dégaines en bas du baudrier pour éviter qu'elles ne te gênent quand tu assures."
         },
         {
           "title": "Avaler la corde",
-          "body": "Une fois le second en montee, tu avales le mou de facon continue, sans tirer fort."
+          "body": "Une fois le second en montée, tu avales le mou de façon continue, sans tirer fort."
         },
         {
           "title": "Communiquer",
-          "body": "Cris courts et codifies. Mou, sec, libre, securite, vache. Pas de phrases longues qui se perdent dans le vent."
+          "body": "Cris courts et codifiés. Mou, sec, libre, sécurité, vache. Pas de phrases longues qui se perdent dans le vent."
         }
       ]
     },
@@ -72,11 +72,11 @@
     },
     {
       "type": "p",
-      "html": "Le second arrive avec une marge de souffle. Lui, il est decharge de la responsabilite de poser le materiel. Mais il doit recolter les degaines posees par le leader, et arriver propre au relais. Quand il arrive, il se vache rapidement, et il commence a reorganiser le materiel pour la prochaine longueur. Pendant que le leader souffle, le second prepare. C'est la division des roles dans une cordee efficace."
+      "html": "Le second arrive avec une marge de souffle. Lui, il est déchargé de la responsabilité de poser le matériel. Mais il doit récolter les dégaines posées par le leader, et arriver propre au relais. Quand il arrive, il se vache rapidement, et il commence à réorganiser le matériel pour la prochaine longueur. Pendant que le leader souffle, le second prépare. C'est la division des rôles dans une cordée efficace."
     },
     {
       "type": "p",
-      "html": "Une fois la cordee au relais, tu es en mode pose. C'est le moment de boire, manger, gerer la suite. Pas le moment de raconter une blague qui dure 10 minutes (sauf si la cordee est en mode tranquille, ce qui peut etre legitime sur une voie facile). Sur une grande voie engagee, chaque minute compte. La nuit ne pardonne pas, le froid non plus."
+      "html": "Une fois la cordée au relais, tu es en mode pose. C'est le moment de boire, manger, gérer la suite. Pas le moment de raconter une blague qui dure 10 minutes (sauf si la cordée est en mode tranquille, ce qui peut être légitime sur une voie facile). Sur une grande voie engagée, chaque minute compte. La nuit ne pardonne pas, le froid non plus."
     },
     {
       "type": "h2",
@@ -84,17 +84,17 @@
     },
     {
       "type": "p",
-      "html": "Suspendu dans le baudrier 30 minutes, ton perinee comprime, tes femorales serrees, tes pieds gonfles dans des chaussons trop serres. La douleur arrive en 20 minutes maximum. Pour soulager : repose tes pieds sur une vire si elle existe, deserre tes chaussons des que possible (mais garde-les attaches au baudrier !), et ouvre legerement le sertissage du leg loop si ton modele le permet."
+      "html": "Suspendu dans le baudrier 30 minutes, ton périnée comprimé, tes fémorales serrées, tes pieds gonflés dans des chaussons trop serrés. La douleur arrive en 20 minutes maximum. Pour soulager : repose tes pieds sur une vire si elle existe, desserre tes chaussons dès que possible (mais garde-les attachés au baudrier !), et ouvre légèrement le sertissage du leg loop si ton modèle le permet."
     },
     {
       "type": "tip",
-      "title": "L'astuce de l'etrier de relais",
-      "body": "Pour 25 grammes, tu peux ajouter un mini-etrier en sangle de 30 cm sur ton baudrier. Tu l'accroche au relais, tu poses un pied dedans, et tu te redresses en station debout meme dans le vide. Tu deserres le baudrier sur tes femorales et tu ressuscites tes jambes. Indispensable au-dela de 6 longueurs.",
+      "title": "L'astuce de l'étrier de relais",
+      "body": "Pour 25 grammes, tu peux ajouter un mini-étrier en sangle de 30 cm sur ton baudrier. Tu l'accroches au relais, tu poses un pied dedans, et tu te redresses en station debout même dans le vide. Tu desserres le baudrier sur tes fémorales et tu ressuscites tes jambes. Indispensable au-delà de 6 longueurs.",
       "tone": "astuce"
     },
     {
       "type": "p",
-      "html": "Sur les longues voies (au-dela de 200 metres), je deserre meme totalement mon baudrier au relais quand la position le permet. Tu peux respirer largement, ta circulation revient, et tu reserres avant de repartir. C'est un geste qui prend 30 secondes mais qui change tout sur 8 longueurs. Forcement, pas question de faire ca sans etre vache solidement sur le relais."
+      "html": "Sur les longues voies (au-delà de 200 mètres), je desserre même totalement mon baudrier au relais quand la position le permet. Tu peux respirer largement, ta circulation revient, et tu resserres avant de repartir. C'est un geste qui prend 30 secondes mais qui change tout sur 8 longueurs. Forcément, pas question de faire ça sans être vaché solidement sur le relais."
     },
     {
       "type": "h2",
@@ -102,24 +102,24 @@
     },
     {
       "type": "p",
-      "html": "Tu dois manger des le deuxieme relais, pas attendre d'avoir faim. La faim, en grande voie, c'est deja trop tard. Idem pour la soif. Mon protocole : une gorgee d'eau a chaque relais, un encas solide tous les deux relais. Compte 50 ml d'eau par relais et 200 calories tous les deux relais. C'est plus que tu ne penses, c'est la marge qui te tient jusqu'a la sortie."
+      "html": "Tu dois manger dès le deuxième relais, pas attendre d'avoir faim. La faim, en grande voie, c'est déjà trop tard. Idem pour la soif. Mon protocole : une gorgée d'eau à chaque relais, un encas solide tous les deux relais. Compte 50 ml d'eau par relais et 200 calories tous les deux relais. C'est plus que tu ne penses, c'est la marge qui te tient jusqu'à la sortie."
     },
     {
       "type": "table",
-      "caption": "Ravitaillement type pour une grande voie de 6 a 8 longueurs",
+      "caption": "Ravitaillement type pour une grande voie de 6 à 8 longueurs",
       "headers": [
         "Item",
-        "Quantite",
-        "Frequence"
+        "Quantité",
+        "Fréquence"
       ],
       "rows": [
         [
           "Eau",
           "1,5 litre pour 2 grimpeurs",
-          "Petites gorgees tous les relais"
+          "Petites gorgées tous les relais"
         ],
         [
-          "Barres energetiques",
+          "Barres énergétiques",
           "4 par grimpeur",
           "Une tous les deux relais"
         ],
@@ -131,7 +131,7 @@
         [
           "Sucre rapide (gel ou sucre)",
           "2 par grimpeur",
-          "Avant les longueurs cles"
+          "Avant les longueurs clés"
         ],
         [
           "Sandwich solide",
@@ -142,19 +142,19 @@
     },
     {
       "type": "p",
-      "html": "L'erreur classique, c'est emporter trop ou pas assez. Trop : tu remontes 3 litres d'eau pour rien et tu te casses les jambes. Pas assez : tu paie au crux. Pour une voie de 6 heures, 1,5 litre d'eau a deux suffit largement. Pour une voie de 10 heures en ete, monte a 2,5 litres a deux. Reduit en saison fraiche."
+      "html": "L'erreur classique, c'est emporter trop ou pas assez. Trop : tu remontes 3 litres d'eau pour rien et tu te casses les jambes. Pas assez : tu paies au crux. Pour une voie de 6 heures, 1,5 litre d'eau à deux suffit largement. Pour une voie de 10 heures en été, monte à 2,5 litres à deux. Réduis en saison fraîche."
     },
     {
       "type": "h2",
-      "text": "Le materiel a organiser au relais"
+      "text": "Le matériel à organiser au relais"
     },
     {
       "type": "p",
-      "html": "Quand le leader repart, il doit avoir un baudrier <strong>propre et symetrique</strong>. Degaines longues a gauche, courtes a droite (ou inverse selon ta preference). Friends ranges par taille croissante. Cordelette de prussik a un endroit accessible. Si tu reorganises pas, tu te retrouves a fouiller en pleine longueur, au-dessus du dernier point, avec les bras qui pompent."
+      "html": "Quand le leader repart, il doit avoir un baudrier <strong>propre et symétrique</strong>. Dégaines longues à gauche, courtes à droite (ou inverse selon ta préférence). Friends rangés par taille croissante. Cordelette de prussik à un endroit accessible. Si tu ne réorganises pas, tu te retrouves à fouiller en pleine longueur, au-dessus du dernier point, avec les bras qui pompent."
     },
     {
       "type": "p",
-      "html": "Au relais, tu fais aussi le bilan du materiel qui te reste. Tu as utilise 8 degaines sur 12 ? Il te reste 4. La longueur suivante demande 6 degaines, tu rentres en deficit. Soit tu remontes des degaines sur les pieces precedentes (lourd a faire), soit tu adaptes ta strategie. Cette comptabilite mentale fait partie de la tactique de grande voie."
+      "html": "Au relais, tu fais aussi le bilan du matériel qui te reste. Tu as utilisé 8 dégaines sur 12 ? Il te reste 4. La longueur suivante demande 6 dégaines, tu rentres en déficit. Soit tu remontes des dégaines sur les pièces précédentes (lourd à faire), soit tu adaptes ta stratégie. Cette comptabilité mentale fait partie de la tactique de grande voie."
     },
     {
       "type": "h2",
@@ -162,13 +162,13 @@
     },
     {
       "type": "p",
-      "html": "Tu communiques par cris courts, codifies, audibles dans le vent. La liste : <strong>securite</strong> (je suis vache), <strong>libre</strong> (tu peux retirer l'assurage), <strong>relais</strong> (le relais est installe), <strong>vache</strong> (mets-toi en vache), <strong>sec</strong> (tends la corde), <strong>mou</strong> (donne du mou). Six mots, c'est tout. Tu evites les longues phrases qui se perdent ou se confondent. En cas de doute, tu repetes le dernier mot ou tu siffles un coup."
+      "html": "Tu communiques par cris courts, codifiés, audibles dans le vent. La liste : <strong>sécurité</strong> (je suis vaché), <strong>libre</strong> (tu peux retirer l'assurage), <strong>relais</strong> (le relais est installé), <strong>vache</strong> (mets-toi en vache), <strong>sec</strong> (tends la corde), <strong>mou</strong> (donne du mou). Six mots, c'est tout. Tu évites les longues phrases qui se perdent ou se confondent. En cas de doute, tu répètes le dernier mot ou tu siffles un coup."
     },
     {
       "type": "quote",
-      "text": "Un relais efficace, ce sont six gestes en moins de 8 minutes. Tout le reste, c'est du bavardage qui te coute du temps.",
+      "text": "Un relais efficace, ce sont six gestes en moins de 8 minutes. Tout le reste, c'est du bavardage qui te coûte du temps.",
       "author": "Antoine",
-      "role": "ancien competiteur FFME, pratiquant de grande voie depuis 2018"
+      "role": "ancien compétiteur FFME, pratiquant de grande voie depuis 2018"
     },
     {
       "type": "h2",
@@ -176,11 +176,11 @@
     },
     {
       "type": "p",
-      "html": "Au-dela de 1500 metres ou en mi-saison, le froid arrive vite au relais. Tu sors une polaire ou une coupe-vent dans ton sac d'approche reduit. <strong>Couvre les avant-bras et les mains</strong> en priorite, parce que c'est ce qui te lache si tu refroidis. Une paire de gants legers en stretch peut sauver la fin de voie. J'en emmene un toujours, meme en ete."
+      "html": "Au-delà de 1500 mètres ou en mi-saison, le froid arrive vite au relais. Tu sors une polaire ou une coupe-vent dans ton sac d'approche réduit. <strong>Couvre les avant-bras et les mains</strong> en priorité, parce que c'est ce qui te lâche si tu refroidis. Une paire de gants légers en stretch peut sauver la fin de voie. J'en emmène un toujours, même en été."
     },
     {
       "type": "p",
-      "html": "Le moral baisse aussi en grande voie. Au 4e relais, tu peux te dire que c'est trop dur, que tu vas redescendre. C'est normal, c'est le mur mental. Mange, bois, regarde la longueur suivante, et tu repars. La fatigue mentale s'evacue <a href=\"/blog/rythme-respiration-grimpe\">avec une respiration carree</a> au relais. C'est aussi le bon moment pour <a href=\"/blog/lecture-voie-strategie\">lire la longueur suivante</a> depuis le relais, ce qui prepare le cerveau a l'effort."
+      "html": "Le moral baisse aussi en grande voie. Au 4e relais, tu peux te dire que c'est trop dur, que tu vas redescendre. C'est normal, c'est le mur mental. Mange, bois, regarde la longueur suivante, et tu repars. La fatigue mentale s'évacue <a href=\"/blog/rythme-respiration-grimpe\">avec une respiration carrée</a> au relais. C'est aussi le bon moment pour <a href=\"/blog/lecture-voie-strategie\">lire la longueur suivante</a> depuis le relais, ce qui prépare le cerveau à l'effort."
     },
     {
       "type": "h2",
@@ -188,61 +188,61 @@
     },
     {
       "type": "p",
-      "html": "En voie classique en moulinette en bas (style Verdon), le relais est suspendu mais avec des points fixes. En voie d'aventure (style Vercors), le relais peut etre sur des coinceurs naturels et necessite plus de vigilance sur la qualite des points. En voie en altitude (style Mont-Blanc TD), le relais inclut une protection avec piolet ou broche a glace. Adapte ton rituel a chaque contexte, mais garde les six gestes de base. Le rappel pour redescendre suit la meme logique, comme detaille dans <a href=\"/blog/rappel-en-double-techniques\">la descente en rappel sur double brin</a>."
+      "html": "En voie classique en moulinette en bas (style Verdon), le relais est suspendu mais avec des points fixes. En voie d'aventure (style Vercors), le relais peut être sur des coinceurs naturels et nécessite plus de vigilance sur la qualité des points. En voie en altitude (style Mont-Blanc TD), le relais inclut une protection avec piolet ou broche à glace. Adapte ton rituel à chaque contexte, mais garde les six gestes de base. Le rappel pour redescendre suit la même logique, comme détaillé dans <a href=\"/blog/rappel-en-double-techniques\">la descente en rappel sur double brin</a>."
     }
   ],
   "faq": [
     {
       "q": "Combien de temps doit durer un relais ?",
-      "a": "Compte 8 a 15 minutes en general, 5 minutes si tu es presse ou en voie facile, 20 minutes au max si tu manges vraiment. Au-dela, tu perds du temps utile. Reduis par exercice systematique. Un relais qui dure 25 minutes, c'est 2 heures cumulees sur 6 longueurs, soit une perte enorme."
+      "a": "Compte 8 à 15 minutes en général, 5 minutes si tu es pressé ou en voie facile, 20 minutes au max si tu manges vraiment. Au-delà, tu perds du temps utile. Réduis par exercice systématique. Un relais qui dure 25 minutes, c'est 2 heures cumulées sur 6 longueurs, soit une perte énorme."
     },
     {
-      "q": "Faut-il vraiment se detacher au relais ?",
-      "a": "Pas se detacher de la corde, mais de l'assureur. Tu restes encordé tout le temps de la voie, c'est ton lien de securite. Tu te detaches juste de l'assurage du compagnon une fois que tu es vache et que tu assures le second en reversed. C'est une nuance importante."
+      "q": "Faut-il vraiment se détacher au relais ?",
+      "a": "Pas se détacher de la corde, mais de l'assureur. Tu restes encordé tout le temps de la voie, c'est ton lien de sécurité. Tu te détaches juste de l'assurage du compagnon une fois que tu es vaché et que tu assures le second en reverso. C'est une nuance importante."
     },
     {
       "q": "Que faire si on est trois sur un relais ?",
-      "a": "Vache obligatoire pour chacun sur le point central. Roles definis a l'avance : leader, second, troisieme. Le troisieme suit en moulinette inverse derriere le second. Tu organises les materiels en ranges separes pour eviter le bordel. C'est plus lent qu'a deux, mais c'est faisable avec preparation."
+      "a": "Vache obligatoire pour chacun sur le point central. Rôles définis à l'avance : leader, second, troisième. Le troisième suit en moulinette inversée derrière le second. Tu organises les matériels en ranges séparés pour éviter le bordel. C'est plus lent qu'à deux, mais c'est faisable avec préparation."
     },
     {
-      "q": "Comment gerer l'envie d'uriner en grande voie ?",
-      "a": "Tu peux uriner depuis le relais si tu es bien place et que tu ne touches personne en dessous. Pour les femmes, certaines pratiquent l'urine direct via un dispositif ferme. C'est une realite peu discutee mais essentielle pour les voies de plus de 4 heures. Boire pas mal, mais uriner aux relais permet de tenir."
+      "q": "Comment gérer l'envie d'uriner en grande voie ?",
+      "a": "Tu peux uriner depuis le relais si tu es bien placé et que tu ne touches personne en dessous. Pour les femmes, certaines pratiquent l'urine direct via un dispositif fermé. C'est une réalité peu discutée mais essentielle pour les voies de plus de 4 heures. Boire pas mal, mais uriner aux relais permet de tenir."
     },
     {
-      "q": "Faut-il toujours assurer le second en moulinette inverse ?",
-      "a": "Oui, c'est la methode standard et la plus sure depuis 2010. La reversed bloque automatiquement en cas de chute du second. Tu ne tiens plus la corde a la main, ce qui economise tes bras et evite les accidents de vigilance. C'est la base de la cordee moderne."
+      "q": "Faut-il toujours assurer le second en moulinette inversée ?",
+      "a": "Oui, c'est la méthode standard et la plus sûre depuis 2010. Le reverso bloque automatiquement en cas de chute du second. Tu ne tiens plus la corde à la main, ce qui économise tes bras et évite les accidents de vigilance. C'est la base de la cordée moderne."
     },
     {
-      "q": "Le relais peut-il etre un point existant ou faut-il toujours construire ?",
-      "a": "En voie equipee moderne, les relais sont chaines avec 2 ou 3 plaquettes deja unifiees par une chaine ou un maillon central. Tu te vache dessus directement. En voie d'aventure, tu construis avec friends et coinceurs, plus engage. Pour debuter, evite les voies non equipees."
+      "q": "Le relais peut-il être un point existant ou faut-il toujours construire ?",
+      "a": "En voie équipée moderne, les relais sont chaînés avec 2 ou 3 plaquettes déjà unifiées par une chaîne ou un maillon central. Tu te vaches dessus directement. En voie d'aventure, tu construis avec friends et coinceurs, plus engagé. Pour débuter, évite les voies non équipées."
     }
   ],
-  "cover_alt": "Deux grimpeurs en grande voie installes a un relais suspendu en pleine paroi calcaire ensoleillee, casques rouges et baudriers bleus, materiel ordonne et corde rangee, vide vertigineux en arriere-plan",
+  "cover_alt": "Deux grimpeurs en grande voie installés à un relais suspendu en pleine paroi calcaire ensoleillée, casques rouges et baudriers bleus, matériel ordonné et corde rangée, vide vertigineux en arrière-plan",
   "internal_links": [
     {
       "slug": "apprendre-escalade-debutant",
-      "anchor": "apprendre l'escalade en 2026",
+      "anchor": "le parcours d'apprentissage du grimpeur sportif",
       "context": "Pilier general"
     },
     {
       "slug": "grandes-voies-tactique",
-      "anchor": "tactique de grande voie",
+      "anchor": "La tactique générale de la grande voie",
       "context": "Cadre tactique global"
     },
     {
-      "slug": "rappel-en-double-techniques",
-      "anchor": "le rappel en double",
-      "context": "Descente en rappel apres relais"
-    },
-    {
       "slug": "rythme-respiration-grimpe",
-      "anchor": "respiration carree",
+      "anchor": "avec une respiration carrée",
       "context": "Recuperation au relais"
     },
     {
       "slug": "lecture-voie-strategie",
       "anchor": "lire la longueur suivante",
       "context": "Preparation depuis le relais"
+    },
+    {
+      "slug": "rappel-en-double-techniques",
+      "anchor": "la descente en rappel sur double brin",
+      "context": "Descente en rappel apres relais"
     }
   ],
   "scheduled_at": "2026-06-18T09:00:00+02:00"

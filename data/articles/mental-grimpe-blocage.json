@@ -3,16 +3,16 @@
   "cocon": "techniques",
   "type_article": "guide",
   "numero": 35,
-  "title": "Debloquer son mental en escalade | Depasser le palier mental",
-  "h1": "Debloquer son mental sur un niveau d'escalade, le guide d'Antoine",
-  "description": "Mental en escalade : peur de la chute, blocage sur cotation, respiration, visualisation et exercices concrets pour casser le plafond mental qui te...",
-  "chapo": "Tu as la technique, tu as la force, mais ton mental te retient en bas. La peur de la chute te paralyse au crux, le doute s'installe a 3 metres de la corde, tu te resignes a un niveau inferieur a ton potentiel. Treize ans m'ont fait casser plusieurs paliers mentaux. Voici la methode concrete pour debloquer le tien.",
+  "title": "Débloquer son mental en escalade, dépasser le palier mental",
+  "h1": "Débloquer son mental sur un niveau d'escalade, le guide d'Antoine",
+  "description": "Mental en escalade : peur de la chute, blocage sur cotation, respiration, visualisation et exercices concrets pour casser le plafond mental durablement.",
+  "chapo": "Tu as la technique, tu as la force, mais ton mental te retient en bas. La peur de la chute te paralyse au crux, le doute s'installe à 3 mètres de la corde, tu te résignes à un niveau inférieur à ton potentiel. Treize ans m'ont fait casser plusieurs paliers mentaux. Voici la méthode concrète pour débloquer le tien.",
   "takeaways": [
-    "Le blocage mental vient de la peur du vide ou de l'echec, parfois des deux.",
-    "Les chutes volontaires en assurage controle sont l'outil cle de deblocage.",
-    "La respiration en 4 temps coupe la spirale d'anxiete en 30 secondes.",
-    "La visualisation au sol prepare le mouvement dans le cerveau avant le corps.",
-    "Un coach mental ou kine du sport accelere le deblocage en cas de blessure passee."
+    "Le blocage mental vient de la peur du vide ou de l'échec, parfois des deux.",
+    "Les chutes volontaires en assurage contrôlé sont l'outil clé de déblocage.",
+    "La respiration en 4 temps coupe la spirale d'anxiété en 30 secondes.",
+    "La visualisation au sol prépare le mouvement dans le cerveau avant le corps.",
+    "Un coach mental ou kiné du sport accélère le déblocage en cas de blessure passée."
   ],
   "body_blocks": [
     {
@@ -21,11 +21,11 @@
     },
     {
       "type": "p",
-      "html": "Le <a href=\"/blog/apprendre-escalade-debutant\">blocage mental en escalade</a> prend trois formes principales. Premiere : <strong>peur de la chute physique</strong>, ou tu redoutes le pendule, le choc, la blessure. Deuxieme : <strong>peur de l'echec</strong>, ou tu te juges en cas d'erreur, devant les autres ou toi-meme. Troisieme : <strong>peur du vide</strong>, ou tu vis mal la hauteur en elle-meme, independamment du risque reel."
+      "html": "Le blocage mental en escalade prend trois formes principales. Première : <strong>peur de la chute physique</strong>, où tu redoutes le pendule, le choc, la blessure. Deuxième : <strong>peur de l'échec</strong>, où tu te juges en cas d'erreur, devant les autres ou toi-même. Troisième : <strong>peur du vide</strong>, où tu vis mal la hauteur en elle-même, indépendamment du risque réel. Cette dimension psychologique s'ajoute à <a href=\"/blog/apprendre-escalade-debutant\">tout l'apprentissage technique du grimpeur</a>, et la majorité des paliers de progression viennent d'elle."
     },
     {
       "type": "p",
-      "html": "Le diagnostic compte parce que la methode change selon la nature. La peur de chute se traite par exposition. La peur d'echec se traite par recadrage cognitif. La peur du vide se traite par accoutumance progressive sur autobelay. Tu identifies en t'observant : ou est-ce que ca bloque exactement ?"
+      "html": "Le diagnostic compte parce que la méthode change selon la nature. La peur de chute se traite par exposition. La peur d'échec se traite par recadrage cognitif. La peur du vide se traite par accoutumance progressive sur autobelay. Tu identifies en t'observant : où est-ce que ça bloque exactement ?"
     },
     {
       "type": "h2",
@@ -33,16 +33,16 @@
     },
     {
       "type": "p",
-      "html": "La peur de la chute, c'est la peur reine. Elle te bloque au-dessus de la derniere degaine, te fait downclimber au lieu d'engager, te fait abandonner avant le crux. Le traitement marche : <a href=\"/blog/chuter-en-grimpe-apprentissage\">chuter en confiance</a> par exposition progressive."
+      "html": "La peur de la chute, c'est la peur reine. Elle te bloque au-dessus de la dernière dégaine, te fait downclimber au lieu d'engager, te fait abandonner avant le crux. Le traitement marche : <a href=\"/blog/chuter-en-grimpe-apprentissage\">chuter en confiance</a> par exposition progressive."
     },
     {
       "type": "p",
-      "html": "Concrete : 5 chutes volontaires a chaque seance, partant de 30 cm au-dessus de la degaine et augmentant chaque semaine de 30 cm. Apres 8 semaines, tu chutes a 2 metres au-dessus de la degaine sans tension corporelle. C'est l'exercice qui m'a fait passer mon premier 7a en 2017, apres 4 mois de blocage sur la chute."
+      "html": "Concrètement : 5 chutes volontaires à chaque séance, partant de 30 cm au-dessus de la dégaine et augmentant chaque semaine de 30 cm. Après 8 semaines, tu chutes à 2 mètres au-dessus de la dégaine sans tension corporelle. C'est l'exercice qui m'a fait passer mon premier 7a en 2017, après 4 mois de blocage sur la chute."
     },
     {
       "type": "tip",
       "title": "Le contrat avec l'assureur",
-      "body": "Avant une projection mentale, mets-toi d'accord avec ton partenaire : tu vas tomber, tu veux un assurage souple, et il doit te confirmer sa concentration. Ce contrat verbal te rassure et te libere la tete. Trois minutes d'echange avant le depart valent mieux qu'une voie ratee sur stress.",
+      "body": "Avant une projection mentale, mets-toi d'accord avec ton partenaire : tu vas tomber, tu veux un assurage souple, et il doit te confirmer sa concentration. Ce contrat verbal te rassure et te libère la tête. Trois minutes d'échange avant le départ valent mieux qu'une voie ratée sur stress.",
       "tone": "astuce"
     },
     {
@@ -51,11 +51,11 @@
     },
     {
       "type": "p",
-      "html": "La respiration en 4 temps est l'outil mental le plus simple et le plus puissant. Inspire 2 secondes, bloque 2 secondes, expire 4 secondes, attends 2 secondes avant de reprendre. Cette routine baisse le rythme cardiaque de 15 a 20 pulsations en 2 minutes. Tu coupes la spirale d'anxiete sans medicament et sans effort cognitif."
+      "html": "La respiration en 4 temps est l'outil mental le plus simple et le plus puissant. Inspire 2 secondes, bloque 2 secondes, expire 4 secondes, attends 2 secondes avant de reprendre. Cette routine baisse le rythme cardiaque de 15 à 20 pulsations en 2 minutes. Tu coupes la spirale d'anxiété sans médicament et sans effort cognitif."
     },
     {
       "type": "p",
-      "html": "Utilise la respiration des qu'un signe d'anxiete arrive : avant-bras qui tendent sans raison technique, mains moites, regard fixe sur la prise sans bouger. Tu fais 5 cycles de respiration, tu reprends la grimpe. La voie passe souvent comme par magie, surtout si tu as soigné <a href=\"/blog/lecture-voie-strategie\">le décryptage de l'itinéraire au sol</a> comme par magie, simplement parce que ton corps s'est detendu."
+      "html": "Utilise la respiration dès qu'un signe d'anxiété arrive : avant-bras qui tendent sans raison technique, mains moites, regard fixe sur la prise sans bouger. Tu fais 5 cycles de respiration, tu reprends la grimpe. La voie passe souvent comme par magie, surtout si tu as soigné <a href=\"/blog/lecture-voie-strategie\">le décryptage de l'itinéraire au sol</a>, simplement parce que ton corps s'est détendu."
     },
     {
       "type": "h2",
@@ -63,38 +63,38 @@
     },
     {
       "type": "p",
-      "html": "Visualise la voie complete avant de partir, en imaginant ton corps qui execute chaque mouvement parfaitement. Tu trace la sequence des prises, tu sens les pieds, tu Cette repetition mentale active les memes circuits neuronaux que l'execution physique, et prepare le geste."
+      "html": "Visualise la voie complète avant de partir, en imaginant ton corps qui exécute chaque mouvement parfaitement. Tu traces la séquence des prises, tu sens les pieds, tu prépares ton souffle. Cette répétition mentale active les mêmes circuits neuronaux que l'exécution physique, et prépare le geste."
     },
     {
       "type": "list",
       "variant": "checks",
-      "title": "Trois etapes de visualisation efficace",
+      "title": "Trois étapes de visualisation efficace",
       "items": [
         {
           "title": "Lecture des prises au sol",
-          "body": "Identifie chaque main et chaque pied, leur ordre, leur orientation. Memorise la sequence avant de toucher le mur."
+          "body": "Identifie chaque main et chaque pied, leur ordre, leur orientation. Mémorise la séquence avant de toucher le mur."
         },
         {
-          "title": "Sensation corporelle imaginee",
+          "title": "Sensation corporelle imaginée",
           "body": "Ferme les yeux 2 minutes et imagine la voie comme si tu la grimpais. Sens la tension des muscles, la pose des chaussons, le souffle qui suit."
         },
         {
           "title": "Anticipation des points durs",
-          "body": "Identifie 1 ou 2 points qui vont demander de l'engagement mental. Prepare-toi a y respirer fort et a engager malgre la peur."
+          "body": "Identifie 1 ou 2 points qui vont demander de l'engagement mental. Prépare-toi à y respirer fort et à engager malgré la peur."
         }
       ]
     },
     {
       "type": "h2",
-      "text": "Le recadrage cognitif sur l'echec"
+      "text": "Le recadrage cognitif sur l'échec"
     },
     {
       "type": "p",
-      "html": "Si ton blocage vient de la peur d'echouer devant les autres, le travail est cognitif. Tu apprends a separer l'effort et le resultat. Tomber sur une projection 7a apres 15 essais n'est pas un echec, c'est l'apprentissage. Le grimpeur qui ne tombe pas est un grimpeur qui ne pousse pas son niveau."
+      "html": "Si ton blocage vient de la peur d'échouer devant les autres, le travail est cognitif. Tu apprends à séparer l'effort et le résultat. Tomber sur une projection 7a après 15 essais n'est pas un échec, c'est l'apprentissage. Le grimpeur qui ne tombe pas est un grimpeur qui ne pousse pas son niveau."
     },
     {
       "type": "p",
-      "html": "Pascal au club FFME de Colmar m'avait fait noter sur mon carnet : chute = donnee, pas jugement. Cette phrase me reste 10 ans apres. La chute revele un detail technique, te dit ce qui n'a pas marche, et te donne la prochaine correction. C'est de l'info utile, pas du verdict."
+      "html": "Un coach m'avait fait noter sur mon carnet : chute = donnée, pas jugement. Cette phrase me reste 10 ans après. La chute révèle un détail technique, te dit ce qui n'a pas marché, et te donne la prochaine correction. C'est de l'info utile, pas du verdict."
     },
     {
       "type": "h2",
@@ -102,11 +102,11 @@
     },
     {
       "type": "p",
-      "html": "Certains grimpeurs ne supportent pas la hauteur en elle-meme, independamment du risque. Vertige, sueurs, nausees au-dessus de 8 metres. Le traitement est lent : exposition graduelle sur autobelay en salle, pour s'habituer a la hauteur en securite absolue. Compte 3 a 6 <a href=\"/blog/autobelay-en-salle\">mois d'autobelay regulier</a> avant que la sensation se stabilise."
+      "html": "Certains grimpeurs ne supportent pas la hauteur en elle-même, indépendamment du risque. Vertige, sueurs, nausées au-dessus de 8 mètres. Le traitement est lent : exposition graduelle sur autobelay en salle, pour s'habituer à la hauteur en sécurité absolue. Compte 3 à 6 mois <a href=\"/blog/autobelay-en-salle\">d'autobelay régulier en salle</a> avant que la sensation se stabilise."
     },
     {
       "type": "p",
-      "html": "Si la peur du vide est severe et persiste apres 6 mois, consulte un psychologue du sport ou un therapeute en TCC. Cette demarche n'est pas un echec, c'est une accelaration. Beaucoup de grimpeurs forts ont eu un travail mental encadre, c'est juste tabou."
+      "html": "Si la peur du vide est sévère et persiste après 6 mois, consulte un psychologue du sport ou un thérapeute en TCC. Cette démarche n'est pas un échec, c'est une accélération. Beaucoup de grimpeurs forts ont eu un travail mental encadré, c'est juste tabou."
     },
     {
       "type": "h2",
@@ -114,38 +114,38 @@
     },
     {
       "type": "table",
-      "caption": "Etapes mentales apres une blessure escalade",
+      "caption": "Étapes mentales après une blessure escalade",
       "headers": [
         "Phase",
-        "Duree",
+        "Durée",
         "Travail mental"
       ],
       "rows": [
         [
           "Pendant la blessure",
-          "Selon gravite",
+          "Selon gravité",
           "Acceptation, gestion du manque"
         ],
         [
           "Reprise prudente",
-          "2 a 6 semaines",
-          "Reapprivoisement progressif sans force"
+          "2 à 6 semaines",
+          "Réapprivoisement progressif sans force"
         ],
         [
-          "Confiance retrouvee",
-          "3 a 6 mois",
-          "Chutes volontaires sur la zone qui a casse"
+          "Confiance retrouvée",
+          "3 à 6 mois",
+          "Chutes volontaires sur la zone qui a cassé"
         ],
         [
-          "Niveau anterieur retrouve",
-          "6 a 12 mois",
+          "Niveau antérieur retrouvé",
+          "6 à 12 mois",
           "Engagement pur sur projection"
         ]
       ]
     },
     {
       "type": "p",
-      "html": "Apres ma fracture de cheville en 2018 sur <a href=\"/blog/dalle-escalade-techniques\">techniques de dalle en escalade</a> de Saussois, j'ai mis 14 mois a retrouver mon niveau. La premiere annee, le mental dominait, pas la cheville. Chaque pied me semblait dangereux, chaque chute me terrifiait. Le travail de chute volontaire avec un coach a casse le blocage."
+      "html": "Après ma fracture de cheville en 2018 sur une dalle de Saussois, j'ai mis 14 mois à retrouver mon niveau, en réapprenant patiemment <a href=\"/blog/dalle-escalade-techniques\">la grimpe en dalle engagée</a>. La première année, le mental dominait, pas la cheville. Chaque pied me semblait dangereux, chaque chute me terrifiait. Le travail de chute volontaire avec un coach a cassé le blocage."
     },
     {
       "type": "h2",
@@ -153,15 +153,15 @@
     },
     {
       "type": "p",
-      "html": "Cree-toi une routine fixe avant chaque projection serieuse. Par exemple : 5 minutes de visualisation, 2 minutes de respiration, brief verbal a l'assureur, dernier check de baudrier et noeud. Cette routine te place dans l'etat mental optimal sans reflexion. Le corps suit, le geste sort plus propre. La methode rejoint <a href=\"/blog/progresser-niveau-escalade\">celle decrite dans progresser de niveau</a> par cycles courts."
+      "html": "Crée-toi une routine fixe avant chaque projection sérieuse. Par exemple : 5 minutes de visualisation, 2 minutes de respiration, brief verbal à l'assureur, dernier check de baudrier et nœud. Cette routine te place dans l'état mental optimal sans réflexion. Le corps suit, le geste sort plus propre. La méthode rejoint <a href=\"/blog/progresser-niveau-escalade\">la trame du cycle de progression en escalade</a> par cycles courts."
     },
     {
       "type": "p",
-      "html": "La routine compte plus que son contenu. Trouve la tienne et garde-la stable pendant 6 mois minimum. Tu construis un ancrage qui te calme automatiquement, meme sous stress competition. C'est le meme principe que la routine d'avant-match d'un tennisman."
+      "html": "La routine compte plus que son contenu. Trouve la tienne et garde-la stable pendant 6 mois minimum. Tu construis un ancrage qui te calme automatiquement, même sous stress compétition. C'est le même principe que la routine d'avant-match d'un tennisman."
     },
     {
       "type": "quote",
-      "text": "Le mental n'est pas un don, c'est une competence. Tu l'entraines comme tes doigts, methodiquement, sur des mois.",
+      "text": "Le mental n'est pas un don, c'est une compétence. Tu l'entraînes comme tes doigts, méthodiquement, sur des mois.",
       "author": "Antoine",
       "role": "grimpeur en 8a falaise, 7b bloc"
     }
@@ -169,34 +169,34 @@
   "faq": [
     {
       "q": "Peut-on grimper sans peur du tout ?",
-      "a": "Non, et c'est meme dangereux. Un grimpeur sans peur prend des risques inutiles et finit par se blesser. La peur saine te protege, t'aide a verifier le materiel, t'incite a clipper tot. Le but n'est pas d'eliminer la peur, c'est de la maitriser."
+      "a": "Non, et c'est même dangereux. Un grimpeur sans peur prend des risques inutiles et finit par se blesser. La peur saine te protège, t'aide à vérifier le matériel, t'incite à clipper tôt. Le but n'est pas d'éliminer la peur, c'est de la maîtriser."
     },
     {
-      "q": "Combien de temps pour debloquer un palier mental ?",
-      "a": "Compte 8 a 16 semaines de travail conscient pour casser un blocage installe. Si tu fais 5 chutes volontaires par seance pendant 8 semaines, ta peur de chute baisse de moitie en moyenne. La discipline compte plus que le talent mental."
+      "q": "Combien de temps pour débloquer un palier mental ?",
+      "a": "Compte 8 à 16 semaines de travail conscient pour casser un blocage installé. Si tu fais 5 chutes volontaires par séance pendant 8 semaines, ta peur de chute baisse de moitié en moyenne. La discipline compte plus que le talent mental."
     },
     {
-      "q": "Faut-il prendre un coach mental specifique ?",
-      "a": "Pas systematiquement, mais utile en cas de blocage severe ou apres blessure. Un psy du sport ou therapeute TCC formes aux sports a risque ajoute beaucoup. Tarif 60 a 100 euros la seance, 4 a 6 seances suffisent souvent."
+      "q": "Faut-il prendre un coach mental spécifique ?",
+      "a": "Pas systématiquement, mais utile en cas de blocage sévère ou après blessure. Un psy du sport ou thérapeute TCC formés aux sports à risque ajoutent beaucoup. Tarif 60 à 100 euros la séance, 4 à 6 séances suffisent souvent."
     },
     {
-      "q": "La meditation aide-t-elle en escalade ?",
-      "a": "Oui beaucoup pour la gestion de l'anxiete et la concentration. 10 minutes par jour de meditation mindfulness pendant 8 semaines reduisent significativement la peur de chute. Les applis Petit Bambou ou Insight Timer offrent des programmes adaptes."
+      "q": "La méditation aide-t-elle en escalade ?",
+      "a": "Oui beaucoup pour la gestion de l'anxiété et la concentration. 10 minutes par jour de méditation mindfulness pendant 8 semaines réduisent significativement la peur de chute. Les applis Petit Bambou ou Insight Timer offrent des programmes adaptés."
     },
     {
-      "q": "Comment gerer une projection qui rate 20 fois ?",
-      "a": "Si apres 20 essais la voie n'avance pas, soit le niveau est trop haut, soit le facteur bloquant est mal identifie. Recadre : prends une projection plus accessible (1 demi cotation au-dessus), enchaine la, puis reviens a la plus dure. Tu reviens avec confiance retrouvee."
+      "q": "Comment gérer une projection qui rate 20 fois ?",
+      "a": "Si après 20 essais la voie n'avance pas, soit le niveau est trop haut, soit le facteur bloquant est mal identifié. Recadre : prends une projection plus accessible (une demi-cotation au-dessus), enchaîne-la, puis reviens à la plus dure. Tu reviens avec confiance retrouvée."
     },
     {
-      "q": "Le mental se travaille-t-il avant ou apres la technique ?",
-      "a": "En parallele. Une technique solide reduit la peur, et un mental solide permet d'engager la technique. Ne separe pas les deux. Une seance de 1h30 inclut idealement 30 minutes de technique, 30 de projection, 30 de mental dont chutes volontaires."
+      "q": "Le mental se travaille-t-il avant ou après la technique ?",
+      "a": "En parallèle. Une technique solide réduit la peur, et un mental solide permet d'engager la technique. Ne sépare pas les deux. Une séance de 1h30 inclut idéalement 30 minutes de technique, 30 de projection, 30 de mental dont chutes volontaires."
     }
   ],
-  "cover_alt": "Grimpeuse les yeux fermes, mains posees sur le mur de salle, en train de visualiser une voie avant de partir, magnesier au sol, lumiere douce de fin de journee",
+  "cover_alt": "Grimpeuse les yeux fermés, mains posées sur le mur de salle, en train de visualiser une voie avant de partir, magnésier au sol, lumière douce de fin de journée",
   "internal_links": [
     {
       "slug": "apprendre-escalade-debutant",
-      "anchor": "apprendre l'escalade en 2026",
+      "anchor": "tout l'apprentissage technique du grimpeur",
       "context": "Pilier general"
     },
     {
@@ -205,24 +205,24 @@
       "context": "Outil cle de deblocage"
     },
     {
-      "slug": "autobelay-en-salle",
-      "anchor": "autobelay regulier",
-      "context": "Exposition controlee"
-    },
-    {
-      "slug": "progresser-niveau-escalade",
-      "anchor": "progresser de niveau",
-      "context": "Plan general"
-    },
-    {
       "slug": "lecture-voie-strategie",
-      "anchor": "lecture de voie",
+      "anchor": "le décryptage de l'itinéraire au sol",
       "context": "Visualisation pratique"
     },
     {
+      "slug": "autobelay-en-salle",
+      "anchor": "d'autobelay régulier en salle",
+      "context": "Exposition controlee"
+    },
+    {
       "slug": "dalle-escalade-techniques",
-      "anchor": "dalle engagee",
-      "context": "Application mentale"
+      "anchor": "la grimpe en dalle engagée",
+      "context": "Application mentale post blessure"
+    },
+    {
+      "slug": "progresser-niveau-escalade",
+      "anchor": "la trame du cycle de progression en escalade",
+      "context": "Plan general"
     }
   ],
   "scheduled_at": "2026-07-23T09:00:00+02:00"
