@@ -17,7 +17,7 @@ const COLUMNS: { title: string; links: { label: string; href: string }[] }[] = [
       { label: "Glossaire de l'escalade", href: "/glossaire-escalade" },
       { label: "Convertisseur de cotations", href: "/outils/cotations" },
       { label: "Blog", href: "/blog" },
-      { label: "Boutique", href: "/boutique" },
+      { label: "Trouver son équipement", href: "/equipement" },
     ],
   },
   {

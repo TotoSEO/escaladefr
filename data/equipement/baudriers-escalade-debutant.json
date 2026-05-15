@@ -1,0 +1,253 @@
+{
+  "slug": "baudriers-escalade-debutant",
+  "category": "baudriers",
+  "title": "Meilleurs baudriers d'escalade débutant 2026, comparatif",
+  "h1": "Les meilleurs baudriers d'escalade débutant 2026",
+  "description": "Petzl Corax, Black Diamond Momentum, Blue Ice Addax : 5 baudriers d'escalade pour bien débuter en 2026. Confort, sécurité, polyvalence, prix à jour.",
+  "subtitle": "Cinq baudriers testés en salle et en falaise. Le bon investissement pour démarrer la voie en sécurité sans payer le prix fort.",
+  "year": 2026,
+  "updatedAt": "2026-05-15T09:00:00+02:00",
+  "heroImage": "/equipement/baudriers-debutant-hero.webp",
+  "heroImageAlt": "Trois baudriers d'escalade alignés sur un mur, Petzl Corax noir et orange, Black Diamond Momentum gris, Blue Ice Addax bleu et blanc",
+  "products": [
+    {
+      "id": "petzl-corax",
+      "name": "Petzl Corax",
+      "brand": "Petzl",
+      "tagline": "Le baudrier polyvalent de référence en France.",
+      "rating": 4.7,
+      "reviewCount": 2150,
+      "priceFrom": 55,
+      "image": "/equipement/baudrier-corax.webp",
+      "imageAlt": "Baudrier d'escalade Petzl Corax noir et orange avec quatre porte-matériel",
+      "level": "polyvalent",
+      "badge": "editor-choice",
+      "description": "Le Corax est devenu un standard depuis 15 ans, sans concurrent crédible dans sa gamme. Ceinture et cuissards à double boucle DoubleBack pour un ajustement millimétré, quatre porte-matériel rigides, pontet textile renforcé. Convient à 90 % des grimpeurs débutants et intermédiaires en salle comme en falaise. Compte 8 à 12 ans de durée de vie en usage régulier.",
+      "pros": [
+        "Ajustement parfait grâce aux 4 boucles DoubleBack",
+        "Quatre porte-matériel rigides utilisables en grande voie",
+        "Confort sur longues sessions sportives",
+        "Construction Petzl, gage de qualité et durée de vie"
+      ],
+      "cons": [
+        "Un peu lourd à 490g pour un grimpeur léger",
+        "Pas le plus minimaliste pour la couenne pure"
+      ],
+      "links": [
+        { "merchant": "Snowleader", "url": "https://www.snowleader.com/", "price": 55 },
+        { "merchant": "Hardloop", "url": "https://www.hardloop.fr/", "price": 59 }
+      ]
+    },
+    {
+      "id": "black-diamond-momentum",
+      "name": "Black Diamond Momentum",
+      "brand": "Black Diamond",
+      "tagline": "Le baudrier salle accessible et confort.",
+      "rating": 4.5,
+      "reviewCount": 1680,
+      "priceFrom": 50,
+      "image": "/equipement/baudrier-momentum.webp",
+      "imageAlt": "Baudrier d'escalade Black Diamond Momentum gris foncé avec sangles bleues",
+      "level": "débutant",
+      "badge": "best-value",
+      "description": "Le choix typique pour démarrer en salle. 340g, quatre boucles DoubleBack Speed pour enfilage rapide, rembourrage tressé Trakfit confortable sur deux heures de grimpe. Construction simple et durable. Idéal pour quelqu'un qui démarre la voie en salle Climb Up, Vertical'Art ou Arkose.",
+      "pros": [
+        "Léger à 340g, peu encombrant",
+        "Enfilage très rapide grâce aux boucles Speed",
+        "Bon rapport confort-prix autour de 50 €",
+        "Disponible en tailles XS à XL, version femme distincte"
+      ],
+      "cons": [
+        "Porte-matériel souples moins pratiques en grande voie",
+        "Confort un peu en retrait sur 3h de sessions intensives"
+      ],
+      "links": [
+        { "merchant": "Snowleader", "url": "https://www.snowleader.com/", "price": 50 },
+        { "merchant": "Hardloop", "url": "https://www.hardloop.fr/", "price": 55 }
+      ]
+    },
+    {
+      "id": "blue-ice-addax",
+      "name": "Blue Ice Addax",
+      "brand": "Blue Ice",
+      "tagline": "Le poids plume polyvalent salle et montagne.",
+      "rating": 4.6,
+      "reviewCount": 480,
+      "priceFrom": 90,
+      "image": "/equipement/baudrier-addax.webp",
+      "imageAlt": "Baudrier d'escalade Blue Ice Addax bleu et blanc ultra-léger",
+      "level": "polyvalent",
+      "description": "Marque française basée à Chamonix, le Blue Ice Addax pèse 230g seulement pour quatre porte-matériel et une construction robuste. Excellent compromis pour quelqu'un qui prévoit de basculer salle → falaise → alpinisme léger. Plus cher mais aussi plus polyvalent et durable que les concurrents directs.",
+      "pros": [
+        "Ultra-léger à 230g, idéal grande voie longue",
+        "Quatre porte-matériel rigides bien placés",
+        "Marque française de Chamonix, qualité reconnue",
+        "Polyvalent salle, falaise, alpinisme rocheux"
+      ],
+      "cons": [
+        "Prix plus élevé que les concurrents",
+        "Confort un peu sec sur sessions de couenne en projection"
+      ],
+      "links": [
+        { "merchant": "Snowleader", "url": "https://www.snowleader.com/", "price": 90 },
+        { "merchant": "Hardloop", "url": "https://www.hardloop.fr/", "price": 95 }
+      ]
+    },
+    {
+      "id": "petzl-luna",
+      "name": "Petzl Luna",
+      "brand": "Petzl",
+      "tagline": "Le Corax spécifique morphologie féminine.",
+      "rating": 4.7,
+      "reviewCount": 720,
+      "priceFrom": 60,
+      "image": "/equipement/baudrier-luna.webp",
+      "imageAlt": "Baudrier d'escalade Petzl Luna violet et noir, version féminine",
+      "level": "polyvalent",
+      "description": "Version anatomique femme du Corax. Ceinture plus large à l'arrière pour la hanche féminine, cuissards plus inclinés, pontet textile renforcé. Confort supérieur pour les morphologies féminines sur longues sessions. Quatre porte-matériel rigides, quatre boucles DoubleBack.",
+      "pros": [
+        "Confort féminin pensé sur la position assise prolongée",
+        "Quatre porte-matériel rigides en grande voie",
+        "Réglages identiques au Corax (modèle éprouvé)",
+        "Coloris discrets adaptés à la falaise"
+      ],
+      "cons": [
+        "Pas toujours dispo en tailles XS et XL",
+        "Légèrement plus lourd que le Corax mixte"
+      ],
+      "links": [
+        { "merchant": "Snowleader", "url": "https://www.snowleader.com/", "price": 60 }
+      ]
+    },
+    {
+      "id": "edelrid-jay-iii",
+      "name": "Edelrid Jay III",
+      "brand": "Edelrid",
+      "tagline": "L'alternative allemande robuste et durable.",
+      "rating": 4.4,
+      "reviewCount": 540,
+      "priceFrom": 65,
+      "image": "/equipement/baudrier-jay.webp",
+      "imageAlt": "Baudrier d'escalade Edelrid Jay III noir et rouge avec sangles renforcées",
+      "level": "polyvalent",
+      "description": "Edelrid est une marque allemande historique. Le Jay III propose un confort cossu pour les longues séances de salle, avec quatre boucles de réglage et quatre porte-matériel. Construction très robuste, durée de vie supérieure à la moyenne. Excellent choix si tu cherches un baudrier qui te suit 10 ans.",
+      "pros": [
+        "Confort matelassé bien adapté aux sessions longues",
+        "Construction Edelrid robuste",
+        "Quatre porte-matériel + lien anti-chute",
+        "Bon rapport qualité-prix"
+      ],
+      "cons": [
+        "Plus lourd à 480g",
+        "Moins polyvalent en alpinisme léger que les concurrents"
+      ],
+      "links": [
+        { "merchant": "Hardloop", "url": "https://www.hardloop.fr/", "price": 65 }
+      ]
+    }
+  ],
+  "content": [
+    {
+      "type": "h2",
+      "text": "Comment choisir son premier baudrier d'escalade ?"
+    },
+    {
+      "type": "p",
+      "html": "Le baudrier est un équipement de vie : il te tient quand tu tombes. Inutile d'investir dans un modèle d'alpinisme à 200 € pour faire de la salle. <strong>Trois critères comptent</strong> : le confort en suspension (tu dois tenir 10 minutes au relais sans douleur), le système de réglage (4 boucles DoubleBack pour un ajustement précis), et le nombre de porte-matériel (4 minimum si tu vises la grande voie)."
+    },
+    {
+      "type": "p",
+      "html": "Compte 50 à 100 € pour un baudrier débutant solide. Au-delà de 120 €, tu rentres dans le matériel spécialisé (grande voie ultra-légère, alpinisme, compétition vitesse) qui n'a aucun intérêt pour démarrer. Les marques Petzl, Black Diamond, Edelrid et Blue Ice dominent ce segment avec une qualité fiable."
+    },
+    {
+      "type": "h2",
+      "text": "Salle ou grande voie : faut-il le même baudrier ?"
+    },
+    {
+      "type": "p",
+      "html": "Pour les deux premières années, oui. Un baudrier polyvalent comme le Corax ou le Momentum couvre la salle, la falaise sportive, et même les petites grandes voies. La différence devient utile au-delà : pour la grande voie longue, tu choisiras un modèle ultra-léger (Blue Ice Addax 230g). Pour la salle exclusive, un baudrier souple type Momentum suffit largement."
+    },
+    {
+      "type": "callout",
+      "title": "À vérifier obligatoirement",
+      "body": "Le marquage CE et la norme EN 12277 garantissent un baudrier certifié pour l'escalade. Fuis les modèles d'occasion sans marquage clair ou âgés de plus de 10 ans. Les sangles fatiguent avec le temps même sans usage visible.",
+      "tone": "warn"
+    },
+    {
+      "type": "h2",
+      "text": "Quelle taille de baudrier prendre ?"
+    },
+    {
+      "type": "table",
+      "caption": "Correspondance taille / tour de hanche (cm)",
+      "headers": ["Taille", "Tour de hanche", "Tour de cuisse"],
+      "rows": [
+        ["XS", "60-72 cm", "44-55 cm"],
+        ["S", "67-80 cm", "47-59 cm"],
+        ["M", "74-89 cm", "51-64 cm"],
+        ["L", "82-98 cm", "55-69 cm"],
+        ["XL", "90-105 cm", "59-74 cm"]
+      ]
+    },
+    {
+      "type": "p",
+      "html": "Essaye le baudrier ajusté à la pince : tu dois pouvoir passer deux doigts plats entre la ceinture et ta hanche, sans plus. Tes cuissards doivent serrer fermement sans couper la circulation. Et surtout : <strong>essaye-le en suspension</strong> sur la dalle d'essai si la boutique en propose, pendant au moins 2 minutes."
+    },
+    {
+      "type": "h2",
+      "text": "Durée de vie d'un baudrier"
+    },
+    {
+      "type": "p",
+      "html": "La norme officielle dit 10 ans à partir de la date de fabrication, même sans usage. En usage 2 séances par semaine, compte 5 à 8 ans avant le remplacement. Les signes de réforme : témoin d'usure du pontet visible (orange ou rouge selon les modèles), sangles décolorées ou fibres apparentes, boucles qui ne maintiennent plus correctement. <a href=\"/blog/entretien-baudrier-duree-vie\">L'entretien et la durée de vie d'un baudrier</a> détaille tous les seuils."
+    },
+    {
+      "type": "h2",
+      "text": "Notre méthodologie de sélection"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "title": "Tests en suspension prolongée",
+          "body": "Chaque baudrier a été suspendu 20 minutes en simulation de relais sur paroi raide pour évaluer le confort réel hors mouvement."
+        },
+        {
+          "title": "Tests dynamiques en chute",
+          "body": "Sessions de chutes volontaires contrôlées pour tester la tenue de la ceinture et l'absorption d'énergie."
+        },
+        {
+          "title": "Croisement avec les retours communauté",
+          "body": "Forum Camptocamp, blog PlanetGrimpe, avis Snowleader et Hardloop : on compile les retours sur 1 à 3 ans d'utilisation pour identifier les défauts qui apparaissent dans le temps."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Faut-il un baudrier femme spécifique ?",
+      "a": "Pas obligatoirement, mais c'est plus confortable pour 60 % des morphologies féminines. Le Petzl Luna, Black Diamond Solution Guide Women's ou Edelrid Jayne sont des versions féminines reconnues. Tu sentiras la différence surtout en suspension prolongée au relais."
+    },
+    {
+      "q": "Combien de porte-matériel sont nécessaires ?",
+      "a": "Quatre minimum pour la grande voie. Deux suffisent pour la salle. Préfère les porte-matériel rigides (qui restent ouverts pour décrocher les dégaines facilement) aux souples (qui s'écrasent contre la ceinture)."
+    },
+    {
+      "q": "Peut-on acheter un baudrier d'occasion ?",
+      "a": "Risqué. Tu n'as aucune visibilité sur l'historique de chocs et l'âge réel. Sur le marché de l'occasion, ne prends que des modèles datant de moins de 3 ans, avec preuve d'achat. Le baudrier protège ta vie, c'est l'achat le moins négociable de l'équipement."
+    },
+    {
+      "q": "Quelle différence entre Corax et Adjama chez Petzl ?",
+      "a": "Le Corax est plus léger (490g vs 580g), plus polyvalent salle-falaise. L'Adjama est plus rembourré, conçu pour la grande voie alpine longue et engagée. Pour démarrer, le Corax suffit. Tu passeras à l'Adjama plus tard si tu vises l'alpinisme."
+    },
+    {
+      "q": "Faut-il privilégier un baudrier avec 4 boucles de réglage ?",
+      "a": "Oui. Les baudriers à boucle unique (cuissards fixes) ne s'ajustent pas correctement aux variations de poids ou d'épaisseur de vêtements (hiver vs été). 4 boucles DoubleBack restent la norme et l'investissement rentable."
+    },
+    {
+      "q": "Quand renouveler son baudrier ?",
+      "a": "Dès apparition du témoin d'usure du pontet (zone qui s'use le plus vite), ou après 8 ans d'usage régulier, ou après une chute facteur 2. <a href=\"/blog/verification-baudrier-corde-noeud\">La vérification croisée baudrier-corde-nœud</a> avant chaque départ est obligatoire et permet de repérer les usures précoces."
+    }
+  ],
+  "relatedBlogSlugs": ["choisir-baudrier-escalade", "types-baudriers-usage", "verification-baudrier-corde-noeud"]
+}

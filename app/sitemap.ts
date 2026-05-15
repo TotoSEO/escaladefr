@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 
 import { COCON_SLUG, fetchArticleSlugs } from "@/lib/blog";
+import { fetchAllAffiliateLandings } from "@/lib/equipement";
 import {
   fetchAllSitesForMap,
   fetchDepartements,
@@ -31,7 +32,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       changeFrequency: "weekly" as const,
       priority: 0.7,
     })),
-    { url: `${SITE}/boutique`, lastModified: now, changeFrequency: "monthly", priority: 0.6 },
+    { url: `${SITE}/equipement`, lastModified: now, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE}/a-propos`, lastModified: now, changeFrequency: "monthly", priority: 0.75 },
     { url: `${SITE}/contact`, lastModified: now, changeFrequency: "yearly", priority: 0.4 },
     { url: `${SITE}/mentions-legales`, lastModified: now, changeFrequency: "yearly", priority: 0.3 },
@@ -39,10 +40,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   // Routes dynamiques : départements + sites individuels + articles blog.
   try {
-    const [sites, departements, articles] = await Promise.all([
+    const [sites, departements, articles, equipementLandings] = await Promise.all([
       fetchAllSitesForMap(),
       fetchDepartements(),
       fetchArticleSlugs(),
+      fetchAllAffiliateLandings(),
     ]);
 
     const departementEntries: MetadataRoute.Sitemap = departements
@@ -68,7 +70,20 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.75,
     }));
 
-    return [...staticEntries, ...departementEntries, ...siteEntries, ...articleEntries];
+    const equipementEntries: MetadataRoute.Sitemap = equipementLandings.map((l) => ({
+      url: `${SITE}/equipement/${l.slug}`,
+      lastModified: new Date(l.updatedAt),
+      changeFrequency: "monthly" as const,
+      priority: 0.7,
+    }));
+
+    return [
+      ...staticEntries,
+      ...departementEntries,
+      ...siteEntries,
+      ...articleEntries,
+      ...equipementEntries,
+    ];
   } catch {
     return staticEntries;
   }
