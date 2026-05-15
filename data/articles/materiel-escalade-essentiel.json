@@ -149,6 +149,11 @@
       "html": "<a href=\"/blog/sac-escalade-emporter\">Le sac d'escalade et son contenu type</a> évite que ta corde traîne dans la terre, les épines et les sentiers. Un bon sac type Petzl Kab ou Beal Combi protège vraiment l'âme de la corde. Compte aussi une trousse de premiers secours, un sifflet et une frontale pour les retours tardifs en falaise."
     },
     {
+      "type": "tool",
+      "tool": "configurateur-budget-debutant",
+      "title": "Configurateur : ton budget matériel selon ta pratique"
+    },
+    {
       "type": "h2",
       "text": "Acheter neuf, d'occasion, ou louer ?"
     },
