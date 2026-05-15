@@ -82,7 +82,7 @@
     },
     {
       "type": "p",
-      "html": "On y revient dans <a href=\"/blog/apprendre-escalade-debutant\">le panorama du grimpeur débutant</a>. <a href=\"/blog/lecture-voie-strategie\">La lecture</a> de voie change radicalement en falaise. Pas de couleurs, tu cherches les prises a l'oeil, en repérant les bossages, les fissures, les reglettes naturelles. Le topo te donne souvent une description et la cotation, mais l'ordre des prises se trouve sur le rocher en direct."
+      "html": "Les repères de la salle s'effondrent en falaise. Là où <a href=\"/blog/apprendre-escalade-debutant\">le panorama du grimpeur débutant</a> s'appuie sur les couleurs des prises, le rocher demande de tout relire. <a href=\"/blog/lecture-voie-strategie\">La lecture de voie</a> change radicalement en falaise. Pas de couleurs, tu cherches les prises à l'œil, en repérant les bossages, les fissures, les réglettes naturelles. Le topo te donne souvent une description et la cotation, mais l'ordre des prises se trouve sur le rocher en direct."
     },
     {
       "type": "p",
@@ -137,7 +137,7 @@
     },
     {
       "type": "p",
-      "html": "Verifie la meteo 24h avant et 48h avant la sortie. Le rocher doit etre sec depuis au moins 48 heures pour offrir une adherence correcte. Une fine pluie de <a href=\"/blog/dalle-escalade-techniques\">la veille rend dalle</a> et calcaire glissants jusqu'au lendemain. Annule sans regret si la meteo ne suit pas, tu gagneras en plaisir."
+      "html": "Vérifie la météo 24h avant et 48h avant la sortie. Le rocher doit être sec depuis au moins 48 heures pour offrir une adhérence correcte. Une fine pluie de la veille rend la dalle et le calcaire glissants jusqu'au lendemain : <a href=\"/blog/dalle-escalade-techniques\">la grimpe en dalle calcaire</a> ne pardonne pas l'humidité résiduelle. Annule sans regret si la météo ne suit pas, tu gagneras en plaisir."
     },
     {
       "type": "h2",
@@ -145,7 +145,7 @@
     },
     {
       "type": "p",
-      "html": "Au pied de la voie, applique le respect des autres cordees. Ne pose pas ton sac sous une voie occupee, ne grimpe pas en simultanee sous quelqu'un en haut, ne chauffe pas dans le passage. La regle est detaillee <a href=\"/blog/comportement-falaise-collectif\">dans le comportement</a> en falaise qu'il faut maitriser des la premiere sortie."
+      "html": "Au pied de la voie, applique le respect des autres cordées. Ne pose pas ton sac sous une voie occupée, ne grimpe pas en simultanée sous quelqu'un en haut, ne chauffe pas dans le passage. La règle est détaillée dans <a href=\"/blog/comportement-falaise-collectif\">le comportement collectif en falaise</a> qu'il faut maîtriser dès la première sortie."
     },
     {
       "type": "p",
@@ -157,7 +157,7 @@
     },
     {
       "type": "p",
-      "html": "Au retour, prends 30 minutes pour debriefer mentalement. Note dans un carnet les voies enchainees, les difficultes rencontrees, le materiel manquant, les progres a faire. Cette discipline construit ton experience falaise sur le long terme. <a href=\"/blog/premiere-fois-salle-escalade\">Ma première</a> sortie en falaise, c'était à Saffres en Bourgogne en 2014 avec le club de Colmar. Je grimpais du 5c en salle, je me suis cassé les dents sur du 5a en falaise parce que je cherchais des prises résinées invisibles sur le calcaire. La lecture de voie en extérieur, j'ai dû la ré<a href=\"/blog/apprendre-escalade-debutant\">apprendre les bases</a> de zéro."
+      "html": "Au retour, prends 30 minutes pour débriefer mentalement. Note dans un carnet les voies enchaînées, les difficultés rencontrées, le matériel manquant, les progrès à faire. Cette discipline construit ton expérience falaise sur le long terme. Ma toute première sortie en falaise, c'était à Saffres en Bourgogne en 2014 avec mon club. Je grimpais du 5c en salle, je me suis cassé les dents sur du 5a en falaise parce que je cherchais des prises résinées invisibles sur le calcaire. La lecture de voie en extérieur, j'ai dû la réapprendre de zéro."
     },
     {
       "type": "p",
@@ -200,33 +200,23 @@
   "internal_links": [
     {
       "slug": "apprendre-escalade-debutant",
-      "anchor": "apprendre l'escalade en 2026",
+      "anchor": "le panorama du grimpeur débutant",
       "context": "Pilier general"
     },
     {
       "slug": "lecture-voie-strategie",
-      "anchor": "lecture de voie",
+      "anchor": "La lecture de voie",
       "context": "Adaptation rocher"
     },
     {
-      "slug": "chuter-en-grimpe-apprentissage",
-      "anchor": "technique de chute en confiance",
-      "context": "Securite cle"
-    },
-    {
-      "slug": "comportement-falaise-collectif",
-      "anchor": "comportement en falaise",
-      "context": "Codes communautaires"
-    },
-    {
       "slug": "dalle-escalade-techniques",
-      "anchor": "techniques de dalle",
+      "anchor": "la grimpe en dalle calcaire",
       "context": "Style probable rencontre"
     },
     {
-      "slug": "premiere-fois-salle-escalade",
-      "anchor": "premiere sortie en salle",
-      "context": "Etape precedente"
+      "slug": "comportement-falaise-collectif",
+      "anchor": "le comportement collectif en falaise",
+      "context": "Codes communautaires"
     }
   ],
   "scheduled_at": "2026-07-25T09:00:00+02:00"
