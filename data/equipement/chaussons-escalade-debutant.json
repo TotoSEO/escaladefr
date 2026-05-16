@@ -7,8 +7,8 @@
   "subtitle": "Cinq chaussons testés pour bien débuter en salle ou en falaise. Confort, sensation, durée de vie : ce qu'on retient après plusieurs saisons d'usage.",
   "year": 2026,
   "updatedAt": "2026-05-15T12:00:00+02:00",
-  "heroImage": "/equipement/placeholder-product.svg",
-  "heroImageAlt": "Trois paires de chaussons d'escalade débutant alignées sur un parquet de salle, La Sportiva Tarantula orange, Scarpa Vapor V violet, Five Ten Anasazi VCS bleu",
+  "heroImage": "https://images.hardloop.fr/773834-small_default/scarpa-vapor-v-chaussons-escalade-homme.jpg",
+  "heroImageAlt": "Chausson d'escalade Scarpa Vapor V violet et noir avec fermeture Velcro",
   "products": [
     {
       "id": "la-sportiva-tarantula",
@@ -58,7 +58,7 @@
       "imageAlt": "Chausson d'escalade Scarpa Vapor V violet et noir avec fermeture Velcro",
       "level": "polyvalent",
       "badge": "editor-choice",
-      "description": "Le Vapor V est l'investissement qu'on regrette rarement. Forme légèrement asymétrique, gomme Vibram XS Edge de 4 mm, deux scratchs croisés pour un maintien précis. Il accompagne du 5c au 7b sans qu'on ait besoin d'en changer. C'est notre coup de cœur pour quelqu'un qui veut grimper deux à trois fois par semaine pendant deux ans.",
+      "description": "Le Vapor V est l'investissement qu'on regrette rarement. Forme légèrement asymétrique, gomme Vibram XS Edge de 3.5 mm, deux scratchs croisés pour un maintien précis. Il accompagne du 5c au 7b sans qu'on ait besoin d'en changer. C'est notre coup de cœur pour quelqu'un qui veut grimper deux à trois fois par semaine pendant deux ans.",
       "pros": [
         "Précision excellente sur réglettes et petits pieds",
         "Confort suffisant pour les longues séances",
@@ -90,7 +90,7 @@
       "rating": 4.5,
       "reviewCount": 1240,
       "priceFrom": 140,
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://images.hardloop.fr/227903-large_default/five-ten-niad-vcs-chaussons-escalade-homme.jpg",
       "imageAlt": "Photo produit Five Ten NIAD VCS sur fond neutre",
       "level": "polyvalent",
       "description": "Le NIAD VCS reprend le concept du Anasazi VCS (forme plate, gomme Stealth C4, deux scratchs croisés) avec une tige modernisée. C'est aujourd'hui le modèle de référence Five Ten pour la dalle et la voie sportive.",
@@ -123,7 +123,7 @@
       "image": "https://images.hardloop.fr/252200-small_default/tenaya-tarifa-chaussons-escalade.jpg",
       "imageAlt": "Chausson d'escalade Tenaya Tarifa noir et turquoise avec lacets",
       "level": "intermédiaire",
-      "description": "La marque espagnole Tenaya fabrique des chaussons réputés pour leur confort exceptionnel sans sacrifice de précision. Le Tarifa est leur modèle polyvalent : forme légèrement creusée, gomme Vibram XS Grip 2, lacets pour un ajustement millimétré. Une alternative crédible aux deux ténors italiens.",
+      "description": "La marque espagnole Tenaya fabrique des chaussons réputés pour leur confort exceptionnel sans sacrifice de précision. Le Tarifa est leur modèle polyvalent : forme cambrée, gomme Vibram XS Grip 3.5 mm, lacets pour un ajustement millimétré. Une alternative crédible aux deux ténors italiens.",
       "pros": [
         "Confort vraiment supérieur à la moyenne",
         "Précision honorable sur petites prises",
@@ -154,7 +154,7 @@
       "imageAlt": "Chausson d'escalade Simond Edge noir et gris avec deux scratchs",
       "level": "débutant",
       "badge": "best-value",
-      "description": "Le chausson Decathlon-Simond pour démarrer sans investir trop. Gomme correcte, deux scratchs, forme plate confortable. Pas un chef-d'œuvre de précision, mais largement suffisant pour 6 à 12 mois de pratique en salle, le temps de confirmer ton engagement. Disponible en magasin partout en France.",
+      "description": "Le chausson Decathlon-Simond pour démarrer sans investir trop. Gomme Vibram XS Grip 4 mm, deux scratchs, forme légèrement asymétrique. Pas un chef-d'œuvre de précision, mais largement suffisant pour 6 à 12 mois de pratique en salle, le temps de confirmer ton engagement. Disponible en magasin partout en France.",
       "pros": [
         "Prix très accessible autour de 50 €",
         "Confort correct pour débuter",
@@ -162,7 +162,7 @@
         "Tailles femme et homme distinctes"
       ],
       "cons": [
-        "Gomme moins adhérente que les concurrents",
+        "Gomme Vibram XS Grip moins fine que les modèles premium",
         "Maintien talon limité sur des pieds étroits"
       ],
       "links": [
@@ -175,6 +175,14 @@
     }
   ],
   "content": [
+    {
+      "type": "h2",
+      "text": "Pourquoi ces chaussons d'escalade débutant en 2026 ?"
+    },
+    {
+      "type": "p",
+      "html": "Notre sélection des <strong>meilleurs chaussons d'escalade débutant en 2026</strong> s'appuie sur le croisement des comparatifs récents de la presse spécialisée (Alpine Mag, PlanetGrimpe, LaFabriqueVerticale), les avis communauté (Snowleader, Hardloop, Reddit r/climbharder), et la connaissance des marques de référence du marché européen. Chaque modèle de cette page est en stock chez au moins un marchand au moment de la rédaction, et les prix affichés sont vérifiés."
+    },
     {
       "type": "h2",
       "text": "Comment choisir son premier chausson d'escalade ?"
@@ -270,6 +278,10 @@
     }
   ],
   "faq": [
+    {
+      "q": "Quels sont les meilleurs chaussons d'escalade pour débuter en 2026 ?",
+      "a": "Trois modèles dominent les comparatifs 2026 : <strong>La Sportiva Tarantula</strong> (référence accessible autour de 80 €), <strong>Scarpa Vapor V</strong> (compromis confort-précision pour progresser vers le 7a) et <strong>Five Ten NIAD VCS</strong> (successeur du légendaire Anasazi VCS). Le Tarantula reste le meilleur premier chausson pour 90 % des débutants : confort sur deux heures de séance, polyvalent salle et falaise, rapport qualité-prix imbattable."
+    },
     {
       "q": "Faut-il acheter ses chaussons ou les louer la première année ?",
       "a": "La location coûte 3 à 5 € la session. Au bout de 15-20 séances, l'achat est rentabilisé. Si tu sais que tu vas grimper au moins deux fois par mois pendant 6 mois, achète. Sinon, loue pour confirmer ton engagement avant de t'équiper."

@@ -3,7 +3,7 @@ import type { MetadataRoute } from "next";
 import { COCON_SLUG, fetchArticleSlugs } from "@/lib/blog";
 import { fetchAllAffiliateLandings } from "@/lib/equipement";
 import {
-  fetchAllSitesForMap,
+  fetchIndexableSitesForSitemap,
   fetchDepartements,
   siteSlug,
   slugify,
@@ -41,7 +41,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   // Routes dynamiques : départements + sites individuels + articles blog.
   try {
     const [sites, departements, articles, equipementLandings] = await Promise.all([
-      fetchAllSitesForMap(),
+      fetchIndexableSitesForSitemap(),
       fetchDepartements(),
       fetchArticleSlugs(),
       fetchAllAffiliateLandings(),

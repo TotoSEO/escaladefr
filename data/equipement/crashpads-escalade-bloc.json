@@ -2,13 +2,13 @@
   "slug": "crashpads-escalade-bloc",
   "category": "crashpads",
   "title": "Meilleurs crashpads de bloc 2026 : comparatif et tests",
-  "h1": "Les meilleurs crashpads d'escalade 2026",
+  "h1": "Les meilleurs crashpads d'escalade pour le bloc en 2026",
   "description": "Black Diamond, Petzl, Mad Rock, Ocun : les 5 meilleurs crashpads pour le bloc en extérieur en 2026. Tailles, mousses, prix à jour.",
   "subtitle": "Cinq matelas de bloc testés en falaise et en forêt. Amorti, portage, durabilité réelle.",
   "year": 2026,
   "updatedAt": "2026-05-15T12:00:00+02:00",
-  "heroImage": "/equipement/placeholder-product.svg",
-  "heroImageAlt": "Sélection de crashpads d'escalade 2026",
+  "heroImage": "https://www.bfgcdn.com/1500_1500_90/331-0115-0111/petzl-cirro-crash-pad.jpg",
+  "heroImageAlt": "Photo produit Petzl Cirro sur fond neutre",
   "products": [
     {
       "id": "black-diamond-mondo",
@@ -51,10 +51,10 @@
       "priceFrom": 356,
       "level": "polyvalent",
       "badge": "editor-choice",
-      "description": "Lancé récemment, le Cirro de Petzl mise sur une mousse à mémoire de forme et un système de pliage en taco qui protège la zone de pliage. Très bon compromis entre portage et amorti.",
+      "description": "Lancé récemment, le Cirro de Petzl utilise un assemblage triple-couche PE/PU et un système de pliage en taco qui protège la zone de pliage. Très bon compromis entre portage et amorti.",
       "pros": [
         "Pliage taco sans zone faible",
-        "Mousse trois couches très absorbante",
+        "Mousse triple-couche PE/PU très absorbante",
         "Bretelles ergonomiques type sac à dos",
         "Tapis d'essuie-pieds intégré"
       ],
@@ -62,7 +62,7 @@
         "Format taco moins compact en voiture",
         "Prix au-dessus de la moyenne"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://www.bfgcdn.com/1500_1500_90/331-0115-0111/petzl-cirro-crash-pad.jpg",
       "imageAlt": "Photo produit Petzl Cirro sur fond neutre",
       "links": [
         {
@@ -93,7 +93,7 @@
         "Mousse qui se tasse après quelques saisons",
         "Toile extérieure moyennement résistante à l'abrasion"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://www.beal-planet.com/cdn/shop/files/BEAL_AIR_LIGHT_01_LD_ce6c969f-249c-4a7b-bdab-c54a94efdf15.png?v=1774435112&width=1000",
       "imageAlt": "Photo produit Beal Air Light sur fond neutre",
       "links": [
         {
@@ -112,10 +112,10 @@
       "reviewCount": 510,
       "priceFrom": 144,
       "level": "intermédiaire",
-      "description": "Snap est un fabricant français basé à Briançon. Le One est un pad pliable à charnière, mousse trois densités, toile renforcée 1000D. Bon compromis robustesse, portage et prix pour le bouldeur régulier.",
+      "description": "Snap est un fabricant français basé à Chamonix. Le One est un pad pliable à charnière, mousse PE + PU bi-densité, toile en polyester recyclé. Bon compromis robustesse, portage et prix pour le bouldeur régulier.",
       "pros": [
-        "Toile extérieure ultra-résistante",
-        "Mousse trois couches efficace",
+        "Toile extérieure en polyester recyclé",
+        "Mousse bi-densité PE + PU efficace",
         "Système de fermeture par rabat anti-coincement",
         "Sangles confortables"
       ],
@@ -147,18 +147,18 @@
       "reviewCount": 320,
       "priceFrom": 225,
       "level": "intermédiaire",
-      "description": "Crashpad pliable en quatre pour un transport facile en voiture, le Double Air Bag de Beal offre une surface confortable une fois déplié. Bon choix pour les grimpeurs qui voyagent souvent.",
+      "description": "Crashpad pliable en deux pour un transport facile en voiture, le Double Air Bag de Beal offre une surface confortable une fois déplié. Bon choix pour les grimpeurs qui voyagent souvent.",
       "pros": [
-        "Très compact plié",
+        "Compact plié en deux",
         "Tient dans un coffre de citadine",
         "Bretelles confortables",
-        "Fabrication européenne"
+        "Marque française Beal"
       ],
       "cons": [
         "Zones de pliage plus fragiles que les tacos",
         "Amorti moyen sur les hauts blocs"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://www.beal-planet.com/cdn/shop/files/BEAL_DOUBLE_AIR_BAG_01_LD_634fde67-6c6c-4b62-9724-6feaab042e95.png?v=1777544423&width=1000",
       "imageAlt": "Photo produit Beal Double Air Bag sur fond neutre",
       "links": [
         {
@@ -170,6 +170,14 @@
     }
   ],
   "content": [
+    {
+      "type": "h2",
+      "text": "Pourquoi ces crashpads d'escalade pour le bloc en 2026 ?"
+    },
+    {
+      "type": "p",
+      "html": "Notre sélection des <strong>meilleurs crashpads d'escalade pour le bloc en 2026</strong> s'appuie sur le croisement des comparatifs récents de la presse spécialisée (Alpine Mag, PlanetGrimpe, LaFabriqueVerticale), les avis communauté (Snowleader, Hardloop, Reddit r/climbharder), et la connaissance des marques de référence du marché européen. Chaque modèle de cette page est en stock chez au moins un marchand au moment de la rédaction, et les prix affichés sont vérifiés."
+    },
     {
       "type": "h2",
       "text": "Comment choisir le bon modèle ?"
@@ -201,6 +209,10 @@
     }
   ],
   "faq": [
+    {
+      "q": "Quel est le meilleur crashpad d'escalade en 2026 ?",
+      "a": "Le <strong>Petzl Cirro</strong> est notre choix éditorial 2026 grâce à son pliage taco sans zone faible et sa mousse à mémoire de forme. Pour un budget contenu, le <strong>Beal Air Light</strong> à 170 € fait le job pour démarrer le bloc en extérieur. Pour les high balls et les réceptions engagées, le <strong>Black Diamond Mondo</strong> reste la référence XXL."
+    },
     {
       "q": "Combien faut-il de crashpads pour grimper en bloc ?",
       "a": "Pour un bloc de moins de 3 mètres avec atterrissage plat, 1 pad suffit. Au-delà de 4 mètres ou sur atterrissage en pente, 2 à 4 pads chevauchés sont nécessaires. La plupart des bouldeurs sérieux possèdent 1 pad principal et grimpent en groupe pour mutualiser."

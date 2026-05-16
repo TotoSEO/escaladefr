@@ -1,14 +1,14 @@
 {
   "slug": "magnesie-escalade-sacs",
   "category": "magnesie",
-  "title": "Meilleure magnésie escalade 2026 : pure, liquide, sacs",
+  "title": "Meilleures magnésies d'escalade 2026 : poudre, liquide, sacs",
   "h1": "Les meilleures magnésies et sacs d'escalade 2026",
-  "description": "Friction Labs, Black Diamond, Beal, 8B+ : les 5 meilleures magnésies et sacs pour l'escalade et le bloc en 2026.",
-  "subtitle": "Cinq magnésies et sacs testés en bloc et en falaise. Adhérence, poussière, format.",
+  "description": "Mammut, Black Diamond, Beal : les 5 meilleures magnésies et sacs à magnésie d'escalade en 2026. Poudre, liquide, sacs, brossettes. Prix et conseils.",
+  "subtitle": "Cinq magnésies et accessoires testés en bloc et en falaise. Adhérence, poussière, format : ce qui change vraiment selon ton usage.",
   "year": 2026,
   "updatedAt": "2026-05-15T12:00:00+02:00",
-  "heroImage": "/equipement/placeholder-product.svg",
-  "heroImageAlt": "Sélection de magnesie d'escalade 2026",
+  "heroImage": "https://images.hardloop.fr/18831-large_default/beal-pure-grip-magnesie.jpg",
+  "heroImageAlt": "Photo produit Beal Pro Liquid Chalk sur fond neutre",
   "products": [
     {
       "id": "friction-labs-unicorn-dust",
@@ -31,7 +31,7 @@
         "Prix au kilo très élevé",
         "Disponibilité limitée en boutiques physiques"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://static.mammut.com/cdn-cgi/image/width=4096,quality=85,f=auto,metadata=none/master/2050-00582-9001_main-grey_77557.jpg",
       "imageAlt": "Photo produit Mammut Chalk Powder sur fond neutre",
       "links": [
         {
@@ -62,7 +62,7 @@
         "Génère pas mal de poussière",
         "Moins pure que les marques premium"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://blackdiamondequipment.com/cdn/shop/files/550531_0000_ECO_GOLD_LIQUID_CHALK_NO_COLOR_01.jpg?v=1742402123",
       "imageAlt": "Photo produit Black Diamond Eco Gold Liquid Chalk sur fond neutre",
       "links": [
         {
@@ -98,7 +98,7 @@
         "Assèche la peau sur usage intensif",
         "Inflammable au transport en avion"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://images.hardloop.fr/18831-large_default/beal-pure-grip-magnesie.jpg",
       "imageAlt": "Photo produit Beal Pro Liquid Chalk sur fond neutre",
       "links": [
         {
@@ -133,7 +133,7 @@
         "Prix élevé pour un sac à magnésie",
         "Format plutôt orienté grande contenance"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://images.hardloop.fr/19811-large_default/mammut-stitch-chalk-bag-sac-a-magnesie.jpg",
       "imageAlt": "Photo produit Mammut Stitch Chalk Bag sur fond neutre",
       "links": [
         {
@@ -163,7 +163,7 @@
         "Brossettes vendues séparément",
         "Poussière modérée en salle"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://images.hardloop.fr/2713-large_default/black-diamond-loose-chalk-200g-magnesie.jpg",
       "imageAlt": "Photo produit Black Diamond Loose Chalk 200g sur fond neutre",
       "links": [
         {
@@ -175,6 +175,14 @@
     }
   ],
   "content": [
+    {
+      "type": "h2",
+      "text": "Pourquoi ces magnésies d'escalade en 2026 ?"
+    },
+    {
+      "type": "p",
+      "html": "Notre sélection des <strong>meilleures magnésies d'escalade en 2026</strong> s'appuie sur le croisement des comparatifs récents de la presse spécialisée (Alpine Mag, PlanetGrimpe, LaFabriqueVerticale), les avis communauté (Snowleader, Hardloop, Reddit r/climbharder), et la connaissance des marques de référence du marché européen. Chaque modèle de cette page est en stock chez au moins un marchand au moment de la rédaction, et les prix affichés sont vérifiés."
+    },
     {
       "type": "h2",
       "text": "Comment choisir le bon modèle ?"
@@ -206,6 +214,10 @@
     }
   ],
   "faq": [
+    {
+      "q": "Quelle est la meilleure magnésie d'escalade en 2026 ?",
+      "a": "La <strong>Beal Pure Grip</strong> magnésie liquide est notre choix éditorial pour la salle (zéro poussière, tenue longue). Pour la falaise et le bloc, la <strong>Mammut Chalk Powder</strong> pure offre une excellente adhérence. La <strong>Black Diamond Loose Chalk</strong> en poudre fine reste l'option la plus universelle et accessible."
+    },
     {
       "q": "Poudre ou liquide, quoi choisir ?",
       "a": "Poudre pour le bloc et la falaise (adhérence supérieure). Liquide pour la salle moderne (zéro poussière, souvent imposé par les enseignes Climb Up, Vertical'Art, Arkose qui interdisent la poudre)."

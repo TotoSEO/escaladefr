@@ -19,6 +19,7 @@ import {
   formatCotationRange,
   formatTypeSite,
   departementHref,
+  isSiteIndexable,
   type SiteDetail,
 } from "@/lib/sites";
 
@@ -44,10 +45,15 @@ export async function generateMetadata(
   const title = `${site.nom}${dep} · Site d'escalade`;
   const desc = `${site.nom}, site d'escalade naturel à ${communeName(site.commune) || "France"}${dep}. Cotation ${cot}${site.nombre_voies ? `, ${site.nombre_voies} voies` : ""}.`;
 
+  // Pages thin (sans description, sans voies, sans accès rédigé) :
+  // noindex,follow pour éviter la pénalité 'thin content' Google.
+  const indexable = isSiteIndexable(site);
+
   return {
     title: title.length > 64 ? title.slice(0, 61) + "…" : title,
     description: desc.length > 158 ? desc.slice(0, 155) + "…" : desc,
     alternates: { canonical: `/sites/${id}/${siteSlug(site)}` },
+    robots: indexable ? undefined : { index: false, follow: true },
   };
 }
 

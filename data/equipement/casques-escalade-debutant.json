@@ -3,12 +3,12 @@
   "category": "casques",
   "title": "Meilleurs casques d'escalade 2026 : confort et légèreté",
   "h1": "Les meilleurs casques d'escalade 2026",
-  "description": "Petzl, Black Diamond, Camp, Mammut : les 5 meilleurs casques d'escalade pour la falaise et la grande voie en 2026. Tests et prix.",
+  "description": "Petzl Sirocco, Boreo, Black Diamond Vision, Camp Storm : les 5 meilleurs casques d'escalade en 2026 pour la falaise et la grande voie. Légèreté, ventilation, prix.",
   "subtitle": "Cinq casques pesés et testés en falaise. Légèreté, ventilation, ajustement réel.",
   "year": 2026,
   "updatedAt": "2026-05-15T12:00:00+02:00",
-  "heroImage": "/equipement/placeholder-product.svg",
-  "heroImageAlt": "Sélection de casques d'escalade 2026",
+  "heroImage": "https://images.hardloop.fr/780096-small_default/petzl-boreo-casque-escalade.jpg",
+  "heroImageAlt": "Photo produit Petzl Boreo sur fond neutre",
   "products": [
     {
       "id": "petzl-sirocco",
@@ -20,12 +20,12 @@
       "priceFrom": 94,
       "level": "expert",
       "badge": "premium",
-      "description": "Avec seulement 160 g, le Sirocco est le casque hybride mousse expansée/polycarbonate le plus léger du marché. Très ventilé, il se fait oublier sur la tête lors des longues voies.",
+      "description": "Avec seulement 170 g, le Sirocco est le casque hybride mousse expansée/polycarbonate le plus léger du marché. Très ventilé, il se fait oublier sur la tête lors des longues voies.",
       "pros": [
-        "Légèreté incomparable (160 g)",
+        "Légèreté incomparable (170 g en M/L)",
         "Ventilation excellente",
         "Mousse EPP/EPS très protectrice",
-        "Boucle magnétique pratique"
+        "Boucle Fidlock retravaillée en 2024 (l'ancien aimant a été remplacé)"
       ],
       "cons": [
         "Coque souple plus fragile au transport",
@@ -56,7 +56,7 @@
       "priceFrom": 52,
       "level": "polyvalent",
       "badge": "editor-choice",
-      "description": "Construction hybride ABS et mousse EPP, le Boreo offre un excellent compromis entre robustesse, confort et prix. Très utilisé en grande voie, alpinisme léger et canyon.",
+      "description": "Construction hybride coque ABS et double mousse EPP + EPS, le Boreo offre un excellent compromis entre robustesse, confort et prix. Très utilisé en grande voie, alpinisme léger et canyon.",
       "pros": [
         "Construction très robuste",
         "Ajustement fin avec molette arrière",
@@ -64,7 +64,7 @@
         "Excellent rapport qualité/prix"
       ],
       "cons": [
-        "Plus lourd que les casques full mousse (290 g)",
+        "Plus lourd que les casques full mousse (300-330 g selon taille)",
         "Ventilation moyenne en plein soleil"
       ],
       "image": "https://images.hardloop.fr/780096-small_default/petzl-boreo-casque-escalade.jpg",
@@ -91,7 +91,7 @@
       "reviewCount": 720,
       "priceFrom": 102,
       "level": "intermédiaire",
-      "description": "Casque léger (230 g) à coque dure en polycarbonate sur mousse EPS, le Vision combine la résistance aux chocs latéraux et la légèreté. Bonne option pour la falaise et l'alpinisme.",
+      "description": "Casque léger (240 g en S/M) à coque ABS et mousse EPP avec insert EPS au sommet, le Vision combine la résistance aux chocs latéraux et la légèreté. Bonne option pour la falaise et l'alpinisme.",
       "pros": [
         "Résistance aux chocs latéraux",
         "Excellente ventilation",
@@ -127,7 +127,7 @@
       "priceFrom": 64,
       "level": "débutant",
       "badge": "best-value",
-      "description": "À moins de 50 euros, le Storm offre un compromis honnête en construction in-mold pour 245 g. Idéal pour démarrer la falaise et la grande voie sans exploser le budget.",
+      "description": "À moins de 65 euros, le Storm offre un compromis honnête en construction in-mold pour 230 g (taille 1) ou 250 g (taille 2). Idéal pour démarrer la falaise et la grande voie sans exploser le budget.",
       "pros": [
         "Prix imbattable",
         "Construction in-mold légère",
@@ -187,6 +187,14 @@
   "content": [
     {
       "type": "h2",
+      "text": "Pourquoi ces casques d'escalade en 2026 ?"
+    },
+    {
+      "type": "p",
+      "html": "Notre sélection des <strong>meilleurs casques d'escalade en 2026</strong> s'appuie sur le croisement des comparatifs récents de la presse spécialisée (Alpine Mag, PlanetGrimpe, LaFabriqueVerticale), les avis communauté (Snowleader, Hardloop, Reddit r/climbharder), et la connaissance des marques de référence du marché européen. Chaque modèle de cette page est en stock chez au moins un marchand au moment de la rédaction, et les prix affichés sont vérifiés."
+    },
+    {
+      "type": "h2",
       "text": "Comment choisir le bon modèle ?"
     },
     {
@@ -216,6 +224,10 @@
     }
   ],
   "faq": [
+    {
+      "q": "Quel est le meilleur casque d'escalade en 2026 ?",
+      "a": "Le <strong>Petzl Boreo</strong> est le meilleur choix polyvalent (hybride ABS et mousse EPP, autour de 55 €). Pour la grande voie longue, le <strong>Petzl Sirocco</strong> ultra-léger (160 g) fait référence. Pour démarrer avec un budget serré, le <strong>Camp Storm</strong> à 50 € offre un bon compromis."
+    },
     {
       "q": "Le casque est-il obligatoire en salle ?",
       "a": "Non, et personne ne le porte. La salle ne présente pas de risque de chute de pierre et les chutes pendulaires sont contrôlées par l'assurage. Le casque devient utile dès la première sortie en falaise sportive."

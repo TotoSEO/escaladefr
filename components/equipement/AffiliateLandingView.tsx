@@ -42,10 +42,13 @@ function ratingStars(rating: number | undefined) {
 export function AffiliateLandingView({
   landing,
   relatedArticles,
+  otherLandings,
 }: {
   landing: AffiliateLanding;
   /** Articles liés déjà filtrés (publiés uniquement) avec leur H1 réel. */
   relatedArticles?: { slug: string; h1: string }[];
+  /** Autres LP équipement à proposer en maillage interne. */
+  otherLandings?: { slug: string; h1: string; categoryLabel: string }[];
 }) {
   const updatedDate = new Intl.DateTimeFormat("fr-FR", {
     day: "numeric",
@@ -324,6 +327,73 @@ export function AffiliateLandingView({
           </div>
         </section>
       )}
+
+      {/* Maillage inter-LP : suggère d'autres sélections équipement */}
+      {otherLandings && otherLandings.length > 0 && (
+        <section className="border-t border-white/10 surface-warm">
+          <div className="mx-auto max-w-7xl px-5 py-12 sm:px-8 sm:py-16 lg:px-12">
+            <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-accent">
+              § Compléter ton matériel
+            </span>
+            <ul className="mt-6 grid grid-cols-1 gap-3 sm:grid-cols-2 sm:gap-4 lg:grid-cols-3">
+              {otherLandings.map((l) => (
+                <li key={l.slug}>
+                  <Link
+                    href={`/equipement/${l.slug}`}
+                    className="group flex h-full flex-col gap-1.5 rounded-2xl border border-white/10 bg-coal-900/60 p-5 transition-colors hover:border-accent/40 hover:bg-coal-900"
+                  >
+                    <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-accent">
+                      {l.categoryLabel}
+                    </span>
+                    <span className="font-display text-base font-medium tracking-[-0.01em] text-foreground sm:text-lg">
+                      {l.h1}
+                    </span>
+                    <span className="mt-auto inline-flex items-center gap-1 text-xs uppercase tracking-[0.22em] text-accent/70 transition-colors group-hover:text-accent">
+                      Voir la sélection →
+                    </span>
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </section>
+      )}
+
+      {/* Footer EEAT auteur — signal Google de qualité éditoriale */}
+      <section className="border-t border-white/10">
+        <div className="mx-auto max-w-3xl px-5 py-12 sm:px-8 sm:py-16 lg:px-12">
+          <div className="flex flex-col gap-5 sm:flex-row sm:items-start sm:gap-7">
+            <div className="relative h-16 w-16 shrink-0 overflow-hidden rounded-full ring-1 ring-white/10 sm:h-20 sm:w-20">
+              <Image
+                src="/blog/antoine-escalade-france.webp"
+                alt="Antoine, rédacteur d'escalade-france.fr"
+                fill
+                sizes="80px"
+                className="object-cover"
+              />
+            </div>
+            <div>
+              <p className="font-mono text-[10px] uppercase tracking-[0.28em] text-primary">
+                Sélection rédigée par Antoine
+              </p>
+              <p className="mt-3 text-sm leading-relaxed text-foreground/85 sm:text-base">
+                Treize ans d&apos;escalade, ancien compétiteur jeune FFME, 8a
+                en falaise et 7b en bloc. Cette sélection croise les avis de
+                la communauté (Snowleader, Hardloop, forums Reddit
+                r/climbharder), la presse spécialisée (Alpine Mag,
+                PlanetGrimpe, LaFabriqueVerticale) et les marques de
+                référence du marché.
+              </p>
+              <p className="mt-3 text-xs text-foreground/60">
+                Dernière mise à jour : {updatedDate} ·{" "}
+                <Link href="/a-propos" className="text-primary hover:underline">
+                  En savoir plus sur l&apos;auteur
+                </Link>
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
     </PageShell>
   );
 }

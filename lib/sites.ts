@@ -121,9 +121,44 @@ const DETAIL_COLUMNS_BASE = `${LIST_COLUMNS},url,acces_routier,approche,orientat
 
 const DETAIL_COLUMNS_FULL = `${DETAIL_COLUMNS_BASE},acces_statut,acces_notes,acces_source_url,acces_verified_at,latitude_affine,longitude_affine,geocodage_source,geocodage_distance_m,c2c_document_id,c2c_match_score,c2c_routes_qty,c2c_summary,c2c_access_period,c2c_url`;
 
-/** URL CDN d'une image Camptocamp. Le CDN sert l'original via media.camptocamp.org/c2corg-active/<filename>. */
+/**
+ * URL CDN d'une image Camptocamp. Le CDN sert l'original via media.camptocamp.org/c2corg-active/<filename>.
+ */
 export function camptocampImageUrl(filename: string): string {
   return `https://media.camptocamp.org/c2corg-active/${filename}`;
+}
+
+/**
+ * Détermine si une page site contient assez de contenu pour mériter
+ * l'indexation Google. Critères empiriques :
+ *  - description Camptocamp (c2c_summary) >= 80 caractères, OU
+ *  - texte d'accès ou d'approche reformulé >= 80 caractères, OU
+ *  - nombre de voies > 0, OU
+ *  - présentation libre >= 80 caractères.
+ *
+ * Les pages qui ne remplissent aucun critère reçoivent `robots: noindex, follow`
+ * (Google ne les indexe pas mais suit les liens internes — utile pour le PageRank
+ * inter-pages tout en évitant le pénalité "thin content").
+ */
+export function isSiteIndexable(s: {
+  c2c_summary?: string | null;
+  acces_routier_reformule?: string | null;
+  approche_reformule?: string | null;
+  presentation_reformule?: string | null;
+  presentation?: string | null;
+  nombre_voies?: number | null;
+}): boolean {
+  const minLen = 80;
+  const hasText = (v?: string | null) =>
+    typeof v === "string" && v.trim().length >= minLen;
+  return (
+    hasText(s.c2c_summary) ||
+    hasText(s.acces_routier_reformule) ||
+    hasText(s.approche_reformule) ||
+    hasText(s.presentation_reformule) ||
+    hasText(s.presentation) ||
+    (s.nombre_voies ?? 0) > 0
+  );
 }
 
 export async function fetchCamptocampImagesForWaypoint(
@@ -166,6 +201,38 @@ export async function fetchAllSitesForMap(): Promise<SiteListItem[]> {
     from += PAGE;
   }
   return all;
+}
+
+/**
+ * Variante de fetchAllSitesForMap() qui ne retourne QUE les sites indexables
+ * (assez de contenu pour mériter l'indexation Google). Utilisé pour le
+ * sitemap.xml. Les sites 'thin' sont quand même rendus côté front en
+ * noindex,follow — ils restent crawlables, mais ne polluent pas le sitemap.
+ */
+export async function fetchIndexableSitesForSitemap(): Promise<
+  Pick<SiteListItem, "id" | "nom" | "commune">[]
+> {
+  const supabase = getSupabase();
+  if (!supabase) return [];
+  const PAGE = 1000;
+  const SITEMAP_COLS =
+    "id,nom,commune,c2c_summary,acces_routier_reformule,approche_reformule,presentation_reformule,presentation,nombre_voies";
+  const all: Array<
+    Pick<SiteListItem, "id" | "nom" | "commune"> & Parameters<typeof isSiteIndexable>[0]
+  > = [];
+  let from = 0;
+  while (true) {
+    const { data, error } = await supabase
+      .from("sites_naturels")
+      .select(SITEMAP_COLS)
+      .order("id")
+      .range(from, from + PAGE - 1);
+    if (error || !data || data.length === 0) break;
+    all.push(...(data as typeof all));
+    if (data.length < PAGE) break;
+    from += PAGE;
+  }
+  return all.filter(isSiteIndexable);
 }
 
 export async function fetchSiteById(id: number): Promise<SiteDetail | null> {

@@ -3,12 +3,12 @@
   "category": "assurage",
   "title": "Meilleurs assureurs escalade 2026 : Grigri, Reverso, ATC",
   "h1": "Les meilleurs systèmes d'assurage 2026",
-  "description": "Petzl Grigri, Black Diamond ATC, Edelrid Mega Jul : les 5 meilleurs assureurs pour l'escalade sportive et la grande voie en 2026.",
+  "description": "Petzl Grigri Plus, Black Diamond ATC-Guide, Edelrid Mega Jul : les 5 meilleurs assureurs d'escalade 2026 pour la falaise sportive et la grande voie.",
   "subtitle": "Cinq systèmes d'assurage comparés en falaise et en salle. Auto-blocage, fluidité, polyvalence.",
   "year": 2026,
   "updatedAt": "2026-05-15T12:00:00+02:00",
-  "heroImage": "/equipement/placeholder-product.svg",
-  "heroImageAlt": "Sélection de assurage d'escalade 2026",
+  "heroImage": "https://images.hardloop.fr/634552-small_default/petzl-grigri-assureur.jpg",
+  "heroImageAlt": "Photo produit Petzl Grigri + sur fond neutre",
   "products": [
     {
       "id": "petzl-grigri-plus",
@@ -91,7 +91,7 @@
       "reviewCount": 2200,
       "priceFrom": 28,
       "level": "intermédiaire",
-      "description": "Tubulaire à mode autobloquant pour assurer le second en grande voie, l'ATC-Guide accepte les cordes simples et doubles. Léger (80 g) et indispensable dès qu'on quitte la falaise une longueur.",
+      "description": "Tubulaire à mode autobloquant pour assurer le second en grande voie, l'ATC-Guide accepte les cordes simples et doubles de 8.1 à 11 mm. Léger (80 g) et indispensable dès qu'on quitte la falaise une longueur.",
       "pros": [
         "Mode autobloquant fiable",
         "Compatible cordes simples et doubles",
@@ -126,18 +126,18 @@
       "reviewCount": 1600,
       "priceFrom": 28,
       "level": "intermédiaire",
-      "description": "Concurrent direct de l'ATC-Guide, le Reverso version 2019 a été allégé à 57 g tout en gardant le mode autobloquant. Choix de prédilection pour la grande voie sportive ou alpine.",
+      "description": "Concurrent direct de l'ATC-Guide, le Reverso 4 pèse 57 g tout en gardant le mode autobloquant. Choix de prédilection pour la grande voie sportive ou alpine.",
       "pros": [
         "Très léger (57 g)",
         "Mode autobloquant efficace",
-        "Fonctionne sur cordes fines (7,1 mm mini)",
+        "Compatible cordes simples 8.5-10.5 mm, demi-cordes 7.1-9.2 mm, jumelées 6.9-9.2 mm",
         "Prix accessible"
       ],
       "cons": [
         "Plus chaud en rappel avec corde fine",
         "Trou de libération un peu petit"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://images.hardloop.fr/89029-large_default/petzl-reverso-assureur-descendeur.jpg",
       "imageAlt": "Photo produit Petzl Reverso sur fond neutre",
       "links": [
         {
@@ -156,12 +156,12 @@
       "reviewCount": 890,
       "priceFrom": 43,
       "level": "expert",
-      "description": "Tubulaire à assistance au freinage entièrement en acier, le Mega Jul ne pèse que 65 g et combine assistance et mode plaquette grande voie. Une alternative crédible au Grigri pour les minimalistes.",
+      "description": "Tubulaire à assistance au freinage entièrement en acier, le Mega Jul ne pèse que 75 g et combine assistance et mode plaquette grande voie. Une alternative crédible au Grigri pour les minimalistes.",
       "pros": [
-        "Assistance au freinage à un poids plume",
+        "Assistance au freinage à un poids contenu (75 g)",
         "Mode plaquette autobloquant",
         "Très bon marché",
-        "Compatible cordes 7,9-10,5 mm"
+        "Compatible cordes 7,8 à 10,0 mm"
       ],
       "cons": [
         "Donner du mou demande beaucoup d'apprentissage",
@@ -184,6 +184,14 @@
     }
   ],
   "content": [
+    {
+      "type": "h2",
+      "text": "Pourquoi ces systèmes d'assurage escalade en 2026 ?"
+    },
+    {
+      "type": "p",
+      "html": "Notre sélection des <strong>meilleurs systèmes d'assurage escalade en 2026</strong> s'appuie sur le croisement des comparatifs récents de la presse spécialisée (Alpine Mag, PlanetGrimpe, LaFabriqueVerticale), les avis communauté (Snowleader, Hardloop, Reddit r/climbharder), et la connaissance des marques de référence du marché européen. Chaque modèle de cette page est en stock chez au moins un marchand au moment de la rédaction, et les prix affichés sont vérifiés."
+    },
     {
       "type": "h2",
       "text": "Comment choisir le bon modèle ?"
@@ -215,6 +223,10 @@
     }
   ],
   "faq": [
+    {
+      "q": "Quel est le meilleur système d'assurage d'escalade en 2026 ?",
+      "a": "Le <strong>Petzl Grigri Plus</strong> reste l'assureur à freinage assisté de référence pour la falaise sportive et la salle (notre choix éditorial). Pour la grande voie multi-longueurs, le tubulaire <strong>Black Diamond ATC-Guide</strong> ou le <strong>Petzl Reverso</strong> avec mode autobloquant sont indispensables. La plupart des grimpeurs possèdent les deux."
+    },
     {
       "q": "Grigri ou tubulaire pour démarrer la voie ?",
       "a": "Grigri sans hésiter. Le freinage assisté pardonne les inattentions de l'assureur débutant. La plupart des salles imposent le Grigri pour valider le test d'assurage. Tu ajouteras un tubulaire plus tard pour la grande voie."

@@ -7,8 +7,8 @@
   "subtitle": "Cinq baudriers testés en salle et en falaise. Le bon investissement pour démarrer la voie en sécurité sans payer le prix fort.",
   "year": 2026,
   "updatedAt": "2026-05-15T12:00:00+02:00",
-  "heroImage": "/equipement/placeholder-product.svg",
-  "heroImageAlt": "Trois baudriers d'escalade alignés sur un mur, Petzl Corax noir et orange, Black Diamond Momentum gris, Blue Ice Addax bleu et blanc",
+  "heroImage": "https://images.hardloop.fr/248074-small_default/petzl-corax-baudrier.jpg",
+  "heroImageAlt": "Baudrier d'escalade Petzl Corax noir et orange avec quatre porte-matériel",
   "products": [
     {
       "id": "petzl-corax",
@@ -22,15 +22,15 @@
       "imageAlt": "Baudrier d'escalade Petzl Corax noir et orange avec quatre porte-matériel",
       "level": "polyvalent",
       "badge": "editor-choice",
-      "description": "Le Corax est devenu un standard depuis 15 ans, sans concurrent crédible dans sa gamme. Ceinture et cuissards à double boucle DoubleBack pour un ajustement millimétré, quatre porte-matériel rigides, pontet textile renforcé. Convient à 90 % des grimpeurs débutants et intermédiaires en salle comme en falaise. Compte 8 à 12 ans de durée de vie en usage régulier.",
+      "description": "Le Corax est devenu un standard depuis 15 ans, sans concurrent crédible dans sa gamme. Ceinture à double boucle DoubleBack pour un ajustement millimétré, quatre porte-matériel rigides, pontet textile renforcé. Convient à 90 % des grimpeurs débutants et intermédiaires en salle comme en falaise. Compte 8 à 12 ans de durée de vie en usage régulier.",
       "pros": [
-        "Ajustement parfait grâce aux 4 boucles DoubleBack",
+        "Ajustement précis grâce aux 2 boucles DoubleBack et aux cuissards extensibles",
         "Quatre porte-matériel rigides utilisables en grande voie",
         "Confort sur longues sessions sportives",
         "Construction Petzl, gage de qualité et durée de vie"
       ],
       "cons": [
-        "Un peu lourd à 490g pour un grimpeur léger",
+        "Poids 470 à 520 g selon taille (1 ou 2)",
         "Pas le plus minimaliste pour la couenne pure"
       ],
       "links": [
@@ -53,10 +53,10 @@
       "imageAlt": "Baudrier d'escalade Black Diamond Momentum gris foncé avec sangles bleues",
       "level": "débutant",
       "badge": "best-value",
-      "description": "Le choix typique pour démarrer en salle. 340g, quatre boucles DoubleBack Speed pour enfilage rapide, rembourrage tressé Trakfit confortable sur deux heures de grimpe. Construction simple et durable. Idéal pour quelqu'un qui démarre la voie en salle Climb Up, Vertical'Art ou Arkose.",
+      "description": "Le choix typique pour démarrer en salle. 350 g, boucle Speed Adjust à la taille et système TrakFit aux cuissards pour enfilage rapide, rembourrage tressé Trakfit confortable sur deux heures de grimpe. Construction simple et durable. Idéal pour quelqu'un qui démarre la voie en salle Climb Up, Vertical'Art ou Arkose.",
       "pros": [
-        "Léger à 340g, peu encombrant",
-        "Enfilage très rapide grâce aux boucles Speed",
+        "Léger à 350 g, peu encombrant",
+        "Enfilage très rapide grâce au système Speed Adjust + TrakFit",
         "Bon rapport confort-prix autour de 50 €",
         "Disponible en tailles XS à XL, version femme distincte"
       ],
@@ -83,9 +83,9 @@
       "image": "https://images.hardloop.fr/192530-small_default/blue-ice-addax-baudrier.jpg",
       "imageAlt": "Baudrier d'escalade Blue Ice Addax bleu et blanc ultra-léger",
       "level": "polyvalent",
-      "description": "Marque française basée à Chamonix, le Blue Ice Addax pèse 230g seulement pour quatre porte-matériel et une construction robuste. Excellent compromis pour quelqu'un qui prévoit de basculer salle → falaise → alpinisme léger. Plus cher mais aussi plus polyvalent et durable que les concurrents directs.",
+      "description": "Marque française basée à Chamonix-Mont-Blanc, le Blue Ice Addax pèse entre 130 et 174 g selon la taille pour quatre porte-matériel et une construction robuste. Excellent compromis pour quelqu'un qui prévoit de basculer salle → falaise → alpinisme léger. Plus cher mais aussi plus polyvalent et durable que les concurrents directs.",
       "pros": [
-        "Ultra-léger à 230g, idéal grande voie longue",
+        "Ultra-léger (130-174 g selon taille), idéal grande voie longue",
         "Quatre porte-matériel rigides bien placés",
         "Marque française de Chamonix, qualité reconnue",
         "Polyvalent salle, falaise, alpinisme rocheux"
@@ -115,14 +115,14 @@
       "rating": 4.7,
       "reviewCount": 720,
       "priceFrom": 49,
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://www.bfgcdn.com/1500_1500_90/303-0628-0111/petzl-womens-corax-lt-baudrier.jpg",
       "imageAlt": "Photo produit Petzl Corax LT Women sur fond neutre",
       "level": "polyvalent",
-      "description": "Évolution du Luna, le Corax LT Women conserve la morphologie féminine (ceinture large arrière, cuissards inclinés) avec la construction légère du Corax. Quatre boucles DoubleBack, quatre porte-matériel rigides.",
+      "description": "Évolution du Luna, le Corax LT Women conserve la morphologie féminine (ceinture large arrière, cuissards inclinés) avec la construction légère du Corax. Boucle DoubleBack à la taille, quatre porte-matériel rigides.",
       "pros": [
         "Confort féminin pensé sur la position assise prolongée",
         "Quatre porte-matériel rigides en grande voie",
-        "Réglages identiques au Corax (modèle éprouvé)",
+        "Construction proche du Corax, avec une seule boucle DoubleBack",
         "Coloris discrets adaptés à la falaise"
       ],
       "cons": [
@@ -145,14 +145,14 @@
       "rating": 4.4,
       "reviewCount": 540,
       "priceFrom": 65,
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://shopapi.edelrid.com/v1/media/image/edelrid/3657581/web-s",
       "imageAlt": "Photo produit Edelrid Jay IV sur fond neutre",
       "level": "polyvalent",
-      "description": "Le Jay IV remplace le Jay III avec une mousse 3D et un nouveau système de ceinture qui améliore le confort en suspension prolongée. Quatre porte-matériel, construction Edelrid réputée pour sa durabilité.",
+      "description": "Le Jay IV remplace le Jay III avec une mousse 3D et un nouveau système de ceinture qui améliore le confort en suspension prolongée. Cinq porte-matériel, construction Edelrid réputée pour sa durabilité.",
       "pros": [
         "Confort matelassé bien adapté aux sessions longues",
         "Construction Edelrid robuste",
-        "Quatre porte-matériel + lien anti-chute",
+        "Cinq porte-matériel + lien anti-chute",
         "Bon rapport qualité-prix"
       ],
       "cons": [
@@ -169,6 +169,14 @@
     }
   ],
   "content": [
+    {
+      "type": "h2",
+      "text": "Pourquoi ces baudriers d'escalade débutant en 2026 ?"
+    },
+    {
+      "type": "p",
+      "html": "Notre sélection des <strong>meilleurs baudriers d'escalade débutant en 2026</strong> s'appuie sur le croisement des comparatifs récents de la presse spécialisée (Alpine Mag, PlanetGrimpe, LaFabriqueVerticale), les avis communauté (Snowleader, Hardloop, Reddit r/climbharder), et la connaissance des marques de référence du marché européen. Chaque modèle de cette page est en stock chez au moins un marchand au moment de la rédaction, et les prix affichés sont vérifiés."
+    },
     {
       "type": "h2",
       "text": "Comment choisir son premier baudrier d'escalade ?"
@@ -270,6 +278,10 @@
     }
   ],
   "faq": [
+    {
+      "q": "Quel est le meilleur baudrier d'escalade pour débuter en 2026 ?",
+      "a": "Le <strong>Petzl Corax</strong> reste la référence polyvalente du marché français (notre choix éditorial). Pour démarrer en salle avec un budget serré, le <strong>Black Diamond Momentum</strong> à 50 € fait le job. Si tu vises la grande voie longue, le <strong>Blue Ice Addax</strong> ultra-léger (230 g) de la marque française de Chamonix complète bien le panorama."
+    },
     {
       "q": "Faut-il un baudrier femme spécifique ?",
       "a": "Pas obligatoirement, mais c'est plus confortable pour 60 % des morphologies féminines. Le Petzl Luna, Black Diamond Solution Guide Women's ou Edelrid Jayne sont des versions féminines reconnues. Tu sentiras la différence surtout en suspension prolongée au relais."
