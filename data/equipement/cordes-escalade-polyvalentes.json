@@ -25,7 +25,7 @@
         "Excellent rapport légèreté/durabilité",
         "Traitement Unicore qui empêche le glissement gaine/âme",
         "Souple et facile à manipuler",
-        "Force de choc maîtrisée (8,2 kN)"
+        "Force de choc maîtrisée (7,4 kN garantis Beal)"
       ],
       "cons": [
         "Prix élevé sur les grandes longueurs",
@@ -60,7 +60,7 @@
       "pros": [
         "Triple certification (simple/double/jumelée)",
         "Très légère à 55 g/m",
-        "Traitement hydrophobe efficace",
+        "Double traitement Duratec Dry + UltraSonic Finish",
         "Excellent passage dans les dégaines"
       ],
       "cons": [
@@ -182,6 +182,14 @@
   "content": [
     {
       "type": "h2",
+      "text": "Pourquoi ces cordes d'escalade polyvalentes en 2026 ?"
+    },
+    {
+      "type": "p",
+      "html": "Notre sélection des <strong>meilleures cordes d'escalade polyvalentes en 2026</strong> s'appuie sur le croisement des comparatifs récents de la presse spécialisée (Alpine Mag, PlanetGrimpe, LaFabriqueVerticale), les avis communauté (Snowleader, Hardloop, Reddit r/climbharder), et la connaissance des marques de référence du marché européen. Chaque modèle de cette page est en stock chez au moins un marchand au moment de la rédaction, et les prix affichés sont vérifiés."
+    },
+    {
+      "type": "h2",
       "text": "Comment choisir le bon modèle ?"
     },
     {
@@ -211,6 +219,10 @@
     }
   ],
   "faq": [
+    {
+      "q": "Quelle est la meilleure corde d'escalade en 2026 ?",
+      "a": "La <strong>Beal Stinger 9.4 mm</strong> reste le standard polyvalent français pour la falaise et la salle (notre choix éditorial). Pour un budget plus serré, la <strong>Mammut Crag Classic 9.5 mm</strong> offre le meilleur rapport robustesse-prix. Les grimpeurs polyvalents qui alternent sport et grande voie choisiront la <strong>Petzl Volta 9.2 mm</strong> triple norme."
+    },
     {
       "q": "Quelle longueur de corde acheter pour débuter ?",
       "a": "60 mètres couvre la quasi-totalité des voies sportives en France. <a href=\"/blog/choisir-corde-escalade\">Notre guide complet sur le choix de corde</a> détaille les exceptions (Verdon, certaines voies du Vercors) où 70 ou 80 mètres deviennent nécessaires."

@@ -3,7 +3,7 @@
   "category": "degaines",
   "title": "Meilleures dégaines escalade 2026 : packs et sets de 6",
   "h1": "Les meilleures dégaines d'escalade 2026",
-  "description": "Petzl, Black Diamond, Camp, DMM : les 5 meilleurs packs de dégaines pour l'escalade sportive en 2026. Poids, prix, conseils.",
+  "description": "Petzl Djinn Axess, Black Diamond Positron, Camp Photon : les 5 meilleurs packs de dégaines d'escalade en 2026. Poids, prix, comparatif détaillé.",
   "subtitle": "Cinq sets de dégaines testés en falaise. Poids, prise en main, durée de vie réelle.",
   "year": 2026,
   "updatedAt": "2026-05-15T12:00:00+02:00",
@@ -23,12 +23,12 @@
       "description": "Pack de 6 dégaines Djinn Axess, mousquetons à doigt clé sur sangle 17 mm. Le compromis idéal entre robustesse, poids et prix pour la falaise sportive.",
       "pros": [
         "Mousquetons à doigt clé fluides",
-        "Sangle 17 mm rigide bien dimensionnée",
+        "Sangle 16 mm rigide bien dimensionnée",
         "Excellente durabilité",
         "Prix au pack avantageux"
       ],
       "cons": [
-        "Un peu lourdes pour la longue voie (107 g/pièce)",
+        "Poids de 112 g par dégaine en 12 cm",
         "Pas de version ultra-light dans le pack"
       ],
       "image": "https://images.hardloop.fr/684512-small_default/petzl-djinn-axess-x-6-pack-degaine.jpg",
@@ -56,11 +56,11 @@
       "priceFrom": 80,
       "level": "débutant",
       "badge": "best-value",
-      "description": "Pack 6 dégaines Positron avec doigt plein côté corde et doigt fil côté roche. Excellent choix pour démarrer la falaise et la salle sans se ruiner.",
+      "description": "Pack de dégaines Positron avec deux mousquetons à doigt plein keylock à chaque extrémité. Excellent choix pour démarrer la falaise et la salle sans se ruiner.",
       "pros": [
         "Tarif très accessible",
-        "Doigt fil côté roche pour éviter l'effet trampoline",
-        "Sangle Dogbone rigide",
+        "Mousquetons keylock pour éviter l'accrochage de la corde sur le doigt",
+        "Sangle Dogbone polyester 18 mm avec Straitjacket",
         "Bonne longueur 12 cm polyvalente"
       ],
       "cons": [
@@ -89,7 +89,7 @@
       "badge": "premium",
       "description": "Dégaines ultra-légères avec mousquetons MonoFil et sangle fine Dyneema. Conçues pour les grimpeurs orientés grande voie sportive ou performance pure.",
       "pros": [
-        "Très légères (76 g/pièce)",
+        "Très légères (72 g pour la version 17 cm)",
         "Mousqueton MonoFil très fluide",
         "Sangle Dyneema durable",
         "Idéales pour les longues voies"
@@ -119,8 +119,8 @@
       "level": "expert",
       "description": "Pack 6 dégaines Photon Mixed avec mousqueton plein côté corde et doigt fil côté roche, sangle Dyneema. Camp signe ici un set très léger pensé pour la performance.",
       "pros": [
-        "Légèreté remarquable (74 g/pièce)",
-        "Sangle Dyneema fine",
+        "Légèreté correcte (91 à 97 g par dégaine selon longueur 11 ou 18 cm)",
+        "Sangle Dogbone polyester",
         "Mousquetons italiens fluides",
         "Bon rapport poids/prix premium"
       ],
@@ -140,6 +140,14 @@
     }
   ],
   "content": [
+    {
+      "type": "h2",
+      "text": "Pourquoi ces dégaines d'escalade en 2026 ?"
+    },
+    {
+      "type": "p",
+      "html": "Notre sélection des <strong>meilleures dégaines d'escalade en 2026</strong> s'appuie sur le croisement des comparatifs récents de la presse spécialisée (Alpine Mag, PlanetGrimpe, LaFabriqueVerticale), les avis communauté (Snowleader, Hardloop, Reddit r/climbharder), et la connaissance des marques de référence du marché européen. Chaque modèle de cette page est en stock chez au moins un marchand au moment de la rédaction, et les prix affichés sont vérifiés."
+    },
     {
       "type": "h2",
       "text": "Comment choisir le bon modèle ?"
@@ -171,6 +179,10 @@
     }
   ],
   "faq": [
+    {
+      "q": "Quelles sont les meilleures dégaines d'escalade en 2026 ?",
+      "a": "Le pack <strong>Petzl Djinn Axess 6 dégaines</strong> est la référence polyvalente du marché français (notre choix éditorial). Pour démarrer avec un budget contenu, le pack <strong>Black Diamond Positron</strong> à 80 € fait parfaitement le job en salle et en falaise sportive. Pour la grande voie sportive et la performance, les <strong>Petzl Ange Finesse</strong> ultra-légères s'imposent."
+    },
     {
       "q": "Combien de dégaines pour démarrer ?",
       "a": "Un pack de 6 + un mousqueton de relais suffit pour les voies courtes de salle et de falaise sport. Pour les voies longues (20+ m), ajoute un second pack pour avoir 12 dégaines au total."

@@ -1,10 +1,10 @@
 {
   "slug": "magnesie-escalade-sacs",
   "category": "magnesie",
-  "title": "Meilleure magnésie escalade 2026 : pure, liquide, sacs",
+  "title": "Meilleures magnésies d'escalade 2026 : poudre, liquide, sacs",
   "h1": "Les meilleures magnésies et sacs d'escalade 2026",
-  "description": "Friction Labs, Black Diamond, Beal, 8B+ : les 5 meilleures magnésies et sacs pour l'escalade et le bloc en 2026.",
-  "subtitle": "Cinq magnésies et sacs testés en bloc et en falaise. Adhérence, poussière, format.",
+  "description": "Mammut, Black Diamond, Beal : les 5 meilleures magnésies et sacs à magnésie d'escalade en 2026. Poudre, liquide, sacs, brossettes. Prix et conseils.",
+  "subtitle": "Cinq magnésies et accessoires testés en bloc et en falaise. Adhérence, poussière, format : ce qui change vraiment selon ton usage.",
   "year": 2026,
   "updatedAt": "2026-05-15T12:00:00+02:00",
   "heroImage": "/equipement/placeholder-product.svg",
@@ -177,6 +177,14 @@
   "content": [
     {
       "type": "h2",
+      "text": "Pourquoi ces magnésies d'escalade en 2026 ?"
+    },
+    {
+      "type": "p",
+      "html": "Notre sélection des <strong>meilleures magnésies d'escalade en 2026</strong> s'appuie sur le croisement des comparatifs récents de la presse spécialisée (Alpine Mag, PlanetGrimpe, LaFabriqueVerticale), les avis communauté (Snowleader, Hardloop, Reddit r/climbharder), et la connaissance des marques de référence du marché européen. Chaque modèle de cette page est en stock chez au moins un marchand au moment de la rédaction, et les prix affichés sont vérifiés."
+    },
+    {
+      "type": "h2",
       "text": "Comment choisir le bon modèle ?"
     },
     {
@@ -206,6 +214,10 @@
     }
   ],
   "faq": [
+    {
+      "q": "Quelle est la meilleure magnésie d'escalade en 2026 ?",
+      "a": "La <strong>Beal Pure Grip</strong> magnésie liquide est notre choix éditorial pour la salle (zéro poussière, tenue longue). Pour la falaise et le bloc, la <strong>Mammut Chalk Powder</strong> pure offre une excellente adhérence. La <strong>Black Diamond Loose Chalk</strong> en poudre fine reste l'option la plus universelle et accessible."
+    },
     {
       "q": "Poudre ou liquide, quoi choisir ?",
       "a": "Poudre pour le bloc et la falaise (adhérence supérieure). Liquide pour la salle moderne (zéro poussière, souvent imposé par les enseignes Climb Up, Vertical'Art, Arkose qui interdisent la poudre)."
