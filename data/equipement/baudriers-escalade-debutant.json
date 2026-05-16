@@ -7,8 +7,8 @@
   "subtitle": "Cinq baudriers testés en salle et en falaise. Le bon investissement pour démarrer la voie en sécurité sans payer le prix fort.",
   "year": 2026,
   "updatedAt": "2026-05-15T12:00:00+02:00",
-  "heroImage": "/equipement/placeholder-product.svg",
-  "heroImageAlt": "Trois baudriers d'escalade alignés sur un mur, Petzl Corax noir et orange, Black Diamond Momentum gris, Blue Ice Addax bleu et blanc",
+  "heroImage": "https://images.hardloop.fr/248074-small_default/petzl-corax-baudrier.jpg",
+  "heroImageAlt": "Baudrier d'escalade Petzl Corax noir et orange avec quatre porte-matériel",
   "products": [
     {
       "id": "petzl-corax",
@@ -115,7 +115,7 @@
       "rating": 4.7,
       "reviewCount": 720,
       "priceFrom": 49,
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://www.bfgcdn.com/1500_1500_90/303-0628-0111/petzl-womens-corax-lt-baudrier.jpg",
       "imageAlt": "Photo produit Petzl Corax LT Women sur fond neutre",
       "level": "polyvalent",
       "description": "Évolution du Luna, le Corax LT Women conserve la morphologie féminine (ceinture large arrière, cuissards inclinés) avec la construction légère du Corax. Boucle DoubleBack à la taille, quatre porte-matériel rigides.",
@@ -145,7 +145,7 @@
       "rating": 4.4,
       "reviewCount": 540,
       "priceFrom": 65,
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://shopapi.edelrid.com/v1/media/image/edelrid/3657581/web-s",
       "imageAlt": "Photo produit Edelrid Jay IV sur fond neutre",
       "level": "polyvalent",
       "description": "Le Jay IV remplace le Jay III avec une mousse 3D et un nouveau système de ceinture qui améliore le confort en suspension prolongée. Cinq porte-matériel, construction Edelrid réputée pour sa durabilité.",

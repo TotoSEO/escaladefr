@@ -7,8 +7,8 @@
   "subtitle": "Cinq cordes sport testées en salle et en falaise. Diamètre, force de choc, durée de vie réelle.",
   "year": 2026,
   "updatedAt": "2026-05-15T12:00:00+02:00",
-  "heroImage": "/equipement/placeholder-product.svg",
-  "heroImageAlt": "Sélection de cordes d'escalade 2026",
+  "heroImage": "https://images.hardloop.fr/156431-small_default/beal-stinger-94mm-golden-dry-corde.jpg",
+  "heroImageAlt": "Photo produit Beal Stinger 9.4 mm sur fond neutre",
   "products": [
     {
       "id": "beal-stinger-9-4",

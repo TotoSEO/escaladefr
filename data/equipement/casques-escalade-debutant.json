@@ -7,8 +7,8 @@
   "subtitle": "Cinq casques pesés et testés en falaise. Légèreté, ventilation, ajustement réel.",
   "year": 2026,
   "updatedAt": "2026-05-15T12:00:00+02:00",
-  "heroImage": "/equipement/placeholder-product.svg",
-  "heroImageAlt": "Sélection de casques d'escalade 2026",
+  "heroImage": "https://images.hardloop.fr/780096-small_default/petzl-boreo-casque-escalade.jpg",
+  "heroImageAlt": "Photo produit Petzl Boreo sur fond neutre",
   "products": [
     {
       "id": "petzl-sirocco",

@@ -7,8 +7,8 @@
   "subtitle": "Cinq systèmes d'assurage comparés en falaise et en salle. Auto-blocage, fluidité, polyvalence.",
   "year": 2026,
   "updatedAt": "2026-05-15T12:00:00+02:00",
-  "heroImage": "/equipement/placeholder-product.svg",
-  "heroImageAlt": "Sélection de assurage d'escalade 2026",
+  "heroImage": "https://images.hardloop.fr/634552-small_default/petzl-grigri-assureur.jpg",
+  "heroImageAlt": "Photo produit Petzl Grigri + sur fond neutre",
   "products": [
     {
       "id": "petzl-grigri-plus",
@@ -137,7 +137,7 @@
         "Plus chaud en rappel avec corde fine",
         "Trou de libération un peu petit"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://images.hardloop.fr/89029-large_default/petzl-reverso-assureur-descendeur.jpg",
       "imageAlt": "Photo produit Petzl Reverso sur fond neutre",
       "links": [
         {

@@ -7,8 +7,8 @@
   "subtitle": "Cinq magnésies et accessoires testés en bloc et en falaise. Adhérence, poussière, format : ce qui change vraiment selon ton usage.",
   "year": 2026,
   "updatedAt": "2026-05-15T12:00:00+02:00",
-  "heroImage": "/equipement/placeholder-product.svg",
-  "heroImageAlt": "Sélection de magnesie d'escalade 2026",
+  "heroImage": "https://images.hardloop.fr/18831-large_default/beal-pure-grip-magnesie.jpg",
+  "heroImageAlt": "Photo produit Beal Pro Liquid Chalk sur fond neutre",
   "products": [
     {
       "id": "friction-labs-unicorn-dust",
@@ -31,7 +31,7 @@
         "Prix au kilo très élevé",
         "Disponibilité limitée en boutiques physiques"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://static.mammut.com/cdn-cgi/image/width=4096,quality=85,f=auto,metadata=none/master/2050-00582-9001_main-grey_77557.jpg",
       "imageAlt": "Photo produit Mammut Chalk Powder sur fond neutre",
       "links": [
         {
@@ -62,7 +62,7 @@
         "Génère pas mal de poussière",
         "Moins pure que les marques premium"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://blackdiamondequipment.com/cdn/shop/files/550531_0000_ECO_GOLD_LIQUID_CHALK_NO_COLOR_01.jpg?v=1742402123",
       "imageAlt": "Photo produit Black Diamond Eco Gold Liquid Chalk sur fond neutre",
       "links": [
         {
@@ -98,7 +98,7 @@
         "Assèche la peau sur usage intensif",
         "Inflammable au transport en avion"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://images.hardloop.fr/18831-large_default/beal-pure-grip-magnesie.jpg",
       "imageAlt": "Photo produit Beal Pro Liquid Chalk sur fond neutre",
       "links": [
         {
@@ -133,7 +133,7 @@
         "Prix élevé pour un sac à magnésie",
         "Format plutôt orienté grande contenance"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://images.hardloop.fr/19811-large_default/mammut-stitch-chalk-bag-sac-a-magnesie.jpg",
       "imageAlt": "Photo produit Mammut Stitch Chalk Bag sur fond neutre",
       "links": [
         {
@@ -163,7 +163,7 @@
         "Brossettes vendues séparément",
         "Poussière modérée en salle"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://images.hardloop.fr/2713-large_default/black-diamond-loose-chalk-200g-magnesie.jpg",
       "imageAlt": "Photo produit Black Diamond Loose Chalk 200g sur fond neutre",
       "links": [
         {

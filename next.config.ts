@@ -55,6 +55,11 @@ const nextConfig: NextConfig = {
       { protocol: "https", hostname: "ocun.com", pathname: "/**" },
       // Wikipedia (fallback)
       { protocol: "https", hostname: "upload.wikimedia.org", pathname: "/**" },
+      // CDN tiers utilisés pour les LP équipement (sources alternatives)
+      { protocol: "https", hostname: "www.bfgcdn.com", pathname: "/**" },
+      { protocol: "https", hostname: "shopapi.edelrid.com", pathname: "/**" },
+      { protocol: "https", hostname: "static.mammut.com", pathname: "/**" },
+      { protocol: "https", hostname: "www.wildernessx.com", pathname: "/**" },
     ],
   },
 };

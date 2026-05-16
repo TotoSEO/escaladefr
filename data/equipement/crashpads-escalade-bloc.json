@@ -7,8 +7,8 @@
   "subtitle": "Cinq matelas de bloc testés en falaise et en forêt. Amorti, portage, durabilité réelle.",
   "year": 2026,
   "updatedAt": "2026-05-15T12:00:00+02:00",
-  "heroImage": "/equipement/placeholder-product.svg",
-  "heroImageAlt": "Sélection de crashpads d'escalade 2026",
+  "heroImage": "https://www.bfgcdn.com/1500_1500_90/331-0115-0111/petzl-cirro-crash-pad.jpg",
+  "heroImageAlt": "Photo produit Petzl Cirro sur fond neutre",
   "products": [
     {
       "id": "black-diamond-mondo",
@@ -62,7 +62,7 @@
         "Format taco moins compact en voiture",
         "Prix au-dessus de la moyenne"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://www.bfgcdn.com/1500_1500_90/331-0115-0111/petzl-cirro-crash-pad.jpg",
       "imageAlt": "Photo produit Petzl Cirro sur fond neutre",
       "links": [
         {
@@ -93,7 +93,7 @@
         "Mousse qui se tasse après quelques saisons",
         "Toile extérieure moyennement résistante à l'abrasion"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://www.beal-planet.com/cdn/shop/files/BEAL_AIR_LIGHT_01_LD_ce6c969f-249c-4a7b-bdab-c54a94efdf15.png?v=1774435112&width=1000",
       "imageAlt": "Photo produit Beal Air Light sur fond neutre",
       "links": [
         {
@@ -158,7 +158,7 @@
         "Zones de pliage plus fragiles que les tacos",
         "Amorti moyen sur les hauts blocs"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://www.beal-planet.com/cdn/shop/files/BEAL_DOUBLE_AIR_BAG_01_LD_634fde67-6c6c-4b62-9724-6feaab042e95.png?v=1777544423&width=1000",
       "imageAlt": "Photo produit Beal Double Air Bag sur fond neutre",
       "links": [
         {

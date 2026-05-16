@@ -7,8 +7,8 @@
   "subtitle": "Cinq chaussons testés pour bien débuter en salle ou en falaise. Confort, sensation, durée de vie : ce qu'on retient après plusieurs saisons d'usage.",
   "year": 2026,
   "updatedAt": "2026-05-15T12:00:00+02:00",
-  "heroImage": "/equipement/placeholder-product.svg",
-  "heroImageAlt": "Trois paires de chaussons d'escalade débutant alignées sur un parquet de salle, La Sportiva Tarantula orange, Scarpa Vapor V violet, Five Ten Anasazi VCS bleu",
+  "heroImage": "https://images.hardloop.fr/773834-small_default/scarpa-vapor-v-chaussons-escalade-homme.jpg",
+  "heroImageAlt": "Chausson d'escalade Scarpa Vapor V violet et noir avec fermeture Velcro",
   "products": [
     {
       "id": "la-sportiva-tarantula",
@@ -90,7 +90,7 @@
       "rating": 4.5,
       "reviewCount": 1240,
       "priceFrom": 140,
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://images.hardloop.fr/227903-large_default/five-ten-niad-vcs-chaussons-escalade-homme.jpg",
       "imageAlt": "Photo produit Five Ten NIAD VCS sur fond neutre",
       "level": "polyvalent",
       "description": "Le NIAD VCS reprend le concept du Anasazi VCS (forme plate, gomme Stealth C4, deux scratchs croisés) avec une tige modernisée. C'est aujourd'hui le modèle de référence Five Ten pour la dalle et la voie sportive.",

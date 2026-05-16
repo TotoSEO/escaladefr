@@ -7,8 +7,8 @@
   "subtitle": "Cinq sets de dégaines testés en falaise. Poids, prise en main, durée de vie réelle.",
   "year": 2026,
   "updatedAt": "2026-05-15T12:00:00+02:00",
-  "heroImage": "/equipement/placeholder-product.svg",
-  "heroImageAlt": "Sélection de degaines d'escalade 2026",
+  "heroImage": "https://images.hardloop.fr/684512-small_default/petzl-djinn-axess-x-6-pack-degaine.jpg",
+  "heroImageAlt": "Photo produit Petzl Djinn Axess (pack 6) sur fond neutre",
   "products": [
     {
       "id": "petzl-djinn-axess-pack",
@@ -67,7 +67,7 @@
         "Plus lourd que le Djinn",
         "Finition moins premium"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://images.hardloop.fr/64510-large_default/black-diamond-positron-quickdraw-degaine.jpg",
       "imageAlt": "Photo produit Black Diamond Positron (pack 6) sur fond neutre",
       "links": [
         {
@@ -98,7 +98,7 @@
         "Prix élevé",
         "Sangle fine moins agréable en main que les sangles 17 mm"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://www.petzl.com/sfc/servlet.shepherd/version/download/0681r000004zMqEAAU",
       "imageAlt": "Photo produit Petzl Ange Finesse (pack 6) sur fond neutre",
       "links": [
         {
@@ -128,7 +128,7 @@
         "Mousquetons un peu petits à clipper",
         "Distribution plus limitée en France"
       ],
-      "image": "/equipement/placeholder-product.svg",
+      "image": "https://www.wildernessx.com/cdn/shop/files/camp-usa-photon-mx-express-ks-quickdraw-1_58bc9bab-a172-4c8c-9184-2d6e974245bc.jpg?v=1718092095&width=1445",
       "imageAlt": "Photo produit Camp Photon Mixed (pack 6) sur fond neutre",
       "links": [
         {
