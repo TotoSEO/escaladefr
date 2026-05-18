@@ -1,0 +1,7 @@
+<svg width="180" height="180" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="escalade-france.fr">
+  <title>escalade-france.fr</title>
+  <rect width="180" height="180" rx="40" fill="#050505"/>
+  <path d="M30 142 L90 36 L150 142 Z" fill="#06b0e8"/>
+  <path d="M102 142 L78 112 L94 84 L82 56 L90 36" fill="none" stroke="#ff7a26" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="90" cy="36" r="9" fill="#ff7a26"/>
+</svg>

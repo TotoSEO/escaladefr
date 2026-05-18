@@ -1,0 +1,6 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="escalade-france.fr">
+  <title>escalade-france.fr</title>
+  <path d="M4 27 L16 6 L28 27 Z" fill="#06b0e8"/>
+  <path d="M18 27 L13 21 L17 16 L14 11 L16 6" fill="none" stroke="#ff7a26" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="16" cy="6" r="2" fill="#ff7a26"/>
+</svg>
