@@ -23,18 +23,18 @@ export default async function EquipementHubPage() {
     "@graph": [
       {
         "@type": "CollectionPage",
-        "@id": "https://escalade-france.fr/equipement",
-        url: "https://escalade-france.fr/equipement",
+        "@id": "https://www.escalade-france.fr/equipement",
+        url: "https://www.escalade-france.fr/equipement",
         name: "Trouver son équipement d'escalade",
         description:
           "Sélections de matériel d'escalade testé et comparatifs honnêtes pour bien acheter.",
-        isPartOf: { "@id": "https://escalade-france.fr/#website" },
+        isPartOf: { "@id": "https://www.escalade-france.fr/#website" },
       },
       {
         "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://escalade-france.fr" },
-          { "@type": "ListItem", position: 2, name: "Équipement", item: "https://escalade-france.fr/equipement" },
+          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://www.escalade-france.fr" },
+          { "@type": "ListItem", position: 2, name: "Équipement", item: "https://www.escalade-france.fr/equipement" },
         ],
       },
       ...(landings.length > 0
@@ -46,7 +46,7 @@ export default async function EquipementHubPage() {
                 "@type": "ListItem",
                 position: i + 1,
                 name: l.h1,
-                url: `https://escalade-france.fr/equipement/${l.slug}`,
+                url: `https://www.escalade-france.fr/equipement/${l.slug}`,
               })),
             },
           ]

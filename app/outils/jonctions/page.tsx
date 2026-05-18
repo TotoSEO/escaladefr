@@ -48,7 +48,7 @@ export default function JonctionsPage() {
         applicationCategory: "SportsApplication",
         operatingSystem: "Web",
         offers: { "@type": "Offer", price: "0", priceCurrency: "EUR" },
-        url: "https://escalade-france.fr/outils/jonctions",
+        url: "https://www.escalade-france.fr/outils/jonctions",
       },
       {
         "@type": "FAQPage",
@@ -61,13 +61,13 @@ export default function JonctionsPage() {
       {
         "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://escalade-france.fr" },
-          { "@type": "ListItem", position: 2, name: "Outils", item: "https://escalade-france.fr/outils" },
+          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://www.escalade-france.fr" },
+          { "@type": "ListItem", position: 2, name: "Outils", item: "https://www.escalade-france.fr/outils" },
           {
             "@type": "ListItem",
             position: 3,
             name: "Calculateur de jonctions",
-            item: "https://escalade-france.fr/outils/jonctions",
+            item: "https://www.escalade-france.fr/outils/jonctions",
           },
         ],
       },

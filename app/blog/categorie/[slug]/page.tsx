@@ -55,7 +55,7 @@ export async function generateMetadata(
       title: COCON_TITLE[cocon],
       description: COCON_DESCRIPTION[cocon],
       type: "website",
-      url: `https://escalade-france.fr/blog/categorie/${slug}`,
+      url: `https://www.escalade-france.fr/blog/categorie/${slug}`,
     },
   };
 }
@@ -81,18 +81,18 @@ export default async function CoconPage(
     "@graph": [
       {
         "@type": "CollectionPage",
-        "@id": `https://escalade-france.fr/blog/categorie/${slug}`,
-        url: `https://escalade-france.fr/blog/categorie/${slug}`,
+        "@id": `https://www.escalade-france.fr/blog/categorie/${slug}`,
+        url: `https://www.escalade-france.fr/blog/categorie/${slug}`,
         name: COCON_TITLE[cocon],
         description,
-        isPartOf: { "@id": "https://escalade-france.fr/blog" },
+        isPartOf: { "@id": "https://www.escalade-france.fr/blog" },
       },
       {
         "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://escalade-france.fr" },
-          { "@type": "ListItem", position: 2, name: "Blog", item: "https://escalade-france.fr/blog" },
-          { "@type": "ListItem", position: 3, name: h1, item: `https://escalade-france.fr/blog/categorie/${slug}` },
+          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://www.escalade-france.fr" },
+          { "@type": "ListItem", position: 2, name: "Blog", item: "https://www.escalade-france.fr/blog" },
+          { "@type": "ListItem", position: 3, name: h1, item: `https://www.escalade-france.fr/blog/categorie/${slug}` },
         ],
       },
       ...(articles.length > 0
@@ -104,7 +104,7 @@ export default async function CoconPage(
                 "@type": "ListItem",
                 position: i + 1,
                 name: a.h1,
-                url: `https://escalade-france.fr${articleHref(a.slug)}`,
+                url: `https://www.escalade-france.fr${articleHref(a.slug)}`,
               })),
             },
           ]

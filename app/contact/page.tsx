@@ -65,25 +65,25 @@ export default function ContactPage() {
     "@graph": [
       {
         "@type": "ContactPage",
-        "@id": "https://escalade-france.fr/contact",
-        url: "https://escalade-france.fr/contact",
+        "@id": "https://www.escalade-france.fr/contact",
+        url: "https://www.escalade-france.fr/contact",
         name: "Contact escalade-france.fr",
         description:
           "Page de contact d'escalade-france.fr. Email contact@escalade-france.fr.",
-        isPartOf: { "@id": "https://escalade-france.fr/#website" },
+        isPartOf: { "@id": "https://www.escalade-france.fr/#website" },
       },
       {
         "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://escalade-france.fr" },
-          { "@type": "ListItem", position: 2, name: "Contact", item: "https://escalade-france.fr/contact" },
+          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://www.escalade-france.fr" },
+          { "@type": "ListItem", position: 2, name: "Contact", item: "https://www.escalade-france.fr/contact" },
         ],
       },
       {
         "@type": "Organization",
-        "@id": "https://escalade-france.fr/#organization",
+        "@id": "https://www.escalade-france.fr/#organization",
         name: "escalade-france.fr",
-        url: "https://escalade-france.fr",
+        url: "https://www.escalade-france.fr",
         contactPoint: {
           "@type": "ContactPoint",
           email: EMAIL,

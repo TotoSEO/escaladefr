@@ -50,7 +50,7 @@ HEADERS = {
 
 USER_AGENT = (
     "Mozilla/5.0 (compatible; escalade-france.fr/1.0; "
-    "+https://escalade-france.fr)"
+    "+https://www.escalade-france.fr)"
 )
 HTTP_TIMEOUT = 12
 PARALLELISM = 8

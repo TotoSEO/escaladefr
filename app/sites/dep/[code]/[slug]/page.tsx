@@ -93,20 +93,20 @@ export default async function DepartementPage(
     "@graph": [
       {
         "@type": "CollectionPage",
-        "@id": `https://escalade-france.fr/sites/dep/${code}/${canonicalSlug}`,
-        url: `https://escalade-france.fr/sites/dep/${code}/${canonicalSlug}`,
+        "@id": `https://www.escalade-france.fr/sites/dep/${code}/${canonicalSlug}`,
+        url: `https://www.escalade-france.fr/sites/dep/${code}/${canonicalSlug}`,
         name: `Sites d'escalade en ${departement}`,
         description:
           seo?.intro ??
           `Sites naturels d'escalade dans le département ${departement}.`,
-        isPartOf: { "@id": "https://escalade-france.fr/#website" },
+        isPartOf: { "@id": "https://www.escalade-france.fr/#website" },
       },
       {
         "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://escalade-france.fr" },
-          { "@type": "ListItem", position: 2, name: "Sites naturels", item: "https://escalade-france.fr/sites" },
-          { "@type": "ListItem", position: 3, name: departement, item: `https://escalade-france.fr/sites/dep/${code}/${canonicalSlug}` },
+          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://www.escalade-france.fr" },
+          { "@type": "ListItem", position: 2, name: "Sites naturels", item: "https://www.escalade-france.fr/sites" },
+          { "@type": "ListItem", position: 3, name: departement, item: `https://www.escalade-france.fr/sites/dep/${code}/${canonicalSlug}` },
         ],
       },
       {
@@ -117,7 +117,7 @@ export default async function DepartementPage(
           "@type": "ListItem",
           position: i + 1,
           name: s.nom,
-          url: `https://escalade-france.fr${siteHref(s)}`,
+          url: `https://www.escalade-france.fr${siteHref(s)}`,
         })),
       },
     ],

@@ -16,12 +16,12 @@ export default function MentionsLegalesPage() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "@id": "https://escalade-france.fr/mentions-legales",
-    url: "https://escalade-france.fr/mentions-legales",
+    "@id": "https://www.escalade-france.fr/mentions-legales",
+    url: "https://www.escalade-france.fr/mentions-legales",
     name: "Mentions légales",
     description:
       "Mentions légales du site escalade-france.fr conformes à la LCEN.",
-    isPartOf: { "@id": "https://escalade-france.fr/#website" },
+    isPartOf: { "@id": "https://www.escalade-france.fr/#website" },
   };
 
   return (

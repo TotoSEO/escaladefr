@@ -52,9 +52,9 @@ export default async function Home() {
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://escalade-france.fr/#organization",
+        "@id": "https://www.escalade-france.fr/#organization",
         name: "escalade-france.fr",
-        url: "https://escalade-france.fr",
+        url: "https://www.escalade-france.fr",
         description:
           "Annuaire indépendant des sites naturels d'escalade et des salles d'escalade en France.",
         foundingDate: "2026",
@@ -70,24 +70,24 @@ export default async function Home() {
       },
       {
         "@type": "WebSite",
-        "@id": "https://escalade-france.fr/#website",
-        url: "https://escalade-france.fr",
+        "@id": "https://www.escalade-france.fr/#website",
+        url: "https://www.escalade-france.fr",
         name: "escalade-france.fr",
         description:
           "Annuaire indépendant de l'escalade en France : 3 500 sites naturels, salles, outils, cartographie.",
-        publisher: { "@id": "https://escalade-france.fr/#organization" },
+        publisher: { "@id": "https://www.escalade-france.fr/#organization" },
         inLanguage: "fr-FR",
       },
       {
         "@type": "WebPage",
-        "@id": "https://escalade-france.fr/",
-        url: "https://escalade-france.fr",
+        "@id": "https://www.escalade-france.fr/",
+        url: "https://www.escalade-france.fr",
         name: "escalade-france.fr · sites naturels et salles d'escalade",
-        isPartOf: { "@id": "https://escalade-france.fr/#website" },
-        about: { "@id": "https://escalade-france.fr/#organization" },
+        isPartOf: { "@id": "https://www.escalade-france.fr/#website" },
+        about: { "@id": "https://www.escalade-france.fr/#organization" },
         primaryImageOfPage: {
           "@type": "ImageObject",
-          url: "https://escalade-france.fr/hero/falaise.jpg",
+          url: "https://www.escalade-france.fr/hero/falaise.jpg",
         },
       },
       ...(stats.topDepartements.length > 0
@@ -101,7 +101,7 @@ export default async function Home() {
                 "@type": "ListItem",
                 position: i + 1,
                 name: d.departement,
-                url: `https://escalade-france.fr${departementHref(d.code_departement, d.departement)}`,
+                url: `https://www.escalade-france.fr${departementHref(d.code_departement, d.departement)}`,
               })),
             },
           ]

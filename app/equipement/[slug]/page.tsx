@@ -32,10 +32,10 @@ export async function generateMetadata(
       title: landing.title,
       description: landing.description,
       type: "article",
-      url: `https://escalade-france.fr/equipement/${landing.slug}`,
+      url: `https://www.escalade-france.fr/equipement/${landing.slug}`,
       images: [
         {
-          url: `https://escalade-france.fr${landing.heroImage}`,
+          url: `https://www.escalade-france.fr${landing.heroImage}`,
           width: 1600,
           height: 900,
           alt: landing.heroImageAlt,
@@ -75,22 +75,22 @@ export default async function EquipementLandingPage(
       categoryLabel: CATEGORY_LABEL[l.category],
     }));
 
-  const url = `https://escalade-france.fr/equipement/${landing.slug}`;
+  const url = `https://www.escalade-france.fr/equipement/${landing.slug}`;
 
   const jsonLd = {
     "@context": "https://schema.org",
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://escalade-france.fr/#organization",
+        "@id": "https://www.escalade-france.fr/#organization",
         name: "escalade-france.fr",
-        url: "https://escalade-france.fr",
+        url: "https://www.escalade-france.fr",
       },
       {
         "@type": "Person",
-        "@id": "https://escalade-france.fr/a-propos#antoine",
+        "@id": "https://www.escalade-france.fr/a-propos#antoine",
         name: "Antoine",
-        url: "https://escalade-france.fr/a-propos",
+        url: "https://www.escalade-france.fr/a-propos",
       },
       {
         "@type": "WebPage",
@@ -98,7 +98,7 @@ export default async function EquipementLandingPage(
         url,
         name: landing.title,
         description: landing.description,
-        isPartOf: { "@id": "https://escalade-france.fr/#website" },
+        isPartOf: { "@id": "https://www.escalade-france.fr/#website" },
         inLanguage: "fr-FR",
         breadcrumb: { "@id": `${url}#breadcrumb` },
       },
@@ -106,8 +106,8 @@ export default async function EquipementLandingPage(
         "@type": "BreadcrumbList",
         "@id": `${url}#breadcrumb`,
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://escalade-france.fr" },
-          { "@type": "ListItem", position: 2, name: "Équipement", item: "https://escalade-france.fr/equipement" },
+          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://www.escalade-france.fr" },
+          { "@type": "ListItem", position: 2, name: "Équipement", item: "https://www.escalade-france.fr/equipement" },
           { "@type": "ListItem", position: 3, name: CATEGORY_LABEL[landing.category], item: url },
         ],
       },
@@ -125,7 +125,7 @@ export default async function EquipementLandingPage(
             name: p.name,
             brand: { "@type": "Brand", name: p.brand },
             description: p.description,
-            image: `https://escalade-france.fr${p.image}`,
+            image: `https://www.escalade-france.fr${p.image}`,
             ...(p.rating
               ? {
                   aggregateRating: {

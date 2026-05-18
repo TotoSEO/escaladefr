@@ -45,18 +45,18 @@ export default async function BlogPage() {
     "@graph": [
       {
         "@type": "Blog",
-        "@id": "https://escalade-france.fr/blog",
-        url: "https://escalade-france.fr/blog",
+        "@id": "https://www.escalade-france.fr/blog",
+        url: "https://www.escalade-france.fr/blog",
         name: "Blog escalade-france.fr",
         description:
           "Techniques, matériel, sites mythiques, profils et sécurité de l'escalade en France.",
-        isPartOf: { "@id": "https://escalade-france.fr/#website" },
+        isPartOf: { "@id": "https://www.escalade-france.fr/#website" },
       },
       {
         "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://escalade-france.fr" },
-          { "@type": "ListItem", position: 2, name: "Blog", item: "https://escalade-france.fr/blog" },
+          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://www.escalade-france.fr" },
+          { "@type": "ListItem", position: 2, name: "Blog", item: "https://www.escalade-france.fr/blog" },
         ],
       },
       ...(articles.length > 0
@@ -68,7 +68,7 @@ export default async function BlogPage() {
                 "@type": "ListItem",
                 position: i + 1,
                 name: a.h1,
-                url: `https://escalade-france.fr${articleHref(a.slug)}`,
+                url: `https://www.escalade-france.fr${articleHref(a.slug)}`,
               })),
             },
           ]
