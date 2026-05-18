@@ -53,16 +53,16 @@ export default function OutilsPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://escalade-france.fr/outils",
-        url: "https://escalade-france.fr/outils",
+        "@id": "https://www.escalade-france.fr/outils",
+        url: "https://www.escalade-france.fr/outils",
         name: "Outils interactifs pour grimpeurs",
-        isPartOf: { "@id": "https://escalade-france.fr/#website" },
+        isPartOf: { "@id": "https://www.escalade-france.fr/#website" },
       },
       {
         "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://escalade-france.fr" },
-          { "@type": "ListItem", position: 2, name: "Outils", item: "https://escalade-france.fr/outils" },
+          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://www.escalade-france.fr" },
+          { "@type": "ListItem", position: 2, name: "Outils", item: "https://www.escalade-france.fr/outils" },
         ],
       },
       {
@@ -73,7 +73,7 @@ export default function OutilsPage() {
           position: i + 1,
           name: t.title,
           description: t.desc,
-          url: `https://escalade-france.fr${t.href}`,
+          url: `https://www.escalade-france.fr${t.href}`,
         })),
       },
     ],

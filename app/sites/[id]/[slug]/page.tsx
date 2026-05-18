@@ -108,10 +108,10 @@ export default async function SiteDetailPage(
     "@graph": [
       {
         "@type": "Place",
-        "@id": `https://escalade-france.fr/sites/${site.id}/${canonical}#place`,
+        "@id": `https://www.escalade-france.fr/sites/${site.id}/${canonical}#place`,
         name: site.nom,
         description: `Site naturel d'escalade situé à ${communeName(site.commune) || "France"}${site.departement ? `, ${site.departement}` : ""}.`,
-        url: `https://escalade-france.fr/sites/${site.id}/${canonical}`,
+        url: `https://www.escalade-france.fr/sites/${site.id}/${canonical}`,
         ...(site.latitude && site.longitude
           ? {
               geo: {
@@ -136,20 +136,20 @@ export default async function SiteDetailPage(
       {
         "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://escalade-france.fr" },
-          { "@type": "ListItem", position: 2, name: "Sites naturels", item: "https://escalade-france.fr/sites" },
+          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://www.escalade-france.fr" },
+          { "@type": "ListItem", position: 2, name: "Sites naturels", item: "https://www.escalade-france.fr/sites" },
           ...(site.departement
             ? [
                 {
                   "@type": "ListItem",
                   position: 3,
                   name: site.departement,
-                  item: `https://escalade-france.fr${departementHref(site.code_departement, site.departement)}`,
+                  item: `https://www.escalade-france.fr${departementHref(site.code_departement, site.departement)}`,
                 },
-                { "@type": "ListItem", position: 4, name: site.nom, item: `https://escalade-france.fr/sites/${site.id}/${canonical}` },
+                { "@type": "ListItem", position: 4, name: site.nom, item: `https://www.escalade-france.fr/sites/${site.id}/${canonical}` },
               ]
             : [
-                { "@type": "ListItem", position: 3, name: site.nom, item: `https://escalade-france.fr/sites/${site.id}/${canonical}` },
+                { "@type": "ListItem", position: 3, name: site.nom, item: `https://www.escalade-france.fr/sites/${site.id}/${canonical}` },
               ]),
         ],
       },

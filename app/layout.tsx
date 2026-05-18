@@ -26,7 +26,7 @@ const jetbrains = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://escalade-france.fr"),
+  metadataBase: new URL("https://www.escalade-france.fr"),
   title: {
     default: "escalade-france.fr · sites naturels et salles d'escalade",
     template: "%s",

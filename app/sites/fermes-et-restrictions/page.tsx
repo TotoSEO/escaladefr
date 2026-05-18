@@ -87,19 +87,19 @@ export default async function FermesRestrictionsPage() {
     "@graph": [
       {
         "@type": "CollectionPage",
-        "@id": "https://escalade-france.fr/sites/fermes-et-restrictions",
-        url: "https://escalade-france.fr/sites/fermes-et-restrictions",
+        "@id": "https://www.escalade-france.fr/sites/fermes-et-restrictions",
+        url: "https://www.escalade-france.fr/sites/fermes-et-restrictions",
         name: "Sites d'escalade fermés ou réglementés en France",
         description:
           "Recensement des sites naturels d'escalade soumis à interdiction, restriction ou fermeture saisonnière en France.",
-        isPartOf: { "@id": "https://escalade-france.fr/#website" },
+        isPartOf: { "@id": "https://www.escalade-france.fr/#website" },
       },
       {
         "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://escalade-france.fr" },
-          { "@type": "ListItem", position: 2, name: "Sites naturels", item: "https://escalade-france.fr/sites" },
-          { "@type": "ListItem", position: 3, name: "Fermés et réglementés", item: "https://escalade-france.fr/sites/fermes-et-restrictions" },
+          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://www.escalade-france.fr" },
+          { "@type": "ListItem", position: 2, name: "Sites naturels", item: "https://www.escalade-france.fr/sites" },
+          { "@type": "ListItem", position: 3, name: "Fermés et réglementés", item: "https://www.escalade-france.fr/sites/fermes-et-restrictions" },
         ],
       },
       ...(sites.length > 0
@@ -112,7 +112,7 @@ export default async function FermesRestrictionsPage() {
                 "@type": "ListItem",
                 position: i + 1,
                 name: s.nom,
-                url: `https://escalade-france.fr${siteHref(s)}`,
+                url: `https://www.escalade-france.fr${siteHref(s)}`,
               })),
             },
           ]

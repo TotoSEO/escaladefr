@@ -34,10 +34,10 @@ export async function generateMetadata(
       title: article.title,
       description: article.description,
       type: "article",
-      url: `https://escalade-france.fr/blog/${article.slug}`,
+      url: `https://www.escalade-france.fr/blog/${article.slug}`,
       images: [
         {
-          url: `https://escalade-france.fr${article.cover_image}`,
+          url: `https://www.escalade-france.fr${article.cover_image}`,
           width: 1600,
           height: 900,
           alt: article.cover_alt,
@@ -51,7 +51,7 @@ export async function generateMetadata(
       card: "summary_large_image",
       title: article.title,
       description: article.description,
-      images: [`https://escalade-france.fr${article.cover_image}`],
+      images: [`https://www.escalade-france.fr${article.cover_image}`],
     },
   };
 }
@@ -66,19 +66,19 @@ export default async function BlogArticlePage(
   const breadcrumb = {
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Accueil", item: "https://escalade-france.fr" },
-      { "@type": "ListItem", position: 2, name: "Blog", item: "https://escalade-france.fr/blog" },
+      { "@type": "ListItem", position: 1, name: "Accueil", item: "https://www.escalade-france.fr" },
+      { "@type": "ListItem", position: 2, name: "Blog", item: "https://www.escalade-france.fr/blog" },
       {
         "@type": "ListItem",
         position: 3,
         name: COCON_LABEL[article.cocon],
-        item: `https://escalade-france.fr${categoryHref(article.cocon)}`,
+        item: `https://www.escalade-france.fr${categoryHref(article.cocon)}`,
       },
       {
         "@type": "ListItem",
         position: 4,
         name: article.h1,
-        item: `https://escalade-france.fr/blog/${article.slug}`,
+        item: `https://www.escalade-france.fr/blog/${article.slug}`,
       },
     ],
   };
@@ -88,13 +88,13 @@ export default async function BlogArticlePage(
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://escalade-france.fr/#organization",
+        "@id": "https://www.escalade-france.fr/#organization",
         name: "escalade-france.fr",
-        url: "https://escalade-france.fr",
+        url: "https://www.escalade-france.fr",
         logo: {
           "@type": "ImageObject",
-          "@id": "https://escalade-france.fr/#logo",
-          url: "https://escalade-france.fr/og/logo.png",
+          "@id": "https://www.escalade-france.fr/#logo",
+          url: "https://www.escalade-france.fr/og/logo.png",
           width: 512,
           height: 512,
           caption: "escalade-france.fr",
@@ -102,41 +102,41 @@ export default async function BlogArticlePage(
       },
       {
         "@type": "Person",
-        "@id": "https://escalade-france.fr/a-propos#antoine",
+        "@id": "https://www.escalade-france.fr/a-propos#antoine",
         name: article.author_name,
-        url: `https://escalade-france.fr${article.author_url}`,
-        image: "https://escalade-france.fr/blog/antoine-escalade-france.webp",
+        url: `https://www.escalade-france.fr${article.author_url}`,
+        image: "https://www.escalade-france.fr/blog/antoine-escalade-france.webp",
         jobTitle: "Rédacteur escalade",
-        worksFor: { "@id": "https://escalade-france.fr/#organization" },
+        worksFor: { "@id": "https://www.escalade-france.fr/#organization" },
       },
       {
         "@type": "WebPage",
-        "@id": `https://escalade-france.fr/blog/${article.slug}`,
-        url: `https://escalade-france.fr/blog/${article.slug}`,
+        "@id": `https://www.escalade-france.fr/blog/${article.slug}`,
+        url: `https://www.escalade-france.fr/blog/${article.slug}`,
         name: article.title,
-        isPartOf: { "@id": "https://escalade-france.fr/#website" },
+        isPartOf: { "@id": "https://www.escalade-france.fr/#website" },
         inLanguage: "fr-FR",
-        breadcrumb: { "@id": `https://escalade-france.fr/blog/${article.slug}#breadcrumb` },
+        breadcrumb: { "@id": `https://www.escalade-france.fr/blog/${article.slug}#breadcrumb` },
       },
       {
         "@type": "BlogPosting",
-        "@id": `https://escalade-france.fr/blog/${article.slug}#article`,
-        isPartOf: { "@id": `https://escalade-france.fr/blog/${article.slug}` },
-        mainEntityOfPage: { "@id": `https://escalade-france.fr/blog/${article.slug}` },
+        "@id": `https://www.escalade-france.fr/blog/${article.slug}#article`,
+        isPartOf: { "@id": `https://www.escalade-france.fr/blog/${article.slug}` },
+        mainEntityOfPage: { "@id": `https://www.escalade-france.fr/blog/${article.slug}` },
         headline: article.h1,
         name: article.title,
         description: article.description,
         image: {
           "@type": "ImageObject",
-          url: `https://escalade-france.fr${article.cover_image}`,
+          url: `https://www.escalade-france.fr${article.cover_image}`,
           width: 1600,
           height: 900,
           caption: article.cover_alt,
         },
         datePublished: article.published_at,
         dateModified: article.updated_at ?? article.published_at,
-        author: { "@id": "https://escalade-france.fr/a-propos#antoine" },
-        publisher: { "@id": "https://escalade-france.fr/#organization" },
+        author: { "@id": "https://www.escalade-france.fr/a-propos#antoine" },
+        publisher: { "@id": "https://www.escalade-france.fr/#organization" },
         articleSection: COCON_LABEL[article.cocon],
         wordCount: article.word_count ?? undefined,
         inLanguage: "fr-FR",
@@ -144,15 +144,15 @@ export default async function BlogArticlePage(
           ? { keywords: article.takeaways.join(", ") }
           : {}),
       },
-      { "@id": `https://escalade-france.fr/blog/${article.slug}#breadcrumb`, ...breadcrumb },
+      { "@id": `https://www.escalade-france.fr/blog/${article.slug}#breadcrumb`, ...breadcrumb },
       ...(article.faq && article.faq.length > 0
         ? [
             {
               "@type": "FAQPage",
-              "@id": `https://escalade-france.fr/blog/${article.slug}#faq`,
+              "@id": `https://www.escalade-france.fr/blog/${article.slug}#faq`,
               mainEntity: article.faq.map((qa, i) => ({
                 "@type": "Question",
-                "@id": `https://escalade-france.fr/blog/${article.slug}#faq-${i}`,
+                "@id": `https://www.escalade-france.fr/blog/${article.slug}#faq-${i}`,
                 name: qa.q,
                 acceptedAnswer: {
                   "@type": "Answer",

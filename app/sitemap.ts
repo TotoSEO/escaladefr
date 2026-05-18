@@ -9,7 +9,7 @@ import {
   slugify,
 } from "@/lib/sites";
 
-const SITE = "https://escalade-france.fr";
+const SITE = "https://www.escalade-france.fr";
 
 export const revalidate = 86400;
 

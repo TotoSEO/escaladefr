@@ -56,18 +56,18 @@ export default async function SitesPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://escalade-france.fr/sites",
-        url: "https://escalade-france.fr/sites",
+        "@id": "https://www.escalade-france.fr/sites",
+        url: "https://www.escalade-france.fr/sites",
         name: `${totalLabel} sites d'escalade naturels en France`,
         description:
           "Carte interactive et annuaire des sites naturels d'escalade en France.",
-        isPartOf: { "@id": "https://escalade-france.fr/#website" },
+        isPartOf: { "@id": "https://www.escalade-france.fr/#website" },
       },
       {
         "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://escalade-france.fr" },
-          { "@type": "ListItem", position: 2, name: "Sites naturels", item: "https://escalade-france.fr/sites" },
+          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://www.escalade-france.fr" },
+          { "@type": "ListItem", position: 2, name: "Sites naturels", item: "https://www.escalade-france.fr/sites" },
         ],
       },
       {
@@ -77,7 +77,7 @@ export default async function SitesPage() {
         keywords: ["escalade", "falaise", "France", "outdoor"],
         isAccessibleForFree: true,
         spatialCoverage: { "@type": "Country", name: "France" },
-        creator: { "@id": "https://escalade-france.fr/#organization" },
+        creator: { "@id": "https://www.escalade-france.fr/#organization" },
       },
       {
         "@type": "ItemList",
@@ -86,7 +86,7 @@ export default async function SitesPage() {
           "@type": "ListItem",
           position: i + 1,
           name: d.departement,
-          url: `https://escalade-france.fr${departementHref(d.code_departement, d.departement)}`,
+          url: `https://www.escalade-france.fr${departementHref(d.code_departement, d.departement)}`,
         })),
       },
       {

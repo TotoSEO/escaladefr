@@ -12,7 +12,7 @@ import { NextResponse } from "next/server";
 export const dynamic = "force-static";
 export const revalidate = 3600;
 
-const SITE = "https://escalade-france.fr";
+const SITE = "https://www.escalade-france.fr";
 
 const CONTENT = `# escalade-france.fr
 

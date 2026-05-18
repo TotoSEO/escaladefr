@@ -80,10 +80,10 @@ export default async function AProposPage() {
     "@graph": [
       {
         "@type": "Person",
-        "@id": "https://escalade-france.fr/a-propos#antoine",
+        "@id": "https://www.escalade-france.fr/a-propos#antoine",
         name: "Antoine",
-        url: "https://escalade-france.fr/a-propos",
-        image: "https://escalade-france.fr/blog/antoine-escalade-france.webp",
+        url: "https://www.escalade-france.fr/a-propos",
+        image: "https://www.escalade-france.fr/blog/antoine-escalade-france.webp",
         jobTitle: "Rédacteur escalade",
         description:
           "Treize ans de pratique, ancien compétiteur jeune FFME, 8a en falaise et 7b en bloc, pratiquant régulier de la grande voie depuis 2018.",
@@ -97,15 +97,15 @@ export default async function AProposPage() {
         worksFor: {
           "@type": "Organization",
           name: "escalade-france.fr",
-          url: "https://escalade-france.fr",
+          url: "https://www.escalade-france.fr",
         },
       },
       {
         "@type": "AboutPage",
-        "@id": "https://escalade-france.fr/a-propos#page",
-        url: "https://escalade-france.fr/a-propos",
+        "@id": "https://www.escalade-france.fr/a-propos#page",
+        url: "https://www.escalade-france.fr/a-propos",
         name: "À propos d'Antoine, rédacteur d'escalade-france.fr",
-        about: { "@id": "https://escalade-france.fr/a-propos#antoine" },
+        about: { "@id": "https://www.escalade-france.fr/a-propos#antoine" },
         inLanguage: "fr-FR",
       },
     ],

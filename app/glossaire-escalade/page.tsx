@@ -23,19 +23,19 @@ export default function GlossairePage() {
     "@graph": [
       {
         "@type": "DefinedTermSet",
-        "@id": "https://escalade-france.fr/glossaire-escalade#termset",
+        "@id": "https://www.escalade-france.fr/glossaire-escalade#termset",
         name: "Glossaire de l'escalade",
         description:
           "Lexique des termes techniques et du jargon de l'escalade en français.",
-        url: "https://escalade-france.fr/glossaire-escalade",
+        url: "https://www.escalade-france.fr/glossaire-escalade",
         hasDefinedTerm: GLOSSAIRE.map((e) => ({
           "@type": "DefinedTerm",
-          "@id": `https://escalade-france.fr/glossaire-escalade#${e.id}`,
+          "@id": `https://www.escalade-france.fr/glossaire-escalade#${e.id}`,
           name: e.terme,
           alternateName: e.alias && e.alias.length > 0 ? e.alias : undefined,
           description: e.definition,
           inDefinedTermSet:
-            "https://escalade-france.fr/glossaire-escalade#termset",
+            "https://www.escalade-france.fr/glossaire-escalade#termset",
           termCode: e.id,
           additionalType: e.categorie,
         })),
@@ -43,18 +43,18 @@ export default function GlossairePage() {
       {
         "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://escalade-france.fr" },
-          { "@type": "ListItem", position: 2, name: "Glossaire", item: "https://escalade-france.fr/glossaire-escalade" },
+          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://www.escalade-france.fr" },
+          { "@type": "ListItem", position: 2, name: "Glossaire", item: "https://www.escalade-france.fr/glossaire-escalade" },
         ],
       },
       {
         "@type": "WebPage",
-        "@id": "https://escalade-france.fr/glossaire-escalade",
-        url: "https://escalade-france.fr/glossaire-escalade",
+        "@id": "https://www.escalade-france.fr/glossaire-escalade",
+        url: "https://www.escalade-france.fr/glossaire-escalade",
         name: "Glossaire de l'escalade",
-        isPartOf: { "@id": "https://escalade-france.fr/#website" },
+        isPartOf: { "@id": "https://www.escalade-france.fr/#website" },
         mainEntity: {
-          "@id": "https://escalade-france.fr/glossaire-escalade#termset",
+          "@id": "https://www.escalade-france.fr/glossaire-escalade#termset",
         },
       },
     ],

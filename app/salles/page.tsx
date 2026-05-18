@@ -53,18 +53,18 @@ export default async function SallesPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://escalade-france.fr/salles",
-        url: "https://escalade-france.fr/salles",
+        "@id": "https://www.escalade-france.fr/salles",
+        url: "https://www.escalade-france.fr/salles",
         name: `${total} salles d'escalade en France`,
         description:
           "Annuaire et carte interactive des salles d'escalade indoor en France.",
-        isPartOf: { "@id": "https://escalade-france.fr/#website" },
+        isPartOf: { "@id": "https://www.escalade-france.fr/#website" },
       },
       {
         "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://escalade-france.fr" },
-          { "@type": "ListItem", position: 2, name: "Salles d'escalade", item: "https://escalade-france.fr/salles" },
+          { "@type": "ListItem", position: 1, name: "Accueil", item: "https://www.escalade-france.fr" },
+          { "@type": "ListItem", position: 2, name: "Salles d'escalade", item: "https://www.escalade-france.fr/salles" },
         ],
       },
       {
