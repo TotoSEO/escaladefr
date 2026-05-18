@@ -6,6 +6,7 @@ import { useEffect, useState } from "react";
 import { Menu, ShoppingBag, X } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
 
+import { LogoMark } from "@/components/brand/logo-mark";
 import {
   Sheet,
   SheetContent,
@@ -52,15 +53,18 @@ export function SiteHeader() {
     >
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-5 sm:h-20 sm:px-8 lg:px-12">
         {/* Logo asymétrique */}
-        <Link href="/" className="group flex items-baseline gap-2">
-          <span className="font-display text-xl font-medium tracking-[-0.02em] sm:text-2xl">
-            escalade
-          </span>
-          <span className="font-display text-xl font-medium italic tracking-[-0.02em] text-primary glow-ice-text sm:text-2xl">
-            .france
-          </span>
-          <span className="hidden text-[10px] uppercase tracking-[0.22em] text-muted-foreground sm:inline">
-            .fr
+        <Link href="/" className="group flex items-center gap-2.5">
+          <LogoMark className="h-7 w-7 text-primary transition-transform duration-500 group-hover:-rotate-6 sm:h-8 sm:w-8" />
+          <span className="flex items-baseline gap-2">
+            <span className="font-display text-xl font-medium tracking-[-0.02em] sm:text-2xl">
+              escalade
+            </span>
+            <span className="font-display text-xl font-medium italic tracking-[-0.02em] text-primary glow-ice-text sm:text-2xl">
+              .france
+            </span>
+            <span className="hidden text-[10px] uppercase tracking-[0.22em] text-muted-foreground sm:inline">
+              .fr
+            </span>
           </span>
         </Link>
 
