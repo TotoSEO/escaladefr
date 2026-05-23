@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { AffiliateLandingView } from "@/components/equipement/AffiliateLandingView";
 import {
   CATEGORY_LABEL,
+  buildOfferMerchantFields,
   fetchAffiliateLanding,
   fetchAllAffiliateLandings,
 } from "@/lib/equipement";
@@ -35,7 +36,7 @@ export async function generateMetadata(
       url: `https://www.escalade-france.fr/equipement/${landing.slug}`,
       images: [
         {
-          url: `https://www.escalade-france.fr${landing.heroImage}`,
+          url: landing.heroImage,
           width: 1600,
           height: 900,
           alt: landing.heroImageAlt,
@@ -119,13 +120,15 @@ export default async function EquipementLandingPage(
         itemListElement: landing.products.map((p, i) => ({
           "@type": "ListItem",
           position: i + 1,
+          url: `${url}#product-${p.id}`,
           item: {
             "@type": "Product",
             "@id": `${url}#product-${p.id}`,
+            url: `${url}#product-${p.id}`,
             name: p.name,
             brand: { "@type": "Brand", name: p.brand },
             description: p.description,
-            image: `https://www.escalade-france.fr${p.image}`,
+            image: p.image,
             ...(p.rating
               ? {
                   aggregateRating: {
@@ -144,6 +147,7 @@ export default async function EquipementLandingPage(
                     priceCurrency: "EUR",
                     availability: "https://schema.org/InStock",
                     url: p.links[0]?.url,
+                    ...buildOfferMerchantFields(p.links[0]?.merchant),
                   },
                 }
               : {}),

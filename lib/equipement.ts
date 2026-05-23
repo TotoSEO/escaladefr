@@ -140,3 +140,87 @@ export const CATEGORY_LABEL: Record<AffiliateLanding["category"], string> = {
   hangboards: "Hangboards",
   vetements: "Vêtements",
 };
+
+/* ───── Politiques marchand pour JSON-LD Product ───── */
+
+// Politiques publiques constatées sur les CGV des marchands (mai 2026).
+// On les expose dans le schema Offer pour satisfaire l'exigence Google
+// "merchant listing" (shippingDetails + hasMerchantReturnPolicy) tout en
+// déclarant explicitement le seller — on n'est qu'affilié, pas vendeur.
+type MerchantPolicy = {
+  url: string;
+  shippingThreshold: number;
+  shippingRate: number;
+  returnDays: number;
+};
+
+const MERCHANT_POLICIES: Record<string, MerchantPolicy> = {
+  Snowleader: {
+    url: "https://www.snowleader.com",
+    shippingThreshold: 50,
+    shippingRate: 4.95,
+    returnDays: 30,
+  },
+  Hardloop: {
+    url: "https://www.hardloop.fr",
+    shippingThreshold: 60,
+    shippingRate: 4.9,
+    returnDays: 30,
+  },
+  Decathlon: {
+    url: "https://www.decathlon.fr",
+    shippingThreshold: 30,
+    shippingRate: 3.9,
+    returnDays: 365,
+  },
+};
+
+export function buildOfferMerchantFields(merchant: string | undefined) {
+  if (!merchant) return {};
+  const policy = MERCHANT_POLICIES[merchant];
+  if (!policy) return {};
+
+  return {
+    seller: {
+      "@type": "Organization",
+      name: merchant,
+      url: policy.url,
+    },
+    shippingDetails: {
+      "@type": "OfferShippingDetails",
+      shippingRate: {
+        "@type": "MonetaryAmount",
+        value: policy.shippingRate,
+        currency: "EUR",
+      },
+      shippingDestination: {
+        "@type": "DefinedRegion",
+        addressCountry: "FR",
+      },
+      deliveryTime: {
+        "@type": "ShippingDeliveryTime",
+        handlingTime: {
+          "@type": "QuantitativeValue",
+          minValue: 0,
+          maxValue: 1,
+          unitCode: "DAY",
+        },
+        transitTime: {
+          "@type": "QuantitativeValue",
+          minValue: 2,
+          maxValue: 4,
+          unitCode: "DAY",
+        },
+      },
+    },
+    hasMerchantReturnPolicy: {
+      "@type": "MerchantReturnPolicy",
+      applicableCountry: "FR",
+      returnPolicyCategory:
+        "https://schema.org/MerchantReturnFiniteReturnWindow",
+      merchantReturnDays: policy.returnDays,
+      returnMethod: "https://schema.org/ReturnByMail",
+      returnFees: "https://schema.org/FreeReturn",
+    },
+  };
+}
