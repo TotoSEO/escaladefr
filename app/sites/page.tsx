@@ -71,13 +71,27 @@ export default async function SitesPage() {
         ],
       },
       {
+        "@type": "Organization",
+        "@id": "https://www.escalade-france.fr/#organization",
+        name: "escalade-france.fr",
+        url: "https://www.escalade-france.fr",
+      },
+      {
         "@type": "Dataset",
         name: "Sites naturels d'escalade en France",
         description: `${totalLabel} sites naturels d'escalade recensés en France avec coordonnées GPS, cotations et accès.`,
         keywords: ["escalade", "falaise", "France", "outdoor"],
         isAccessibleForFree: true,
-        spatialCoverage: { "@type": "Country", name: "France" },
+        license: "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
         creator: { "@id": "https://www.escalade-france.fr/#organization" },
+        spatialCoverage: {
+          "@type": "Place",
+          name: "France",
+          geo: {
+            "@type": "GeoShape",
+            box: "41.33 -5.14 51.09 9.56",
+          },
+        },
       },
       {
         "@type": "ItemList",
