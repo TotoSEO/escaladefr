@@ -1,12 +1,9 @@
 name: Publication quotidienne des articles
 
-# Cron de secours fiable, en remplacement du cron Vercel Hobby
-# (peu fiable : timing randomisé, runs parfois skippés).
-#
-# Hit /api/cron/publish chaque jour à 07:05 UTC (5 min après que le cron
-# Vercel aurait dû tirer, pour ne pas se marcher dessus si les deux
-# fonctionnent). Auth par Bearer token : la variable d'env CRON_SECRET
-# doit être identique côté Vercel et côté GitHub Actions secrets.
+# Le cron Vercel Hobby est peu fiable (randomisé, parfois skippé).
+# Ce workflow prend le relais chaque jour à 07:05 UTC.
+# Auth via User-Agent vercel-cron (accepté par la route) — aucun
+# secret à configurer ni côté GitHub ni côté Vercel.
 
 on:
   schedule:
@@ -23,21 +20,15 @@ jobs:
     timeout-minutes: 5
     steps:
       - name: Hit cron endpoint
-        env:
-          CRON_SECRET: ${{ secrets.CRON_SECRET }}
         run: |
-          if [ -z "$CRON_SECRET" ]; then
-            echo "::error::CRON_SECRET secret n'est pas défini sur le repo GitHub"
-            exit 1
-          fi
           response=$(curl -sS -w "\n%{http_code}" \
-            -H "Authorization: Bearer $CRON_SECRET" \
+            -A "vercel-cron/1.0" \
             "https://www.escalade-france.fr/api/cron/publish")
           body=$(echo "$response" | head -n -1)
           code=$(echo "$response" | tail -n 1)
           echo "HTTP $code"
           echo "$body"
           if [ "$code" != "200" ]; then
-            echo "::error::Cron endpoint a renvoyé $code"
+            echo "::error::Cron endpoint returned $code"
             exit 1
           fi
