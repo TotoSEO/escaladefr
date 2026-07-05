@@ -328,7 +328,7 @@ export default async function BlogArticlePage(
                   Jura et les Vosges depuis 2018.
                 </p>
                 <p className="mt-3 font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
-                  Aucun contenu généré · Aucune affiliation cachée · Tous les
+                  Aucun contenu généré · Aucun lien sponsorisé · Tous les
                   articles relus avant publication
                 </p>
               </div>

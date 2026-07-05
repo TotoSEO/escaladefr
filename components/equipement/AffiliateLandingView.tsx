@@ -23,6 +23,14 @@ const BADGE_ICON: Record<NonNullable<AffiliateProduct["badge"]>, typeof Award> =
   premium: Sparkles,
 };
 
+/** Avis long format publié pour un produit de la sélection. */
+export type LandingReviewLink = {
+  slug: string;
+  productId: string;
+  h1: string;
+  rating: number;
+};
+
 function ratingStars(rating: number | undefined) {
   if (!rating) return null;
   return (
@@ -43,12 +51,15 @@ export function AffiliateLandingView({
   landing,
   relatedArticles,
   otherLandings,
+  reviews,
 }: {
   landing: AffiliateLanding;
   /** Articles liés déjà filtrés (publiés uniquement) avec leur H1 réel. */
   relatedArticles?: { slug: string; h1: string }[];
   /** Autres LP équipement à proposer en maillage interne. */
   otherLandings?: { slug: string; h1: string; categoryLabel: string }[];
+  /** Avis détaillés publiés pour les produits de cette sélection. */
+  reviews?: LandingReviewLink[];
 }) {
   const updatedDate = new Intl.DateTimeFormat("fr-FR", {
     day: "numeric",
@@ -60,6 +71,9 @@ export function AffiliateLandingView({
   const bestValue = landing.products.find((p) => p.badge === "best-value");
   const heroPicks = [editorChoice, bestValue].filter(Boolean) as AffiliateProduct[];
   const others = landing.products.filter((p) => !heroPicks.includes(p));
+
+  const reviewFor = (productId: string) =>
+    reviews?.find((r) => r.productId === productId);
 
   return (
     <PageShell>
@@ -81,7 +95,7 @@ export function AffiliateLandingView({
 
           <h1
             className="mt-5 max-w-5xl font-display font-medium leading-[0.94] tracking-[-0.025em] text-balance"
-            style={{ fontSize: "clamp(2rem, 6vw, 4.5rem)" }}
+            style={{ fontSize: "clamp(2rem, 6vw, 4rem)" }}
           >
             {landing.h1}
           </h1>
@@ -91,23 +105,74 @@ export function AffiliateLandingView({
           </p>
 
           <div className="mt-7 flex flex-wrap items-center gap-2.5">
-            <Pill>
-              {landing.products.length} modèles comparés
-            </Pill>
+            <Pill>{landing.products.length} modèles comparés</Pill>
             <Pill>Mise à jour {updatedDate}</Pill>
             <Pill accent>Sélection {landing.year}</Pill>
           </div>
+
+          {/* Réponse rapide : verdict direct pour lecteurs pressés (et moteurs) */}
+          {(editorChoice || bestValue) && (
+            <div className="mt-8 max-w-3xl rounded-2xl border border-accent/25 bg-coal-900/70 p-5 sm:p-6">
+              <p className="font-mono text-[10px] uppercase tracking-[0.28em] text-accent">
+                L&apos;essentiel en 10 secondes
+              </p>
+              <p className="mt-3 text-sm leading-relaxed text-foreground/90 sm:text-base">
+                {editorChoice && (
+                  <>
+                    Notre choix :{" "}
+                    <a
+                      href={`#${editorChoice.id}-detail`}
+                      className="font-semibold text-accent underline decoration-accent/40 underline-offset-[3px] hover:decoration-accent"
+                    >
+                      {editorChoice.name}
+                    </a>
+                    {editorChoice.priceFrom ? ` (dès ${editorChoice.priceFrom} €)` : ""}
+                    .{" "}
+                  </>
+                )}
+                {bestValue && bestValue.id !== editorChoice?.id && (
+                  <>
+                    Le meilleur rapport qualité-prix :{" "}
+                    <a
+                      href={`#${bestValue.id}-detail`}
+                      className="font-semibold text-accent underline decoration-accent/40 underline-offset-[3px] hover:decoration-accent"
+                    >
+                      {bestValue.name}
+                    </a>
+                    {bestValue.priceFrom ? ` (dès ${bestValue.priceFrom} €)` : ""}
+                    .{" "}
+                  </>
+                )}
+                Le détail, les limites de chaque modèle et le guide d&apos;achat
+                sont plus bas.
+              </p>
+            </div>
+          )}
         </div>
       </header>
 
-      {/* Bandeau transparence affiliation */}
+      {/* Barre sommaire + note d'indépendance */}
       <aside className="border-b border-white/10 bg-coal-900/40">
-        <div className="mx-auto max-w-7xl px-5 py-4 sm:px-8 lg:px-12">
-          <p className="text-xs leading-relaxed text-foreground/65 sm:text-[13px]">
-            <strong className="text-foreground/80">Affiliation</strong> · Cette
-            page contient des liens d&apos;affiliation. Si tu achètes via l&apos;un
-            de ces liens, le marchand nous reverse une petite commission sans
-            surcoût pour toi. Cela finance le site.
+        <div className="mx-auto flex max-w-7xl flex-col gap-2 px-5 py-3.5 sm:flex-row sm:items-center sm:justify-between sm:px-8 lg:px-12">
+          <nav
+            aria-label="Sommaire"
+            className="flex flex-wrap gap-x-5 gap-y-1 font-mono text-[10px] uppercase tracking-[0.22em]"
+          >
+            <a href="#comparatif" className="text-foreground/70 transition-colors hover:text-accent">
+              Comparatif
+            </a>
+            <a href="#details" className="text-foreground/70 transition-colors hover:text-accent">
+              Tests détaillés
+            </a>
+            <a href="#guide" className="text-foreground/70 transition-colors hover:text-accent">
+              Guide d&apos;achat
+            </a>
+            <a href="#faq" className="text-foreground/70 transition-colors hover:text-accent">
+              FAQ
+            </a>
+          </nav>
+          <p className="text-[11px] leading-relaxed text-foreground/55">
+            Sélection 100&nbsp;% indépendante · aucun lien rémunéré, aucune publicité.
           </p>
         </div>
       </aside>
@@ -123,7 +188,7 @@ export function AffiliateLandingView({
             </div>
             <div className="grid grid-cols-1 gap-5 lg:grid-cols-2 lg:gap-6">
               {heroPicks.map((p) => (
-                <HeroPickCard key={p.id} product={p} />
+                <HeroPickCard key={p.id} product={p} review={reviewFor(p.id)} />
               ))}
             </div>
           </div>
@@ -144,7 +209,7 @@ export function AffiliateLandingView({
             </div>
             <div className="grid grid-cols-1 gap-5 sm:gap-6 md:grid-cols-2 lg:grid-cols-3">
               {others.map((p) => (
-                <CompactPickCard key={p.id} product={p} />
+                <CompactPickCard key={p.id} product={p} review={reviewFor(p.id)} />
               ))}
             </div>
           </div>
@@ -152,99 +217,126 @@ export function AffiliateLandingView({
       )}
 
       {/* Comparatif rapide en tableau */}
-      <section className="border-t border-white/10 surface-2">
+      <section id="comparatif" className="scroll-mt-20 border-t border-white/10 surface-2">
         <div className="mx-auto max-w-7xl px-5 py-12 sm:px-8 sm:py-16 lg:px-12">
           <div className="mb-8 flex items-baseline justify-between gap-4">
-            <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+            <h2 className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
               § Comparatif rapide
-            </span>
+            </h2>
             <a
               href="#details"
               className="font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground transition-colors hover:text-primary"
             >
-              Détails ↓
+              Tests détaillés ↓
             </a>
           </div>
           <div className="overflow-x-auto rounded-2xl border border-white/10 bg-coal-900/60">
-            <table className="w-full min-w-[640px] text-left text-sm sm:text-base">
+            <table className="w-full min-w-[680px] text-left text-sm sm:text-base">
               <thead>
                 <tr className="border-b border-white/10 font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
                   <th className="px-4 py-4 sm:px-5">Modèle</th>
-                  <th className="px-4 py-4 sm:px-5">Niveau</th>
+                  <th className="px-4 py-4 sm:px-5">Profil</th>
                   <th className="px-4 py-4 sm:px-5">Note</th>
                   <th className="px-4 py-4 sm:px-5">Prix</th>
-                  <th className="px-4 py-4 sm:px-5"></th>
+                  <th className="px-4 py-4 sm:px-5">
+                    <span className="sr-only">Liens</span>
+                  </th>
                 </tr>
               </thead>
               <tbody>
-                {landing.products.map((p) => (
-                  <tr key={p.id} className="border-b border-white/5 last:border-b-0">
-                    <td className="px-4 py-4 sm:px-5">
-                      <a
-                        href={`#${p.id}`}
-                        className="block font-semibold text-foreground transition-colors hover:text-accent"
-                      >
-                        {p.name}
-                      </a>
-                      <span className="block text-xs text-muted-foreground">
-                        {p.brand}
-                      </span>
-                    </td>
-                    <td className="px-4 py-4 text-foreground/80 sm:px-5">
-                      {p.level ?? "—"}
-                    </td>
-                    <td className="px-4 py-4 sm:px-5">
-                      <span className="flex items-center gap-2">
-                        {ratingStars(p.rating)}
-                        {p.rating && (
-                          <span className="font-mono text-xs tabular-nums text-foreground/80">
-                            {p.rating.toFixed(1)}
-                          </span>
-                        )}
-                      </span>
-                    </td>
-                    <td className="px-4 py-4 font-display tabular-nums text-foreground sm:px-5 sm:text-lg">
-                      {p.priceFrom ? `${p.priceFrom} €` : "—"}
-                    </td>
-                    <td className="px-4 py-4 text-right sm:px-5">
-                      {p.links[0] && (
+                {landing.products.map((p) => {
+                  const review = reviewFor(p.id);
+                  return (
+                    <tr key={p.id} className="border-b border-white/5 last:border-b-0">
+                      <td className="px-4 py-4 sm:px-5">
                         <a
-                          href={p.links[0].url}
-                          rel="sponsored nofollow noopener"
-                          target="_blank"
-                          className="inline-flex items-center gap-1 font-mono text-[10px] uppercase tracking-[0.22em] text-accent hover:underline"
+                          href={`#${p.id}-detail`}
+                          className="block font-semibold text-foreground transition-colors hover:text-accent"
                         >
-                          Voir →
+                          {p.name}
                         </a>
-                      )}
-                    </td>
-                  </tr>
-                ))}
+                        <span className="flex flex-wrap items-center gap-x-2 text-xs text-muted-foreground">
+                          {p.brand}
+                          {p.badge && (
+                            <span className="text-accent/90">· {BADGE_LABEL[p.badge]}</span>
+                          )}
+                        </span>
+                      </td>
+                      <td className="px-4 py-4 text-foreground/80 sm:px-5">
+                        {p.level ?? "—"}
+                      </td>
+                      <td className="px-4 py-4 sm:px-5">
+                        <span className="flex items-center gap-2">
+                          {ratingStars(p.rating)}
+                          {p.rating && (
+                            <span className="font-mono text-xs tabular-nums text-foreground/80">
+                              {p.rating.toFixed(1)}
+                            </span>
+                          )}
+                        </span>
+                      </td>
+                      <td className="px-4 py-4 font-display tabular-nums text-foreground sm:px-5 sm:text-lg">
+                        {p.priceFrom ? `${p.priceFrom} €` : "—"}
+                      </td>
+                      <td className="px-4 py-4 text-right sm:px-5">
+                        <span className="flex flex-col items-end gap-1">
+                          {review && (
+                            <Link
+                              href={`/equipement/avis/${review.slug}`}
+                              className="inline-flex items-center gap-1 font-mono text-[10px] uppercase tracking-[0.22em] text-primary hover:underline"
+                            >
+                              Notre avis →
+                            </Link>
+                          )}
+                          {p.links[0] && (
+                            <a
+                              href={p.links[0].url}
+                              rel="nofollow noopener"
+                              target="_blank"
+                              className="inline-flex items-center gap-1 font-mono text-[10px] uppercase tracking-[0.22em] text-accent hover:underline"
+                            >
+                              Voir le prix →
+                            </a>
+                          )}
+                        </span>
+                      </td>
+                    </tr>
+                  );
+                })}
               </tbody>
             </table>
           </div>
+          <p className="mt-3 font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
+            Prix constatés au {updatedDate} — ils peuvent évoluer chez les marchands.
+          </p>
         </div>
       </section>
 
       {/* Détails produits, cards alternées image/texte */}
-      <section id="details" className="border-t border-white/10 surface-1">
+      <section id="details" className="scroll-mt-20 border-t border-white/10 surface-1">
         <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 sm:py-20 lg:px-12">
           <div className="mb-10 flex items-baseline justify-between gap-4">
-            <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+            <h2 className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
               § Détails produit par produit
-            </span>
+            </h2>
           </div>
           <div className="grid grid-cols-1 gap-8 lg:gap-10">
             {landing.products.map((p, i) => (
-              <DetailCard key={p.id} product={p} rank={i + 1} reverse={i % 2 === 1} />
+              <DetailCard
+                key={p.id}
+                product={p}
+                rank={i + 1}
+                reverse={i % 2 === 1}
+                review={reviewFor(p.id)}
+              />
             ))}
           </div>
         </div>
       </section>
 
-      {/* Contenu éditorial SEO (compact en bas) */}
+      {/* Contenu éditorial SEO */}
       {landing.content.length > 0 && (
-        <section className="border-t border-white/10 surface-2 text-foreground">
+        <section id="guide" className="scroll-mt-20 border-t border-white/10 surface-2 text-foreground">
           <div className="mx-auto max-w-3xl px-5 py-16 sm:px-8 sm:py-20 lg:px-12">
             <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
               § Guide d&apos;achat
@@ -260,7 +352,7 @@ export function AffiliateLandingView({
 
       {/* FAQ */}
       {landing.faq.length > 0 && (
-        <section className="border-t border-white/10 surface-1 text-foreground">
+        <section id="faq" className="scroll-mt-20 border-t border-white/10 surface-1 text-foreground">
           <div className="mx-auto max-w-3xl px-5 py-16 sm:px-8 sm:py-20 lg:px-12">
             <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
               § FAQ
@@ -298,6 +390,40 @@ export function AffiliateLandingView({
                 </details>
               ))}
             </div>
+          </div>
+        </section>
+      )}
+
+      {/* Avis détaillés liés */}
+      {reviews && reviews.length > 0 && (
+        <section className="border-t border-white/10 surface-2">
+          <div className="mx-auto max-w-7xl px-5 py-12 sm:px-8 sm:py-16 lg:px-12">
+            <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+              § Nos avis complets
+            </span>
+            <ul className="mt-6 grid grid-cols-1 gap-3 sm:grid-cols-2 sm:gap-4 lg:grid-cols-3">
+              {reviews.map((r) => (
+                <li key={r.slug}>
+                  <Link
+                    href={`/equipement/avis/${r.slug}`}
+                    className="group flex h-full flex-col gap-1.5 rounded-2xl border border-white/10 bg-coal-900/60 p-5 transition-colors hover:border-primary/40 hover:bg-coal-900"
+                  >
+                    <span className="flex items-center gap-2 font-mono text-[10px] uppercase tracking-[0.22em] text-primary">
+                      Avis · testé par Antoine
+                    </span>
+                    <span className="font-display text-base font-medium tracking-[-0.01em] text-foreground sm:text-lg">
+                      {r.h1}
+                    </span>
+                    <span className="mt-auto flex items-center gap-2 pt-1">
+                      {ratingStars(r.rating)}
+                      <span className="font-mono text-xs tabular-nums text-foreground/70">
+                        {r.rating.toFixed(1)} / 5
+                      </span>
+                    </span>
+                  </Link>
+                </li>
+              ))}
+            </ul>
           </div>
         </section>
       )}
@@ -412,7 +538,24 @@ function Pill({ children, accent }: { children: React.ReactNode; accent?: boolea
   );
 }
 
-function HeroPickCard({ product }: { product: AffiliateProduct }) {
+function ReviewLinkButton({ review }: { review: LandingReviewLink }) {
+  return (
+    <Link
+      href={`/equipement/avis/${review.slug}`}
+      className="inline-flex items-center gap-2 rounded-full border border-primary/40 px-4 py-2.5 text-xs font-semibold uppercase tracking-[0.18em] text-primary transition-colors hover:bg-primary/10"
+    >
+      Lire notre avis complet
+    </Link>
+  );
+}
+
+function HeroPickCard({
+  product,
+  review,
+}: {
+  product: AffiliateProduct;
+  review?: LandingReviewLink;
+}) {
   const Icon = product.badge ? BADGE_ICON[product.badge] : Trophy;
   return (
     <article
@@ -481,13 +624,13 @@ function HeroPickCard({ product }: { product: AffiliateProduct }) {
           </p>
         )}
 
-        {product.links.length > 0 && (
+        {(product.links.length > 0 || review) && (
           <div className="mt-auto flex flex-wrap gap-2 pt-2">
             {product.links.map((l) => (
               <a
                 key={l.url}
                 href={l.url}
-                rel="sponsored nofollow noopener"
+                rel="nofollow noopener"
                 target="_blank"
                 className="group/btn inline-flex items-center gap-2 rounded-full bg-accent px-5 py-3 text-xs font-semibold uppercase tracking-[0.18em] text-accent-foreground transition-transform hover:-translate-y-0.5 hover:shadow-[0_8px_24px_-6px_rgba(255,122,38,0.5)]"
               >
@@ -498,6 +641,7 @@ function HeroPickCard({ product }: { product: AffiliateProduct }) {
                 <ExternalLink className="h-3 w-3 transition-transform group-hover/btn:translate-x-0.5" />
               </a>
             ))}
+            {review && <ReviewLinkButton review={review} />}
           </div>
         )}
       </div>
@@ -505,7 +649,13 @@ function HeroPickCard({ product }: { product: AffiliateProduct }) {
   );
 }
 
-function CompactPickCard({ product }: { product: AffiliateProduct }) {
+function CompactPickCard({
+  product,
+  review,
+}: {
+  product: AffiliateProduct;
+  review?: LandingReviewLink;
+}) {
   return (
     <article
       id={product.id}
@@ -555,17 +705,27 @@ function CompactPickCard({ product }: { product: AffiliateProduct }) {
             dès {product.priceFrom} €
           </p>
         )}
-        {product.links[0] && (
-          <a
-            href={product.links[0].url}
-            rel="sponsored nofollow noopener"
-            target="_blank"
-            className="mt-auto inline-flex h-10 w-full items-center justify-center gap-2 rounded-full bg-accent text-xs font-semibold uppercase tracking-[0.18em] text-accent-foreground transition-transform hover:-translate-y-0.5"
-          >
-            Voir sur {product.links[0].merchant}
-            <ExternalLink className="h-3 w-3" />
-          </a>
-        )}
+        <div className="mt-auto flex flex-col gap-2">
+          {product.links[0] && (
+            <a
+              href={product.links[0].url}
+              rel="nofollow noopener"
+              target="_blank"
+              className="inline-flex h-10 w-full items-center justify-center gap-2 rounded-full bg-accent text-xs font-semibold uppercase tracking-[0.18em] text-accent-foreground transition-transform hover:-translate-y-0.5"
+            >
+              Voir sur {product.links[0].merchant}
+              <ExternalLink className="h-3 w-3" />
+            </a>
+          )}
+          {review && (
+            <Link
+              href={`/equipement/avis/${review.slug}`}
+              className="inline-flex h-10 w-full items-center justify-center gap-2 rounded-full border border-primary/40 text-xs font-semibold uppercase tracking-[0.18em] text-primary transition-colors hover:bg-primary/10"
+            >
+              Notre avis complet
+            </Link>
+          )}
+        </div>
       </div>
     </article>
   );
@@ -575,15 +735,17 @@ function DetailCard({
   product,
   rank,
   reverse,
+  review,
 }: {
   product: AffiliateProduct;
   rank: number;
   reverse?: boolean;
+  review?: LandingReviewLink;
 }) {
   return (
     <article
       id={`${product.id}-detail`}
-      className={`grid grid-cols-1 gap-6 overflow-hidden rounded-3xl border border-white/10 bg-coal-900 lg:grid-cols-2 lg:gap-10 ${
+      className={`grid scroll-mt-20 grid-cols-1 gap-6 overflow-hidden rounded-3xl border border-white/10 bg-coal-900 lg:grid-cols-2 lg:gap-10 ${
         reverse ? "lg:[&>div:first-child]:order-2" : ""
       }`}
     >
@@ -677,13 +839,13 @@ function DetailCard({
             </div>
           )}
         </div>
-        {product.links.length > 0 && (
+        {(product.links.length > 0 || review) && (
           <div className="mt-2 flex flex-wrap gap-2">
             {product.links.map((l) => (
               <a
                 key={l.url}
                 href={l.url}
-                rel="sponsored nofollow noopener"
+                rel="nofollow noopener"
                 target="_blank"
                 className="inline-flex items-center gap-2 rounded-full bg-accent px-4 py-2.5 text-xs font-semibold uppercase tracking-[0.18em] text-accent-foreground transition-transform hover:-translate-y-0.5 hover:shadow-[0_8px_24px_-6px_rgba(255,122,38,0.5)]"
               >
@@ -694,6 +856,7 @@ function DetailCard({
                 <ExternalLink className="h-3 w-3" />
               </a>
             ))}
+            {review && <ReviewLinkButton review={review} />}
           </div>
         )}
       </div>

@@ -105,7 +105,7 @@ export function WhoIsBehind() {
                 </ul>
 
                 <p className="mt-7 font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
-                  Aucun contenu généré · Aucune affiliation cachée ·
+                  Aucun contenu généré · Aucun lien sponsorisé ·
                   Relectures avant publication
                 </p>
               </div>

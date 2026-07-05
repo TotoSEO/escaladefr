@@ -30,11 +30,11 @@ export type AffiliateProduct = {
   description: string;
   /** Profil cible : "débutant" | "intermédiaire" | "expert" | "polyvalent". */
   level?: "débutant" | "intermédiaire" | "expert" | "polyvalent";
-  /** Liens d'affiliation par marchand. */
+  /** Liens marchands (non affiliés, non rémunérés). */
   links: {
-    /** Nom affiché du marchand (ex. "Snowleader", "Decathlon"). */
+    /** Nom affiché du marchand (ex. "Hardloop", "Alpinstore"). */
     merchant: string;
-    /** URL d'affiliation. Sera rendue avec rel="sponsored nofollow noopener". */
+    /** URL de la fiche produit. Sera rendue avec rel="nofollow noopener". */
     url: string;
     /** Prix éventuellement spécifique au marchand. */
     price?: number;
@@ -93,6 +93,56 @@ export type AffiliateLanding = {
   relatedBlogSlugs?: string[];
 };
 
+/* ───── Pages avis (test long format d'un produit) ───── */
+
+export type EquipementReview = {
+  /** URL slug après /equipement/avis/ (ex. "baudrier-petzl-corax"). */
+  slug: string;
+  /** Catégorie produit, alignée sur AffiliateLanding["category"]. */
+  category: AffiliateLanding["category"];
+  /** Nom commercial exact du produit testé. */
+  productName: string;
+  brand: string;
+  /** Title HTML (50-65 char), format "Avis <produit> (2026) : …". */
+  title: string;
+  h1: string;
+  /** Meta description (120-160 char). */
+  description: string;
+  /** Chapo éditorial sous le H1 (2-3 phrases). */
+  chapo: string;
+  /** Note d'Antoine sur 5 (ex. 4.5). */
+  rating: number;
+  /** Verdict en une ou deux phrases, affiché en encadré et repris par les LLMs. */
+  verdict: string;
+  /** Contexte de test affiché (ex. "8 mois d'utilisation, salle et falaise"). */
+  testContext: string;
+  /** Prix indicatif constaté (euros). */
+  priceFrom?: number;
+  publishedAt: string;
+  updatedAt: string;
+  image: string;
+  imageAlt: string;
+  pros: string[];
+  cons: string[];
+  /** Corps de l'avis (mêmes blocs que les LP). */
+  sections: AffiliateContentBlock[];
+  /** Alternatives comparées en fin d'avis. */
+  alternatives?: {
+    name: string;
+    comment: string;
+    /** Lien interne éventuel (autre avis ou LP). */
+    href?: string;
+  }[];
+  faq?: AffiliateFaqItem[];
+  /** Liens marchands (non affiliés). */
+  links: { merchant: string; url: string; price?: number }[];
+  /** LP "meilleurs …" liée pour le maillage. */
+  relatedLandingSlug?: string;
+  /** id du produit correspondant dans la LP liée (pour lier LP → avis). */
+  productId?: string;
+  relatedBlogSlugs?: string[];
+};
+
 /* ───── Helpers I/O (server-only) ───── */
 
 const ROOT = process.cwd();
@@ -128,6 +178,35 @@ export async function fetchAllAffiliateLandings(): Promise<AffiliateLanding[]> {
   }
 }
 
+const REVIEWS_DIR = path.join(ROOT, "data", "equipement", "avis");
+
+export async function fetchEquipementReview(
+  slug: string,
+): Promise<EquipementReview | null> {
+  const file = path.join(REVIEWS_DIR, `${slug}.json`);
+  try {
+    const raw = await fs.readFile(file, "utf-8");
+    return JSON.parse(raw) as EquipementReview;
+  } catch {
+    return null;
+  }
+}
+
+export async function fetchAllEquipementReviews(): Promise<EquipementReview[]> {
+  try {
+    const files = await fs.readdir(REVIEWS_DIR);
+    const out: EquipementReview[] = [];
+    for (const f of files.filter((n) => n.endsWith(".json"))) {
+      const review = await fetchEquipementReview(f.replace(/\.json$/, ""));
+      if (review) out.push(review);
+    }
+    // Les plus récents d'abord (date de mise à jour).
+    return out.sort((a, b) => b.updatedAt.localeCompare(a.updatedAt));
+  } catch {
+    return [];
+  }
+}
+
 export const CATEGORY_LABEL: Record<AffiliateLanding["category"], string> = {
   chaussons: "Chaussons",
   baudriers: "Baudriers",
@@ -146,7 +225,8 @@ export const CATEGORY_LABEL: Record<AffiliateLanding["category"], string> = {
 // Politiques publiques constatées sur les CGV des marchands (mai 2026).
 // On les expose dans le schema Offer pour satisfaire l'exigence Google
 // "merchant listing" (shippingDetails + hasMerchantReturnPolicy) tout en
-// déclarant explicitement le seller — on n'est qu'affilié, pas vendeur.
+// déclarant explicitement le seller — le site n'est pas vendeur et n'a
+// aucun lien commercial avec ces marchands.
 type MerchantPolicy = {
   url: string;
   shippingThreshold: number;

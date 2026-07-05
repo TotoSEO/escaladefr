@@ -1,12 +1,12 @@
 {
   "slug": "systemes-assurage-escalade",
   "category": "assurage",
-  "title": "Meilleurs assureurs escalade 2026 : Grigri, Reverso, ATC",
+  "title": "Meilleurs assureurs escalade 2026 : Grigri, Reverso, Jul",
   "h1": "Les meilleurs systèmes d'assurage 2026",
-  "description": "Petzl Grigri Plus, Black Diamond ATC-Guide, Edelrid Mega Jul : les 5 meilleurs assureurs d'escalade 2026 pour la falaise sportive et la grande voie.",
+  "description": "Petzl Grigri, Reverso, Edelrid Giga Jul et Mega Jul II : les 5 meilleurs assureurs d'escalade 2026 pour la falaise sportive et la grande voie.",
   "subtitle": "Cinq systèmes d'assurage comparés en falaise et en salle. Auto-blocage, fluidité, polyvalence.",
   "year": 2026,
-  "updatedAt": "2026-05-15T12:00:00+02:00",
+  "updatedAt": "2026-07-05T12:00:00+02:00",
   "heroImage": "https://images.hardloop.fr/634552-thickbox_default/petzl-grigri-assureur.jpg",
   "heroImageAlt": "Photo produit Petzl Grigri + sur fond neutre",
   "products": [
@@ -38,11 +38,6 @@
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/5105-petzl-grigri-assureur",
           "price": 90
-        },
-        {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/grigri-gris-PETZ00651.html",
-          "price": 100
         }
       ]
     },
@@ -74,46 +69,36 @@
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/18544-petzl-grigri-assureur",
           "price": 78
-        },
-        {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/grigri-rouge-orange-PETZ00445.html",
-          "price": 80
         }
       ]
     },
     {
-      "id": "black-diamond-atc-guide",
-      "name": "Black Diamond ATC-Guide",
-      "brand": "Black Diamond",
-      "tagline": "Le tubulaire grande voie incontournable.",
-      "rating": 4.6,
-      "reviewCount": 2200,
-      "priceFrom": 28,
+      "id": "edelrid-giga-jul",
+      "name": "Edelrid Giga Jul",
+      "brand": "Edelrid",
+      "tagline": "Deux appareils en un : tube classique ou freinage assisté.",
+      "rating": 4.5,
+      "reviewCount": 640,
+      "priceFrom": 48,
       "level": "intermédiaire",
-      "description": "Tubulaire à mode autobloquant pour assurer le second en grande voie, l'ATC-Guide accepte les cordes simples et doubles de 8.1 à 11 mm. Léger (80 g) et indispensable dès qu'on quitte la falaise une longueur.",
+      "description": "Le Giga Jul se commute en un geste entre mode tube classique et mode à assistance au freinage, et garde un mode plaquette pour assurer un ou deux seconds en grande voie. Entièrement en acier (121 g), il accepte cordes simples et doubles. Le couteau suisse de la grande voie moderne — il remplace ici le Black Diamond ATC-Guide, introuvable en stock chez les marchands français à date.",
       "pros": [
-        "Mode autobloquant fiable",
-        "Compatible cordes simples et doubles",
-        "Léger et compact",
-        "Tarif raisonnable"
+        "Mode assisté et mode tube au choix, selon le contexte",
+        "Mode plaquette pour assurer le second en grande voie",
+        "Construction acier très durable",
+        "Compatible cordes simples et à double"
       ],
       "cons": [
-        "Pas de freinage assisté en tête",
-        "Descente sur autobloquant nécessite technique"
+        "121 g, plus lourd qu'un tube simple",
+        "Manipulation à apprendre avant de partir en grande voie"
       ],
-      "image": "https://images.hardloop.fr/976666-large_default/black-diamond-atc-guide-assureur.jpg",
-      "imageAlt": "Photo produit Black Diamond ATC-Guide sur fond neutre",
+      "image": "https://images.hardloop.fr/155910-large_default/edelrid-giga-jul-assureur.jpg",
+      "imageAlt": "Assureur Edelrid Giga Jul convertible tube et freinage assisté",
       "links": [
         {
           "merchant": "Hardloop",
-          "url": "https://www.hardloop.fr/produit/16229-black-diamond-atc-guide-assureur",
-          "price": 28
-        },
-        {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/atc-guide-black-BLAD01328.html",
-          "price": 33
+          "url": "https://www.hardloop.fr/produit/22464-edelrid-giga-jul-assureur",
+          "price": 48
         }
       ]
     },
@@ -124,9 +109,9 @@
       "tagline": "Le tube polyvalent ultra-léger.",
       "rating": 4.5,
       "reviewCount": 1600,
-      "priceFrom": 28,
+      "priceFrom": 29,
       "level": "intermédiaire",
-      "description": "Concurrent direct de l'ATC-Guide, le Reverso 4 pèse 57 g tout en gardant le mode autobloquant. Choix de prédilection pour la grande voie sportive ou alpine.",
+      "description": "Le grand classique du tube à mode autobloquant : le Reverso actuel pèse 57 g et accepte cordes simples 8,5-10,5 mm, demi-cordes 7,1-9,2 mm et jumelées 6,9-9,2 mm. Choix de prédilection pour la grande voie sportive ou alpine.",
       "pros": [
         "Très léger (57 g)",
         "Mode autobloquant efficace",
@@ -141,20 +126,20 @@
       "imageAlt": "Photo produit Petzl Reverso sur fond neutre",
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/reverso-4-gris-PETZ00447.html",
-          "price": 28
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/762-petzl-reverso-assureur-descendeur",
+          "price": 29
         }
       ]
     },
     {
       "id": "edelrid-mega-jul",
-      "name": "Edelrid Mega Jul",
+      "name": "Edelrid Mega Jul II",
       "brand": "Edelrid",
       "tagline": "L'assureur assisté ultra-léger.",
       "rating": 4.3,
       "reviewCount": 890,
-      "priceFrom": 43,
+      "priceFrom": 37,
       "level": "expert",
       "description": "Tubulaire à assistance au freinage entièrement en acier, le Mega Jul ne pèse que 75 g et combine assistance et mode plaquette grande voie. Une alternative crédible au Grigri pour les minimalistes.",
       "pros": [
@@ -173,12 +158,7 @@
         {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/60908-edelrid-mega-jul-ii-assureur",
-          "price": 43
-        },
-        {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/mega-jul-ii-EDEL00291.html",
-          "price": 45
+          "price": 37
         }
       ]
     }
@@ -198,7 +178,7 @@
     },
     {
       "type": "p",
-      "html": "Le choix du système d'assurage dépend du contexte : <strong>falaise sportive et salle</strong>, Grigri pour le freinage assisté. <strong>Grande voie</strong>, tubulaire avec mode autobloquant (Reverso, ATC-Guide). <strong>Minimalisme alpinisme</strong>, Mega Jul. Beaucoup de grimpeurs possèdent les deux : un Grigri pour le sport, un tubulaire pour la grande voie. Compte 30 à 140 € selon le modèle."
+      "html": "Le choix du système d'assurage dépend du contexte : <strong>falaise sportive et salle</strong>, Grigri pour le freinage assisté. <strong>Grande voie</strong>, tubulaire avec mode autobloquant (Reverso, Giga Jul). <strong>Minimalisme alpinisme</strong>, Mega Jul. Beaucoup de grimpeurs possèdent les deux : un Grigri pour le sport, un tubulaire pour la grande voie. Compte 30 à 140 € selon le modèle."
     },
     {
       "type": "h2",
@@ -225,7 +205,7 @@
   "faq": [
     {
       "q": "Quel est le meilleur système d'assurage d'escalade en 2026 ?",
-      "a": "Le <strong>Petzl Grigri Plus</strong> reste l'assureur à freinage assisté de référence pour la falaise sportive et la salle (notre choix éditorial). Pour la grande voie multi-longueurs, le tubulaire <strong>Black Diamond ATC-Guide</strong> ou le <strong>Petzl Reverso</strong> avec mode autobloquant sont indispensables. La plupart des grimpeurs possèdent les deux."
+      "a": "Le <strong>Petzl Grigri Plus</strong> reste l'assureur à freinage assisté de référence pour la falaise sportive et la salle (notre choix éditorial). Pour la grande voie multi-longueurs, le tubulaire <strong>Petzl Reverso</strong> ou l'<strong>Edelrid Giga Jul</strong> avec mode plaquette sont indispensables. La plupart des grimpeurs possèdent les deux."
     },
     {
       "q": "Grigri ou tubulaire pour démarrer la voie ?",
@@ -237,11 +217,11 @@
     },
     {
       "q": "Pourquoi avoir un tubulaire si on a déjà un Grigri ?",
-      "a": "Le Grigri ne fonctionne qu'en simple. Pour assurer le second en grande voie sur cordes à double, ou pour faire un rappel, il faut un tubulaire. <a href=\"/blog/grandes-voies-tactique\">Le guide de la grande voie</a> détaille cette double équipement."
+      "a": "Le Grigri ne fonctionne qu'en simple. Pour assurer le second en grande voie sur cordes à double, ou pour faire un rappel, il faut un tubulaire (Reverso, Giga Jul). <a href=\"/blog/grandes-voies-tactique\">Le guide de la grande voie</a> détaille cette double équipement."
     },
     {
       "q": "Quelle plage de diamètres accepter ?",
-      "a": "Vérifie sur l'appareil. Grigri 2019 : 8.5-11 mm. ATC-Guide : 7.7-11 mm. Reverso 4 : 7.1-11 mm. En dehors de ces plages, le freinage devient hasardeux."
+      "a": "Vérifie sur l'appareil. Grigri 2019 : 8,5-11 mm (optimisé 8,9-10,5 mm). Reverso : 8,5-10,5 mm en corde simple, 7,1-9,2 mm en demi-cordes. Giga Jul et Mega Jul II : cordes fines à moyennes, vérifie la plage gravée. En dehors de ces plages, le freinage devient hasardeux."
     },
     {
       "q": "Le Mega Jul est-il une alternative au Grigri ?",

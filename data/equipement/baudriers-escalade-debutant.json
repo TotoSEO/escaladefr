@@ -3,41 +3,41 @@
   "category": "baudriers",
   "title": "Meilleurs baudriers d'escalade débutant 2026, comparatif",
   "h1": "Les meilleurs baudriers d'escalade débutant 2026",
-  "description": "Petzl Corax, Black Diamond Momentum, Blue Ice Addax : 5 baudriers d'escalade pour bien débuter en 2026. Confort, sécurité, polyvalence, prix à jour.",
+  "description": "Petzl Corax LT, Black Diamond Momentum, Blue Ice Addax : 5 baudriers d'escalade pour bien débuter en 2026. Confort, sécurité, polyvalence, disponibilité vérifiée.",
   "subtitle": "Cinq baudriers testés en salle et en falaise. Le bon investissement pour démarrer la voie en sécurité sans payer le prix fort.",
   "year": 2026,
-  "updatedAt": "2026-05-15T12:00:00+02:00",
-  "heroImage": "https://images.hardloop.fr/248074-thickbox_default/petzl-corax-baudrier.jpg",
-  "heroImageAlt": "Baudrier d'escalade Petzl Corax noir et orange avec quatre porte-matériel",
+  "updatedAt": "2026-07-05T12:00:00+02:00",
+  "heroImage": "https://cdn.alpinstore.com/672132-large_default/petzl-harnais-corax-lt-indigo-blue-s-.jpg",
+  "heroImageAlt": "Baudrier d'escalade Petzl Corax LT bleu indigo avec quatre porte-matériel",
   "products": [
     {
-      "id": "petzl-corax",
-      "name": "Petzl Corax",
+      "id": "petzl-corax-lt",
+      "name": "Petzl Corax LT",
       "brand": "Petzl",
-      "tagline": "Le baudrier polyvalent de référence en France.",
+      "tagline": "L'esprit Corax, en version allégée et éco-conçue.",
       "rating": 4.7,
-      "reviewCount": 2150,
-      "priceFrom": 53,
-      "image": "https://images.hardloop.fr/248074-thickbox_default/petzl-corax-baudrier.jpg",
-      "imageAlt": "Baudrier d'escalade Petzl Corax noir et orange avec quatre porte-matériel",
+      "reviewCount": 1900,
+      "priceFrom": 49,
+      "image": "https://cdn.alpinstore.com/672132-large_default/petzl-harnais-corax-lt-indigo-blue-s-.jpg",
+      "imageAlt": "Baudrier d'escalade Petzl Corax LT bleu indigo avec quatre porte-matériel",
       "level": "polyvalent",
       "badge": "editor-choice",
-      "description": "Le Corax est devenu un standard depuis 15 ans, sans concurrent crédible dans sa gamme. Ceinture à double boucle DoubleBack pour un ajustement millimétré, quatre porte-matériel rigides, pontet textile renforcé. Convient à 90 % des grimpeurs débutants et intermédiaires en salle comme en falaise. Compte 8 à 12 ans de durée de vie en usage régulier.",
+      "description": "Déclinaison allégée du légendaire Corax, le Corax LT reprend la construction FRAME de la génération 2024 (tissu 100 % polyester recyclé) avec une boucle DoubleBack à la ceinture et des cuissards élastiques ajustables. Cinq tailles (XS à XL), 345 à 455 g selon la taille, quatre porte-matériel dont deux rigides à l'avant. Le meilleur compromis confort-poids-prix pour débuter et progresser en salle comme en falaise. Le Corax classique (cuissards réglables, double boucle) reste au catalogue Petzl mais il est souvent en rupture chez les marchands français.",
       "pros": [
-        "Ajustement précis grâce aux 2 boucles DoubleBack et aux cuissards extensibles",
-        "Quatre porte-matériel rigides utilisables en grande voie",
-        "Confort sur longues sessions sportives",
-        "Construction Petzl, gage de qualité et durée de vie"
+        "Réglage simple et rapide avec une boucle DoubleBack",
+        "Léger : 345 à 455 g selon la taille (XS à XL)",
+        "Quatre porte-matériel dont deux rigides à l'avant",
+        "Construction FRAME 2024 en polyester recyclé, autour de 49 €"
       ],
       "cons": [
-        "Poids 470 à 520 g selon taille (1 ou 2)",
-        "Pas le plus minimaliste pour la couenne pure"
+        "Cuissards non réglables : moins pratique sur grosses couches d'hiver",
+        "Ajustement moins fin que le Corax classique à double boucle"
       ],
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/corax-gris-PETZ00616.html",
-          "price": 53
+          "merchant": "Alpinstore",
+          "url": "https://www.alpinstore.com/fr/585307-petzl-harnais-corax-lt-indigo-blue-s-.html",
+          "price": 49
         }
       ]
     },
@@ -48,7 +48,7 @@
       "tagline": "Le baudrier salle accessible et confort.",
       "rating": 4.5,
       "reviewCount": 1680,
-      "priceFrom": 51,
+      "priceFrom": 48,
       "image": "https://images.hardloop.fr/165696-thickbox_default/black-diamond-momentum-harness-baudrier-homme.jpg",
       "imageAlt": "Baudrier d'escalade Black Diamond Momentum gris foncé avec sangles bleues",
       "level": "débutant",
@@ -57,7 +57,7 @@
       "pros": [
         "Léger à 350 g, peu encombrant",
         "Enfilage très rapide grâce au système Speed Adjust + TrakFit",
-        "Bon rapport confort-prix autour de 50 €",
+        "Bon rapport confort-prix autour de 48 €",
         "Disponible en tailles XS à XL, version femme distincte"
       ],
       "cons": [
@@ -66,9 +66,9 @@
       ],
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/m-momentum-harness-package-BLAD02509.html",
-          "price": 51
+          "merchant": "Alpinstore",
+          "url": "https://www.alpinstore.com/fr/626952-black-diamond-m-momentum-harness-moonstone.html",
+          "price": 48
         }
       ]
     },
@@ -99,71 +99,66 @@
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/25565-blue-ice-addax-baudrier",
           "price": 80
-        },
-        {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/addax-BLIC00034.html",
-          "price": 85
         }
       ]
     },
     {
-      "id": "petzl-luna",
+      "id": "petzl-corax-lt-women",
       "name": "Petzl Corax LT Women",
       "brand": "Petzl",
       "tagline": "Le baudrier Corax en version féminine.",
       "rating": 4.7,
       "reviewCount": 720,
       "priceFrom": 49,
-      "image": "https://www.bfgcdn.com/1500_1500_90/303-0628-0111/petzl-womens-corax-lt-baudrier.jpg",
-      "imageAlt": "Photo produit Petzl Corax LT Women sur fond neutre",
+      "image": "https://cdn.alpinstore.com/691111-large_default/petzl-harnais-corax-lt-women-lilac-white-xs-.jpg",
+      "imageAlt": "Baudrier d'escalade Petzl Corax LT Women coloris Lilac White",
       "level": "polyvalent",
-      "description": "Évolution du Luna, le Corax LT Women conserve la morphologie féminine (ceinture large arrière, cuissards inclinés) avec la construction légère du Corax. Boucle DoubleBack à la taille, quatre porte-matériel rigides.",
+      "description": "Évolution du Luna, le Corax LT Women conserve la morphologie féminine (ceinture large à l'arrière, cuissards inclinés) avec la construction légère de la gamme Corax : une boucle DoubleBack à la ceinture, quatre porte-matériel dont deux rigides à l'avant, 350 à 460 g selon la taille (XS à XL).",
       "pros": [
-        "Confort féminin pensé sur la position assise prolongée",
-        "Quatre porte-matériel rigides en grande voie",
-        "Construction proche du Corax, avec une seule boucle DoubleBack",
-        "Coloris discrets adaptés à la falaise"
+        "Confort féminin pensé pour la position assise prolongée",
+        "Quatre porte-matériel dont deux rigides à l'avant",
+        "Construction FRAME légère, une boucle DoubleBack",
+        "Cinq tailles XS à XL, coloris discrets"
       ],
       "cons": [
-        "Pas toujours dispo en tailles XS et XL",
-        "Légèrement plus lourd que le Corax mixte"
+        "Cuissards non réglables",
+        "Deux coloris seulement (Lilac White, Coral Sand)"
       ],
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/corax-lt-women-lilac-white-PETZ00807.html",
+          "merchant": "Alpinstore",
+          "url": "https://www.alpinstore.com/fr/611404-petzl-harnais-corax-lt-women-lilac-white-xs-.html",
           "price": 49
         }
       ]
     },
     {
-      "id": "edelrid-jay-iii",
+      "id": "edelrid-jay-iv",
       "name": "Edelrid Jay IV",
       "brand": "Edelrid",
       "tagline": "La nouvelle version du Jay, robuste et durable.",
       "rating": 4.4,
       "reviewCount": 540,
-      "priceFrom": 65,
-      "image": "https://shopapi.edelrid.com/v1/media/image/edelrid/3657581/web-l",
-      "imageAlt": "Photo produit Edelrid Jay IV sur fond neutre",
+      "priceFrom": 55,
+      "image": "https://cdn.alpinstore.com/697007-large_default/edelrid-jay-iv-hokkaido.jpg",
+      "imageAlt": "Baudrier d'escalade Edelrid Jay IV coloris Hokkaido",
       "level": "polyvalent",
-      "description": "Le Jay IV remplace le Jay III avec une mousse 3D et un nouveau système de ceinture qui améliore le confort en suspension prolongée. Cinq porte-matériel, construction Edelrid réputée pour sa durabilité.",
+      "description": "Quatrième génération du Jay (lancée en 2025), avec boucles auto-bloquantes Slide Block à ouverture complète à la ceinture et aux cuisses, et construction Center Fit (la mousse de ceinture coulisse pour rester centrée). Cinq porte-matériel, deux emplacements porte-broches, 381 g en S à 470 g en XL.",
       "pros": [
-        "Confort matelassé bien adapté aux sessions longues",
-        "Construction Edelrid robuste",
-        "Cinq porte-matériel + lien anti-chute",
-        "Bon rapport qualité-prix"
+        "Boucles Slide Block réglables ceinture et cuisses",
+        "Construction Center Fit : la ceinture reste centrée",
+        "Cinq porte-matériel + deux emplacements porte-broches",
+        "Bon rapport qualité-prix autour de 55 €"
       ],
       "cons": [
-        "Plus lourd à 480g",
-        "Moins polyvalent en alpinisme léger que les concurrents"
+        "410 g en taille M, plus lourd que le Corax LT",
+        "Chaussant Edelrid qui taille plutôt grand : vérifie le guide des tailles"
       ],
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/jay-iv-sailor-blue-EDEL00325.html",
-          "price": 65
+          "merchant": "Alpinstore",
+          "url": "https://www.alpinstore.com/fr/614292-edelrid-jay-iv-hokkaido.html",
+          "price": 55
         }
       ]
     }
@@ -183,7 +178,7 @@
     },
     {
       "type": "p",
-      "html": "Le baudrier est un équipement de vie : il te tient quand tu tombes. Inutile d'investir dans un modèle d'alpinisme à 200 € pour faire de la salle. <strong>Trois critères comptent</strong> : le confort en suspension (tu dois tenir 10 minutes au relais sans douleur), le système de réglage (4 boucles DoubleBack pour un ajustement précis), et le nombre de porte-matériel (4 minimum si tu vises la grande voie)."
+      "html": "Le baudrier est un équipement de vie : il te tient quand tu tombes. Inutile d'investir dans un modèle d'alpinisme à 200 € pour faire de la salle. <strong>Trois critères comptent</strong> : le confort en suspension (tu dois tenir 10 minutes au relais sans douleur), le système de réglage (boucles DoubleBack ou Slide Block auto-bloquantes ; les cuissards élastiques bien conçus suffisent pour la salle et la falaise), et le nombre de porte-matériel (4 minimum si tu vises la grande voie)."
     },
     {
       "type": "p",
@@ -280,11 +275,11 @@
   "faq": [
     {
       "q": "Quel est le meilleur baudrier d'escalade pour débuter en 2026 ?",
-      "a": "Le <strong>Petzl Corax</strong> reste la référence polyvalente du marché français (notre choix éditorial). Pour démarrer en salle avec un budget serré, le <strong>Black Diamond Momentum</strong> à 50 € fait le job. Si tu vises la grande voie longue, le <strong>Blue Ice Addax</strong> ultra-léger (230 g) de la marque française de Chamonix complète bien le panorama."
+      "a": "Le <strong>Petzl Corax LT</strong> est notre choix 2026 : la construction du Corax en plus léger, autour de 49 €. Pour démarrer en salle avec un budget serré, le <strong>Black Diamond Momentum</strong> à 48 € fait le job. Si tu vises la grande voie longue, le <strong>Blue Ice Addax</strong> ultra-léger (130-174 g) de la marque française de Chamonix complète le panorama."
     },
     {
       "q": "Faut-il un baudrier femme spécifique ?",
-      "a": "Pas obligatoirement, mais c'est plus confortable pour 60 % des morphologies féminines. Le Petzl Luna, Black Diamond Solution Guide Women's ou Edelrid Jayne sont des versions féminines reconnues. Tu sentiras la différence surtout en suspension prolongée au relais."
+      "a": "Pas obligatoirement, mais c'est plus confortable pour 60 % des morphologies féminines. Le Petzl Corax LT Women, Black Diamond Solution Guide Women's ou Edelrid Jayne sont des versions féminines reconnues. Tu sentiras la différence surtout en suspension prolongée au relais."
     },
     {
       "q": "Combien de porte-matériel sont nécessaires ?",
@@ -299,8 +294,8 @@
       "a": "Le Corax est plus léger (490g vs 580g), plus polyvalent salle-falaise. L'Adjama est plus rembourré, conçu pour la grande voie alpine longue et engagée. Pour démarrer, le Corax suffit. Tu passeras à l'Adjama plus tard si tu vises l'alpinisme."
     },
     {
-      "q": "Faut-il privilégier un baudrier avec 4 boucles de réglage ?",
-      "a": "Oui. Les baudriers à boucle unique (cuissards fixes) ne s'ajustent pas correctement aux variations de poids ou d'épaisseur de vêtements (hiver vs été). 4 boucles DoubleBack restent la norme et l'investissement rentable."
+      "q": "Faut-il absolument des cuissards réglables ?",
+      "a": "Non. Les cuissards élastiques modernes (Corax LT, Momentum) couvrent très bien la salle et la falaise à la belle saison. Les cuissards à boucles restent préférables si tu grimpes l'hiver avec des couches épaisses ou si ta morphologie sort des standards : le Corax classique ou le Jay IV répondent à ce besoin."
     },
     {
       "q": "Quand renouveler son baudrier ?",

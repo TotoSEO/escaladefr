@@ -21,6 +21,19 @@ export type Cocon =
 
 export type ArticleType = "hub" | "guide" | "liste" | "profil" | "astuce";
 
+/** Liste ordonnée canonique des thématiques éditoriales du blog. */
+export const COCONS: readonly Cocon[] = [
+  "techniques",
+  "materiel",
+  "noeuds",
+  "sites",
+  "personnalites",
+  "preparation",
+  "securite",
+  "environnement",
+  "culture",
+];
+
 export type FaqItem = { q: string; a: string };
 
 export type InternalLink = {
@@ -467,4 +480,21 @@ export function formatPublishedDate(iso: string): string {
 export function readingTimeMinutes(wordCount: number | null): number {
   if (!wordCount || wordCount < 1) return 1;
   return Math.max(1, Math.round(wordCount / 230));
+}
+
+/**
+ * Tronque un texte à `max` caractères, proprement : de préférence à la fin
+ * d'une phrase complète, sinon au dernier mot entier suivi d'une ellipse.
+ * Utilisé pour les descriptions courtes de la navigation par thématique.
+ */
+export function truncateText(text: string, max = 90): string {
+  const t = text.trim();
+  if (t.length <= max) return t;
+  const slice = t.slice(0, max + 1);
+  const sentenceEnd = slice.lastIndexOf(". ");
+  if (sentenceEnd >= max * 0.4) return slice.slice(0, sentenceEnd + 1);
+  const lastSpace = slice.lastIndexOf(" ");
+  const cut = (lastSpace > 0 ? slice.slice(0, lastSpace) : slice.slice(0, max))
+    .replace(/[\s,;:.]+$/, "");
+  return `${cut}…`;
 }

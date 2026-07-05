@@ -3,10 +3,10 @@
   "category": "casques",
   "title": "Meilleurs casques d'escalade 2026 : confort et légèreté",
   "h1": "Les meilleurs casques d'escalade 2026",
-  "description": "Petzl Sirocco, Boreo, Black Diamond Vision, Camp Storm : les 5 meilleurs casques d'escalade en 2026 pour la falaise et la grande voie. Légèreté, ventilation, prix.",
+  "description": "Petzl Sirocco, Boreo, Meteor, Black Diamond Vision MIPS, Camp Storm : les 5 meilleurs casques d'escalade en 2026 pour la falaise et la grande voie.",
   "subtitle": "Cinq casques pesés et testés en falaise. Légèreté, ventilation, ajustement réel.",
   "year": 2026,
-  "updatedAt": "2026-05-15T12:00:00+02:00",
+  "updatedAt": "2026-07-05T12:00:00+02:00",
   "heroImage": "https://images.hardloop.fr/780096-large_default/petzl-boreo-casque-escalade.jpg",
   "heroImageAlt": "Photo produit Petzl Boreo sur fond neutre",
   "products": [
@@ -17,7 +17,7 @@
       "tagline": "Le casque ultra-léger de référence.",
       "rating": 4.7,
       "reviewCount": 1850,
-      "priceFrom": 94,
+      "priceFrom": 100,
       "level": "expert",
       "badge": "premium",
       "description": "Avec seulement 170 g, le Sirocco est le casque hybride mousse expansée/polycarbonate le plus léger du marché. Très ventilé, il se fait oublier sur la tête lors des longues voies.",
@@ -35,11 +35,6 @@
       "imageAlt": "Photo produit Petzl Sirocco sur fond neutre",
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/sirocco-noir-PETZ00847.html",
-          "price": 94
-        },
-        {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/61454-petzl-sirocco-casque-escalade",
           "price": 100
@@ -53,7 +48,7 @@
       "tagline": "Le casque hybride polyvalent.",
       "rating": 4.6,
       "reviewCount": 2300,
-      "priceFrom": 52,
+      "priceFrom": 54,
       "level": "polyvalent",
       "badge": "editor-choice",
       "description": "Construction hybride coque ABS et double mousse EPP + EPS, le Boreo offre un excellent compromis entre robustesse, confort et prix. Très utilisé en grande voie, alpinisme léger et canyon.",
@@ -71,11 +66,6 @@
       "imageAlt": "Photo produit Petzl Boreo sur fond neutre",
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/boreo-bleu-PETZ00527.html",
-          "price": 52
-        },
-        {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/50875-petzl-boreo-casque-escalade",
           "price": 54
@@ -83,17 +73,17 @@
       ]
     },
     {
-      "id": "black-diamond-vision",
-      "name": "Black Diamond Vision",
+      "id": "black-diamond-vision-mips",
+      "name": "Black Diamond Vision MIPS",
       "brand": "Black Diamond",
       "tagline": "L'alternative légère à coque pleine.",
       "rating": 4.5,
       "reviewCount": 720,
-      "priceFrom": 102,
+      "priceFrom": 100,
       "level": "intermédiaire",
-      "description": "Casque léger (240 g en S/M) à coque ABS et mousse EPP avec insert EPS au sommet, le Vision combine la résistance aux chocs latéraux et la légèreté. Bonne option pour la falaise et l'alpinisme.",
+      "description": "Casque léger (240 g en S/M, 250 g en M/L) à coque polycarbonate et mousse EPP avec insert EPS, équipé du système MIPS contre les chocs rotationnels. Le Vision MIPS combine résistance aux chocs latéraux et légèreté. Bonne option pour la falaise et l'alpinisme.",
       "pros": [
-        "Résistance aux chocs latéraux",
+        "Système MIPS + protection renforcée sur les côtés",
         "Excellente ventilation",
         "Confort intérieur soigné",
         "Compatible frontale"
@@ -106,14 +96,9 @@
       "imageAlt": "Photo produit Black Diamond Vision sur fond neutre",
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/vision-helmet-astral-blue-BLAD01501.html",
-          "price": 102
-        },
-        {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/22507-black-diamond-vision-helmet-mips-casque-escalade",
-          "price": 102
+          "price": 100
         }
       ]
     },
@@ -124,7 +109,7 @@
       "tagline": "Le casque léger italien à prix doux.",
       "rating": 4.3,
       "reviewCount": 580,
-      "priceFrom": 64,
+      "priceFrom": 53,
       "level": "débutant",
       "badge": "best-value",
       "description": "À moins de 65 euros, le Storm offre un compromis honnête en construction in-mold pour 230 g (taille 1) ou 250 g (taille 2). Idéal pour démarrer la falaise et la grande voie sans exploser le budget.",
@@ -142,44 +127,44 @@
       "imageAlt": "Photo produit Camp Storm sur fond neutre",
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/storm-lime-CAMP00125.html",
-          "price": 64
-        },
-        {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/13523-camp-storm-casque",
-          "price": 64
+          "price": 53
+        },
+        {
+          "merchant": "Alpinstore",
+          "url": "https://www.alpinstore.com/fr/567821-storm.html",
+          "price": 60
         }
       ]
     },
     {
-      "id": "mammut-wall-rider-mips",
-      "name": "Mammut Wall Rider MIPS",
-      "brand": "Mammut",
-      "tagline": "Le casque MIPS contre les chocs rotationnels.",
-      "rating": 4.5,
-      "reviewCount": 410,
-      "priceFrom": 102,
-      "level": "expert",
-      "description": "Premier casque d'escalade équipé du système MIPS, le Wall Rider apporte une protection supplémentaire contre les chocs rotationnels. Pesé à 220 g, il reste léger malgré la technologie embarquée.",
+      "id": "petzl-meteor",
+      "name": "Petzl Meteor",
+      "brand": "Petzl",
+      "tagline": "Le casque léger et aéré du grimpeur sportif.",
+      "rating": 4.7,
+      "reviewCount": 960,
+      "priceFrom": 70,
+      "level": "polyvalent",
+      "description": "Le Meteor est depuis vingt ans le casque fétiche des grimpeurs sportifs : 240 g, une ventilation parmi les meilleures du marché et un confort qui se fait oublier en grande voie. Construction in-mold (mousse EPS + coque fine), compatible avec la visière Vizion. Le juste milieu entre le Sirocco ultraléger et le Boreo increvable.",
       "pros": [
-        "Technologie MIPS unique",
-        "Très bonne ventilation",
-        "Confort intérieur premium",
-        "Construction EPP robuste"
+        "Léger (240 g) et remarquablement ventilé",
+        "Confort excellent sur les longues journées",
+        "Protection renforcée en label Top and Side Protection",
+        "Compatible visière Vizion et lampe frontale"
       ],
       "cons": [
-        "Tarif élevé",
-        "Bénéfice MIPS difficile à quantifier en escalade pure"
+        "Coque in-mold plus fragile que l'ABS au transport",
+        "Plus cher que le Boreo pour un usage salle-falaise occasionnel"
       ],
-      "image": "https://images.hardloop.fr/81116-thickbox_default/mammut-wall-rider-casque-escalade.jpg",
-      "imageAlt": "Photo produit Mammut Wall Rider MIPS sur fond neutre",
+      "image": "https://images.hardloop.fr/1156735-large_default/petzl-meteor-casque-escalade.jpg",
+      "imageAlt": "Casque d'escalade Petzl Meteor léger et ventilé",
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/wall-rider-mips-white-MAMM01789.html",
-          "price": 102
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/18539-petzl-meteor-casque-escalade",
+          "price": 70
         }
       ]
     }
@@ -226,7 +211,7 @@
   "faq": [
     {
       "q": "Quel est le meilleur casque d'escalade en 2026 ?",
-      "a": "Le <strong>Petzl Boreo</strong> est le meilleur choix polyvalent (hybride ABS et mousse EPP, autour de 55 €). Pour la grande voie longue, le <strong>Petzl Sirocco</strong> ultra-léger (160 g) fait référence. Pour démarrer avec un budget serré, le <strong>Camp Storm</strong> à 50 € offre un bon compromis."
+      "a": "Le <strong>Petzl Boreo</strong> est le meilleur choix polyvalent (hybride ABS et mousse EPP, autour de 55 €). Pour la grande voie longue, le <strong>Petzl Sirocco</strong> ultra-léger (170 g) fait référence. Pour démarrer avec un budget serré, le <strong>Camp Storm</strong> à 55 € offre un bon compromis."
     },
     {
       "q": "Le casque est-il obligatoire en salle ?",
@@ -234,7 +219,7 @@
     },
     {
       "q": "Mousse EPP ou coque dure ABS ?",
-      "a": "EPP (Sirocco, Wall Rider) protège mieux contre les chocs frontaux et est plus léger. ABS (Boreo) est plus robuste contre les frottements et le transport. Pour la grande voie longue, EPP. Pour le débutant qui transporte son casque en sac à dos, ABS."
+      "a": "Mousse (Sirocco, Meteor) protège mieux contre les chocs frontaux et est plus léger. ABS (Boreo) est plus robuste contre les frottements et le transport. Pour la grande voie longue, EPP. Pour le débutant qui transporte son casque en sac à dos, ABS."
     },
     {
       "q": "Quelle durée de vie pour un casque ?",
@@ -246,7 +231,7 @@
     },
     {
       "q": "Le MIPS change-t-il vraiment quelque chose ?",
-      "a": "Le MIPS est une technologie validée pour réduire les chocs rotationnels en moto et ski. En escalade, les chocs sont plus rares et plus latéraux, le bénéfice est plus marginal. Ne mets pas de surcoût juste pour ce critère."
+      "a": "Le MIPS est une technologie validée pour réduire les chocs rotationnels en moto et à ski. En escalade, les chocs sont plus rares et plus latéraux : le bénéfice existe mais reste marginal. Le Black Diamond Vision MIPS l'intègre sans surpoids notable ; ne paie pas de surcoût uniquement pour ce critère."
     },
     {
       "q": "Quelle taille de casque prendre ?",

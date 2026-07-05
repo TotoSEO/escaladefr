@@ -3,10 +3,10 @@
   "category": "chaussons",
   "title": "Meilleurs chaussons d'escalade débutant en 2026, comparatif",
   "h1": "Les meilleurs chaussons d'escalade débutant 2026",
-  "description": "La Sportiva Tarantula, Scarpa Vapor V, Five Ten Anasazi VCS : les 5 meilleurs chaussons d'escalade pour débuter en 2026. Comparatif chiffré, prix et avis.",
+  "description": "La Sportiva Tarantula, Scarpa Vapor V, Five Ten NIAD VCS : les 5 meilleurs chaussons d'escalade pour débuter en 2026. Comparatif, prix et disponibilité vérifiés.",
   "subtitle": "Cinq chaussons testés pour bien débuter en salle ou en falaise. Confort, sensation, durée de vie : ce qu'on retient après plusieurs saisons d'usage.",
   "year": 2026,
-  "updatedAt": "2026-05-15T12:00:00+02:00",
+  "updatedAt": "2026-07-05T12:00:00+02:00",
   "heroImage": "https://images.hardloop.fr/773834-large_default/scarpa-vapor-v-chaussons-escalade-homme.jpg",
   "heroImageAlt": "Chausson d'escalade Scarpa Vapor V violet et noir avec fermeture Velcro",
   "products": [
@@ -17,17 +17,17 @@
       "tagline": "Le chausson débutant le plus vendu dans le monde.",
       "rating": 4.6,
       "reviewCount": 1840,
-      "priceFrom": 76,
+      "priceFrom": 64,
       "image": "https://images.hardloop.fr/663289-thickbox_default/la-sportiva-tarantula-chaussons-escalade.jpg",
       "imageAlt": "Chausson d'escalade La Sportiva Tarantula orange et noir avec scratchs",
       "level": "débutant",
       "badge": "best-value",
-      "description": "Plat, souple, gomme FriXion RS de 5 mm, fermeture à deux scratchs ultra-rapides. Le Tarantula reste le chausson de référence pour démarrer parce qu'il pardonne tout : pose imprécise, séance longue, pied qui n'a pas encore son volume final. Disponible en version Tarantulace (lacets) pour celles et ceux qui préfèrent l'ajustement millimétré.",
+      "description": "Plat, souple, gomme FriXion Black de 4 mm sur le millésime 2026 (FriXion RS 5 mm sur les anciens stocks), fermeture à deux scratchs ultra-rapides. Le Tarantula reste le chausson de référence pour démarrer parce qu'il pardonne tout : pose imprécise, séance longue, pied qui n'a pas encore son volume final. Disponible en version Tarantulace (lacets) pour celles et ceux qui préfèrent l'ajustement millimétré.",
       "pros": [
         "Confort exceptionnel même sur 2h de séance",
         "Polyvalent salle et falaise jusqu'au 6b",
         "Gomme robuste qui dure 8 à 12 mois en usage régulier",
-        "Rapport qualité-prix imbattable autour de 80 €"
+        "Rapport qualité-prix imbattable : souvent trouvé sous les 80 € (prix public 95 €)"
       ],
       "cons": [
         "Manque de précision sur les très petits pieds au-delà du 6c",
@@ -35,14 +35,9 @@
       ],
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/tarantula-LASP00855.html",
-          "price": 76
-        },
-        {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/38405-la-sportiva-tarantula-chaussons-escalade-homme",
-          "price": 80
+          "price": 64
         }
       ]
     },
@@ -71,11 +66,6 @@
       ],
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/vapor-v-smoke-yellow-SCAR00711.html",
-          "price": 148
-        },
-        {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/3470-scarpa-vapor-v-chaussons-escalade-homme",
           "price": 148
@@ -83,13 +73,13 @@
       ]
     },
     {
-      "id": "five-ten-anasazi-vcs",
+      "id": "five-ten-niad-vcs",
       "name": "Five Ten NIAD VCS",
       "brand": "Five Ten",
       "tagline": "Le successeur direct de l'Anasazi VCS.",
       "rating": 4.5,
       "reviewCount": 1240,
-      "priceFrom": 140,
+      "priceFrom": 105,
       "image": "https://images.hardloop.fr/227903-thickbox_default/five-ten-niad-vcs-chaussons-escalade-homme.jpg",
       "imageAlt": "Photo produit Five Ten NIAD VCS sur fond neutre",
       "level": "polyvalent",
@@ -106,9 +96,9 @@
       ],
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/anasazi-vcs-golden-tan-FTEN00046.html",
-          "price": 140
+          "merchant": "Ekosport",
+          "url": "https://www.ekosport.fr/five-ten-niad-vcs-p-9-91656",
+          "price": 105
         }
       ]
     },
@@ -119,7 +109,7 @@
       "tagline": "Le choix confort-progression méconnu en France.",
       "rating": 4.4,
       "reviewCount": 380,
-      "priceFrom": 154,
+      "priceFrom": 138,
       "image": "https://images.hardloop.fr/252200-thickbox_default/tenaya-tarifa-chaussons-escalade.jpg",
       "imageAlt": "Chausson d'escalade Tenaya Tarifa noir et turquoise avec lacets",
       "level": "intermédiaire",
@@ -136,34 +126,33 @@
       ],
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/tarifa-yellow-TENA00009.html",
-          "price": 154
+          "merchant": "Alpiniste.fr",
+          "url": "https://www.alpiniste.fr/tenaya-tarifa-chaussons-descalade/",
+          "price": 138
         }
       ]
     },
     {
-      "id": "simond-edge",
-      "name": "Simond Edge",
+      "id": "simond-edge-soft",
+      "name": "Simond Edge Soft",
       "brand": "Simond",
-      "tagline": "L'entrée de gamme Decathlon qui fait le job.",
-      "rating": 4.1,
+      "tagline": "Le chausson performance de Decathlon, conçu à Chamonix.",
+      "rating": 4.3,
       "reviewCount": 2200,
       "priceFrom": 110,
       "image": "https://contents.mediadecathlon.com/p2923519/k$1bce50dfc490223fbf11bac8056c0bf9/picture.jpg",
       "imageAlt": "Chausson d'escalade Simond Edge noir et gris avec deux scratchs",
-      "level": "débutant",
-      "badge": "best-value",
-      "description": "Le chausson Decathlon-Simond pour démarrer sans investir trop. Gomme Vibram XS Grip 4 mm, deux scratchs, forme légèrement asymétrique. Pas un chef-d'œuvre de précision, mais largement suffisant pour 6 à 12 mois de pratique en salle, le temps de confirmer ton engagement. Disponible en magasin partout en France.",
+      "level": "intermédiaire",
+      "description": "Attention au malentendu : l'Edge Soft n'est pas un chausson d'initiation mais le haut de gamme Simond, développé à Chamonix avec le grimpeur olympique Mickaël Mawem. Gomme Vibram XS Grip de 4 mm, deux scratchs, chaussant asymétrique précis. Une vraie alternative aux ténors italiens autour de 110 €. Pour débuter à petit prix chez Decathlon, regarde plutôt le Simond First Klimb à 45 €.",
       "pros": [
-        "Prix très accessible autour de 50 €",
-        "Confort correct pour débuter",
-        "Disponible en magasin Decathlon partout en France",
-        "Tailles femme et homme distinctes"
+        "Gomme Vibram XS Grip 4 mm très adhérente",
+        "Précision étonnante pour le prix",
+        "Essayage possible en magasin Decathlon partout en France",
+        "Tailles homme et femme distinctes"
       ],
       "cons": [
-        "Gomme Vibram XS Grip moins fine que les modèles premium",
-        "Maintien talon limité sur des pieds étroits"
+        "Pas un chausson débutant malgré la marque grand public",
+        "Chaussant technique plus exigeant que le Tarantula"
       ],
       "links": [
         {
@@ -288,7 +277,7 @@
     },
     {
       "q": "Quelle marque privilégier pour un premier chausson ?",
-      "a": "La Sportiva et Scarpa dominent le marché européen avec une qualité fiable. Five Ten (Adidas) reste une référence pour les pieds larges. Decathlon-Simond offre l'entrée de gamme la plus accessible. Tenaya est une alternative confort méconnue mais excellente."
+      "a": "La Sportiva et Scarpa dominent le marché européen avec une qualité fiable. Five Ten (Adidas) reste une référence pour les pieds larges. Decathlon-Simond offre l'entrée de gamme la plus accessible (First Klimb autour de 45 €). Tenaya est une alternative confort méconnue mais excellente."
     },
     {
       "q": "Velcro ou lacets pour débuter ?",

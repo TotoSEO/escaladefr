@@ -3,10 +3,10 @@
   "category": "degaines",
   "title": "Meilleures dégaines escalade 2026 : packs et sets de 6",
   "h1": "Les meilleures dégaines d'escalade 2026",
-  "description": "Petzl Djinn Axess, Black Diamond Positron, Camp Photon : les 5 meilleurs packs de dégaines d'escalade en 2026. Poids, prix, comparatif détaillé.",
+  "description": "Petzl Djinn Axess, Black Diamond HotForge, Camp Photon : les meilleurs packs de dégaines d'escalade en 2026. Poids, prix, comparatif détaillé.",
   "subtitle": "Cinq sets de dégaines testés en falaise. Poids, prise en main, durée de vie réelle.",
   "year": 2026,
-  "updatedAt": "2026-05-15T12:00:00+02:00",
+  "updatedAt": "2026-07-05T12:00:00+02:00",
   "heroImage": "https://images.hardloop.fr/684512-thickbox_default/petzl-djinn-axess-x-6-pack-degaine.jpg",
   "heroImageAlt": "Photo produit Petzl Djinn Axess (pack 6) sur fond neutre",
   "products": [
@@ -17,28 +17,23 @@
       "tagline": "Le set polyvalent best-seller.",
       "rating": 4.7,
       "reviewCount": 1900,
-      "priceFrom": 82,
+      "priceFrom": 95,
       "level": "polyvalent",
       "badge": "editor-choice",
-      "description": "Pack de 6 dégaines Djinn Axess, mousquetons à doigt clé sur sangle 17 mm. Le compromis idéal entre robustesse, poids et prix pour la falaise sportive.",
+      "description": "Pack de 6 dégaines Djinn Axess, mousquetons à doigt plein keylock aux deux extrémités sur sangle polyester rigide. Le compromis idéal entre robustesse, poids et prix pour la falaise sportive.",
       "pros": [
         "Mousquetons à doigt clé fluides",
-        "Sangle 16 mm rigide bien dimensionnée",
+        "Sangle polyester rigide bien dimensionnée, STRING de série",
         "Excellente durabilité",
         "Prix au pack avantageux"
       ],
       "cons": [
-        "Poids de 112 g par dégaine en 12 cm",
+        "107 g par dégaine en 12 cm (jusqu'à 123 g en 25 cm)",
         "Pas de version ultra-light dans le pack"
       ],
       "image": "https://images.hardloop.fr/684512-thickbox_default/petzl-djinn-axess-x-6-pack-degaine.jpg",
       "imageAlt": "Photo produit Petzl Djinn Axess (pack 6) sur fond neutre",
       "links": [
-        {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/pack-6-djinn-axess-turquoise-PETZ00727.html",
-          "price": 82
-        },
         {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/50866-petzl-djinn-axess-x-6-pack-degaine",
@@ -47,94 +42,94 @@
       ]
     },
     {
-      "id": "black-diamond-positron-pack",
-      "name": "Black Diamond Positron (pack 6)",
+      "id": "bd-hotforge-hybrid-pack",
+      "name": "Black Diamond HotForge Hybrid (pack 6)",
       "brand": "Black Diamond",
-      "tagline": "Le pack abordable et fiable.",
+      "tagline": "Le successeur du Positron, hybride et abordable.",
       "rating": 4.5,
-      "reviewCount": 1400,
-      "priceFrom": 80,
+      "reviewCount": 820,
+      "priceFrom": 95,
       "level": "débutant",
       "badge": "best-value",
-      "description": "Pack de dégaines Positron avec deux mousquetons à doigt plein keylock à chaque extrémité. Excellent choix pour démarrer la falaise et la salle sans se ruiner.",
+      "description": "Black Diamond a arrêté le Positron en 2020 : le HotForge Hybrid le remplace. Mousqueton HotForge à doigt plein keylock côté plaquette, mousqueton HotWire à doigt fil côté corde, sangle polyester de 18 mm facile à saisir. Excellent choix pour démarrer la falaise sans se ruiner.",
       "pros": [
-        "Tarif très accessible",
-        "Mousquetons keylock pour éviter l'accrochage de la corde sur le doigt",
-        "Sangle Dogbone polyester 18 mm avec Straitjacket",
-        "Bonne longueur 12 cm polyvalente"
+        "Keylock côté plaquette : mousquetonnage sans accroche",
+        "Doigt fil côté corde : moins d'effet fouet, ne gèle pas",
+        "Sangle 18 mm large et rigide, facile à attraper",
+        "Pack de 6 sous les 100 €"
       ],
       "cons": [
-        "Plus lourd que le Djinn",
-        "Finition moins premium"
+        "99 g par dégaine, plus lourd que les packs légers",
+        "Le mousqueton fil du bas n'est pas keylock"
       ],
-      "image": "https://images.hardloop.fr/64510-thickbox_default/black-diamond-positron-quickdraw-degaine.jpg",
-      "imageAlt": "Photo produit Black Diamond Positron (pack 6) sur fond neutre",
+      "image": "https://images.hardloop.fr/1161659-large_default/black-diamond-hotforge-hybrid-quickpack-12-cm-lot-de-6-degaines.jpg",
+      "imageAlt": "Pack de 6 dégaines Black Diamond HotForge Hybrid 12 cm",
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/pack-positron-quickdraw-BLAD00675.html",
-          "price": 80
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/22515-black-diamond-hotforge-hybrid-quickpack-12-cm-lot-de-6-degaines",
+          "price": 95
         }
       ]
     },
     {
       "id": "petzl-ange-finesse",
-      "name": "Petzl Ange Finesse (pack 6)",
+      "name": "Petzl Ange Finesse",
       "brand": "Petzl",
-      "tagline": "Le set ultra-light pour grande voie.",
+      "tagline": "L'ultra-light à l'unité, pour composer son jeu grande voie.",
       "rating": 4.6,
       "reviewCount": 540,
-      "priceFrom": 22,
+      "priceFrom": 23,
       "level": "expert",
       "badge": "premium",
-      "description": "Dégaines ultra-légères avec mousquetons MonoFil et sangle fine Dyneema. Conçues pour les grimpeurs orientés grande voie sportive ou performance pure.",
+      "description": "Dégaine ultra-légère avec mousquetons MonoFil et sangle fine Dyneema, vendue à l'unité (10 ou 17 cm). Conçue pour les grimpeurs orientés grande voie sportive ou performance pure : compte environ 140 € pour composer un jeu de 6.",
       "pros": [
-        "Très légères (72 g pour la version 17 cm)",
+        "Très légère (environ 73 g en version 17 cm)",
         "Mousqueton MonoFil très fluide",
         "Sangle Dyneema durable",
-        "Idéales pour les longues voies"
+        "Idéale pour alléger un jeu de grande voie"
       ],
       "cons": [
-        "Prix élevé",
-        "Sangle fine moins agréable en main que les sangles 17 mm"
+        "Vendue à l'unité : environ 140 € le jeu de 6",
+        "Sangle fine moins agréable en main que les sangles larges"
       ],
       "image": "https://www.petzl.com/sfc/servlet.shepherd/version/download/0681r000004zMqEAAU",
       "imageAlt": "Photo produit Petzl Ange Finesse (pack 6) sur fond neutre",
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/ange-finesse-ss-PETZ00454.html",
-          "price": 22
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/18559-petzl-ange-degaine",
+          "price": 23
         }
       ]
     },
     {
-      "id": "camp-photon-mixed-pack",
-      "name": "Camp Photon Mixed (pack 6)",
+      "id": "camp-photon-janja-pack",
+      "name": "Camp Photon Express KS (pack 6)",
       "brand": "Camp",
-      "tagline": "Les ultralégères italiennes.",
+      "tagline": "Les ultralégères italiennes, édition Janja Garnbret.",
       "rating": 4.4,
       "reviewCount": 410,
-      "priceFrom": 110,
+      "priceFrom": 105,
       "level": "expert",
-      "description": "Pack 6 dégaines Photon Mixed avec mousqueton plein côté corde et doigt fil côté roche, sangle Dyneema. Camp signe ici un set très léger pensé pour la performance.",
+      "description": "Pack de 6 dégaines Photon Express KS (édition Janja Garnbret) : 91 g par dégaine en 12 cm, doigts fil à grande ouverture (+25 %) et bloqueur de sangle Karstop Evo. Camp signe un set très léger pensé pour la performance.",
       "pros": [
-        "Légèreté correcte (91 à 97 g par dégaine selon longueur 11 ou 18 cm)",
-        "Sangle Dogbone polyester",
-        "Mousquetons italiens fluides",
-        "Bon rapport poids/prix premium"
+        "Légèreté remarquable : 91 g par dégaine en 12 cm",
+        "Doigt fil à grande ouverture, facile à clipper",
+        "Bloqueur de sangle Karstop Evo",
+        "Bon rapport poids/prix pour de l'ultra-light"
       ],
       "cons": [
-        "Mousquetons un peu petits à clipper",
-        "Distribution plus limitée en France"
+        "Mousquetons un peu petits pour les grandes mains",
+        "Sangle fine moins agréable pour le travail de voie"
       ],
-      "image": "https://images.hardloop.fr/178524-thickbox_default/camp-photon-mixed-express-degaine.jpg",
-      "imageAlt": "Photo produit Camp Photon Mixed (pack 6) sur fond neutre",
+      "image": "https://images.hardloop.fr/844250-large_default/camp-photon-express-ks-janja-6-pack-degaine.jpg",
+      "imageAlt": "Pack de 6 dégaines Camp Photon Express KS édition Janja Garnbret",
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/pack-6-photon-wire-express-ks-dyneema-CAMP00263.html",
-          "price": 110
+          "merchant": "Hardloop",
+          "url": "https://www.hardloop.fr/produit/80157-camp-photon-express-ks-janja-6-pack-degaine",
+          "price": 105
         }
       ]
     }
@@ -181,7 +176,7 @@
   "faq": [
     {
       "q": "Quelles sont les meilleures dégaines d'escalade en 2026 ?",
-      "a": "Le pack <strong>Petzl Djinn Axess 6 dégaines</strong> est la référence polyvalente du marché français (notre choix éditorial). Pour démarrer avec un budget contenu, le pack <strong>Black Diamond Positron</strong> à 80 € fait parfaitement le job en salle et en falaise sportive. Pour la grande voie sportive et la performance, les <strong>Petzl Ange Finesse</strong> ultra-légères s'imposent."
+      "a": "Le pack <strong>Petzl Djinn Axess 6 dégaines</strong> est la référence polyvalente du marché français (notre choix éditorial). Pour démarrer avec un budget contenu, le pack <strong>Black Diamond HotForge Hybrid</strong> à 95 € fait parfaitement le job en salle et en falaise sportive. Pour la grande voie et la chasse aux grammes, les <strong>Petzl Ange Finesse</strong> (à l'unité) ou le pack <strong>Camp Photon</strong> s'imposent."
     },
     {
       "q": "Combien de dégaines pour démarrer ?",
