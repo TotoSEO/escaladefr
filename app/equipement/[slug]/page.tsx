@@ -7,6 +7,7 @@ import {
   buildOfferMerchantFields,
   fetchAffiliateLanding,
   fetchAllAffiliateLandings,
+  fetchAllEquipementReviews,
 } from "@/lib/equipement";
 import { fetchPublishedArticleHeadings } from "@/lib/blog";
 
@@ -54,11 +55,22 @@ export default async function EquipementLandingPage(
   { params }: { params: Promise<Params> },
 ) {
   const { slug } = await params;
-  const [landing, allLandings] = await Promise.all([
+  const [landing, allLandings, allReviews] = await Promise.all([
     fetchAffiliateLanding(slug),
     fetchAllAffiliateLandings(),
+    fetchAllEquipementReviews(),
   ]);
   if (!landing) notFound();
+
+  // Avis long format publiés pour les produits de cette sélection.
+  const reviews = allReviews
+    .filter((r) => r.relatedLandingSlug === landing.slug && r.productId)
+    .map((r) => ({
+      slug: r.slug,
+      productId: r.productId as string,
+      h1: r.h1,
+      rating: r.rating,
+    }));
 
   // On ne propose que les articles déjà publiés (les autres seraient en 404).
   const relatedArticles = landing.relatedBlogSlugs
@@ -181,6 +193,7 @@ export default async function EquipementLandingPage(
         landing={landing}
         relatedArticles={relatedArticles}
         otherLandings={otherLandings}
+        reviews={reviews}
       />
     </>
   );

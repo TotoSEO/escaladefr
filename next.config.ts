@@ -36,6 +36,7 @@ const nextConfig: NextConfig = {
       { protocol: "https", hostname: "www.blackdiamondequipment.com", pathname: "/**" },
       { protocol: "https", hostname: "www.bealplanet.com", pathname: "/**" },
       { protocol: "https", hostname: "bealplanet.com", pathname: "/**" },
+      { protocol: "https", hostname: "www.beal-planet.com", pathname: "/**" },
       { protocol: "https", hostname: "www.mammut.com", pathname: "/**" },
       { protocol: "https", hostname: "mammut.com", pathname: "/**" },
       { protocol: "https", hostname: "www.edelrid.com", pathname: "/**" },
@@ -60,6 +61,9 @@ const nextConfig: NextConfig = {
       { protocol: "https", hostname: "shopapi.edelrid.com", pathname: "/**" },
       { protocol: "https", hostname: "static.mammut.com", pathname: "/**" },
       { protocol: "https", hostname: "www.wildernessx.com", pathname: "/**" },
+      { protocol: "https", hostname: "cdn.alpinstore.com", pathname: "/**" },
+      { protocol: "https", hostname: "res.cloudinary.com", pathname: "/ekoweb/**" },
+      { protocol: "https", hostname: "cdn.shopify.com", pathname: "/s/files/**" },
     ],
   },
 };

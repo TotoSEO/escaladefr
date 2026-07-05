@@ -41,7 +41,7 @@ const REASONS: Reason[] = [
   },
   {
     icon: Handshake,
-    title: "Partenariat & affiliation",
+    title: "Partenariats & marques",
     body: "Marque d'équipement, fabricant français, club ou commune cherchant à valoriser ses sites. On étudie les partenariats qui apportent une vraie valeur aux grimpeurs.",
     subject: "Proposition de partenariat",
   },

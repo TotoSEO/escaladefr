@@ -47,9 +47,9 @@ const MISSIONS: Mission[] = [
     step: "IV",
     title: "Équipement",
     tagline: "Sélection de matériel testé.",
-    body: "Chaussons, baudriers, cordes. Tests honnêtes et liens d'affiliation transparents pour soutenir le projet.",
-    href: "/boutique",
-    status: "later",
+    body: "Chaussons, baudriers, cordes. Des sélections honnêtes, comparées et mises à jour chaque saison. Les premières pages sont en ligne.",
+    href: "/equipement",
+    status: "live",
     icon: ShoppingBag,
   },
 ];

@@ -3,21 +3,21 @@
   "category": "magnesie",
   "title": "Meilleures magnésies d'escalade 2026 : poudre, liquide, sacs",
   "h1": "Les meilleures magnésies et sacs d'escalade 2026",
-  "description": "Mammut, Black Diamond, Beal : les 5 meilleures magnésies et sacs à magnésie d'escalade en 2026. Poudre, liquide, sacs, brossettes. Prix et conseils.",
+  "description": "Mammut, Black Diamond, Beal, Petzl : les 5 meilleures magnésies et sacs à magnésie d'escalade en 2026. Poudre, liquide, sacs. Prix et disponibilité vérifiés.",
   "subtitle": "Cinq magnésies et accessoires testés en bloc et en falaise. Adhérence, poussière, format : ce qui change vraiment selon ton usage.",
   "year": 2026,
-  "updatedAt": "2026-05-15T12:00:00+02:00",
+  "updatedAt": "2026-07-05T12:00:00+02:00",
   "heroImage": "https://images.hardloop.fr/18831-thickbox_default/beal-pure-grip-magnesie.jpg",
-  "heroImageAlt": "Photo produit Beal Pro Liquid Chalk sur fond neutre",
+  "heroImageAlt": "Magnésie liquide Beal Pure Grip — photo produit sur fond neutre",
   "products": [
     {
-      "id": "friction-labs-unicorn-dust",
+      "id": "mammut-chalk-powder",
       "name": "Mammut Chalk Powder",
       "brand": "Mammut",
       "tagline": "La magnésie en poudre suisse haute pureté.",
       "rating": 4.7,
       "reviewCount": 1300,
-      "priceFrom": 13,
+      "priceFrom": 7,
       "level": "expert",
       "badge": "premium",
       "description": "Magnésie pure en poudre fine, Mammut Chalk Powder offre une excellente adhérence sans agent desséchant ajouté. Bonne tenue sur la peau, prix accessible pour une magnésie de qualité.",
@@ -28,8 +28,8 @@
         "Texture fine et douce"
       ],
       "cons": [
-        "Prix au kilo très élevé",
-        "Disponibilité limitée en boutiques physiques"
+        "Prix au kilo plus élevé que les sachets premiers prix",
+        "Sachets parfois en rupture selon les formats"
       ],
       "image": "https://static.mammut.com/cdn-cgi/image/width=4096,quality=85,f=auto,metadata=none/master/2050-00582-9001_main-grey_77557.jpg",
       "imageAlt": "Photo produit Mammut Chalk Powder sur fond neutre",
@@ -37,12 +37,12 @@
         {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/57899-mammut-chalk-powder-magnesie",
-          "price": 13
+          "price": 7
         }
       ]
     },
     {
-      "id": "black-diamond-white-gold",
+      "id": "bd-eco-gold-liquid",
       "name": "Black Diamond Eco Gold Liquid Chalk",
       "brand": "Black Diamond",
       "tagline": "La nouvelle magnésie liquide écoresponsable BD.",
@@ -53,41 +53,36 @@
       "badge": "best-value",
       "description": "Remplaçante du White Gold Liquid, l'Eco Gold conserve les qualités d'adhérence et de tenue tout en utilisant des composants plus écoresponsables. Format 150 ml, idéale pour la salle.",
       "pros": [
-        "Distribution universelle",
-        "Adhérence très correcte",
-        "Prix très accessible",
-        "Sachet refermable 300 g pratique"
+        "Composants écoresponsables (magnésie de dessalement, non minée)",
+        "Zéro poussière : acceptée dans toutes les salles",
+        "Tenue longue entre deux applications",
+        "Flacon 150 ml pratique à glisser dans le sac"
       ],
       "cons": [
-        "Génère pas mal de poussière",
-        "Moins pure que les marques premium"
+        "Odeur d'alcool marquée à l'application",
+        "Assèche la peau en usage très intensif"
       ],
       "image": "https://blackdiamondequipment.com/cdn/shop/files/550531_0000_ECO_GOLD_LIQUID_CHALK_NO_COLOR_01.jpg?v=1742402123",
       "imageAlt": "Photo produit Black Diamond Eco Gold Liquid Chalk sur fond neutre",
       "links": [
         {
-          "merchant": "Hardloop",
-          "url": "https://www.hardloop.fr/produit/61833-black-diamond-eco-gold-liquid-chalk-magnesie",
+          "merchant": "Alpinstore",
+          "url": "https://www.alpinstore.com/fr/580075-black-diamond-eco-gold-liquid-chalk-no-color.html",
           "price": 13
-        },
-        {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/liquid-white-gold-150-ml-BLAD00369.html",
-          "price": 15
         }
       ]
     },
     {
-      "id": "beal-pro-liquid-chalk",
-      "name": "Beal Pro Liquid Chalk",
+      "id": "beal-pure-grip",
+      "name": "Beal Pure Grip",
       "brand": "Beal",
-      "tagline": "La magnésie liquide qui dure.",
+      "tagline": "La magnésie liquide française qui dure.",
       "rating": 4.5,
       "reviewCount": 980,
       "priceFrom": 11,
       "level": "polyvalent",
       "badge": "editor-choice",
-      "description": "Magnésie liquide à base d'alcool et de carbonate de magnésium, idéale en salle pour réduire la poussière et tenir longtemps entre deux essais. Souvent acceptée là où la poudre est interdite.",
+      "description": "Magnésie liquide à base d'alcool et de carbonate de magnésium en flacon de 250 ml, idéale en salle pour réduire la poussière et tenir longtemps entre deux essais. Souvent acceptée là où la poudre est interdite.",
       "pros": [
         "Tenue très longue sur la peau",
         "Génère zéro poussière",
@@ -99,13 +94,8 @@
         "Inflammable au transport en avion"
       ],
       "image": "https://images.hardloop.fr/18831-thickbox_default/beal-pure-grip-magnesie.jpg",
-      "imageAlt": "Photo produit Beal Pro Liquid Chalk sur fond neutre",
+      "imageAlt": "Photo produit Beal Pure Grip magnésie liquide sur fond neutre",
       "links": [
-        {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/pure-grip-BEAL00216.html",
-          "price": 11
-        },
         {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/4175-beal-pure-grip-magnesie",
@@ -114,37 +104,37 @@
       ]
     },
     {
-      "id": "8bplus-chalkbag",
-      "name": "Mammut Stitch Chalk Bag",
-      "brand": "Mammut",
-      "tagline": "Le sac à magnésie suisse classique.",
+      "id": "petzl-bandi",
+      "name": "Petzl Bandi",
+      "brand": "Petzl",
+      "tagline": "Le sac à magnésie simple et bien né.",
       "rating": 4.6,
-      "reviewCount": 1700,
-      "priceFrom": 20,
+      "reviewCount": 420,
+      "priceFrom": 13,
       "level": "polyvalent",
-      "description": "Sac à magnésie compact, intérieur polaire qui retient la poudre, fermeture cordon efficace. Mammut Stitch est un grand classique avec une excellente durabilité.",
+      "description": "Sac à magnésie à ouverture ronde large et maintien rigide, fabriqué à 95 % en matériaux recyclés, ceinture incluse. Simple, efficace, à petit prix : le Bandi remplace ici le Mammut Stitch, en rupture chez les marchands vérifiables.",
       "pros": [
-        "Design unique et reconnaissable",
-        "Intérieur polaire qui retient la magnésie",
-        "Boucle ceinture confortable",
-        "Très bonne durabilité"
+        "Ouverture large : la main entre sans forcer",
+        "95 % de matériaux recyclés",
+        "Ceinture fournie",
+        "Prix mini (13-15 €)"
       ],
       "cons": [
-        "Prix élevé pour un sac à magnésie",
-        "Format plutôt orienté grande contenance"
+        "Pas de poche zippée pour brosse ou clé",
+        "Fermeture à cordon simple, moins étanche à la poudre qu'un roll-top"
       ],
-      "image": "https://images.hardloop.fr/19811-thickbox_default/mammut-stitch-chalk-bag-sac-a-magnesie.jpg",
-      "imageAlt": "Photo produit Mammut Stitch Chalk Bag sur fond neutre",
+      "image": "https://images.hardloop.fr/561245-large_default/petzl-bandi-sac-a-magnesie.jpg",
+      "imageAlt": "Sac à magnésie Petzl Bandi avec ceinture",
       "links": [
         {
           "merchant": "Hardloop",
-          "url": "https://www.hardloop.fr/produit/5187-mammut-stitch-chalk-bag-sac-a-magnesie",
-          "price": 20
+          "url": "https://www.hardloop.fr/produit/61479-petzl-bandi-sac-a-magnesie",
+          "price": 13
         }
       ]
     },
     {
-      "id": "metolius-super-chalk",
+      "id": "bd-loose-chalk",
       "name": "Black Diamond Loose Chalk 200g",
       "brand": "Black Diamond",
       "tagline": "La magnésie en poudre BD format pratique.",
@@ -155,13 +145,13 @@
       "description": "Magnésie en poudre fine 200g, dosage économique entre le petit format découverte et le sac familial. Adhérence reconnue, distribution universelle.",
       "pros": [
         "Magnésie pure à bonne adhérence",
-        "Brossettes en poils naturels durables",
-        "Manche en bois agréable",
-        "Combo magnésie/brosse cohérent"
+        "Sachet 200 g refermable, format économique",
+        "Distribution très large en France",
+        "Convient au remplissage des sacs et des boules"
       ],
       "cons": [
-        "Brossettes vendues séparément",
-        "Poussière modérée en salle"
+        "Poussière modérée en salle",
+        "Sans additif desséchant pour les mains très humides"
       ],
       "image": "https://images.hardloop.fr/2713-thickbox_default/black-diamond-loose-chalk-200g-magnesie.jpg",
       "imageAlt": "Photo produit Black Diamond Loose Chalk 200g sur fond neutre",
@@ -216,7 +206,7 @@
   "faq": [
     {
       "q": "Quelle est la meilleure magnésie d'escalade en 2026 ?",
-      "a": "La <strong>Beal Pure Grip</strong> magnésie liquide est notre choix éditorial pour la salle (zéro poussière, tenue longue). Pour la falaise et le bloc, la <strong>Mammut Chalk Powder</strong> pure offre une excellente adhérence. La <strong>Black Diamond Loose Chalk</strong> en poudre fine reste l'option la plus universelle et accessible."
+      "a": "La <strong>Beal Pure Grip</strong> magnésie liquide est notre choix éditorial pour la salle (zéro poussière, tenue longue). Pour la falaise et le bloc, la <strong>Mammut Chalk Powder</strong> pure offre une excellente adhérence. La <strong>Black Diamond Loose Chalk</strong> en poudre fine reste l'option la plus universelle et accessible, et le sac <strong>Petzl Bandi</strong> complète l'équipement pour 13 €."
     },
     {
       "q": "Poudre ou liquide, quoi choisir ?",
@@ -228,7 +218,7 @@
     },
     {
       "q": "La magnésie abîme-t-elle la peau ?",
-      "a": "À forte dose oui, surtout celle avec agents desséchants. Hydrate tes mains après chaque séance avec une crème type Climb On. Les magnésies pures comme Friction Labs sont moins agressives."
+      "a": "À forte dose oui, surtout celle avec agents desséchants. Hydrate tes mains après chaque séance avec une crème type Climb On. Les magnésies pures comme la Mammut Chalk Powder sont moins agressives."
     },
     {
       "q": "Quelle taille de chalkbag pour démarrer ?",
@@ -236,7 +226,7 @@
     },
     {
       "q": "Peut-on utiliser la magnésie en falaise ?",
-      "a": "Sur calcaire et granite, oui sans souci. Sur grès (Bleau, Annot, certains sites des Vosges), interdite ou très limitée car elle marque les prises et abîme le rocher. <a href=\"/blog/magnesie-marquage-rocher\">Notre article sur la magnésie et le marquage</a> détaille les sites concernés."
+      "a": "Sur calcaire et granite, oui sans souci. Sur grès (Bleau, Annot, certains sites des Vosges), interdite ou très limitée car elle marque les prises et abîme le rocher. <a href=\"/blog/reglementation-magnesie-blanche\">Notre article sur la réglementation de la magnésie</a> détaille les sites concernés."
     },
     {
       "q": "Boule de magnésie ou poudre libre ?",
@@ -244,8 +234,8 @@
     }
   ],
   "relatedBlogSlugs": [
-    "magnesie-marquage-rocher",
-    "brosse-grimpe-entretien-prises",
-    "doigts-prises-petites"
+    "reglementation-magnesie-blanche",
+    "magnesie-types-grimpe",
+    "brosse-grimpe-entretien-prises"
   ]
 }

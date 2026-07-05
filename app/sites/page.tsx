@@ -122,7 +122,7 @@ export default async function SitesPage() {
       />
 
       <PageHeader
-        section="§ Pilier 01 / Outdoor"
+        section="§ Sites naturels / Outdoor"
         status="live"
         surface="cool"
         image={{
@@ -248,7 +248,7 @@ export default async function SitesPage() {
                 <Bullet
                   icon={ArrowUpRight}
                   title="Une plateforme indépendante"
-                  body="Aucune affiliation commerciale n'influence le contenu. Pas de tracker tiers qui te suit, pas de pub agressive, pas de compte obligatoire pour consulter."
+                  body="Aucun partenariat commercial n'influence le contenu. Pas de tracker tiers qui te suit, pas de pub agressive, pas de compte obligatoire pour consulter."
                 />
               </div>
             </div>

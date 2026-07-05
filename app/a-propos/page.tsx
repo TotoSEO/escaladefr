@@ -258,7 +258,7 @@ export default async function AProposPage() {
         </h2>
         <p className="mt-4 max-w-2xl text-base leading-relaxed text-foreground/80 sm:text-[17px]">
           Les thématiques du blog disponibles aujourd&apos;hui, avec un article
-          pivot par cocon. Tu peux entrer par celle qui parle à ton niveau
+          pivot pour chacune. Tu peux entrer par celle qui parle à ton niveau
           actuel.
         </p>
         <ul className="mt-8 grid grid-cols-1 gap-3 sm:grid-cols-2 sm:gap-4 lg:grid-cols-3">

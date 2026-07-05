@@ -85,7 +85,7 @@ export default async function SallesPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       <PageHeader
-        section="§ Pilier 02 / Indoor"
+        section="§ Salles / Indoor"
         status="live"
         surface="warm"
         image={{

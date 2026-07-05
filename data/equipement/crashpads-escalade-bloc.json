@@ -3,12 +3,12 @@
   "category": "crashpads",
   "title": "Meilleurs crashpads de bloc 2026 : comparatif et tests",
   "h1": "Les meilleurs crashpads d'escalade pour le bloc en 2026",
-  "description": "Black Diamond, Petzl, Mad Rock, Ocun : les 5 meilleurs crashpads pour le bloc en extérieur en 2026. Tailles, mousses, prix à jour.",
-  "subtitle": "Cinq matelas de bloc testés en falaise et en forêt. Amorti, portage, durabilité réelle.",
+  "description": "Beal Double Air Bag, Triple Air Bag, Air Light : les meilleurs crashpads de bloc disponibles en 2026, et les références Petzl Cirro et BD Mondo. Prix vérifiés.",
+  "subtitle": "Les matelas de bloc réellement disponibles en France cet été, testés en falaise et en forêt. Amorti, portage, durabilité réelle.",
   "year": 2026,
-  "updatedAt": "2026-05-15T12:00:00+02:00",
+  "updatedAt": "2026-07-05T12:00:00+02:00",
   "heroImage": "https://www.bfgcdn.com/1500_1500_90/331-0115-0111/petzl-cirro-crash-pad.jpg",
-  "heroImageAlt": "Photo produit Petzl Cirro sur fond neutre",
+  "heroImageAlt": "Crashpad de bloc — photo produit sur fond neutre",
   "products": [
     {
       "id": "black-diamond-mondo",
@@ -17,29 +17,22 @@
       "tagline": "Le crashpad XXL pour high ball.",
       "rating": 4.7,
       "reviewCount": 680,
-      "priceFrom": 400,
       "level": "expert",
-      "badge": "premium",
-      "description": "Avec ses dimensions XXL (112 x 165 cm) et son épaisseur de 12,5 cm, le Mondo est le crashpad de référence pour les blocs hauts et les réceptions engagées. Sa mousse hybride absorbe les chutes les plus violentes.",
+      "description": "Le Mondo est LE crashpad des high balls : 153 x 121 cm dans sa version actuelle, 12 cm de mousse hybride, 7,23 kg. Sa surface géante absorbe les chutes les plus violentes. En rupture chez les marchands français vérifiables au 5 juillet 2026 (environ 400 €) — on le garde comme référence de la catégorie XXL.",
       "pros": [
-        "Surface de réception énorme",
+        "Surface de réception énorme (153 x 121 cm)",
         "Mousse hybride très absorbante",
         "Bretelles confortables pour le portage long",
         "Excellente durabilité"
       ],
       "cons": [
+        "Introuvable en stock en France à la date de mise à jour",
         "Encombrant à transporter en voiture",
-        "Investissement important"
+        "Investissement d'environ 400 €"
       ],
       "image": "https://images.hardloop.fr/655251-thickbox_default/black-diamond-mondo-crash-pad-crashpad.jpg",
       "imageAlt": "Photo produit Black Diamond Mondo sur fond neutre",
-      "links": [
-        {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/mondo-BLAD00718.html",
-          "price": 400
-        }
-      ]
+      "links": []
     },
     {
       "id": "petzl-cirro",
@@ -48,10 +41,8 @@
       "tagline": "Le pad polyvalent ultra-confortable.",
       "rating": 4.6,
       "reviewCount": 420,
-      "priceFrom": 356,
       "level": "polyvalent",
-      "badge": "editor-choice",
-      "description": "Lancé récemment, le Cirro de Petzl utilise un assemblage triple-couche PE/PU et un système de pliage en taco qui protège la zone de pliage. Très bon compromis entre portage et amorti.",
+      "description": "Le Cirro de Petzl reste une référence du pad haut de gamme : 148 x 118 cm, 12,5 cm d'épaisseur, mousse triple couche et pliage taco sans zone faible, pour 9,4 kg. On le laisse dans ce comparatif à titre de repère, mais il est en rupture chez tous les marchands français vérifiables au 5 juillet 2026 (prix conseillé 369 €).",
       "pros": [
         "Pliage taco sans zone faible",
         "Mousse triple-couche PE/PU très absorbante",
@@ -59,114 +50,106 @@
         "Tapis d'essuie-pieds intégré"
       ],
       "cons": [
-        "Format taco moins compact en voiture",
-        "Prix au-dessus de la moyenne"
+        "Introuvable en stock en France à la date de mise à jour",
+        "Format taco encombrant en voiture",
+        "Prix conseillé élevé (369 €)"
       ],
       "image": "https://www.bfgcdn.com/1500_1500_90/331-0115-0111/petzl-cirro-crash-pad.jpg",
       "imageAlt": "Photo produit Petzl Cirro sur fond neutre",
-      "links": [
-        {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/cirro-PETZ00180.html",
-          "price": 356
-        }
-      ]
+      "links": []
     },
     {
-      "id": "mad-rock-mad-pad",
+      "id": "beal-air-light",
       "name": "Beal Air Light",
       "brand": "Beal",
       "tagline": "Le crashpad accessible fabriqué en Europe.",
       "rating": 4.4,
       "reviewCount": 2400,
-      "priceFrom": 170,
+      "priceFrom": 185,
       "level": "débutant",
       "badge": "best-value",
-      "description": "Avec une surface 100x80 cm et 10 cm d'épaisseur, le Beal Air Light est un bon point d'entrée dans le bloc en extérieur. Mousse 3 couches, bretelles confortables, sangles de connexion pour mutualiser avec d'autres pads.",
+      "description": "Avec sa surface de 100 x 100 cm et ses 9 cm d'épaisseur pour seulement 3,2 kg, le Beal Air Light est un excellent point d'entrée dans le bloc en extérieur, et un pad d'appoint parfait pour compléter un tapis principal. Mousse bi-densité, toile Kodra 1000D très résistante.",
       "pros": [
-        "Prix très accessible",
-        "Surface généreuse (122 x 91 cm)",
-        "Sangles de portage rembourrées",
-        "Boucles de connexion à d'autres pads"
+        "Léger : 3,2 kg, agréable en marche d'approche",
+        "Surface carrée de 1 m² (100 x 100 cm)",
+        "Toile extérieure Kodra 1000D résistante à l'abrasion",
+        "Prix accessible pour du fabriqué sérieux"
       ],
       "cons": [
-        "Mousse qui se tasse après quelques saisons",
-        "Toile extérieure moyennement résistante à l'abrasion"
+        "9 cm d'épaisseur : limite pour les hauts blocs",
+        "Mousse bi-densité qui se tasse après quelques saisons intensives"
       ],
-      "image": "https://www.beal-planet.com/cdn/shop/files/BEAL_AIR_LIGHT_01_LD_ce6c969f-249c-4a7b-bdab-c54a94efdf15.png?v=1774435112&width=1000",
+      "image": "https://cdn.shopify.com/s/files/1/0692/0696/6507/files/BEAL_AIR_LIGHT_01_LD_431e8bfb-6f5d-4e68-9ba9-3973709d24fe.png?v=1781518886",
       "imageAlt": "Photo produit Beal Air Light sur fond neutre",
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/air-light-grey-BEAL00100.html",
-          "price": 170
+          "merchant": "Beal Planet",
+          "url": "https://www.beal-planet.com/products/air-light",
+          "price": 185
         }
       ]
     },
     {
-      "id": "ocun-paddy-bullpad",
-      "name": "Snap One",
-      "brand": "Snap",
-      "tagline": "Le crashpad français durable et compact.",
+      "id": "beal-triple-air-bag",
+      "name": "Beal Triple Air Bag",
+      "brand": "Beal",
+      "tagline": "La grande surface pliable en trois.",
       "rating": 4.5,
-      "reviewCount": 510,
-      "priceFrom": 144,
+      "reviewCount": 260,
+      "priceFrom": 295,
       "level": "intermédiaire",
-      "description": "Snap est un fabricant français basé à Chamonix. Le One est un pad pliable à charnière, mousse PE + PU bi-densité, toile en polyester recyclé. Bon compromis robustesse, portage et prix pour le bouldeur régulier.",
+      "description": "150 x 100 cm de surface pour 12 cm d'épaisseur : le Triple Air Bag couvre les réceptions des blocs hauts et se plie en trois (50 x 100 x 38 cm) pour rentrer dans un coffre. Toile Kodra 1000D, intérieur Ripstop 420D. La plus grande surface vérifiée disponible en France cet été.",
       "pros": [
-        "Toile extérieure en polyester recyclé",
-        "Mousse bi-densité PE + PU efficace",
-        "Système de fermeture par rabat anti-coincement",
-        "Sangles confortables"
+        "Grande surface de réception : 1,5 m²",
+        "12 cm de mousse, adapté aux blocs hauts",
+        "Plié en trois, il tient dans un coffre de berline",
+        "Toile Kodra 1000D très durable"
       ],
       "cons": [
-        "Lourd à porter (9,2 kg)",
-        "Disponibilité parfois limitée en France"
+        "Deux zones de pliage à surveiller sur les réceptions de pointe",
+        "Encombrant à porter seul sur les longues approches"
       ],
-      "image": "https://images.hardloop.fr/842719-large_default/snap-one-crashpad.jpg",
-      "imageAlt": "Photo produit Snap One sur fond neutre",
+      "image": "https://cdn.shopify.com/s/files/1/0692/0696/6507/files/BEAL_TRIPLE_AIR_BAG_01_LD_70995c60-0c9a-4349-81ce-951735026435.png?v=1776411940",
+      "imageAlt": "Crashpad Beal Triple Air Bag plié en trois",
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/one-burgundy-SNAP00157.html",
-          "price": 144
-        },
-        {
-          "merchant": "Hardloop",
-          "url": "https://www.hardloop.fr/produit/50679-snap-one-crashpad",
-          "price": 148
+          "merchant": "Beal Planet",
+          "url": "https://www.beal-planet.com/products/triple-air-bag",
+          "price": 295
         }
-      ]
+      ],
+      "badge": "premium"
     },
     {
       "id": "beal-double-air-bag",
       "name": "Beal Double Air Bag",
       "brand": "Beal",
       "tagline": "Le pad français pliable en quatre.",
-      "rating": 4.2,
+      "rating": 4.5,
       "reviewCount": 320,
-      "priceFrom": 225,
-      "level": "intermédiaire",
-      "description": "Crashpad pliable en deux pour un transport facile en voiture, le Double Air Bag de Beal offre une surface confortable une fois déplié. Bon choix pour les grimpeurs qui voyagent souvent.",
+      "priceFrom": 335,
+      "level": "polyvalent",
+      "description": "Crashpad pliable en deux (130 x 100 cm déplié, 14 cm d'épaisseur, 5,8 kg), le Double Air Bag utilise une mousse triple densité très absorbante. Son épaisseur de 14 cm en fait le pad le plus rassurant de la sélection pour les réceptions engagées. Fabricant français, disponible en direct chez Beal.",
       "pros": [
-        "Compact plié en deux",
-        "Tient dans un coffre de citadine",
-        "Bretelles confortables",
-        "Marque française Beal"
+        "14 cm de mousse triple densité, l'amorti le plus sûr de la sélection",
+        "Surface de 130 x 100 cm confortable",
+        "Compact plié en deux (65 x 100 x 30 cm)",
+        "Marque française Beal, vendu en direct"
       ],
       "cons": [
-        "Zones de pliage plus fragiles que les tacos",
-        "Amorti moyen sur les hauts blocs"
+        "Zone de pliage plus fragile que les tacos",
+        "335 €, un vrai investissement"
       ],
-      "image": "https://www.beal-planet.com/cdn/shop/files/BEAL_DOUBLE_AIR_BAG_01_LD_634fde67-6c6c-4b62-9724-6feaab042e95.png?v=1777544423&width=1000",
+      "image": "https://cdn.shopify.com/s/files/1/0692/0696/6507/files/BEAL_DOUBLE_AIR_BAG_01_LD_97ff3ab1-88e3-41c6-988a-ce1ce914caec.png?v=1781518883",
       "imageAlt": "Photo produit Beal Double Air Bag sur fond neutre",
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.be/fr/double-air-bag-green-BEAL00132.html",
-          "price": 225
+          "merchant": "Beal Planet",
+          "url": "https://www.beal-planet.com/products/double-air-bag",
+          "price": 335
         }
-      ]
+      ],
+      "badge": "editor-choice"
     }
   ],
   "content": [
@@ -211,7 +194,7 @@
   "faq": [
     {
       "q": "Quel est le meilleur crashpad d'escalade en 2026 ?",
-      "a": "Le <strong>Petzl Cirro</strong> est notre choix éditorial 2026 grâce à son pliage taco sans zone faible et sa mousse à mémoire de forme. Pour un budget contenu, le <strong>Beal Air Light</strong> à 170 € fait le job pour démarrer le bloc en extérieur. Pour les high balls et les réceptions engagées, le <strong>Black Diamond Mondo</strong> reste la référence XXL."
+      "a": "Parmi les pads réellement disponibles en 2026, le <strong>Beal Double Air Bag</strong> (14 cm de mousse triple densité) est notre choix éditorial. Pour un budget contenu ou un pad d'appoint, le <strong>Beal Air Light</strong> à 185 € fait le job. Pour les blocs hauts, le <strong>Beal Triple Air Bag</strong> et sa surface de 1,5 m² prennent le relais du Black Diamond Mondo, en rupture en France à date."
     },
     {
       "q": "Combien faut-il de crashpads pour grimper en bloc ?",
@@ -219,7 +202,7 @@
     },
     {
       "q": "Taco ou charnière, quel format choisir ?",
-      "a": "Taco si tu privilégies l'amorti (la mousse continue ne crée pas de zone faible). Charnière si tu transportes en voiture ou train (plus compact plié). Hybride (Cirro, Bullpad) si tu veux les deux."
+      "a": "Taco si tu privilégies l'amorti (la mousse continue ne crée pas de zone faible) — c'est le parti pris du Petzl Cirro. Charnière si tu transportes en voiture ou en train (plus compact plié) : c'est le choix des pads Beal de cette sélection. Dans les deux cas, inspecte la zone de pliage chaque saison."
     },
     {
       "q": "Quelle durée de vie pour un crashpad ?",

@@ -6,21 +6,21 @@
   "description": "Beal, Mammut, Petzl, Edelrid : les 5 meilleures cordes d'escalade simples pour le sport et la salle en 2026. Diamètres, longueurs, prix à jour.",
   "subtitle": "Cinq cordes sport testées en salle et en falaise. Diamètre, force de choc, durée de vie réelle.",
   "year": 2026,
-  "updatedAt": "2026-05-15T12:00:00+02:00",
+  "updatedAt": "2026-07-05T12:00:00+02:00",
   "heroImage": "https://images.hardloop.fr/156431-thickbox_default/beal-stinger-94mm-golden-dry-corde.jpg",
   "heroImageAlt": "Photo produit Beal Stinger 9.4 mm sur fond neutre",
   "products": [
     {
       "id": "beal-stinger-9-4",
-      "name": "Beal Stinger 9.4 mm",
+      "name": "Beal Stinger III 9.4 mm",
       "brand": "Beal",
       "tagline": "Le standard polyvalent français.",
       "rating": 4.6,
       "reviewCount": 1240,
-      "priceFrom": 185,
+      "priceFrom": 175,
       "level": "polyvalent",
       "badge": "editor-choice",
-      "description": "Corde simple emblématique du fabricant français, la Stinger 9.4 combine légèreté et durabilité grâce au traitement Unicore et à la gaine Dry Cover. Polyvalente, elle convient autant à la falaise qu'aux longues voies sportives.",
+      "description": "Corde simple emblématique du fabricant français, la Stinger III 9.4 combine légèreté et durabilité grâce au traitement Unicore et à la gaine Dry Cover. Polyvalente, elle convient autant à la falaise qu'aux longues voies sportives. Vendue en 50 à 80 m directement chez Beal, dès 175 € en 50 m.",
       "pros": [
         "Excellent rapport légèreté/durabilité",
         "Traitement Unicore qui empêche le glissement gaine/âme",
@@ -35,14 +35,9 @@
       "imageAlt": "Photo produit Beal Stinger 9.4 mm sur fond neutre",
       "links": [
         {
-          "merchant": "Hardloop",
-          "url": "https://www.hardloop.fr/produit/12686-beal-stinger-94mm-golden-dry-corde",
-          "price": 185
-        },
-        {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/stinger-iii-9-4mm-anis-BEAL00173.html",
-          "price": 185
+          "merchant": "Beal Planet",
+          "url": "https://www.beal-planet.com/products/stinger-iii-9-4mm-unicore-dry-cover",
+          "price": 175
         }
       ]
     },
@@ -53,7 +48,7 @@
       "tagline": "La triple norme légère pour grandes voies.",
       "rating": 4.5,
       "reviewCount": 870,
-      "priceFrom": 100,
+      "priceFrom": 103,
       "level": "intermédiaire",
       "badge": "premium",
       "description": "Certifiée simple, double et jumelée, la Volta 9.2 est une référence pour les grimpeurs polyvalents qui alternent sport et grande voie. Son traitement UltraSonic Finish réduit l'effilochage des extrémités.",
@@ -71,28 +66,23 @@
       "imageAlt": "Photo produit Petzl Volta 9.2 mm sur fond neutre",
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/volta-9-2-mm-gris-PETZ00166.html",
-          "price": 100
-        },
-        {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/805-petzl-volta-92-mm-corde",
-          "price": 168
+          "price": 103
         }
       ]
     },
     {
       "id": "mammut-crag-classic-9-5",
-      "name": "Mammut Crag Classic 9.5 mm",
+      "name": "Mammut 9.5 Crag Classic",
       "brand": "Mammut",
       "tagline": "Le bon compromis robustesse/prix.",
       "rating": 4.4,
       "reviewCount": 1580,
-      "priceFrom": 105,
+      "priceFrom": 116,
       "level": "débutant",
       "badge": "best-value",
-      "description": "Corde simple robuste et abordable, la Crag Classic est conçue pour la falaise sportive et la salle. Son diamètre généreux de 9,5 mm offre une grande longévité et une sécurité rassurante pour les débutants.",
+      "description": "Corde simple robuste et abordable, la 9.5 Crag Classic est conçue pour la falaise sportive et la salle. Son diamètre généreux de 9,5 mm offre une grande longévité et une sécurité rassurante pour les débutants. Dès 116 € en 50 m, comptez 149 € pour le 70 m.",
       "pros": [
         "Excellent rapport qualité/prix",
         "Très bonne durabilité grâce au diamètre 9,5",
@@ -107,9 +97,9 @@
       "imageAlt": "Photo produit Mammut Crag Classic 9.5 mm sur fond neutre",
       "links": [
         {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/9-5-crag-classic-rope-blue-white-MAMM01984.html",
-          "price": 105
+          "merchant": "Alpiniste.fr",
+          "url": "https://www.alpiniste.fr/mammut-95-crag-classic-rope-corde-a-simple/",
+          "price": 116
         }
       ]
     },
@@ -120,7 +110,7 @@
       "tagline": "L'increvable corde de salle.",
       "rating": 4.5,
       "reviewCount": 2100,
-      "priceFrom": 106,
+      "priceFrom": 124,
       "level": "débutant",
       "description": "Réputée pour son endurance, la Boa 9.8 est devenue la corde de référence des salles de bloc et de voie. Robuste, certifiée bluesign et fabriquée en Allemagne, elle encaisse les sessions intensives sans broncher.",
       "pros": [
@@ -139,7 +129,7 @@
         {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/22434-edelrid-boa-98mm-corde",
-          "price": 106
+          "price": 124
         }
       ]
     },
@@ -150,7 +140,7 @@
       "tagline": "La corde école par excellence.",
       "rating": 4.3,
       "reviewCount": 940,
-      "priceFrom": 110,
+      "priceFrom": 107,
       "level": "débutant",
       "description": "Conçue comme corde d'initiation, la Karma 9.8 mise sur un prix d'appel attractif et une construction robuste. Idéale pour la salle, les premières sorties falaise et la moulinette intensive.",
       "pros": [
@@ -169,12 +159,7 @@
         {
           "merchant": "Hardloop",
           "url": "https://www.hardloop.fr/produit/4130-beal-karma-98mm-corde",
-          "price": 110
-        },
-        {
-          "merchant": "Snowleader",
-          "url": "https://www.snowleader.com/karma-9-8mm-jaune-BEAL00048.html",
-          "price": 110
+          "price": 107
         }
       ]
     }
@@ -221,7 +206,7 @@
   "faq": [
     {
       "q": "Quelle est la meilleure corde d'escalade en 2026 ?",
-      "a": "La <strong>Beal Stinger 9.4 mm</strong> reste le standard polyvalent français pour la falaise et la salle (notre choix éditorial). Pour un budget plus serré, la <strong>Mammut Crag Classic 9.5 mm</strong> offre le meilleur rapport robustesse-prix. Les grimpeurs polyvalents qui alternent sport et grande voie choisiront la <strong>Petzl Volta 9.2 mm</strong> triple norme."
+      "a": "La <strong>Beal Stinger III 9.4 mm</strong> reste le standard polyvalent français pour la falaise et la salle (notre choix éditorial). Pour un budget plus serré, la <strong>Mammut 9.5 Crag Classic</strong> offre le meilleur rapport robustesse-prix. Les grimpeurs polyvalents qui alternent sport et grande voie choisiront la <strong>Petzl Volta 9.2 mm</strong> triple norme."
     },
     {
       "q": "Quelle longueur de corde acheter pour débuter ?",

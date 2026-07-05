@@ -5,15 +5,17 @@ import { ArrowUpRight } from "lucide-react";
 
 import { PageShell, PageHeader } from "@/components/page-shell";
 import {
+  COCONS,
   COCON_H1,
   COCON_LABEL,
-  COCON_SLUG,
+  COCON_SUBTITLE,
   articleHref,
   categoryHref,
   fetchPublishedArticles,
   fetchPublishedCountByCocon,
   formatPublishedDate,
   readingTimeMinutes,
+  truncateText,
   type BlogArticleListItem,
 } from "@/lib/blog";
 
@@ -26,19 +28,26 @@ export const metadata: Metadata = {
 
 export const revalidate = 3600;
 
+/** Nombre maximum de guides "hub" épinglés en tête de page. */
+const MAX_PINNED_HUBS = 3;
+
 export default async function BlogPage() {
   const [articles, countsByCocon] = await Promise.all([
     fetchPublishedArticles(200),
     fetchPublishedCountByCocon(),
   ]);
-  // Tri : piliers hubs en premier, puis les autres triés par date desc
-  const hubs = articles.filter((a) => a.type_article === "hub");
-  const others = articles.filter((a) => a.type_article !== "hub");
-  const orderedArticles = [...hubs, ...others];
+  // Guides épinglés : au plus MAX_PINNED_HUBS articles "hub", les plus
+  // récents (les articles arrivent déjà triés par date de publication desc).
+  // Le hub de chaque thématique reste mis en avant sur sa page catégorie.
+  const pinnedHubs = articles
+    .filter((a) => a.type_article === "hub")
+    .slice(0, MAX_PINNED_HUBS);
+  const pinnedIds = new Set(pinnedHubs.map((a) => a.id));
+  // Le reste : tous les autres articles, triés par date desc.
+  const recentArticles = articles.filter((a) => !pinnedIds.has(a.id));
 
   // Catégories visibles : seulement celles avec au moins un article publié.
-  const visibleCocons = (Object.keys(COCON_LABEL) as (keyof typeof COCON_LABEL)[])
-    .filter((c) => countsByCocon[c] > 0);
+  const visibleCocons = COCONS.filter((c) => countsByCocon[c] > 0);
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -103,32 +112,38 @@ export default async function BlogPage() {
           <div aria-hidden className="absolute inset-x-0 top-0 h-px divider-glow" />
           <div className="mx-auto max-w-7xl px-5 py-12 sm:px-8 sm:py-16 lg:px-12">
             <div className="mb-8 flex items-baseline justify-between gap-4">
-              <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+              <h2 className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
                 § Navigation par thématique
-              </span>
+              </h2>
               <span className="font-mono text-[11px] uppercase tracking-[0.22em] text-muted-foreground">
                 {visibleCocons.length} thématique{visibleCocons.length > 1 ? "s" : ""}
               </span>
             </div>
-            <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 sm:gap-4 lg:grid-cols-3">
-              {visibleCocons.map((c) => (
-                <Link
-                  key={c}
-                  href={categoryHref(c)}
-                  className="group flex items-center justify-between gap-3 rounded-2xl border border-white/10 bg-coal-900 px-5 py-4 transition-all hover:border-primary/40 hover:bg-coal-800 sm:px-6 sm:py-5"
-                >
-                  <span className="flex flex-col gap-0.5">
-                    <span className="font-display text-base font-medium tracking-[-0.01em] sm:text-lg">
-                      {COCON_H1[c]}
-                    </span>
-                    <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
-                      {countsByCocon[c]} article{countsByCocon[c] > 1 ? "s" : ""}
-                    </span>
-                  </span>
-                  <ArrowUpRight className="h-4 w-4 text-muted-foreground transition-all group-hover:-translate-y-0.5 group-hover:translate-x-0.5 group-hover:text-primary" />
-                </Link>
-              ))}
-            </div>
+            <nav aria-label="Thématiques du blog">
+              <ul className="grid grid-cols-1 gap-3 sm:grid-cols-2 sm:gap-4 lg:grid-cols-3">
+                {visibleCocons.map((c) => (
+                  <li key={c}>
+                    <Link
+                      href={categoryHref(c)}
+                      className="group flex h-full flex-col gap-2 rounded-2xl border border-white/10 bg-coal-900 px-5 py-4 transition-all hover:border-primary/40 hover:bg-coal-800 sm:px-6 sm:py-5"
+                    >
+                      <span className="flex items-center justify-between gap-3">
+                        <span className="font-display text-base font-medium tracking-[-0.01em] sm:text-lg">
+                          {COCON_H1[c]}
+                        </span>
+                        <ArrowUpRight className="h-4 w-4 shrink-0 text-muted-foreground transition-all group-hover:-translate-y-0.5 group-hover:translate-x-0.5 group-hover:text-primary" />
+                      </span>
+                      <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
+                        {countsByCocon[c]} article{countsByCocon[c] > 1 ? "s" : ""}
+                      </span>
+                      <span className="text-sm leading-relaxed text-muted-foreground">
+                        {truncateText(COCON_SUBTITLE[c], 90)}
+                      </span>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </nav>
           </div>
         </section>
       )}
@@ -140,34 +155,30 @@ export default async function BlogPage() {
             <EmptyState />
           ) : (
             <>
-              <div className="mb-10 flex items-baseline justify-between gap-4 sm:mb-14">
-                <span className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
-                  § Tous les articles
-                </span>
-                <span className="font-mono text-[11px] uppercase tracking-[0.22em] text-muted-foreground">
-                  {articles.length} en ligne
-                </span>
-              </div>
-
-              {hubs.length > 0 && (
-                <div className="mb-12">
-                  <p className="mb-5 font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+              {pinnedHubs.length > 0 && (
+                <div className="mb-14 sm:mb-16">
+                  <h2 className="mb-5 font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
                     § Les guides essentiels — épinglés
-                  </p>
+                  </h2>
                   <div className="grid grid-cols-1 gap-5 sm:gap-6 md:grid-cols-2 lg:grid-cols-3">
-                    {hubs.map((a, i) => (
-                      <ArticleCard key={a.id} a={a} featured={i === 0 && hubs.length >= 4} pinned />
+                    {pinnedHubs.map((a) => (
+                      <ArticleCard key={a.id} a={a} pinned />
                     ))}
                   </div>
                 </div>
               )}
-              {others.length > 0 && (
+              {recentArticles.length > 0 && (
                 <div>
-                  <p className="mb-5 font-mono text-[11px] uppercase tracking-[0.28em] text-muted-foreground">
-                    § Tous les autres articles
-                  </p>
+                  <div className="mb-5 flex items-baseline justify-between gap-4 sm:mb-8">
+                    <h2 className="font-mono text-[11px] uppercase tracking-[0.28em] text-primary">
+                      § Les derniers articles
+                    </h2>
+                    <span className="font-mono text-[11px] uppercase tracking-[0.22em] text-muted-foreground">
+                      {articles.length} en ligne
+                    </span>
+                  </div>
                   <div className="grid grid-cols-1 gap-5 sm:gap-6 md:grid-cols-2 lg:grid-cols-3">
-                    {others.map((a) => (
+                    {recentArticles.map((a) => (
                       <ArticleCard key={a.id} a={a} />
                     ))}
                   </div>
@@ -181,14 +192,12 @@ export default async function BlogPage() {
   );
 }
 
-function ArticleCard({ a, featured, pinned }: { a: BlogArticleListItem; featured?: boolean; pinned?: boolean }) {
+function ArticleCard({ a, pinned }: { a: BlogArticleListItem; pinned?: boolean }) {
   return (
     <Link
       href={articleHref(a.slug)}
       className={`group relative flex flex-col overflow-hidden rounded-2xl border bg-coal-900 transition-all ${
         pinned ? "border-primary/40 hover:border-primary" : "border-white/10 hover:border-primary/40"
-      } ${
-        featured ? "md:col-span-2 lg:col-span-3 lg:grid lg:grid-cols-2 lg:gap-6" : ""
       }`}
     >
       {pinned && (
@@ -197,16 +206,16 @@ function ArticleCard({ a, featured, pinned }: { a: BlogArticleListItem; featured
           Épinglé
         </span>
       )}
-      <div className={`relative aspect-[16/10] overflow-hidden ${featured ? "lg:aspect-auto" : ""}`}>
+      <div className="relative aspect-[16/10] overflow-hidden">
         <Image
           src={a.cover_image}
           alt={a.cover_alt}
           fill
-          sizes={featured ? "(min-width: 1024px) 50vw, 100vw" : "(min-width: 768px) 50vw, 100vw"}
+          sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
           className="object-cover transition-transform duration-500 group-hover:scale-[1.03]"
         />
       </div>
-      <div className={`flex flex-col gap-3 p-6 sm:p-7 ${featured ? "lg:justify-center lg:p-10" : ""}`}>
+      <div className="flex flex-col gap-3 p-6 sm:p-7">
         <div className="flex flex-wrap items-center gap-2 font-mono text-[10px] uppercase tracking-[0.22em] text-primary">
           <span>§ {COCON_LABEL[a.cocon]}</span>
           <span className="text-white/15">·</span>
@@ -218,12 +227,12 @@ function ArticleCard({ a, featured, pinned }: { a: BlogArticleListItem; featured
             {readingTimeMinutes(a.word_count)} min
           </span>
         </div>
-        <h2
+        <h3
           className="font-display font-medium leading-tight tracking-[-0.02em] text-balance text-foreground"
-          style={{ fontSize: featured ? "clamp(1.6rem, 3.5vw, 2.5rem)" : "clamp(1.2rem, 2.4vw, 1.6rem)" }}
+          style={{ fontSize: "clamp(1.2rem, 2.4vw, 1.6rem)" }}
         >
           {a.h1}
-        </h2>
+        </h3>
         <p className="text-sm leading-relaxed text-muted-foreground sm:text-base">
           {a.chapo}
         </p>
