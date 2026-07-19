@@ -9,8 +9,6 @@ import { RenderBlock, KeyTakeaways } from "@/components/blog/blocks";
 import { TableOfContents } from "@/components/blog/toc";
 import {
   COCON_LABEL,
-  categoryHref,
-  articleHref,
   fetchArticleBySlug,
   formatPublishedDate,
   readingTimeMinutes,
@@ -63,6 +61,9 @@ export default async function BlogArticlePage(
   const article = await fetchArticleBySlug(slug);
   if (!article) notFound();
 
+  // Fil d'Ariane aligné sur l'URL réelle (/blog/<slug>, plate) : on ne
+  // crée pas de niveau catégorie artificiel qui ferait passer l'article
+  // en profondeur 4. Accueil > Blog > Article.
   const breadcrumb = {
     "@type": "BreadcrumbList",
     itemListElement: [
@@ -71,12 +72,6 @@ export default async function BlogArticlePage(
       {
         "@type": "ListItem",
         position: 3,
-        name: COCON_LABEL[article.cocon],
-        item: `https://www.escalade-france.fr${categoryHref(article.cocon)}`,
-      },
-      {
-        "@type": "ListItem",
-        position: 4,
         name: article.h1,
         item: `https://www.escalade-france.fr/blog/${article.slug}`,
       },
@@ -187,13 +182,6 @@ export default async function BlogArticlePage(
                 <span aria-hidden>›</span>
                 <Link href="/blog" className="hover:text-foreground">
                   Blog
-                </Link>
-                <span aria-hidden>›</span>
-                <Link
-                  href={categoryHref(article.cocon)}
-                  className="hover:text-foreground"
-                >
-                  {COCON_LABEL[article.cocon]}
                 </Link>
                 <span aria-hidden>›</span>
                 <span className="line-clamp-1 max-w-[40ch] text-foreground/85">
