@@ -3,16 +3,16 @@
   "cocon": "techniques",
   "type_article": "guide",
   "numero": 17,
-  "title": "Lecture de voie en escalade, strategie avant le depart",
-  "h1": "Lecture de voie, comment Antoine etudie un itineraire avant de toucher la premiere prise",
-  "description": "Lecture de voie en escalade : reperer les prises, anticiper le crux, planifier la respiration et identifier les positions de repos avant de quitter le sol.",
-  "chapo": "Lire une voie, ce n'est pas regarder le mur trente secondes en discutant. C'est s'arrêter, decortiquer chaque prise, anticiper les mouvements et marquer mentalement les zones de repos. Cette page détaillée la méthode que j'utilise depuis dix ans pour gagner deux cotations sans rien changer a ma force physique. Tu vas apprendre a voir une voie comme un itineraire, pas comme une suite aleatoire de prises colorees.",
+  "title": "Lecture de voie en escalade, stratégie avant le départ",
+  "h1": "Lecture de voie : lire un itinéraire avant de grimper",
+  "description": "Lecture de voie en escalade : repérer les prises, anticiper le crux, planifier la respiration et identifier les positions de repos avant de quitter le sol.",
+  "chapo": "Lire une voie, ce n'est pas regarder le mur trente secondes en discutant. C'est s'arrêter, décortiquer chaque prise, anticiper les mouvements et marquer mentalement les zones de repos. Cette page détaillée la méthode que j'utilise depuis dix ans pour gagner deux cotations sans rien changer à ma force physique. Tu vas apprendre à voir une voie comme un itinéraire, pas comme une suite aléatoire de prises colorées.",
   "takeaways": [
-    "Une lecture serieuse dure entre 90 secondes et 5 minutes selon la difficulte de la voie.",
-    "Identifie d'abord les pieds porteurs, puis les mains repos, enfin la sequence du crux.",
+    "Une lecture sérieuse dure entre 90 secondes et 5 minutes selon la difficulté de la voie.",
+    "Identifie d'abord les pieds porteurs, puis les mains repos, enfin la séquence du crux.",
     "Marque trois points repos clairs avant de partir, c'est ta carte mentale du parcours.",
-    "Mime la sequence au sol avec les bras et le bassin pour memoriser le geste.",
-    "Reviens sur la lecture après deux essais rates, le mur t'aura donne des infos neuves."
+    "Mime la séquence au sol avec les bras et le bassin pour mémoriser le geste.",
+    "Reviens sur la lecture après deux essais ratés, le mur t'aura donné des infos neuves."
   ],
   "body_blocks": [
     {
@@ -21,11 +21,11 @@
     },
     {
       "type": "p",
-      "html": "Cette base figure dans <a href=\"/blog/apprendre-escalade-debutant\">le guide débutant 2026</a>. Un grimpeur, qu'il soit <a href=\"/blog/escalade-enfants-progression\">enfant en progression</a> ou en <a href=\"/blog/recuperer-relais-grande-voie\">récupération au relais en grande voie</a>, qui lit sa voie depense 30 % d'energie en moins qu'un grimpeur qui improvise. Cette économie te permet de tenir une voie de 6b au lieu d'une 6a, sans aucun travail de muscu. <strong>La lecture de voie</strong> agit comme une cartographie mentale qui te dit où poser les pieds, où <a href=\"/blog/clipper-degaine-tete\">clipper une dégaine en tête</a>, où souffler. Quand le corps connait l'itineraire, le cerveau peut se consacrer au mouvement, pas au choix."
+      "html": "Cette base figure dans <a href=\"/blog/apprendre-escalade-debutant\">le guide débutant 2026</a>. Un grimpeur, qu'il soit <a href=\"/blog/escalade-enfants-progression\">enfant en progression</a> ou en <a href=\"/blog/recuperer-relais-grande-voie\">récupération au relais en grande voie</a>, qui lit sa voie dépense 30 % d'énergie en moins qu'un grimpeur qui improvise. Cette économie te permet de tenir une voie de 6b au lieu d'une 6a, sans aucun travail de muscu. <strong>La lecture de voie</strong> agit comme une cartographie mentale qui te dit où poser les pieds, où <a href=\"/blog/clipper-degaine-tete\">clipper une dégaine en tête</a>, où souffler. Quand le corps connaît l'itinéraire, le cerveau peut se consacrer au mouvement, pas au choix."
     },
     {
       "type": "p",
-      "html": "J'ai mis trois ans a comprendre ce levier. En 2014, je grimpais en 6a en bourrinant, je voyais des copains de mon âgé passer du 6c en lisant calmement la voie depuis le sol. La différence n'etait pas physique. C'etait dans la tête. Le declic, je l'ai eu après un stage FFME ou un cadre national nous a forces a passer cinq minutes au sol avant chaque voie. En deux mois, mon niveau est monte d'une cotation."
+      "html": "J'ai mis trois ans à comprendre ce levier. En 2014, je grimpais en 6a en bourrinant, je voyais des copains de mon âge passer du 6c en lisant calmement la voie depuis le sol. La différence n'était pas physique. C'était dans la tête. Le déclic, je l'ai eu après un stage FFME où un cadre national nous a forcés à passer cinq minutes au sol avant chaque voie. En deux mois, mon niveau est monté d'une cotation."
     },
     {
       "type": "h2",
@@ -33,7 +33,7 @@
     },
     {
       "type": "p",
-      "html": "Une lecture efficace s'organise en quatre lectures successives, pas une seule. Premiere couche : tu repere la couleur, le depart, l'arrivee, le profil général (dalle, vertical, devers, toit). Deuxieme couche : tu identifies les <strong>pieds porteurs</strong>, c'est-a-dire les prises de pied larges qui te laissent souffler. Troisieme couche : tu repere les <strong>mains repos</strong>, bacs et inversees qui te permettent de relacher un bras. Quatrieme couche : tu reconstitues la sequence complete du depart au sommet, mouvement par mouvement."
+      "html": "Une lecture efficace s'organise en quatre lectures successives, pas une seule. Première couche : tu repère la couleur, le départ, l'arrivée, le profil général (dalle, vertical, devers, toit). Deuxième couche : tu identifies les <strong>pieds porteurs</strong>, c'est-à-dire les prises de pied larges qui te laissent souffler. Troisième couche : tu repère les <strong>mains repos</strong>, bacs et inversées qui te permettent de relâcher un bras. Quatrième couche : tu reconstitues la séquence complète du départ au sommet, mouvement par mouvement."
     },
     {
       "type": "list",
@@ -42,51 +42,51 @@
       "items": [
         {
           "title": "Lecture profil",
-          "body": "30 secondes. Tu identifies le type de mur, l'inclinaison générale, et la position du crux apparent. Tu regardes le mur de loin, pas le nez colle."
+          "body": "30 secondes. Tu identifies le type de mur, l'inclinaison générale, et la position du crux apparent. Tu regardes le mur de loin, pas le nez collé."
         },
         {
           "title": "Lecture pieds",
-          "body": "60 secondes. Tu suis du regard les prises de pied de la couleur de la voie, en marquant mentalement celles qui te laissent debout en equilibre stable."
+          "body": "60 secondes. Tu suis du regard les prises de pied de la couleur de la voie, en marquant mentalement celles qui te laissent debout en équilibre stable."
         },
         {
           "title": "Lecture mains",
-          "body": "60 secondes. Tu cherches les bacs et inversees qui te permettront de souffler ou de magnesier. Au moins trois points cles sur 12 mètres."
+          "body": "60 secondes. Tu cherches les bacs et inversées qui te permettront de souffler ou de magnésier. Au moins trois points clés sur 12 mètres."
         },
         {
-          "title": "Lecture sequence",
-          "body": "90 a 180 secondes. Tu reconstitues le film complet, en mimant les bras et le bassin au sol. Tu te repetes la sequence cle a voix basse."
+          "title": "Lecture séquence",
+          "body": "90 à 180 secondes. Tu reconstitues le film complet, en mimant les bras et le bassin au sol. Tu te répètes la séquence clé à voix basse."
         }
       ]
     },
     {
       "type": "h2",
-      "text": "Reperer le crux et anticiper"
+      "text": "Repérer le crux et anticiper"
     },
     {
       "type": "p",
-      "html": "Le crux, c'est la section la plus dure de la voie. Tu le reconnais a trois indices visibles depuis le sol : <strong>concentration de petites prises</strong>, ecartement important entre deux prises, ou presence d'une prise particuliere (sloper plat, pince fine, inversee a contre-rotation). Sur une voie de 6b moyenne, le crux dure deux a quatre mouvements et se situe souvent entre les degaines 3 et 5. La fin se relache, paradoxalement."
+      "html": "Le crux, c'est la section la plus dure de la voie. Tu le reconnais à trois indices visibles depuis le sol : <strong>concentration de petites prises</strong>, écartement important entre deux prises, ou présence d'une prise particulière (sloper plat, pince fine, inversée à contre-rotation). Sur une voie de 6b moyenne, le crux dure deux à quatre mouvements et se situe souvent entre les dégaines 3 et 5. La fin se relâche, paradoxalement."
     },
     {
       "type": "p",
-      "html": "Une fois le crux identifié, comme à <a href=\"/blog/grimper-en-tete-premiere-fois\">la première sortie en tête</a>, tu prepares ta strategie. Tu y arrives avec les bras frais ou tu y arrives en pompe ? Si la reponse c'est la pompe, tu repere une position de repos juste avant pour relacher les avant-bras. Tu identifies aussi la prise sur laquelle tu vas clipper si tu grimpes en tête. Anticiper le crux, c'est décider ou tu vas souffler 30 secondes avant la difficulte, pas dessus."
+      "html": "Une fois le crux identifié, comme à <a href=\"/blog/grimper-en-tete-premiere-fois\">la première sortie en tête</a>, tu prépares ta stratégie. Tu y arrives avec les bras frais ou tu y arrives en pompe ? Si la réponse c'est la pompe, tu repère une position de repos juste avant pour relâcher les avant-bras. Tu identifies aussi la prise sur laquelle tu vas clipper si tu grimpes en tête. Anticiper le crux, c'est décider où tu vas souffler 30 secondes avant la difficulté, pas dessus."
     },
     {
       "type": "h2",
-      "text": "Le mime au sol, outil sous-utilise"
+      "text": "Le mime au sol, outil sous-utilisé"
     },
     {
       "type": "p",
-      "html": "Mimer la voie au sol parait ridicule, c'est pourtant l'outil le plus puissant pour ancrer la sequence. Tu te places en face du mur, tu pointes du doigt chaque prise dans l'ordre, et tu mimes les rotations de bassin avec les hanches. Cette repetition active deux fois plus de zones cérébrales qu'une simple observation. Ton corps memorise la sequence sans avoir grimpe."
+      "html": "Mimer la voie au sol paraît ridicule, c'est pourtant l'outil le plus puissant pour ancrer la séquence. Tu te places en face du mur, tu pointes du doigt chaque prise dans l'ordre, et tu mimes les rotations de bassin avec les hanches. Cette répétition active deux fois plus de zones cérébrales qu'une simple observation. Ton corps mémorise la séquence sans avoir grimpé."
     },
     {
       "type": "tip",
       "title": "L'astuce de la photo mentale",
-      "body": "Avant de partir, ferme les yeux pendant cinq secondes et reproduit la voie en imagerie. Si tu peux te visualiser franchir le crux, tu es pret. Si l'image bug a un endroit, c'est que ta lecture est incomplete : reprends cette zone avant de quitter le sol.",
+      "body": "Avant de partir, ferme les yeux pendant cinq secondes et reproduit la voie en imagerie. Si tu peux te visualiser franchir le crux, tu es prêt. Si l'image bug à un endroit, c'est que ta lecture est incomplète : reprends cette zone avant de quitter le sol.",
       "tone": "astuce"
     },
     {
       "type": "p",
-      "html": "En compétition jeunes FFME, on nous obligeait a faire la sequence sans support visuel après avoir lu la voie. Cinq minutes de lecture, puis on devait reciter la sequence au coach. C'est un exercice violent, mais qui force le cerveau a structurer l'information. Sur rocher, ce travail prend encore plus de sens, parce que tu n'as pas de prises colorees pour te guider, juste des fissures et des bossages."
+      "html": "En compétition jeunes FFME, on nous obligeait à faire la séquence sans support visuel après avoir lu la voie. Cinq minutes de lecture, puis on devait réciter la séquence au coach. C'est un exercice violent, mais qui force le cerveau à structurer l'information. Sur rocher, ce travail prend encore plus de sens, parce que tu n'as pas de prises colorées pour te guider, juste des fissures et des bossages."
     },
     {
       "type": "h2",
@@ -94,19 +94,19 @@
     },
     {
       "type": "p",
-      "html": "En moulinette, ta lecture porte surtout sur les mouvements et les repos. Tu n'as pas de risque de chute serieuse, tu peux te concentrer sur l'efficacite. En tête, la lecture inclut un cinquieme element : <strong>les positions de clippage</strong>. Tu identifies chaque degaine et tu reperes la prise depuis laquelle tu pourras clipper de facon stable. Une mauvaise position de clippage peut te faire chuter sur une voie pourtant accessible."
+      "html": "En moulinette, ta lecture porte surtout sur les mouvements et les repos. Tu n'as pas de risque de chute sérieuse, tu peux te concentrer sur l'efficacité. En tête, la lecture inclut un cinquième élément : <strong>les positions de clippage</strong>. Tu identifies chaque dégaine et tu repères la prise depuis laquelle tu pourras clipper de façon stable. Une mauvaise position de clippage peut te faire chuter sur une voie pourtant accessible."
     },
     {
       "type": "p",
-      "html": "Pour bien lire en tête, Tu y apprendras a reconnaitre une bonne position de clip versus une position dangereuse. La lecture de tête intervient dans la premiere fois en tête et reste un reflexe a vie pour tout grimpeur de falaise."
+      "html": "Pour bien lire en tête, Tu y apprendras à reconnaître une bonne position de clip versus une position dangereuse. La lecture de tête intervient dans la première fois en tête et reste un réflexe à vie pour tout grimpeur de falaise."
     },
     {
       "type": "h2",
-      "text": "Erreurs frequentes de lecture"
+      "text": "Erreurs fréquentes de lecture"
     },
     {
       "type": "p",
-      "html": "Premiere erreur : lire la voie en discutant. Tu actives le cerveau social, pas le cerveau spatial. Tu rates 80 % de l'information utile. Deuxieme erreur : se concentrer sur les mains seulement. Or les pieds determinent la position, donc le geste de main. Troisieme erreur : sur-lire une voie facile et sous-lire une voie limite. C'est l'inverse qu'il faut faire."
+      "html": "Première erreur : lire la voie en discutant. Tu actives le cerveau social, pas le cerveau spatial. Tu rates 80 % de l'information utile. Deuxième erreur : se concentrer sur les mains seulement. Or les pieds déterminent la position, donc le geste de main. Troisième erreur : sur-lire une voie facile et sous-lire une voie limite. C'est l'inverse qu'il faut faire."
     },
     {
       "type": "list",
@@ -115,23 +115,23 @@
       "items": [
         {
           "title": "Lecture pendant qu'on s'encorde",
-          "body": "Tu n'as plus le cerveau a la voie, tu penses au nœud. Lis d'abord, encorde-toi après."
+          "body": "Tu n'as plus le cerveau à la voie, tu penses au nœud. Lis d'abord, encorde-toi après."
         },
         {
           "title": "Lecture les yeux suivant la corde",
-          "body": "Tu vois l'itineraire de fil rouge sans regarder les prises. Tu rates les pieds clefs."
+          "body": "Tu vois l'itinéraire de fil rouge sans regarder les prises. Tu rates les pieds clefs."
         },
         {
           "title": "Lecture sans bouger le corps",
-          "body": "Tu ne mimes rien, ton corps ne memorise rien. Tu n'auras qu'une trace visuelle, pas motrice."
+          "body": "Tu ne mimes rien, ton corps ne mémorise rien. Tu n'auras qu'une trace visuelle, pas motrice."
         },
         {
           "title": "Lecture en ne regardant que le crux",
-          "body": "Tu oublies la fatigue accumulee avant le crux. La voie commence au depart, pas au crux."
+          "body": "Tu oublies la fatigue accumulée avant le crux. La voie commence au départ, pas au crux."
         },
         {
           "title": "Lecture des copains et copie aveugle",
-          "body": "Ta morphologie n'est pas la leur. Une sequence qui marche pour eux peut t'envoyer dans le vide."
+          "body": "Ta morphologie n'est pas la leur. Une séquence qui marche pour eux peut t'envoyer dans le vide."
         }
       ]
     },
@@ -150,35 +150,35 @@
       "rows": [
         [
           "Dalle 5c-6a",
-          "2 a 3 minutes",
+          "2 à 3 minutes",
           "Pieds, pieds, pieds. Aucun bac pour porter le poids."
         ],
         [
           "Vertical 6a-6c",
-          "3 a 4 minutes",
+          "3 à 4 minutes",
           "Position de bassin et clippage entre prises moyennes."
         ],
         [
           "Devers 6b-7a",
-          "4 a 5 minutes",
-          "Sequence rapide, points de repos en talon ou en kneebar."
+          "4 à 5 minutes",
+          "Séquence rapide, points de repos en talon ou en kneebar."
         ],
         [
           "Toit 7a et plus",
           "5 minutes et plus",
-          "Tout en sequence, aucun repos possible, tout doit être memorise."
+          "Tout en séquence, aucun repos possible, tout doit être mémorisé."
         ]
       ]
     },
     {
       "type": "p",
-      "html": "En dalle, la lecture s'oriente totalement vers les pieds. En devers, vers les sequences rapides et les inversions de hanches. Sur toit, tu lis chaque mouvement comme si tu apprenais une choregraphie, parce que tu ne pourras pas reflechir suspendu. Adapte le temps et le focus a ce que la voie te demande. C'est aussi la cle pour <a href=\"/blog/grandes-voies-tactique\">basculer en grande voie</a>, ou la lecture devient un travail collectif entre cordee."
+      "html": "En dalle, la lecture s'oriente totalement vers les pieds. En devers, vers les séquences rapides et les inversions de hanches. Sur toit, tu lis chaque mouvement comme si tu apprenais une chorégraphie, parce que tu ne pourras pas réfléchir suspendu. Adapte le temps et le focus à ce que la voie te demande. C'est aussi la clé pour <a href=\"/blog/grandes-voies-tactique\">basculer en grande voie</a>, où la lecture devient un travail collectif entre cordée."
     },
     {
       "type": "quote",
-      "text": "Une voie bien lue est déjà a moitie grimpee. Le reste, c'est de l'execution.",
+      "text": "Une voie bien lue est déjà à moitié grimpée. Le reste, c'est de l'exécution.",
       "author": "Antoine",
-      "role": "grimpeur depuis 2013, 8a falaise en lecture preparee"
+      "role": "grimpeur depuis 2013, 8a falaise en lecture préparée"
     },
     {
       "type": "h2",
@@ -192,30 +192,30 @@
   "faq": [
     {
       "q": "Combien de temps prendre pour lire une voie correctement ?",
-      "a": "Compte 2 minutes pour une 5a, 3 minutes pour une 6a, 5 minutes pour une 7a a vue. Au-dela, tu sur-analyses et tu fatigues le cerveau. Si tu n'arrives toujours pas a voir le crux après cinq minutes, demande a un grimpeur plus fort de te donner un indice ou abandonne le projet pour cette seance."
+      "a": "Compte 2 minutes pour une 5a, 3 minutes pour une 6a, 5 minutes pour une 7a à vue. Au-delà, tu sur-analyses et tu fatigues le cerveau. Si tu n'arrives toujours pas à voir le crux après cinq minutes, demande à un grimpeur plus fort de te donner un indice ou abandonne le projet pour cette séance."
     },
     {
       "q": "Peut-on lire une voie pendant qu'on grimpe ?",
-      "a": "Oui, c'est ce qu'on appelle la lecture en cours. Tu reactualises ta strategie aux positions de repos. Mais cette lecture est plus pauvre que celle faite au sol, car tu es en effort et ton cerveau est en mode survie. La lecture au sol reste la base, la lecture en cours est un ajustement."
+      "a": "Oui, c'est ce qu'on appelle la lecture en cours. Tu réactualises ta stratégie aux positions de repos. Mais cette lecture est plus pauvre que celle faite au sol, car tu es en effort et ton cerveau est en mode survie. La lecture au sol reste la base, la lecture en cours est un ajustement."
     },
     {
       "q": "Faut-il lire une voie en moulinette comme en tête ?",
-      "a": "La structure est la même, le focus différe. En moulinette, tu te concentres sur le mouvement et la lecture des pieds. En tête, tu ajoutes les <a href=\"/blog/clipper-degaine-tete\">positions de clippage</a> et l'anticipation des chutes potentielles. Une voie 6b en tête demande 60 secondes de lecture en plus de la version moulinette."
+      "a": "La structure est la même, le focus diffère. En moulinette, tu te concentres sur le mouvement et la lecture des pieds. En tête, tu ajoutes les <a href=\"/blog/clipper-degaine-tete\">positions de clippage</a> et l'anticipation des chutes potentielles. Une voie 6b en tête demande 60 secondes de lecture en plus de la version moulinette."
     },
     {
-      "q": "Comment lire une voie a vue versus après-travail ?",
-      "a": "A vue, tu lis tout depuis le sol, c'est une seule chance. Après-travail, tu peux completer ta lecture en plusieurs essais, en gardant en memoire les mouvements rates. C'est plus reposant pour le cerveau, plus exigeant pour le corps si tu enchaines les essais."
+      "q": "Comment lire une voie à vue versus après-travail ?",
+      "a": "À vue, tu lis tout depuis le sol, c'est une seule chance. Après-travail, tu peux compléter ta lecture en plusieurs essais, en gardant en mémoire les mouvements ratés. C'est plus reposant pour le cerveau, plus exigeant pour le corps si tu enchaînes les essais."
     },
     {
       "q": "Est-ce que les coachs lisent les voies pour les enfants ?",
-      "a": "Oui, en initiation ils accompagnent les enfants pour leur apprendre a lire. A partir de 12 ans en compétition, le grimpeur lit seul. Pour <a href=\"/blog/escalade-enfants-progression\">les enfants en progression</a>, la lecture s'apprend comme un jeu, en pointant les prises et en mimant les mouvements."
+      "a": "Oui, en initiation ils accompagnent les enfants pour leur apprendre à lire. À partir de 12 ans en compétition, le grimpeur lit seul. Pour <a href=\"/blog/escalade-enfants-progression\">les enfants en progression</a>, la lecture s'apprend comme un jeu, en pointant les prises et en mimant les mouvements."
     },
     {
       "q": "Peut-on lire une voie sans cotation visible ?",
-      "a": "Oui, c'est même un exercice formateur. Tu lis la voie sans aprioris, tu te bases sur ce que tu vois. Ca évite le biais ou tu sur-stresse une voie cotee dur. En falaise sans topo, c'est la pratique normale. Tu jauges au visuel, tu pars, tu adaptes."
+      "a": "Oui, c'est même un exercice formateur. Tu lis la voie sans aprioris, tu te bases sur ce que tu vois. Ça évite le biais où tu sur-stresse une voie cotée dur. En falaise sans topo, c'est la pratique normale. Tu jauges au visuel, tu pars, tu adaptes."
     }
   ],
-  "cover_alt": "Une grimpeuse au pied d'une voie en salle d'escalade observe le mur les bras croises et le regard concentre, casquette grise et baudrier rouge, prises colorees sur un mur vertical blanc",
+  "cover_alt": "Une grimpeuse au pied d'une voie en salle d'escalade observe le mur les bras croisés et le regard concentré, casquette grise et baudrier rouge, prises colorées sur un mur vertical blanc",
   "internal_links": [
     {
       "slug": "apprendre-escalade-debutant",
@@ -224,7 +224,7 @@
     },
     {
       "slug": "grimper-en-tete-premiere-fois",
-      "anchor": "premiere fois en tête",
+      "anchor": "première fois en tête",
       "context": "Application directe lecture en tête"
     },
     {

@@ -3,46 +3,46 @@
   "cocon": "techniques",
   "type_article": "astuce",
   "numero": 31,
-  "title": "Adherence des pieds en escalade, astuces pour mieux coller",
-  "h1": "Adherence des pieds en grimpe, l'astuce qui change ta voie selon Antoine",
-  "description": "Adherence pieds escalade : qualite du chausson, temperature de la gomme, propre rocher, angle de pose et confiance dans le grain pour ne plus glisser...",
-  "chapo": "L'adherence du chausson, c'est ce mystere qui fait qu'un pied tient ou glisse sur la même prise. Souvent on accuse le chausson alors que c'est la pose qui pechait. Treize ans plus tard, j'ai compris que 80 pour cent de l'adherence se joue dans le geste, pas dans la gomme. Voici les astuces concretes pour coller tes pieds en toute circonstance.",
+  "title": "Adhérence des pieds en escalade, astuces pour mieux coller",
+  "h1": "Adhérence des pieds en escalade : mieux coller au rocher",
+  "description": "Adhérence pieds escalade : qualité du chausson, température de la gomme, propre rocher, angle de pose et confiance dans le grain pour ne plus glisser...",
+  "chapo": "L'adhérence du chausson, c'est ce mystère qui fait qu'un pied tient ou glisse sur la même prise. Souvent on accuse le chausson alors que c'est la pose qui péchait. Treize ans plus tard, j'ai compris que 80 pour cent de l'adhérence se joue dans le geste, pas dans la gomme. Voici les astuces concrètes pour coller tes pieds en toute circonstance.",
   "takeaways": [
-    "La gomme tiede colle nettement mieux qu'une gomme froide ou sale.",
-    "Pose le pied avec precision et ne bouge plus, le moindre ajustement fait riper.",
-    "Sur prise plate, le pied a plat maximise la surface de contact et l'adherence.",
-    "Sur micro prise, la pointe avant et le poids charge dessus comptent autant que la gomme.",
-    "Un chausson use perd 30 pour cent d'adherence, surveille ton resemelage."
+    "La gomme tiède colle nettement mieux qu'une gomme froide ou sale.",
+    "Pose le pied avec précision et ne bouge plus, le moindre ajustement fait riper.",
+    "Sur prise plate, le pied à plat maximise la surface de contact et l'adhérence.",
+    "Sur micro prise, la pointe avant et le poids chargé dessus comptent autant que la gomme.",
+    "Un chausson usé perd 30 pour cent d'adhérence, surveille ton resemelage."
   ],
   "body_blocks": [
     {
       "type": "h2",
-      "text": "Comprendre l'adherence en escalade"
+      "text": "Comprendre l'adhérence en escalade"
     },
     {
       "type": "p",
-      "html": "L'adherence vient de trois facteurs combines. Premierement, la <strong>qualite de la gomme</strong> et son etat. Deuxiemement, la <strong>surface du rocher ou de la prise</strong>, propre ou texturee. Troisiemement, le <strong>poids charge sur le pied</strong> et la precision de la pose. Beaucoup de grimpeurs se concentrent sur le premier facteur en negligeant les deux autres. Le cadre général reste <a href=\"/blog/apprendre-escalade-debutant\">le guide pour apprendre l'escalade</a>."
+      "html": "L'adhérence vient de trois facteurs combinés. Premièrement, la <strong>qualité de la gomme</strong> et son état. Deuxièmement, la <strong>surface du rocher ou de la prise</strong>, propre ou texturée. Troisièmement, le <strong>poids chargé sur le pied</strong> et la précision de la pose. Beaucoup de grimpeurs se concentrent sur le premier facteur en négligeant les deux autres. Le cadre général reste <a href=\"/blog/apprendre-escalade-debutant\">le guide pour apprendre l'escalade</a>."
     },
     {
       "type": "p",
-      "html": "En salle, la gomme noire des prises Petzl Coorock ou des marques de salle bouge moins que sur rocher. En falaise, le grain change selon le calcaire de Saffres, le gres du Saussois, le granite de Bleau, ou le poudingue d'Aiglun. Tu adaptes ta gomme et ta pose au support."
+      "html": "En salle, la gomme noire des prises Petzl Coorock ou des marques de salle bouge moins que sur rocher. En falaise, le grain change selon le calcaire de Saffres, le grès du Saussois, le granite de Bleau, ou le poudingue d'Aiglun. Tu adaptes ta gomme et ta pose au support."
     },
     {
       "type": "h2",
-      "text": "La gomme et son etat"
+      "text": "La gomme et son état"
     },
     {
       "type": "p",
-      "html": "La gomme du chausson colle quand elle est tiede et propre. A 5 degres, ta gomme devient une planche dure. A 25 degres, elle devient une cire qui marque le rocher mais qui colle. Pour rechauffer rapidement, frotte les chaussons l'un contre l'autre pendant 10 secondes avant de partir. Tu sens la différence des le premier pied."
+      "html": "La gomme du chausson colle quand elle est tiède et propre. À 5 degrés, ta gomme devient une planche dure. À 25 degrés, elle devient une cire qui marque le rocher mais qui colle. Pour réchauffer rapidement, frotte les chaussons l'un contre l'autre pendant 10 secondes avant de partir. Tu sens la différence dès le premier pied."
     },
     {
       "type": "p",
-      "html": "Surveille aussi <a href=\"/blog/resemelage-chaussons-quand\">l'usure de ta gomme</a>. A partir de 4 mm d'epaisseur restante, l'adherence chute de 30 pour cent. Après un an d'usage intensif, vise un resemelage chez un cordonnier specialise comme Resemelage Vertical a Paris ou Soles a Lyon. Un chausson resemele neuf coûte moitie prix qu'un neuf et tient mieux."
+      "html": "Surveille aussi <a href=\"/blog/resemelage-chaussons-quand\">l'usure de ta gomme</a>. À partir de 4 mm d'épaisseur restante, l'adhérence chute de 30 pour cent. Après un an d'usage intensif, vise un resemelage chez un cordonnier spécialisé comme Resemelage Vertical à Paris ou Soles à Lyon. Un chausson resemelé neuf coûte moitié prix qu'un neuf et tient mieux."
     },
     {
       "type": "tip",
       "title": "Le coup de pouce manche",
-      "body": "Avant un projet de dalle, essuie ta gomme avec un chiffon doux humide, puis seche-la sur ton tshirt. Tu enleves la poussiere abrasive qui isole la gomme du rocher. C'est invisible a l'oeil mais ca te donne 5 pour cent de prise en plus, ce qui peut faire la différence sur un crux.",
+      "body": "Avant un projet de dalle, essuie ta gomme avec un chiffon doux humide, puis sèche-la sur ton tshirt. Tu enlèves la poussière abrasive qui isole la gomme du rocher. C'est invisible à l'oeil mais ça te donne 5 pour cent de prise en plus, ce qui peut faire la différence sur un crux.",
       "tone": "astuce"
     },
     {
@@ -51,12 +51,12 @@
     },
     {
       "type": "p",
-      "html": "Sur une prise plate ou inclinee positivement, tu poses le pied a plat. La surface de contact est maximale, la gomme se deforme et epouse les microreliefs. Sur une prise petite, tu poses la pointe en avant, charges le poids, et la gomme se serre autour de la prise. Sur une prise inversee ou en devers, c'est la cambrure et la pointe en cuiller qui font la différence."
+      "html": "Sur une prise plate ou inclinée positivement, tu poses le pied à plat. La surface de contact est maximale, la gomme se déforme et épouse les microreliefs. Sur une prise petite, tu poses la pointe en avant, charges le poids, et la gomme se serre autour de la prise. Sur une prise inversée ou en devers, c'est la cambrure et la pointe en cuiller qui font la différence."
     },
     {
       "type": "list",
       "variant": "checks",
-      "title": "Trois erreurs frequentes de pose",
+      "title": "Trois erreurs fréquentes de pose",
       "items": [
         {
           "title": "Ajuster après la pose",
@@ -67,8 +67,8 @@
           "body": "Tu mets le pied de travers, seul un bord de la gomme contacte. Tu perds 60 pour cent de surface. Aligne le chausson avec l'inclinaison de la prise."
         },
         {
-          "title": "Pied non charge",
-          "body": "Tu poses mais tu gardes le poids sur l'autre pied. La gomme ne se deforme pas, l'adherence reste minimale. Bascule le bassin vraiment au-dessus du pied."
+          "title": "Pied non chargé",
+          "body": "Tu poses mais tu gardes le poids sur l'autre pied. La gomme ne se déforme pas, l'adhérence reste minimale. Bascule le bassin vraiment au-dessus du pied."
         }
       ]
     },
@@ -78,35 +78,35 @@
     },
     {
       "type": "p",
-      "html": "Une fois le pied pose, tu dois transferer le poids dessus. C'est le geste cle, souvent rate par les débutants. Tu poses, puis ton bassin remonte au-dessus du pied, et la gomme s'ecrase contre la prise. <a href=\"/blog/placement-corps-equilibre\">Ce placement de bassin precis</a> double l'adherence reelle."
+      "html": "Une fois le pied posé, tu dois transférer le poids dessus. C'est le geste clé, souvent raté par les débutants. Tu poses, puis ton bassin remonte au-dessus du pied, et la gomme s'écrase contre la prise. <a href=\"/blog/placement-corps-équilibre\">Ce placement de bassin précis</a> double l'adhérence réelle."
     },
     {
       "type": "p",
-      "html": "En dalle, le poids tombe a la verticale du pied. En devers, le poids tombe sur le pied selon un angle oblique, ce qui demande de la rotation de hanche pour orienter le corps. C'est la même logique mais avec des reglages différents. Pratique en salle sur des pans varies."
+      "html": "En dalle, le poids tombe à la verticale du pied. En devers, le poids tombe sur le pied selon un angle oblique, ce qui demande de la rotation de hanche pour orienter le corps. C'est la même logique mais avec des réglages différents. Pratique en salle sur des pans variés."
     },
     {
       "type": "h2",
-      "text": "Adherence selon le type de rocher"
+      "text": "Adhérence selon le type de rocher"
     },
     {
       "type": "p",
-      "html": "Le granite de Bleau et des Vosges colle bien quand il est sec, devient catastrophique en humidite, et adore les chaussons a gomme tendre type La Sportiva Mythos. Le calcaire de Saffres ou Buoux a un grain plus stable, accepte tous les chaussons, mais ralentit l'adherence par temps très chaud (gomme qui fond)."
+      "html": "Le granite de Bleau et des Vosges colle bien quand il est sec, devient catastrophique en humidité, et adore les chaussons à gomme tendre type La Sportiva Mythos. Le calcaire de Saffres ou Buoux a un grain plus stable, accepte tous les chaussons, mais ralentit l'adhérence par temps très chaud (gomme qui fond)."
     },
     {
       "type": "p",
-      "html": "Le gres de Saussois et de Fontainebleau a un grain abrasif qui use rapidement la gomme mais qui offre une adherence énorme quand le pied est propre. Le poudingue d'Aiglun, lui, est moins fiable parce que les galets noyes dans la matrice peuvent se desolidariser. Adapte tes attentes au support."
+      "html": "Le grès de Saussois et de Fontainebleau a un grain abrasif qui use rapidement la gomme mais qui offre une adhérence énorme quand le pied est propre. Le poudingue d'Aiglun, lui, est moins fiable parce que les galets noyés dans la matrice peuvent se désolidariser. Adapte tes attentes au support."
     },
     {
       "type": "h2",
-      "text": "Exercices pour sentir l'adherence"
+      "text": "Exercices pour sentir l'adhérence"
     },
     {
       "type": "table",
-      "caption": "Trois exercices pour ressentir l'adherence",
+      "caption": "Trois exercices pour ressentir l'adhérence",
       "headers": [
         "Exercice",
         "Durée",
-        "Sensation cherchee"
+        "Sensation cherchée"
       ],
       "rows": [
         [
@@ -115,12 +115,12 @@
           "Sentir le grip différentielle selon l'angle"
         ],
         [
-          "Voies sans corde a 1 mètre",
+          "Voies sans corde à 1 mètre",
           "20 min",
           "Tester la pose et le ripage volontaire"
         ],
         [
-          "Traversee laterale pieds seuls",
+          "Traversée latérale pieds seuls",
           "15 min",
           "Charger chaque pied 5 secondes"
         ]
@@ -128,11 +128,11 @@
     },
     {
       "type": "p",
-      "html": "Ces exercices te font sentir physiquement l'adherence et son evolution selon la pose. Tu deviens capable de prevoir si un pied tiendra ou non avant même de charger dessus. C'est aussi le terrain de jeu naturel <a href=\"/blog/dalle-escalade-techniques\">sur une dalle technique</a>."
+      "html": "Ces exercices te font sentir physiquement l'adhérence et son évolution selon la pose. Tu deviens capable de prévoir si un pied tiendra ou non avant même de charger dessus. C'est aussi le terrain de jeu naturel <a href=\"/blog/dalle-escalade-techniques\">sur une dalle technique</a>."
     },
     {
       "type": "h2",
-      "text": "Quand l'adherence devient mentale"
+      "text": "Quand l'adhérence devient mentale"
     },
     {
       "type": "p",
@@ -140,34 +140,34 @@
     },
     {
       "type": "quote",
-      "text": "L'adherence n'est pas une question de gomme, c'est une question de pose et de confiance dans la pose.",
+      "text": "L'adhérence n'est pas une question de gomme, c'est une question de pose et de confiance dans la pose.",
       "author": "Antoine",
       "role": "grimpeur en 8a falaise, 7b bloc"
     }
   ],
   "faq": [
     {
-      "q": "Quel chausson offre la meilleure adherence en dalle ?",
-      "a": "La Sportiva Mythos avec sa gomme Vibram XS Edge reste une reference, ainsi que les Petzl Coorock pour une gomme plus tendre. Evite les chaussons agressifs cambres pour le devers, ils ne posent pas bien a plat sur la dalle. Vise un chausson souple avec gomme plate."
+      "q": "Quel chausson offre la meilleure adhérence en dalle ?",
+      "a": "La Sportiva Mythos avec sa gomme Vibram XS Edge reste une référence, ainsi que les Petzl Coorock pour une gomme plus tendre. Évite les chaussons agressifs cambrés pour le devers, ils ne posent pas bien à plat sur la dalle. Vise un chausson souple avec gomme plate."
     },
     {
       "q": "Pourquoi mes pieds glissent sur les mêmes prises que mes potes ?",
-      "a": "Probablement ta pose ou ton transfert de poids. Filme-toi sur trois voies et compare. Souvent tu poses moins precisement, ou tu gardes le bassin en arriere, ce qui empeche la gomme de se charger correctement."
+      "a": "Probablement ta pose ou ton transfert de poids. Filme-toi sur trois voies et compare. Souvent tu poses moins précisément, ou tu gardes le bassin en arrière, ce qui empêche la gomme de se charger correctement."
     },
     {
-      "q": "Faut-il magnesier les chaussons aussi ?",
-      "a": "Non, surtout pas. La magnesie sur la gomme créé une couche poudreuse qui isole la gomme du rocher. Tu perds 50 pour cent d'adherence. Garde la magnesie pour les mains uniquement, et essuie ta gomme avant un projet."
+      "q": "Faut-il magnésier les chaussons aussi ?",
+      "a": "Non, surtout pas. La magnésie sur la gomme créé une couche poudreuse qui isole la gomme du rocher. Tu perds 50 pour cent d'adhérence. Garde la magnésie pour les mains uniquement, et essuie ta gomme avant un projet."
     },
     {
-      "q": "A quelle frequence resemeler les chaussons ?",
-      "a": "En usage régulier 2 fois par semaine, compte 8 a 12 mois avant le premier resemelage. Surveille la pointe : des qu'elle perce ou que l'epaisseur passe sous 3 mm, c'est le moment. Un resemelage chez un specialiste coûte 35 a 50 euros."
+      "q": "À quelle fréquence resemeler les chaussons ?",
+      "a": "En usage régulier 2 fois par semaine, compte 8 à 12 mois avant le premier resemelage. Surveille la pointe : dès qu'elle perce ou que l'épaisseur passe sous 3 mm, c'est le moment. Un resemelage chez un spécialiste coûte 35 à 50 euros."
     },
     {
-      "q": "L'humidite affecte-t-elle vraiment l'adherence ?",
-      "a": "Oui, énormément. Une roche humide divise par deux ou trois l'adherence du chausson. Sur granite mouille, tu glisses même avec une gomme neuve. Attends que le rocher seche 24 a 48 heures après pluie avant une sortie. En salle l'humidite hivernale baisse aussi l'adherence des prises."
+      "q": "L'humidité affecte-t-elle vraiment l'adhérence ?",
+      "a": "Oui, énormément. Une roche humide divise par deux ou trois l'adhérence du chausson. Sur granite mouillé, tu glisses même avec une gomme neuve. Attends que le rocher sèche 24 à 48 heures après pluie avant une sortie. En salle l'humidité hivernale baisse aussi l'adhérence des prises."
     }
   ],
-  "cover_alt": "Plan rapproche d'un chausson rouge La Sportiva pose en pointe sur une micro prise de granite gris, gomme noire ecrasee contre le rocher, magnesie blanche sur le chausson",
+  "cover_alt": "Plan rapproché d'un chausson rouge La Sportiva posé en pointe sur une micro prise de granite gris, gomme noire écrasée contre le rocher, magnésie blanche sur le chausson",
   "internal_links": [
     {
       "slug": "apprendre-escalade-debutant",
@@ -181,7 +181,7 @@
     },
     {
       "slug": "placement-corps-equilibre",
-      "anchor": "placement de bassin precis",
+      "anchor": "placement de bassin précis",
       "context": "Technique transverse"
     },
     {

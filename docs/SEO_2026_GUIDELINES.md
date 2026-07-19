@@ -98,9 +98,44 @@ de poids**. Règles :
 - Éviter de mettre en gras le même groupe nominal deux fois — la
   première occurrence suffit.
 
+### 2.1quater H1 : la règle qui a le plus manqué (à respecter absolument)
+
+Le H1 est, avec le title, le signal on-page le plus lu par Google et par
+l'utilisateur dans les featured snippets. Les erreurs constatées sur les
+premiers articles (à ne plus jamais reproduire) :
+
+- **Mot-clé en tête, formulation descriptive.** Le H1 commence par le sujet
+  exact que la personne tape dans Google. `Grimper en moulinette : encordement,
+  assurage et erreurs courantes`, pas `Grimper en moulinette, la technique que
+  personne ne te montre`.
+- **Zéro branding personnel dans le H1.** Interdiction formelle des tournures
+  « par Antoine », « selon Antoine », « le guide d'Antoine », « vu par Antoine ».
+  La signature de l'auteur vit dans le bloc bio en bas d'article et dans le
+  JSON-LD `author`, jamais dans le H1. Répétée sur 10 articles, elle fait
+  ressembler tous les H1 les uns aux autres et dilue le mot-clé.
+- **Pas de queue « clickbait ».** Bannir les tournures subjectives et
+  interchangeables : « ce qui change tout », « le geste qui fait la différence »,
+  « le secret pour… », « la grammaire cachée du mouvement », « le rituel qui
+  sauve », « que personne ne te montre ». Elles n'apportent aucun mot-clé,
+  se répètent d'un article à l'autre, et Google 2026 les lit comme du
+  remplissage.
+- **Jamais de point final** ni de H1 vague type `L'équipement d'escalade
+  essentiel.` : c'est une étiquette, pas un titre qui capte une requête.
+- **Accents corrects, toujours.** Un H1 comme `Adherence des pieds` (sans
+  accent) est un signal de contenu bâclé. Vérifier chaque é, è, à, ç.
+- **Longueur** : 40 à 70 caractères, un seul H1 par page.
+- **H1 ≠ title.** Le title est la version cliquable en SERP, le H1 la version
+  lue sur la page : ils partagent le mot-clé mais ne sont pas identiques mot
+  pour mot.
+- **Guides de site** : commencer par le lieu, qui EST la requête (les gens
+  tapent « escalade [lieu] » ou « [lieu] escalade »). Format
+  `[Lieu], [type de roche / caractère du site]`, ex.
+  `Bavella, les aiguilles de granite de Corse`.
+
 ### 2.2 Structure recommandée d'un article
 
-1. **H1** : reprend le sujet exact. Une seule occurrence.
+1. **H1** : reprend le sujet exact, mot-clé en tête (cf. 2.1quater). Une
+   seule occurrence.
 2. **Chapô** (paragraphe d'intro, 40 à 80 mots) : pose la question et
    annonce la réponse, sans détailler. Pas de promesse en l'air.
 3. **Encart « Les informations principales »** (composant `KeyTakeaways`) :
@@ -168,7 +203,10 @@ Chaque article a un JSON-LD avec :
 - `datePublished`, `dateModified`
 - `image` (cover, ImageObject avec width / height)
 - `mainEntityOfPage`
-- `breadcrumb` (BreadcrumbList Accueil > Blog > [Cocon] > Article)
+- `breadcrumb` (BreadcrumbList **Accueil > Blog > Article**). On ne met PAS
+  de niveau catégorie : l'URL est plate (`/blog/<slug>`), un niveau cocon
+  intermédiaire ferait passer l'article en profondeur 4 alors qu'il est en
+  profondeur 3. Le fil d'Ariane doit refléter l'URL réelle.
 - `wordCount` (optionnel mais utile)
 
 Si l'article contient une FAQ : ajouter un `FAQPage` avec les Q/R.
