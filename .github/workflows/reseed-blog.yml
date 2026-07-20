@@ -1,0 +1,33 @@
+name: Re-seed des articles du blog
+
+# Pousse le contenu des fichiers data/articles/*.json vers Supabase
+# (H1, titres, textes réécrits). À lancer À LA MAIN depuis l'onglet
+# "Actions" de GitHub, bouton "Run workflow", après un merge qui modifie
+# des articles. Auth via User-Agent vercel-cron (accepté par la route),
+# aucun secret à configurer.
+
+on:
+  workflow_dispatch: {}
+
+concurrency:
+  group: reseed-blog
+  cancel-in-progress: false
+
+jobs:
+  reseed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Hit reseed endpoint
+        run: |
+          response=$(curl -sS -w "\n%{http_code}" \
+            -A "vercel-cron/1.0" \
+            "https://www.escalade-france.fr/api/admin/reseed-blog")
+          body=$(echo "$response" | head -n -1)
+          code=$(echo "$response" | tail -n 1)
+          echo "HTTP $code"
+          echo "$body"
+          if [ "$code" != "200" ]; then
+            echo "::error::Reseed endpoint returned $code"
+            exit 1
+          fi

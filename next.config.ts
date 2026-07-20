@@ -1,6 +1,11 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  // La route /api/admin/reseed-blog lit data/articles/*.json au runtime :
+  // on force leur inclusion dans le bundle de la fonction serverless.
+  outputFileTracingIncludes: {
+    "/api/admin/reseed-blog": ["./data/articles/**/*"],
+  },
   images: {
     remotePatterns: [
       {
