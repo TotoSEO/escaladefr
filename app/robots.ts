@@ -7,8 +7,15 @@ const SITE = "https://www.escalade-france.fr";
  * Tout le contenu éditorial est explicitement ouvert, y compris aux
  * crawlers IA (réponse aux moteurs génératifs : Google AI Overviews,
  * ChatGPT, Claude, Perplexity…). Voir aussi /llms.txt.
+ *
+ * IMPORTANT : on ne bloque PAS /_next/. Next.js y sert le CSS compilé
+ * (/_next/static/css/*), le JS et les polices (/_next/static/media/*).
+ * Bloquer /_next/ empêche Googlebot de charger ces ressources : le moteur
+ * rend alors la page « brute » (sans styles), ce qu'on voit dans l'outil
+ * d'inspection d'URL de la Search Console, et ça dégrade l'indexation.
+ * Seules les routes API (aucun contenu indexable) restent fermées.
  */
-const TECHNICAL_PATHS = ["/api/", "/_next/"];
+const TECHNICAL_PATHS = ["/api/"];
 
 /**
  * Crawlers IA connus, autorisés explicitement (l'absence de règle vaut

@@ -6,26 +6,26 @@
   "title": "Grimper en toit : techniques pour déjouer la gravité",
   "h1": "Grimper en toit : techniques et engagement dans le dévers",
   "description": "Toit en escalade : gainage central, talons de blocage, prises pinces et bacs renversés, gestion du basculement et engagement mental pour franchir.",
-  "chapo": "Le toit, c'est le moment ou le mur devient plafond. Tu te retrouves a quatre-vingts pour cent suspendu, les bras tirent, le bassin doit rester haut, et chaque pied compte triple. Treize ans de grimpe m'ont fait apprivoiser le toit lentement, par paliers, en remplissant un carnet d'erreurs. Je raconte ici comment on dejoue la gravite sans se faire detruire les epaules.",
+  "chapo": "Le toit, c'est le moment où le mur devient plafond. Tu te retrouves à quatre-vingts pour cent suspendu, les bras tirent, le bassin doit rester haut, et chaque pied compte triple. Treize ans de grimpe m'ont fait apprivoiser le toit lentement, par paliers, en remplissant un carnet d'erreurs. Je raconte ici comment on déjoue la gravité sans se faire détruire les épaules.",
   "takeaways": [
     "Le toit se grimpe d'abord avec les abdominaux profonds, pas avec les bras.",
-    "Le talon est plus efficace que la pointe sur un toit a prises franches.",
-    "Engage avec un plan B clair : repli, sortie laterale ou redescente.",
-    "Les sorties de toit explosent la pompe, prepare-toi a un effort court intense.",
-    "Travaille en salle sur des plafonds a 150 degres avant de te frotter au rocher."
+    "Le talon est plus efficace que la pointe sur un toit à prises franches.",
+    "Engage avec un plan B clair : repli, sortie latérale ou redescente.",
+    "Les sorties de toit explosent la pompe, prépare-toi à un effort court intense.",
+    "Travaille en salle sur des plafonds à 150 degrés avant de te frotter au rocher."
   ],
   "body_blocks": [
     {
       "type": "h2",
-      "text": "Reconnaitre un vrai toit"
+      "text": "Reconnaître un vrai toit"
     },
     {
       "type": "p",
-      "html": "Un toit, c'est un <strong>plafond rocheux horizontal ou presque</strong>, généralement au-dela de 160 degres d'inclinaison. La gravite tire ton corps directement vers le bas, contrairement au devers qui te laisse encore un peu de poussee verticale. En salle, les toits font rarement plus de deux ou trois mètres de long, mais en falaise ils peuvent depasser dix mètres comme sur le secteur du Cimaie de Buoux."
+      "html": "Un toit, c'est un <strong>plafond rocheux horizontal ou presque</strong>, généralement au-delà de 160 degrés d'inclinaison. La gravité tire ton corps directement vers le bas, contrairement au dévers qui te laisse encore un peu de poussée verticale. En salle, les toits font rarement plus de deux ou trois mètres de long, mais en falaise ils peuvent dépasser dix mètres comme sur le secteur du Cimaie de Buoux."
     },
     {
       "type": "p",
-      "html": "En France, les toits mythiques se trouvent a Buoux, a Saint-Leger-du-Ventoux, aux Calanques, et au Verdon. <strong>Aiglun</strong> propose aussi un secteur a toits dans le 6c-7b accessible après trois saisons de pratique. Le bloc de Fontainebleau a quelques toits magnifiques, comme le Sale Gosse a Bas Cuvier."
+      "html": "En France, les toits mythiques se trouvent à Buoux, à Saint-Léger-du-Ventoux, aux Calanques, et au Verdon. <strong>Aiglun</strong> propose aussi un secteur à toits dans le 6c-7b accessible après trois saisons de pratique. Le bloc de Fontainebleau a quelques toits magnifiques, comme le Sale Gosse à Bas Cuvier."
     },
     {
       "type": "h2",
@@ -33,16 +33,16 @@
     },
     {
       "type": "p",
-      "html": "Le toit revele tout de suite ton niveau de gainage. Cette compétence rejoint <a href=\"/blog/apprendre-escalade-debutant\">l'apprentissage progressif de l'escalade</a>. Sans abdominaux profonds, tes pieds tombent et tu <a href=\"/blog/tirer-bras-jambes-grimpe\">te retrouves suspendu par les bras</a> seuls, ce qui mene a la pompe en huit secondes. Avec un gainage solide, le bassin reste haut, les pieds collent au plafond, et la traction sur les bras chute de moitie."
+      "html": "Le toit révèle tout de suite ton niveau de gainage. Cette compétence rejoint <a href=\"/blog/apprendre-escalade-debutant\">l'apprentissage progressif de l'escalade</a>. Sans abdominaux profonds, tes pieds tombent et tu <a href=\"/blog/tirer-bras-jambes-grimpe\">te retrouves suspendu par les bras</a> seuls, ce qui mène à la pompe en huit secondes. Avec un gainage solide, le bassin reste haut, les pieds collent au plafond, et la traction sur les bras chute de moitié."
     },
     {
       "type": "p",
-      "html": "Mon coach Pascal m'a impose deux ans de gainage prealable avant de me laisser engager mon premier toit serieux. Trois fois par semaine, planche frontale 90 secondes, planche laterale 60 secondes par cote, gainage dynamique 3 séries de 10. Sans cette base, le toit reste inaccessible au-dela du 6a. J'ai des copains 7a en devers qui n'arrivent pas a sortir un 6b de toit faute de centre."
+      "html": "Mon coach Pascal m'a imposé deux ans de gainage préalable avant de me laisser engager mon premier toit sérieux. Trois fois par semaine, planche frontale 90 secondes, planche latérale 60 secondes par côté, gainage dynamique 3 séries de 10. Sans cette base, le toit reste inaccessible au-delà du 6a. J'ai des copains 7a en dévers qui n'arrivent pas à sortir un 6b de toit faute de centre."
     },
     {
       "type": "tip",
       "title": "Test du toit horizontal",
-      "body": "Allonge-toi sur le dos, jambes pliees, soulevez-les sans toucher les ischios au sol. Tu dois tenir 60 secondes. Si tu craques avant 30 secondes, tes abdominaux ne sont pas prets pour le toit. Bosse la planche dynamique pendant deux mois avant d'engager.",
+      "body": "Allonge-toi sur le dos, jambes pliées, soulevez-les sans toucher les ischios au sol. Tu dois tenir 60 secondes. Si tu craques avant 30 secondes, tes abdominaux ne sont pas prêts pour le toit. Bosse la planche dynamique pendant deux mois avant d'engager.",
       "tone": "astuce"
     },
     {
@@ -51,11 +51,11 @@
     },
     {
       "type": "p",
-      "html": "En toit, la pointe ne sert presque a rien. Tu poses plutôt le <strong>talon en crochet</strong>, qui transforme ton pied en troisieme main. Le talon accroche une prise franche, le mollet tire le bassin vers la prise, et le bras oppose peut relacher pour magnesier. C'est la grammaire signature du toit, sans elle tu ne passes pas grand chose au-dela du 6c."
+      "html": "En toit, la pointe ne sert presque à rien. Tu poses plutôt le <strong>talon en crochet</strong>, qui transforme ton pied en troisième main. Le talon accroche une prise franche, le mollet tire le bassin vers la prise, et le bras opposé peut relâcher pour magnésier. C'est la grammaire signature du toit, sans elle tu ne passes pas grand chose au-delà du 6c."
     },
     {
       "type": "p",
-      "html": "Le talon-pointe se pratique aussi : le talon gauche crochete une prise, la pointe droite pousse sur une autre prise, et le bassin reste haut entre les deux."
+      "html": "Le talon-pointe se pratique aussi : le talon gauche crochète une prise, la pointe droite pousse sur une autre prise, et le bassin reste haut entre les deux."
     },
     {
       "type": "h2",
@@ -68,23 +68,23 @@
     {
       "type": "list",
       "variant": "checks",
-      "title": "Quatre criteres a vérifier avant un toit",
+      "title": "Quatre critères à vérifier avant un toit",
       "items": [
         {
-          "title": "Reperer un repos a mi-toit",
-          "body": "Une prise bac ou un crochet de talon qui permet de relacher 10 secondes. Sans ce repos, le toit devient une course contre la pompe."
+          "title": "Repérer un repos à mi-toit",
+          "body": "Une prise bac ou un crochet de talon qui permet de relâcher 10 secondes. Sans ce repos, le toit devient une course contre la pompe."
         },
         {
           "title": "Identifier la sortie",
-          "body": "La derniere prise du toit avant le mur vertical. Souvent c'est une pince ou une reglette franche. Memorise la position de la main et du pied."
+          "body": "La dernière prise du toit avant le mur vertical. Souvent c'est une pince ou une réglette franche. Mémorise la position de la main et du pied."
         },
         {
           "title": "Compter les mouvements totaux",
-          "body": "Un toit de 3 mètres = 5 a 7 mouvements. Au-dela, prevoir une vraie strategie de gestion d'effort."
+          "body": "Un toit de 3 mètres = 5 à 7 mouvements. Au-delà, prévoir une vraie stratégie de gestion d'effort."
         },
         {
           "title": "Vérifier l'assurage",
-          "body": "L'assureur doit être attentif, parce qu'une chute de toit est franche et le pendule arrache souvent les degaines. Brief ton partenaire avant de partir."
+          "body": "L'assureur doit être attentif, parce qu'une chute de toit est franche et le pendule arrache souvent les dégaines. Brief ton partenaire avant de partir."
         }
       ]
     },
@@ -94,11 +94,11 @@
     },
     {
       "type": "p",
-      "html": "En toit, tu trouves surtout des bacs renverses, des pinces a deux ou trois doigts, et des slopers ronds qu'on attrape par contre-pression. Les reglettes plates sont rares, parce que le toit demande des prises tenables a 90 degres de rotation. La saisie devient une <strong>preise de gravite inversee</strong>, ou la pulpe du doigt remplace la prise franche."
+      "html": "En toit, tu trouves surtout des bacs renversés, des pinces à deux ou trois doigts, et des slopers ronds qu'on attrape par contre-pression. Les réglettes plates sont rares, parce que le toit demande des prises tenables à 90 degrés de rotation. La saisie devient une <strong>preise de gravité inversée</strong>, où la pulpe du doigt remplace la prise franche."
     },
     {
       "type": "p",
-      "html": "Tu peux travailler ces prises en salle Vertical'Art ou Climb Up, qui proposent souvent un toit dedie de 2 a 4 mètres en bloc. Pour le rocher, prepare-toi a une transition rude, parce que le calcaire renverse n'a pas les mêmes prehensions confortables que les volumes salle."
+      "html": "Tu peux travailler ces prises en salle Vertical'Art ou Climb Up, qui proposent souvent un toit dédié de 2 à 4 mètres en bloc. Pour le rocher, prépare-toi à une transition rude, parce que le calcaire renversé n'a pas les mêmes préhensions confortables que les volumes salle."
     },
     {
       "type": "h2",
@@ -110,11 +110,11 @@
     },
     {
       "type": "p",
-      "html": "J'ai eu peur sur mon premier 6c+ de toit a Buoux en 2017. Trente secondes a regarder le sol, incapable de monter. Pascal m'a parle dans la radio, je suis revenu sur la respiration en quatre temps, et j'ai passe le crux a la quatrieme tentative. Le mental se travaille comme la force, par exposition progressive."
+      "html": "J'ai eu peur sur mon premier 6c+ de toit à Buoux en 2017. Trente secondes à regarder le sol, incapable de monter. Pascal m'a parlé dans la radio, je suis revenu sur la respiration en quatre temps, et j'ai passé le crux à la quatrième tentative. Le mental se travaille comme la force, par exposition progressive."
     },
     {
       "type": "quote",
-      "text": "Le toit n'est pas un mur a l'envers. C'est une discipline complete, avec sa grammaire propre.",
+      "text": "Le toit n'est pas un mur à l'envers. C'est une discipline complète, avec sa grammaire propre.",
       "author": "Antoine",
       "role": "grimpeur en 8a falaise, 7b bloc"
     },
@@ -127,22 +127,22 @@
       "caption": "Trois exercices pour gagner en toit",
       "headers": [
         "Exercice",
-        "Frequence",
+        "Fréquence",
         "Objectif"
       ],
       "rows": [
         [
-          "Traversee en toit 30 secondes",
-          "3x par seance",
+          "Traversée en toit 30 secondes",
+          "3x par séance",
           "Gainage et endurance"
         ],
         [
-          "Crochets de talon repetes",
-          "10 repetitions par cote",
+          "Crochets de talon répétés",
+          "10 répétitions par côté",
           "Automatiser le geste"
         ],
         [
-          "Sortie de toit chronometree",
+          "Sortie de toit chronométrée",
           "5 essais",
           "Travailler la pompe finale"
         ]
@@ -150,32 +150,32 @@
     },
     {
       "type": "p",
-      "html": "Repete ces trois exercices pendant un mois avant ton premier projet de toit serieux. Le geste devient automatique, le corps memorise la position. C'est aussi le moment de relire <a href=\"/blog/devers-techniques-puissance\">ton travail de devers</a> qui prepare la transition."
+      "html": "Répète ces trois exercices pendant un mois avant ton premier projet de toit sérieux. Le geste devient automatique, le corps mémorise la position. C'est aussi le moment de relire <a href=\"/blog/devers-techniques-puissance\">ton travail de dévers</a> qui prépare la transition."
     }
   ],
   "faq": [
     {
-      "q": "A partir de quel niveau aborder le toit en falaise ?",
-      "a": "Compte au moins deux saisons de pratique 6a-6b en falaise et un travail régulier de devers en salle. En dessous, le toit te detruira les epaules. Commence par des toits courts a Buoux ou Saint-Leger, dans des cotations 6a a 6b."
+      "q": "À partir de quel niveau aborder le toit en falaise ?",
+      "a": "Compte au moins deux saisons de pratique 6a-6b en falaise et un travail régulier de dévers en salle. En dessous, le toit te détruira les épaules. Commence par des toits courts à Buoux ou Saint-Léger, dans des cotations 6a à 6b."
     },
     {
-      "q": "Quelles blessures sont frequentes en toit ?",
-      "a": "Les ischio-jambiers crochetes au talon mal positionne, les epaules en sur-traction, et les doigts en pince forcee sur prise courte. Echauffe-toi 20 minutes avant tout toit serieux, et arrête des que tu sens une douleur fixe dans une articulation."
+      "q": "Quelles blessures sont fréquentes en toit ?",
+      "a": "Les ischio-jambiers crochetés au talon mal positionné, les épaules en sur-traction, et les doigts en pince forcée sur prise courte. Échauffe-toi 20 minutes avant tout toit sérieux, et arrête dès que tu sens une douleur fixe dans une articulation."
     },
     {
       "q": "Comment ne pas perdre les pieds dans un toit ?",
-      "a": "Le pied perd contact quand le bassin descend. Garde le centre de gravite haut en contractant les abdominaux. Si tes pieds tombent, c'est que tu tires trop sur les bras et pas assez sur le gainage. Bosse le gainage en parallele."
+      "a": "Le pied perd contact quand le bassin descend. Garde le centre de gravité haut en contractant les abdominaux. Si tes pieds tombent, c'est que tu tires trop sur les bras et pas assez sur le gainage. Bosse le gainage en parallèle."
     },
     {
       "q": "Quel matériel pour grimper un toit en falaise ?",
-      "a": "Casque obligatoire car la chute pendulaire peut t'envoyer contre le rocher. Chaussons agressifs cambres, baudrier avec porte-matériel renforce, et corde semi-statique 9.5 mm pour reduire le coup d'arrêt en chute. Demande conseil au club FFME local."
+      "a": "Casque obligatoire car la chute pendulaire peut t'envoyer contre le rocher. Chaussons agressifs cambrés, baudrier avec porte-matériel renforcé, et corde semi-statique 9.5 mm pour réduire le coup d'arrêt en chute. Demande conseil au club FFME local."
     },
     {
-      "q": "Est-ce que le toit forme pour le devers aussi ?",
-      "a": "Oui, le toit est l'ecole maximale du devers. Si tu sors un toit de 6b proprement, tu passeras du 7a en devers classique sans probleme. La grammaire du gainage et du talon transfere directement, avec un coefficient de difficulte reduit."
+      "q": "Est-ce que le toit forme pour le dévers aussi ?",
+      "a": "Oui, le toit est l'école maximale du dévers. Si tu sors un toit de 6b proprement, tu passeras du 7a en dévers classique sans problème. La grammaire du gainage et du talon transfère directement, avec un coefficient de difficulté réduit."
     }
   ],
-  "cover_alt": "Un grimpeur en pleine progression sous un toit calcaire jaune ocre, talon crochete sur une prise ronde, bassin haut colle au plafond, ciel bleu en arriere plan",
+  "cover_alt": "Un grimpeur en pleine progression sous un toit calcaire jaune ocre, talon crochété sur une prise ronde, bassin haut collé au plafond, ciel bleu en arrière plan",
   "internal_links": [
     {
       "slug": "apprendre-escalade-debutant",
@@ -190,11 +190,11 @@
     {
       "slug": "lecture-voie-strategie",
       "anchor": "lecture de voie",
-      "context": "Preparation strategique"
+      "context": "Préparation stratégique"
     },
     {
       "slug": "devers-techniques-puissance",
-      "anchor": "travail de devers",
+      "anchor": "travail de dévers",
       "context": "Progression vers le toit"
     },
     {
@@ -204,7 +204,7 @@
     },
     {
       "slug": "tirer-bras-jambes-grimpe",
-      "anchor": "logique de poussee jambes",
+      "anchor": "logique de poussée jambes",
       "context": "Bascule technique"
     }
   ],

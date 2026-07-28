@@ -3,15 +3,15 @@
   "cocon": "techniques",
   "type_article": "guide",
   "numero": 33,
-  "title": "Types de prises de main en escalade, bac, reglette, pince,",
+  "title": "Types de prises de main en escalade, bac, réglette, pince,",
   "h1": "Les types de prises de main en escalade : le vocabulaire",
-  "description": "Types prises main escalade : bac, reglette, pince, sloper, trou, gouttiere, bidoigt et croche pour comprendre la grammaire des prises et choisir la...",
-  "chapo": "Bac, reglette, pince, sloper, trou, gouttiere : le vocabulaire des prises de main est plus riche qu'on ne croit. Chaque type appelle une prehension precise, une orientation de poignet, un effort musculaire différent. Treize ans de salle et de falaise m'ont fait construire ce mini-dictionnaire pour que tu identifies vite ce que tu vois et que tu agisses bien.",
+  "description": "Types prises main escalade : bac, réglette, pince, sloper, trou, gouttière, bidoigt et croche pour comprendre la grammaire des prises et choisir la...",
+  "chapo": "Bac, réglette, pince, sloper, trou, gouttière : le vocabulaire des prises de main est plus riche qu'on ne croit. Chaque type appelle une préhension précise, une orientation de poignet, un effort musculaire différent. Treize ans de salle et de falaise m'ont fait construire ce mini-dictionnaire pour que tu identifies vite ce que tu vois et que tu agisses bien.",
   "takeaways": [
     "Le bac se tient avec la paume pleine, prise la plus reposante et la plus franche.",
-    "La reglette demande une prehension fine en arquee ou demi arquee.",
-    "La pince exige une pression pouce-doigts opposes, force spécifique a travailler.",
-    "Le sloper ne se tient pas, il s'epouse en compression de pulpe sur surface ronde.",
+    "La réglette demande une préhension fine en arquée ou demi arquée.",
+    "La pince exige une pression pouce-doigts opposés, force spécifique à travailler.",
+    "Le sloper ne se tient pas, il s'épouse en compression de pulpe sur surface ronde.",
     "Le bidoigt et trou exposent les tendons, prudence sur chargement brutal."
   ],
   "body_blocks": [
@@ -21,28 +21,28 @@
     },
     {
       "type": "p",
-      "html": "Le <strong>bac</strong>, c'est la prise la plus simple et la plus franche. Une cavite généralement de 5 a 15 cm de profondeur ou tu poses la paume entiere, doigts pliees a 90 degres, pouce qui peut envelopper le bord extérieur. C'est la prise qu'on trouve en majorite sur les voies 5a a 5c en salle, et qui permet à un débutant <a href=\"/blog/apprendre-escalade-debutant\">en pleine progression d'apprentissage</a> de progresser vite. Tu peux te reposer dessus sans pomper."
+      "html": "Le <strong>bac</strong>, c'est la prise la plus simple et la plus franche. Une cavité généralement de 5 à 15 cm de profondeur où tu poses la paume entière, doigts pliées à 90 degrés, pouce qui peut envelopper le bord extérieur. C'est la prise qu'on trouve en majorité sur les voies 5a à 5c en salle, et qui permet à un débutant <a href=\"/blog/apprendre-escalade-debutant\">en pleine progression d'apprentissage</a> de progresser vite. Tu peux te reposer dessus sans pomper."
     },
     {
       "type": "p",
-      "html": "En falaise, le bac existe surtout sur les voies calcaires de Saffres et Saussois, dans le 6a et en dessous. Au-dela du 7a, les bacs deviennent rares, remplaces par des prises plus exigeantes. Le bac reste l'ami du grimpeur lors des passages de repos."
+      "html": "En falaise, le bac existe surtout sur les voies calcaires de Saffres et Saussois, dans le 6a et en dessous. Au-delà du 7a, les bacs deviennent rares, remplacés par des prises plus exigeantes. Le bac reste l'ami du grimpeur lors des passages de repos."
     },
     {
       "type": "h2",
-      "text": "La reglette, prise reine de l'escalade"
+      "text": "La réglette, prise reine de l'escalade"
     },
     {
       "type": "p",
-      "html": "La <strong>reglette</strong>, c'est une prise plate de 5 mm a 3 cm de hauteur. C'est la prise la plus frequente sur le calcaire francais, du 6b au 8a. Tu <a href=\"/blog/doigts-prises-petites\">la tiens en arquee ou demi arquee</a> selon ta taille, avec les pulpes en contact direct. La reglette est la prise qui forme les doigts et qui te fait passer les cotations."
+      "html": "La <strong>réglette</strong>, c'est une prise plate de 5 mm à 3 cm de hauteur. C'est la prise la plus fréquente sur le calcaire français, du 6b au 8a. Tu <a href=\"/blog/doigts-prises-petites\">la tiens en arquée ou demi arquée</a> selon ta taille, avec les pulpes en contact direct. La réglette est la prise qui forme les doigts et qui te fait passer les cotations."
     },
     {
       "type": "p",
-      "html": "Sur une voie a Buoux ou Ceuse, tu peux enchainer 15 a 20 reglettes successives. La gestion de la prehension devient un enjeu cle, parce que serrer trop ferme epuise les avant-bras en 30 secondes. La demi arquee économique est le meilleur reflexe, sauf sur la reglette inférieure a 1 cm ou l'arquee ferme s'impose."
+      "html": "Sur une voie à Buoux ou Céüse, tu peux enchaîner 15 à 20 réglettes successives. La gestion de la préhension devient un enjeu clé, parce que serrer trop ferme épuise les avant-bras en 30 secondes. La demi arquée économique est le meilleur réflexe, sauf sur la réglette inférieure à 1 cm où l'arquée ferme s'impose."
     },
     {
       "type": "tip",
       "title": "Le test des trois doigts",
-      "body": "Sur une reglette de 2 cm, essaie de tenir avec seulement les trois doigts du milieu : index, majeur, annulaire. Si tu craques, c'est que ton auriculaire compensait trop. Bosse en isolant pendant trois mois pour developper la force pulpe centrale, c'est ce qui fait la différence au-dela du 7a.",
+      "body": "Sur une réglette de 2 cm, essaie de tenir avec seulement les trois doigts du milieu : index, majeur, annulaire. Si tu craques, c'est que ton auriculaire compensait trop. Bosse en isolant pendant trois mois pour développer la force pulpe centrale, c'est ce qui fait la différence au-delà du 7a.",
       "tone": "astuce"
     },
     {
@@ -51,11 +51,11 @@
     },
     {
       "type": "p",
-      "html": "La <strong>pince</strong>, c'est une prise saillante en forme de pyramide ou de bossage que tu attrapes en opposition pouce-doigts. La force vient de la <strong>pression laterale</strong> du pouce contre les autres doigts. C'est une technique très différente de l'arquee, et la force pince se developpe spécifiquement par hangboard ou par voies dediees."
+      "html": "La <strong>pince</strong>, c'est une prise saillante en forme de pyramide ou de bossage que tu attrapes en opposition pouce-doigts. La force vient de la <strong>pression latérale</strong> du pouce contre les autres doigts. C'est une technique très différente de l'arquée, et la force pince se développe spécifiquement par hangboard ou par voies dédiées."
     },
     {
       "type": "p",
-      "html": "Beaucoup de grimpeurs forts en reglette plafonnent sur la pince, parce qu'ils n'ont pas developpe l'opposition pouce. Pour bosser, vise les volumes en salle Climb Up ou Vertical'Art qui proposent souvent des pinces de 30 a 50 mm. Trois seances par semaine pendant deux mois suffisent a developper la pince intermediaire."
+      "html": "Beaucoup de grimpeurs forts en réglette plafonnent sur la pince, parce qu'ils n'ont pas développé l'opposition pouce. Pour bosser, vise les volumes en salle Climb Up ou Vertical'Art qui proposent souvent des pinces de 30 à 50 mm. Trois séances par semaine pendant deux mois suffisent à développer la pince intermédiaire."
     },
     {
       "type": "h2",
@@ -63,7 +63,7 @@
     },
     {
       "type": "p",
-      "html": "Le <strong>sloper</strong>, c'est une prise arrondie sans bord franc, ou tu ne tiens pas en arquee mais en epousant la surface. Toute la pulpe et la paume contactent le sloper, et la friction vient de la pression vers le bas. Plus la peau est seche, plus le sloper tient. La magnesie est obligatoire, et la peau doit être saine, sans coupure ou sueur excessive."
+      "html": "Le <strong>sloper</strong>, c'est une prise arrondie sans bord franc, où tu ne tiens pas en arquée mais en épousant la surface. Toute la pulpe et la paume contactent le sloper, et la friction vient de la pression vers le bas. Plus la peau est sèche, plus le sloper tient. La magnésie est obligatoire, et la peau doit être saine, sans coupure ou sueur excessive."
     },
     {
       "type": "list",
@@ -76,11 +76,11 @@
         },
         {
           "title": "Charge le poids droit dessous",
-          "body": "Le sloper ne tient que si la force va vers le bas. Tout angle lateral te fait riper. Place ton bassin a la verticale de la main."
+          "body": "Le sloper ne tient que si la force va vers le bas. Tout angle latéral te fait riper. Place ton bassin à la verticale de la main."
         },
         {
           "title": "Garde le poignet ferme",
-          "body": "Le poignet plie casse la compression. Verrouille le poignet en extension legere pour transmettre la force du bras vers la paume."
+          "body": "Le poignet plié casse la compression. Verrouille le poignet en extension légère pour transmettre la force du bras vers la paume."
         }
       ]
     },
@@ -90,11 +90,11 @@
     },
     {
       "type": "p",
-      "html": "Le <strong>trou</strong>, c'est une cavite ronde dans le rocher ou tu engages un ou plusieurs doigts. Le trou a 3 doigts est confortable, le bidoigt a 2 doigts est dur, le monodoigt est severe. Les trous sont la signature du calcaire du Verdon et de certaines parois du sud-est. Tu adaptes la prehension : index-majeur pour le bidoigt, majeur seul pour le monodoigt souvent."
+      "html": "Le <strong>trou</strong>, c'est une cavité ronde dans le rocher où tu engages un ou plusieurs doigts. Le trou à 3 doigts est confortable, le bidoigt à 2 doigts est dur, le monodoigt est sévère. Les trous sont la signature du calcaire du Verdon et de certaines parois du sud-est. Tu adaptes la préhension : index-majeur pour le bidoigt, majeur seul pour le monodoigt souvent."
     },
     {
       "type": "p",
-      "html": "Attention au bidoigt mal positionne : c'est la blessure de poulie classique du Verdon. Si tu sens une douleur a la base du doigt, redescends immediatement. Le monodoigt expose le doigt unique a la rupture de tendon, ne joue jamais ta carriere sur une prise solitaire."
+      "html": "Attention au bidoigt mal positionné : c'est la blessure de poulie classique du Verdon. Si tu sens une douleur à la base du doigt, redescends immédiatement. Le monodoigt expose le doigt unique à la rupture de tendon, ne joue jamais ta carrière sur une prise solitaire."
     },
     {
       "type": "h2",
@@ -102,43 +102,43 @@
     },
     {
       "type": "table",
-      "caption": "Cinq prises secondaires a connaitre",
+      "caption": "Cinq prises secondaires à connaître",
       "headers": [
         "Nom",
         "Description",
-        "Prehension"
+        "Préhension"
       ],
       "rows": [
         [
-          "Gouttiere",
-          "Cavite verticale longue",
+          "Gouttière",
+          "Cavité verticale longue",
           "Paume pleine en contre-pression"
         ],
         [
           "Pince inverse",
           "Bossage attrape pouce vers le bas",
-          "Force triceps et epaule"
+          "Force triceps et épaule"
         ],
         [
           "Croche",
-          "Bord saillant accroche en arquee inverse",
-          "Demi arquee tendue"
+          "Bord saillant accroche en arquée inverse",
+          "Demi arquée tendue"
         ],
         [
           "Patate",
           "Sloper arrondi parfait",
-          "Compression paume seche"
+          "Compression paume sèche"
         ],
         [
           "Pince horizontale",
-          "Reglette tenue par opposition pouce-index",
-          "Pince couchee"
+          "Réglette tenue par opposition pouce-index",
+          "Pince couchée"
         ]
       ]
     },
     {
       "type": "p",
-      "html": "Ces prises secondaires apparaissent dans le 7a et au-dela, sur des voies de Buoux, Saint-Leger, Ceuse ou Aiglun. La connaissance du vocabulaire t'aide a anticiper le geste et a perdre moins de temps en hesitation au pied de la voie. <a href=\"/blog/lecture-voie-strategie\">Le décryptage tactique de l'itinéraire</a> devient plus precise quand tu nommes correctement les prises."
+      "html": "Ces prises secondaires apparaissent dans le 7a et au-delà, sur des voies de Buoux, Saint-Léger, Céüse ou Aiglun. La connaissance du vocabulaire t'aide à anticiper le geste et à perdre moins de temps en hésitation au pied de la voie. <a href=\"/blog/lecture-voie-strategie\">Le décryptage tactique de l'itinéraire</a> devient plus précise quand tu nommes correctement les prises."
     },
     {
       "type": "h2",
@@ -154,7 +154,7 @@
     },
     {
       "type": "p",
-      "html": "Pendant tes deux premieres annees, tu fais essentiellement du bac et de la reglette. C'est normal et bien. Après deux ans, tu commences a rencontrer pinces et slopers serieux. Après trois ans, le bidoigt et le monodoigt arrivent. Cette progression respecte la solidite progressive des structures tendineuses et s'inscrit dans le cadre plus large <a href=\"/blog/progresser-niveau-escalade\">de progresser de niveau</a> sans casser. Quand j'ai commencé à toucher du 7a, c'est sur la tenue des réglettes que je calais. J'ai mis six mois à comprendre que je serrais en arquée fermée par réflexe sur des prises qui demandaient une demi-arquée. Une fois cette nuance intégrée, les voies sur calcaire du Jura se sont débloquées d'un coup."
+      "html": "Pendant tes deux premières années, tu fais essentiellement du bac et de la réglette. C'est normal et bien. Après deux ans, tu commences à rencontrer pinces et slopers sérieux. Après trois ans, le bidoigt et le monodoigt arrivent. Cette progression respecte la solidité progressive des structures tendineuses et s'inscrit dans le cadre plus large <a href=\"/blog/progresser-niveau-escalade\">de progresser de niveau</a> sans casser. Quand j'ai commencé à toucher du 7a, c'est sur la tenue des réglettes que je calais. J'ai mis six mois à comprendre que je serrais en arquée fermée par réflexe sur des prises qui demandaient une demi-arquée. Une fois cette nuance intégrée, les voies sur calcaire du Jura se sont débloquées d'un coup."
     },
     {
       "type": "quote",
@@ -166,26 +166,26 @@
   "faq": [
     {
       "q": "Quelles prises trouve-t-on le plus souvent en salle ?",
-      "a": "En salle, c'est surtout bac et reglette pour les voies sous 6b, puis pince et sloper a partir du 6c. Le trou est rare en salle commerciale, plus present en gymnase FFME qui imite le rocher. Vertical'Art et Climb Up proposent une bonne variete."
+      "a": "En salle, c'est surtout bac et réglette pour les voies sous 6b, puis pince et sloper à partir du 6c. Le trou est rare en salle commerciale, plus présent en gymnase FFME qui imite le rocher. Vertical'Art et Climb Up proposent une bonne variété."
     },
     {
       "q": "Quel âgé pour commencer les bidoigts ?",
-      "a": "Pas avant 16 ans pour les débutants. Et pour les grimpeurs adultes, attends au moins 2 ans de pratique régulière avant de charger un bidoigt en mode force. Les poulies prennent du temps a se renforcer, et le bidoigt expose plus que la reglette."
+      "a": "Pas avant 16 ans pour les débutants. Et pour les grimpeurs adultes, attends au moins 2 ans de pratique régulière avant de charger un bidoigt en mode force. Les poulies prennent du temps à se renforcer, et le bidoigt expose plus que la réglette."
     },
     {
-      "q": "Comment savoir quelle prehension utiliser ?",
-      "a": "La taille de la prise et son angle te le disent. Reglette plate de 1 a 2 cm : demi arquee. Reglette sous 1 cm : arquee ferme. Bossage saillant : pince. Surface ronde : sloper en compression. Cavite : trou. Avec l'expérience le choix devient instinctif en moins d'une seconde."
+      "q": "Comment savoir quelle préhension utiliser ?",
+      "a": "La taille de la prise et son angle te le disent. Réglette plate de 1 à 2 cm : demi arquée. Réglette sous 1 cm : arquée ferme. Bossage saillant : pince. Surface ronde : sloper en compression. Cavité : trou. Avec l'expérience le choix devient instinctif en moins d'une seconde."
     },
     {
-      "q": "Faut-il magnesier toutes les prises ?",
-      "a": "Pour le sloper et la reglette par temps chaud, oui systematiquement. Pour le bac, c'est inutile et ca encrasse la prise. Magnesie ponctuelle aux moments cles, pas en routine systeme. Trop de magnesie isole la peau du rocher."
+      "q": "Faut-il magnésier toutes les prises ?",
+      "a": "Pour le sloper et la réglette par temps chaud, oui systématiquement. Pour le bac, c'est inutile et ça encrasse la prise. Magnésie ponctuelle aux moments clés, pas en routine système. Trop de magnésie isole la peau du rocher."
     },
     {
       "q": "Quelle est la prise la plus dangereuse pour les doigts ?",
-      "a": "Le monodoigt en arquee ferme reste la prise la plus risquee pour la rupture de poulie ou de tendon. Le bidoigt mal positionne arrive juste après. Evite ces prises tant que tu n'as pas 3 ans de pratique solide et un travail spécifique de hangboard."
+      "a": "Le monodoigt en arquée ferme reste la prise la plus risquée pour la rupture de poulie ou de tendon. Le bidoigt mal positionné arrive juste après. Évite ces prises tant que tu n'as pas 3 ans de pratique solide et un travail spécifique de hangboard."
     }
   ],
-  "cover_alt": "Mosaique de quatre mains en gros plan tenant chacune un type de prise différent : bac plein, reglette en arquee, pince en opposition pouce, sloper en compression",
+  "cover_alt": "Mosaïque de quatre mains en gros plan tenant chacune un type de prise différent : bac plein, réglette en arquée, pince en opposition pouce, sloper en compression",
   "internal_links": [
     {
       "slug": "apprendre-escalade-debutant",
@@ -194,23 +194,23 @@
     },
     {
       "slug": "doigts-prises-petites",
-      "anchor": "arquee ou demi arquee",
+      "anchor": "arquée ou demi arquée",
       "context": "Technique fine des doigts"
     },
     {
       "slug": "lecture-voie-strategie",
       "anchor": "lecture de voie",
-      "context": "Application strategique"
+      "context": "Application stratégique"
     },
     {
       "slug": "adherence-pieds-grimpe",
-      "anchor": "adherence pieds",
-      "context": "Stabilite complementaire"
+      "anchor": "adhérence pieds",
+      "context": "Stabilité complémentaire"
     },
     {
       "slug": "progresser-niveau-escalade",
       "anchor": "progresser de niveau",
-      "context": "Strategie générale"
+      "context": "Stratégie générale"
     }
   ],
   "scheduled_at": "2026-07-30T09:00:00+02:00"

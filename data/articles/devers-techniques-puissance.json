@@ -3,29 +3,29 @@
   "cocon": "techniques",
   "type_article": "guide",
   "numero": 29,
-  "title": "Devers en escalade, gestion de la pompe et placement",
+  "title": "Dévers en escalade, gestion de la pompe et placement",
   "h1": "Grimper en dévers : gérer la pompe et le placement",
-  "description": "Devers en escalade : techniques de lolotte, talon-pointe, gestion de la pompe, placement de hanche et repos sur prises franches pour grimper longtemps...",
-  "chapo": "Le devers, c'est ce moment ou le mur bascule au-dessus de toi et ou tu finis par grimper presque a l'envers. Tu sens la pompe monter en quelques mouvements, tu cherches le repos, tu pousses sur des pieds qui veulent partir. Treize ans de surplombs calcaires m'ont appris une chose : le devers se grimpe avec les hanches, pas avec les bras gonfles.",
+  "description": "Dévers en escalade : techniques de lolotte, talon-pointe, gestion de la pompe, placement de hanche et repos sur prises franches pour grimper longtemps...",
+  "chapo": "Le dévers, c'est ce moment où le mur bascule au-dessus de toi et où tu finis par grimper presque à l'envers. Tu sens la pompe monter en quelques mouvements, tu cherches le repos, tu pousses sur des pieds qui veulent partir. Treize ans de surplombs calcaires m'ont appris une chose : le dévers se grimpe avec les hanches, pas avec les bras gonflés.",
   "takeaways": [
-    "Le devers se grimpe avec les hanches collees au mur, jamais bassin en arriere.",
+    "Le dévers se grimpe avec les hanches collées au mur, jamais bassin en arrière.",
     "La lolotte et le talon-pointe sont les deux techniques signatures du surplomb.",
     "Cherche le bras tendu en repos toutes les trois ou quatre prises pour repousser la pompe.",
     "Le pied actif pousse vraiment, le pied passif accompagne et stabilise.",
-    "Magnesie courte et respiration calme valent mieux que la prise tenue plus fort."
+    "Magnésie courte et respiration calme valent mieux que la prise tenue plus fort."
   ],
   "body_blocks": [
     {
       "type": "h2",
-      "text": "Comprendre ce qu'est un vrai devers"
+      "text": "Comprendre ce qu'est un vrai dévers"
     },
     {
       "type": "p",
-      "html": "Un devers, c'est une <strong>paroi inclinee au-dela de 95 degres</strong>. Tu reconnais le devers a la sensation de masse qui te tire vers l'arriere. En salle, les surplombs vont de 105 a 130 degres dans la plupart des Vertical'Art et Climb Up. Au-dela, on parle de toit. La grimpe en dévers mobilise la chaine posterieure et les abdominaux profonds, sujet plus large abordé dans <a href=\"/blog/apprendre-escalade-debutant\">le guide pour démarrer l'escalade en 2026</a> la chaine posterieure et les abdominaux profonds, pas les biceps malgre ce qu'on imagine."
+      "html": "Un dévers, c'est une <strong>paroi inclinée au-delà de 95 degrés</strong>. Tu reconnais le dévers à la sensation de masse qui te tire vers l'arrière. En salle, les surplombs vont de 105 à 130 degrés dans la plupart des Vertical'Art et Climb Up. Au-delà, on parle de toit. La grimpe en dévers mobilise la chaîne postérieure et les abdominaux profonds, sujet plus large abordé dans <a href=\"/blog/apprendre-escalade-debutant\">le guide pour démarrer l'escalade en 2026</a> la chaîne postérieure et les abdominaux profonds, pas les biceps malgré ce qu'on imagine."
     },
     {
       "type": "p",
-      "html": "En falaise, le calcaire de Buoux dans le Vaucluse et celui de Ceuse dans les Hautes-Alpes proposent des devers legendaires. <strong>Aiglun</strong> aussi, dans les Alpes-Maritimes, ouvre des secteurs en surplomb 35 degres pour les amateurs de continuite. La grimpe en devers se travaille en salle d'abord, parce que le risque de pendule est plus contrôle entre quatre murs."
+      "html": "En falaise, le calcaire de Buoux dans le Vaucluse et celui de Céüse dans les Hautes-Alpes proposent des dévers légendaires. <strong>Aiglun</strong> aussi, dans les Alpes-Maritimes, ouvre des secteurs en surplomb 35 degrés pour les amateurs de continuité. La grimpe en dévers se travaille en salle d'abord, parce que le risque de pendule est plus contrôlé entre quatre murs."
     },
     {
       "type": "h2",
@@ -33,7 +33,7 @@
     },
     {
       "type": "p",
-      "html": "La <strong>lolotte</strong>, c'est ce mouvement de bassin qui tourne la hanche externe contre le mur pour rapprocher le centre de gravite. Tu poses le pied gauche en pointe ouverte, tu fais pivoter le genou droit vers le mur, et le bassin se colle naturellement. Cette rotation reduit la traction sur les bras de 30 a 50 pour cent selon l'angle. C'est la même grammaire que <a href=\"/blog/rotation-pivot-escalade\">la rotation et le pivot en escalade</a>."
+      "html": "La <strong>lolotte</strong>, c'est ce mouvement de bassin qui tourne la hanche externe contre le mur pour rapprocher le centre de gravité. Tu poses le pied gauche en pointe ouverte, tu fais pivoter le genou droit vers le mur, et le bassin se colle naturellement. Cette rotation réduit la traction sur les bras de 30 à 50 pour cent selon l'angle. C'est la même grammaire que <a href=\"/blog/rotation-pivot-escalade\">la rotation et le pivot en escalade</a>."
     },
     {
       "type": "p",
@@ -42,7 +42,7 @@
     {
       "type": "tip",
       "title": "L'astuce du genou peint",
-      "body": "Pour t'entrainer a la lolotte, imagine que ton genou est trempe de peinture rouge. A chaque mouvement, ton genou doit toucher le mur et laisser une trace. Tu sentiras très vite si le bassin reste en arriere ou s'il colle vraiment. Refais l'exercice sur une voie 5c+ en salle pendant trois seances.",
+      "body": "Pour t'entraîner à la lolotte, imagine que ton genou est trempé de peinture rouge. À chaque mouvement, ton genou doit toucher le mur et laisser une trace. Tu sentiras très vite si le bassin reste en arrière ou s'il colle vraiment. Refais l'exercice sur une voie 5c+ en salle pendant trois séances.",
       "tone": "astuce"
     },
     {
@@ -51,19 +51,19 @@
     },
     {
       "type": "p",
-      "html": "L'autre technique cle, c'est le <strong>crochet de talon</strong> combine avec une pointe sur le pied oppose. Le talon devient une troisieme main, il accroche une prise franche et tire le bassin vers la paroi. La pointe pousse en obliquite. Tu obtiens une triangulation pied-pied-main qui te décharge énormément. Va voir <a href=\"/blog/crochet-talon-bloc\">le crochet de talon en bloc</a> pour le détail."
+      "html": "L'autre technique clé, c'est le <strong>crochet de talon</strong> combiné avec une pointe sur le pied opposé. Le talon devient une troisième main, il accroche une prise franche et tire le bassin vers la paroi. La pointe pousse en obliquité. Tu obtiens une triangulation pied-pied-main qui te décharge énormément. Va voir <a href=\"/blog/crochet-talon-bloc\">le crochet de talon en bloc</a> pour le détail."
     },
     {
       "type": "p",
-      "html": "En 7a devers de Buoux, j'utilise le talon sur deux mouvements sur cinq. C'est devenu un reflexe : prise ronde a portee, je crochete avant de tirer. Mes blessures aux ischio-jambiers en 2019 viennent d'ailleurs d'un crochet mal positionne. Tu prendras de la souplesse de bassin avant d'abuser de cette technique."
+      "html": "En 7a dévers de Buoux, j'utilise le talon sur deux mouvements sur cinq. C'est devenu un réflexe : prise ronde à portée, je crochète avant de tirer. Mes blessures aux ischio-jambiers en 2019 viennent d'ailleurs d'un crochet mal positionné. Tu prendras de la souplesse de bassin avant d'abuser de cette technique."
     },
     {
       "type": "h2",
-      "text": "Gerer la pompe, vrai enjeu"
+      "text": "Gérer la pompe, vrai enjeu"
     },
     {
       "type": "p",
-      "html": "La pompe en devers vient de l'accumulation de microcontractions dans les avant-bras. Tu peux la repousser en trois leviers. Premierement, le repos bras tendu : entre deux mouvements, tu laisses pendre tout le poids sur un seul bras tendu. Le sang revient en quinze secondes. Deuxiemement, le balancement leger pour relacher l'epaule oppose. Troisiemement, la respiration profonde en quatre temps qui calme la tension générale."
+      "html": "La pompe en dévers vient de l'accumulation de microcontractions dans les avant-bras. Tu peux la repousser en trois leviers. Premièrement, le repos bras tendu : entre deux mouvements, tu laisses pendre tout le poids sur un seul bras tendu. Le sang revient en quinze secondes. Deuxièmement, le balancement léger pour relâcher l'épaule opposé. Troisièmement, la respiration profonde en quatre temps qui calme la tension générale."
     },
     {
       "type": "list",
@@ -71,16 +71,16 @@
       "title": "Trois signes que la pompe t'attaque",
       "items": [
         {
-          "title": "Avant-bras durs et brulants",
-          "body": "La sensation de bois sec dans les avant-bras est le premier signal. A ce stade, il te reste deux ou trois mouvements de qualite avant la chute."
+          "title": "Avant-bras durs et brûlants",
+          "body": "La sensation de bois sec dans les avant-bras est le premier signal. À ce stade, il te reste deux ou trois mouvements de qualité avant la chute."
         },
         {
           "title": "Mains qui s'ouvrent sans le vouloir",
-          "body": "Tu serres la prise mais tes doigts s'ouvrent quand même. Le muscle ne repond plus. Cherche une prise franche en urgence ou redescends."
+          "body": "Tu serres la prise mais tes doigts s'ouvrent quand même. Le muscle ne répond plus. Cherche une prise franche en urgence ou redescends."
         },
         {
-          "title": "Respiration courte et saccadee",
-          "body": "Quand tu commences a haleter, le diaphragme se tend et l'oxygene n'arrive plus. Force-toi a souffler longuement, même dans le mouvement."
+          "title": "Respiration courte et saccadée",
+          "body": "Quand tu commences à haleter, le diaphragme se tend et l'oxygène n'arrive plus. Force-toi à souffler longuement, même dans le mouvement."
         }
       ]
     },
@@ -90,50 +90,50 @@
     },
     {
       "type": "p",
-      "html": "En devers, les pieds ont tendance a partir vers l'arriere quand tu charges trop sur les bras. Tu dois forcer <a href=\"/blog/adherence-pieds-grimpe\">la precision d'adherence des pieds</a> et le contact actif. Le pied gauche pousse pendant que le bras gauche tire la prise, le pied droit accompagne en pointe ouverte. Cette dissociation gauche-droite prend six mois a installer proprement."
+      "html": "En dévers, les pieds ont tendance à partir vers l'arrière quand tu charges trop sur les bras. Tu dois forcer <a href=\"/blog/adherence-pieds-grimpe\">la précision d'adhérence des pieds</a> et le contact actif. Le pied gauche pousse pendant que le bras gauche tire la prise, le pied droit accompagne en pointe ouverte. Cette dissociation gauche-droite prend six mois à installer proprement."
     },
     {
       "type": "p",
-      "html": "Vérifie aussi tes chaussons. Sur du devers serieux, La Sportiva Solution ou Petzl Coorock Slipper offrent une pointe cambree qui accroche les pieds inversees et les volumes. Ils sont moins confortables mais indispensables sur un projet 7a+ surplombant."
+      "html": "Vérifie aussi tes chaussons. Sur du dévers sérieux, La Sportiva Solution ou Petzl Coorock Slipper offrent une pointe cambrée qui accroche les pieds inversées et les volumes. Ils sont moins confortables mais indispensables sur un projet 7a+ surplombant."
     },
     {
       "type": "h2",
-      "text": "Lire un devers avant de partir"
+      "text": "Lire un dévers avant de partir"
     },
     {
       "type": "table",
-      "caption": "Lecture systematique d'une voie en devers",
+      "caption": "Lecture systématique d'une voie en dévers",
       "headers": [
-        "Element a reperer",
+        "Élément à repérer",
         "Pourquoi",
-        "Marge de manoeuvre"
+        "Marge de manœuvre"
       ],
       "rows": [
         [
           "Les repos bras tendu",
-          "Pour respirer et magnesier",
+          "Pour respirer et magnésier",
           "Note 2 ou 3 par voie"
         ],
         [
-          "Les sequences continues",
+          "Les séquences continues",
           "Anticiper la pompe",
-          "Identifier les 3 mouvements cles"
+          "Identifier les 3 mouvements clés"
         ],
         [
           "Les pieds porteurs",
-          "Decharger les bras",
-          "Repere les talons possibles"
+          "Décharger les bras",
+          "Repère les talons possibles"
         ],
         [
           "Le crux mental",
-          "Preparer l'engagement",
+          "Préparer l'engagement",
           "Visualiser le mouvement deux fois"
         ]
       ]
     },
     {
       "type": "p",
-      "html": "<a href=\"/blog/lecture-voie-strategie\">Une bonne lecture de voie</a> au sol te fait gagner 20 pour cent de chances de reussite. Sur une voie a 6c+ de devers, tu peux passer dix minutes au sol a memoriser la sequence. C'est du temps gagne contre la pompe."
+      "html": "<a href=\"/blog/lecture-voie-strategie\">Une bonne lecture de voie</a> au sol te fait gagner 20 pour cent de chances de réussite. Sur une voie à 6c+ de dévers, tu peux passer dix minutes au sol à mémoriser la séquence. C'est du temps gagné contre la pompe."
     },
     {
       "type": "h2",
@@ -141,46 +141,46 @@
     },
     {
       "type": "p",
-      "html": "Le devers fait peur différemment <a href=\"/blog/dalle-escalade-techniques\">des techniques de dalle en escalade</a>. Tu n'as pas peur de glisser, tu as peur de pomper avant le clip suivant. La chute en devers est généralement franche et sans danger, le pendule s'amortit dans l'inclinaison. Apprends a <a href=\"/blog/chuter-en-grimpe-apprentissage\">chuter en confiance</a> avant d'engager dans 7a devers. Ca change tout dans la tête."
+      "html": "Le dévers fait peur différemment <a href=\"/blog/dalle-escalade-techniques\">des techniques de dalle en escalade</a>. Tu n'as pas peur de glisser, tu as peur de pomper avant le clip suivant. La chute en dévers est généralement franche et sans danger, le pendule s'amortit dans l'inclinaison. Apprends à <a href=\"/blog/chuter-en-grimpe-apprentissage\">chuter en confiance</a> avant d'engager dans 7a dévers. Ça change tout dans la tête."
     },
     {
       "type": "quote",
-      "text": "En devers, la prise tient mieux que ton bras. Le probleme n'est jamais la prise, c'est ton placement.",
+      "text": "En dévers, la prise tient mieux que ton bras. Le problème n'est jamais la prise, c'est ton placement.",
       "author": "Antoine",
       "role": "grimpeur en 8a falaise, 7b bloc"
     },
     {
       "type": "h2",
-      "text": "Spots francais pour bosser le devers"
+      "text": "Spots français pour bosser le dévers"
     },
     {
       "type": "p",
-      "html": "Vise <strong>Ceuse</strong> dans les Hautes-Alpes pour la qualite des prises, <strong>Buoux</strong> dans le Vaucluse pour les classiques, le secteur de la Sablette aux Calanques, et Volx pres de Manosque pour les petites cotations en initiation. Pour le bloc indoor, le pan inclinable de Vertical'Art Paris Pigalle reste une reference d'entrainement."
+      "html": "Vise <strong>Céüse</strong> dans les Hautes-Alpes pour la qualité des prises, <strong>Buoux</strong> dans le Vaucluse pour les classiques, le secteur de la Sablette aux Calanques, et Volx près de Manosque pour les petites cotations en initiation. Pour le bloc indoor, le pan inclinable de Vertical'Art Paris Pigalle reste une référence d'entraînement."
     }
   ],
   "faq": [
     {
-      "q": "Pourquoi je pompe si vite en devers même sur 6a ?",
-      "a": "Tu suspens ton poids sur les bras au lieu de coller le bassin. Travaille la lolotte sur un panneau a 30 degres en salle pendant un mois, deux seances par semaine. Tu verras la pompe reculer naturellement sans ajouter de force."
+      "q": "Pourquoi je pompe si vite en dévers même sur 6a ?",
+      "a": "Tu suspens ton poids sur les bras au lieu de coller le bassin. Travaille la lolotte sur un panneau à 30 degrés en salle pendant un mois, deux séances par semaine. Tu verras la pompe reculer naturellement sans ajouter de force."
     },
     {
-      "q": "Faut-il muscler les bras pour grimper le devers ?",
-      "a": "La force d'avant-bras aide en effet, mais elle ne remplace pas la technique de hanche. Beaucoup de grimpeurs forts plafonnent en 7a devers parce qu'ils tirent sans tourner le bassin. Bosse la technique avant la muscu."
+      "q": "Faut-il muscler les bras pour grimper le dévers ?",
+      "a": "La force d'avant-bras aide en effet, mais elle ne remplace pas la technique de hanche. Beaucoup de grimpeurs forts plafonnent en 7a dévers parce qu'ils tirent sans tourner le bassin. Bosse la technique avant la muscu."
     },
     {
       "q": "Quel chausson pour les voies surplombantes ?",
-      "a": "Vise un chausson agressif a pointe cambree comme La Sportiva Solution, Scarpa Drago ou Petzl Coorock Slipper. La cambrure permet d'accrocher les pieds inverses et les volumes. Evite les chaussons plats type Mythos qui sont fait pour la dalle."
+      "a": "Vise un chausson agressif à pointe cambrée comme La Sportiva Solution, Scarpa Drago ou Petzl Coorock Slipper. La cambrure permet d'accrocher les pieds inversés et les volumes. Évite les chaussons plats type Mythos qui sont fait pour la dalle."
     },
     {
-      "q": "Comment se reposer dans un devers ?",
-      "a": "Cherche les prises franches en bac ou trou, laisse un bras pendre completement tendu, magnesie l'autre main, respire en quatre temps. Trois minutes de repos peuvent te rendre une voie entiere. Le bras tendu évite la contraction des muscles flechisseurs."
+      "q": "Comment se reposer dans un dévers ?",
+      "a": "Cherche les prises franches en bac ou trou, laisse un bras pendre complètement tendu, magnésie l'autre main, respire en quatre temps. Trois minutes de repos peuvent te rendre une voie entière. Le bras tendu évite la contraction des muscles fléchisseurs."
     },
     {
-      "q": "Est-ce que le devers se grimpe a tout âgé ?",
-      "a": "Oui mais avec progression. A 50 ans, commence en 5c-6a devers, évite les blocs au-dela de 25 degres les premiers mois. Les epaules et les coudes prennent une charge importante. Travaille le gainage avant tout."
+      "q": "Est-ce que le dévers se grimpe à tout âgé ?",
+      "a": "Oui mais avec progression. À 50 ans, commence en 5c-6a dévers, évite les blocs au-delà de 25 degrés les premiers mois. Les épaules et les coudes prennent une charge importante. Travaille le gainage avant tout."
     }
   ],
-  "cover_alt": "Un grimpeur en short noir et tshirt gris en pleine lolotte sur un devers calcaire ocre, hanche externe collee au mur, talon crochete sur une prise ronde, magnesie blanche aux mains",
+  "cover_alt": "Un grimpeur en short noir et tshirt gris en pleine lolotte sur un dévers calcaire ocre, hanche externe collée au mur, talon crochété sur une prise ronde, magnésie blanche aux mains",
   "internal_links": [
     {
       "slug": "apprendre-escalade-debutant",
@@ -195,17 +195,17 @@
     {
       "slug": "crochet-talon-bloc",
       "anchor": "crochet de talon en bloc",
-      "context": "Application avancee"
+      "context": "Application avancée"
     },
     {
       "slug": "adherence-pieds-grimpe",
-      "anchor": "precision d'adherence des pieds",
+      "anchor": "précision d'adhérence des pieds",
       "context": "Technique transverse"
     },
     {
       "slug": "lecture-voie-strategie",
       "anchor": "lecture de voie",
-      "context": "Preparation strategique"
+      "context": "Préparation stratégique"
     },
     {
       "slug": "chuter-en-grimpe-apprentissage",
@@ -215,7 +215,7 @@
     {
       "slug": "dalle-escalade-techniques",
       "anchor": "techniques de dalle",
-      "context": "Opposition pedagogique"
+      "context": "Opposition pédagogique"
     }
   ],
   "scheduled_at": "2026-07-21T09:00:00+02:00"
